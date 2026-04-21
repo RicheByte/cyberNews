@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-21 19:05 UTC  
+> **Last Updated:** 2026-04-21 20:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **command injection leading** • **aggravated identity theft** • **5 000 workers** • **cve data enrichment** • **threat dwells inside** • **threat actors took** • **ai generated exploits** • **agentic ai product** • **relay nfc data** • **national security risk** • **blackcat ransomware starting** • **aiding blackcat attacks** • **improper authentication vulnerability** • **v6 6 0** • **user experience don't** • **translate machine talk**
+**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **aggravated identity theft** • **5 000 workers** • **threat dwells inside** • **threat actors took** • **ai generated exploits** • **agentic ai product** • **relay nfc data** • **improper authentication vulnerability** • **arbitrary code execution** • **national security risk** • **aiding blackcat attacks** • **user experience don't** • **translate machine talk** • **things iot devices** • **targeting u s**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
 - [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 - [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 - [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
@@ -23,7 +24,6 @@
 - [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
 - [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
 - [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
-- [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Exploits Turn Windows Defender into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
 - [Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk](https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk)
 - [Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool](https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool)
 - [Chinese APT Targets Indian Banks, Korean Policy Circles](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy)
@@ -56,7 +57,6 @@
 - [Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
 - [WhatsApp Leaks User Metadata to Attackers](https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata)
 - [How NIST's Cutback of CVE Handling Impacts Cyber Teams](https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams)
-- [Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing](https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing)
 
 ### Security Week
 

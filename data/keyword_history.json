@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1412,
+      "count": 1413,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -935,7 +935,7 @@
       ]
     },
     "national security risk": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1632,7 +1632,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 296,
+      "count": 297,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1935,7 +1935,7 @@
       ]
     },
     "things iot devices": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1962,7 +1962,8 @@
         "2026-04-08",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-04-21"
       ]
     },
     "cvss scoring system": {
@@ -2803,7 +2804,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2829,7 +2830,8 @@
         "2026-04-12",
         "2026-04-13",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-21"
       ]
     },
     "authenticated remote attacker": {
@@ -10671,7 +10673,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 328,
+      "count": 329,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13620,13 +13622,13 @@
       ]
     },
     "improper authentication vulnerability": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-21"
       ]
     },
     "aggravated identity theft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-21"
       ]
@@ -13650,13 +13652,13 @@
       ]
     },
     "major orgs things": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-21"
       ]
     },
     "threat actors took": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-21"
       ]
@@ -13668,7 +13670,7 @@
       ]
     },
     "relay nfc data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-21"
       ]
@@ -13680,13 +13682,13 @@
       ]
     },
     "user experience don't": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-21"
       ]
     },
     "5 000 workers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-21"
       ]
@@ -13698,7 +13700,7 @@
       ]
     },
     "threat dwells inside": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-21"
       ]
@@ -13710,19 +13712,19 @@
       ]
     },
     "ai generated exploits": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-21"
       ]
     },
     "agentic ai product": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-21"
       ]
     },
     "aiding blackcat attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-21"
       ]
@@ -13734,12 +13736,18 @@
       ]
     },
     "v6 6 0": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-21"
       ]
     },
     "translate machine talk": {
+      "count": 2,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "targeting u s": {
       "count": 1,
       "dates": [
         "2026-04-21"
@@ -13747,17 +13755,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-12 10:34",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "arbitrary code execution",
-        "human scale security",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-12 12:52",
       "articles": 56,
@@ -14845,6 +14842,17 @@
         "twitter whistleblower complaint",
         "sprawling phishing campaign",
         "command injection leading"
+      ]
+    },
+    {
+      "timestamp": "2026-04-21 20:44",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "major orgs things",
+        "v6 6 0",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign"
       ]
     }
   ]

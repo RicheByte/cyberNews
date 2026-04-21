@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-21 19:05",
+  "last_updated": "2026-04-21 20:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "major orgs things",
+    "v6 6 0",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "command injection leading",
     "aggravated identity theft",
     "5 000 workers",
-    "cve data enrichment",
     "threat dwells inside",
     "threat actors took",
     "ai generated exploits",
     "agentic ai product",
     "relay nfc data",
-    "national security risk",
-    "blackcat ransomware starting",
-    "aiding blackcat attacks",
     "improper authentication vulnerability",
-    "v6 6 0",
+    "arbitrary code execution",
+    "national security risk",
+    "aiding blackcat attacks",
     "user experience don't",
-    "translate machine talk"
+    "translate machine talk",
+    "things iot devices",
+    "targeting u s"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 328
+      "mentions": 329
     },
     {
       "keyword": "major orgs things",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "v6 6 0",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1412
+      "mentions": 1413
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 296
-    },
-    {
-      "keyword": "command injection leading",
-      "mentions": 1
+      "mentions": 297
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 3
-    },
-    {
-      "keyword": "cve data enrichment",
-      "mentions": 40
+      "mentions": 4
     },
     {
       "keyword": "threat dwells inside",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "threat actors took",
+      "mentions": 5
+    },
+    {
+      "keyword": "ai generated exploits",
       "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
+      "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
+      "summary": "Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC. According to new research published by Check Point, the command-and-control (C2 or C&C) server linked to SystemBC has led to the discovery of a botnet of more than 1,570 victims. \"SystemBC establishes SOCKS5 network tunnels within",
+      "published": "Tue, 21 Apr 2026 23:48:00 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "Ransomware ×2",
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
@@ -139,21 +151,6 @@
       "value_signals": [
         "CVE mentioned",
         "CISA/KEV ×5",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
-      "link": "https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html",
-      "summary": "A critical security vulnerability has been disclosed in SGLang that, if successfully exploited, could result in remote code execution on susceptible systems. The vulnerability, tracked as CVE-2026-5760, carries a CVSS score of 9.8 out of 10.0. It has been described as a case of command injection leading to the execution of arbitrary code. SGLang is a high-performance, open-source serving",
-      "published": "Mon, 20 Apr 2026 22:44:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "High severity",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -325,6 +322,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Exploits Turn Windows Defender into Attacker Tool",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+      "summary": "Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
+      "published": "Tue, 21 Apr 2026 19:12:40 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
       "summary": "The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
@@ -396,17 +404,6 @@
       "published": "Fri, 17 Apr 2026 19:51:57 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing",
-      "link": "https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing",
-      "summary": "In embracing device code phishing, attackers trick victims into handing over account access by using a service's legitimate new-device login flow.",
-      "published": "Fri, 17 Apr 2026 19:05:51 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Security Week",

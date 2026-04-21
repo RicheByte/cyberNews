@@ -1,75 +1,75 @@
 {
-  "last_updated": "2026-04-21 16:54",
+  "last_updated": "2026-04-21 19:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "major orgs things",
-    "aggravated identity theft",
-    "user experience don't",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "improper authentication vulnerability",
-    "frequent attack vector",
+    "command injection leading",
+    "aggravated identity theft",
     "5 000 workers",
-    "every old vulnerability",
     "cve data enrichment",
     "threat dwells inside",
     "threat actors took",
-    "combining identity device",
     "ai generated exploits",
     "agentic ai product",
+    "relay nfc data",
+    "national security risk",
     "blackcat ransomware starting",
     "aiding blackcat attacks",
-    "relay nfc data",
-    "xl4 xl7 plc"
+    "improper authentication vulnerability",
+    "v6 6 0",
+    "user experience don't",
+    "translate machine talk"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 327
+      "mentions": 328
     },
     {
       "keyword": "major orgs things",
-      "mentions": 3
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 3
-    },
-    {
-      "keyword": "user experience don't",
-      "mentions": 2
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1411
+      "mentions": 1412
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 295
+      "mentions": 296
     },
     {
-      "keyword": "improper authentication vulnerability",
-      "mentions": 5
+      "keyword": "command injection leading",
+      "mentions": 1
     },
     {
-      "keyword": "frequent attack vector",
-      "mentions": 19
+      "keyword": "aggravated identity theft",
+      "mentions": 4
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "every old vulnerability",
+      "keyword": "cve data enrichment",
+      "mentions": 40
+    },
+    {
+      "keyword": "threat dwells inside",
       "mentions": 3
+    },
+    {
+      "keyword": "threat actors took",
+      "mentions": 4
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters",
+      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
       "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
       "summary": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them. The vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
       "published": "Tue, 21 Apr 2026 21:16:00 +0530",
@@ -159,6 +159,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
+      "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
+      "published": "Tue, 21 Apr 2026 14:38:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
       "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
       "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
@@ -226,15 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
       "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
       "published": "Mon, 20 Apr 2026 18:23:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
-      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
-      "summary": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
-      "published": "Mon, 20 Apr 2026 17:52:54 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -325,6 +325,21 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
+      "summary": "The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
+      "published": "Tue, 21 Apr 2026 15:29:17 GMT",
+      "value_score": 80,
+      "value_signals": [
+        "CVE mentioned",
+        "Ransomware",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
       "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
       "summary": "The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
@@ -392,15 +407,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Every Old Vulnerability Is Now an AI Vulnerability",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability",
-      "summary": "AI's danger isn't that it's creating new bugs, it's that it's amplifying old ones.",
-      "published": "Fri, 17 Apr 2026 14:47:18 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -567,112 +573,112 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm). 1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber t",
-      "published": "Mon, 20 Apr 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-",
-      "published": "Mon, 20 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×5",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AVEVA Pipeline Simulation",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Delta Electronics ASDA-Soft",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-202",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Horner Automation Cscape and XL4, XL7 PLC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabilities v3 9.1 Horner Automation Horner Automation Cscape and XL4, XL7 PLC Weak Password Requirements Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwi",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Anviz Multiple Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to conduct reconnaissance, capture or decrypt sensitive data, alter device configurations, gain unauthorized administrative or root‑level access, execute arbitrary code, compromise credentials or communications, and ultimately obtain full control over affected devices. The following versions of Anviz Multiple Products are affected: CX2 Lite Firmware vers:all/* (CVE-2026-32648, CVE-2026-40461, CVE-2026-35682,",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
+      "title": "Silex Technology SD-330AC and AMC Manager",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-10",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code, cause a denial-of-service, or configuration information may be altered without authentication. The following versions of Silex Technology SD-330AC and AMC Manager are affected: SD-330AC <=1.42 (CVE-2026-32955, CVE-2026-32956, CVE-2026-32957, CVE-2026-32958, CVE-2015-5621, CVE-2026-32959, CVE-2026-32960, CVE-2026-32961, CVE-2026-32962, CVE-2024-24487, CVE-2026-32963, CVE-2026-3296",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
       "value_score": 89,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
+        "CVE mentioned ×12",
         "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of kn",
-      "published": "Thu, 16 Apr 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-02",
+      "summary": "View CSAF Summary RUGGEDCOM CROSSBOW Secure Access Manager Primary (SAM-P) contains a vulnerability that could allow an attacker to escalate their own privileges. Siemens has released a new version for RUGGEDCOM CROSSBOW Secure Access Manager Primary (SAM-P) and recommends to update to the latest version. The following versions of Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary are affected: RUGGEDCOM CROSSBOW Secure Access Manager Primary (SAM-P) vers:intdot/<5.8 (CVE-2026-27668) CVSS ",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "value_score": 61,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "CISA/KEV ×6",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens TPM 2.0",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01",
+      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to perform an out-of-bound read, potentially leading to information disclosure or denial of service of the TPM. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends countermeasures for products where fixes are not, or not yet available. The following versions of Siemens TPM 2.0 are aff",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "value_score": 51,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "SenseLive X3050",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to take complete control of the device. The following versions of SenseLive X3050 are affected: X3050 V1.523 (CVE-2026-40630, CVE-2026-25720, CVE-2026-35503, CVE-2026-39462, CVE-2026-27843, CVE-2026-40431, CVE-2026-40623, CVE-2026-27841, CVE-2026-40620, CVE-2026-35064, CVE-2026-25775) CVSS Vendor Equipment Vulnerabilities v3 9.8 SenseLive SenseLive X3050 Authentication Bypass Using an Alternate Path or Cha",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×11",
+        "Auth bypass",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk o",
-      "published": "Tue, 14 Apr 26 12:00:00 +0000",
+      "title": "Siemens Analytics Toolkit",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-04",
+      "summary": "View CSAF Summary Multiple Siemens applications are affected by improper certificate validation in Siemens Analytics Toolkit. This could allow an unauthenticated remote attacker to perform man in the middle attacks. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Analytics Toolkit are affected: Siemens Software Center vers:intdot/<3.5.8.2 (CVE-2025-40745) Simcenter 3D vers:intdot/<2506.6000 (CVE-2025-4",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "value_score": 61,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SCALANCE",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-07",
+      "summary": "View CSAF Summary SCALANCE W-700 IEEE 802.11n family before V6.6.0 are affected by multiple vulnerabilities. Siemens has released a new version for SCALANCE W-700 IEEE 802.11n family and recommends to update to the latest version. The following versions of Siemens SCALANCE are affected: SCALANCE W721-1 RJ45 (6GK5721-1FC00-0AA0) vers:intdot/<6.6.0 (CVE-2020-24588, CVE-2020-26139, CVE-2020-26140, CVE-2020-26141, CVE-2020-26143, CVE-2020-26144, CVE-2020-26146, CVE-2020-26147, CVE-2021-3712, CVE-202",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "value_score": 91,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×9",
+        "Patch/update",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hardy Barth Salia EV Charge Controller",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Hardy Barth Salia EV Charge Controller are affected: Salia Board Firmware <=2.3.81 (CVE-2025-5873, CVE-2025-10371) CVSS Vendor Equipment Vulnerabilities v3 7.3 Hardy Barth Hardy Barth Salia EV Charge Controller Unrestricted Upload of File with Dangerous Type Background Critical Infrastructure Sectors: Ener",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
       "value_score": 100,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned ×2",
         "RCE",
-        "CISA/KEV ×5",
+        "High severity",
         "Multiple CVEs",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SINEC NMS",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03",
+      "summary": "View CSAF Summary Siemens SINEC NMS when used with User Management Component (UMC) contains an authentication bypass vulnerability due to insufficient validation of user identity. This could allow an unauthenticated remote attacker to bypass authentication and gain unauthorized access to the application. Siemens has released a new version for SINEC NMS and recommends to update to the latest version. The following versions of Siemens SINEC NMS are affected: SINEC NMS CVSS Vendor Equipment Vulnera",
+      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "value_score": 58,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Auth bypass",
+        "Patch/update"
       ]
     }
   ],

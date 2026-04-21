@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-21 16:54 UTC  
+> **Last Updated:** 2026-04-21 19:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **aggravated identity theft** • **user experience don't** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **improper authentication vulnerability** • **frequent attack vector** • **5 000 workers** • **every old vulnerability** • **cve data enrichment** • **threat dwells inside** • **threat actors took** • **combining identity device** • **ai generated exploits** • **agentic ai product** • **blackcat ransomware starting** • **aiding blackcat attacks** • **relay nfc data** • **xl4 xl7 plc**
+**iran's intelligence agencies** • **major orgs things** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **command injection leading** • **aggravated identity theft** • **5 000 workers** • **cve data enrichment** • **threat dwells inside** • **threat actors took** • **ai generated exploits** • **agentic ai product** • **relay nfc data** • **national security risk** • **blackcat ransomware starting** • **aiding blackcat attacks** • **improper authentication vulnerability** • **v6 6 0** • **user experience don't** • **translate machine talk**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### The Hacker News
 
-- [22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
+- [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 - [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 - [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
 - [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
 - [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
 - [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
 - [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
 - [KelpDAO suffers $290 million heist tied to Lazarus hackers](https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/)
-- [China's Apple App Store infiltrated by crypto-stealing wallet apps](https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk](https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk)
 - [Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool](https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool)
 - [Chinese APT Targets Indian Banks, Korean Policy Circles](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy)
 - [Vercel Employee's AI Tool Access Led to Data Breach](https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach)
@@ -56,7 +57,6 @@
 - [WhatsApp Leaks User Metadata to Attackers](https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata)
 - [How NIST's Cutback of CVE Handling Impacts Cyber Teams](https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams)
 - [Tycoon 2FA Phishers Scatter, Adopt Device Code Phishing](https://www.darkreading.com/threat-intelligence/tycoon-2fa-hackers-device-code-phishing)
-- [Every Old Vulnerability Is Now an AI Vulnerability](https://www.darkreading.com/vulnerabilities-threats/every-old-vulnerability-ai-vulnerability)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [​​Supply Chain Compromise Impacts Axios Node Package Manager​](https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager)
-- [CISA Adds Eight Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog)
-- [AVEVA Pipeline Simulation](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04)
-- [Delta Electronics ASDA-Soft](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01)
-- [Horner Automation Cscape and XL4, XL7 PLC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02)
-- [Anviz Multiple Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [Silex Technology SD-330AC and AMC Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-10)
+- [Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-02)
+- [Siemens TPM 2.0](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01)
+- [SenseLive X3050](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12)
+- [Siemens Analytics Toolkit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-04)
+- [Siemens SCALANCE](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-07)
+- [Hardy Barth Salia EV Charge Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05)
+- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03)
 
 ---
 

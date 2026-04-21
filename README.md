@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-21 16:54 UTC |
+| 🕐 Last Updated | 2026-04-21 19:05 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `major orgs things` • `aggravated identity theft` • `user experience don't` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `improper authentication vulnerability` • `frequent attack vector` • `5 000 workers` • `every old vulnerability`
+`iran's intelligence agencies` • `major orgs things` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `command injection leading` • `aggravated identity theft` • `5 000 workers` • `cve data enrichment` • `threat dwells inside` • `threat actors took`
 
 ## 📄 Reports
 

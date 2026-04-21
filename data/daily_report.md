@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-21 15:07 UTC  
+> **Last Updated:** 2026-04-21 16:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **aggravated identity theft** • **user experience don't** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **improper authentication vulnerability** • **frequent attack vector** • **5 000 workers** • **every old vulnerability** • **cve data enrichment** • **blackcat ransomware starting** • **threat dwells inside** • **threat actors took** • **combining identity device** • **ai generated exploits** • **agentic ai product** • **s bending trust** • **relay nfc data** • **aiding blackcat attacks**
+**iran's intelligence agencies** • **major orgs things** • **aggravated identity theft** • **user experience don't** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **improper authentication vulnerability** • **frequent attack vector** • **5 000 workers** • **every old vulnerability** • **cve data enrichment** • **threat dwells inside** • **threat actors took** • **combining identity device** • **ai generated exploits** • **agentic ai product** • **blackcat ransomware starting** • **aiding blackcat attacks** • **relay nfc data** • **xl4 xl7 plc**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 - [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 - [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
@@ -23,7 +24,6 @@
 - [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
 - [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 - [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
-- [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
 
 ### BleepingComputer
 
@@ -49,8 +49,8 @@
 
 ### Dark Reading
 
-- [Chinese APT Targets Indian Banks, Korean Policy Circles](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy)
 - [Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool](https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool)
+- [Chinese APT Targets Indian Banks, Korean Policy Circles](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy)
 - [Vercel Employee's AI Tool Access Led to Data Breach](https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach)
 - [Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
 - [WhatsApp Leaks User Metadata to Attackers](https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata)

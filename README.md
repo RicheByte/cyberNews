@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-21 08:02 UTC |
+| 🕐 Last Updated | 2026-04-21 11:01 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`seiko usa website` • `hackers abuse qemu` • `twitter whistleblower complaint` • `iran's intelligence agencies` • `iran war unleashing` • `independent third parties` • `british man believed` • `sophisticated ddos attack` • `least 77 vulnerabilities` • `improper authentication vulnerability`
+`seiko usa website` • `hackers abuse qemu` • `actively exploited flaw` • `twitter whistleblower complaint` • `iran's intelligence agencies` • `iran war unleashing` • `independent third parties` • `cve data enrichment` • `sophisticated ddos attack` • `least 77 vulnerabilities`
 
 ## 📄 Reports
 

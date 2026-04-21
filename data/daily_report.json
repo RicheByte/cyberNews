@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-21 08:02",
+  "last_updated": "2026-04-21 11:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "seiko usa website",
     "hackers abuse qemu",
+    "actively exploited flaw",
     "twitter whistleblower complaint",
     "iran's intelligence agencies",
     "iran war unleashing",
     "independent third parties",
-    "british man believed",
+    "cve data enrichment",
     "sophisticated ddos attack",
     "least 77 vulnerabilities",
     "improper authentication vulnerability",
     "high impact vulnerabilities",
-    "aggravated identity theft",
-    "cve data enrichment",
     "s bending trust",
-    "russia hacked routers",
-    "actively exploited flaw",
-    "related software including",
     "xl4 xl7 plc",
     "trusted download path",
-    "short term renewal"
+    "short term renewal",
+    "shopify customer database",
+    "prompts land cleanly",
+    "least 130 acts",
+    "lasted 24 hours"
   ],
   "trending": [
     {
       "keyword": "seiko usa website",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "hackers abuse qemu",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1407
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 323
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 53
-    },
-    {
-      "keyword": "independent third parties",
-      "mentions": 8
-    },
-    {
-      "keyword": "british man believed",
-      "mentions": 5
-    },
-    {
-      "keyword": "sophisticated ddos attack",
       "mentions": 10
     },
     {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 188
+      "keyword": "actively exploited flaw",
+      "mentions": 12
     },
     {
-      "keyword": "improper authentication vulnerability",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1408
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 324
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 54
+    },
+    {
+      "keyword": "independent third parties",
+      "mentions": 9
+    },
+    {
+      "keyword": "cve data enrichment",
+      "mentions": 36
+    },
+    {
+      "keyword": "sophisticated ddos attack",
+      "mentions": 11
+    },
+    {
+      "keyword": "least 77 vulnerabilities",
+      "mentions": 189
     }
   ],
   "articles": [
@@ -160,6 +160,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
+      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+      "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
+      "published": "Tue, 21 Apr 2026 05:00:00 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
       "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
       "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
@@ -218,24 +238,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "British Scattered Spider hacker pleads guilty to crypto theft charges",
-      "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-pleads-guilty-to-crypto-theft-charges/",
-      "summary": "A British man, believed to be the leader of the Scattered Spider cybercrime collective, has pleaded guilty in the United States to charges of wire fraud and aggravated identity theft. [...]",
-      "published": "Mon, 20 Apr 2026 09:33:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft tests Windows Explorer speed, performance improvements",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-file-explorer-speed-performance-improvements/",
-      "summary": "Microsoft is rolling out multiple File Explorer changes to Windows 11 users in the Insider program, including improvements to launch speed and performance. [...]",
-      "published": "Mon, 20 Apr 2026 08:04:02 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +400,15 @@
     },
     {
       "source": "Security Week",
+      "title": "$290 Million Kelp DAO Crypto Heist Blamed on North Korea",
+      "link": "https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/",
+      "summary": "The hackers targeted LayerZero’s DVN, compromising certain RPCs and DDoSing others to trigger failover to the poisoned infrastructure. The post $290 Million Kelp DAO Crypto Heist Blamed on North Korea appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 10:02:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
       "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
       "summary": "Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios. The post Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking appeared first on SecurityWeek .",
@@ -461,17 +472,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers",
-      "link": "https://www.securityweek.com/hackers-fail-to-exploit-flaw-in-discontinued-tp-link-routers/",
-      "summary": "In-the-wild exploitation has been ongoing for a year, but no successful payload execution has been observed. The post Hackers Fail to Exploit Flaw in Discontinued TP-Link Routers appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 07:50:01 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

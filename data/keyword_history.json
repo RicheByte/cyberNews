@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1407,
+      "count": 1408,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9545,7 +9545,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10668,7 +10668,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 323,
+      "count": 324,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11135,7 +11135,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12961,7 +12961,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13273,7 +13273,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13387,7 +13387,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13467,7 +13467,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13546,21 +13546,21 @@
       ]
     },
     "sophisticated ddos attack": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "hackers abuse qemu": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "independent third parties": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-20",
         "2026-04-21"
@@ -13574,14 +13574,14 @@
       ]
     },
     "trusted download path": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "seiko usa website": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20",
         "2026-04-21"
@@ -13595,28 +13595,28 @@
       ]
     },
     "s bending trust": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "short term renewal": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "shopify customer database": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "improper authentication vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-21"
       ]
@@ -13626,20 +13626,27 @@
       "dates": [
         "2026-04-21"
       ]
+    },
+    "prompts land cleanly": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "least 130 acts": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "lasted 24 hours": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-11 22:26",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-12 02:05",
       "articles": 56,
@@ -14727,6 +14734,17 @@
         "twitter whistleblower complaint",
         "iran's intelligence agencies",
         "iran war unleashing"
+      ]
+    },
+    {
+      "timestamp": "2026-04-21 11:01",
+      "articles": 56,
+      "top_keywords": [
+        "seiko usa website",
+        "hackers abuse qemu",
+        "actively exploited flaw",
+        "twitter whistleblower complaint",
+        "iran's intelligence agencies"
       ]
     }
   ]

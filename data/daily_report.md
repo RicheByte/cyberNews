@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-21 05:59 UTC  
+> **Last Updated:** 2026-04-21 08:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**seiko usa website** • **iran's intelligence agencies** • **hackers abuse qemu** • **intelligence claims grinex** • **twitter whistleblower complaint** • **iran war unleashing** • **independent third parties** • **british man believed** • **sophisticated ddos attack** • **least 77 vulnerabilities** • **high impact vulnerabilities** • **cve data enrichment** • **s bending trust** • **russia hacked routers** • **actively exploited flaw** • **related software including** • **xl4 xl7 plc** • **trusted download path** • **short term renewal** • **shopify customer database**
+**seiko usa website** • **hackers abuse qemu** • **twitter whistleblower complaint** • **iran's intelligence agencies** • **iran war unleashing** • **independent third parties** • **british man believed** • **sophisticated ddos attack** • **least 77 vulnerabilities** • **improper authentication vulnerability** • **high impact vulnerabilities** • **aggravated identity theft** • **cve data enrichment** • **s bending trust** • **russia hacked routers** • **actively exploited flaw** • **related software including** • **xl4 xl7 plc** • **trusted download path** • **short term renewal**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 - [SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files](https://thehackernews.com/2026/04/sglang-cve-2026-5760-cvss-98-enables.html)
 - [⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More](https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html)
 - [Why Most AI Deployments Stall After the Demo](https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html)
@@ -23,7 +24,6 @@
 - [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html)
 - [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html)
 - [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html)
-- [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html)
 
 ### BleepingComputer
 

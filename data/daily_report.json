@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-04-21 05:59",
+  "last_updated": "2026-04-21 08:02",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "seiko usa website",
-    "iran's intelligence agencies",
     "hackers abuse qemu",
-    "intelligence claims grinex",
     "twitter whistleblower complaint",
+    "iran's intelligence agencies",
     "iran war unleashing",
     "independent third parties",
     "british man believed",
     "sophisticated ddos attack",
     "least 77 vulnerabilities",
+    "improper authentication vulnerability",
     "high impact vulnerabilities",
+    "aggravated identity theft",
     "cve data enrichment",
     "s bending trust",
     "russia hacked routers",
@@ -21,52 +22,64 @@
     "related software including",
     "xl4 xl7 plc",
     "trusted download path",
-    "short term renewal",
-    "shopify customer database"
+    "short term renewal"
   ],
   "trending": [
     {
       "keyword": "seiko usa website",
-      "mentions": 4
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 322
+      "mentions": 5
     },
     {
       "keyword": "hackers abuse qemu",
-      "mentions": 8
-    },
-    {
-      "keyword": "intelligence claims grinex",
-      "mentions": 31
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1406
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 52
-    },
-    {
-      "keyword": "independent third parties",
-      "mentions": 7
-    },
-    {
-      "keyword": "british man believed",
-      "mentions": 4
-    },
-    {
-      "keyword": "sophisticated ddos attack",
       "mentions": 9
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1407
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 323
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 53
+    },
+    {
+      "keyword": "independent third parties",
+      "mentions": 8
+    },
+    {
+      "keyword": "british man believed",
+      "mentions": 5
+    },
+    {
+      "keyword": "sophisticated ddos attack",
+      "mentions": 10
+    },
+    {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 187
+      "mentions": 188
+    },
+    {
+      "keyword": "improper authentication vulnerability",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
+      "published": "Tue, 21 Apr 2026 11:53:00 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "SGLang CVE-2026-5760 (CVSS 9.8) Enables RCE via Malicious GGUF Model Files",
@@ -144,15 +157,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims",
-      "link": "https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html",
-      "summary": "Grinex, a Kyrgyzstan-incorporated cryptocurrency exchange sanctioned by the U.K. and the U.S. last year, said it's suspending operations after it blamed Western intelligence agencies for a $13.74 million hack. The exchange said it fell victim to what it described as a large-scale cyber attack that bore hallmarks of foreign intelligence agency involvement. This attack led to the theft of over 1",
-      "published": "Sat, 18 Apr 2026 13:29:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

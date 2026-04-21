@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1406,
+      "count": 1407,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9545,7 +9545,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10668,7 +10668,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 322,
+      "count": 323,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11135,7 +11135,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12961,7 +12961,7 @@
       ]
     },
     "high impact vulnerabilities": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-04-14",
         "2026-04-17",
@@ -13273,7 +13273,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13387,7 +13387,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13467,7 +13467,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13539,70 +13539,70 @@
       ]
     },
     "russia hacked routers": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "sophisticated ddos attack": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "hackers abuse qemu": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "independent third parties": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "related software including": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "trusted download path": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "seiko usa website": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "british man believed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "s bending trust": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "short term renewal": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-20",
         "2026-04-21"
@@ -13614,20 +13614,21 @@
         "2026-04-20",
         "2026-04-21"
       ]
+    },
+    "improper authentication vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "aggravated identity theft": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-11 20:27",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-11 22:26",
       "articles": 56,
@@ -14715,6 +14716,17 @@
         "hackers abuse qemu",
         "intelligence claims grinex",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-21 08:02",
+      "articles": 56,
+      "top_keywords": [
+        "seiko usa website",
+        "hackers abuse qemu",
+        "twitter whistleblower complaint",
+        "iran's intelligence agencies",
+        "iran war unleashing"
       ]
     }
   ]

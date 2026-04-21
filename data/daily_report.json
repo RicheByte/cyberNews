@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-04-21 13:14",
+  "last_updated": "2026-04-21 15:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "seiko usa website",
     "iran's intelligence agencies",
     "major orgs things",
-    "hackers abuse qemu",
-    "frequent attack vector",
+    "aggravated identity theft",
+    "user experience don't",
     "twitter whistleblower complaint",
-    "trusted download path",
-    "threat actors took",
-    "least 77 vulnerabilities",
-    "independent third parties",
-    "improper authentication vulnerability",
-    "every old vulnerability",
-    "s bending trust",
-    "cve data enrichment",
-    "frequent attack vectors",
-    "relay nfc data",
-    "xl4 xl7 plc",
     "sprawling phishing campaign",
-    "shopify customer database",
-    "reliable entry point"
+    "improper authentication vulnerability",
+    "frequent attack vector",
+    "5 000 workers",
+    "every old vulnerability",
+    "cve data enrichment",
+    "blackcat ransomware starting",
+    "threat dwells inside",
+    "threat actors took",
+    "combining identity device",
+    "ai generated exploits",
+    "agentic ai product",
+    "s bending trust",
+    "relay nfc data",
+    "aiding blackcat attacks"
   ],
   "trending": [
     {
-      "keyword": "seiko usa website",
-      "mentions": 7
-    },
-    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 325
+      "mentions": 326
     },
     {
       "keyword": "major orgs things",
+      "mentions": 2
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 2
+    },
+    {
+      "keyword": "user experience don't",
       "mentions": 1
-    },
-    {
-      "keyword": "hackers abuse qemu",
-      "mentions": 11
-    },
-    {
-      "keyword": "frequent attack vector",
-      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1409
+      "mentions": 1410
     },
     {
-      "keyword": "trusted download path",
-      "mentions": 8
+      "keyword": "sprawling phishing campaign",
+      "mentions": 294
     },
     {
-      "keyword": "threat actors took",
+      "keyword": "improper authentication vulnerability",
+      "mentions": 4
+    },
+    {
+      "keyword": "frequent attack vector",
+      "mentions": 18
+    },
+    {
+      "keyword": "5 000 workers",
       "mentions": 1
     },
     {
-      "keyword": "least 77 vulnerabilities",
-      "mentions": 190
-    },
-    {
-      "keyword": "independent third parties",
-      "mentions": 10
+      "keyword": "every old vulnerability",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
+      "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
+      "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023. Angelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms. \"Working as a negotiator on behalf of five different",
+      "published": "Tue, 21 Apr 2026 20:01:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×4"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
+      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
+      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage. The root cause of slow MTTR is almost never \"not enough analysts.\" It is almost always the same structural problem: threat intelligence that exists",
+      "published": "Tue, 21 Apr 2026 18:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
+      "published": "Tue, 21 Apr 2026 18:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
@@ -77,15 +106,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
-      "published": "Tue, 21 Apr 2026 16:10:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -138,25 +158,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Why Most AI Deployments Stall After the Demo",
-      "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-      "summary": "The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI initiatives don't fail because of bad technology. They stall because what worked in the demo doesn't survive contact with real operations. The gap between a",
-      "published": "Mon, 20 Apr 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
+      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
+      "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
+      "published": "Tue, 21 Apr 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "summary": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. \"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
-      "published": "Mon, 20 Apr 2026 16:12:00 +0530",
-      "value_score": 58,
-      "value_signals": [
-        "RCE ×3",
-        "High severity"
-      ]
+      "source": "BleepingComputer",
+      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
+      "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
+      "published": "Tue, 21 Apr 2026 09:49:10 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -222,26 +239,14 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "The Gentlemen ransomware now uses SystemBC for bot-powered attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/the-gentlemen-ransomware-now-uses-systembc-for-bot-powered-attacks/",
-      "summary": "A SystemBC proxy malware botnet of more than 1,570 hosts, believed to be corporate victims, has been discovered following an investigation into a Gentlemen ransomware attack carried out by a gang affiliate. [...]",
-      "published": "Mon, 20 Apr 2026 16:02:37 -0400",
-      "value_score": 56,
+      "source": "Krebs on Security",
+      "title": "‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty",
+      "link": "https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/",
+      "summary": "A 24-year-old British national and senior member of the cybercrime group \"Scattered Spider\" has pleaded guilty to wire fraud conspiracy and aggravated identity theft. Tyler Robert Buchanan admitted his role in a series of text-message phishing attacks in the summer of 2022 that allowed the group to hack into at least a dozen major technology companies and steal tens of millions of dollars worth of cryptocurrency from investors.",
+      "published": "Tue, 21 Apr 2026 14:53:59 +0000",
+      "value_score": 18,
       "value_signals": [
-        "Ransomware ×2",
-        "Botnet"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Seiko USA website defaced as hacker claims customer data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/seiko-usa-website-defaced-as-hacker-claims-customer-data-theft/",
-      "summary": "The Seiko USA website was defaced over the weekend, displaying a message from attackers claiming they stole its Shopify customer database and threatening to leak it unless a ransom is paid. [...]",
-      "published": "Mon, 20 Apr 2026 14:22:31 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
+        "Phishing"
       ]
     },
     {
@@ -319,15 +324,6 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "How AI Assistants are Moving the Security Goalposts",
-      "link": "https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/",
-      "summary": "AI-based assistants or \"agents\" -- autonomous programs that have access to the user's computer, files, online services and can automate virtually any task -- are growing in popularity with developers and IT workers. But as so many eyebrow-raising headlines over the past few weeks have shown, these powerful and assertive new tools are rapidly shifting the security priorities for organizations, while blurring the lines between data and code, trusted co-worker and insider threat, ninja hacker and n",
-      "published": "Sun, 08 Mar 2026 23:35:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
       "source": "Dark Reading",
       "title": "Chinese APT Targets Indian Banks, Korean Policy Circles",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy",
@@ -335,6 +331,18 @@
       "published": "Tue, 21 Apr 2026 12:00:00 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
+      "summary": "The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
+      "published": "Tue, 21 Apr 2026 10:52:04 GMT",
+      "value_score": 38,
+      "value_signals": [
+        "RCE",
+        "High severity"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -395,11 +403,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Coast Guard's New Cybersecurity Rules Offer Lessons for CISOs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/coast-guards-cybersecurity-rules-lessons-cisos",
-      "summary": "The Maritime Transportation Security Act (MTSA) requires plans to protect OT systems, audits by independent third parties, and a hybrid OT-security role.",
-      "published": "Fri, 17 Apr 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Third US Security Expert Admits Helping Ransomware Gang",
+      "link": "https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/",
+      "summary": "Angelo Martino of Florida has pleaded guilty to collaborating with the BlackCat cybercrime group while working as a ransomware negotiator. The post Third US Security Expert Admits Helping Ransomware Gang appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 14:44:24 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Dozens of Malicious Crypto Apps Land in Apple App Store",
+      "link": "https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/",
+      "summary": "Masquerading as popular cryptocurrency wallets, the apps can hijack recovery phrases and private keys. The post Dozens of Malicious Crypto Apps Land in Apple App Store appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 14:05:01 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -462,26 +481,6 @@
       "published": "Mon, 20 Apr 2026 15:42:22 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "British Scattered Spider Hacker Pleads Guilty in the US",
-      "link": "https://www.securityweek.com/british-scattered-spider-hacker-pleads-guilty-in-the-us/",
-      "summary": "Tyler Buchanan admitted in court to hacking into various companies, defrauding them, and stealing cryptocurrency from multiple individuals. The post British Scattered Spider Hacker Pleads Guilty in the US appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 12:21:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Abuse QEMU for Defense Evasion",
-      "link": "https://www.securityweek.com/hackers-abuse-qemu-for-defense-evasion/",
-      "summary": "The machine emulator has been abused in at least two different campaigns distributing ransomware and remote access tools. The post Hackers Abuse QEMU for Defense Evasion appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 11:35:29 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Threatpost",

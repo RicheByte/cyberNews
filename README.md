@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-21 13:14 UTC |
+| 🕐 Last Updated | 2026-04-21 15:07 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`seiko usa website` • `iran's intelligence agencies` • `major orgs things` • `hackers abuse qemu` • `frequent attack vector` • `twitter whistleblower complaint` • `trusted download path` • `threat actors took` • `least 77 vulnerabilities` • `independent third parties`
+`iran's intelligence agencies` • `major orgs things` • `aggravated identity theft` • `user experience don't` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `improper authentication vulnerability` • `frequent attack vector` • `5 000 workers` • `every old vulnerability`
 
 ## 📄 Reports
 

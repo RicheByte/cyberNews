@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-21 20:44 UTC  
+> **Last Updated:** 2026-04-21 22:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **aggravated identity theft** • **5 000 workers** • **threat dwells inside** • **threat actors took** • **ai generated exploits** • **agentic ai product** • **relay nfc data** • **improper authentication vulnerability** • **arbitrary code execution** • **national security risk** • **aiding blackcat attacks** • **user experience don't** • **translate machine talk** • **things iot devices** • **targeting u s**
+**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **aggravated identity theft** • **5 000 workers** • **ai generated exploits** • **agentic ai product** • **relay nfc data** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **improper authentication vulnerability** • **arbitrary code execution** • **national security risk** • **user experience don't** • **translate machine talk** • **things iot devices** • **targeting u s**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 - [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
 - [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
 - [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
@@ -34,7 +35,6 @@
 - [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
 - [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
 - [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
-- [KelpDAO suffers $290 million heist tied to Lazarus hackers](https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
 - [Exploits Turn Windows Defender into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
 - [Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk](https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk)
 - [Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool](https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool)
@@ -56,7 +57,6 @@
 - [Vercel Employee's AI Tool Access Led to Data Breach](https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach)
 - [Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
 - [WhatsApp Leaks User Metadata to Attackers](https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata)
-- [How NIST's Cutback of CVE Handling Impacts Cyber Teams](https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams)
 
 ### Security Week
 

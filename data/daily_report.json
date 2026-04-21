@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-21 20:44",
+  "last_updated": "2026-04-21 22:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,15 +10,15 @@
     "sprawling phishing campaign",
     "aggravated identity theft",
     "5 000 workers",
-    "threat dwells inside",
-    "threat actors took",
     "ai generated exploits",
     "agentic ai product",
     "relay nfc data",
+    "threat dwells inside",
+    "threat actors took",
+    "threat actor claimed",
     "improper authentication vulnerability",
     "arbitrary code execution",
     "national security risk",
-    "aiding blackcat attacks",
     "user experience don't",
     "translate machine talk",
     "things iot devices",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 329
+      "mentions": 330
     },
     {
       "keyword": "major orgs things",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "v6 6 0",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1413
+      "mentions": 1414
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 297
+      "mentions": 298
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 4
-    },
-    {
-      "keyword": "threat dwells inside",
-      "mentions": 4
-    },
-    {
-      "keyword": "threat actors took",
       "mentions": 5
     },
     {
       "keyword": "ai generated exploits",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "agentic ai product",
+      "mentions": 5
+    },
+    {
+      "keyword": "relay nfc data",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "French govt agency confirms breach as hacker offers to sell data",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+      "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
+      "published": "Tue, 21 Apr 2026 17:46:04 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
       "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
       "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
@@ -223,15 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
       "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
       "published": "Tue, 21 Apr 2026 05:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
-      "summary": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
-      "published": "Mon, 20 Apr 2026 18:23:52 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -322,6 +324,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme",
+      "link": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
+      "summary": "A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process, experts noted.",
+      "published": "Tue, 21 Apr 2026 21:12:43 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Exploits Turn Windows Defender into Attacker Tool",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
       "summary": "Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
@@ -393,15 +406,6 @@
       "link": "https://www.darkreading.com/endpoint-security/whatsapp-leaks-user-metadata",
       "summary": "Strangers can infer limited info about you without knowing or messaging you, which could theoretically aid certain kinds of malicious activity.",
       "published": "Mon, 20 Apr 2026 14:33:35 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How NIST's Cutback of CVE Handling Impacts Cyber Teams",
-      "link": "https://www.darkreading.com/threat-intelligence/nist-cutbacks-nvd-handling-impacts-cyber-teams",
-      "summary": "Industry and ad hoc coalitions appear poised to help fill the gap created by NIST's decision to cut back on CVE data enrichment.",
-      "published": "Fri, 17 Apr 2026 19:51:57 GMT",
       "value_score": 10,
       "value_signals": []
     },

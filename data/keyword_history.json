@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1408,
+      "count": 1409,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1631,7 +1631,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 292,
+      "count": 293,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1681,7 +1681,8 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-21"
       ]
     },
     "model agnostic abstractions": {
@@ -7088,11 +7089,12 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-13",
         "2026-02-14",
-        "2026-02-15"
+        "2026-02-15",
+        "2026-04-21"
       ]
     },
     "fake recruiter campaign": {
@@ -9545,7 +9547,7 @@
       ]
     },
     "least 77 vulnerabilities": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -10668,7 +10670,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 324,
+      "count": 325,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11287,12 +11289,13 @@
       ]
     },
     "frequent attack vector": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-26",
         "2026-03-29",
         "2026-03-30",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-21"
       ]
     },
     "things get shaky": {
@@ -13387,7 +13390,7 @@
       ]
     },
     "xl4 xl7 plc": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13467,7 +13470,7 @@
       ]
     },
     "cve data enrichment": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13553,14 +13556,14 @@
       ]
     },
     "hackers abuse qemu": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "independent third parties": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-20",
         "2026-04-21"
@@ -13574,14 +13577,14 @@
       ]
     },
     "trusted download path": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "seiko usa website": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-20",
         "2026-04-21"
@@ -13595,7 +13598,7 @@
       ]
     },
     "s bending trust": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-20",
         "2026-04-21"
@@ -13609,14 +13612,14 @@
       ]
     },
     "shopify customer database": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-20",
         "2026-04-21"
       ]
     },
     "improper authentication vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-21"
       ]
@@ -13644,20 +13647,39 @@
       "dates": [
         "2026-04-21"
       ]
+    },
+    "major orgs things": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "threat actors took": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "every old vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "relay nfc data": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
+    },
+    "reliable entry point": {
+      "count": 1,
+      "dates": [
+        "2026-04-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-12 02:05",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "human scale security",
-        "cryptographically binding authentication",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-12 05:51",
       "articles": 56,
@@ -14745,6 +14767,17 @@
         "actively exploited flaw",
         "twitter whistleblower complaint",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-21 13:14",
+      "articles": 56,
+      "top_keywords": [
+        "seiko usa website",
+        "iran's intelligence agencies",
+        "major orgs things",
+        "hackers abuse qemu",
+        "frequent attack vector"
       ]
     }
   ]

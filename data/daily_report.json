@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-04-21 11:01",
+  "last_updated": "2026-04-21 13:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "seiko usa website",
-    "hackers abuse qemu",
-    "actively exploited flaw",
-    "twitter whistleblower complaint",
     "iran's intelligence agencies",
-    "iran war unleashing",
-    "independent third parties",
-    "cve data enrichment",
-    "sophisticated ddos attack",
-    "least 77 vulnerabilities",
-    "improper authentication vulnerability",
-    "high impact vulnerabilities",
-    "s bending trust",
-    "xl4 xl7 plc",
+    "major orgs things",
+    "hackers abuse qemu",
+    "frequent attack vector",
+    "twitter whistleblower complaint",
     "trusted download path",
-    "short term renewal",
+    "threat actors took",
+    "least 77 vulnerabilities",
+    "independent third parties",
+    "improper authentication vulnerability",
+    "every old vulnerability",
+    "s bending trust",
+    "cve data enrichment",
+    "frequent attack vectors",
+    "relay nfc data",
+    "xl4 xl7 plc",
+    "sprawling phishing campaign",
     "shopify customer database",
-    "prompts land cleanly",
-    "least 130 acts",
-    "lasted 24 hours"
+    "reliable entry point"
   ],
   "trending": [
     {
       "keyword": "seiko usa website",
-      "mentions": 6
-    },
-    {
-      "keyword": "hackers abuse qemu",
-      "mentions": 10
-    },
-    {
-      "keyword": "actively exploited flaw",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1408
+      "mentions": 7
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 324
+      "mentions": 325
     },
     {
-      "keyword": "iran war unleashing",
-      "mentions": 54
+      "keyword": "major orgs things",
+      "mentions": 1
     },
     {
-      "keyword": "independent third parties",
-      "mentions": 9
-    },
-    {
-      "keyword": "cve data enrichment",
-      "mentions": 36
-    },
-    {
-      "keyword": "sophisticated ddos attack",
+      "keyword": "hackers abuse qemu",
       "mentions": 11
     },
     {
+      "keyword": "frequent attack vector",
+      "mentions": 17
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1409
+    },
+    {
+      "keyword": "trusted download path",
+      "mentions": 8
+    },
+    {
+      "keyword": "threat actors took",
+      "mentions": 1
+    },
+    {
       "keyword": "least 77 vulnerabilities",
-      "mentions": 189
+      "mentions": 190
+    },
+    {
+      "keyword": "independent third parties",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
+      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
+      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials. Identity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing",
+      "published": "Tue, 21 Apr 2026 17:00:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
+      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
+      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
+      "published": "Tue, 21 Apr 2026 16:10:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
+      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
+      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict",
+      "published": "Tue, 21 Apr 2026 15:52:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
@@ -128,34 +159,28 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "summary": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
-      "published": "Mon, 20 Apr 2026 13:04:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-      "summary": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. \"The attacker used that access to take over the employee's Vercel Google Workspace account,",
-      "published": "Mon, 20 Apr 2026 09:05:00 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
+      "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
+      "published": "Tue, 21 Apr 2026 08:30:50 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Breach/leak ×2"
+        "Active exploitation ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data",
-      "link": "https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html",
-      "summary": "In 2024, compromised service accounts and forgotten API keys were behind 68% of cloud breaches. Not phishing. Not weak passwords. Unmanaged non-human identities that nobody was watching. For every employee in your org, there are 40 to 50 automated credentials: service accounts, API tokens, AI agent connections, and OAuth grants. When projects end or employees leave, most",
-      "published": "Sat, 18 Apr 2026 13:37:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
+      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
+      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
+      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
+      "value_score": 41,
       "value_signals": [
-        "Phishing"
+        "Active exploitation",
+        "Exploit wording"
       ]
     },
     {
@@ -217,26 +242,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Teams increasingly abused in helpdesk impersonation attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-increasingly-abused-in-helpdesk-impersonation-attacks/",
-      "summary": "Microsoft is warning of threat actors increasingly abusing external Microsoft Teams collaboration and relying on legitimate tools for access and lateral movement on enterprise networks. [...]",
-      "published": "Mon, 20 Apr 2026 11:11:24 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The backup myth that is putting businesses at risk",
-      "link": "https://www.bleepingcomputer.com/news/security/the-backup-myth-that-is-putting-businesses-at-risk/",
-      "summary": "Backups protect data, but don't keep your business running during downtime. Datto shows why BCDR is essential to keep operations running during ransomware and outages. [...]",
-      "published": "Mon, 20 Apr 2026 10:01:11 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {
@@ -324,9 +329,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Chinese APT Targets Indian Banks, Korean Policy Circles",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy",
+      "summary": "China is spying on India's financial sector, for some reason, and it's not putting much effort into it, judging by some stale TTPs.",
+      "published": "Tue, 21 Apr 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vercel Employee's AI Tool Access Led to Data Breach",
       "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
-      "summary": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher noted.",
+      "summary": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher notes.",
       "published": "Mon, 20 Apr 2026 21:01:31 GMT",
       "value_score": 22,
       "value_signals": [
@@ -335,7 +349,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
+      "title": "Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs",
       "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
       "summary": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
       "published": "Mon, 20 Apr 2026 21:00:00 GMT",
@@ -390,11 +404,44 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
-      "summary": "The National Institute of Standards and Technology is carving a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
-      "published": "Thu, 16 Apr 2026 21:47:31 GMT",
+      "source": "Security Week",
+      "title": "Unsecured Perforce Servers Expose Sensitive Data From Major Orgs",
+      "link": "https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/",
+      "summary": "Things are improving, but a researcher has still identified over 1,500 Perforce P4 instances allowing attackers to read files on the server. The post Unsecured Perforce Servers Expose Sensitive Data From Major Orgs appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 12:37:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster",
+      "link": "https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/",
+      "summary": "The security defects could be exploited for remote code execution, OS command injection, and WAF detection bypass. The post Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 12:14:26 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities",
+      "link": "https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/",
+      "summary": "CISA expanded the KEV catalog with eight flaws, but five of them have been flagged as exploited before. The post Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 11:19:45 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000",
+      "link": "https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/",
+      "summary": "Data breaches were disclosed by Southern Illinois Dermatology, Saint Anthony Hospital, and North Texas Behavioral Health Authority. The post Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000 appeared first on SecurityWeek .",
+      "published": "Tue, 21 Apr 2026 11:02:29 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -434,44 +481,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Bluesky Disrupted by Sophisticated DDoS Attack",
-      "link": "https://www.securityweek.com/bluesky-disrupted-by-sophisticated-ddos-attack/",
-      "summary": "A pro-Iran hacker group has taken credit for the attack on Bluesky, which appears to have lasted 24 hours. The post Bluesky Disrupted by Sophisticated DDoS Attack appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 11:06:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House",
-      "link": "https://www.securityweek.com/senate-extends-surveillance-powers-until-april-30-after-chaotic-votes-in-house/",
-      "summary": "The Senate approved a short-term renewal until April 30 of a controversial surveillance program used by U.S. spy agencies. The post Senate Extends Surveillance Powers Until April 30 After Chaotic Votes in House appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 10:32:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Half of the 6 Million Internet-Facing FTP Servers Lack Encryption",
-      "link": "https://www.securityweek.com/half-of-the-6-million-internet-facing-ftp-servers-lack-encryption/",
-      "summary": "The continued use of the half-century-old protocol exposes enterprises and end users to various types of attacks. The post Half of the 6 Million Internet-Facing FTP Servers Lack Encryption appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 09:41:04 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Next.js Creator Vercel Hacked",
-      "link": "https://www.securityweek.com/next-js-creator-vercel-hacked/",
-      "summary": "Vercel confirmed suffering a breach after a hacker claiming to be part of ShinyHunters offered to sell stolen data for $2 million. The post Next.js Creator Vercel Hacked appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 08:30:13 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-22 11:00 UTC |
+| 🕐 Last Updated | 2026-04-22 13:15 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`major orgs things` • `iran's intelligence agencies` • `pins cybersecurity researchers` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `agentic ai product` • `5 000 workers` • `threat dwells inside` • `threat actors took`
+`iran's intelligence agencies` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `remote code execution` • `improve app responsiveness` • `destructive campaign targeting` • `compromise supply chains` • `dubbed lotus wiper` • `cve 2026 5752`
 
 ## 📄 Reports
 

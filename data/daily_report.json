@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-04-22 11:00",
+  "last_updated": "2026-04-22 13:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "major orgs things",
     "iran's intelligence agencies",
-    "pins cybersecurity researchers",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "agentic ai product",
-    "5 000 workers",
-    "threat dwells inside",
-    "threat actors took",
-    "threat actor claimed",
-    "cve 2026 5752",
     "remote code execution",
+    "improve app responsiveness",
+    "destructive campaign targeting",
+    "compromise supply chains",
+    "dubbed lotus wiper",
+    "cve 2026 5752",
     "unauthenticated remote attacker",
-    "aggravated identity theft",
-    "waf detection bypass",
+    "steal auth tokens",
+    "stealing citizen data",
+    "wire fraud conspiracy",
     "v6 6 0",
-    "user experience don't",
     "translate machine talk",
-    "things iot devices"
+    "threat actor claimed",
+    "things iot devices",
+    "systematically deletes files",
+    "stealthy payload delivery"
   ],
   "trending": [
     {
-      "keyword": "major orgs things",
-      "mentions": 11
-    },
-    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 335
-    },
-    {
-      "keyword": "pins cybersecurity researchers",
-      "mentions": 2
+      "mentions": 336
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 202
+      "mentions": 203
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1419
+      "mentions": 1420
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 303
+      "mentions": 304
     },
     {
-      "keyword": "agentic ai product",
-      "mentions": 10
+      "keyword": "remote code execution",
+      "mentions": 266
     },
     {
-      "keyword": "5 000 workers",
-      "mentions": 10
+      "keyword": "improve app responsiveness",
+      "mentions": 1
     },
     {
-      "keyword": "threat dwells inside",
-      "mentions": 10
+      "keyword": "destructive campaign targeting",
+      "mentions": 1
     },
     {
-      "keyword": "threat actors took",
-      "mentions": 11
+      "keyword": "compromise supply chains",
+      "mentions": 1
+    },
+    {
+      "keyword": "dubbed lotus wiper",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 5752",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
+      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector in Venezuela, per findings from Kaspersky. \"Two batch scripts are responsible for initiating the",
+      "published": "Wed, 22 Apr 2026 16:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
+      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
+      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worrying part sat inside the private messages. Some of those conversations held plaintext third-party credentials, including OpenAI API keys shared between agents,",
+      "published": "Wed, 22 Apr 2026 16:11:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
@@ -139,20 +157,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
-      "link": "https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html",
-      "summary": "Security teams often present MTTR as an internal KPI. Leadership sees it differently: every hour a threat dwells inside the environment is an hour of potential data exfiltration, service disruption, regulatory exposure, and brand damage. The root cause of slow MTTR is almost never \"not enough analysts.\" It is almost always the same structural problem: threat intelligence that exists",
-      "published": "Tue, 21 Apr 2026 18:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
+      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
+      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
+      "published": "Wed, 22 Apr 2026 08:57:42 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs",
-      "link": "https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html",
-      "summary": "Cybersecurity researchers have discovered a new iteration of an Android malware family called NGate that has been found to abuse a legitimate application called HandyPay instead of NFCGate. \"The threat actors took the app, which is used to relay NFC data, and patched it with malicious code that appears to have been AI-generated,\" ESET security researcher Lukáš Štefanko said in a",
-      "published": "Tue, 21 Apr 2026 18:15:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
+      "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
+      "published": "Wed, 22 Apr 2026 08:24:38 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -218,24 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
       "summary": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
       "published": "Tue, 21 Apr 2026 14:38:40 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
-      "summary": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
-      "published": "Tue, 21 Apr 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
-      "summary": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
-      "published": "Tue, 21 Apr 2026 09:49:10 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -328,7 +328,7 @@
       "source": "Dark Reading",
       "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme",
       "link": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
-      "summary": "A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process, experts noted.",
+      "summary": "A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process.",
       "published": "Tue, 21 Apr 2026 21:12:43 GMT",
       "value_score": 28,
       "value_signals": [
@@ -337,7 +337,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Exploits Turn Windows Defender into Attacker Tool",
+      "title": "Exploits Turn Windows Defender Into Attacker Tool",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
       "summary": "Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
       "published": "Tue, 21 Apr 2026 19:12:40 GMT",
@@ -363,9 +363,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
+      "title": "Google Fixes Critical RCE Flaw in AI-Based 'Antigravity' Tool",
       "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
-      "summary": "The prompt injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
+      "summary": "The prompt-injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
       "published": "Tue, 21 Apr 2026 15:00:50 GMT",
       "value_score": 38,
       "value_signals": [
@@ -413,6 +413,55 @@
     },
     {
       "source": "Security Week",
+      "title": "Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says",
+      "link": "https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/",
+      "summary": "British businesses need to prepare themselves to defend against cyberattacks because the U.K. could be targeted “at scale,” if it became involved in an international conflict. The post Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 12:57:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention",
+      "link": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
+      "summary": "Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files. The post New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 12:10:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
+      "link": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
+      "summary": "The exploitation of the command injection vulnerability started one year after public disclosure and PoC exploit code publication. The post Mirai Botnet Targets Flaw in Discontinued D-Link Routers appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 11:44:07 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "PoC available",
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
+      "link": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
+      "summary": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 11:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
+      "link": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
+      "summary": "All the flaws could have also been found by an elite human researcher, according to Mozilla. The post Claude Mythos Finds 271 Firefox Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 11:27:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
       "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
       "summary": "The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities. The post North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks appeared first on SecurityWeek .",
@@ -439,59 +488,6 @@
       "published": "Wed, 22 Apr 2026 08:41:10 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Third US Security Expert Admits Helping Ransomware Gang",
-      "link": "https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/",
-      "summary": "Angelo Martino of Florida has pleaded guilty to collaborating with the BlackCat cybercrime group while working as a ransomware negotiator. The post Third US Security Expert Admits Helping Ransomware Gang appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 14:44:24 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dozens of Malicious Crypto Apps Land in Apple App Store",
-      "link": "https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/",
-      "summary": "Masquerading as popular cryptocurrency wallets, the apps can hijack recovery phrases and private keys. The post Dozens of Malicious Crypto Apps Land in Apple App Store appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 14:05:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Unsecured Perforce Servers Expose Sensitive Data From Major Orgs",
-      "link": "https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/",
-      "summary": "Things are improving, but a researcher has still identified over 1,500 Perforce P4 instances allowing attackers to read files on the server. The post Unsecured Perforce Servers Expose Sensitive Data From Major Orgs appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 12:37:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster",
-      "link": "https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/",
-      "summary": "The security defects could be exploited for remote code execution, OS command injection, and WAF detection bypass. The post Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 12:14:26 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/",
-      "summary": "CISA expanded the KEV catalog with eight flaws, but five of them have been flagged as exploited before. The post Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 11:19:45 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },

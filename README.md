@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-22 16:53 UTC |
+| 🕐 Last Updated | 2026-04-22 19:06 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `arbitrary code execution` • `destructive campaign targeting` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `remote code execution` • `ransom payment process` • `improve app responsiveness` • `compromise supply chains` • `altered without authentication`
+`iran's intelligence agencies` • `malicious images pushed` • `arbitrary code execution` • `destructive campaign targeting` • `supply chain worm` • `twitter whistleblower complaint` • `threat actor known` • `stealing developer credentials` • `sprawling phishing campaign` • `remote code execution`
 
 ## 📄 Reports
 

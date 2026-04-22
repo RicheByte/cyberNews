@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-22 13:15 UTC |
+| 🕐 Last Updated | 2026-04-22 15:08 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `remote code execution` • `improve app responsiveness` • `destructive campaign targeting` • `compromise supply chains` • `dubbed lotus wiper` • `cve 2026 5752`
+`iran's intelligence agencies` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `remote code execution` • `ransom payment process` • `improve app responsiveness` • `destructive campaign targeting` • `compromise supply chains` • `altered without authentication`
 
 ## 📄 Reports
 

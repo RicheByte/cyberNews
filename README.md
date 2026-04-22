@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-22 19:06 UTC |
+| 🕐 Last Updated | 2026-04-22 20:49 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `malicious images pushed` • `arbitrary code execution` • `destructive campaign targeting` • `supply chain worm` • `twitter whistleblower complaint` • `threat actor known` • `stealing developer credentials` • `sprawling phishing campaign` • `remote code execution`
+`iran's intelligence agencies` • `malicious images pushed` • `arbitrary code execution` • `threat actor known` • `destructive campaign targeting` • `altered without authentication` • `supply chain worm` • `twitter whistleblower complaint` • `stealing developer credentials` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

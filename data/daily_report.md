@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-22 19:06 UTC  
+> **Last Updated:** 2026-04-22 20:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **malicious images pushed** • **arbitrary code execution** • **destructive campaign targeting** • **supply chain worm** • **twitter whistleblower complaint** • **threat actor known** • **stealing developer credentials** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **improve app responsiveness** • **altered without authentication** • **dubbed lotus wiper** • **compromise supply chains** • **data wiping attack** • **steal auth tokens** • **ddos attack caused** • **attacks targeting venezuela** • **cve 2026 5752**
+**iran's intelligence agencies** • **malicious images pushed** • **arbitrary code execution** • **threat actor known** • **destructive campaign targeting** • **altered without authentication** • **supply chain worm** • **twitter whistleblower complaint** • **stealing developer credentials** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **improve app responsiveness** • **frequent attack vector** • **aggravated identity theft** • **dubbed lotus wiper** • **compromise supply chains** • **data wiping attack** • **steal auth tokens** • **ddos attack caused**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
 - [Kyber ransomware gang toys with post-quantum encryption on Windows](https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/)
 - [Spain dismantles major $4.7M manga piracy platform, arrests four](https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/)
 - [Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process](https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/)
@@ -34,7 +35,6 @@
 - [Microsoft Teams to get efficiency mode on PCs with limited resources](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/)
 - [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
 - [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
-- [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
 
 ### Krebs on Security
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Silex Technology SD-330AC and AMC Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-10)
 - [Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-02)
 - [Siemens TPM 2.0](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01)
@@ -89,7 +90,6 @@
 - [Siemens Analytics Toolkit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-04)
 - [Siemens SCALANCE](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-07)
 - [Hardy Barth Salia EV Charge Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05)
-- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03)
 
 ---
 

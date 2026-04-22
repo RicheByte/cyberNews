@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-22 19:06",
+  "last_updated": "2026-04-22 20:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "malicious images pushed",
     "arbitrary code execution",
+    "threat actor known",
     "destructive campaign targeting",
+    "altered without authentication",
     "supply chain worm",
     "twitter whistleblower complaint",
-    "threat actor known",
     "stealing developer credentials",
     "sprawling phishing campaign",
     "remote code execution",
     "ransom payment process",
     "improve app responsiveness",
-    "altered without authentication",
+    "frequent attack vector",
+    "aggravated identity theft",
     "dubbed lotus wiper",
     "compromise supply chains",
     "data wiping attack",
     "steal auth tokens",
-    "ddos attack caused",
-    "attacks targeting venezuela",
-    "cve 2026 5752"
+    "ddos attack caused"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 339
+      "mentions": 340
     },
     {
       "keyword": "malicious images pushed",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 206
+      "mentions": 207
+    },
+    {
+      "keyword": "threat actor known",
+      "mentions": 22
     },
     {
       "keyword": "destructive campaign targeting",
+      "mentions": 5
+    },
+    {
+      "keyword": "altered without authentication",
       "mentions": 4
     },
     {
       "keyword": "supply chain worm",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1423
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 21
+      "mentions": 1424
     },
     {
       "keyword": "stealing developer credentials",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 307
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 269
+      "mentions": 308
     }
   ],
   "articles": [
@@ -153,6 +153,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
+      "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
+      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Botnet",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Kyber ransomware gang toys with post-quantum encryption on Windows",
       "link": "https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/",
       "summary": "A new Kyber ransomware operation is targeting Windows systems and VMware ESXi endpoints in recent attacks, with one variant implementing Kyber1024 post-quantum encryption. [...]",
@@ -216,19 +230,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-      "published": "Wed, 22 Apr 2026 04:08:16 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update",
-        "High severity ×2"
       ]
     },
     {
@@ -566,6 +567,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
+      "published": "Wed, 22 Apr 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Silex Technology SD-330AC and AMC Manager",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-10",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute arbitrary code, cause a denial-of-service, or configuration information may be altered without authentication. The following versions of Silex Technology SD-330AC and AMC Manager are affected: SD-330AC <=1.42 (CVE-2026-32955, CVE-2026-32956, CVE-2026-32957, CVE-2026-32958, CVE-2015-5621, CVE-2026-32959, CVE-2026-32960, CVE-2026-32961, CVE-2026-32962, CVE-2024-24487, CVE-2026-32963, CVE-2026-3296",
@@ -659,19 +674,6 @@
         "High severity",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SINEC NMS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03",
-      "summary": "View CSAF Summary Siemens SINEC NMS when used with User Management Component (UMC) contains an authentication bypass vulnerability due to insufficient validation of user identity. This could allow an unauthenticated remote attacker to bypass authentication and gain unauthorized access to the application. Siemens has released a new version for SINEC NMS and recommends to update to the latest version. The following versions of Siemens SINEC NMS are affected: SINEC NMS CVSS Vendor Equipment Vulnera",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "Patch/update"
       ]
     }
   ],

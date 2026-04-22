@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 20:49",
+  "last_updated": "2026-04-22 22:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,55 +15,55 @@
     "sprawling phishing campaign",
     "remote code execution",
     "ransom payment process",
+    "older internet routers",
     "improve app responsiveness",
     "frequent attack vector",
     "aggravated identity theft",
     "dubbed lotus wiper",
     "compromise supply chains",
     "data wiping attack",
-    "steal auth tokens",
-    "ddos attack caused"
+    "steal auth tokens"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 340
+      "mentions": 341
     },
     {
       "keyword": "malicious images pushed",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 207
+      "mentions": 208
     },
     {
       "keyword": "threat actor known",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "destructive campaign targeting",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "altered without authentication",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "supply chain worm",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1424
+      "mentions": 1425
     },
     {
       "keyword": "stealing developer credentials",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 308
+      "mentions": 309
     }
   ],
   "articles": [
@@ -153,6 +153,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Apple fixes iOS bug that retained deleted notification data",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
+      "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
+      "published": "Wed, 22 Apr 2026 16:58:58 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
       "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
       "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
@@ -220,17 +231,6 @@
       "published": "Wed, 22 Apr 2026 06:15:09 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-      "published": "Wed, 22 Apr 2026 06:00:00 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +319,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
+      "link": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
+      "summary": "Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations — and its sophistication.",
+      "published": "Wed, 22 Apr 2026 20:51:55 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview",
       "summary": "A compromised developer's repository serves as a worm-like infection vector to spread remote access Trojans (RATs) and other malware.",
@@ -394,15 +405,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs",
-      "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
-      "summary": "The OT devices that translate machine talk into Internet-speak are riddled with vulnerabilities and more frequently targeted for attacks, researchers say.",
-      "published": "Mon, 20 Apr 2026 21:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

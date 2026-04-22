@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1424,
+      "count": 1425,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -497,7 +497,7 @@
       ]
     },
     "threat actor known": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -655,7 +655,7 @@
       ]
     },
     "remote code execution": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1636,7 +1636,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2813,7 +2813,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 207,
+      "count": 208,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10684,7 +10684,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 340,
+      "count": 341,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11304,7 +11304,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12405,11 +12405,12 @@
       ]
     },
     "older internet routers": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-07",
         "2026-04-08",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-22"
       ]
     },
     "authentication tokens stolen": {
@@ -13642,7 +13643,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-21",
         "2026-04-22"
@@ -13811,31 +13812,31 @@
       ]
     },
     "improve app responsiveness": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22"
       ]
     },
     "destructive campaign targeting": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22"
       ]
     },
     "compromise supply chains": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22"
       ]
     },
     "dubbed lotus wiper": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22"
       ]
     },
     "steal auth tokens": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22"
       ]
@@ -13859,13 +13860,13 @@
       ]
     },
     "ransom payment process": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-22"
       ]
     },
     "altered without authentication": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-22"
       ]
@@ -13877,7 +13878,7 @@
       ]
     },
     "data wiping attack": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-22"
       ]
@@ -13907,36 +13908,25 @@
       ]
     },
     "malicious images pushed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     },
     "supply chain worm": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     },
     "stealing developer credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-13 15:12",
-      "articles": 48,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "popular cpu z",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "human scale security"
-      ]
-    },
     {
       "timestamp": "2026-04-13 16:58",
       "articles": 56,
@@ -15017,6 +15007,17 @@
     },
     {
       "timestamp": "2026-04-22 20:49",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "malicious images pushed",
+        "arbitrary code execution",
+        "threat actor known",
+        "destructive campaign targeting"
+      ]
+    },
+    {
+      "timestamp": "2026-04-22 22:42",
       "articles": 56,
       "top_keywords": [
         "iran's intelligence agencies",

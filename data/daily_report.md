@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-22 20:49 UTC  
+> **Last Updated:** 2026-04-22 22:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **malicious images pushed** • **arbitrary code execution** • **threat actor known** • **destructive campaign targeting** • **altered without authentication** • **supply chain worm** • **twitter whistleblower complaint** • **stealing developer credentials** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **improve app responsiveness** • **frequent attack vector** • **aggravated identity theft** • **dubbed lotus wiper** • **compromise supply chains** • **data wiping attack** • **steal auth tokens** • **ddos attack caused**
+**iran's intelligence agencies** • **malicious images pushed** • **arbitrary code execution** • **threat actor known** • **destructive campaign targeting** • **altered without authentication** • **supply chain worm** • **twitter whistleblower complaint** • **stealing developer credentials** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **older internet routers** • **improve app responsiveness** • **frequent attack vector** • **aggravated identity theft** • **dubbed lotus wiper** • **compromise supply chains** • **data wiping attack** • **steal auth tokens**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Apple fixes iOS bug that retained deleted notification data](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
 - [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
 - [Kyber ransomware gang toys with post-quantum encryption on Windows](https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/)
 - [Spain dismantles major $4.7M manga piracy platform, arrests four](https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/)
@@ -34,7 +35,6 @@
 - [New npm supply-chain attack self-spreads to steal auth tokens](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
 - [Microsoft Teams to get efficiency mode on PCs with limited resources](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/)
 - [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
-- [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['The Gentlemen' Rapidly Rises to Ransomware Prominence](https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware)
 - [DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'](https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview)
 - [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
 - [Exploits Turn Windows Defender Into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
@@ -56,7 +57,6 @@
 - [Google Fixes Critical RCE Flaw in AI-Based 'Antigravity' Tool](https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool)
 - [Chinese APT Targets Indian Banks, Korean Policy Circles](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy)
 - [Vercel Employee's AI Tool Access Led to Data Breach](https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach)
-- [Serial-to-IP Devices Hide Thousands of Old &amp; New Bugs](https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs)
 
 ### Security Week
 

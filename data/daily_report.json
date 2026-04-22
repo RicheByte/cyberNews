@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 05:56",
+  "last_updated": "2026-04-22 07:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,57 +12,57 @@
     "5 000 workers",
     "ai generated exploits",
     "agentic ai product",
-    "relay nfc data",
     "threat dwells inside",
     "threat actors took",
     "threat actor claimed",
-    "improper authentication vulnerability",
     "arbitrary code execution",
     "national security risk",
+    "improper authentication vulnerability",
     "user experience don't",
     "translate machine talk",
     "things iot devices",
-    "targeting u s"
+    "targeting u s",
+    "putting much effort"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 332
+      "mentions": 333
     },
     {
       "keyword": "major orgs things",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "v6 6 0",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1416
+      "mentions": 1417
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 300
+      "mentions": 301
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "ai generated exploits",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "agentic ai product",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "relay nfc data",
+      "keyword": "threat dwells inside",
       "mentions": 8
     }
   ],
@@ -156,6 +156,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
+      "summary": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
+      "published": "Wed, 22 Apr 2026 02:53:02 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "French govt agency confirms breach as hacker offers to sell data",
       "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
       "summary": "France Titres, the government agency in France for issuing and managince administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
@@ -227,15 +239,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
-      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
-      "summary": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
-      "published": "Tue, 21 Apr 2026 05:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

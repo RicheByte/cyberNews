@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-22 05:56 UTC  
+> **Last Updated:** 2026-04-22 07:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **aggravated identity theft** • **5 000 workers** • **ai generated exploits** • **agentic ai product** • **relay nfc data** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **improper authentication vulnerability** • **arbitrary code execution** • **national security risk** • **user experience don't** • **translate machine talk** • **things iot devices** • **targeting u s**
+**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **aggravated identity theft** • **5 000 workers** • **ai generated exploits** • **agentic ai product** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **arbitrary code execution** • **national security risk** • **improper authentication vulnerability** • **user experience don't** • **translate machine talk** • **things iot devices** • **targeting u s** • **putting much effort**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks](https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/)
 - [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 - [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
 - [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
@@ -34,7 +35,6 @@
 - [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
 - [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
 - [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
-- [NGate Android malware uses HandyPay NFC app to steal card data](https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/)
 
 ### Krebs on Security
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-22 05:56 UTC |
+| 🕐 Last Updated | 2026-04-22 07:46 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `major orgs things` • `v6 6 0` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `aggravated identity theft` • `5 000 workers` • `ai generated exploits` • `agentic ai product` • `relay nfc data`
+`iran's intelligence agencies` • `major orgs things` • `v6 6 0` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `aggravated identity theft` • `5 000 workers` • `ai generated exploits` • `agentic ai product` • `threat dwells inside`
 
 ## 📄 Reports
 

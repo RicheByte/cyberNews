@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-22 09:15 UTC |
+| 🕐 Last Updated | 2026-04-22 11:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `major orgs things` • `v6 6 0` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `cvss scoring system` • `aggravated identity theft` • `5 000 workers` • `pins cybersecurity researchers` • `ai generated exploits`
+`major orgs things` • `iran's intelligence agencies` • `pins cybersecurity researchers` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `agentic ai product` • `5 000 workers` • `threat dwells inside` • `threat actors took`
 
 ## 📄 Reports
 

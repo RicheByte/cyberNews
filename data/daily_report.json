@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-04-22 09:15",
+  "last_updated": "2026-04-22 11:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "iran's intelligence agencies",
     "major orgs things",
-    "v6 6 0",
+    "iran's intelligence agencies",
+    "pins cybersecurity researchers",
+    "arbitrary code execution",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "cvss scoring system",
-    "aggravated identity theft",
-    "5 000 workers",
-    "pins cybersecurity researchers",
-    "ai generated exploits",
     "agentic ai product",
+    "5 000 workers",
     "threat dwells inside",
     "threat actors took",
     "threat actor claimed",
-    "national security risk",
-    "arbitrary code execution",
+    "cve 2026 5752",
+    "remote code execution",
+    "unauthenticated remote attacker",
+    "aggravated identity theft",
     "waf detection bypass",
+    "v6 6 0",
     "user experience don't",
     "translate machine talk",
     "things iot devices"
   ],
   "trending": [
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 334
-    },
-    {
       "keyword": "major orgs things",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "v6 6 0",
-      "mentions": 7
+      "keyword": "iran's intelligence agencies",
+      "mentions": 335
+    },
+    {
+      "keyword": "pins cybersecurity researchers",
+      "mentions": 2
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 202
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1418
+      "mentions": 1419
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 302
+      "mentions": 303
     },
     {
-      "keyword": "cvss scoring system",
-      "mentions": 50
-    },
-    {
-      "keyword": "aggravated identity theft",
+      "keyword": "agentic ai product",
       "mentions": 10
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "pins cybersecurity researchers",
-      "mentions": 1
+      "keyword": "threat dwells inside",
+      "mentions": 10
     },
     {
-      "keyword": "ai generated exploits",
-      "mentions": 9
+      "keyword": "threat actors took",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
+      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has been credited with discovering and reporting the flaw. \"Improper verification of cryptographic",
+      "published": "Wed, 22 Apr 2026 14:59:00 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Privilege escalation",
+        "High severity",
+        "Multiple CVEs"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
@@ -143,14 +157,23 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks",
-      "link": "https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html",
-      "summary": "The cybersecurity industry has spent the last several years chasing sophisticated threats like zero-days, supply chain compromises, and AI-generated exploits. However, the most reliable entry point for attackers still hasn't changed: stolen credentials. Identity-based attacks remain a dominant initial access vector in breaches today. Attackers obtain valid credentials through credential stuffing",
-      "published": "Tue, 21 Apr 2026 17:00:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Microsoft traces Universal Print issues to Graph API code change",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
+      "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
+      "published": "Wed, 22 Apr 2026 06:15:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
+      "summary": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
+      "published": "Wed, 22 Apr 2026 06:00:00 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Exploit wording"
+        "Backdoor"
       ]
     },
     {
@@ -215,31 +238,6 @@
       "published": "Tue, 21 Apr 2026 09:49:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags new SD-WAN flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/",
-      "summary": "​CISA has given U.S. government agencies four days to secure their systems against another Catalyst SD-WAN Manager vulnerability it flagged as actively exploited in attacks. [...]",
-      "published": "Tue, 21 Apr 2026 08:30:50 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Actively exploited Apache ActiveMQ flaw impacts 6,400 servers",
-      "link": "https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/",
-      "summary": "Nonprofit security organization Shadowserver found that over 6,400 Apache ActiveMQ servers exposed online are vulnerable to ongoing attacks exploiting a high-severity code injection vulnerability. [...]",
-      "published": "Tue, 21 Apr 2026 07:17:51 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -415,6 +413,26 @@
     },
     {
       "source": "Security Week",
+      "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
+      "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
+      "summary": "The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities. The post North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 10:49:52 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
+      "link": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
+      "summary": "Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware. The post Google Antigravity in Crosshairs of Security Researchers, Cybercriminals appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 09:53:05 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
       "link": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
       "summary": "The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws. The post Oracle Patches 450 Vulnerabilities With April 2026 CPU appeared first on SecurityWeek .",
@@ -476,24 +494,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000",
-      "link": "https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/",
-      "summary": "Data breaches were disclosed by Southern Illinois Dermatology, Saint Anthony Hospital, and North Texas Behavioral Health Authority. The post Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000 appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 11:02:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "$290 Million Kelp DAO Crypto Heist Blamed on North Korea",
-      "link": "https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/",
-      "summary": "The hackers targeted LayerZero’s DVN, compromising certain RPCs and DDoSing others to trigger failover to the poisoned infrastructure. The post $290 Million Kelp DAO Crypto Heist Blamed on North Korea appeared first on SecurityWeek .",
-      "published": "Tue, 21 Apr 2026 10:02:09 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

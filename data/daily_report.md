@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-22 09:15 UTC  
+> **Last Updated:** 2026-04-22 11:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **cvss scoring system** • **aggravated identity theft** • **5 000 workers** • **pins cybersecurity researchers** • **ai generated exploits** • **agentic ai product** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **national security risk** • **arbitrary code execution** • **waf detection bypass** • **user experience don't** • **translate machine talk** • **things iot devices**
+**major orgs things** • **iran's intelligence agencies** • **pins cybersecurity researchers** • **arbitrary code execution** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **agentic ai product** • **5 000 workers** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **cve 2026 5752** • **remote code execution** • **unauthenticated remote attacker** • **aggravated identity theft** • **waf detection bypass** • **v6 6 0** • **user experience don't** • **translate machine talk** • **things iot devices**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
 - [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
 - [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
 - [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
@@ -23,18 +24,17 @@
 - [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 - [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
-- [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
 
 ### BleepingComputer
 
+- [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
+- [New GoGra malware for Linux uses Microsoft Graph API for comms](https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/)
 - [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
 - [Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks](https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/)
 - [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 - [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
 - [Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction](https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/)
 - [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
-- [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
-- [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks](https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/)
+- [Google Antigravity in Crosshairs of Security Researchers, Cybercriminals](https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/)
 - [Oracle Patches 450 Vulnerabilities With April 2026 CPU](https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/)
 - [Third US Security Expert Admits Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/)
 - [Dozens of Malicious Crypto Apps Land in Apple App Store](https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/)
 - [Unsecured Perforce Servers Expose Sensitive Data From Major Orgs](https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/)
 - [Progress Patches Multiple Vulnerabilities in MOVEit WAF, LoadMaster](https://www.securityweek.com/progress-patches-multiple-vulnerabilities-in-moveit-waf-loadmaster/)
 - [Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/)
-- [Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000](https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/)
-- [$290 Million Kelp DAO Crypto Heist Blamed on North Korea](https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/)
 
 ### Threatpost
 

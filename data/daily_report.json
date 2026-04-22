@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-22 07:46",
+  "last_updated": "2026-04-22 09:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,88 @@
     "v6 6 0",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
+    "cvss scoring system",
     "aggravated identity theft",
     "5 000 workers",
+    "pins cybersecurity researchers",
     "ai generated exploits",
     "agentic ai product",
     "threat dwells inside",
     "threat actors took",
     "threat actor claimed",
-    "arbitrary code execution",
     "national security risk",
-    "improper authentication vulnerability",
+    "arbitrary code execution",
+    "waf detection bypass",
     "user experience don't",
     "translate machine talk",
-    "things iot devices",
-    "targeting u s",
-    "putting much effort"
+    "things iot devices"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 333
+      "mentions": 334
     },
     {
       "keyword": "major orgs things",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "v6 6 0",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1417
+      "mentions": 1418
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 301
+      "mentions": 302
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 50
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "pins cybersecurity researchers",
+      "mentions": 1
     },
     {
       "keyword": "ai generated exploits",
-      "mentions": 8
-    },
-    {
-      "keyword": "agentic ai product",
-      "mentions": 8
-    },
-    {
-      "keyword": "threat dwells inside",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
+      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
+      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, and session management, indicating a continued espionage-focused capability set rather than",
+      "published": "Wed, 22 Apr 2026 13:28:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
+      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
+      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system. \"Sandbox escape vulnerability in Terrarium allows arbitrary code execution with root privileges on a host process via JavaScript prototype chain traversal,\" according to",
+      "published": "Wed, 22 Apr 2026 12:46:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
@@ -131,27 +154,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html",
-      "summary": "Cybersecurity researchers have discovered a vulnerability in Google's agentic integrated development environment (IDE), Antigravity, that could be exploited to achieve code execution. The flaw, since patched, combines Antigravity's permitted file-creation capabilities with an insufficient input sanitization in Antigravity's native file-searching tool, find_by_name, to bypass the program's Strict",
-      "published": "Tue, 21 Apr 2026 15:52:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
+      "summary": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
+      "published": "Wed, 22 Apr 2026 04:08:16 -0400",
+      "value_score": 46,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
-      "published": "Tue, 21 Apr 2026 11:53:00 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×5",
-        "Exploit wording"
+        "Privilege escalation",
+        "Patch/update",
+        "High severity ×2"
       ]
     },
     {
@@ -227,17 +239,6 @@
       "value_signals": [
         "Active exploitation",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
-      "summary": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
-      "published": "Tue, 21 Apr 2026 06:12:21 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {
@@ -414,6 +415,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Oracle Patches 450 Vulnerabilities With April 2026 CPU",
+      "link": "https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/",
+      "summary": "The company released 481 new security patches across 28 product families, including over 300 fixes for remotely exploitable, unauthenticated flaws. The post Oracle Patches 450 Vulnerabilities With April 2026 CPU appeared first on SecurityWeek .",
+      "published": "Wed, 22 Apr 2026 08:41:10 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Third US Security Expert Admits Helping Ransomware Gang",
       "link": "https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/",
       "summary": "Angelo Martino of Florida has pleaded guilty to collaborating with the BlackCat cybercrime group while working as a ransomware negotiator. The post Third US Security Expert Admits Helping Ransomware Gang appeared first on SecurityWeek .",
@@ -480,15 +492,6 @@
       "link": "https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/",
       "summary": "The hackers targeted LayerZero’s DVN, compromising certain RPCs and DDoSing others to trigger failover to the poisoned infrastructure. The post $290 Million Kelp DAO Crypto Heist Blamed on North Korea appeared first on SecurityWeek .",
       "published": "Tue, 21 Apr 2026 10:02:09 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking",
-      "link": "https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/",
-      "summary": "Forescout researchers discovered 20 new vulnerabilities in Lantronix and Silex products and described theoretical attack scenarios. The post Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking appeared first on SecurityWeek .",
-      "published": "Mon, 20 Apr 2026 15:42:22 +0000",
       "value_score": 10,
       "value_signals": []
     },

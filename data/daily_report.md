@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-22 07:46 UTC  
+> **Last Updated:** 2026-04-22 09:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **aggravated identity theft** • **5 000 workers** • **ai generated exploits** • **agentic ai product** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **arbitrary code execution** • **national security risk** • **improper authentication vulnerability** • **user experience don't** • **translate machine talk** • **things iot devices** • **targeting u s** • **putting much effort**
+**iran's intelligence agencies** • **major orgs things** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **cvss scoring system** • **aggravated identity theft** • **5 000 workers** • **pins cybersecurity researchers** • **ai generated exploits** • **agentic ai product** • **threat dwells inside** • **threat actors took** • **threat actor claimed** • **national security risk** • **arbitrary code execution** • **waf detection bypass** • **user experience don't** • **translate machine talk** • **things iot devices**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
+- [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
 - [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
 - [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
 - [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 - [5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time](https://thehackernews.com/2026/04/5-places-where-mature-socs-keep-mttr.html)
 - [NGate Campaign Targets Brazil, Trojanizes HandyPay to Steal NFC Data and PINs](https://thehackernews.com/2026/04/ngate-campaign-targets-brazil.html)
 - [No Exploit Needed: How Attackers Walk Through the Front Door via Identity-Based Attacks](https://thehackernews.com/2026/04/no-exploit-needed-how-attackers-walk.html)
-- [Google Patches Antigravity IDE Flaw Enabling Prompt Injection Code Execution](https://thehackernews.com/2026/04/google-patches-antigravity-ide-flaw.html)
-- [CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines](https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html)
 
 ### BleepingComputer
 
+- [Microsoft releases emergency patches for critical ASP.NET flaw](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/)
 - [Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks](https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/)
 - [French govt agency confirms breach as hacker offers to sell data](https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/)
 - [New Lotus data wiper used against Venezuelan energy, utility firms](https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/)
@@ -34,7 +35,6 @@
 - [UK probes Telegram, teen chat sites over CSAM sharing concerns](https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/)
 - [CISA flags new SD-WAN flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-flags-new-sd-wan-flaw-as-actively-exploited-in-attacks/)
 - [Actively exploited Apache ActiveMQ flaw impacts 6,400 servers](https://www.bleepingcomputer.com/news/security/actively-exploited-apache-activemq-flaw-impacts-6-400-servers/)
-- [Former ransomware negotiator pleads guilty to BlackCat attacks](https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Oracle Patches 450 Vulnerabilities With April 2026 CPU](https://www.securityweek.com/oracle-patches-450-vulnerabilities-with-april-2026-cpu/)
 - [Third US Security Expert Admits Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-admits-helping-ransomware-gang/)
 - [Dozens of Malicious Crypto Apps Land in Apple App Store](https://www.securityweek.com/dozens-of-malicious-crypto-apps-land-in-apple-app-store/)
 - [Unsecured Perforce Servers Expose Sensitive Data From Major Orgs](https://www.securityweek.com/unsecured-perforce-servers-expose-sensitive-data-from-major-orgs/)
@@ -67,7 +68,6 @@
 - [Organizations Warned of Exploited Cisco, Kentico, Zimbra Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-cisco-kentico-zimbra-vulnerabilities/)
 - [Data Breaches at Healthcare Organizations in Illinois and Texas Affect 600,000](https://www.securityweek.com/data-breaches-at-healthcare-organizations-in-illinois-and-texas-affect-600000/)
 - [$290 Million Kelp DAO Crypto Heist Blamed on North Korea](https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/)
-- [Serial-to-IP Converter Flaws Expose OT and Healthcare Systems to Hacking](https://www.securityweek.com/serial-to-ip-converter-flaws-expose-ot-and-healthcare-systems-to-hacking/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-22 15:08 UTC  
+> **Last Updated:** 2026-04-22 16:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **arbitrary code execution** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **improve app responsiveness** • **destructive campaign targeting** • **compromise supply chains** • **altered without authentication** • **dubbed lotus wiper** • **ddos attack caused** • **steal auth tokens** • **cve 2026 5752** • **data wiping attack** • **service operations like** • **attacks researchers say** • **wire fraud conspiracy** • **venezuela per findings** • **v6 6 0**
+**iran's intelligence agencies** • **arbitrary code execution** • **destructive campaign targeting** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **improve app responsiveness** • **compromise supply chains** • **altered without authentication** • **130 companies tangled** • **dubbed lotus wiper** • **ddos attack caused** • **attacks targeting venezuela** • **steal auth tokens** • **cve 2026 5752** • **data wiping attack** • **service operations like** • **attacks researchers say** • **wire fraud conspiracy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
 - [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
 - [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
 - [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
@@ -23,7 +24,6 @@
 - [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
 - [SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation](https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html)
 - [22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters](https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html)
-- [Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023](https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html)
 
 ### BleepingComputer
 

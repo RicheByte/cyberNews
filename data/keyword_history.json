@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1421,
+      "count": 1422,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -654,7 +654,7 @@
       ]
     },
     "remote code execution": {
-      "count": 267,
+      "count": 268,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1635,7 +1635,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 305,
+      "count": 306,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2249,7 +2249,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2266,7 +2266,8 @@
         "2026-02-09",
         "2026-02-10",
         "2026-02-24",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-04-22"
       ]
     },
     "corporate data stolen": {
@@ -2811,7 +2812,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 204,
+      "count": 205,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -7842,7 +7843,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10682,7 +10683,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 337,
+      "count": 338,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13802,37 +13803,37 @@
       ]
     },
     "cve 2026 5752": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-22"
       ]
     },
     "improve app responsiveness": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     },
     "destructive campaign targeting": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     },
     "compromise supply chains": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     },
     "dubbed lotus wiper": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
     },
     "steal auth tokens": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-22"
       ]
@@ -13856,37 +13857,37 @@
       ]
     },
     "ransom payment process": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-22"
       ]
     },
     "altered without authentication": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-22"
       ]
     },
     "ddos attack caused": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-22"
       ]
     },
     "data wiping attack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-22"
       ]
     },
     "service operations like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-22"
       ]
     },
     "attacks researchers say": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-22"
       ]
@@ -13896,20 +13897,15 @@
       "dates": [
         "2026-04-22"
       ]
+    },
+    "attacks targeting venezuela": {
+      "count": 1,
+      "dates": [
+        "2026-04-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-13 09:50",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "iran's intelligence agencies",
-        "arbitrary code execution",
-        "human scale security",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-13 11:13",
       "articles": 56,
@@ -14997,6 +14993,17 @@
         "twitter whistleblower complaint",
         "sprawling phishing campaign",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-04-22 16:53",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "arbitrary code execution",
+        "destructive campaign targeting",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign"
       ]
     }
   ]

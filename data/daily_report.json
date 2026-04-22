@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-04-22 15:08",
+  "last_updated": "2026-04-22 16:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "arbitrary code execution",
+    "destructive campaign targeting",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "remote code execution",
     "ransom payment process",
     "improve app responsiveness",
-    "destructive campaign targeting",
     "compromise supply chains",
     "altered without authentication",
+    "130 companies tangled",
     "dubbed lotus wiper",
     "ddos attack caused",
+    "attacks targeting venezuela",
     "steal auth tokens",
     "cve 2026 5752",
     "data wiping attack",
     "service operations like",
     "attacks researchers say",
-    "wire fraud conspiracy",
-    "venezuela per findings",
-    "v6 6 0"
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 337
+      "mentions": 338
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 204
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1421
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 305
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 267
-    },
-    {
-      "keyword": "ransom payment process",
-      "mentions": 1
-    },
-    {
-      "keyword": "improve app responsiveness",
-      "mentions": 2
+      "mentions": 205
     },
     {
       "keyword": "destructive campaign targeting",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1422
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 306
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 268
+    },
+    {
+      "keyword": "ransom payment process",
       "mentions": 2
+    },
+    {
+      "keyword": "improve app responsiveness",
+      "mentions": 3
     },
     {
       "keyword": "compromise supply chains",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "altered without authentication",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API",
+      "link": "https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html",
+      "summary": "The threat actor known as Harvester has been attributed to a new Linux version of its GoGra backdoor deployed as part of attacks likely targeting entities in South Asia. \"The malware uses the legitimate Microsoft Graph API and Outlook mailboxes as a covert command-and-control (C2) channel, allowing it to bypass traditional perimeter network defenses,\" the Symantec and Carbon Black Threat Hunter",
+      "published": "Wed, 22 Apr 2026 20:58:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
@@ -143,17 +154,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ransomware Negotiator Pleads Guilty to Aiding BlackCat Attacks in 2023",
-      "link": "https://thehackernews.com/2026/04/ransomware-negotiator-pleads-guilty-to.html",
-      "summary": "A third individual who was employed as a ransomware negotiator has pleaded guilty to conducting ransomware attacks against U.S. companies in 2023. Angelo Martino, 41, of Land O'Lakes, Florida, teamed up with the operators of the BlackCat ransomware starting in April 2023 to assist the e-crime gang in extracting higher amounts as ransoms. \"Working as a negotiator on behalf of five different",
-      "published": "Tue, 21 Apr 2026 20:01:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×4"
       ]
     },
     {

@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-03-24",
     "2026-03-25",
     "2026-03-26",
     "2026-03-27",
@@ -29,7 +28,8 @@
     "2026-04-19",
     "2026-04-20",
     "2026-04-21",
-    "2026-04-22"
+    "2026-04-22",
+    "2026-04-23"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1425,
+      "count": 1426,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -400,7 +400,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "supposed wayward package": {
@@ -497,7 +498,7 @@
       ]
     },
     "threat actor known": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -505,7 +506,8 @@
         "2026-03-12",
         "2026-03-24",
         "2026-03-25",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "firefox web browser": {
@@ -655,7 +657,7 @@
       ]
     },
     "remote code execution": {
-      "count": 271,
+      "count": 272,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -698,7 +700,8 @@
         "2026-04-18",
         "2026-04-19",
         "2026-04-20",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "attacker remotely control": {
@@ -1636,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 309,
+      "count": 310,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1688,7 +1691,8 @@
         "2026-04-15",
         "2026-04-16",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "model agnostic abstractions": {
@@ -2813,7 +2817,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2841,7 +2845,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "authenticated remote attacker": {
@@ -10684,7 +10689,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 341,
+      "count": 342,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10719,7 +10724,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "missing authentication combined": {
@@ -11304,14 +11310,15 @@
       ]
     },
     "frequent attack vector": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-26",
         "2026-03-29",
         "2026-03-30",
         "2026-04-03",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "things get shaky": {
@@ -12405,12 +12412,13 @@
       ]
     },
     "older internet routers": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-07",
         "2026-04-08",
         "2026-04-20",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "authentication tokens stolen": {
@@ -13643,10 +13651,11 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "prompts land cleanly": {
@@ -13812,33 +13821,38 @@
       ]
     },
     "improve app responsiveness": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "destructive campaign targeting": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "compromise supply chains": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "dubbed lotus wiper": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "steal auth tokens": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "stealing citizen data": {
@@ -13860,15 +13874,17 @@
       ]
     },
     "ransom payment process": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "altered without authentication": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "ddos attack caused": {
@@ -13878,9 +13894,10 @@
       ]
     },
     "data wiping attack": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "service operations like": {
@@ -13908,36 +13925,28 @@
       ]
     },
     "malicious images pushed": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "supply chain worm": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "stealing developer credentials": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-13 16:58",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "popular cpu z",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "human scale security"
-      ]
-    },
     {
       "timestamp": "2026-04-13 19:07",
       "articles": 56,
@@ -15018,6 +15027,17 @@
     },
     {
       "timestamp": "2026-04-22 22:42",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "malicious images pushed",
+        "arbitrary code execution",
+        "threat actor known",
+        "destructive campaign targeting"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 02:08",
       "articles": 56,
       "top_keywords": [
         "iran's intelligence agencies",

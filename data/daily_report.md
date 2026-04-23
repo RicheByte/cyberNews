@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-23 06:02 UTC  
+> **Last Updated:** 2026-04-23 09:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **malicious images pushed** • **arbitrary code execution** • **threat actor known** • **destructive campaign targeting** • **altered without authentication** • **supply chain worm** • **twitter whistleblower complaint** • **stealing developer credentials** • **sprawling phishing campaign** • **remote code execution** • **ransom payment process** • **older internet routers** • **improve app responsiveness** • **frequent attack vector** • **aggravated identity theft** • **dubbed lotus wiper** • **compromise supply chains** • **data wiping attack** • **steal auth tokens**
+**iran's intelligence agencies** • **threat actor known** • **destructive campaign targeting** • **altered without authentication** • **supply chain worm** • **twitter whistleblower complaint** • **stealing developer credentials** • **sprawling phishing campaign** • **ransom payment process** • **older internet routers** • **notification services flaw** • **improve app responsiveness** • **frequent attack vector** • **arbitrary code execution** • **aggravated identity theft** • **dubbed lotus wiper** • **compromise supply chains** • **stored notifications marked** • **steal auth tokens** • **improved data redaction**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
 - [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
 - [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
 - [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
@@ -23,7 +24,6 @@
 - [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
 - [Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug](https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html)
 - [Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles](https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html)
-- [Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape](https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Apple Patches iOS Flaw Allowing Recovery of Deleted Chats](https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/)
+- [Recent Microsoft Defender Vulnerability Exploited as Zero-Day](https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/)
 - [After Bluesky, Mastodon Targeted in DDoS Attack](https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/)
 - [Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says](https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/)
 - [New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention](https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/)
 - [Mirai Botnet Targets Flaw in Discontinued D-Link Routers](https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/)
 - [Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data](https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/)
 - [Claude Mythos Finds 271 Firefox Vulnerabilities](https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/)
-- [North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks](https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/)
-- [Google Antigravity in Crosshairs of Security Researchers, Cybercriminals](https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/)
 
 ### Threatpost
 

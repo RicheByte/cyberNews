@@ -1,11 +1,9 @@
 {
-  "last_updated": "2026-04-23 06:02",
+  "last_updated": "2026-04-23 09:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
-    "malicious images pushed",
-    "arbitrary code execution",
     "threat actor known",
     "destructive campaign targeting",
     "altered without authentication",
@@ -13,60 +11,74 @@
     "twitter whistleblower complaint",
     "stealing developer credentials",
     "sprawling phishing campaign",
-    "remote code execution",
     "ransom payment process",
     "older internet routers",
+    "notification services flaw",
     "improve app responsiveness",
     "frequent attack vector",
+    "arbitrary code execution",
     "aggravated identity theft",
     "dubbed lotus wiper",
     "compromise supply chains",
-    "data wiping attack",
-    "steal auth tokens"
+    "stored notifications marked",
+    "steal auth tokens",
+    "improved data redaction"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 343
-    },
-    {
-      "keyword": "malicious images pushed",
-      "mentions": 5
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 210
+      "mentions": 344
     },
     {
       "keyword": "threat actor known",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "destructive campaign targeting",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "altered without authentication",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "supply chain worm",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1427
+      "mentions": 1428
     },
     {
       "keyword": "stealing developer credentials",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 311
+      "mentions": 312
+    },
+    {
+      "keyword": "ransom payment process",
+      "mentions": 8
+    },
+    {
+      "keyword": "older internet routers",
+      "mentions": 15
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
+      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction. \"Notifications marked for deletion could be unexpectedly retained on the device,\"",
+      "published": "Thu, 23 Apr 2026 13:36:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
@@ -137,18 +149,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cohere AI Terrarium Sandbox Flaw Enables Root Code Execution, Container Escape",
-      "link": "https://thehackernews.com/2026/04/cohere-ai-terrarium-sandbox-flaw.html",
-      "summary": "A critical security vulnerability has been disclosed in a Python-based sandbox called Terrarium that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-5752, is rated 9.3 on the CVSS scoring system. \"Sandbox escape vulnerability in Terrarium allows arbitrary code execution with root privileges on a host process via JavaScript prototype chain traversal,\" according to",
-      "published": "Wed, 22 Apr 2026 12:46:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity"
       ]
     },
     {
@@ -408,6 +408,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Apple Patches iOS Flaw Allowing Recovery of Deleted Chats",
+      "link": "https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/",
+      "summary": "Apple rolled out the security patches for dozens of iPhone and iPad models and generations. The post Apple Patches iOS Flaw Allowing Recovery of Deleted Chats appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 08:50:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Recent Microsoft Defender Vulnerability Exploited as Zero-Day",
+      "link": "https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/",
+      "summary": "The flaw allows attackers to access the SAM database, extract NTLM hashes, and gain System privileges. The post Recent Microsoft Defender Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 08:00:36 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "After Bluesky, Mastodon Targeted in DDoS Attack",
       "link": "https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/",
       "summary": "The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours. The post After Bluesky, Mastodon Targeted in DDoS Attack appeared first on SecurityWeek .",
@@ -463,26 +484,6 @@
       "published": "Wed, 22 Apr 2026 11:27:46 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
-      "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
-      "summary": "The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities. The post North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 10:49:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Antigravity in Crosshairs of Security Researchers, Cybercriminals",
-      "link": "https://www.securityweek.com/google-antigravity-in-crosshairs-of-security-researchers-cybercriminals/",
-      "summary": "Researchers discovered a remote code execution vulnerability and cybercriminals are using its reputation to deliver malware. The post Google Antigravity in Crosshairs of Security Researchers, Cybercriminals appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 09:53:05 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
     },
     {
       "source": "Threatpost",

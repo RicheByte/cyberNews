@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1427,
+      "count": 1428,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -498,7 +498,7 @@
       ]
     },
     "threat actor known": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1639,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 311,
+      "count": 312,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2817,7 +2817,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 210,
+      "count": 211,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10689,7 +10689,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 343,
+      "count": 344,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11310,7 +11310,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12412,7 +12412,7 @@
       ]
     },
     "older internet routers": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13651,7 +13651,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13821,35 +13821,35 @@
       ]
     },
     "improve app responsiveness": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "destructive campaign targeting": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "compromise supply chains": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "dubbed lotus wiper": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "steal auth tokens": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13874,14 +13874,14 @@
       ]
     },
     "ransom payment process": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "altered without authentication": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13932,32 +13932,39 @@
       ]
     },
     "supply chain worm": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "stealing developer credentials": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22",
+        "2026-04-23"
+      ]
+    },
+    "notification services flaw": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "stored notifications marked": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "improved data redaction": {
+      "count": 1,
+      "dates": [
         "2026-04-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-13 20:48",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "service ddos doxing",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "gmail brings end"
-      ]
-    },
     {
       "timestamp": "2026-04-13 22:38",
       "articles": 56,
@@ -15045,6 +15052,17 @@
         "arbitrary code execution",
         "threat actor known",
         "destructive campaign targeting"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 09:22",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "threat actor known",
+        "destructive campaign targeting",
+        "altered without authentication",
+        "supply chain worm"
       ]
     }
   ]

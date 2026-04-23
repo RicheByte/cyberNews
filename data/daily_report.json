@@ -1,23 +1,23 @@
 {
-  "last_updated": "2026-04-23 19:01",
+  "last_updated": "2026-04-23 20:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "iran's intelligence agencies",
     "china nexus hackers",
-    "notification services flaw",
     "helpdesk employees convincing",
     "gain system privileges",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "iran's intelligence agencies",
+    "notification services flaw",
     "full account compromise",
     "feels familiar like",
     "execute various backdoors",
+    "actively exploited flaw",
     "130 companies tangled",
     "staged cloud attack",
     "custom malware suite",
     "joining teams meetings",
-    "actively exploited flaw",
     "frequent attack vector",
     "wire fraud conspiracy",
     "weaponize routine workflows",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "china nexus hackers",
-      "mentions": 4
+      "keyword": "iran's intelligence agencies",
+      "mentions": 350
     },
     {
-      "keyword": "notification services flaw",
-      "mentions": 6
+      "keyword": "china nexus hackers",
+      "mentions": 5
     },
     {
       "keyword": "helpdesk employees convincing",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "gain system privileges",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1433
+      "mentions": 1434
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 317
+      "mentions": 318
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 349
+      "keyword": "notification services flaw",
+      "mentions": 7
     },
     {
       "keyword": "full account compromise",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "feels familiar like",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "execute various backdoors",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -154,6 +154,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "published": "Thu, 23 Apr 2026 15:21:01 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
       "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
       "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
@@ -222,21 +231,6 @@
       "published": "Thu, 23 Apr 2026 08:06:18 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
-      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
-      "published": "Thu, 23 Apr 2026 07:05:57 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Privilege escalation",
-        "Patch/update ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-23 17:14",
+  "last_updated": "2026-04-23 19:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "china nexus hackers",
     "notification services flaw",
+    "helpdesk employees convincing",
     "gain system privileges",
     "twitter whistleblower complaint",
-    "threat actor gave",
     "sprawling phishing campaign",
     "iran's intelligence agencies",
+    "full account compromise",
     "feels familiar like",
     "execute various backdoors",
-    "band security updates",
     "130 companies tangled",
-    "malicious images pushed",
     "staged cloud attack",
-    "harvest sensitive data",
+    "custom malware suite",
+    "joining teams meetings",
+    "actively exploited flaw",
+    "frequent attack vector",
     "wire fraud conspiracy",
     "weaponize routine workflows",
     "tools mostly written",
-    "think password resets",
-    "t join meetings",
-    "ransom payment process"
+    "threat actor gave"
   ],
   "trending": [
     {
       "keyword": "china nexus hackers",
-      "mentions": 3
-    },
-    {
-      "keyword": "notification services flaw",
-      "mentions": 5
-    },
-    {
-      "keyword": "gain system privileges",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1432
-    },
-    {
-      "keyword": "threat actor gave",
-      "mentions": 2
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 316
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 348
-    },
-    {
-      "keyword": "feels familiar like",
-      "mentions": 2
-    },
-    {
-      "keyword": "execute various backdoors",
       "mentions": 4
     },
     {
-      "keyword": "band security updates",
+      "keyword": "notification services flaw",
+      "mentions": 6
+    },
+    {
+      "keyword": "helpdesk employees convincing",
+      "mentions": 1
+    },
+    {
+      "keyword": "gain system privileges",
       "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1433
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 317
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 349
+    },
+    {
+      "keyword": "full account compromise",
+      "mentions": 1
+    },
+    {
+      "keyword": "feels familiar like",
+      "mentions": 3
+    },
+    {
+      "keyword": "execute various backdoors",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
+      "published": "Thu, 23 Apr 2026 23:46:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
@@ -144,13 +153,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain",
-      "link": "https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html",
-      "summary": "Cybersecurity researchers have warned of malicious images pushed to the official \"checkmarx/kics\" Docker Hub repository. In an alert published today, software supply chain security company Socket revealed that unknown threat actors managed to have overwritten existing tags, including v2.1.20 and alpine, while also introducing a new v2.1.21 tag that does not correspond to an official release. The",
-      "published": "Wed, 22 Apr 2026 23:25:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -225,17 +236,6 @@
         "Patch/update ×2",
         "CISA/KEV ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
-      "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
-      "published": "Wed, 22 Apr 2026 16:58:58 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -597,6 +597,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vu",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "RCE",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "FIRESTARTER Backdoor",
       "link": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
       "summary": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a forensic investigation. CISA and the United Kingdom National Cyber Security Centre (NCSC) assess advanced persistent threat (APT) actors are using FIRESTARTER malware for persistence, specifically targeting publicly accessible Cisco Firepower and Secure Firewall devic",
@@ -659,21 +674,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×3",
         "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "SpiceJet Online Booking System",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information. The following versions of SpiceJet Online Booking System are affected: Online Booking System vers:all/* (CVE-2026-6375, CVE-2026-6376) CVSS Vendor Equipment Vulnerabilities v3 7.5 SpiceJet SpiceJet Online Booking System Authorization Bypass Through User-Controlled Key, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation ",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "High severity ×2",
         "Multiple CVEs",
         "Exploit wording"
       ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-23 17:14 UTC  
+> **Last Updated:** 2026-04-23 19:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**china nexus hackers** • **notification services flaw** • **gain system privileges** • **twitter whistleblower complaint** • **threat actor gave** • **sprawling phishing campaign** • **iran's intelligence agencies** • **feels familiar like** • **execute various backdoors** • **band security updates** • **130 companies tangled** • **malicious images pushed** • **staged cloud attack** • **harvest sensitive data** • **wire fraud conspiracy** • **weaponize routine workflows** • **tools mostly written** • **think password resets** • **t join meetings** • **ransom payment process**
+**china nexus hackers** • **notification services flaw** • **helpdesk employees convincing** • **gain system privileges** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **iran's intelligence agencies** • **full account compromise** • **feels familiar like** • **execute various backdoors** • **130 companies tangled** • **staged cloud attack** • **custom malware suite** • **joining teams meetings** • **actively exploited flaw** • **frequent attack vector** • **wire fraud conspiracy** • **weaponize routine workflows** • **tools mostly written** • **threat actor gave**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 - [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 - [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
@@ -23,10 +24,10 @@
 - [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
 - [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
 - [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
-- [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
 
 ### BleepingComputer
 
+- [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
 - [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
 - [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
 - [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
@@ -34,7 +35,6 @@
 - [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
 - [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
 - [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
-- [Apple fixes bug that let the FBI recover deleted Signal messages](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
 
 ### Krebs on Security
 
@@ -84,12 +84,12 @@
 
 - [Carlson Software VASCO-B GNSS Receiver](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02)
 - [Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-05)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [FIRESTARTER Backdoor](https://www.cisa.gov/news-events/analysis-reports/ar26-113a)
 - [Yadea T5 Electric Bicycle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01)
 - [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
 - [Milesight Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03)
 - [Intrado 911 Emergency Gateway (EGW)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-06)
-- [SpiceJet Online Booking System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04)
 
 ---
 

@@ -1,75 +1,95 @@
 {
-  "last_updated": "2026-04-23 09:22",
+  "last_updated": "2026-04-23 11:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "threat actor known",
+    "notification services flaw",
     "destructive campaign targeting",
     "altered without authentication",
+    "staged cloud attack",
     "supply chain worm",
+    "v6 6 0",
     "twitter whistleblower complaint",
     "stealing developer credentials",
     "sprawling phishing campaign",
     "ransom payment process",
     "older internet routers",
-    "notification services flaw",
     "improve app responsiveness",
     "frequent attack vector",
+    "execute various backdoors",
     "arbitrary code execution",
     "aggravated identity theft",
-    "dubbed lotus wiper",
-    "compromise supply chains",
-    "stored notifications marked",
-    "steal auth tokens",
-    "improved data redaction"
+    "take complete control",
+    "dubbed lotus wiper"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 344
+      "mentions": 345
     },
     {
       "keyword": "threat actor known",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "notification services flaw",
+      "mentions": 2
     },
     {
       "keyword": "destructive campaign targeting",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "altered without authentication",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "staged cloud attack",
+      "mentions": 1
     },
     {
       "keyword": "supply chain worm",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "v6 6 0",
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1428
+      "mentions": 1429
     },
     {
       "keyword": "stealing developer credentials",
-      "mentions": 6
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 312
-    },
-    {
-      "keyword": "ransom payment process",
-      "mentions": 8
-    },
-    {
-      "keyword": "older internet routers",
-      "mentions": 15
+      "mentions": 7
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Apple Patches iOS Flaw That Stored Deleted Signal Notifications in FBI Forensic Case",
+      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
+      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
+      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal,\" Slovakian cybersecurity company ESET said in a report shared with The Hacker",
+      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Vercel Finds More Compromised Accounts in Context.ai-Linked Breach",
+      "link": "https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html",
+      "summary": "Vercel on Wednesday revealed that it has identified an additional set of customer accounts that were compromised as part of a security incident that enabled unauthorized access to its internal systems. The company said it made the discovery after expanding its investigation to include an extra set of compromise indicators, alongside a review of requests to the Vercel network and environment",
+      "published": "Thu, 23 Apr 2026 14:10:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
       "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
       "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction. \"Notifications marked for deletion could be unexpectedly retained on the device,\"",
       "published": "Thu, 23 Apr 2026 13:36:00 +0530",
@@ -125,31 +145,6 @@
       "published": "Wed, 22 Apr 2026 16:11:36 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
-      "summary": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has been credited with discovering and reporting the flaw. \"Improper verification of cryptographic",
-      "published": "Wed, 22 Apr 2026 14:59:00 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Privilege escalation",
-        "High severity",
-        "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
-      "link": "https://thehackernews.com/2026/04/mustang-pandas-new-lotuslite-variant.html",
-      "summary": "Cybersecurity researchers have discovered a new variant of a known malware called LOTUSLITE that's distributed via a theme related to India's banking sector. \"The backdoor communicates with a dynamic DNS-based command-and-control server over HTTPS and supports remote shell access, file operations, and session management, indicating a continued espionage-focused capability set rather than",
-      "published": "Wed, 22 Apr 2026 13:28:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -319,6 +314,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Zealot' Shows What AI's Capable of in Staged Cloud Attack",
+      "link": "https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks",
+      "summary": "The proof of concept revealed AI-based attacks unfold too fast for human defenders to respond, and that AI evinced more autonomous behavior than expected.",
+      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
+      "value_score": 20,
+      "value_signals": [
+        "PoC available"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
       "link": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
       "summary": "Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations — and its sophistication.",
@@ -396,14 +402,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Vercel Employee's AI Tool Access Led to Data Breach",
-      "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
-      "summary": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher notes.",
-      "published": "Mon, 20 Apr 2026 21:01:31 GMT",
-      "value_score": 22,
+      "source": "Security Week",
+      "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
+      "link": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
+      "summary": "Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration. The post AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 10:09:40 +0000",
+      "value_score": 26,
       "value_signals": [
-        "Breach/leak"
+        "PoC available",
+        "Exploit wording"
       ]
     },
     {
@@ -473,15 +480,6 @@
       "link": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
       "summary": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek .",
       "published": "Wed, 22 Apr 2026 11:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
-      "link": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
-      "summary": "All the flaws could have also been found by an elite human researcher, according to Mozilla. The post Claude Mythos Finds 271 Firefox Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 11:27:46 +0000",
       "value_score": 10,
       "value_signals": []
     },

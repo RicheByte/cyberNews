@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1428,
+      "count": 1429,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -498,7 +498,7 @@
       ]
     },
     "threat actor known": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1639,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2817,7 +2817,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 211,
+      "count": 212,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10689,7 +10689,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 344,
+      "count": 345,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11310,7 +11310,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12412,7 +12412,7 @@
       ]
     },
     "older internet routers": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13651,7 +13651,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13769,10 +13769,11 @@
       ]
     },
     "v6 6 0": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "translate machine talk": {
@@ -13821,14 +13822,14 @@
       ]
     },
     "improve app responsiveness": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "destructive campaign targeting": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13842,7 +13843,7 @@
       ]
     },
     "dubbed lotus wiper": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13874,14 +13875,14 @@
       ]
     },
     "ransom payment process": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "altered without authentication": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13932,21 +13933,21 @@
       ]
     },
     "supply chain worm": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "stealing developer credentials": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "notification services flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
@@ -13962,20 +13963,27 @@
       "dates": [
         "2026-04-23"
       ]
+    },
+    "staged cloud attack": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "execute various backdoors": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "take complete control": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-13 22:38",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "service ddos doxing",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "harvest cloud credentials"
-      ]
-    },
     {
       "timestamp": "2026-04-14 02:04",
       "articles": 56,
@@ -15063,6 +15071,17 @@
         "destructive campaign targeting",
         "altered without authentication",
         "supply chain worm"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 11:03",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "threat actor known",
+        "notification services flaw",
+        "destructive campaign targeting",
+        "altered without authentication"
       ]
     }
   ]

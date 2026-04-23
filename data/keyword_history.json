@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1430,
+      "count": 1431,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1639,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 314,
+      "count": 315,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2254,7 +2254,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2272,7 +2272,8 @@
         "2026-02-10",
         "2026-02-24",
         "2026-02-25",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "corporate data stolen": {
@@ -3643,11 +3644,12 @@
       ]
     },
     "bypass security controls": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-15",
         "2026-01-20",
-        "2026-01-21"
+        "2026-01-21",
+        "2026-04-23"
       ]
     },
     "four limiting habits": {
@@ -4281,9 +4283,10 @@
       ]
     },
     "authorization bypass vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-21"
+        "2026-01-21",
+        "2026-04-23"
       ]
     },
     "lastpass users targeted": {
@@ -7849,11 +7852,12 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-20",
         "2026-02-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "unfortunately named toolkit": {
@@ -10689,7 +10693,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11310,7 +11314,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12412,7 +12416,7 @@
       ]
     },
     "older internet routers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13301,7 +13305,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13568,7 +13572,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13950,7 +13954,7 @@
       ]
     },
     "notification services flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-23"
       ]
@@ -13968,13 +13972,13 @@
       ]
     },
     "staged cloud attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
     },
     "execute various backdoors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
@@ -13986,13 +13990,13 @@
       ]
     },
     "china nexus hackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
     },
     "band security updates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
@@ -14002,20 +14006,33 @@
       "dates": [
         "2026-04-23"
       ]
+    },
+    "threat actor gave": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "gain system privileges": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "feels familiar like": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "weaponize routine workflows": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-14 05:57",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "service ddos doxing",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "harvest cloud credentials"
-      ]
-    },
     {
       "timestamp": "2026-04-14 07:49",
       "articles": 56,
@@ -15103,6 +15120,17 @@
         "notification services flaw",
         "altered without authentication",
         "staged cloud attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 15:48",
+      "articles": 56,
+      "top_keywords": [
+        "china nexus hackers",
+        "notification services flaw",
+        "twitter whistleblower complaint",
+        "threat actor gave",
+        "sprawling phishing campaign"
       ]
     }
   ]

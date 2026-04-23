@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-23 20:46 UTC  
+> **Last Updated:** 2026-04-23 22:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **china nexus hackers** • **helpdesk employees convincing** • **gain system privileges** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **notification services flaw** • **full account compromise** • **feels familiar like** • **execute various backdoors** • **actively exploited flaw** • **130 companies tangled** • **staged cloud attack** • **custom malware suite** • **joining teams meetings** • **frequent attack vector** • **wire fraud conspiracy** • **weaponize routine workflows** • **tools mostly written** • **threat actor gave**
+**iran's intelligence agencies** • **china nexus hackers** • **server without authentication** • **helpdesk employees convincing** • **gain system privileges** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **notification services flaw** • **full account compromise** • **feels familiar like** • **execute various backdoors** • **130 companies tangled** • **staged cloud attack** • **joining teams meetings** • **frequent attack vector** • **custom malware suite** • **wire fraud conspiracy** • **weaponize routine workflows** • **tools mostly written** • **threat actor gave**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 - [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
 - [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
 - [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
@@ -34,7 +35,6 @@
 - [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
 - [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
 - [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
-- [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
 
 ### Krebs on Security
 

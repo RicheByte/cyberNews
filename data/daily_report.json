@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-04-23 20:46",
+  "last_updated": "2026-04-23 22:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "china nexus hackers",
+    "server without authentication",
     "helpdesk employees convincing",
     "gain system privileges",
     "twitter whistleblower complaint",
@@ -13,12 +14,11 @@
     "full account compromise",
     "feels familiar like",
     "execute various backdoors",
-    "actively exploited flaw",
     "130 companies tangled",
     "staged cloud attack",
-    "custom malware suite",
     "joining teams meetings",
     "frequent attack vector",
+    "custom malware suite",
     "wire fraud conspiracy",
     "weaponize routine workflows",
     "tools mostly written",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 350
+      "mentions": 351
     },
     {
       "keyword": "china nexus hackers",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "server without authentication",
+      "mentions": 1
     },
     {
       "keyword": "helpdesk employees convincing",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "gain system privileges",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1434
+      "mentions": 1435
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 318
+      "mentions": 319
     },
     {
       "keyword": "notification services flaw",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "full account compromise",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "feels familiar like",
-      "mentions": 4
-    },
-    {
-      "keyword": "execute various backdoors",
-      "mentions": 6
+      "mentions": 5
     }
   ],
   "articles": [
@@ -154,6 +154,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
+      "published": "Thu, 23 Apr 2026 17:33:45 -0400",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Bitwarden CLI npm package compromised to steal developer credentials",
       "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
       "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
@@ -220,15 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
       "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
       "published": "Thu, 23 Apr 2026 08:28:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
-      "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
-      "published": "Thu, 23 Apr 2026 08:06:18 -0400",
       "value_score": 10,
       "value_signals": []
     },

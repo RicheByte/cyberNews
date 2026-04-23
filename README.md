@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-23 20:46 UTC |
+| 🕐 Last Updated | 2026-04-23 22:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `china nexus hackers` • `helpdesk employees convincing` • `gain system privileges` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `notification services flaw` • `full account compromise` • `feels familiar like` • `execute various backdoors`
+`iran's intelligence agencies` • `china nexus hackers` • `server without authentication` • `helpdesk employees convincing` • `gain system privileges` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `notification services flaw` • `full account compromise` • `feels familiar like`
 
 ## 📄 Reports
 

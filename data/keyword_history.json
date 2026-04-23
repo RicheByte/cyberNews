@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1434,
+      "count": 1435,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1639,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 318,
+      "count": 319,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2254,7 +2254,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7852,7 +7852,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10693,7 +10693,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 350,
+      "count": 351,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11314,7 +11314,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -13954,7 +13954,7 @@
       ]
     },
     "notification services flaw": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-23"
       ]
@@ -13972,13 +13972,13 @@
       ]
     },
     "staged cloud attack": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-23"
       ]
     },
     "execute various backdoors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-23"
       ]
@@ -13990,7 +13990,7 @@
       ]
     },
     "china nexus hackers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-23"
       ]
@@ -14008,25 +14008,25 @@
       ]
     },
     "threat actor gave": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-23"
       ]
     },
     "gain system privileges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-23"
       ]
     },
     "feels familiar like": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-23"
       ]
     },
     "weaponize routine workflows": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-23"
       ]
@@ -14038,7 +14038,7 @@
       ]
     },
     "tools mostly written": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-23"
       ]
@@ -14056,42 +14056,37 @@
       ]
     },
     "helpdesk employees convincing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
     },
     "full account compromise": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
     },
     "custom malware suite": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
     },
     "joining teams meetings": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "server without authentication": {
+      "count": 1,
       "dates": [
         "2026-04-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-14 13:15",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "recent security incident",
-        "low level environment",
-        "iran's intelligence agencies",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-14 15:09",
       "articles": 56,
@@ -15179,6 +15174,17 @@
         "helpdesk employees convincing",
         "gain system privileges",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 22:38",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "china nexus hackers",
+        "server without authentication",
+        "helpdesk employees convincing",
+        "gain system privileges"
       ]
     }
   ]

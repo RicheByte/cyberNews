@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-23 02:08",
+  "last_updated": "2026-04-23 06:02",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 342
+      "mentions": 343
     },
     {
       "keyword": "malicious images pushed",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 209
+      "mentions": 210
     },
     {
       "keyword": "threat actor known",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "destructive campaign targeting",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "altered without authentication",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "supply chain worm",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1426
+      "mentions": 1427
     },
     {
       "keyword": "stealing developer credentials",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 310
+      "mentions": 311
     }
   ],
   "articles": [
@@ -153,7 +153,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Apple fixes iOS bug that retained deleted notification data",
+      "title": "Apple fixes bug that let the FBI recover deleted Signal messages",
       "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/",
       "summary": "Apple has released out-of-band security updates for iPhone and iPad devices to fix a Notification Services flaw that could allow notifications marked for deletion to remain stored on the device. [...]",
       "published": "Wed, 22 Apr 2026 16:58:58 -0400",

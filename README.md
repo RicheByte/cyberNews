@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-23 11:03 UTC |
+| 🕐 Last Updated | 2026-04-23 13:16 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `threat actor known` • `notification services flaw` • `destructive campaign targeting` • `altered without authentication` • `staged cloud attack` • `supply chain worm` • `v6 6 0` • `twitter whistleblower complaint` • `stealing developer credentials`
+`china nexus hackers` • `threat actor known` • `notification services flaw` • `altered without authentication` • `staged cloud attack` • `v6 6 0` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `ransom payment process` • `iran's intelligence agencies`
 
 ## 📄 Reports
 

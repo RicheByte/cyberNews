@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-23 11:03 UTC  
+> **Last Updated:** 2026-04-23 13:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **threat actor known** • **notification services flaw** • **destructive campaign targeting** • **altered without authentication** • **staged cloud attack** • **supply chain worm** • **v6 6 0** • **twitter whistleblower complaint** • **stealing developer credentials** • **sprawling phishing campaign** • **ransom payment process** • **older internet routers** • **improve app responsiveness** • **frequent attack vector** • **execute various backdoors** • **arbitrary code execution** • **aggravated identity theft** • **take complete control** • **dubbed lotus wiper**
+**china nexus hackers** • **threat actor known** • **notification services flaw** • **altered without authentication** • **staged cloud attack** • **v6 6 0** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **ransom payment process** • **iran's intelligence agencies** • **execute various backdoors** • **aggravated identity theft** • **band security updates** • **frequent attack vector** • **take complete control** • **russia hacked routers** • **older internet routers** • **actively exploited flaw** • **targeting windows systems** • **ddos attack caused**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
+- [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
 - [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
 - [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
 - [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
 - [Malicious KICS Docker Images and VS Code Extensions Hit Checkmarx Supply Chain](https://thehackernews.com/2026/04/malicious-kics-docker-images-and-vs.html)
 - [Self-Propagating Supply Chain Worm Hijacks npm Packages to Steal Developer Tokens](https://thehackernews.com/2026/04/self-propagating-supply-chain-worm.html)
 - [Harvester Deploys Linux GoGra Backdoor in South Asia Using Microsoft Graph API](https://thehackernews.com/2026/04/harvester-deploys-linux-gogra-backdoor.html)
-- [Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack](https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html)
-- [Toxic Combinations: When Cross-App Permissions Stack into Risk](https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html)
 
 ### BleepingComputer
 
+- [UK warns of Chinese hackers using proxy networks to evade detection](https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/)
+- [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
+- [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
 - [Apple fixes bug that let the FBI recover deleted Signal messages](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
 - [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
 - [Kyber ransomware gang toys with post-quantum encryption on Windows](https://www.bleepingcomputer.com/news/security/kyber-ransomware-gang-toys-with-post-quantum-encryption-on-windows/)
 - [Spain dismantles major $4.7M manga piracy platform, arrests four](https://www.bleepingcomputer.com/news/security/spain-dismantles-major-47m-manga-piracy-platform-arrests-four/)
 - [Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process](https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/)
-- [New npm supply-chain attack self-spreads to steal auth tokens](https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/)
-- [Microsoft Teams to get efficiency mode on PCs with limited resources](https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/)
-- [Microsoft traces Universal Print issues to Graph API code change](https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/)
 
 ### Krebs on Security
 
@@ -50,24 +50,24 @@
 ### Dark Reading
 
 - ['Zealot' Shows What AI's Capable of in Staged Cloud Attack](https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks)
+- [Africa Relinquishes Cyberattack Lead to Latin America — For Now](https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks)
 - ['The Gentlemen' Rapidly Rises to Ransomware Prominence](https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware)
 - [DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'](https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview)
+- [Electricity Is a Growing Area of Cyber Risk](https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk)
 - [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
 - [Exploits Turn Windows Defender Into Attacker Tool](https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool)
 - [Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk](https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk)
-- [Google Fixes Critical RCE Flaw in AI-Based 'Antigravity' Tool](https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool)
-- [Chinese APT Targets Indian Banks, Korean Policy Circles](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy)
 
 ### Security Week
 
+- [Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos](https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/)
+- [Rilian Raises $17.5 Million for AI-Native Security Orchestration](https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/)
+- [The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface](https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/)
+- [Luxury Cosmetics Giant Rituals Discloses Data Breach](https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/)
 - [AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers](https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/)
 - [Apple Patches iOS Flaw Allowing Recovery of Deleted Chats](https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/)
 - [Recent Microsoft Defender Vulnerability Exploited as Zero-Day](https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/)
 - [After Bluesky, Mastodon Targeted in DDoS Attack](https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/)
-- [Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says](https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/)
-- [New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention](https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/)
-- [Mirai Botnet Targets Flaw in Discontinued D-Link Routers](https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/)
-- [Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data](https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Silex Technology SD-330AC and AMC Manager](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-10)
 - [Siemens RUGGEDCOM CROSSBOW Secure Access Manager Primary](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-02)
@@ -89,7 +90,6 @@
 - [SenseLive X3050](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12)
 - [Siemens Analytics Toolkit](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-04)
 - [Siemens SCALANCE](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-07)
-- [Hardy Barth Salia EV Charge Controller](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05)
 
 ---
 

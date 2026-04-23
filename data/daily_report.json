@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-04-23 11:03",
+  "last_updated": "2026-04-23 13:16",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "iran's intelligence agencies",
+    "china nexus hackers",
     "threat actor known",
     "notification services flaw",
-    "destructive campaign targeting",
     "altered without authentication",
     "staged cloud attack",
-    "supply chain worm",
     "v6 6 0",
     "twitter whistleblower complaint",
-    "stealing developer credentials",
     "sprawling phishing campaign",
     "ransom payment process",
-    "older internet routers",
-    "improve app responsiveness",
-    "frequent attack vector",
+    "iran's intelligence agencies",
     "execute various backdoors",
-    "arbitrary code execution",
     "aggravated identity theft",
+    "band security updates",
+    "frequent attack vector",
     "take complete control",
-    "dubbed lotus wiper"
+    "russia hacked routers",
+    "older internet routers",
+    "actively exploited flaw",
+    "targeting windows systems",
+    "ddos attack caused"
   ],
   "trending": [
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 345
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 27
-    },
-    {
-      "keyword": "notification services flaw",
-      "mentions": 2
-    },
-    {
-      "keyword": "destructive campaign targeting",
-      "mentions": 10
-    },
-    {
-      "keyword": "altered without authentication",
-      "mentions": 9
-    },
-    {
-      "keyword": "staged cloud attack",
+      "keyword": "china nexus hackers",
       "mentions": 1
     },
     {
-      "keyword": "supply chain worm",
-      "mentions": 7
+      "keyword": "threat actor known",
+      "mentions": 28
+    },
+    {
+      "keyword": "notification services flaw",
+      "mentions": 3
+    },
+    {
+      "keyword": "altered without authentication",
+      "mentions": 10
+    },
+    {
+      "keyword": "staged cloud attack",
+      "mentions": 2
     },
     {
       "keyword": "v6 6 0",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1429
+      "mentions": 1430
     },
     {
-      "keyword": "stealing developer credentials",
-      "mentions": 7
+      "keyword": "sprawling phishing campaign",
+      "mentions": 314
+    },
+    {
+      "keyword": "ransom payment process",
+      "mentions": 10
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 346
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
+      "published": "Thu, 23 Apr 2026 17:33:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can. Mythos Preview, the model that led to Project Glasswing, found",
+      "published": "Thu, 23 Apr 2026 17:00:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
@@ -129,22 +152,37 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Lotus Wiper Malware Targets Venezuelan Energy Systems in Destructive Attack",
-      "link": "https://thehackernews.com/2026/04/lotus-wiper-malware-targets-venezuelan.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented data wiper that has been used in attacks targeting Venezuela at the end of last year and the start of 2026. Dubbed Lotus Wiper, the novel file wiper has been used in a destructive campaign targeting the energy and utilities sector in Venezuela, per findings from Kaspersky. \"Two batch scripts are responsible for initiating the",
-      "published": "Wed, 22 Apr 2026 16:25:00 +0530",
+      "source": "BleepingComputer",
+      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
+      "published": "Thu, 23 Apr 2026 08:28:39 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
-      "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
-      "summary": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worrying part sat inside the private messages. Some of those conversations held plaintext third-party credentials, including OpenAI API keys shared between agents,",
-      "published": "Wed, 22 Apr 2026 16:11:36 +0530",
+      "source": "BleepingComputer",
+      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+      "summary": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
+      "published": "Thu, 23 Apr 2026 08:06:18 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "summary": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+      "published": "Thu, 23 Apr 2026 07:05:57 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "Privilege escalation",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -197,33 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
       "summary": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
       "published": "Wed, 22 Apr 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New npm supply-chain attack self-spreads to steal auth tokens",
-      "link": "https://www.bleepingcomputer.com/news/security/new-npm-supply-chain-attack-self-spreads-to-steal-auth-tokens/",
-      "summary": "A new supply chain attack targeting the Node Package Manager (npm) ecosystem is stealing developer credentials and attempting to spread through packages published from compromised accounts. [...]",
-      "published": "Wed, 22 Apr 2026 08:57:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "summary": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
-      "published": "Wed, 22 Apr 2026 08:24:38 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft traces Universal Print issues to Graph API code change",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "summary": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-      "published": "Wed, 22 Apr 2026 06:15:09 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -325,6 +336,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Africa Relinquishes Cyberattack Lead to Latin America — For Now",
+      "link": "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks",
+      "summary": "The volume of cyberattacks targeting Africa declined in the past year, with weekly attacks down 22%, as attackers seemingly shifted their focus to other regions.",
+      "published": "Thu, 23 Apr 2026 07:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
       "link": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
       "summary": "Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations — and its sophistication.",
@@ -340,6 +360,15 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview",
       "summary": "A compromised developer's repository serves as a worm-like infection vector to spread remote access Trojans (RATs) and other malware.",
       "published": "Wed, 22 Apr 2026 14:48:05 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Electricity Is a Growing Area of Cyber Risk",
+      "link": "https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk",
+      "summary": "IT has long been concerned about ensuring systems receive the right amount of electricity. Cyberattackers are realizing they can manipulate voltage fluctuations for their purposes, too.",
+      "published": "Wed, 22 Apr 2026 14:25:07 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -381,25 +410,44 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Google Fixes Critical RCE Flaw in AI-Based 'Antigravity' Tool",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
-      "summary": "The prompt-injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
-      "published": "Tue, 21 Apr 2026 15:00:50 GMT",
-      "value_score": 38,
+      "source": "Security Week",
+      "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
+      "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
+      "summary": "360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest. The post Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 12:36:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
+      "link": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
+      "summary": "The company will hire new talent and expand operations across the US and other allied countries. The post Rilian Raises $17.5 Million for AI-Native Security Orchestration appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 11:45:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
+      "link": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
+      "summary": "New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust. The post The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 11:06:44 +0000",
+      "value_score": 16,
       "value_signals": [
-        "RCE",
-        "High severity"
+        "Exploit wording"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Chinese APT Targets Indian Banks, Korean Policy Circles",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-indian-banks-korean-policy",
-      "summary": "China is spying on India's financial sector, for some reason, and it's not putting much effort into it, judging by some stale TTPs.",
-      "published": "Tue, 21 Apr 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
+      "link": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
+      "summary": "The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses. The post Luxury Cosmetics Giant Rituals Discloses Data Breach appeared first on SecurityWeek .",
+      "published": "Thu, 23 Apr 2026 11:04:51 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -440,46 +488,6 @@
       "link": "https://www.securityweek.com/after-bluesky-mastodon-targeted-in-ddos-attack/",
       "summary": "The DDoS attack caused a major outage, but Mastodon mitigated it within a few hours. The post After Bluesky, Mastodon Targeted in DDoS Attack appeared first on SecurityWeek .",
       "published": "Wed, 22 Apr 2026 14:26:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says",
-      "link": "https://www.securityweek.com/most-serious-cyberattacks-against-the-uk-now-from-russia-iran-and-china-cyber-chief-says/",
-      "summary": "British businesses need to prepare themselves to defend against cyberattacks because the U.K. could be targeted “at scale,” if it became involved in an international conflict. The post Most Serious Cyberattacks Against the UK Now From Russia, Iran and China, Cyber Chief Says appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 12:57:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention",
-      "link": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
-      "summary": "Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files. The post New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 12:10:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
-      "link": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
-      "summary": "The exploitation of the command injection vulnerability started one year after public disclosure and PoC exploit code publication. The post Mirai Botnet Targets Flaw in Discontinued D-Link Routers appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 11:44:07 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "PoC available",
-        "Botnet ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-      "link": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-      "summary": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek .",
-      "published": "Wed, 22 Apr 2026 11:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -565,6 +573,17 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Defending Against China-Nexus Covert Networks of Compromised Devices",
+      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a",
+      "summary": "Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towards networks of compromised infrastructure, and how to defend against it Summary With support from the UK Cyber League , this advisory has been jointly released by the National Cyber Security Centre (NCSC-UK) and international partners: Australian Signals Directo",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -659,22 +678,6 @@
         "CVE mentioned ×9",
         "Patch/update",
         "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hardy Barth Salia EV Charge Controller",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed; a buffer overflow condition may allow remote code execution. The following versions of Hardy Barth Salia EV Charge Controller are affected: Salia Board Firmware <=2.3.81 (CVE-2025-5873, CVE-2025-10371) CVSS Vendor Equipment Vulnerabilities v3 7.3 Hardy Barth Hardy Barth Salia EV Charge Controller Unrestricted Upload of File with Dangerous Type Background Critical Infrastructure Sectors: Ener",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "RCE",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     }
   ],

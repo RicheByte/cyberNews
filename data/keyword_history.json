@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1429,
+      "count": 1430,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -498,7 +498,7 @@
       ]
     },
     "threat actor known": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1639,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 313,
+      "count": 314,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -10689,7 +10689,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 345,
+      "count": 346,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11310,7 +11310,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12412,7 +12412,7 @@
       ]
     },
     "older internet routers": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13301,12 +13301,13 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-16",
         "2026-04-17",
         "2026-04-20",
-        "2026-04-21"
+        "2026-04-21",
+        "2026-04-23"
       ]
     },
     "nkabuse malware hosted": {
@@ -13567,10 +13568,11 @@
       ]
     },
     "russia hacked routers": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-20",
-        "2026-04-21"
+        "2026-04-21",
+        "2026-04-23"
       ]
     },
     "sophisticated ddos attack": {
@@ -13651,7 +13653,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13769,7 +13771,7 @@
       ]
     },
     "v6 6 0": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13875,23 +13877,24 @@
       ]
     },
     "ransom payment process": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "altered without authentication": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-22",
         "2026-04-23"
       ]
     },
     "ddos attack caused": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-23"
       ]
     },
     "data wiping attack": {
@@ -13947,7 +13950,7 @@
       ]
     },
     "notification services flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
@@ -13965,18 +13968,36 @@
       ]
     },
     "staged cloud attack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
     },
     "execute various backdoors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
     },
     "take complete control": {
+      "count": 2,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "china nexus hackers": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "band security updates": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "targeting windows systems": {
       "count": 1,
       "dates": [
         "2026-04-23"
@@ -13984,17 +14005,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-14 02:04",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "service ddos doxing",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "harvest cloud credentials"
-      ]
-    },
     {
       "timestamp": "2026-04-14 05:57",
       "articles": 56,
@@ -15082,6 +15092,17 @@
         "notification services flaw",
         "destructive campaign targeting",
         "altered without authentication"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 13:16",
+      "articles": 56,
+      "top_keywords": [
+        "china nexus hackers",
+        "threat actor known",
+        "notification services flaw",
+        "altered without authentication",
+        "staged cloud attack"
       ]
     }
   ]

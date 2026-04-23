@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-23 15:48 UTC |
+| 🕐 Last Updated | 2026-04-23 17:14 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`china nexus hackers` • `notification services flaw` • `twitter whistleblower complaint` • `threat actor gave` • `sprawling phishing campaign` • `iran's intelligence agencies` • `gain system privileges` • `feels familiar like` • `execute various backdoors` • `band security updates`
+`china nexus hackers` • `notification services flaw` • `gain system privileges` • `twitter whistleblower complaint` • `threat actor gave` • `sprawling phishing campaign` • `iran's intelligence agencies` • `feels familiar like` • `execute various backdoors` • `band security updates`
 
 ## 📄 Reports
 

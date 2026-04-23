@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-23 15:48",
+  "last_updated": "2026-04-23 17:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "china nexus hackers",
     "notification services flaw",
+    "gain system privileges",
     "twitter whistleblower complaint",
     "threat actor gave",
     "sprawling phishing campaign",
     "iran's intelligence agencies",
-    "gain system privileges",
     "feels familiar like",
     "execute various backdoors",
     "band security updates",
     "130 companies tangled",
-    "authorization bypass vulnerability",
+    "malicious images pushed",
     "staged cloud attack",
-    "russia hacked routers",
-    "older internet routers",
-    "actively exploited flaw",
-    "bypass security controls",
-    "frequent attack vector",
+    "harvest sensitive data",
     "wire fraud conspiracy",
-    "weaponize routine workflows"
+    "weaponize routine workflows",
+    "tools mostly written",
+    "think password resets",
+    "t join meetings",
+    "ransom payment process"
   ],
   "trending": [
     {
       "keyword": "china nexus hackers",
-      "mentions": 2
-    },
-    {
-      "keyword": "notification services flaw",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1431
-    },
-    {
-      "keyword": "threat actor gave",
-      "mentions": 1
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 315
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 347
-    },
-    {
-      "keyword": "gain system privileges",
-      "mentions": 1
-    },
-    {
-      "keyword": "feels familiar like",
-      "mentions": 1
-    },
-    {
-      "keyword": "execute various backdoors",
       "mentions": 3
     },
     {
-      "keyword": "band security updates",
+      "keyword": "notification services flaw",
+      "mentions": 5
+    },
+    {
+      "keyword": "gain system privileges",
       "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1432
+    },
+    {
+      "keyword": "threat actor gave",
+      "mentions": 2
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 316
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 348
+    },
+    {
+      "keyword": "feels familiar like",
+      "mentions": 2
+    },
+    {
+      "keyword": "execute various backdoors",
+      "mentions": 4
+    },
+    {
+      "keyword": "band security updates",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -154,6 +154,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+      "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+      "published": "Thu, 23 Apr 2026 12:05:12 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cosmetics giant Rituals discloses data breach affecting customers",
       "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
       "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
@@ -225,20 +236,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Mirai campaign exploits RCE flaw in EoL D-Link routers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/",
-      "summary": "A new Mirai-based malware campaign is actively exploiting CVE-2025-29635, a high-severity command-injection vulnerability affecting D-Link DIR-823X routers, to enlist devices into the botnet. [...]",
-      "published": "Wed, 22 Apr 2026 16:04:46 -0400",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Botnet",
-        "Exploit wording"
       ]
     },
     {
@@ -573,6 +570,33 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Carlson Software VASCO-B GNSS Receiver",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could enable a remote attacker to alter critical system functions or disrupt device operation. The following versions of Carlson Software VASCO-B GNSS Receiver are affected: VASCO-B GNSS Receiver <1.4.0 (CVE-2026-3893) CVSS Vendor Equipment Vulnerabilities v3 9.4 Carlson Software Carlson Software VASCO-B GNSS Receiver Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing Coun",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass authentication and have remote access to sensitive information on the device. The following versions of Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera are affected: IP Camera XM530V200_X6-WEQ_8M firmware V5.00.R02.000807D8.10010.346624.S.ONVIF_21.06 (CVE-2025-65856) CVSS Vendor Equipment Vulnerabilities v3 9.8 Hangzhou Xiongmai Technology Co., Ltd Hangzhou Xiongmai Technology Co., Ltd XM530 I",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "FIRESTARTER Backdoor",
       "link": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
       "summary": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a forensic investigation. CISA and the United Kingdom National Cyber Security Centre (NCSC) assess advanced persistent threat (APT) actors are using FIRESTARTER malware for persistence, specifically targeting publicly accessible Cisco Firepower and Secure Firewall devic",
@@ -582,6 +606,20 @@
         "Source boost: CISA Alerts",
         "Backdoor",
         "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Yadea T5 Electric Bicycle",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electric Bicycle vers:all/* (CVE-2025-70994) CVSS Vendor Equipment Vulnerabilities v3 7.3 Yadea Yadea T5 Electric Bicycle Weak Authentication Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worldwide Company Headquarters Loc",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
@@ -597,79 +635,45 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-33825 Microsoft Defender Insufficient Granularity of Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as",
-      "published": "Wed, 22 Apr 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SINEC NMS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-09",
-      "summary": "View CSAF Summary SINEC NMS before V4.0 SP3 contains an Authorization Bypass vulnerability that could allow an attacker to bypass authorization checks, leading to the ability to reset the password of any arbitrary user account. Siemens has released a new version for SINEC NMS and recommends to update to the latest version. The following versions of Siemens SINEC NMS are affected: SINEC NMS CVSS Vendor Equipment Vulnerabilities v3 8.8 Siemens Siemens SINEC NMS Authorization Bypass Through User-Co",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens TPM 2.0",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01",
-      "summary": "View CSAF Summary The products listed below contain a vulnerability that could allow an attacker to perform an out-of-bound read, potentially leading to information disclosure or denial of service of the TPM. Siemens has released new versions for several affected products and recommends to update to the latest versions. Siemens is preparing further fix versions and recommends countermeasures for products where fixes are not, or not yet available. The following versions of Siemens TPM 2.0 are aff",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
-      "value_score": 51,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Industrial Edge Management",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-11",
-      "summary": "View CSAF Summary Industrial Edge Management contains an authorization bypass vulnerability that could be exploited by an unauthenticated remote attacker to circumvent authentication and to access connected Industrial Edge Devices through the remote connection feature. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Industrial Edge Management are affected: Industrial Edge Management Pro V1 vers:intdot/",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens SINEC NMS",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03",
-      "summary": "View CSAF Summary Siemens SINEC NMS when used with User Management Component (UMC) contains an authentication bypass vulnerability due to insufficient validation of user identity. This could allow an unauthenticated remote attacker to bypass authentication and gain unauthorized access to the application. Siemens has released a new version for SINEC NMS and recommends to update to the latest version. The following versions of Siemens SINEC NMS are affected: SINEC NMS CVSS Vendor Equipment Vulnera",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "SenseLive X3050",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to take complete control of the device. The following versions of SenseLive X3050 are affected: X3050 V1.523 (CVE-2026-40630, CVE-2026-25720, CVE-2026-35503, CVE-2026-39462, CVE-2026-27843, CVE-2026-40431, CVE-2026-40623, CVE-2026-27841, CVE-2026-40620, CVE-2026-35064, CVE-2026-25775) CVSS Vendor Equipment Vulnerabilities v3 9.8 SenseLive SenseLive X3050 Authentication Bypass Using an Alternate Path or Cha",
-      "published": "Tue, 21 Apr 26 12:00:00 +0000",
+      "title": "Milesight Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed or allow remote code execution. The following versions of Milesight Cameras are affected: MS-Cxx63-PD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx64-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx73-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
       "value_score": 100,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×11",
-        "Auth bypass",
+        "CVE mentioned ×13",
+        "RCE",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Intrado 911 Emergency Gateway (EGW)",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read, modify, or delete files. The following versions of Intrado 911 Emergency Gateway (EGW) are affected: Emergency Gateway 7.x (CVE-2026-6074) Emergency Gateway 6.x (CVE-2026-6074) Emergency Gateway 5.x (CVE-2026-6074) CVSS Vendor Equipment Vulnerabilities v3 9.8 Intrado Intrado 911 Emergency Gateway (EGW) Path Traversal: '.../...//' Background Critical Infrastructure Sectors: Emergency Services Countrie",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 97,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "SpiceJet Online Booking System",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information. The following versions of SpiceJet Online Booking System are affected: Online Booking System vers:all/* (CVE-2026-6375, CVE-2026-6376) CVSS Vendor Equipment Vulnerabilities v3 7.5 SpiceJet SpiceJet Online Booking System Authorization Bypass Through User-Controlled Key, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation ",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "High severity ×2",
         "Multiple CVEs",
         "Exploit wording"
       ]

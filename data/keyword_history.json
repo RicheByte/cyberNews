@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1431,
+      "count": 1432,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1639,7 +1639,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 315,
+      "count": 316,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2254,7 +2254,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7852,7 +7852,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10693,7 +10693,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 347,
+      "count": 348,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13881,7 +13881,7 @@
       ]
     },
     "ransom payment process": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13933,7 +13933,7 @@
       ]
     },
     "malicious images pushed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-22",
         "2026-04-23"
@@ -13954,7 +13954,7 @@
       ]
     },
     "notification services flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-23"
       ]
@@ -13972,13 +13972,13 @@
       ]
     },
     "staged cloud attack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-23"
       ]
     },
     "execute various backdoors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-23"
       ]
@@ -13990,13 +13990,13 @@
       ]
     },
     "china nexus hackers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
     },
     "band security updates": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-23"
       ]
@@ -14008,24 +14008,48 @@
       ]
     },
     "threat actor gave": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
     },
     "gain system privileges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
     },
     "feels familiar like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-23"
       ]
     },
     "weaponize routine workflows": {
+      "count": 2,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "harvest sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "tools mostly written": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "think password resets": {
+      "count": 1,
+      "dates": [
+        "2026-04-23"
+      ]
+    },
+    "t join meetings": {
       "count": 1,
       "dates": [
         "2026-04-23"
@@ -14033,17 +14057,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-14 07:49",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "recent security incident",
-        "online travel platform",
-        "iran's intelligence agencies",
-        "harvest cloud credentials"
-      ]
-    },
     {
       "timestamp": "2026-04-14 09:12",
       "articles": 56,
@@ -15131,6 +15144,17 @@
         "twitter whistleblower complaint",
         "threat actor gave",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-04-23 17:14",
+      "articles": 56,
+      "top_keywords": [
+        "china nexus hackers",
+        "notification services flaw",
+        "gain system privileges",
+        "twitter whistleblower complaint",
+        "threat actor gave"
       ]
     }
   ]

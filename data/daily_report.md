@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-23 15:48 UTC  
+> **Last Updated:** 2026-04-23 17:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**china nexus hackers** • **notification services flaw** • **twitter whistleblower complaint** • **threat actor gave** • **sprawling phishing campaign** • **iran's intelligence agencies** • **gain system privileges** • **feels familiar like** • **execute various backdoors** • **band security updates** • **130 companies tangled** • **authorization bypass vulnerability** • **staged cloud attack** • **russia hacked routers** • **older internet routers** • **actively exploited flaw** • **bypass security controls** • **frequent attack vector** • **wire fraud conspiracy** • **weaponize routine workflows**
+**china nexus hackers** • **notification services flaw** • **gain system privileges** • **twitter whistleblower complaint** • **threat actor gave** • **sprawling phishing campaign** • **iran's intelligence agencies** • **feels familiar like** • **execute various backdoors** • **band security updates** • **130 companies tangled** • **malicious images pushed** • **staged cloud attack** • **harvest sensitive data** • **wire fraud conspiracy** • **weaponize routine workflows** • **tools mostly written** • **think password resets** • **t join meetings** • **ransom payment process**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
 - [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
 - [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
 - [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
@@ -34,7 +35,6 @@
 - [New GopherWhisper APT group abuses Outlook, Slack, Discord for comms](https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/)
 - [CISA orders feds to patch BlueHammer flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/)
 - [Apple fixes bug that let the FBI recover deleted Signal messages](https://www.bleepingcomputer.com/news/security/apple-fixes-ios-bug-that-retained-deleted-notification-data/)
-- [New Mirai campaign exploits RCE flaw in EoL D-Link routers](https://www.bleepingcomputer.com/news/security/new-mirai-campaign-exploits-rce-flaw-in-eol-d-link-routers/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Carlson Software VASCO-B GNSS Receiver](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02)
+- [Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-05)
 - [FIRESTARTER Backdoor](https://www.cisa.gov/news-events/analysis-reports/ar26-113a)
+- [Yadea T5 Electric Bicycle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01)
 - [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/22/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-09)
-- [Siemens TPM 2.0](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-01)
-- [Siemens Industrial Edge Management](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-11)
-- [Siemens SINEC NMS](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-03)
-- [SenseLive X3050](https://www.cisa.gov/news-events/ics-advisories/icsa-26-111-12)
+- [Milesight Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03)
+- [Intrado 911 Emergency Gateway (EGW)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-06)
+- [SpiceJet Online Booking System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04)
 
 ---
 

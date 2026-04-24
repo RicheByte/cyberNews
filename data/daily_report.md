@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-24 15:04 UTC  
+> **Last Updated:** 2026-04-24 16:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**server without authentication** • **iran's intelligence agencies** • **130 companies tangled** • **custom malware suite** • **staged cloud attack** • **twitter whistleblower complaint** • **iran war unleashing** • **china backed hackers** • **password manager bitwarden** • **uk cyber league** • **artificial intelligence models** • **russia hacked routers** • **older internet routers** • **high value leaders** • **firestarter malware obtained** • **month's patch tuesday** • **frequent attack vector** • **company sent home** • **remote code execution** • **wire fraud conspiracy**
+**server without authentication** • **nasa employees duped** • **iran's intelligence agencies** • **custom malware suite** • **staged cloud attack** • **twitter whistleblower complaint** • **iran war unleashing** • **china backed hackers** • **password manager bitwarden** • **130 companies tangled** • **uk cyber league** • **dora makes authentication** • **artificial intelligence models** • **russia hacked routers** • **older internet routers** • **high value leaders** • **firestarter malware obtained** • **month's patch tuesday** • **frequent attack vector** • **company sent home**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 - [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 - [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 - [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
@@ -23,7 +24,6 @@
 - [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 - [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
-- [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Glasswing Secured the Code. The Rest of Your Stack Is Still on You](https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you)
 - [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
 - [North Korea's Lazarus Targets macOS Users via ClickFix](https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix)
 - [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
@@ -56,7 +57,6 @@
 - [China-Backed Hackers Are Industrializing Botnets](https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets)
 - [Bad Memories Still Haunt AI Agents](https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents)
 - ['Zealot' Shows What AI's Capable of in Staged Cloud Attack](https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks)
-- [Africa Relinquishes Cyberattack Lead to Latin America — For Now](https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks)
 
 ### Security Week
 

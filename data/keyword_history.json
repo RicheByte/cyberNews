@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1441,
+      "count": 1442,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2258,7 +2258,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -10699,7 +10699,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 357,
+      "count": 358,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11169,7 +11169,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11322,7 +11322,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12425,7 +12425,7 @@
       ]
     },
     "older internet routers": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13243,7 +13243,7 @@
       ]
     },
     "month's patch tuesday": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-16",
         "2026-04-24"
@@ -13583,7 +13583,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13986,7 +13986,7 @@
       ]
     },
     "staged cloud attack": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14089,7 +14089,7 @@
       ]
     },
     "custom malware suite": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14103,49 +14103,61 @@
       ]
     },
     "server without authentication": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "company sent home": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-24"
       ]
     },
     "china backed hackers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-24"
       ]
     },
     "password manager bitwarden": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-24"
       ]
     },
     "artificial intelligence models": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
     },
     "high value leaders": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
     },
     "firestarter malware obtained": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
     },
     "uk cyber league": {
+      "count": 2,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "nasa employees duped": {
+      "count": 1,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "dora makes authentication": {
       "count": 1,
       "dates": [
         "2026-04-24"
@@ -14153,17 +14165,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-15 05:57",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "apple's app store",
-        "iran's intelligence agencies",
-        "memory safety bugs",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-04-15 07:47",
       "articles": 56,
@@ -15249,6 +15250,17 @@
         "server without authentication",
         "iran's intelligence agencies",
         "130 companies tangled",
+        "custom malware suite",
+        "staged cloud attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-24 16:50",
+      "articles": 56,
+      "top_keywords": [
+        "server without authentication",
+        "nasa employees duped",
+        "iran's intelligence agencies",
         "custom malware suite",
         "staged cloud attack"
       ]

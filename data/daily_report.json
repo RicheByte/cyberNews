@@ -1,18 +1,20 @@
 {
-  "last_updated": "2026-04-24 15:04",
+  "last_updated": "2026-04-24 16:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "server without authentication",
+    "nasa employees duped",
     "iran's intelligence agencies",
-    "130 companies tangled",
     "custom malware suite",
     "staged cloud attack",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "china backed hackers",
     "password manager bitwarden",
+    "130 companies tangled",
     "uk cyber league",
+    "dora makes authentication",
     "artificial intelligence models",
     "russia hacked routers",
     "older internet routers",
@@ -20,53 +22,62 @@
     "firestarter malware obtained",
     "month's patch tuesday",
     "frequent attack vector",
-    "company sent home",
-    "remote code execution",
-    "wire fraud conspiracy"
+    "company sent home"
   ],
   "trending": [
     {
       "keyword": "server without authentication",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "nasa employees duped",
+      "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 357
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 143
+      "mentions": 358
     },
     {
       "keyword": "custom malware suite",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "staged cloud attack",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1441
+      "mentions": 1442
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "password manager bitwarden",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "uk cyber league",
-      "mentions": 1
+      "keyword": "130 companies tangled",
+      "mentions": 144
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
+      "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
+      "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws. \"For years, NASA employees",
+      "published": "Fri, 24 Apr 2026 19:43:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
@@ -134,18 +145,6 @@
       "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
       "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
       "published": "Thu, 23 Apr 2026 18:47:00 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
-      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
-      "summary": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
-      "published": "Thu, 23 Apr 2026 17:33:00 +0530",
       "value_score": 24,
       "value_signals": [
         "Patch/update",
@@ -326,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
+      "summary": "Forgotten integrations, shadow IT, SaaS, and now shadow AI and agents are everywhere, and attackers don't need sophisticated AI models to take advantage.",
+      "published": "Fri, 24 Apr 2026 15:04:29 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
       "link": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
       "summary": "In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
@@ -392,15 +400,6 @@
       "value_signals": [
         "PoC available"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Africa Relinquishes Cyberattack Lead to Latin America — For Now",
-      "link": "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks",
-      "summary": "The volume of cyberattacks targeting Africa declined in the past year, with weekly attacks down 22%, as attackers seemingly shifted their focus to other regions.",
-      "published": "Thu, 23 Apr 2026 07:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

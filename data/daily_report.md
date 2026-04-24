@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-24 09:26 UTC  
+> **Last Updated:** 2026-04-24 11:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**server without authentication** • **iran's intelligence agencies** • **china nexus hackers** • **helpdesk employees convincing** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **full account compromise** • **frequent attack vector** • **feels familiar like** • **130 companies tangled** • **company sent home** • **china backed hackers** • **russia hacked routers** • **older internet routers** • **joining teams meetings** • **staged cloud attack** • **national security risk** • **custom malware suite** • **harvest sensitive data** • **wire fraud conspiracy**
+**server without authentication** • **iran's intelligence agencies** • **china nexus hackers** • **frequent attack vector** • **twitter whistleblower complaint** • **full account compromise** • **feels familiar like** • **130 companies tangled** • **password manager bitwarden** • **china backed hackers** • **company sent home** • **russia hacked routers** • **older internet routers** • **national security risk** • **staged cloud attack** • **sprawling phishing campaign** • **custom malware suite** • **harvest sensitive data** • **data wiping attack** • **wire fraud conspiracy**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 - [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
-- [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
+- [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 - [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
 - [[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed](https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html)
 - [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
 - [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
-- [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
 - [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
 - [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
 - [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
@@ -67,7 +68,6 @@
 - [Rilian Raises $17.5 Million for AI-Native Security Orchestration](https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/)
 - [The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface](https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/)
 - [Luxury Cosmetics Giant Rituals Discloses Data Breach](https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/)
-- [AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers](https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/)
 
 ### Threatpost
 

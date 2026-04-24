@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-24 09:26 UTC |
+| 🕐 Last Updated | 2026-04-24 11:02 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`server without authentication` • `iran's intelligence agencies` • `china nexus hackers` • `helpdesk employees convincing` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `full account compromise` • `frequent attack vector` • `feels familiar like` • `130 companies tangled`
+`server without authentication` • `iran's intelligence agencies` • `china nexus hackers` • `frequent attack vector` • `twitter whistleblower complaint` • `full account compromise` • `feels familiar like` • `130 companies tangled` • `password manager bitwarden` • `china backed hackers`
 
 ## 📄 Reports
 

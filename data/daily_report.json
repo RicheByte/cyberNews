@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-24 16:50",
+  "last_updated": "2026-04-24 18:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "server without authentication",
     "nasa employees duped",
     "iran's intelligence agencies",
-    "custom malware suite",
+    "remove system packages",
     "staged cloud attack",
+    "frequent attack vectors",
     "twitter whistleblower complaint",
     "iran war unleashing",
+    "four nations participating",
     "china backed hackers",
     "password manager bitwarden",
     "130 companies tangled",
     "uk cyber league",
-    "dora makes authentication",
     "artificial intelligence models",
     "russia hacked routers",
     "older internet routers",
     "high value leaders",
-    "firestarter malware obtained",
     "month's patch tuesday",
-    "frequent attack vector",
-    "company sent home"
+    "malware called firestarter",
+    "firestarter malware obtained"
   ],
   "trending": [
     {
       "keyword": "server without authentication",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "nasa employees duped",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 358
+      "mentions": 359
     },
     {
-      "keyword": "custom malware suite",
-      "mentions": 10
+      "keyword": "remove system packages",
+      "mentions": 1
     },
     {
       "keyword": "staged cloud attack",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "frequent attack vectors",
+      "mentions": 23
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1442
+      "mentions": 1443
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 56
+      "mentions": 57
+    },
+    {
+      "keyword": "four nations participating",
+      "mentions": 1
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 7
-    },
-    {
-      "keyword": "password manager bitwarden",
-      "mentions": 4
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 144
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
+      "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware called FIRESTARTER. FIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access and",
+      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "Backdoor ×2",
+        "CISA/KEV ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
@@ -140,14 +152,33 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
-      "summary": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
-      "published": "Thu, 23 Apr 2026 18:47:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "New BlackFile extortion group linked to surge of vishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
+      "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
+      "published": "Fri, 24 Apr 2026 14:26:27 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft to roll out Entra passkeys on Windows in late April",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/",
+      "summary": "Microsoft will roll out passkey support for phishing-resistant passwordless authentication to Microsoft Entra‑protected resources from Windows devices starting late April. [...]",
+      "published": "Fri, 24 Apr 2026 14:13:55 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Patch/update",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
+      "summary": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
+      "published": "Fri, 24 Apr 2026 13:28:46 -0400",
+      "value_score": 16,
+      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -204,39 +235,6 @@
       "published": "Thu, 23 Apr 2026 15:21:01 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
-      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
-      "summary": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
-      "published": "Thu, 23 Apr 2026 14:59:39 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
-      "summary": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
-      "published": "Thu, 23 Apr 2026 12:05:12 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
-      "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
-      "summary": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
-      "published": "Thu, 23 Apr 2026 10:16:21 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -567,6 +565,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-7399 Samsung MagicINFO 9 Server Path Traversal Vulnerability CVE-2024-57726 SimpleHelp Missing Authorization Vulnerability CVE-2024-57728 SimpleHelp Path Traversal Vulnerability CVE-2025-29635 D-Link DIR-823X Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks ",
+      "published": "Fri, 24 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Carlson Software VASCO-B GNSS Receiver",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could enable a remote attacker to alter critical system functions or disrupt device operation. The following versions of Carlson Software VASCO-B GNSS Receiver are affected: VASCO-B GNSS Receiver <1.4.0 (CVE-2026-3893) CVSS Vendor Equipment Vulnerabilities v3 9.4 Carlson Software Carlson Software VASCO-B GNSS Receiver Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing Coun",
@@ -656,21 +669,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×13",
         "RCE",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Intrado 911 Emergency Gateway (EGW)",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read, modify, or delete files. The following versions of Intrado 911 Emergency Gateway (EGW) are affected: Emergency Gateway 7.x (CVE-2026-6074) Emergency Gateway 6.x (CVE-2026-6074) Emergency Gateway 5.x (CVE-2026-6074) CVSS Vendor Equipment Vulnerabilities v3 9.8 Intrado Intrado 911 Emergency Gateway (EGW) Path Traversal: '.../...//' Background Critical Infrastructure Sectors: Emergency Services Countrie",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "High severity",
         "Multiple CVEs",
         "Exploit wording"
       ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-23 22:38 UTC  
+> **Last Updated:** 2026-04-24 02:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **china nexus hackers** • **server without authentication** • **helpdesk employees convincing** • **gain system privileges** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **notification services flaw** • **full account compromise** • **feels familiar like** • **execute various backdoors** • **130 companies tangled** • **staged cloud attack** • **joining teams meetings** • **frequent attack vector** • **custom malware suite** • **wire fraud conspiracy** • **weaponize routine workflows** • **tools mostly written** • **threat actor gave**
+**iran's intelligence agencies** • **server without authentication** • **china nexus hackers** • **helpdesk employees convincing** • **gain system privileges** • **twitter whistleblower complaint** • **staged cloud attack** • **sprawling phishing campaign** • **notification services flaw** • **full account compromise** • **feels familiar like** • **130 companies tangled** • **frequent attack vector** • **company sent home** • **china backed hackers** • **russia hacked routers** • **older internet routers** • **joining teams meetings** • **custom malware suite** • **wire fraud conspiracy**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
 - [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
+- [China-Backed Hackers Are Industrializing Botnets](https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets)
 - [Bad Memories Still Haunt AI Agents](https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents)
 - ['Zealot' Shows What AI's Capable of in Staged Cloud Attack](https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks)
 - [Africa Relinquishes Cyberattack Lead to Latin America — For Now](https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks)
 - ['The Gentlemen' Rapidly Rises to Ransomware Prominence](https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware)
 - [DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'](https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview)
-- [Electricity Is a Growing Area of Cyber Risk](https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk)
-- [Ransomware Negotiator Pleads Guilty to BlackCat Scheme](https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme)
 
 ### Security Week
 

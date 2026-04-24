@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-23 22:38",
+  "last_updated": "2026-04-24 02:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
-    "china nexus hackers",
     "server without authentication",
+    "china nexus hackers",
     "helpdesk employees convincing",
     "gain system privileges",
     "twitter whistleblower complaint",
+    "staged cloud attack",
     "sprawling phishing campaign",
     "notification services flaw",
     "full account compromise",
     "feels familiar like",
-    "execute various backdoors",
     "130 companies tangled",
-    "staged cloud attack",
-    "joining teams meetings",
     "frequent attack vector",
+    "company sent home",
+    "china backed hackers",
+    "russia hacked routers",
+    "older internet routers",
+    "joining teams meetings",
     "custom malware suite",
-    "wire fraud conspiracy",
-    "weaponize routine workflows",
-    "tools mostly written",
-    "threat actor gave"
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 351
-    },
-    {
-      "keyword": "china nexus hackers",
-      "mentions": 6
+      "mentions": 352
     },
     {
       "keyword": "server without authentication",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "china nexus hackers",
+      "mentions": 7
     },
     {
       "keyword": "helpdesk employees convincing",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "gain system privileges",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1435
+      "mentions": 1436
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 319
-    },
-    {
-      "keyword": "notification services flaw",
+      "keyword": "staged cloud attack",
       "mentions": 8
     },
     {
-      "keyword": "full account compromise",
-      "mentions": 3
+      "keyword": "sprawling phishing campaign",
+      "mentions": 320
     },
     {
-      "keyword": "feels familiar like",
-      "mentions": 5
+      "keyword": "notification services flaw",
+      "mentions": 9
+    },
+    {
+      "keyword": "full account compromise",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -322,10 +322,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
+      "link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
+      "summary": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
+      "published": "Fri, 24 Apr 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
       "summary": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
       "published": "Fri, 24 Apr 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China-Backed Hackers Are Industrializing Botnets",
+      "link": "https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets",
+      "summary": "China's state-backed groups are now using covert networks of compromised devices to execute attacks in a low-cost, low-risk, and deniable way.",
+      "published": "Thu, 23 Apr 2026 20:52:24 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -379,26 +397,6 @@
       "published": "Wed, 22 Apr 2026 14:48:05 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Electricity Is a Growing Area of Cyber Risk",
-      "link": "https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk",
-      "summary": "IT has long been concerned about ensuring systems receive the right amount of electricity. Cyberattackers are realizing they can manipulate voltage fluctuations for their purposes, too.",
-      "published": "Wed, 22 Apr 2026 14:25:07 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme",
-      "link": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
-      "summary": "A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process.",
-      "published": "Tue, 21 Apr 2026 21:12:43 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Security Week",

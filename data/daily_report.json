@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-04-24 18:41",
+  "last_updated": "2026-04-24 20:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "server without authentication",
+    "poorly timed restarts",
     "nasa employees duped",
     "iran's intelligence agencies",
     "remove system packages",
-    "staged cloud attack",
-    "frequent attack vectors",
+    "password manager bitwarden",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "four nations participating",
+    "fake investment sites",
     "china backed hackers",
-    "password manager bitwarden",
     "130 companies tangled",
     "uk cyber league",
     "artificial intelligence models",
+    "actively exploited flaw",
     "russia hacked routers",
     "older internet routers",
     "high value leaders",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "server without authentication",
-      "mentions": 9
-    },
-    {
-      "keyword": "nasa employees duped",
-      "mentions": 2
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 359
-    },
-    {
-      "keyword": "remove system packages",
+      "keyword": "poorly timed restarts",
       "mentions": 1
     },
     {
-      "keyword": "staged cloud attack",
-      "mentions": 15
+      "keyword": "nasa employees duped",
+      "mentions": 3
     },
     {
-      "keyword": "frequent attack vectors",
-      "mentions": 23
+      "keyword": "iran's intelligence agencies",
+      "mentions": 360
+    },
+    {
+      "keyword": "remove system packages",
+      "mentions": 2
+    },
+    {
+      "keyword": "password manager bitwarden",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1443
+      "mentions": 1444
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "four nations participating",
+      "mentions": 2
+    },
+    {
+      "keyword": "fake investment sites",
       "mentions": 1
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -153,6 +153,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Firestarter malware survives Cisco firewall updates, security patches",
+      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
+      "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
+      "published": "Fri, 24 Apr 2026 16:34:08 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows Update gets new controls to reduce forced restarts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/",
+      "summary": "Microsoft is rolling out Windows Update improvements that give users more control over how updates are installed while reducing disruption from frequent or poorly timed restarts. [...]",
+      "published": "Fri, 24 Apr 2026 16:08:26 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New BlackFile extortion group linked to surge of vishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/",
       "summary": "A new financially motivated hacking group tracked as BlackFile has been linked to a wave of data theft and extortion attacks against retail and hospitality organizations since February 2026. [...]",
@@ -214,27 +234,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit file upload bug in Breeze Cache WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/",
-      "summary": "Hackers are actively exploiting a critical vulnerability in the Breeze Cache plugin for WordPress that allows uploading arbitrary files on the server without authentication. [...]",
-      "published": "Thu, 23 Apr 2026 17:33:45 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
-      "summary": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
-      "published": "Thu, 23 Apr 2026 15:21:01 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
+      "link": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
+      "summary": "Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites.",
+      "published": "Fri, 24 Apr 2026 16:48:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
       "summary": "Forgotten integrations, shadow IT, SaaS, and now shadow AI and agents are everywhere, and attackers don't need sophisticated AI models to take advantage.",
@@ -386,17 +394,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Zealot' Shows What AI's Capable of in Staged Cloud Attack",
-      "link": "https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks",
-      "summary": "The proof of concept revealed AI-based attacks unfold too fast for human defenders to respond, and that AI evinced more autonomous behavior than expected.",
-      "published": "Thu, 23 Apr 2026 10:00:00 GMT",
-      "value_score": 20,
-      "value_signals": [
-        "PoC available"
       ]
     },
     {

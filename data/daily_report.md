@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-24 18:41 UTC  
+> **Last Updated:** 2026-04-24 20:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**server without authentication** • **nasa employees duped** • **iran's intelligence agencies** • **remove system packages** • **staged cloud attack** • **frequent attack vectors** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **china backed hackers** • **password manager bitwarden** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **russia hacked routers** • **older internet routers** • **high value leaders** • **month's patch tuesday** • **malware called firestarter** • **firestarter malware obtained**
+**poorly timed restarts** • **nasa employees duped** • **iran's intelligence agencies** • **remove system packages** • **password manager bitwarden** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **older internet routers** • **high value leaders** • **month's patch tuesday** • **malware called firestarter** • **firestarter malware obtained**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
+- [Windows Update gets new controls to reduce forced restarts](https://www.bleepingcomputer.com/news/microsoft/windows-update-gets-new-controls-to-reduce-forced-restarts/)
 - [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
 - [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
 - [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
 - [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
 - [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
 - [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
-- [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
-- [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [US Busts Myanmar Ring Targeting US Citizens in Financial Fraud](https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud)
 - [Glasswing Secured the Code. The Rest of Your Stack Is Still on You](https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you)
 - [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
 - [North Korea's Lazarus Targets macOS Users via ClickFix](https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix)
@@ -56,7 +57,6 @@
 - [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
 - [China-Backed Hackers Are Industrializing Botnets](https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets)
 - [Bad Memories Still Haunt AI Agents](https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents)
-- ['Zealot' Shows What AI's Capable of in Staged Cloud Attack](https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks)
 
 ### Security Week
 

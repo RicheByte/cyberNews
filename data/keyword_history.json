@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1443,
+      "count": 1444,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2258,7 +2258,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -10700,7 +10700,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 359,
+      "count": 360,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11170,7 +11170,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12426,7 +12426,7 @@
       ]
     },
     "older internet routers": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13244,7 +13244,7 @@
       ]
     },
     "month's patch tuesday": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-16",
         "2026-04-24"
@@ -13317,13 +13317,14 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-16",
         "2026-04-17",
         "2026-04-20",
         "2026-04-21",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ]
     },
     "nkabuse malware hosted": {
@@ -13584,7 +13585,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14117,43 +14118,43 @@
       ]
     },
     "china backed hackers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-24"
       ]
     },
     "password manager bitwarden": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-24"
       ]
     },
     "artificial intelligence models": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24"
       ]
     },
     "high value leaders": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24"
       ]
     },
     "firestarter malware obtained": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24"
       ]
     },
     "uk cyber league": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-24"
       ]
     },
     "nasa employees duped": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
@@ -14165,18 +14166,30 @@
       ]
     },
     "remove system packages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-24"
       ]
     },
     "four nations participating": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-24"
       ]
     },
     "malware called firestarter": {
+      "count": 2,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "poorly timed restarts": {
+      "count": 1,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "fake investment sites": {
       "count": 1,
       "dates": [
         "2026-04-24"
@@ -14184,17 +14197,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-15 09:13",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "apple's app store",
-        "iran's intelligence agencies",
-        "memory safety bugs",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-04-15 10:54",
       "articles": 56,
@@ -15282,6 +15284,17 @@
         "iran's intelligence agencies",
         "remove system packages",
         "staged cloud attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-24 20:40",
+      "articles": 56,
+      "top_keywords": [
+        "poorly timed restarts",
+        "nasa employees duped",
+        "iran's intelligence agencies",
+        "remove system packages",
+        "password manager bitwarden"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-24 13:12 UTC  
+> **Last Updated:** 2026-04-24 15:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**server without authentication** • **iran's intelligence agencies** • **custom malware suite** • **130 companies tangled** • **twitter whistleblower complaint** • **full account compromise** • **china backed hackers** • **password manager bitwarden** • **artificial intelligence models** • **company sent home** • **russia hacked routers** • **older internet routers** • **high value leaders** • **firestarter malware obtained** • **staged cloud attack** • **sprawling phishing campaign** • **month's patch tuesday** • **frequent attack vector** • **remote code execution** • **wire fraud conspiracy**
+**server without authentication** • **iran's intelligence agencies** • **130 companies tangled** • **custom malware suite** • **staged cloud attack** • **twitter whistleblower complaint** • **iran war unleashing** • **china backed hackers** • **password manager bitwarden** • **uk cyber league** • **artificial intelligence models** • **russia hacked routers** • **older internet routers** • **high value leaders** • **firestarter malware obtained** • **month's patch tuesday** • **frequent attack vector** • **company sent home** • **remote code execution** • **wire fraud conspiracy**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
+- [Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks](https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/)
 - [Microsoft now lets admins uninstall Copilot on enterprise devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/)
 - [Hackers exploit file upload bug in Breeze Cache WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-file-upload-bug-in-breeze-cache-wordpress-plugin/)
 - [Bitwarden CLI npm package compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/)
 - [Trigona ransomware attacks use custom exfiltration tool to steal data](https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/)
 - [New Checkmarx supply-chain breach affects KICS analysis tool](https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/)
 - [Cosmetics giant Rituals discloses data breach affecting customers](https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/)
-- [Regular Password Resets Aren’t as Safe as You Think](https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/)
-- [Microsoft: Some Teams users can’t join meetings after Edge update](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
 - [North Korea's Lazarus Targets macOS Users via ClickFix](https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix)
 - [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
 - [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
@@ -56,18 +57,17 @@
 - [Bad Memories Still Haunt AI Agents](https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents)
 - ['Zealot' Shows What AI's Capable of in Staged Cloud Attack](https://www.darkreading.com/cyber-risk/zealot-shows-ai-execute-full-cloud-attacks)
 - [Africa Relinquishes Cyberattack Lead to Latin America — For Now](https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks)
-- ['The Gentlemen' Rapidly Rises to Ransomware Prominence](https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware)
 
 ### Security Week
 
+- [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
+- [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
 - [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
 - [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
 - [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
 - [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
 - [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
 - [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
-- [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
-- [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
 
 ### Threatpost
 

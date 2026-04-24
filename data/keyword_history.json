@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1440,
+      "count": 1441,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -658,7 +658,7 @@
       ]
     },
     "remote code execution": {
-      "count": 274,
+      "count": 275,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2258,7 +2258,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7857,7 +7857,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10699,7 +10699,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 356,
+      "count": 357,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11169,7 +11169,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -11179,7 +11179,8 @@
         "2026-04-14",
         "2026-04-15",
         "2026-04-20",
-        "2026-04-21"
+        "2026-04-21",
+        "2026-04-24"
       ]
     },
     "classic outlook users": {
@@ -11321,7 +11322,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12424,7 +12425,7 @@
       ]
     },
     "older internet routers": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13242,7 +13243,7 @@
       ]
     },
     "month's patch tuesday": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-16",
         "2026-04-24"
@@ -13582,7 +13583,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13985,7 +13986,7 @@
       ]
     },
     "staged cloud attack": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14088,7 +14089,7 @@
       ]
     },
     "custom malware suite": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14102,43 +14103,49 @@
       ]
     },
     "server without authentication": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "company sent home": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-24"
       ]
     },
     "china backed hackers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-24"
       ]
     },
     "password manager bitwarden": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
     },
     "artificial intelligence models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-24"
       ]
     },
     "high value leaders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-24"
       ]
     },
     "firestarter malware obtained": {
+      "count": 2,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "uk cyber league": {
       "count": 1,
       "dates": [
         "2026-04-24"
@@ -14146,17 +14153,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-15 02:01",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "apple's app store",
-        "iran's intelligence agencies",
-        "memory safety bugs",
-        "remote code execution"
-      ]
-    },
     {
       "timestamp": "2026-04-15 05:57",
       "articles": 56,
@@ -15244,6 +15240,17 @@
         "custom malware suite",
         "130 companies tangled",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-24 15:04",
+      "articles": 56,
+      "top_keywords": [
+        "server without authentication",
+        "iran's intelligence agencies",
+        "130 companies tangled",
+        "custom malware suite",
+        "staged cloud attack"
       ]
     }
   ]

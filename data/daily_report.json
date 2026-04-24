@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-24 13:12",
+  "last_updated": "2026-04-24 15:04",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "server without authentication",
     "iran's intelligence agencies",
-    "custom malware suite",
     "130 companies tangled",
+    "custom malware suite",
+    "staged cloud attack",
     "twitter whistleblower complaint",
-    "full account compromise",
+    "iran war unleashing",
     "china backed hackers",
     "password manager bitwarden",
+    "uk cyber league",
     "artificial intelligence models",
-    "company sent home",
     "russia hacked routers",
     "older internet routers",
     "high value leaders",
     "firestarter malware obtained",
-    "staged cloud attack",
-    "sprawling phishing campaign",
     "month's patch tuesday",
     "frequent attack vector",
+    "company sent home",
     "remote code execution",
     "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "server without authentication",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 356
-    },
-    {
-      "keyword": "custom malware suite",
-      "mentions": 8
+      "mentions": 357
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 142
+      "mentions": 143
+    },
+    {
+      "keyword": "custom malware suite",
+      "mentions": 9
+    },
+    {
+      "keyword": "staged cloud attack",
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1440
+      "mentions": 1441
     },
     {
-      "keyword": "full account compromise",
-      "mentions": 8
+      "keyword": "iran war unleashing",
+      "mentions": 55
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "password manager bitwarden",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "artificial intelligence models",
+      "keyword": "uk cyber league",
       "mentions": 1
-    },
-    {
-      "keyword": "company sent home",
-      "mentions": 5
     }
   ],
   "articles": [
@@ -154,6 +154,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DORA and operational resilience: Credential management as a financial risk control",
+      "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
+      "summary": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are missing. [...]",
+      "published": "Fri, 24 Apr 2026 10:10:20 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 10,000 Zimbra servers vulnerable to ongoing XSS attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-zimbra-flaw-now-exploited-over-10k-servers-vulnerable/",
+      "summary": "Over 10,000 Zimbra Collaboration Suite (ZCS) instances exposed online are vulnerable to ongoing attacks exploiting a cross-site scripting (XSS) security flaw. [...]",
+      "published": "Fri, 24 Apr 2026 09:35:33 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
       "summary": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
@@ -215,26 +237,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Regular Password Resets Aren’t as Safe as You Think",
-      "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
-      "summary": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
-      "published": "Thu, 23 Apr 2026 10:10:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
-      "summary": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
-      "published": "Thu, 23 Apr 2026 09:18:10 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -324,6 +326,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
+      "link": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
+      "summary": "In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
+      "published": "Fri, 24 Apr 2026 13:30:00 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
       "link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
       "summary": "Lazarus continues leveraging ClickFix for initial access and data theft, in this case, against Mac-centric organizations and their high-value leaders.",
@@ -390,14 +403,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'The Gentlemen' Rapidly Rises to Ransomware Prominence",
-      "link": "https://www.darkreading.com/threat-intelligence/gentlemen-rapidly-rise-ransomware",
-      "summary": "Not nearly as polite as the name suggests, the ransomware gang has impressed researchers with its speed in scaling up operations — and its sophistication.",
-      "published": "Wed, 22 Apr 2026 20:51:55 GMT",
-      "value_score": 46,
+      "source": "Security Week",
+      "title": "Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions",
+      "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
+      "summary": "It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism. The post Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 14:57:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device",
+      "link": "https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Supreme Court hacker sentenced, Lovable exposed user data, Google expands enterprise security. The post In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 14:31:51 +0000",
+      "value_score": 50,
       "value_signals": [
-        "Ransomware ×2"
+        "CISA/KEV ×2"
       ]
     },
     {
@@ -458,24 +480,6 @@
       "link": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
       "summary": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm. The post Bitwarden NPM Package Hit in Supply Chain Attack appeared first on SecurityWeek .",
       "published": "Fri, 24 Apr 2026 08:07:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Copperhelm Raises $7 Million for Agentic Cloud Security Platform",
-      "link": "https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/",
-      "summary": "The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity. The post Copperhelm Raises $7 Million for Agentic Cloud Security Platform appeared first on SecurityWeek .",
-      "published": "Fri, 24 Apr 2026 07:31:09 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cloudsmith Raises $72 Million in Series C Funding",
-      "link": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
-      "summary": "The company will use the investment to accelerate product development and grow go-to-market efforts. The post Cloudsmith Raises $72 Million in Series C Funding appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 15:03:59 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1439,
+      "count": 1440,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -658,7 +658,7 @@
       ]
     },
     "remote code execution": {
-      "count": 273,
+      "count": 274,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -702,7 +702,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ]
     },
     "attacker remotely control": {
@@ -1641,7 +1642,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 323,
+      "count": 324,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2257,7 +2258,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7856,7 +7857,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10698,7 +10699,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 355,
+      "count": 356,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11320,7 +11321,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12423,7 +12424,7 @@
       ]
     },
     "older internet routers": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13241,9 +13242,10 @@
       ]
     },
     "month's patch tuesday": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-24"
       ]
     },
     "enterprises breaches make": {
@@ -13580,7 +13582,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13983,7 +13985,7 @@
       ]
     },
     "staged cloud attack": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14079,14 +14081,14 @@
       ]
     },
     "full account compromise": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "custom malware suite": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14100,25 +14102,43 @@
       ]
     },
     "server without authentication": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "company sent home": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24"
       ]
     },
     "china backed hackers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24"
       ]
     },
     "password manager bitwarden": {
+      "count": 2,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "artificial intelligence models": {
+      "count": 1,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "high value leaders": {
+      "count": 1,
+      "dates": [
+        "2026-04-24"
+      ]
+    },
+    "firestarter malware obtained": {
       "count": 1,
       "dates": [
         "2026-04-24"
@@ -14126,17 +14146,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-14 22:40",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "apple's app store",
-        "iran's intelligence agencies",
-        "memory safety bugs",
-        "harvest cloud credentials"
-      ]
-    },
     {
       "timestamp": "2026-04-15 02:01",
       "articles": 56,
@@ -15223,6 +15232,17 @@
         "iran's intelligence agencies",
         "china nexus hackers",
         "frequent attack vector",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-24 13:12",
+      "articles": 56,
+      "top_keywords": [
+        "server without authentication",
+        "iran's intelligence agencies",
+        "custom malware suite",
+        "130 companies tangled",
         "twitter whistleblower complaint"
       ]
     }

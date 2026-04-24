@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-04-24 11:02",
+  "last_updated": "2026-04-24 13:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "server without authentication",
     "iran's intelligence agencies",
-    "china nexus hackers",
-    "frequent attack vector",
+    "custom malware suite",
+    "130 companies tangled",
     "twitter whistleblower complaint",
     "full account compromise",
-    "feels familiar like",
-    "130 companies tangled",
-    "password manager bitwarden",
     "china backed hackers",
+    "password manager bitwarden",
+    "artificial intelligence models",
     "company sent home",
     "russia hacked routers",
     "older internet routers",
-    "national security risk",
+    "high value leaders",
+    "firestarter malware obtained",
     "staged cloud attack",
     "sprawling phishing campaign",
-    "custom malware suite",
-    "harvest sensitive data",
-    "data wiping attack",
+    "month's patch tuesday",
+    "frequent attack vector",
+    "remote code execution",
     "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "server without authentication",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 355
+      "mentions": 356
     },
     {
-      "keyword": "china nexus hackers",
-      "mentions": 10
-    },
-    {
-      "keyword": "frequent attack vector",
-      "mentions": 34
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1439
-    },
-    {
-      "keyword": "full account compromise",
-      "mentions": 7
-    },
-    {
-      "keyword": "feels familiar like",
-      "mentions": 9
+      "keyword": "custom malware suite",
+      "mentions": 8
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 141
+      "mentions": 142
     },
     {
-      "keyword": "password manager bitwarden",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1440
+    },
+    {
+      "keyword": "full account compromise",
+      "mentions": 8
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "password manager bitwarden",
+      "mentions": 2
+    },
+    {
+      "keyword": "artificial intelligence models",
+      "mentions": 1
+    },
+    {
+      "keyword": "company sent home",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine",
+      "link": "https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html",
+      "summary": "The AI Agent Authority Gap - From Ungoverned to Delegation As discussed in our previous article, AI agents are exposing a structural gap in enterprise security, but the problem is often framed too narrowly. The issue is not simply that agents are new actors. It is that agents are delegated actors. They do not emerge with independent authority. They are triggered, invoked, provisioned, or",
+      "published": "Fri, 24 Apr 2026 17:19:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases",
+      "link": "https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html",
+      "summary": "Cybersecurity researchers have discovered a set of malicious apps on the Apple App Store that impersonate popular cryptocurrency wallets in an attempt to steal recovery phrases and private keys since at least fall 2025. \"Once launched, these apps redirect users to browser pages designed to look similar to the App Store and distribute trojanized versions of legitimate wallets,\" Kaspersky",
+      "published": "Fri, 24 Apr 2026 17:18:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2",
@@ -135,24 +153,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
-      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
-      "summary": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can. Mythos Preview, the model that led to Project Glasswing, found",
-      "published": "Thu, 23 Apr 2026 17:00:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
+      "summary": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
+      "published": "Fri, 24 Apr 2026 07:38:00 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Patch/update ×2"
+        "Patch/update"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors",
-      "link": "https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html",
-      "summary": "Mongolian governmental institutions have emerged as the target of a previously undocumented China-aligned advanced persistent threat (APT) group tracked as GopherWhisper. \"The group wields a wide array of tools mostly written in Go, using injectors and loaders to deploy and execute various backdoors in its arsenal,\" Slovakian cybersecurity company ESET said in a report shared with The Hacker",
-      "published": "Thu, 23 Apr 2026 14:34:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,15 +236,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
-      "summary": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
-      "published": "Thu, 23 Apr 2026 08:28:39 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +324,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "North Korea's Lazarus Targets macOS Users via ClickFix",
+      "link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
+      "summary": "Lazarus continues leveraging ClickFix for initial access and data theft, in this case, against Mac-centric organizations and their high-value leaders.",
+      "published": "Fri, 24 Apr 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
       "link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
       "summary": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
@@ -392,13 +401,44 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "DPRK Fake Job Scams Self-Propagate in 'Contagious Interview'",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dprk-fake-job-scams-self-propagate-contagious-interview",
-      "summary": "A compromised developer's repository serves as a worm-like infection vector to spread remote access Trojans (RATs) and other malware.",
-      "published": "Wed, 22 Apr 2026 14:48:05 GMT",
+      "source": "Security Week",
+      "title": "Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents",
+      "link": "https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/",
+      "summary": "From autonomous code generation to decision-making systems that initiate actions without human intervention, the industry is entering a new phase. The post Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 12:34:53 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise",
+      "link": "https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/",
+      "summary": "Locked Shields has grown significantly over the past 16 years, with only four nations participating in the first edition. The post Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 12:32:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor",
+      "link": "https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/",
+      "summary": "The malware provides remote access and control of infected devices and maintains post-patching persistence. The post US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 11:26:09 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US",
+      "link": "https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
+      "summary": "The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U.S. artificial intelligence models. The post Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 11:13:55 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -438,46 +478,6 @@
       "published": "Thu, 23 Apr 2026 15:03:59 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
-      "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
-      "summary": "360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest. The post Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 12:36:45 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
-      "link": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
-      "summary": "The company will hire new talent and expand operations across the US and other allied countries. The post Rilian Raises $17.5 Million for AI-Native Security Orchestration appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 11:45:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
-      "link": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
-      "summary": "New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust. The post The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 11:06:44 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
-      "link": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
-      "summary": "The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses. The post Luxury Cosmetics Giant Rituals Discloses Data Breach appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 11:04:51 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

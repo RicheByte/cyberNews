@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-04-24 06:04",
+  "last_updated": "2026-04-24 09:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "iran's intelligence agencies",
     "server without authentication",
+    "iran's intelligence agencies",
     "china nexus hackers",
     "helpdesk employees convincing",
-    "gain system privileges",
     "twitter whistleblower complaint",
-    "staged cloud attack",
     "sprawling phishing campaign",
-    "notification services flaw",
     "full account compromise",
+    "frequent attack vector",
     "feels familiar like",
     "130 companies tangled",
-    "frequent attack vector",
     "company sent home",
     "china backed hackers",
     "russia hacked routers",
     "older internet routers",
     "joining teams meetings",
+    "staged cloud attack",
+    "national security risk",
     "custom malware suite",
+    "harvest sensitive data",
     "wire fraud conspiracy"
   ],
   "trending": [
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 353
+      "keyword": "server without authentication",
+      "mentions": 4
     },
     {
-      "keyword": "server without authentication",
-      "mentions": 3
+      "keyword": "iran's intelligence agencies",
+      "mentions": 354
     },
     {
       "keyword": "china nexus hackers",
-      "mentions": 8
-    },
-    {
-      "keyword": "helpdesk employees convincing",
-      "mentions": 5
-    },
-    {
-      "keyword": "gain system privileges",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1437
-    },
-    {
-      "keyword": "staged cloud attack",
       "mentions": 9
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 321
+      "keyword": "helpdesk employees convincing",
+      "mentions": 6
     },
     {
-      "keyword": "notification services flaw",
-      "mentions": 10
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1438
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 322
     },
     {
       "keyword": "full account compromise",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "frequent attack vector",
+      "mentions": 33
+    },
+    {
+      "keyword": "feels familiar like",
+      "mentions": 8
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 140
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
+      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data. \"A server-side",
+      "published": "Fri, 24 Apr 2026 12:54:00 +0530",
+      "value_score": 85,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
@@ -138,18 +152,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages",
-      "link": "https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html",
-      "summary": "Apple has rolled out a software fix for iOS and iPadOS to address a Notification Services flaw that stored notifications marked for deletion on the device. The vulnerability, tracked as CVE-2026-28950 (CVSS score: N/A), has been described as a logging issue that has been addressed with improved data redaction. \"Notifications marked for deletion could be unexpectedly retained on the device,\"",
-      "published": "Thu, 23 Apr 2026 13:36:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update"
       ]
     },
     {
@@ -400,6 +402,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
+      "link": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
+      "summary": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm. The post Bitwarden NPM Package Hit in Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 08:07:02 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Copperhelm Raises $7 Million for Agentic Cloud Security Platform",
+      "link": "https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/",
+      "summary": "The Israel-based company, which just emerged from stealth mode, was founded by cloud and security experts from RSA, McAfee, and Unity. The post Copperhelm Raises $7 Million for Agentic Cloud Security Platform appeared first on SecurityWeek .",
+      "published": "Fri, 24 Apr 2026 07:31:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cloudsmith Raises $72 Million in Series C Funding",
       "link": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
       "summary": "The company will use the investment to accelerate product development and grow go-to-market efforts. The post Cloudsmith Raises $72 Million in Series C Funding appeared first on SecurityWeek .",
@@ -456,27 +476,6 @@
       "value_score": 26,
       "value_signals": [
         "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Patches iOS Flaw Allowing Recovery of Deleted Chats",
-      "link": "https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/",
-      "summary": "Apple rolled out the security patches for dozens of iPhone and iPad models and generations. The post Apple Patches iOS Flaw Allowing Recovery of Deleted Chats appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 08:50:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent Microsoft Defender Vulnerability Exploited as Zero-Day",
-      "link": "https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/",
-      "summary": "The flaw allows attackers to access the SAM database, extract NTLM hashes, and gain System privileges. The post Recent Microsoft Defender Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
-      "published": "Thu, 23 Apr 2026 08:00:36 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
         "Exploit wording"
       ]
     },

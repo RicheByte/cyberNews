@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-24 06:04 UTC  
+> **Last Updated:** 2026-04-24 09:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **server without authentication** • **china nexus hackers** • **helpdesk employees convincing** • **gain system privileges** • **twitter whistleblower complaint** • **staged cloud attack** • **sprawling phishing campaign** • **notification services flaw** • **full account compromise** • **feels familiar like** • **130 companies tangled** • **frequent attack vector** • **company sent home** • **china backed hackers** • **russia hacked routers** • **older internet routers** • **joining teams meetings** • **custom malware suite** • **wire fraud conspiracy**
+**server without authentication** • **iran's intelligence agencies** • **china nexus hackers** • **helpdesk employees convincing** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **full account compromise** • **frequent attack vector** • **feels familiar like** • **130 companies tangled** • **company sent home** • **china backed hackers** • **russia hacked routers** • **older internet routers** • **joining teams meetings** • **staged cloud attack** • **national security risk** • **custom malware suite** • **harvest sensitive data** • **wire fraud conspiracy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
 - [UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 - [Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign](https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html)
 - [ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories](https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html)
@@ -23,7 +24,6 @@
 - [Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?](https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html)
 - [China-Linked GopherWhisper Infects 12 Mongolian Government Systems with Go Backdoors](https://thehackernews.com/2026/04/china-linked-gopherwhisper-infects-12.html)
 - [Vercel Finds More Compromised Accounts in Context.ai-Linked Breach](https://thehackernews.com/2026/04/vercel-finds-more-compromised-accounts.html)
-- [Apple Fixes iOS Flaw That Let FBI Recover Deleted Signal Messages](https://thehackernews.com/2026/04/apple-patches-ios-flaw-that-stored.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
+- [Copperhelm Raises $7 Million for Agentic Cloud Security Platform](https://www.securityweek.com/copperhelm-raises-7-million-for-agentic-cloud-security-platform/)
 - [Cloudsmith Raises $72 Million in Series C Funding](https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/)
 - [Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos](https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/)
 - [Rilian Raises $17.5 Million for AI-Native Security Orchestration](https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/)
 - [The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface](https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/)
 - [Luxury Cosmetics Giant Rituals Discloses Data Breach](https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/)
 - [AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers](https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/)
-- [Apple Patches iOS Flaw Allowing Recovery of Deleted Chats](https://www.securityweek.com/apple-patches-ios-flaw-allowing-recovery-of-deleted-chats/)
-- [Recent Microsoft Defender Vulnerability Exploited as Zero-Day](https://www.securityweek.com/recent-microsoft-defender-vulnerability-exploited-as-zero-day/)
 
 ### Threatpost
 

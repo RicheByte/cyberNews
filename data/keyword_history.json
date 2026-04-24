@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1437,
+      "count": 1438,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -942,7 +942,7 @@
       ]
     },
     "national security risk": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -970,7 +970,8 @@
         "2026-03-07",
         "2026-03-19",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-24"
       ]
     },
     "open source millions": {
@@ -1640,7 +1641,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 321,
+      "count": 322,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2256,7 +2257,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7855,7 +7856,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10697,7 +10698,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 353,
+      "count": 354,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11319,7 +11320,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -12422,7 +12423,7 @@
       ]
     },
     "older internet routers": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13579,7 +13580,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13981,7 +13982,7 @@
       ]
     },
     "staged cloud attack": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14000,7 +14001,7 @@
       ]
     },
     "china nexus hackers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14032,7 +14033,7 @@
       ]
     },
     "feels familiar like": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-23",
         "2026-04-24"
@@ -14045,9 +14046,10 @@
       ]
     },
     "harvest sensitive data": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-24"
       ]
     },
     "tools mostly written": {
@@ -14069,65 +14071,54 @@
       ]
     },
     "helpdesk employees convincing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "full account compromise": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "custom malware suite": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "joining teams meetings": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "server without authentication": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-23",
         "2026-04-24"
       ]
     },
     "company sent home": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
     },
     "china backed hackers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-14 19:06",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "memory safety bugs",
-        "iran's intelligence agencies",
-        "harvest cloud credentials",
-        "service ddos doxing"
-      ]
-    },
     {
       "timestamp": "2026-04-14 20:47",
       "articles": 56,
@@ -15215,6 +15206,17 @@
         "china nexus hackers",
         "helpdesk employees convincing",
         "gain system privileges"
+      ]
+    },
+    {
+      "timestamp": "2026-04-24 09:26",
+      "articles": 56,
+      "top_keywords": [
+        "server without authentication",
+        "iran's intelligence agencies",
+        "china nexus hackers",
+        "helpdesk employees convincing",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-25 10:38 UTC  
+> **Last Updated:** 2026-04-25 12:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**poorly timed restarts** • **iran's intelligence agencies** • **remove system packages** • **firestarter malware obtained** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **critical logscale vulnerability** • **company sent home** • **chinese national posed**
+**poorly timed restarts** • **iran's intelligence agencies** • **remove system packages** • **government entities universities** • **firestarter malware obtained** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **critical logscale vulnerability** • **company sent home**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
 - [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
 - [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
 - [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
@@ -67,7 +68,6 @@
 - [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
 - [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
 - [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
-- [Bitwarden NPM Package Hit in Supply Chain Attack](https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/)
 
 ### Threatpost
 

@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-04-25 10:38",
+  "last_updated": "2026-04-25 12:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "poorly timed restarts",
     "iran's intelligence agencies",
     "remove system packages",
+    "government entities universities",
     "firestarter malware obtained",
     "twitter whistleblower complaint",
     "iran war unleashing",
@@ -21,49 +22,48 @@
     "older internet routers",
     "high value leaders",
     "critical logscale vulnerability",
-    "company sent home",
-    "chinese national posed"
+    "company sent home"
   ],
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 366
+      "mentions": 367
     },
     {
       "keyword": "remove system packages",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "government entities universities",
+      "mentions": 1
     },
     {
       "keyword": "firestarter malware obtained",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1450
+      "mentions": 1451
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "four nations participating",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 15
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 152
+      "mentions": 16
     }
   ],
   "articles": [
@@ -402,6 +402,15 @@
     },
     {
       "source": "Security Week",
+      "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
+      "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
+      "summary": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors. The post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks appeared first on SecurityWeek .",
+      "published": "Sat, 25 Apr 2026 10:50:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions",
       "link": "https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/",
       "summary": "It targeted high-precision calculation software to tamper with results and packed a self-propagation mechanism. The post Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions appeared first on SecurityWeek .",
@@ -471,15 +480,6 @@
         "Patch/update",
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Bitwarden NPM Package Hit in Supply Chain Attack",
-      "link": "https://www.securityweek.com/bitwarden-npm-package-hit-in-supply-chain-attack/",
-      "summary": "Tied to a fresh Checkmarx supply chain attack claimed by TeamPCP, the incident references the Shai-Hulud worm. The post Bitwarden NPM Package Hit in Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Fri, 24 Apr 2026 08:07:02 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

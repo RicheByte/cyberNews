@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-24 22:34",
+  "last_updated": "2026-04-25 01:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -20,50 +20,50 @@
     "russia hacked routers",
     "older internet routers",
     "high value leaders",
-    "month's patch tuesday",
     "malware called firestarter",
-    "firestarter malware obtained"
+    "firestarter malware obtained",
+    "data wiping attack"
   ],
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "nasa employees duped",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 361
+      "mentions": 362
     },
     {
       "keyword": "remove system packages",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "password manager bitwarden",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1445
+      "mentions": 1446
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "four nations participating",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -153,6 +153,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ADT confirms data breach after ShinyHunters leak threat",
+      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+      "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "published": "Fri, 24 Apr 2026 18:53:14 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Firestarter malware survives Cisco firewall updates, security patches",
       "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
       "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
@@ -222,17 +233,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft now lets admins uninstall Copilot on enterprise devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-uninstall-copilot-on-enterprise-devices/",
-      "summary": "Microsoft says IT administrators can now uninstall the AI-powered Copilot digital assistant from enterprise devices using a new policy setting, which has become broadly available after the April 2026 Patch Tuesday. [...]",
-      "published": "Fri, 24 Apr 2026 07:38:00 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

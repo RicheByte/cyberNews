@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1452,
+      "count": 1453,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -659,7 +659,7 @@
       ]
     },
     "remote code execution": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2260,7 +2260,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -10703,7 +10703,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 368,
+      "count": 369,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11174,7 +11174,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12431,7 +12431,7 @@
       ]
     },
     "older internet routers": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13323,7 +13323,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13592,7 +13592,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14122,14 +14122,14 @@
       ]
     },
     "company sent home": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "china backed hackers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14143,28 +14143,28 @@
       ]
     },
     "artificial intelligence models": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "high value leaders": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "firestarter malware obtained": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "uk cyber league": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14184,14 +14184,14 @@
       ]
     },
     "remove system packages": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "four nations participating": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14205,21 +14205,21 @@
       ]
     },
     "poorly timed restarts": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "fake investment sites": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "critical logscale vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-25"
       ]
@@ -14231,24 +14231,13 @@
       ]
     },
     "government entities universities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-16 05:58",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "capsule security emerges",
-        "leveraging trusted infrastructure",
-        "twitter whistleblower complaint",
-        "time don't comply"
-      ]
-    },
     {
       "timestamp": "2026-04-16 07:54",
       "articles": 56,
@@ -15336,6 +15325,17 @@
         "remove system packages",
         "government entities universities",
         "firestarter malware obtained"
+      ]
+    },
+    {
+      "timestamp": "2026-04-25 16:35",
+      "articles": 56,
+      "top_keywords": [
+        "poorly timed restarts",
+        "iran's intelligence agencies",
+        "firestarter malware obtained",
+        "remove system packages",
+        "government entities universities"
       ]
     }
   ]

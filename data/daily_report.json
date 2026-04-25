@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-04-25 08:44",
+  "last_updated": "2026-04-25 10:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "poorly timed restarts",
     "iran's intelligence agencies",
     "remove system packages",
+    "firestarter malware obtained",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "four nations participating",
-    "firestarter malware obtained",
     "fake investment sites",
     "china backed hackers",
     "130 companies tangled",
     "uk cyber league",
-    "custom malware suite",
     "artificial intelligence models",
     "actively exploited flaw",
     "russia hacked routers",
@@ -22,51 +21,61 @@
     "older internet routers",
     "high value leaders",
     "critical logscale vulnerability",
-    "company sent home"
+    "company sent home",
+    "chinese national posed"
   ],
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 365
+      "mentions": 366
     },
     {
       "keyword": "remove system packages",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1449
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 63
-    },
-    {
-      "keyword": "four nations participating",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "firestarter malware obtained",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1450
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 64
+    },
+    {
+      "keyword": "four nations participating",
+      "mentions": 8
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 151
+      "mentions": 152
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
+      "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
+      "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges. According to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper",
+      "published": "Sat, 25 Apr 2026 14:56:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
@@ -145,15 +154,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware",
-      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
-      "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
-      "published": "Thu, 23 Apr 2026 23:46:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

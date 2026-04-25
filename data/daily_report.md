@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-25 08:44 UTC  
+> **Last Updated:** 2026-04-25 10:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**poorly timed restarts** • **iran's intelligence agencies** • **remove system packages** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **firestarter malware obtained** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **custom malware suite** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **critical logscale vulnerability** • **company sent home**
+**poorly timed restarts** • **iran's intelligence agencies** • **remove system packages** • **firestarter malware obtained** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **critical logscale vulnerability** • **company sent home** • **chinese national posed**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 - [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 - [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
 - [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
@@ -23,7 +24,6 @@
 - [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 - [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
 - [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
-- [UNC6692 Impersonates IT Help Desk via Microsoft Teams to Deploy SNOW Malware](https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html)
 
 ### BleepingComputer
 

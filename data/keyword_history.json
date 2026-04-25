@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1449,
+      "count": 1450,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -659,7 +659,7 @@
       ]
     },
     "remote code execution": {
-      "count": 277,
+      "count": 278,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2260,7 +2260,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -10703,7 +10703,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 365,
+      "count": 366,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11174,7 +11174,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12431,7 +12431,7 @@
       ]
     },
     "older internet routers": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13323,7 +13323,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13592,7 +13592,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14122,14 +14122,14 @@
       ]
     },
     "company sent home": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "china backed hackers": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14143,28 +14143,28 @@
       ]
     },
     "artificial intelligence models": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "high value leaders": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "firestarter malware obtained": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "uk cyber league": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14184,14 +14184,14 @@
       ]
     },
     "remove system packages": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "four nations participating": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14205,38 +14205,33 @@
       ]
     },
     "poorly timed restarts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "fake investment sites": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "critical logscale vulnerability": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-04-25"
+      ]
+    },
+    "chinese national posed": {
+      "count": 1,
       "dates": [
         "2026-04-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-15 20:41",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "windows server 2025",
-        "capsule security emerges",
-        "leveraging trusted infrastructure",
-        "authentication bypass vulnerability"
-      ]
-    },
     {
       "timestamp": "2026-04-15 22:36",
       "articles": 56,
@@ -15324,6 +15319,17 @@
         "remove system packages",
         "twitter whistleblower complaint",
         "iran war unleashing"
+      ]
+    },
+    {
+      "timestamp": "2026-04-25 10:38",
+      "articles": 56,
+      "top_keywords": [
+        "poorly timed restarts",
+        "iran's intelligence agencies",
+        "remove system packages",
+        "firestarter malware obtained",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-25 16:35 UTC  
+> **Last Updated:** 2026-04-25 18:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
 - [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
 - [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
 - [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
@@ -34,7 +35,6 @@
 - [New BlackFile extortion group linked to surge of vishing attacks](https://www.bleepingcomputer.com/news/security/new-blackfile-extortion-gang-targets-retail-and-hospitality-orgs/)
 - [Microsoft to roll out Entra passkeys on Windows in late April](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-roll-out-entra-passkeys-on-windows-in-late-april/)
 - [New ‘Pack2TheRoot’ flaw gives hackers root Linux access](https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/)
-- [DORA and operational resilience: Credential management as a financial risk control](https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/)
 
 ### Krebs on Security
 

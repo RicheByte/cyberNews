@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-25 16:35",
+  "last_updated": "2026-04-25 18:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 369
+      "mentions": 370
     },
     {
       "keyword": "firestarter malware obtained",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "remove system packages",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "government entities universities",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1453
+      "mentions": 1454
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "four nations participating",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 18
+      "mentions": 19
     }
   ],
   "articles": [
@@ -157,6 +157,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft rolls out revamped Windows Insider Program",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
+      "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
+      "published": "Sat, 25 Apr 2026 13:07:13 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
       "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
       "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
@@ -226,17 +235,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DORA and operational resilience: Credential management as a financial risk control",
-      "link": "https://www.bleepingcomputer.com/news/security/dora-and-operational-resilience-credential-management-as-a-financial-risk-control/",
-      "summary": "Article 9 of DORA makes authentication and access control a legal obligation for EU financial entities. Here is what the regulation requires, and what a breach looks like when those controls are missing. [...]",
-      "published": "Fri, 24 Apr 2026 10:10:20 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

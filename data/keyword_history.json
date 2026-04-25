@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1447,
+      "count": 1448,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -659,7 +659,7 @@
       ]
     },
     "remote code execution": {
-      "count": 275,
+      "count": 276,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -704,7 +704,8 @@
         "2026-04-20",
         "2026-04-22",
         "2026-04-23",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-04-25"
       ]
     },
     "attacker remotely control": {
@@ -2259,7 +2260,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -10702,7 +10703,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 363,
+      "count": 364,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11173,7 +11174,7 @@
       ]
     },
     "iran war unleashing": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-03-25",
         "2026-03-27",
@@ -12430,7 +12431,7 @@
       ]
     },
     "older internet routers": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13322,7 +13323,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13591,7 +13592,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14099,10 +14100,11 @@
       ]
     },
     "custom malware suite": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-23",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-04-25"
       ]
     },
     "joining teams meetings": {
@@ -14120,13 +14122,14 @@
       ]
     },
     "company sent home": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-04-24"
+        "2026-04-24",
+        "2026-04-25"
       ]
     },
     "china backed hackers": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14140,28 +14143,28 @@
       ]
     },
     "artificial intelligence models": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "high value leaders": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "firestarter malware obtained": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "uk cyber league": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14181,14 +14184,14 @@
       ]
     },
     "remove system packages": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "four nations participating": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-24",
         "2026-04-25"
@@ -14202,32 +14205,27 @@
       ]
     },
     "poorly timed restarts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24",
         "2026-04-25"
       ]
     },
     "fake investment sites": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-24",
+        "2026-04-25"
+      ]
+    },
+    "critical logscale vulnerability": {
+      "count": 1,
+      "dates": [
         "2026-04-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-15 16:57",
-      "articles": 56,
-      "top_keywords": [
-        "mitsubishi electric genesis64",
-        "windows server 2025",
-        "capsule security emerges",
-        "authentication bypass vulnerability",
-        "develop cybersecurity partnerships"
-      ]
-    },
     {
       "timestamp": "2026-04-15 19:08",
       "articles": 56,
@@ -15315,6 +15313,17 @@
         "iran's intelligence agencies",
         "remove system packages",
         "password manager bitwarden"
+      ]
+    },
+    {
+      "timestamp": "2026-04-25 07:07",
+      "articles": 56,
+      "top_keywords": [
+        "poorly timed restarts",
+        "iran's intelligence agencies",
+        "remove system packages",
+        "twitter whistleblower complaint",
+        "iran war unleashing"
       ]
     }
   ]

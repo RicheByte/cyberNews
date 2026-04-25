@@ -1,77 +1,90 @@
 {
-  "last_updated": "2026-04-25 04:38",
+  "last_updated": "2026-04-25 07:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "poorly timed restarts",
-    "nasa employees duped",
     "iran's intelligence agencies",
     "remove system packages",
-    "password manager bitwarden",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "four nations participating",
+    "firestarter malware obtained",
     "fake investment sites",
     "china backed hackers",
     "130 companies tangled",
     "uk cyber league",
+    "custom malware suite",
     "artificial intelligence models",
     "actively exploited flaw",
     "russia hacked routers",
+    "remote code execution",
     "older internet routers",
     "high value leaders",
-    "malware called firestarter",
-    "firestarter malware obtained",
-    "data wiping attack"
+    "critical logscale vulnerability",
+    "company sent home"
   ],
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 4
-    },
-    {
-      "keyword": "nasa employees duped",
-      "mentions": 6
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 363
+      "mentions": 364
     },
     {
       "keyword": "remove system packages",
-      "mentions": 5
-    },
-    {
-      "keyword": "password manager bitwarden",
-      "mentions": 9
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1447
+      "mentions": 1448
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "four nations participating",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "firestarter malware obtained",
+      "mentions": 9
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 150
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is below - CVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in",
+      "published": "Sat, 25 Apr 2026 10:38:00 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
       "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with malware called FIRESTARTER. FIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access and",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER. FIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access",
       "published": "Fri, 24 Apr 2026 22:36:00 +0530",
       "value_score": 74,
       "value_signals": [
@@ -139,15 +152,6 @@
       "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
       "summary": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT help desk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
       "published": "Thu, 23 Apr 2026 23:46:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
-      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
-      "summary": "Bitwarden CLI, the command-line interface for the password manager Bitwarden, has reportedly been compromised as part of a newly discovered and ongoing Checkmarx supply chain campaign, according to findings from JFrog and Socket. \"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the",
-      "published": "Thu, 23 Apr 2026 19:12:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

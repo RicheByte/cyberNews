@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-26 14:38",
+  "last_updated": "2026-04-26 16:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 19
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 378
-    },
-    {
-      "keyword": "firestarter malware obtained",
-      "mentions": 23
-    },
-    {
-      "keyword": "government entities universities",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1462
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 76
-    },
-    {
-      "keyword": "four nations participating",
       "mentions": 20
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 379
+    },
+    {
+      "keyword": "firestarter malware obtained",
+      "mentions": 24
+    },
+    {
+      "keyword": "government entities universities",
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1463
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 77
+    },
+    {
+      "keyword": "four nations participating",
+      "mentions": 21
+    },
+    {
       "keyword": "fake investment sites",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 164
+      "mentions": 165
     }
   ],
   "articles": [
@@ -391,7 +391,7 @@
       "source": "Dark Reading",
       "title": "Bad Memories Still Haunt AI Agents",
       "link": "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents",
-      "summary": "Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue threaten AI systems.",
+      "summary": "Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue to threaten AI systems.",
       "published": "Thu, 23 Apr 2026 14:30:31 GMT",
       "value_score": 18,
       "value_signals": [

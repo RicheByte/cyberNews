@@ -1,12 +1,11 @@
 {
-  "last_updated": "2026-04-26 12:56",
+  "last_updated": "2026-04-26 14:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "poorly timed restarts",
     "iran's intelligence agencies",
     "firestarter malware obtained",
-    "remove system packages",
     "government entities universities",
     "twitter whistleblower complaint",
     "iran war unleashing",
@@ -22,48 +21,49 @@
     "older internet routers",
     "high value leaders",
     "critical logscale vulnerability",
-    "company sent home"
+    "company sent home",
+    "chinese national posed"
   ],
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 377
+      "mentions": 378
     },
     {
       "keyword": "firestarter malware obtained",
-      "mentions": 22
-    },
-    {
-      "keyword": "remove system packages",
-      "mentions": 19
+      "mentions": 23
     },
     {
       "keyword": "government entities universities",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1461
+      "mentions": 1462
     },
     {
       "keyword": "iran war unleashing",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "four nations participating",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 164
     }
   ],
   "articles": [
@@ -157,6 +157,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "American utility firm Itron discloses breach of internal IT network",
+      "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
+      "summary": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
+      "published": "Sun, 26 Apr 2026 10:22:34 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft rolls out revamped Windows Insider Program",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
       "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
@@ -224,17 +235,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ‘Pack2TheRoot’ flaw gives hackers root Linux access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pack2theroot-flaw-gives-hackers-root-linux-access/",
-      "summary": "A new vulnerability dubbed Pack2TheRoot could be exploited in the PackageKit daemon to allow local Linux users to install or remove system packages and gain root permissions. [...]",
-      "published": "Fri, 24 Apr 2026 13:28:46 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

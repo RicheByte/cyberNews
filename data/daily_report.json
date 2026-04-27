@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 02:23",
+  "last_updated": "2026-04-27 06:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 24
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 383
-    },
-    {
-      "keyword": "firestarter malware obtained",
-      "mentions": 28
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1467
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 81
-    },
-    {
-      "keyword": "four nations participating",
       "mentions": 25
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 384
+    },
+    {
+      "keyword": "firestarter malware obtained",
+      "mentions": 29
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1468
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 82
+    },
+    {
+      "keyword": "four nations participating",
+      "mentions": 26
+    },
+    {
       "keyword": "fake investment sites",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "uk cyber league",
-      "mentions": 27
+      "mentions": 28
     }
   ],
   "articles": [
@@ -145,7 +145,7 @@
       "source": "The Hacker News",
       "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
       "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving LLMs, has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access sensitive data. \"A server-side",
+      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access",
       "published": "Fri, 24 Apr 2026 12:54:00 +0530",
       "value_score": 85,
       "value_signals": [

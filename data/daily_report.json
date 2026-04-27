@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-27 06:24",
+  "last_updated": "2026-04-27 10:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "poorly timed restarts",
     "iran's intelligence agencies",
+    "poorly timed restarts",
     "firestarter malware obtained",
-    "twitter whistleblower complaint",
-    "iran war unleashing",
-    "four nations participating",
     "fake investment sites",
+    "twitter whistleblower complaint",
+    "southeast asia cyberscams",
+    "four nations participating",
     "china backed hackers",
-    "130 companies tangled",
-    "uk cyber league",
-    "artificial intelligence models",
     "actively exploited flaw",
+    "uk cyber league",
+    "chinese national posed",
     "russia hacked routers",
     "remote code execution",
     "older internet routers",
-    "high value leaders",
     "government entities universities",
-    "critical logscale vulnerability",
+    "130 companies tangled",
     "company sent home",
-    "chinese national posed"
+    "ai powered phishing",
+    "triggered invoked provisioned",
+    "self propagation mechanism"
   ],
   "trending": [
     {
-      "keyword": "poorly timed restarts",
-      "mentions": 25
-    },
-    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 384
+      "mentions": 385
     },
     {
-      "keyword": "firestarter malware obtained",
-      "mentions": 29
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1468
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 82
-    },
-    {
-      "keyword": "four nations participating",
+      "keyword": "poorly timed restarts",
       "mentions": 26
     },
     {
+      "keyword": "firestarter malware obtained",
+      "mentions": 30
+    },
+    {
       "keyword": "fake investment sites",
-      "mentions": 25
+      "mentions": 26
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1469
+    },
+    {
+      "keyword": "southeast asia cyberscams",
+      "mentions": 1
+    },
+    {
+      "keyword": "four nations participating",
+      "mentions": 27
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 33
+      "mentions": 34
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 170
+      "keyword": "actively exploited flaw",
+      "mentions": 42
     },
     {
       "keyword": "uk cyber league",
-      "mentions": 28
+      "mentions": 29
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
+      "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
+      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers. According to a new report published by Infoblox, the operation is believed to",
+      "published": "Mon, 27 Apr 2026 12:03:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
@@ -138,20 +147,6 @@
       "published": "Fri, 24 Apr 2026 14:59:00 +0530",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html",
-      "summary": "A high-severity security flaw in LMDeploy, an open-source toolkit for compressing, deploying, and serving large language models (LLMs), has come under active exploitation in the wild less than 13 hours after its public disclosure. The vulnerability, tracked as CVE-2026-33626 (CVSS score: 7.5), relates to a Server-Side Request Forgery (SSRF) vulnerability that could be exploited to access",
-      "published": "Fri, 24 Apr 2026 12:54:00 +0530",
-      "value_score": 85,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -398,6 +393,26 @@
     },
     {
       "source": "Security Week",
+      "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
+      "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
+      "summary": "U.S. officials have announced a sweeping crackdown on Southeast Asian cyberscam operations as part of what U.S. Attorney Jeanine Pirro characterized Friday as a “new theater of war” launched by the Trump administration against Chinese transnational organized crime. The crackdown, led by a U.S. government Scam Center Strike Force, includes the Treasury Department’s sanctioning of […] The post US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator appeared firs",
+      "published": "Mon, 27 Apr 2026 09:39:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
+      "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
+      "summary": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10. The post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on SecurityWeek .",
+      "published": "Mon, 27 Apr 2026 08:39:28 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks",
       "link": "https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/",
       "summary": "Dubbed GopherWhisper, the group relies on multiple Go-based backdoors alongside custom loaders and injectors. The post China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks appeared first on SecurityWeek .",
@@ -452,29 +467,6 @@
       "value_score": 34,
       "value_signals": [
         "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US",
-      "link": "https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/",
-      "summary": "The Trump administration is vowing to crack down on foreign tech companies’ exploitation of U.S. artificial intelligence models. The post Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US appeared first on SecurityWeek .",
-      "published": "Fri, 24 Apr 2026 11:13:55 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerabilities Patched in CrowdStrike, Tenable Products",
-      "link": "https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/",
-      "summary": "CrowdStrike has fixed a critical LogScale vulnerability, while Tenable addressed a high-severity Nessus flaw. The post Vulnerabilities Patched in CrowdStrike, Tenable Products appeared first on SecurityWeek .",
-      "published": "Fri, 24 Apr 2026 09:49:27 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
       ]
     },
     {

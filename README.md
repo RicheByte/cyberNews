@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-27 06:24 UTC |
+| 🕐 Last Updated | 2026-04-27 10:09 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`poorly timed restarts` • `iran's intelligence agencies` • `firestarter malware obtained` • `twitter whistleblower complaint` • `iran war unleashing` • `four nations participating` • `fake investment sites` • `china backed hackers` • `130 companies tangled` • `uk cyber league`
+`iran's intelligence agencies` • `poorly timed restarts` • `firestarter malware obtained` • `fake investment sites` • `twitter whistleblower complaint` • `southeast asia cyberscams` • `four nations participating` • `china backed hackers` • `actively exploited flaw` • `uk cyber league`
 
 ## 📄 Reports
 

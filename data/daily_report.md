@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-27 06:24 UTC  
+> **Last Updated:** 2026-04-27 10:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**poorly timed restarts** • **iran's intelligence agencies** • **firestarter malware obtained** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **government entities universities** • **critical logscale vulnerability** • **company sent home** • **chinese national posed**
+**iran's intelligence agencies** • **poorly timed restarts** • **firestarter malware obtained** • **fake investment sites** • **twitter whistleblower complaint** • **southeast asia cyberscams** • **four nations participating** • **china backed hackers** • **actively exploited flaw** • **uk cyber league** • **chinese national posed** • **russia hacked routers** • **remote code execution** • **older internet routers** • **government entities universities** • **130 companies tangled** • **company sent home** • **ai powered phishing** • **triggered invoked provisioned** • **self propagation mechanism**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
 - [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 - [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
 - [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
@@ -23,7 +24,6 @@
 - [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html)
 - [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html)
 - [Tropic Trooper Uses Trojanized SumatraPDF and GitHub to Deploy AdaptixC2](https://thehackernews.com/2026/04/tropic-trooper-uses-trojanized.html)
-- [LMDeploy CVE-2026-33626 Flaw Exploited Within 13 Hours of Disclosure](https://thehackernews.com/2026/04/lmdeploy-cve-2026-33626-flaw-exploited.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator](https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/)
+- [Firefox Vulnerability Allows Tor User Fingerprinting](https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/)
 - [China-Linked APT GopherWhisper Abuses Legitimate Services in Government Attacks](https://www.securityweek.com/china-linked-apt-gopherwhisper-abuses-legitimate-services-in-government-attacks/)
 - [Pre-Stuxnet Sabotage Malware ‘Fast16’ Linked to US-Iran Cyber Tensions](https://www.securityweek.com/pre-stuxnet-sabotage-malware-fast16-linked-to-us-iran-cyber-tensions/)
 - [In Other News: Unauthorized Mythos Access, Plankey CISA Nomination Ends, New Display Security Device](https://www.securityweek.com/in-other-news-unauthorized-mythos-access-plankey-cisa-nomination-ends-new-display-security-device/)
 - [Why Cybersecurity Must Rethink Defense in the Age of Autonomous Agents](https://www.securityweek.com/why-cybersecurity-must-rethink-defense-in-the-age-of-autonomous-agents/)
 - [Locked Shields 2026: 41 Nations Strengthen Cyber Resilience in World’s Biggest Exercise](https://www.securityweek.com/locked-shields-2026-41-nations-strengthen-cyber-resilience-in-worlds-biggest-exercise/)
 - [US Federal Agency’s Cisco Firewall Infected With ‘Firestarter’ Backdoor](https://www.securityweek.com/us-federal-agencys-cisco-firewall-infected-with-firestarter-backdoor/)
-- [Trump Administration Vows Crackdown on Chinese Companies ‘Exploiting’ AI Models Made in US](https://www.securityweek.com/trump-administration-vows-crackdown-on-chinese-companies-exploiting-ai-models-made-in-us/)
-- [Vulnerabilities Patched in CrowdStrike, Tenable Products](https://www.securityweek.com/vulnerabilities-patched-in-crowdstrike-tenable-products/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-27 13:28 UTC  
+> **Last Updated:** 2026-04-27 15:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **firestarter malware obtained** • **russia hacked routers** • **deploy snow malware** • **twitter whistleblower complaint** • **threat actor gave** • **southeast asia cyberscams** • **sending real money** • **laundering funds stolen** • **know three seconds** • **frequent attack vectors** • **fake investment sites** • **zero click attacks** • **older internet routers** • **130 companies tangled** • **company sent home** • **chinese national posed** • **breach russian networks** • **adaptive security shows** • **uk cyber league**
+**iran's intelligence agencies** • **sending real money** • **frequent attack vectors** • **fake investment sites** • **5 000 workers** • **130 companies tangled** • **russia hacked routers** • **twitter whistleblower complaint** • **southeast asia cyberscams** • **ongoing investigation tied** • **know three seconds** • **early reporting describes** • **company sent home** • **breach russian networks** • **frequent attack vector** • **zero click attacks** • **older internet routers** • **data wiping attack** • **adaptive security shows** • **weird research showed**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
+- [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
 - [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
 - [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
 - [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
 - [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html)
 - [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html)
 - [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html)
-- [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html)
-- [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html)
 
 ### BleepingComputer
 
+- [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
+- [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
+- [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
+- [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
 - [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 - [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
 - [Microsoft says Outlook.com outage is causing sign‑in failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/)
 - [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
-- [Microsoft rolls out revamped Windows Insider Program](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/)
-- [Threat actor uses Microsoft Teams to deploy new “Snow” malware](https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/)
-- [ADT confirms data breach after ShinyHunters leak threat](https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/)
-- [Firestarter malware survives Cisco firewall updates, security patches](https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [20-Year-Old Malware Rewrites History of Cyber Sabotage](https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage)
 - [Parsing Agentic Offensive Security's Existential Threat](https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat)
 - [Helping Romance Scam Victims Requires a Proactive, Empathic Approach](https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims)
 - [US Busts Myanmar Ring Targeting US Citizens in Financial Fraud](https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud)
@@ -56,7 +57,6 @@
 - [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
 - [North Korea's Lazarus Targets macOS Users via ClickFix](https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix)
 - [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
-- [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
 
 ### Security Week
 

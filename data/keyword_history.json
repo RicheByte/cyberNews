@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1470,
+      "count": 1471,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2264,7 +2264,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7124,7 +7124,7 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -10710,7 +10710,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 386,
+      "count": 387,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11339,7 +11339,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11348,7 +11348,8 @@
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-04-27"
       ]
     },
     "things get shaky": {
@@ -12442,7 +12443,7 @@
       ]
     },
     "older internet routers": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13607,7 +13608,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13762,10 +13763,11 @@
       ]
     },
     "5 000 workers": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-27"
       ]
     },
     "blackcat ransomware starting": {
@@ -13941,12 +13943,13 @@
       ]
     },
     "data wiping attack": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-22",
         "2026-04-23",
         "2026-04-24",
-        "2026-04-25"
+        "2026-04-25",
+        "2026-04-27"
       ]
     },
     "service operations like": {
@@ -14140,7 +14143,7 @@
       ]
     },
     "company sent home": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14247,7 +14250,7 @@
       ]
     },
     "fake investment sites": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14280,7 +14283,7 @@
       ]
     },
     "southeast asia cyberscams": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-27"
       ]
@@ -14310,7 +14313,7 @@
       ]
     },
     "sending real money": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-27"
       ]
@@ -14322,24 +14325,42 @@
       ]
     },
     "know three seconds": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-27"
       ]
     },
     "zero click attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-27"
       ]
     },
     "breach russian networks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-27"
       ]
     },
     "adaptive security shows": {
+      "count": 2,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "ongoing investigation tied": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "early reporting describes": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "weird research showed": {
       "count": 1,
       "dates": [
         "2026-04-27"
@@ -14347,17 +14368,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-17 20:39",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "play policy updates",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-17 22:33",
       "articles": 56,
@@ -15445,6 +15455,17 @@
         "russia hacked routers",
         "deploy snow malware",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-27 15:43",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "sending real money",
+        "frequent attack vectors",
+        "fake investment sites",
+        "5 000 workers"
       ]
     }
   ]

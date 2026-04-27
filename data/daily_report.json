@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-04-27 13:28",
+  "last_updated": "2026-04-27 15:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
-    "firestarter malware obtained",
-    "russia hacked routers",
-    "deploy snow malware",
-    "twitter whistleblower complaint",
-    "threat actor gave",
-    "southeast asia cyberscams",
     "sending real money",
-    "laundering funds stolen",
-    "know three seconds",
     "frequent attack vectors",
     "fake investment sites",
+    "5 000 workers",
+    "130 companies tangled",
+    "russia hacked routers",
+    "twitter whistleblower complaint",
+    "southeast asia cyberscams",
+    "ongoing investigation tied",
+    "know three seconds",
+    "early reporting describes",
+    "company sent home",
+    "breach russian networks",
+    "frequent attack vector",
     "zero click attacks",
     "older internet routers",
-    "130 companies tangled",
-    "company sent home",
-    "chinese national posed",
-    "breach russian networks",
+    "data wiping attack",
     "adaptive security shows",
-    "uk cyber league"
+    "weird research showed"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 386
-    },
-    {
-      "keyword": "firestarter malware obtained",
-      "mentions": 31
-    },
-    {
-      "keyword": "russia hacked routers",
-      "mentions": 48
-    },
-    {
-      "keyword": "deploy snow malware",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1470
-    },
-    {
-      "keyword": "threat actor gave",
-      "mentions": 6
-    },
-    {
-      "keyword": "southeast asia cyberscams",
-      "mentions": 2
+      "mentions": 387
     },
     {
       "keyword": "sending real money",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "laundering funds stolen",
-      "mentions": 1
+      "keyword": "frequent attack vectors",
+      "mentions": 25
     },
     {
-      "keyword": "know three seconds",
+      "keyword": "fake investment sites",
+      "mentions": 28
+    },
+    {
+      "keyword": "5 000 workers",
+      "mentions": 11
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 173
+    },
+    {
+      "keyword": "russia hacked routers",
+      "mentions": 49
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1471
+    },
+    {
+      "keyword": "southeast asia cyberscams",
+      "mentions": 3
+    },
+    {
+      "keyword": "ongoing investigation tied",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
+      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
+      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. \"Based on current evidence, we believe this data originated from Checkmarx's GitHub repository, and that access to that repository was facilitated through the initial supply chain attack of March 23, 2026,",
+      "published": "Mon, 27 Apr 2026 19:49:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
+      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
+      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are. Most of it feels like stuff we should have fixed years ago. Bad extensions. Stolen creds. Remote tools are getting abused. Malware hides in places people trust. Same",
+      "published": "Mon, 27 Apr 2026 19:00:00 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side",
@@ -129,26 +150,43 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches",
-      "link": "https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has revealed that an unnamed federal civilian agency's Cisco Firepower device running Adaptive Security Appliance (ASA) software was compromised in September 2025 with a new malware called FIRESTARTER. FIRESTARTER, per CISA and the U.K.'s National Cyber Security Centre (NCSC), is assessed to be a backdoor designed for remote access",
-      "published": "Fri, 24 Apr 2026 22:36:00 +0530",
-      "value_score": 74,
+      "source": "BleepingComputer",
+      "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
+      "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
+      "published": "Mon, 27 Apr 2026 11:17:37 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Home security giant ADT data breach affects 5.5 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
+      "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "Mon, 27 Apr 2026 10:43:11 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Backdoor ×2",
-        "CISA/KEV ×2"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software",
-      "link": "https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html",
-      "summary": "The Office of Inspector General (OIG) of the U.S. National Aeronautics and Space Administration (NASA) has revealed how a Chinese national posed as a U.S. researcher as part of a spear-phishing campaign to obtain sensitive information from the space agency, as well as from government entities, universities, and private companies, in violation of export control laws. \"For years, NASA employees",
-      "published": "Fri, 24 Apr 2026 19:43:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Webinar: Spotting cyberattacks before they begin",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
+      "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
+      "published": "Mon, 27 Apr 2026 10:25:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
+      "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
+      "published": "Mon, 27 Apr 2026 09:50:42 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Phishing ×2"
+        "Breach/leak"
       ]
     },
     {
@@ -188,46 +226,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft rolls out revamped Windows Insider Program",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-revamped-windows-insider-program/",
-      "summary": "Microsoft says it's rolling out a revamped Windows Insider Program experience as part of the broader plans to address performance and reliability concerns affecting Windows 11. [...]",
-      "published": "Sat, 25 Apr 2026 13:07:13 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Threat actor uses Microsoft Teams to deploy new “Snow” malware",
-      "link": "https://www.bleepingcomputer.com/news/security/threat-actor-uses-microsoft-teams-to-deploy-new-snow-malware/",
-      "summary": "A threat group tracked as UNC6692 uses social engineering to deploy a new, custom malware suite named 'Snow' which includes a browser extension, a tunneler, and a backdoor. [...]",
-      "published": "Sat, 25 Apr 2026 11:07:44 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ADT confirms data breach after ShinyHunters leak threat",
-      "link": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
-      "summary": "Home security giant ADT has confirmed a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "published": "Fri, 24 Apr 2026 18:53:14 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Firestarter malware survives Cisco firewall updates, security patches",
-      "link": "https://www.bleepingcomputer.com/news/security/firestarter-malware-survives-cisco-firewall-updates-security-patches/",
-      "summary": "Cybersecurity agencies in the U.S. and U.K. are warning about a custom malware called Firestarter persisting on Cisco Firepower and Secure Firewall devices running Adaptive Security Appliance (ASA) or Firepower Threat Defense (FTD) software. [...]",
-      "published": "Fri, 24 Apr 2026 16:34:08 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +314,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
+      "link": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
+      "summary": "Researchers have uncovered a malware framework dubbed \"fast16\" that predates Stuxnet by five years.",
+      "published": "Mon, 27 Apr 2026 13:09:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Parsing Agentic Offensive Security's Existential Threat",
       "link": "https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat",
       "summary": "Some fear frontier LLMs like Claude Mythos and Anthropic's GPT-5.5 will lead to cybersecurity annihilation. Ari Herbert-Voss notes this could be an opportunity.",
@@ -375,15 +382,6 @@
       "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
       "link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
       "summary": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
-      "published": "Fri, 24 Apr 2026 01:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
-      "summary": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
       "published": "Fri, 24 Apr 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []

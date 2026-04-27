@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-27 10:09 UTC |
+| 🕐 Last Updated | 2026-04-27 13:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `poorly timed restarts` • `firestarter malware obtained` • `fake investment sites` • `twitter whistleblower complaint` • `southeast asia cyberscams` • `four nations participating` • `china backed hackers` • `actively exploited flaw` • `uk cyber league`
+`iran's intelligence agencies` • `firestarter malware obtained` • `russia hacked routers` • `deploy snow malware` • `twitter whistleblower complaint` • `threat actor gave` • `southeast asia cyberscams` • `sending real money` • `laundering funds stolen` • `know three seconds`
 
 ## 📄 Reports
 

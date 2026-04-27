@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1469,
+      "count": 1470,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2264,7 +2264,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7124,13 +7124,14 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-13",
         "2026-02-14",
         "2026-02-15",
         "2026-04-21",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-04-27"
       ]
     },
     "fake recruiter campaign": {
@@ -10709,7 +10710,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 385,
+      "count": 386,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -12441,7 +12442,7 @@
       ]
     },
     "older internet routers": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13606,7 +13607,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14051,9 +14052,10 @@
       ]
     },
     "threat actor gave": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-27"
       ]
     },
     "gain system privileges": {
@@ -14138,7 +14140,7 @@
       ]
     },
     "company sent home": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14181,7 +14183,7 @@
       ]
     },
     "firestarter malware obtained": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14190,7 +14192,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14245,7 +14247,7 @@
       ]
     },
     "fake investment sites": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14262,7 +14264,7 @@
       ]
     },
     "chinese national posed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-25",
         "2026-04-26",
@@ -14278,7 +14280,7 @@
       ]
     },
     "southeast asia cyberscams": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-27"
       ]
@@ -14300,20 +14302,51 @@
       "dates": [
         "2026-04-27"
       ]
+    },
+    "deploy snow malware": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "sending real money": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "laundering funds stolen": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "know three seconds": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "zero click attacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "breach russian networks": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
+    },
+    "adaptive security shows": {
+      "count": 1,
+      "dates": [
+        "2026-04-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-17 18:53",
-      "articles": 56,
-      "top_keywords": [
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "play policy updates",
-        "iran's intelligence agencies",
-        "hacked draftkings accounts"
-      ]
-    },
     {
       "timestamp": "2026-04-17 20:39",
       "articles": 56,
@@ -15400,6 +15433,17 @@
         "poorly timed restarts",
         "firestarter malware obtained",
         "fake investment sites",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-27 13:28",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "firestarter malware obtained",
+        "russia hacked routers",
+        "deploy snow malware",
         "twitter whistleblower complaint"
       ]
     }

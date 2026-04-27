@@ -1,12 +1,11 @@
 {
-  "last_updated": "2026-04-26 22:33",
+  "last_updated": "2026-04-27 02:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "poorly timed restarts",
     "iran's intelligence agencies",
     "firestarter malware obtained",
-    "government entities universities",
     "twitter whistleblower complaint",
     "iran war unleashing",
     "four nations participating",
@@ -20,6 +19,7 @@
     "remote code execution",
     "older internet routers",
     "high value leaders",
+    "government entities universities",
     "critical logscale vulnerability",
     "company sent home",
     "chinese national posed"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "poorly timed restarts",
-      "mentions": 23
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 382
-    },
-    {
-      "keyword": "firestarter malware obtained",
-      "mentions": 27
-    },
-    {
-      "keyword": "government entities universities",
-      "mentions": 16
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1466
-    },
-    {
-      "keyword": "iran war unleashing",
-      "mentions": 80
-    },
-    {
-      "keyword": "four nations participating",
       "mentions": 24
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 383
+    },
+    {
+      "keyword": "firestarter malware obtained",
+      "mentions": 28
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1467
+    },
+    {
+      "keyword": "iran war unleashing",
+      "mentions": 81
+    },
+    {
+      "keyword": "four nations participating",
+      "mentions": 25
+    },
+    {
       "keyword": "fake investment sites",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "china backed hackers",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 168
+      "mentions": 169
+    },
+    {
+      "keyword": "uk cyber league",
+      "mentions": 27
     }
   ],
   "articles": [
@@ -324,6 +324,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Helping Romance Scam Victims Require a Proactive, Empathic Approach",
+      "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
+      "summary": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial and government institutions to work together and protect them.",
+      "published": "Fri, 24 Apr 2026 22:34:13 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
       "link": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
       "summary": "Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites.",
@@ -386,17 +395,6 @@
       "published": "Thu, 23 Apr 2026 20:52:24 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Bad Memories Still Haunt AI Agents",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents",
-      "summary": "Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue to threaten AI systems.",
-      "published": "Thu, 23 Apr 2026 14:30:31 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",

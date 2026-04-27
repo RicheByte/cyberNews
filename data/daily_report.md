@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-26 22:33 UTC  
+> **Last Updated:** 2026-04-27 02:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**poorly timed restarts** • **iran's intelligence agencies** • **firestarter malware obtained** • **government entities universities** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **critical logscale vulnerability** • **company sent home** • **chinese national posed**
+**poorly timed restarts** • **iran's intelligence agencies** • **firestarter malware obtained** • **twitter whistleblower complaint** • **iran war unleashing** • **four nations participating** • **fake investment sites** • **china backed hackers** • **130 companies tangled** • **uk cyber league** • **artificial intelligence models** • **actively exploited flaw** • **russia hacked routers** • **remote code execution** • **older internet routers** • **high value leaders** • **government entities universities** • **critical logscale vulnerability** • **company sent home** • **chinese national posed**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Helping Romance Scam Victims Require a Proactive, Empathic Approach](https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims)
 - [US Busts Myanmar Ring Targeting US Citizens in Financial Fraud](https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud)
 - [Glasswing Secured the Code. The Rest of Your Stack Is Still on You](https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you)
 - [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
@@ -56,7 +57,6 @@
 - [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
 - [Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia](https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia)
 - [China-Backed Hackers Are Industrializing Botnets](https://www.darkreading.com/cyber-risk/china-hackers-industrializing-botnets)
-- [Bad Memories Still Haunt AI Agents](https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents)
 
 ### Security Week
 

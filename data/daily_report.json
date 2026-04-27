@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-27 15:43",
+  "last_updated": "2026-04-27 17:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "sending real money",
-    "frequent attack vectors",
     "fake investment sites",
     "5 000 workers",
     "130 companies tangled",
-    "russia hacked routers",
     "twitter whistleblower complaint",
     "southeast asia cyberscams",
     "ongoing investigation tied",
     "know three seconds",
     "early reporting describes",
-    "company sent home",
     "breach russian networks",
-    "frequent attack vector",
     "zero click attacks",
-    "older internet routers",
-    "data wiping attack",
+    "russia hacked routers",
+    "frequent attack vectors",
+    "frequent attack vector",
     "adaptive security shows",
-    "weird research showed"
+    "data wiping attack",
+    "weird research showed",
+    "unpatched phantomrpc flaw",
+    "uk cyber league"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 387
+      "mentions": 388
     },
     {
       "keyword": "sending real money",
-      "mentions": 2
-    },
-    {
-      "keyword": "frequent attack vectors",
-      "mentions": 25
-    },
-    {
-      "keyword": "fake investment sites",
-      "mentions": 28
-    },
-    {
-      "keyword": "5 000 workers",
-      "mentions": 11
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 173
-    },
-    {
-      "keyword": "russia hacked routers",
-      "mentions": 49
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1471
-    },
-    {
-      "keyword": "southeast asia cyberscams",
       "mentions": 3
     },
     {
+      "keyword": "fake investment sites",
+      "mentions": 29
+    },
+    {
+      "keyword": "5 000 workers",
+      "mentions": 12
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 174
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1472
+    },
+    {
+      "keyword": "southeast asia cyberscams",
+      "mentions": 4
+    },
+    {
       "keyword": "ongoing investigation tied",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "know three seconds",
+      "mentions": 3
+    },
+    {
+      "keyword": "early reporting describes",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FTC: Americans lost over $2.1 billion to social media scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/",
+      "summary": "The U.S. Federal Trade Commission (FTC) warned of a massive increase in losses from social media scams since 2020, exceeding $2.1 billion in 2025. [...]",
+      "published": "Mon, 27 Apr 2026 12:27:53 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "PyPI package with 1.1M monthly downloads hacked to push infostealer",
       "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
       "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
@@ -215,17 +224,6 @@
       "published": "Mon, 27 Apr 2026 08:03:46 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "American utility firm Itron discloses breach of internal IT network",
-      "link": "https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/",
-      "summary": "Itron, Inc. has disclosed, via an 8-K filing with the U.S. Securities and Exchange Commission (SEC), a cybersecurity incident in which an unauthorized third party accessed certain internal systems. [...]",
-      "published": "Sun, 26 Apr 2026 10:22:34 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -314,6 +312,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
+      "summary": "A researcher discovered five different exploit paths that stem from an architectural weakness in how Windows' Remote Procedure Call (RPC) mechanism handles connections to unavailable services.",
+      "published": "Mon, 27 Apr 2026 15:31:41 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
       "link": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
       "summary": "Researchers have uncovered a malware framework dubbed \"fast16\" that predates Stuxnet by five years.",
@@ -374,15 +384,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix",
       "summary": "Lazarus continues leveraging ClickFix for initial access and data theft: in this case, against Mac-centric organizations and their high-value leaders.",
       "published": "Fri, 24 Apr 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets",
-      "link": "https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets",
-      "summary": "The Chinese state-sponsored cyber threat is known for moving fast and trying odd attack vectors; now it's branching out in tools, victimology, and TTPs.",
-      "published": "Fri, 24 Apr 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

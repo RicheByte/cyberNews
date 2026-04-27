@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-27 15:43 UTC  
+> **Last Updated:** 2026-04-27 17:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **sending real money** • **frequent attack vectors** • **fake investment sites** • **5 000 workers** • **130 companies tangled** • **russia hacked routers** • **twitter whistleblower complaint** • **southeast asia cyberscams** • **ongoing investigation tied** • **know three seconds** • **early reporting describes** • **company sent home** • **breach russian networks** • **frequent attack vector** • **zero click attacks** • **older internet routers** • **data wiping attack** • **adaptive security shows** • **weird research showed**
+**iran's intelligence agencies** • **sending real money** • **fake investment sites** • **5 000 workers** • **130 companies tangled** • **twitter whistleblower complaint** • **southeast asia cyberscams** • **ongoing investigation tied** • **know three seconds** • **early reporting describes** • **breach russian networks** • **zero click attacks** • **russia hacked routers** • **frequent attack vectors** • **frequent attack vector** • **adaptive security shows** • **data wiping attack** • **weird research showed** • **unpatched phantomrpc flaw** • **uk cyber league**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
 - [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 - [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
 - [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
@@ -34,7 +35,6 @@
 - [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 - [Deepfake Voice Attacks are Outpacing Defenses: What Security Leaders Should Know](https://www.bleepingcomputer.com/news/security/deepfake-voice-attacks-are-outpacing-defenses-what-security-leaders-should-know/)
 - [Microsoft says Outlook.com outage is causing sign‑in failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-outlookcom-outage-is-causing-sign-in-failures/)
-- [American utility firm Itron discloses breach of internal IT network](https://www.bleepingcomputer.com/news/security/american-utility-firm-itron-discloses-breach-of-internal-it-network/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation)
 - [20-Year-Old Malware Rewrites History of Cyber Sabotage](https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage)
 - [Parsing Agentic Offensive Security's Existential Threat](https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat)
 - [Helping Romance Scam Victims Requires a Proactive, Empathic Approach](https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims)
@@ -56,7 +57,6 @@
 - [Glasswing Secured the Code. The Rest of Your Stack Is Still on You](https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you)
 - [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
 - [North Korea's Lazarus Targets macOS Users via ClickFix](https://www.darkreading.com/threat-intelligence/north-koreas-lazarus-targets-macos-users-clickfix)
-- [Tropic Trooper APT Takes Aim at Home Routers, Japanese Targets](https://www.darkreading.com/threat-intelligence/tropic-trooper-apt-takes-aim-home-routers-japanese-targets)
 
 ### Security Week
 

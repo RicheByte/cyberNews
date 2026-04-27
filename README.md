@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-27 15:43 UTC |
+| 🕐 Last Updated | 2026-04-27 17:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `sending real money` • `frequent attack vectors` • `fake investment sites` • `5 000 workers` • `130 companies tangled` • `russia hacked routers` • `twitter whistleblower complaint` • `southeast asia cyberscams` • `ongoing investigation tied`
+`iran's intelligence agencies` • `sending real money` • `fake investment sites` • `5 000 workers` • `130 companies tangled` • `twitter whistleblower complaint` • `southeast asia cyberscams` • `ongoing investigation tied` • `know three seconds` • `early reporting describes`
 
 ## 📄 Reports
 

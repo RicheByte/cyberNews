@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 20:56",
+  "last_updated": "2026-04-27 22:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 390
+      "mentions": 391
     },
     {
       "keyword": "sms blaster device",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 176
+      "mentions": 177
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1474
+      "mentions": 1475
     },
     {
       "keyword": "southeast asia cyberscams",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "early reporting describes",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "chinese national accused",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "china's intelligence services",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
+      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
+      "published": "Mon, 27 Apr 2026 17:41:01 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
       "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
       "summary": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
@@ -217,15 +228,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Money launderer linked to $230M crypto heist gets 70 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/",
-      "summary": "​22-year-old Evan Tangeman of Newport Beach, California, was sentenced to 70 months in prison for laundering funds stolen in a massive $230 million cryptocurrency heist. [...]",
-      "published": "Mon, 27 Apr 2026 09:01:38 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

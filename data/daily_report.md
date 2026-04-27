@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-27 20:56 UTC  
+> **Last Updated:** 2026-04-27 22:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
 - [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
 - [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
 - [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
@@ -34,7 +35,6 @@
 - [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
 - [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
 - [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
-- [Money launderer linked to $230M crypto heist gets 70 months in prison](https://www.bleepingcomputer.com/news/security/money-launderer-linked-to-230m-crypto-heist-gets-70-months-in-prison/)
 
 ### Krebs on Security
 

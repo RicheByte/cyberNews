@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-27 22:45 UTC  
+> **Last Updated:** 2026-04-28 02:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **sms blaster device** • **fake investment sites** • **5 000 workers** • **130 companies tangled** • **twitter whistleblower complaint** • **southeast asia cyberscams** • **early reporting describes** • **chinese national accused** • **china's intelligence services** • **breach russian networks** • **arrested three men** • **zero click attacks** • **russia hacked routers** • **frequent attack vectors** • **frequent attack vector** • **data wiping attack** • **weird research showed** • **unpatched phantomrpc flaw** • **uk cyber league**
+**iran's intelligence agencies** • **sms blaster device** • **fake investment sites** • **5 000 workers** • **130 companies tangled** • **twitter whistleblower complaint** • **southeast asia cyberscams** • **early reporting describes** • **chinese national accused** • **china's intelligence services** • **arrested three men** • **data wiping attack** • **breach russian networks** • **zero click attacks** • **russia hacked routers** • **frequent attack vectors** • **frequent attack vector** • **weird research showed** • **unpatched phantomrpc flaw** • **uk cyber league**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
 - [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
 - [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
 - [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
@@ -34,7 +35,6 @@
 - [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 - [Home security giant ADT data breach affects 5.5 million people](https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/)
 - [Webinar: Spotting cyberattacks before they begin](https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/)
-- [Medtronic confirms breach after hackers claim 9 million records theft](https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/)
 
 ### Krebs on Security
 

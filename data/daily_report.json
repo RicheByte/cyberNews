@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-27 22:45",
+  "last_updated": "2026-04-28 02:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,13 +13,13 @@
     "early reporting describes",
     "chinese national accused",
     "china's intelligence services",
-    "breach russian networks",
     "arrested three men",
+    "data wiping attack",
+    "breach russian networks",
     "zero click attacks",
     "russia hacked routers",
     "frequent attack vectors",
     "frequent attack vector",
-    "data wiping attack",
     "weird research showed",
     "unpatched phantomrpc flaw",
     "uk cyber league"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 391
+      "mentions": 392
     },
     {
       "keyword": "sms blaster device",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "5 000 workers",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 177
+      "mentions": 178
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1475
+      "mentions": 1476
     },
     {
       "keyword": "southeast asia cyberscams",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "early reporting describes",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "chinese national accused",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "china's intelligence services",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -151,6 +151,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Robinhood account creation flaw abused to send phishing emails",
+      "link": "https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/",
+      "summary": "Online trading platform Robinhood's account creation process was exploited by threat actors to inject phishing messages into legitimate emails, tricking users into believing their accounts had suspicious activity. [...]",
+      "published": "Mon, 27 Apr 2026 19:11:01 -0400",
+      "value_score": 32,
+      "value_signals": [
+        "Phishing ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
       "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
       "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
@@ -217,17 +229,6 @@
       "published": "Mon, 27 Apr 2026 10:25:35 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Medtronic confirms breach after hackers claim 9 million records theft",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-confirms-breach-after-hackers-claim-9-million-records-theft/",
-      "summary": "Medical device giant Medtronic disclosed last week that hackers breached its network and accessed data in \"certain corporate IT systems.\" [...]",
-      "published": "Mon, 27 Apr 2026 09:50:42 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",

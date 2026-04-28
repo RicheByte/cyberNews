@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-28 19:26",
+  "last_updated": "2026-04-28 21:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,7 +9,6 @@
     "twitter whistleblower complaint",
     "orchestrating cyber attacks",
     "iran's intelligence agencies",
-    "fake investment sites",
     "exchange online starting",
     "asked iphone users",
     "130 companies tangled",
@@ -18,6 +17,7 @@
     "ai governance join",
     "finding exploitable vulnerabilities",
     "robinhood vulnerability exploited",
+    "wire fraud conspiracy",
     "uk cyber league",
     "things iot devices",
     "targets minecraft players",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 300
+      "mentions": 301
     },
     {
       "keyword": "xu zewei 34",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "vimeo confirms user",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1481
-    },
-    {
-      "keyword": "orchestrating cyber attacks",
       "mentions": 2
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 397
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1482
     },
     {
-      "keyword": "fake investment sites",
-      "mentions": 38
+      "keyword": "orchestrating cyber attacks",
+      "mentions": 3
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 398
     },
     {
       "keyword": "exchange online starting",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "asked iphone users",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 183
+      "mentions": 184
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 599
     }
   ],
   "articles": [
@@ -322,6 +322,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Feuding Ransomware Groups Leak Each Other's Data",
+      "link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
+      "summary": "When 0APT and KryBit attacked each other, they exposed infrastructure and operational data, giving defenders rare insight into ransomware operations.",
+      "published": "Tue, 28 Apr 2026 20:13:30 GMT",
+      "value_score": 58,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vidar Rises to Top of Chaotic Infostealer Market",
       "link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
       "summary": "The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.",
@@ -383,15 +395,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims",
       "summary": "People targeted by confidence schemes find getting help is a lonely road. Experts want law enforcement, financial, and government institutions to work together and protect them.",
       "published": "Fri, 24 Apr 2026 22:34:13 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "US Busts Myanmar Ring Targeting US Citizens in Financial Fraud",
-      "link": "https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud",
-      "summary": "Some 29 people were charged, including a Cambodian senator, and authorities seized more than 500 Web domains tied to fake investment sites.",
-      "published": "Fri, 24 Apr 2026 16:48:04 GMT",
       "value_score": 10,
       "value_signals": []
     },

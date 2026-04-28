@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-28 19:26 UTC  
+> **Last Updated:** 2026-04-28 21:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **xu zewei 34** • **vimeo confirms user** • **twitter whistleblower complaint** • **orchestrating cyber attacks** • **iran's intelligence agencies** • **fake investment sites** • **exchange online starting** • **asked iphone users** • **130 companies tangled** • **windows operating systems** • **aggravated identity theft** • **ai governance join** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **uk cyber league** • **things iot devices** • **targets minecraft players** • **published puts numbers** • **project glasswing showed**
+**remote code execution** • **xu zewei 34** • **vimeo confirms user** • **twitter whistleblower complaint** • **orchestrating cyber attacks** • **iran's intelligence agencies** • **exchange online starting** • **asked iphone users** • **130 companies tangled** • **windows operating systems** • **aggravated identity theft** • **ai governance join** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **wire fraud conspiracy** • **uk cyber league** • **things iot devices** • **targets minecraft players** • **published puts numbers** • **project glasswing showed**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
 - [Vidar Rises to Top of Chaotic Infostealer Market](https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market)
 - [Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain](https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain)
 - [UNC6692 Combines Social Engineering, Malware, Cloud Abuse](https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse)
@@ -56,7 +57,6 @@
 - [20-Year-Old Malware Rewrites History of Cyber Sabotage](https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage)
 - [Parsing Agentic Offensive Security's Existential Threat](https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat)
 - [Helping Romance Scam Victims Requires a Proactive, Empathic Approach](https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims)
-- [US Busts Myanmar Ring Targeting US Citizens in Financial Fraud](https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud)
 
 ### Security Week
 

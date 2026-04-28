@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-04-28 13:52",
+  "last_updated": "2026-04-28 16:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "spectrum security emerges",
     "yadea electric scooters",
     "xu zewei 34",
-    "germany suspects russia",
-    "sms blaster device",
-    "130 companies tangled",
+    "73 sleeper extensions",
+    "remote code execution",
     "rider safety vulnerabilities",
     "twitter whistleblower complaint",
-    "remote code execution",
+    "orchestrating cyber attacks",
+    "iran's intelligence agencies",
+    "asked iphone users",
+    "130 companies tangled",
     "fake rpc server",
     "fake investment sites",
-    "asked iphone users",
-    "73 sleeper extensions",
-    "post electric motorcycles",
-    "iran's intelligence agencies",
-    "china's intelligence services",
+    "cybercriminal operation known",
     "aggravated identity theft",
-    "agent identity platform",
+    "robinhood vulnerability exploited",
+    "frequent attack vectors",
+    "frequent attack vector",
     "pose physical security",
-    "every security program"
+    "every security program",
+    "firestarter malware obtained"
   ],
   "trending": [
     {
-      "keyword": "spectrum security emerges",
-      "mentions": 2
-    },
-    {
       "keyword": "yadea electric scooters",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "xu zewei 34",
+      "mentions": 3
+    },
+    {
+      "keyword": "73 sleeper extensions",
       "mentions": 2
     },
     {
-      "keyword": "germany suspects russia",
-      "mentions": 1
-    },
-    {
-      "keyword": "sms blaster device",
-      "mentions": 6
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 181
+      "keyword": "remote code execution",
+      "mentions": 299
     },
     {
       "keyword": "rider safety vulnerabilities",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1479
+      "mentions": 1480
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 298
-    },
-    {
-      "keyword": "fake rpc server",
+      "keyword": "orchestrating cyber attacks",
       "mentions": 1
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 396
+    },
+    {
+      "keyword": "asked iphone users",
+      "mentions": 3
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 182
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
+      "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
+      "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors. The fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to",
+      "published": "Tue, 28 Apr 2026 19:31:00 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "Ransomware ×2",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
@@ -147,16 +159,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html",
-      "summary": "Everything is dumb again. This week feels broken in a very familiar way. Old tricks are back. New tools are doing shady crap. Supply chains got hit. Fake help desks worked. Weird research showed how easy some attacks still are. Most of it feels like stuff we should have fixed years ago. Bad extensions. Stolen creds. Remote tools are getting abused. Malware hides in places people trust. Same",
-      "published": "Mon, 27 Apr 2026 19:00:00 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Patch/update",
-        "Backdoor"
-      ]
+      "source": "BleepingComputer",
+      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
+      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
+      "summary": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]",
+      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
+      "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
+      "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
+      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -216,26 +234,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Canada arrests three for operating “SMS blaster” device in Toronto",
-      "link": "https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/",
-      "summary": "Canadian authorities have arrested three men for operating an \"SMS blaster\" device that pretends to be a cellular tower to send phishing texts to nearby phones. [...]",
-      "published": "Mon, 27 Apr 2026 16:00:31 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Alleged Silk Typhoon hacker extradited to US for cyberespionage",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/",
-      "summary": "A Chinese national accused of carrying out cyberespionage operations for China's intelligence services has been extradited from Italy to the United States to face criminal charges. [...]",
-      "published": "Mon, 27 Apr 2026 15:56:03 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain",
+      "link": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
+      "summary": "Attackers continue to scale a campaign to seed Open VSX with seemingly benign VS Code extensions that spread self-propagating malware.",
+      "published": "Tue, 28 Apr 2026 14:59:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
       "link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
       "summary": "A newly discovered threat actor is using Microsoft Teams, AWS S3 buckets, and custom \"Snow\" malware in a multipronged campaign.",
@@ -389,14 +396,33 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
-      "link": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
-      "summary": "In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
-      "published": "Fri, 24 Apr 2026 13:30:00 GMT",
-      "value_score": 26,
+      "source": "Security Week",
+      "title": "The Mythos Moment: Enterprises Must Fight Agents with Agents",
+      "link": "https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/",
+      "summary": "Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era. The post The Mythos Moment: Enterprises Must Fight Agents with Agents appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 15:45:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: A Step-by-Step Approach to AI Governance",
+      "link": "https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/",
+      "summary": "Join the webinar to explore a practical, multi-layered roadmap to transition from fragmented AI usage to a governed, scalable ecosystem. The post Webinar Today: A Step-by-Step Approach to AI Governance appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 15:29:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Robinhood Vulnerability Exploited for Phishing Attacks",
+      "link": "https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/",
+      "summary": "Legitimate-looking emails coming from Robinhood systems lured recipients to phishing websites. The post Robinhood Vulnerability Exploited for Phishing Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 14:49:51 +0000",
+      "value_score": 32,
       "value_signals": [
-        "Phishing ×2"
+        "Phishing ×3",
+        "Exploit wording"
       ]
     },
     {
@@ -445,37 +471,6 @@
       "value_signals": [
         "Privilege escalation ×2",
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials",
-      "link": "https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/",
-      "summary": "Federal prosecutors have been conducting a preliminary investigation since mid-February 2026 into alleged cyberattacks on Signal accounts. The post Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 10:54:57 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
-      "link": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
-      "summary": "The threat detection startup will invest in accelerating its engineering and go-to-market efforts. The post Spectrum Security Emerges From Stealth Mode With $19 Million appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 08:25:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
-      "link": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
-      "summary": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic. The post Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 06:35:19 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

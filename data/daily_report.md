@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-28 13:52 UTC  
+> **Last Updated:** 2026-04-28 16:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**spectrum security emerges** • **yadea electric scooters** • **xu zewei 34** • **germany suspects russia** • **sms blaster device** • **130 companies tangled** • **rider safety vulnerabilities** • **twitter whistleblower complaint** • **remote code execution** • **fake rpc server** • **fake investment sites** • **asked iphone users** • **73 sleeper extensions** • **post electric motorcycles** • **iran's intelligence agencies** • **china's intelligence services** • **aggravated identity theft** • **agent identity platform** • **pose physical security** • **every security program**
+**yadea electric scooters** • **xu zewei 34** • **73 sleeper extensions** • **remote code execution** • **rider safety vulnerabilities** • **twitter whistleblower complaint** • **orchestrating cyber attacks** • **iran's intelligence agencies** • **asked iphone users** • **130 companies tangled** • **fake rpc server** • **fake investment sites** • **cybercriminal operation known** • **aggravated identity theft** • **robinhood vulnerability exploited** • **frequent attack vectors** • **frequent attack vector** • **pose physical security** • **every security program** • **firestarter malware obtained**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
 - [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
 - [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 - [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
@@ -23,18 +24,17 @@
 - [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
 - [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
 - [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
-- [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
 
 ### BleepingComputer
 
+- [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
+- [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
 - [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
 - [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
 - [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 - [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
 - [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
 - [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
-- [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
-- [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain](https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain)
 - [UNC6692 Combines Social Engineering, Malware, Cloud Abuse](https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse)
 - [Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation)
 - [20-Year-Old Malware Rewrites History of Cyber Sabotage](https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage)
@@ -56,18 +57,17 @@
 - [Helping Romance Scam Victims Requires a Proactive, Empathic Approach](https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims)
 - [US Busts Myanmar Ring Targeting US Citizens in Financial Fraud](https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud)
 - [Glasswing Secured the Code. The Rest of Your Stack Is Still on You](https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you)
-- [AI Phishing Is No. 1 With a Bullet for Cyberattackers](https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers)
 
 ### Security Week
 
+- [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
+- [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
+- [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
 - [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
 - [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
 - [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
 - [Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety](https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/)
 - [No Patch for New PhantomRPC Privilege Escalation Technique in Windows](https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/)
-- [Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials](https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/)
-- [Spectrum Security Emerges From Stealth Mode With $19 Million](https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/)
-- [Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak](https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/)
 
 ### Threatpost
 

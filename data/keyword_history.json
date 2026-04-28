@@ -272,7 +272,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1479,
+      "count": 1480,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -662,7 +662,7 @@
       ]
     },
     "remote code execution": {
-      "count": 298,
+      "count": 299,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2266,7 +2266,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7127,7 +7127,7 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -10714,7 +10714,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 395,
+      "count": 396,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11344,7 +11344,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -13704,7 +13704,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14196,12 +14196,13 @@
       ]
     },
     "firestarter malware obtained": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-04-24",
         "2026-04-25",
         "2026-04-26",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-04-28"
       ]
     },
     "uk cyber league": {
@@ -14261,7 +14262,7 @@
       ]
     },
     "fake investment sites": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14425,7 +14426,7 @@
       ]
     },
     "asked iphone users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
@@ -14437,13 +14438,13 @@
       ]
     },
     "xu zewei 34": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
     },
     "yadea electric scooters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-28"
       ]
@@ -14455,19 +14456,19 @@
       ]
     },
     "rider safety vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-28"
       ]
     },
     "fake rpc server": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-28"
       ]
     },
     "73 sleeper extensions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-28"
       ]
@@ -14479,12 +14480,30 @@
       ]
     },
     "pose physical security": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-28"
       ]
     },
     "every security program": {
+      "count": 2,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "orchestrating cyber attacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "cybercriminal operation known": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "robinhood vulnerability exploited": {
       "count": 1,
       "dates": [
         "2026-04-28"
@@ -14492,17 +14511,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-18 16:33",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-18 18:40",
       "articles": 56,
@@ -15590,6 +15598,17 @@
         "xu zewei 34",
         "germany suspects russia",
         "sms blaster device"
+      ]
+    },
+    {
+      "timestamp": "2026-04-28 16:05",
+      "articles": 56,
+      "top_keywords": [
+        "yadea electric scooters",
+        "xu zewei 34",
+        "73 sleeper extensions",
+        "remote code execution",
+        "rider safety vulnerabilities"
       ]
     }
   ]

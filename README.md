@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-28 13:52 UTC |
+| 🕐 Last Updated | 2026-04-28 16:05 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`spectrum security emerges` • `yadea electric scooters` • `xu zewei 34` • `germany suspects russia` • `sms blaster device` • `130 companies tangled` • `rider safety vulnerabilities` • `twitter whistleblower complaint` • `remote code execution` • `fake rpc server`
+`yadea electric scooters` • `xu zewei 34` • `73 sleeper extensions` • `remote code execution` • `rider safety vulnerabilities` • `twitter whistleblower complaint` • `orchestrating cyber attacks` • `iran's intelligence agencies` • `asked iphone users` • `130 companies tangled`
 
 ## 📄 Reports
 

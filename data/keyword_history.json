@@ -184,7 +184,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 599,
+      "count": 600,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -273,7 +273,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1482,
+      "count": 1483,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -663,7 +663,7 @@
       ]
     },
     "remote code execution": {
-      "count": 301,
+      "count": 302,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1957,7 +1957,7 @@
       ]
     },
     "things iot devices": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2268,7 +2268,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7874,7 +7874,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10717,7 +10717,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 398,
+      "count": 399,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13707,7 +13707,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14209,7 +14209,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14441,7 +14441,7 @@
       ]
     },
     "xu zewei 34": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28"
       ]
@@ -14495,7 +14495,7 @@
       ]
     },
     "orchestrating cyber attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-28"
       ]
@@ -14507,37 +14507,37 @@
       ]
     },
     "robinhood vulnerability exploited": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-28"
       ]
     },
     "vimeo confirms user": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
     },
     "exchange online starting": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
     },
     "ai governance join": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
     },
     "finding exploitable vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
     },
     "targets minecraft players": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-28"
       ]
@@ -14553,20 +14553,27 @@
       "dates": [
         "2026-04-28"
       ]
+    },
+    "disclose sensitive information": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "fake zoom calls": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "large files researchers": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-18 22:28",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-19 02:09",
       "articles": 56,
@@ -15654,6 +15661,17 @@
         "vimeo confirms user",
         "twitter whistleblower complaint",
         "orchestrating cyber attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-04-28 22:52",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "xu zewei 34",
+        "vimeo confirms user",
+        "disclose sensitive information",
+        "twitter whistleblower complaint"
       ]
     }
   ]

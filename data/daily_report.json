@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-04-28 06:26",
+  "last_updated": "2026-04-28 10:08",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "iran's intelligence agencies",
+    "spectrum security emerges",
     "sms blaster device",
+    "asked iphone users",
     "fake investment sites",
-    "5 000 workers",
     "130 companies tangled",
     "twitter whistleblower complaint",
-    "southeast asia cyberscams",
-    "early reporting describes",
     "chinese national accused",
-    "china's intelligence services",
-    "arrested three men",
-    "data wiping attack",
-    "breach russian networks",
     "zero click attacks",
+    "iran's intelligence agencies",
+    "china's intelligence services",
+    "aggravated identity theft",
+    "agent identity platform",
+    "data wiping attack",
     "russia hacked routers",
     "frequent attack vectors",
     "frequent attack vector",
+    "xu zewei 34",
     "weird research showed",
     "unpatched phantomrpc flaw",
     "uk cyber league"
   ],
   "trending": [
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 393
+      "keyword": "spectrum security emerges",
+      "mentions": 1
     },
     {
       "keyword": "sms blaster device",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "asked iphone users",
+      "mentions": 1
     },
     {
       "keyword": "fake investment sites",
-      "mentions": 34
-    },
-    {
-      "keyword": "5 000 workers",
-      "mentions": 17
+      "mentions": 35
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 179
+      "mentions": 180
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1477
-    },
-    {
-      "keyword": "southeast asia cyberscams",
-      "mentions": 9
-    },
-    {
-      "keyword": "early reporting describes",
-      "mentions": 7
+      "mentions": 1478
     },
     {
       "keyword": "chinese national accused",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "zero click attacks",
+      "mentions": 9
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 394
     },
     {
       "keyword": "china's intelligence services",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
+      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
+      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including",
+      "published": "Tue, 28 Apr 2026 13:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
+      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
+      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a",
+      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Privilege escalation"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
+      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
+      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this",
+      "published": "Tue, 28 Apr 2026 11:20:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Patch/update ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
@@ -119,35 +154,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud",
-      "link": "https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html",
-      "summary": "Cybersecurity researchers have disclosed details of a telecommunications fraud campaign that uses fake CAPTCHA verification tricks to dupe unsuspecting users into sending international text messages that incur charges on their mobile bills, generating illicit revenue for the threat actors who lease the phone numbers. According to a new report published by Infoblox, the operation is believed to",
-      "published": "Mon, 27 Apr 2026 12:03:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
+      "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+      "published": "Tue, 28 Apr 2026 05:51:26 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software",
-      "link": "https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html",
-      "summary": "Cybersecurity researchers have discovered a new Lua-based malware created years before the notorious Stuxnet worm that aimed to sabotage Iran's nuclear program by destroying uranium enrichment centrifuges. According to a new report published by SentinelOne, the previously undocumented cyber sabotage framework dates back to 2005, primarily targeting high-precision calculation software to tamper",
-      "published": "Sat, 25 Apr 2026 14:56:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft asks iPhone users to reauthenticate after Outlook outage",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/",
+      "summary": "After addressing a widespread outage that affected Outlook.com users worldwide on Monday, Microsoft has asked iPhone users to re-enter their credentials to regain access to their Outlook and Hotmail accounts via the default Mail app. [...]",
+      "published": "Tue, 28 Apr 2026 04:37:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four vulnerabilities impacting SimpleHelp, Samsung MagicINFO 9 Server, and D-Link DIR-823X series routers to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The list of vulnerabilities is below - CVE-2024-57726 (CVSS score: 9.9) - A missing authorization vulnerability in",
-      "published": "Sat, 25 Apr 2026 10:38:00 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×5",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -207,26 +229,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/",
       "summary": "An attacker pushed a malicious version of the popular elementary-data package Python Package Index (PyPI) to steal sensitive developer data and cryptocurrency wallets. [...]",
       "published": "Mon, 27 Apr 2026 11:17:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "summary": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "Mon, 27 Apr 2026 10:43:11 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "summary": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
-      "published": "Mon, 27 Apr 2026 10:25:35 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,6 +396,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Spectrum Security Emerges From Stealth Mode With $19 Million",
+      "link": "https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/",
+      "summary": "The threat detection startup will invest in accelerating its engineering and go-to-market efforts. The post Spectrum Security Emerges From Stealth Mode With $19 Million appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 08:25:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak",
+      "link": "https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/",
+      "summary": "The ShinyHunters cybercrime group claimed to have stolen 9 million records containing personal information from Medtronic. The post Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 06:35:19 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Incomplete Windows Patch Opens Door to Zero-Click Attacks",
       "link": "https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/",
       "summary": "The initial vulnerability was exploited by Russia-linked APT28 in attacks against Ukraine and EU countries. The post Incomplete Windows Patch Opens Door to Zero-Click Attacks appeared first on SecurityWeek .",
@@ -451,26 +473,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator",
-      "link": "https://www.securityweek.com/us-launches-sweeping-crackdown-on-southeast-asia-cyberscams-and-sanctions-cambodian-senator/",
-      "summary": "US conducts sweeping crackdown on Southeast Asian cyberscam operations as part of what officials say is a “new theater of war”. The post US Launches Sweeping Crackdown on Southeast Asia Cyberscams and Sanctions Cambodian Senator appeared first on SecurityWeek .",
-      "published": "Mon, 27 Apr 2026 09:39:33 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Firefox Vulnerability Allows Tor User Fingerprinting",
-      "link": "https://www.securityweek.com/firefox-vulnerability-allows-tor-user-fingerprinting/",
-      "summary": "The vulnerability is tracked as CVE-2026-6770 and it has been patched with the release of Firefox 150 and Tor 15.0.10. The post Firefox Vulnerability Allows Tor User Fingerprinting appeared first on SecurityWeek .",
-      "published": "Mon, 27 Apr 2026 08:39:28 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
       ]
     },
     {

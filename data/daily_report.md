@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-28 10:08 UTC  
+> **Last Updated:** 2026-04-28 13:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**spectrum security emerges** • **sms blaster device** • **asked iphone users** • **fake investment sites** • **130 companies tangled** • **twitter whistleblower complaint** • **chinese national accused** • **zero click attacks** • **iran's intelligence agencies** • **china's intelligence services** • **aggravated identity theft** • **agent identity platform** • **data wiping attack** • **russia hacked routers** • **frequent attack vectors** • **frequent attack vector** • **xu zewei 34** • **weird research showed** • **unpatched phantomrpc flaw** • **uk cyber league**
+**spectrum security emerges** • **yadea electric scooters** • **xu zewei 34** • **germany suspects russia** • **sms blaster device** • **130 companies tangled** • **rider safety vulnerabilities** • **twitter whistleblower complaint** • **remote code execution** • **fake rpc server** • **fake investment sites** • **asked iphone users** • **73 sleeper extensions** • **post electric motorcycles** • **iran's intelligence agencies** • **china's intelligence services** • **aggravated identity theft** • **agent identity platform** • **pose physical security** • **every security program**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
+- [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
+- [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 - [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
 - [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
 - [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
 - [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
 - [⚡ Weekly Recap: Fast16 Malware, XChat Launch, Federal Backdoor, AI Employee Tracking & More](https://thehackernews.com/2026/04/weekly-recap-fast16-malware-xchat.html)
-- [Mythos Changed the Math on Vulnerability Discovery. Most Teams Aren't Ready for the Remediation Side](https://thehackernews.com/2026/04/mythos-changed-math-on-vulnerability.html)
-- [PhantomCore Exploits TrueConf Vulnerabilities to Breach Russian Networks](https://thehackernews.com/2026/04/phantomcore-exploits-trueconf.html)
-- [Researchers Uncover 73 Fake VS Code Extensions Delivering GlassWorm v2 Malware](https://thehackernews.com/2026/04/researchers-uncover-73-fake-vs-code.html)
 
 ### BleepingComputer
 
+- [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
+- [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
 - [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 - [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
 - [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
 - [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
 - [Canada arrests three for operating “SMS blaster” device in Toronto](https://www.bleepingcomputer.com/news/security/canada-arrests-three-for-operating-sms-blaster-device-in-toronto/)
 - [Alleged Silk Typhoon hacker extradited to US for cyberespionage](https://www.bleepingcomputer.com/news/security/alleged-silk-typhoon-hacker-extradited-to-us-for-cyberespionage/)
-- [FTC: Americans lost over $2.1 billion to social media scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-americans-lost-over-21-billion-to-social-media-scams-in-2025/)
-- [PyPI package with 1.1M monthly downloads hacked to push infostealer](https://www.bleepingcomputer.com/news/security/pypi-package-with-11m-monthly-downloads-hacked-to-push-infostealer/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
+- [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
+- [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
+- [Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety](https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/)
+- [No Patch for New PhantomRPC Privilege Escalation Technique in Windows](https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/)
+- [Germany Suspects Russia Is Behind Signal Phishing That Targeted Top Officials](https://www.securityweek.com/germany-suspects-russia-is-behind-signal-phishing-that-targeted-top-officials/)
 - [Spectrum Security Emerges From Stealth Mode With $19 Million](https://www.securityweek.com/spectrum-security-emerges-from-stealth-mode-with-19-million/)
 - [Medtronic Hack Confirmed After ShinyHunters Threatens Data Leak](https://www.securityweek.com/medtronic-hack-confirmed-after-shinyhunters-threatens-data-leak/)
-- [Incomplete Windows Patch Opens Door to Zero-Click Attacks](https://www.securityweek.com/incomplete-windows-patch-opens-door-to-zero-click-attacks/)
-- [OpenSSH Flaw Allowing Full Root Shell Access Lurked for 15 Years](https://www.securityweek.com/openssh-flaw-allowing-full-root-shell-access-lurked-for-15-years/)
-- [Malicious AI Prompt Injection Attacks Increasing, but Sophistication Still Low: Google](https://www.securityweek.com/malicious-ai-prompt-injection-attacks-increasing-but-sophistication-still-low-google/)
-- [Energy and Water Management Firm Itron Hacked](https://www.securityweek.com/energy-and-water-management-firm-itron-hacked/)
-- [UNC6692 Uses Email Bombing, Social Engineering to Deploy ‘Snow’ Malware](https://www.securityweek.com/unc6692-uses-email-bombing-social-engineering-to-deploy-snow-malware/)
-- [Easily Exploitable ‘Pack2TheRoot’ Linux Vulnerability Leads to Root Access](https://www.securityweek.com/easily-exploitable-pack2theroot-linux-vulnerability-leads-to-root-access/)
 
 ### Threatpost
 

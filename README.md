@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-28 10:08 UTC |
+| 🕐 Last Updated | 2026-04-28 13:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`spectrum security emerges` • `sms blaster device` • `asked iphone users` • `fake investment sites` • `130 companies tangled` • `twitter whistleblower complaint` • `chinese national accused` • `zero click attacks` • `iran's intelligence agencies` • `china's intelligence services`
+`spectrum security emerges` • `yadea electric scooters` • `xu zewei 34` • `germany suspects russia` • `sms blaster device` • `130 companies tangled` • `rider safety vulnerabilities` • `twitter whistleblower complaint` • `remote code execution` • `fake rpc server`
 
 ## 📄 Reports
 

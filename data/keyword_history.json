@@ -184,7 +184,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 597,
+      "count": 598,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -268,11 +268,12 @@
         "2026-04-13",
         "2026-04-14",
         "2026-04-15",
-        "2026-04-16"
+        "2026-04-16",
+        "2026-04-28"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1480,
+      "count": 1481,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -662,7 +663,7 @@
       ]
     },
     "remote code execution": {
-      "count": 299,
+      "count": 300,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1956,7 +1957,7 @@
       ]
     },
     "things iot devices": {
-      "count": 235,
+      "count": 236,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1985,7 +1986,8 @@
         "2026-04-12",
         "2026-04-13",
         "2026-04-21",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-04-28"
       ]
     },
     "cvss scoring system": {
@@ -2266,7 +2268,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -10714,7 +10716,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 396,
+      "count": 397,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13704,7 +13706,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14206,7 +14208,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14262,7 +14264,7 @@
       ]
     },
     "fake investment sites": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14426,7 +14428,7 @@
       ]
     },
     "asked iphone users": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-28"
       ]
@@ -14438,7 +14440,7 @@
       ]
     },
     "xu zewei 34": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-28"
       ]
@@ -14492,7 +14494,7 @@
       ]
     },
     "orchestrating cyber attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-28"
       ]
@@ -14504,6 +14506,48 @@
       ]
     },
     "robinhood vulnerability exploited": {
+      "count": 2,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "vimeo confirms user": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "exchange online starting": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "ai governance join": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "finding exploitable vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "targets minecraft players": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "published puts numbers": {
+      "count": 1,
+      "dates": [
+        "2026-04-28"
+      ]
+    },
+    "project glasswing showed": {
       "count": 1,
       "dates": [
         "2026-04-28"
@@ -14511,17 +14555,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-18 18:40",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-18 20:30",
       "articles": 56,
@@ -15609,6 +15642,17 @@
         "73 sleeper extensions",
         "remote code execution",
         "rider safety vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-04-28 19:26",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "xu zewei 34",
+        "vimeo confirms user",
+        "twitter whistleblower complaint",
+        "orchestrating cyber attacks"
       ]
     }
   ]

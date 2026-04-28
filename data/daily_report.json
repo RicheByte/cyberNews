@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-04-28 16:05",
+  "last_updated": "2026-04-28 19:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "yadea electric scooters",
-    "xu zewei 34",
-    "73 sleeper extensions",
     "remote code execution",
-    "rider safety vulnerabilities",
+    "xu zewei 34",
+    "vimeo confirms user",
     "twitter whistleblower complaint",
     "orchestrating cyber attacks",
     "iran's intelligence agencies",
+    "fake investment sites",
+    "exchange online starting",
     "asked iphone users",
     "130 companies tangled",
-    "fake rpc server",
-    "fake investment sites",
-    "cybercriminal operation known",
+    "windows operating systems",
     "aggravated identity theft",
+    "ai governance join",
+    "finding exploitable vulnerabilities",
     "robinhood vulnerability exploited",
-    "frequent attack vectors",
-    "frequent attack vector",
-    "pose physical security",
-    "every security program",
-    "firestarter malware obtained"
+    "uk cyber league",
+    "things iot devices",
+    "targets minecraft players",
+    "published puts numbers",
+    "project glasswing showed"
   ],
   "trending": [
     {
-      "keyword": "yadea electric scooters",
-      "mentions": 2
+      "keyword": "remote code execution",
+      "mentions": 300
     },
     {
       "keyword": "xu zewei 34",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "73 sleeper extensions",
-      "mentions": 2
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 299
-    },
-    {
-      "keyword": "rider safety vulnerabilities",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1480
-    },
-    {
-      "keyword": "orchestrating cyber attacks",
+      "keyword": "vimeo confirms user",
       "mentions": 1
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1481
+    },
+    {
+      "keyword": "orchestrating cyber attacks",
+      "mentions": 2
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 396
+      "mentions": 397
+    },
+    {
+      "keyword": "fake investment sites",
+      "mentions": 38
+    },
+    {
+      "keyword": "exchange online starting",
+      "mentions": 1
     },
     {
       "keyword": "asked iphone users",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 182
+      "mentions": 183
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
+      "link": "https://thehackernews.com/2026/04/researchers-discover-critical-github.html",
+      "summary": "Cybersecurity researchers have disclosed details of a critical security vulnerability impacting GitHub.com and GitHub Enterprise Server that could allow an authenticated user to obtain remote code execution with a single \"git push\" command. The flaw, tracked as CVE-2026-3854 (CVSS score: 8.7), is a case of command injection that could allow an attacker with push access to a repository to achieve",
+      "published": "Tue, 28 Apr 2026 23:49:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
+      "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
+      "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot). \"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,",
+      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
@@ -135,28 +159,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202",
-      "link": "https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html",
-      "summary": "Microsoft on Monday revised its advisory for a now-patched, high-severity security flaw impacting Windows Shell to acknowledge that it has been actively exploited in the wild. The vulnerability in question is CVE-2026-32202 (CVSS score: 4.3), a spoofing vulnerability that could allow an attacker to access sensitive information. It was addressed as part of its Patch Tuesday update for this",
-      "published": "Tue, 28 Apr 2026 11:20:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Video service Vimeo confirms Anodot breach exposed user data",
+      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
+      "summary": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
+      "published": "Tue, 28 Apr 2026 15:04:22 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "Patch/update ×2",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
-      "link": "https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html",
-      "summary": "Checkmarx has disclosed that its ongoing investigation tied to the supply chain security incident has revealed that a cybercriminal group published data related to the company on the dark web. \"Based on current evidence, we believe this data originated from Checkmarx's GitHub repository, and that access to that repository was facilitated through the initial supply chain attack of March 23, 2026,",
-      "published": "Mon, 27 Apr 2026 19:49:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -222,17 +233,6 @@
       "value_signals": [
         "Phishing ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GlassWorm malware attacks return via 73 OpenVSX \"sleeper\" extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/",
-      "summary": "A new wave of the Glassworm campaign is targeting the OpenVSX ecosystem with 73 \"sleeper\" extensions that turn malicious after an update. [...]",
-      "published": "Mon, 27 Apr 2026 17:41:01 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -322,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vidar Rises to Top of Chaotic Infostealer Market",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
+      "summary": "The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.",
+      "published": "Tue, 28 Apr 2026 19:07:16 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain",
       "link": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
       "summary": "Attackers continue to scale a campaign to seed Open VSX with seemingly benign VS Code extensions that spread self-propagating malware.",
@@ -387,13 +396,24 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Glasswing Secured the Code. The Rest of Your Stack Is Still on You",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you",
-      "summary": "Forgotten integrations, shadow IT, SaaS, and now shadow AI and agents are everywhere, and attackers don't need sophisticated AI models to take advantage.",
-      "published": "Fri, 24 Apr 2026 15:04:29 GMT",
+      "source": "Security Week",
+      "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
+      "link": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
+      "summary": "Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact. The post Cyber Insurance Data Gives CISOs New Ammo for Budget Talks appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 18:32:11 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Vimeo Confirms User and Customer Data Breach",
+      "link": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
+      "summary": "The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom. The post Vimeo Confirms User and Customer Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 28 Apr 2026 17:11:55 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
     },
     {
       "source": "Security Week",
@@ -451,27 +471,6 @@
       "published": "Tue, 28 Apr 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety",
-      "link": "https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/",
-      "summary": "Vulnerabilities in Zero Motorcycles electric motorcycles and Yadea electric scooters can pose physical security and safety risks. The post Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 11:57:20 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "No Patch for New PhantomRPC Privilege Escalation Technique in Windows",
-      "link": "https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/",
-      "summary": "A fake RPC server can be used to listen for RPC requests and impersonate the target service to elevate privileges to System. The post No Patch for New PhantomRPC Privilege Escalation Technique in Windows appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 11:31:02 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "Privilege escalation ×2",
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Threatpost",
@@ -558,6 +557,34 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "NSA GRASSMARLIN",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to disclose sensitive information. The following versions of NSA GRASSMARLIN are affected: GRASSMARLIN vers:all/* CVSS Vendor Equipment Vulnerabilities v3 5.5 NSA NSA GRASSMARLIN Improper Restriction of XML External Entity Reference Background Critical Infrastructure Sectors: Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CV",
+      "published": "Tue, 28 Apr 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability CVE-2026-32202 Microsoft Windows Protection Mechanism Failure Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kno",
+      "published": "Tue, 28 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-7399 Samsung MagicINFO 9 Server Path Traversal Vulnerability CVE-2024-57726 SimpleHelp Missing Authorization Vulnerability CVE-2024-57728 SimpleHelp Path Traversal Vulnerability CVE-2025-29635 D-Link DIR-823X Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks ",
@@ -573,57 +600,43 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Carlson Software VASCO-B GNSS Receiver",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could enable a remote attacker to alter critical system functions or disrupt device operation. The following versions of Carlson Software VASCO-B GNSS Receiver are affected: VASCO-B GNSS Receiver <1.4.0 (CVE-2026-3893) CVSS Vendor Equipment Vulnerabilities v3 9.4 Carlson Software Carlson Software VASCO-B GNSS Receiver Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing Coun",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass authentication and have remote access to sensitive information on the device. The following versions of Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera are affected: IP Camera XM530V200_X6-WEQ_8M firmware V5.00.R02.000807D8.10010.346624.S.ONVIF_21.06 (CVE-2025-65856) CVSS Vendor Equipment Vulnerabilities v3 9.8 Hangzhou Xiongmai Technology Co., Ltd Hangzhou Xiongmai Technology Co., Ltd XM530 I",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-39987 Marimo Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vu",
+      "title": "Milesight Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed or allow remote code execution. The following versions of Milesight Cameras are affected: MS-Cxx63-PD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx64-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx73-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026",
       "published": "Thu, 23 Apr 26 12:00:00 +0000",
       "value_score": 100,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
+        "CVE mentioned ×13",
         "RCE",
-        "CISA/KEV ×6",
+        "Multiple CVEs",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "FIRESTARTER Backdoor",
-      "link": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
-      "summary": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a forensic investigation. CISA and the United Kingdom National Cyber Security Centre (NCSC) assess advanced persistent threat (APT) actors are using FIRESTARTER malware for persistence, specifically targeting publicly accessible Cisco Firepower and Secure Firewall devic",
+      "title": "Defending Against China-Nexus Covert Networks of Compromised Devices",
+      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a",
+      "summary": "Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towards networks of compromised infrastructure, and how to defend against it Summary With support from the UK Cyber League , this advisory has been jointly released by the National Cyber Security Centre (NCSC-UK) and international partners: Australian Signals Directo",
       "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 87,
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "SpiceJet Online Booking System",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information. The following versions of SpiceJet Online Booking System are affected: Online Booking System vers:all/* (CVE-2026-6375, CVE-2026-6376) CVSS Vendor Equipment Vulnerabilities v3 7.5 SpiceJet SpiceJet Online Booking System Authorization Bypass Through User-Controlled Key, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation ",
+      "published": "Thu, 23 Apr 26 12:00:00 +0000",
+      "value_score": 100,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Backdoor",
-        "CISA/KEV ×2"
+        "CVE mentioned ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
       ]
     },
     {
@@ -642,28 +655,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Defending Against China-Nexus Covert Networks of Compromised Devices",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a",
-      "summary": "Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towards networks of compromised infrastructure, and how to defend against it Summary With support from the UK Cyber League , this advisory has been jointly released by the National Cyber Security Centre (NCSC-UK) and international partners: Australian Signals Directo",
+      "title": "FIRESTARTER Backdoor",
+      "link": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
+      "summary": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a forensic investigation. CISA and the United Kingdom National Cyber Security Centre (NCSC) assess advanced persistent threat (APT) actors are using FIRESTARTER malware for persistence, specifically targeting publicly accessible Cisco Firepower and Secure Firewall devic",
       "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Milesight Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed or allow remote code execution. The following versions of Milesight Cameras are affected: MS-Cxx63-PD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx64-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx73-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 100,
+      "value_score": 87,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×13",
-        "RCE",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Backdoor",
+        "CISA/KEV ×2"
       ]
     }
   ],

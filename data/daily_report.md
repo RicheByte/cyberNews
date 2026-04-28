@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-28 16:05 UTC  
+> **Last Updated:** 2026-04-28 19:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**yadea electric scooters** • **xu zewei 34** • **73 sleeper extensions** • **remote code execution** • **rider safety vulnerabilities** • **twitter whistleblower complaint** • **orchestrating cyber attacks** • **iran's intelligence agencies** • **asked iphone users** • **130 companies tangled** • **fake rpc server** • **fake investment sites** • **cybercriminal operation known** • **aggravated identity theft** • **robinhood vulnerability exploited** • **frequent attack vectors** • **frequent attack vector** • **pose physical security** • **every security program** • **firestarter malware obtained**
+**remote code execution** • **xu zewei 34** • **vimeo confirms user** • **twitter whistleblower complaint** • **orchestrating cyber attacks** • **iran's intelligence agencies** • **fake investment sites** • **exchange online starting** • **asked iphone users** • **130 companies tangled** • **windows operating systems** • **aggravated identity theft** • **ai governance join** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **uk cyber league** • **things iot devices** • **targets minecraft players** • **published puts numbers** • **project glasswing showed**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
+- [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 - [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
 - [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
 - [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 - [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 - [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
 - [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
-- [Microsoft Confirms Active Exploitation of Windows Shell CVE-2026-32202](https://thehackernews.com/2026/04/microsoft-confirms-active-exploitation.html)
-- [Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack](https://thehackernews.com/2026/04/checkmarx-confirms-github-repository.html)
 
 ### BleepingComputer
 
+- [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
 - [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
 - [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
 - [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
@@ -34,7 +35,6 @@
 - [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 - [Microsoft asks iPhone users to reauthenticate after Outlook outage](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-iphone-users-to-re-enter-credentials-after-outlook-outage/)
 - [Robinhood account creation flaw abused to send phishing emails](https://www.bleepingcomputer.com/news/security/robinhood-account-creation-flaw-abused-to-send-phishing-emails/)
-- [GlassWorm malware attacks return via 73 OpenVSX "sleeper" extensions](https://www.bleepingcomputer.com/news/security/glassworm-malware-attacks-return-via-73-openvsx-sleeper-extensions/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Vidar Rises to Top of Chaotic Infostealer Market](https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market)
 - [Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain](https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain)
 - [UNC6692 Combines Social Engineering, Malware, Cloud Abuse](https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse)
 - [Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation)
@@ -56,18 +57,17 @@
 - [Parsing Agentic Offensive Security's Existential Threat](https://www.darkreading.com/cyber-risk/industrialized-exploitation-agentic-offensive-security-existential-threat)
 - [Helping Romance Scam Victims Requires a Proactive, Empathic Approach](https://www.darkreading.com/cybersecurity-operations/building-teams-to-help-cyber-scam-victims)
 - [US Busts Myanmar Ring Targeting US Citizens in Financial Fraud](https://www.darkreading.com/cyber-risk/us-busts-myanmar-ring-targeting-us-citizens-financial-fraud)
-- [Glasswing Secured the Code. The Rest of Your Stack Is Still on You](https://www.darkreading.com/cyberattacks-data-breaches/glasswing-secured-code-stack-on-you)
 
 ### Security Week
 
+- [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
+- [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
 - [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
 - [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
 - [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
 - [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
 - [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
 - [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
-- [Electric Motorcycles and Scooters Face Hacking Risks to Security and Rider Safety](https://www.securityweek.com/electric-motorcycles-and-scooters-face-hacking-risks-to-security-and-rider-safety/)
-- [No Patch for New PhantomRPC Privilege Escalation Technique in Windows](https://www.securityweek.com/no-patch-for-new-phantomrpc-privilege-escalation-technique-in-windows/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [NSA GRASSMARLIN](https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01)
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog)
-- [Carlson Software VASCO-B GNSS Receiver](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-02)
-- [Hangzhou Xiongmai Technology Co., Ltd XM530 IP Camera](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-05)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/23/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [FIRESTARTER Backdoor](https://www.cisa.gov/news-events/analysis-reports/ar26-113a)
-- [Yadea T5 Electric Bicycle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01)
-- [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
 - [Milesight Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03)
+- [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
+- [SpiceJet Online Booking System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04)
+- [Yadea T5 Electric Bicycle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01)
+- [FIRESTARTER Backdoor](https://www.cisa.gov/news-events/analysis-reports/ar26-113a)
 
 ---
 

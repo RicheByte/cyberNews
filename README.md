@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-28 16:05 UTC |
+| 🕐 Last Updated | 2026-04-28 19:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`yadea electric scooters` • `xu zewei 34` • `73 sleeper extensions` • `remote code execution` • `rider safety vulnerabilities` • `twitter whistleblower complaint` • `orchestrating cyber attacks` • `iran's intelligence agencies` • `asked iphone users` • `130 companies tangled`
+`remote code execution` • `xu zewei 34` • `vimeo confirms user` • `twitter whistleblower complaint` • `orchestrating cyber attacks` • `iran's intelligence agencies` • `fake investment sites` • `exchange online starting` • `asked iphone users` • `130 companies tangled`
 
 ## 📄 Reports
 

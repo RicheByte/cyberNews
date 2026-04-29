@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-29 13:44",
+  "last_updated": "2026-04-29 15:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "disclose sensitive information",
     "remote code execution",
     "iran's intelligence agencies",
+    "game threat actors",
+    "supply chain attack",
     "twitter whistleblower complaint",
-    "large files researchers",
+    "automate exposure validation",
     "arbitrary code execution",
     "130 companies tangled",
     "github enterprise server",
-    "game threat actors",
+    "control panel software",
+    "large files researchers",
     "custom snow malware",
     "38 vulnerabilities found",
-    "supply chain attack",
+    "automate attacks directly",
     "impact github com",
+    "critical vulnerability affecting",
     "yet another instance",
     "wire fraud conspiracy",
-    "unpatched phantomrpc flaw",
-    "uk cyber league",
-    "things iot devices",
-    "targets minecraft players",
-    "snowden leaks exploded"
+    "validate sdk v2"
   ],
   "trending": [
     {
       "keyword": "disclose sensitive information",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "remote code execution",
-      "mentions": 306
+      "mentions": 307
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 403
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1487
-    },
-    {
-      "keyword": "large files researchers",
-      "mentions": 5
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 214
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 189
-    },
-    {
-      "keyword": "github enterprise server",
-      "mentions": 1
+      "mentions": 404
     },
     {
       "keyword": "game threat actors",
+      "mentions": 2
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 36
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1488
+    },
+    {
+      "keyword": "automate exposure validation",
       "mentions": 1
     },
     {
-      "keyword": "custom snow malware",
-      "mentions": 1
+      "keyword": "arbitrary code execution",
+      "mentions": 215
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 190
+    },
+    {
+      "keyword": "github enterprise server",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
+      "link": "https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html",
+      "summary": "Cybersecurity researchers have discovered malicious code in an npm package after a malicious package as a dependency to the project by Anthropic's Claude Opus large language model (LLM). The package in question is \"@validate-sdk/v2,\" which is listed on npm as a utility software development kit (SDK) for hashing, validation, encoding/decoding, and secure random generation. However, its real",
+      "published": "Wed, 29 Apr 2026 20:13:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
@@ -155,16 +164,27 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi",
-      "link": "https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html",
-      "summary": "Threat hunters are warning that the cybercriminal operation known as VECT 2.0 acts more like a wiper than a ransomware due to a critical flaw in its encryption implementation across Windows, Linux, and ESXi variants that renders recovery impossible even for the threat actors. The fact that VECT's locker permanently destroys large files rather than encrypting them means even victims who opt to",
-      "published": "Tue, 28 Apr 2026 19:31:00 +0530",
-      "value_score": 54,
+      "source": "BleepingComputer",
+      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
+      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
+      "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
+      "published": "Wed, 29 Apr 2026 11:51:44 -0400",
+      "value_score": 55,
       "value_signals": [
-        "Ransomware ×2",
-        "High severity"
+        "Auth bypass",
+        "Patch/update",
+        "High severity ×2",
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "European police dismantles €50 million crypto investment fraud ring",
+      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
+      "summary": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwide. [...]",
+      "published": "Wed, 29 Apr 2026 10:27:36 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -236,26 +256,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Video service Vimeo confirms Anodot breach exposed user data",
-      "link": "https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/",
-      "summary": "Vimeo has disclosed that data belonging to some of its customers and users has been accessed without authorization following the recent breach at the Anodot data anomaly detection company. [...]",
-      "published": "Tue, 28 Apr 2026 15:04:22 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US reportedly charges Scattered Spider hacker arrested in Finland",
-      "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
-      "summary": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]",
-      "published": "Tue, 28 Apr 2026 11:39:52 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -344,6 +344,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error",
+      "link": "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error",
+      "summary": "The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
+      "published": "Wed, 29 Apr 2026 15:23:53 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities",
       "link": "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
       "summary": "An analysis of the destructive malware reveals sophisticated living-off-the-land (LotL) techniques and detailed strategies for the widespread deletion of data.",
@@ -407,18 +418,6 @@
       "published": "Mon, 27 Apr 2026 20:12:34 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation",
-      "summary": "A researcher discovered five different exploit paths that stem from an architectural weakness in how Windows' Remote Procedure Call (RPC) mechanism handles connections to unavailable services.",
-      "published": "Mon, 27 Apr 2026 15:31:41 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-29 19:17 UTC |
+| 🕐 Last Updated | 2026-04-29 20:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `iran's intelligence agencies` • `game threat actors` • `disclose sensitive information` • `operational technology ot` • `operational technology cisa` • `supply chain attack` • `twitter whistleblower complaint` • `automate exposure validation` • `arrested three individuals`
+`remote code execution` • `iran's intelligence agencies` • `disclose sensitive information` • `operational technology ot` • `operational technology cisa` • `game threat actors` • `twitter whistleblower complaint` • `automate exposure validation` • `arbitrary code execution` • `130 companies tangled`
 
 ## 📄 Reports
 

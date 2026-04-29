@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-29 19:17",
+  "last_updated": "2026-04-29 20:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
     "iran's intelligence agencies",
-    "game threat actors",
     "disclose sensitive information",
     "operational technology ot",
     "operational technology cisa",
-    "supply chain attack",
+    "game threat actors",
     "twitter whistleblower complaint",
     "automate exposure validation",
-    "arrested three individuals",
     "arbitrary code execution",
     "130 companies tangled",
     "github enterprise server",
     "control panel software",
-    "large files researchers",
-    "custom snow malware",
-    "critical vulnerability affecting",
     "38 vulnerabilities found",
     "automate attacks directly",
-    "impact github com"
+    "supply chain attack",
+    "impact github com",
+    "yet another instance",
+    "wire fraud conspiracy",
+    "validate sdk v2",
+    "uk cyber league"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 309
+      "mentions": 310
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 406
-    },
-    {
-      "keyword": "game threat actors",
-      "mentions": 4
+      "mentions": 407
     },
     {
       "keyword": "disclose sensitive information",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "operational technology ot",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "operational technology cisa",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "supply chain attack",
-      "mentions": 38
+      "keyword": "game threat actors",
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1490
+      "mentions": 1491
     },
     {
       "keyword": "automate exposure validation",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "arrested three individuals",
-      "mentions": 1
+      "keyword": "arbitrary code execution",
+      "mentions": 218
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 193
     }
   ],
   "articles": [
@@ -165,6 +165,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
+      "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
+      "published": "Wed, 29 Apr 2026 16:50:35 -0400",
+      "value_score": 51,
+      "value_signals": [
+        "RCE",
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
       "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
@@ -241,17 +254,6 @@
       "published": "Wed, 29 Apr 2026 04:38:07 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
-      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
-      "summary": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
-      "published": "Tue, 28 Apr 2026 17:25:57 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -340,6 +342,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug",
+      "link": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
+      "summary": "Wiz used an AI reverse-engineering tool to pinpoint a vulnerability that previously would have been too costly and time-consuming to undertake.",
+      "published": "Wed, 29 Apr 2026 20:08:17 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
+      "summary": "Flaws in OpenEMR's platform — used by more than 100,000 healthcare providers — enabled database compromise, remote code execution, and data theft.",
+      "published": "Wed, 29 Apr 2026 19:32:42 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error",
       "link": "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error",
       "summary": "The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
@@ -394,24 +416,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
       "summary": "The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.",
       "published": "Tue, 28 Apr 2026 19:07:16 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain",
-      "link": "https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain",
-      "summary": "Attackers continue to scale a campaign to seed Open VSX with seemingly benign VS Code extensions that spread self-propagating malware.",
-      "published": "Tue, 28 Apr 2026 14:59:24 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "UNC6692 Combines Social Engineering, Malware, Cloud Abuse",
-      "link": "https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse",
-      "summary": "A newly discovered threat actor is using Microsoft Teams, AWS S3 buckets, and custom \"Snow\" malware in a multipronged campaign.",
-      "published": "Mon, 27 Apr 2026 20:12:34 GMT",
       "value_score": 10,
       "value_signals": []
     },

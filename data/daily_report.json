@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-04-29 10:00",
+  "last_updated": "2026-04-29 13:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "disclose sensitive information",
-    "vimeo confirms user",
+    "remote code execution",
     "iran's intelligence agencies",
-    "arbitrary code execution",
     "twitter whistleblower complaint",
-    "exchange online starting",
-    "130 companies tangled",
     "large files researchers",
-    "ai governance join",
+    "arbitrary code execution",
+    "130 companies tangled",
+    "github enterprise server",
+    "game threat actors",
+    "custom snow malware",
     "38 vulnerabilities found",
-    "every security program",
-    "high severity vulnerabilities",
-    "finding exploitable vulnerabilities",
-    "robinhood vulnerability exploited",
+    "supply chain attack",
+    "impact github com",
     "yet another instance",
     "wire fraud conspiracy",
+    "unpatched phantomrpc flaw",
     "uk cyber league",
     "things iot devices",
-    "targets minecraft players"
+    "targets minecraft players",
+    "snowden leaks exploded"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 305
-    },
-    {
       "keyword": "disclose sensitive information",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "vimeo confirms user",
-      "mentions": 6
+      "keyword": "remote code execution",
+      "mentions": 306
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 402
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 213
+      "mentions": 403
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1486
-    },
-    {
-      "keyword": "exchange online starting",
-      "mentions": 6
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 188
+      "mentions": 1487
     },
     {
       "keyword": "large files researchers",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "ai governance join",
-      "mentions": 6
+      "keyword": "arbitrary code execution",
+      "mentions": 214
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 189
+    },
+    {
+      "keyword": "github enterprise server",
+      "mentions": 1
+    },
+    {
+      "keyword": "game threat actors",
+      "mentions": 1
+    },
+    {
+      "keyword": "custom snow malware",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
+      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
+      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails anymore. We’re talking about autonomous agents mapping Active Directory and seizing Domain Admin credentials in minutes. The problem? Most defensive workflows",
+      "published": "Wed, 29 Apr 2026 17:32:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
+      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
+      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The room goes quiet because an honest answer requires context – which is something that patch counts and CVSS scores were never designed to provide. Exposure",
+      "published": "Wed, 29 Apr 2026 17:00:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
+      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions - 11.110.0.97 11.118.0.63 11.126.0.54 11.132.0.29",
+      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
@@ -133,37 +167,40 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About",
-      "link": "https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html",
-      "summary": "Every security program is betting on the same assumption: once a system is connected, the problem is solved. Open a ticket, stand up a gateway, push the data through. Done. That assumption is wrong. It is also a major reason Zero Trust programs stall. New research my team just published puts numbers on it. The Cyber360: Defending the Digital Battlespace report, based on a survey of 500 security",
-      "published": "Tue, 28 Apr 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical security flaw impacting LeRobot, Hugging Face's open-source robotics platform with nearly 24,000 GitHub stars, that could be exploited to achieve remote code execution. The vulnerability in question is CVE-2026-25874 (CVSS score: 9.3), which has been described as a case of untrusted data deserialization stemming from the use of the",
-      "published": "Tue, 28 Apr 2026 16:48:00 +0530",
-      "value_score": 90,
+      "source": "BleepingComputer",
+      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
+      "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
+      "published": "Wed, 29 Apr 2026 09:05:14 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity ×2",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "summary": "When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast. Anthropic’s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
-      "published": "Tue, 28 Apr 2026 16:00:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
+      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
+      "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
+      "published": "Wed, 29 Apr 2026 08:41:17 -0400",
+      "value_score": 76,
       "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
+      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
         "Patch/update",
+        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },
@@ -217,33 +254,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/",
       "summary": "A 19-year-old dual United States and Estonian citizen arrested in Finland earlier this month faces federal charges in the U.S. alleging he was a prolific member of the notorious Scattered Spider hacking collective. [...]",
       "published": "Tue, 28 Apr 2026 11:39:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data",
-      "link": "https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/",
-      "summary": "Application security company Checkmarx has confirmed that the LAPSUS$ threat group leaked data stolen from its private GitHub repository. [...]",
-      "published": "Tue, 28 Apr 2026 10:50:40 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft to deprecate legacy TLS in Exchange Online starting July",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/",
-      "summary": "Microsoft says it will start blocking legacy TLS connections for POP and IMAP email clients in Exchange Online starting in July 2026. [...]",
-      "published": "Tue, 28 Apr 2026 09:18:36 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside an OPSEC Playbook: How Threat Actors Evade Detection",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
-      "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
-      "published": "Tue, 28 Apr 2026 08:50:58 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -334,6 +344,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities",
+      "link": "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
+      "summary": "An analysis of the destructive malware reveals sophisticated living-off-the-land (LotL) techniques and detailed strategies for the widespread deletion of data.",
+      "published": "Wed, 29 Apr 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
       "summary": "The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
@@ -345,12 +364,10 @@
       "source": "Dark Reading",
       "title": "NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later",
       "link": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
-      "summary": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leak exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and \"enculturation.\"",
+      "summary": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leaks exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and \"enculturation.\"",
       "published": "Tue, 28 Apr 2026 20:38:59 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -404,11 +421,40 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "20-Year-Old Malware Rewrites History of Cyber Sabotage",
-      "link": "https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage",
-      "summary": "Researchers have uncovered a malware framework dubbed \"fast16\" that predates Stuxnet by five years.",
-      "published": "Mon, 27 Apr 2026 13:09:54 GMT",
+      "source": "Security Week",
+      "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
+      "link": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
+      "summary": "The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it. The post Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 13:04:05 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
+      "link": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
+      "summary": "Forescout has identified tens of thousands of exposed RDP and VNC servers that can be mapped to specific industries. The post Hundreds of Internet-Facing VNC Servers Expose ICS/OT appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 12:03:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
+      "link": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
+      "summary": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code. The post Checkmarx Confirms Data Stolen in Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 11:03:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Iranian Cyber Group Handala Targets US Troops in Bahrain",
+      "link": "https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/",
+      "summary": "US service members received WhatsApp messages claiming they would be targeted with drones and missiles. The post Iranian Cyber Group Handala Targets US Troops in Bahrain appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 10:35:36 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -455,47 +501,6 @@
       "published": "Tue, 28 Apr 2026 18:32:11 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vimeo Confirms User and Customer Data Breach",
-      "link": "https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/",
-      "summary": "The ShinyHunters group is threatening to leak stolen files unless Vimeo agrees to pay a ransom. The post Vimeo Confirms User and Customer Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 17:11:55 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The Mythos Moment: Enterprises Must Fight Agents with Agents",
-      "link": "https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/",
-      "summary": "Only with the right platform and an agentic, AI-driven defense, will enterprises be able to protect themselves in the agentic era. The post The Mythos Moment: Enterprises Must Fight Agents with Agents appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 15:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: A Step-by-Step Approach to AI Governance",
-      "link": "https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/",
-      "summary": "Join the webinar to explore a practical, multi-layered roadmap to transition from fragmented AI usage to a governed, scalable ecosystem. The post Webinar Today: A Step-by-Step Approach to AI Governance appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 15:29:45 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Robinhood Vulnerability Exploited for Phishing Attacks",
-      "link": "https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/",
-      "summary": "Legitimate-looking emails coming from Robinhood systems lured recipients to phishing websites. The post Robinhood Vulnerability Exploited for Phishing Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 14:49:51 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Phishing ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

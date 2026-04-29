@@ -274,7 +274,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1486,
+      "count": 1487,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -665,7 +665,7 @@
       ]
     },
     "remote code execution": {
-      "count": 305,
+      "count": 306,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1960,7 +1960,7 @@
       ]
     },
     "things iot devices": {
-      "count": 241,
+      "count": 242,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2272,7 +2272,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2842,7 +2842,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -7880,7 +7880,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10724,7 +10724,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 402,
+      "count": 403,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10913,13 +10913,14 @@
       ]
     },
     "supply chain attack": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-04-29"
       ]
     },
     "threat actors known": {
@@ -14219,7 +14220,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14399,10 +14400,11 @@
       ]
     },
     "unpatched phantomrpc flaw": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ]
     },
     "sms blaster device": {
@@ -14556,7 +14558,7 @@
       ]
     },
     "targets minecraft players": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-28",
         "2026-04-29"
@@ -14575,7 +14577,7 @@
       ]
     },
     "disclose sensitive information": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-28",
         "2026-04-29"
@@ -14589,19 +14591,49 @@
       ]
     },
     "large files researchers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "yet another instance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-29"
       ]
     },
     "38 vulnerabilities found": {
+      "count": 2,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "github enterprise server": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "game threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "custom snow malware": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "impact github com": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "snowden leaks exploded": {
       "count": 1,
       "dates": [
         "2026-04-29"
@@ -14609,17 +14641,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-19 08:47",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-19 10:34",
       "articles": 56,
@@ -15707,6 +15728,17 @@
         "vimeo confirms user",
         "iran's intelligence agencies",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-04-29 13:44",
+      "articles": 56,
+      "top_keywords": [
+        "disclose sensitive information",
+        "remote code execution",
+        "iran's intelligence agencies",
+        "twitter whistleblower complaint",
+        "large files researchers"
       ]
     }
   ]

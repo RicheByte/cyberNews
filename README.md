@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-29 10:00 UTC |
+| 🕐 Last Updated | 2026-04-29 13:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `disclose sensitive information` • `vimeo confirms user` • `iran's intelligence agencies` • `arbitrary code execution` • `twitter whistleblower complaint` • `exchange online starting` • `130 companies tangled` • `large files researchers` • `ai governance join`
+`disclose sensitive information` • `remote code execution` • `iran's intelligence agencies` • `twitter whistleblower complaint` • `large files researchers` • `arbitrary code execution` • `130 companies tangled` • `github enterprise server` • `game threat actors` • `custom snow malware`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 10:00 UTC  
+> **Last Updated:** 2026-04-29 13:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **disclose sensitive information** • **vimeo confirms user** • **iran's intelligence agencies** • **arbitrary code execution** • **twitter whistleblower complaint** • **exchange online starting** • **130 companies tangled** • **large files researchers** • **ai governance join** • **38 vulnerabilities found** • **every security program** • **high severity vulnerabilities** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **yet another instance** • **wire fraud conspiracy** • **uk cyber league** • **things iot devices** • **targets minecraft players**
+**disclose sensitive information** • **remote code execution** • **iran's intelligence agencies** • **twitter whistleblower complaint** • **large files researchers** • **arbitrary code execution** • **130 companies tangled** • **github enterprise server** • **game threat actors** • **custom snow malware** • **38 vulnerabilities found** • **supply chain attack** • **impact github com** • **yet another instance** • **wire fraud conspiracy** • **unpatched phantomrpc flaw** • **uk cyber league** • **things iot devices** • **targets minecraft players** • **snowden leaks exploded**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
+- [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
+- [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
 - [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 - [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 - [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 - [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 - [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
-- [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
-- [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
-- [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 
 ### BleepingComputer
 
+- [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
+- [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
+- [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
 - [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 - [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
 - [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 - [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
 - [US reportedly charges Scattered Spider hacker arrested in Finland](https://www.bleepingcomputer.com/news/security/us-reportedly-charges-scattered-spider-hacker-arrested-in-finland/)
-- [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
-- [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
-- [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities](https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities)
 - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
 - [NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later](https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later)
 - [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
@@ -56,18 +57,17 @@
 - [Fresh Wave of GlassWorm VS Code Extensions Slices Through Supply Chain](https://www.darkreading.com/application-security/fresh-glassworm-vs-code-extensions-supply-chain)
 - [UNC6692 Combines Social Engineering, Malware, Cloud Abuse](https://www.darkreading.com/cloud-security/unc6692-social-engineering-malware-cloud-abuse)
 - [Unpatched 'PhantomRPC' Flaw in Windows Enables Privilege Escalation](https://www.darkreading.com/vulnerabilities-threats/unpatched-phantomrpc-flaw-windows-privilege-escalation)
-- [20-Year-Old Malware Rewrites History of Cyber Sabotage](https://www.darkreading.com/cyber-risk/20-year-old-malware-rewrites-history-of-cyber-sabotage)
 
 ### Security Week
 
+- [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
+- [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
+- [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
+- [Iranian Cyber Group Handala Targets US Troops in Bahrain](https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/)
 - [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
 - [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
 - [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
 - [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
-- [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
-- [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
-- [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
-- [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
 
 ### Threatpost
 

@@ -274,7 +274,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1485,
+      "count": 1486,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -665,7 +665,7 @@
       ]
     },
     "remote code execution": {
-      "count": 304,
+      "count": 305,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1960,7 +1960,7 @@
       ]
     },
     "things iot devices": {
-      "count": 240,
+      "count": 241,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2272,7 +2272,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2842,7 +2842,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2871,7 +2871,8 @@
         "2026-04-17",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-23"
+        "2026-04-23",
+        "2026-04-29"
       ]
     },
     "authenticated remote attacker": {
@@ -7879,7 +7880,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10723,7 +10724,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 401,
+      "count": 402,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -11995,10 +11996,11 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-02",
-        "2026-04-03"
+        "2026-04-03",
+        "2026-04-29"
       ]
     },
     "teams pull deploy": {
@@ -14217,7 +14219,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14499,9 +14501,10 @@
       ]
     },
     "every security program": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-29"
       ]
     },
     "orchestrating cyber attacks": {
@@ -14518,42 +14521,42 @@
       ]
     },
     "robinhood vulnerability exploited": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "vimeo confirms user": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "exchange online starting": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "ai governance join": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "finding exploitable vulnerabilities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "targets minecraft players": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28",
         "2026-04-29"
@@ -14572,7 +14575,7 @@
       ]
     },
     "disclose sensitive information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-28",
         "2026-04-29"
@@ -14586,13 +14589,19 @@
       ]
     },
     "large files researchers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-28",
         "2026-04-29"
       ]
     },
     "yet another instance": {
+      "count": 2,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "38 vulnerabilities found": {
       "count": 1,
       "dates": [
         "2026-04-29"
@@ -14600,17 +14609,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-19 07:12",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-19 08:47",
       "articles": 56,
@@ -15698,6 +15696,17 @@
         "vimeo confirms user",
         "disclose sensitive information",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-04-29 10:00",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "disclose sensitive information",
+        "vimeo confirms user",
+        "iran's intelligence agencies",
+        "arbitrary code execution"
       ]
     }
   ]

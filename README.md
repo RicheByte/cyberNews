@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-29 06:19 UTC |
+| 🕐 Last Updated | 2026-04-29 10:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `xu zewei 34` • `vimeo confirms user` • `disclose sensitive information` • `twitter whistleblower complaint` • `iran's intelligence agencies` • `fake zoom calls` • `exchange online starting` • `130 companies tangled` • `windows operating systems`
+`remote code execution` • `disclose sensitive information` • `vimeo confirms user` • `iran's intelligence agencies` • `arbitrary code execution` • `twitter whistleblower complaint` • `exchange online starting` • `130 companies tangled` • `large files researchers` • `ai governance join`
 
 ## 📄 Reports
 

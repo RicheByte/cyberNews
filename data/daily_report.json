@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-04-29 06:19",
+  "last_updated": "2026-04-29 10:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "xu zewei 34",
-    "vimeo confirms user",
     "disclose sensitive information",
-    "twitter whistleblower complaint",
+    "vimeo confirms user",
     "iran's intelligence agencies",
-    "fake zoom calls",
+    "arbitrary code execution",
+    "twitter whistleblower complaint",
     "exchange online starting",
     "130 companies tangled",
-    "windows operating systems",
-    "orchestrating cyber attacks",
     "large files researchers",
     "ai governance join",
+    "38 vulnerabilities found",
+    "every security program",
+    "high severity vulnerabilities",
     "finding exploitable vulnerabilities",
     "robinhood vulnerability exploited",
     "yet another instance",
@@ -27,46 +27,60 @@
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 304
-    },
-    {
-      "keyword": "xu zewei 34",
-      "mentions": 8
-    },
-    {
-      "keyword": "vimeo confirms user",
-      "mentions": 5
+      "mentions": 305
     },
     {
       "keyword": "disclose sensitive information",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1485
+      "keyword": "vimeo confirms user",
+      "mentions": 6
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 401
+      "mentions": 402
     },
     {
-      "keyword": "fake zoom calls",
-      "mentions": 3
+      "keyword": "arbitrary code execution",
+      "mentions": 213
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1486
     },
     {
       "keyword": "exchange online starting",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 187
+      "mentions": 188
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 602
+      "keyword": "large files researchers",
+      "mentions": 4
+    },
+    {
+      "keyword": "ai governance join",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in ConnectWise ScreenConnect",
+      "published": "Wed, 29 Apr 2026 14:16:00 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
@@ -154,11 +168,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-      "summary": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including",
-      "published": "Tue, 28 Apr 2026 13:27:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft says backend change broke Teams Free chat and calls",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
+      "summary": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
+      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -230,15 +244,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/",
       "summary": "Threat actors are now publishing structured OPSEC playbooks to stay undetected. Flare reveals how these guides outline layered infrastructure, identity separation, and long-term evasion strategies. [...]",
       "published": "Tue, 28 Apr 2026 08:50:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: New Remote Desktop warnings may display incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/",
-      "summary": "Microsoft has confirmed a new issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "published": "Tue, 28 Apr 2026 05:51:26 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -409,6 +414,41 @@
     },
     {
       "source": "Security Week",
+      "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
+      "link": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
+      "summary": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information. The post 38 Vulnerabilities Found in OpenEMR Medical Software appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 09:54:17 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
+      "link": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
+      "summary": "The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution. The post Chrome 147, Firefox 150 Security Updates Rolling Out appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 09:24:29 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
+      "link": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
+      "summary": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server. The post Critical GitHub Vulnerability Exposed Millions of Repositories appeared first on SecurityWeek .",
+      "published": "Wed, 29 Apr 2026 06:27:49 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cyber Insurance Data Gives CISOs New Ammo for Budget Talks",
       "link": "https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/",
       "summary": "Boards may ignore alerts, but they listen to losses: new data from Resilience links security gaps directly to financial impact. The post Cyber Insurance Data Gives CISOs New Ammo for Budget Talks appeared first on SecurityWeek .",
@@ -456,33 +496,6 @@
         "Phishing ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Alleged Chinese State Hacker Extradited to US",
-      "link": "https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/",
-      "summary": "A member of Silk Typhoon, Xu Zewei is accused of launching cyberattacks against universities in the US. The post Alleged Chinese State Hacker Extradited to US appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 13:36:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dozens of Open VSX Extension Clones Linked to GlassWorm Malware",
-      "link": "https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/",
-      "summary": "Over 70 cloned Open VSX extensions are likely sleeper extensions designed to distribute malware. The post Dozens of Open VSX Extension Clones Linked to GlassWorm Malware appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 12:40:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable",
-      "link": "https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/",
-      "summary": "Agentic AI can be expensive to use, causing further and unpredictable pressure on tight budgets. The post Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable appeared first on SecurityWeek .",
-      "published": "Tue, 28 Apr 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 06:19 UTC  
+> **Last Updated:** 2026-04-29 10:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **xu zewei 34** • **vimeo confirms user** • **disclose sensitive information** • **twitter whistleblower complaint** • **iran's intelligence agencies** • **fake zoom calls** • **exchange online starting** • **130 companies tangled** • **windows operating systems** • **orchestrating cyber attacks** • **large files researchers** • **ai governance join** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **yet another instance** • **wire fraud conspiracy** • **uk cyber league** • **things iot devices** • **targets minecraft players**
+**remote code execution** • **disclose sensitive information** • **vimeo confirms user** • **iran's intelligence agencies** • **arbitrary code execution** • **twitter whistleblower complaint** • **exchange online starting** • **130 companies tangled** • **large files researchers** • **ai governance join** • **38 vulnerabilities found** • **every security program** • **high severity vulnerabilities** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **yet another instance** • **wire fraud conspiracy** • **uk cyber league** • **things iot devices** • **targets minecraft players**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 - [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 - [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 - [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
@@ -23,10 +24,10 @@
 - [Why Secure Data Movement Is the Zero Trust Bottleneck Nobody Talks About](https://thehackernews.com/2026/04/why-secure-data-movement-is-zero-trust.html)
 - [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 - [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
-- [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
 
 ### BleepingComputer
 
+- [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 - [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
 - [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 - [Video service Vimeo confirms Anodot breach exposed user data](https://www.bleepingcomputer.com/news/security/video-service-vimeo-confirms-anodot-breach-exposed-user-data/)
@@ -34,7 +35,6 @@
 - [Checkmarx confirms LAPSUS$ hackers leaked its stolen GitHub data](https://www.bleepingcomputer.com/news/security/checkmarx-confirms-lapsus-hackers-leaked-its-stolen-github-data/)
 - [Microsoft to deprecate legacy TLS in Exchange Online starting July](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-legacy-tls-in-exchange-online-starting-july/)
 - [Inside an OPSEC Playbook: How Threat Actors Evade Detection](https://www.bleepingcomputer.com/news/security/inside-an-opsec-playbook-how-threat-actors-evade-detection/)
-- [Microsoft: New Remote Desktop warnings may display incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-new-remote-desktop-warnings-may-display-incorrectly/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
+- [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
+- [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
 - [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
 - [Vimeo Confirms User and Customer Data Breach](https://www.securityweek.com/vimeo-confirms-user-and-customer-data-breach/)
 - [The Mythos Moment: Enterprises Must Fight Agents with Agents](https://www.securityweek.com/the-mythos-moment-enterprises-must-fight-agents-with-agents/)
 - [Webinar Today: A Step-by-Step Approach to AI Governance](https://www.securityweek.com/webinar-today-a-step-by-step-approach-to-ai-governance/)
 - [Robinhood Vulnerability Exploited for Phishing Attacks](https://www.securityweek.com/robinhood-vulnerability-exploited-for-phishing-attacks/)
-- [Alleged Chinese State Hacker Extradited to US](https://www.securityweek.com/alleged-chinese-state-hacker-extradited-to-us/)
-- [Dozens of Open VSX Extension Clones Linked to GlassWorm Malware](https://www.securityweek.com/dozens-of-open-vsx-extension-clones-linked-to-glassworm-malware/)
-- [Sevii Launches Cyber Swarm Defense to Make Agentic AI Security Costs Predictable](https://www.securityweek.com/sevii-launches-cyber-swarm-defense-to-make-agentic-ai-security-costs-predictable/)
 
 ### Threatpost
 

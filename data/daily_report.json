@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-04-29 20:58",
+  "last_updated": "2026-04-29 22:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
+    "arbitrary code execution",
     "iran's intelligence agencies",
     "disclose sensitive information",
     "operational technology ot",
     "operational technology cisa",
     "game threat actors",
+    "supply chain attack",
     "twitter whistleblower complaint",
+    "fake zoom calls",
     "automate exposure validation",
-    "arbitrary code execution",
     "130 companies tangled",
     "github enterprise server",
     "control panel software",
     "38 vulnerabilities found",
     "automate attacks directly",
-    "supply chain attack",
     "impact github com",
+    "critical vulnerability affecting",
     "yet another instance",
-    "wire fraud conspiracy",
-    "validate sdk v2",
-    "uk cyber league"
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 310
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 407
-    },
-    {
-      "keyword": "disclose sensitive information",
-      "mentions": 9
-    },
-    {
-      "keyword": "operational technology ot",
-      "mentions": 2
-    },
-    {
-      "keyword": "operational technology cisa",
-      "mentions": 2
-    },
-    {
-      "keyword": "game threat actors",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1491
-    },
-    {
-      "keyword": "automate exposure validation",
-      "mentions": 4
+      "mentions": 311
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 218
+      "mentions": 219
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 193
+      "keyword": "iran's intelligence agencies",
+      "mentions": 408
+    },
+    {
+      "keyword": "disclose sensitive information",
+      "mentions": 10
+    },
+    {
+      "keyword": "operational technology ot",
+      "mentions": 3
+    },
+    {
+      "keyword": "operational technology cisa",
+      "mentions": 3
+    },
+    {
+      "keyword": "game threat actors",
+      "mentions": 6
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 40
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1492
+    },
+    {
+      "keyword": "fake zoom calls",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -165,6 +165,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Official SAP npm packages compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
+      "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
+      "published": "Wed, 29 Apr 2026 18:43:44 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
+      "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
+      "published": "Wed, 29 Apr 2026 18:13:15 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
       "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
@@ -231,29 +251,6 @@
         "RCE ×2",
         "High severity"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch Windows flaw exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to secure their Windows systems against a vulnerability exploited in zero-day attacks. [...]",
-      "published": "Wed, 29 Apr 2026 06:29:31 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says backend change broke Teams Free chat and calls",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/",
-      "summary": "Microsoft is working to resolve a known issue that prevents some Microsoft Teams Free users from chatting and calling others. [...]",
-      "published": "Wed, 29 Apr 2026 04:38:07 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 20:58 UTC  
+> **Last Updated:** 2026-04-29 22:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **iran's intelligence agencies** • **disclose sensitive information** • **operational technology ot** • **operational technology cisa** • **game threat actors** • **twitter whistleblower complaint** • **automate exposure validation** • **arbitrary code execution** • **130 companies tangled** • **github enterprise server** • **control panel software** • **38 vulnerabilities found** • **automate attacks directly** • **supply chain attack** • **impact github com** • **yet another instance** • **wire fraud conspiracy** • **validate sdk v2** • **uk cyber league**
+**remote code execution** • **arbitrary code execution** • **iran's intelligence agencies** • **disclose sensitive information** • **operational technology ot** • **operational technology cisa** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **fake zoom calls** • **automate exposure validation** • **130 companies tangled** • **github enterprise server** • **control panel software** • **38 vulnerabilities found** • **automate attacks directly** • **impact github com** • **critical vulnerability affecting** • **yet another instance** • **wire fraud conspiracy**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
+- [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
 - [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
 - [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
 - [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
 - [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
 - [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
 - [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
-- [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
-- [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 
 ### Krebs on Security
 

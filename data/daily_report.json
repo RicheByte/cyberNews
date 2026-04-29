@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 15:53",
+  "last_updated": "2026-04-29 17:22",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,8 +14,8 @@
     "130 companies tangled",
     "github enterprise server",
     "control panel software",
-    "large files researchers",
     "custom snow malware",
+    "large files researchers",
     "38 vulnerabilities found",
     "automate attacks directly",
     "impact github com",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "disclose sensitive information",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "remote code execution",
-      "mentions": 307
+      "mentions": 308
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 404
+      "mentions": 405
     },
     {
       "keyword": "game threat actors",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1488
+      "mentions": 1489
     },
     {
       "keyword": "automate exposure validation",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 215
+      "mentions": 216
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 190
+      "mentions": 191
     },
     {
       "keyword": "github enterprise server",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SAP npm Packages Compromised by “Mini Shai-Hulud” Credential-Stealing Malware",
+      "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's JavaScript and cloud application",
+      "published": "Wed, 29 Apr 2026 21:56:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs",
@@ -153,15 +162,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign",
-      "link": "https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html",
-      "summary": "A cybercrime group of Brazilian origin has resurfaced after more than three years to orchestrate a campaign that targets Minecraft players with a new stealer called LofyStealer (aka GrabBot). \"The malware disguises itself as a Minecraft hack called 'Slinky,'\" Brazil-based cybersecurity company ZenoX said in a technical report. \"It uses the official game icon to induce voluntary execution,",
-      "published": "Tue, 28 Apr 2026 23:09:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

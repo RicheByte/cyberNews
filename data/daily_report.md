@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 15:53 UTC  
+> **Last Updated:** 2026-04-29 17:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**disclose sensitive information** • **remote code execution** • **iran's intelligence agencies** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **automate exposure validation** • **arbitrary code execution** • **130 companies tangled** • **github enterprise server** • **control panel software** • **large files researchers** • **custom snow malware** • **38 vulnerabilities found** • **automate attacks directly** • **impact github com** • **critical vulnerability affecting** • **yet another instance** • **wire fraud conspiracy** • **validate sdk v2**
+**disclose sensitive information** • **remote code execution** • **iran's intelligence agencies** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **automate exposure validation** • **arbitrary code execution** • **130 companies tangled** • **github enterprise server** • **control panel software** • **custom snow malware** • **large files researchers** • **38 vulnerabilities found** • **automate attacks directly** • **impact github com** • **critical vulnerability affecting** • **yet another instance** • **wire fraud conspiracy** • **validate sdk v2**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [SAP npm Packages Compromised by “Mini Shai-Hulud” Credential-Stealing Malware](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 - [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
@@ -23,7 +24,6 @@
 - [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 - [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 - [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
-- [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 
 ### BleepingComputer
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 02:30 UTC  
+> **Last Updated:** 2026-04-29 06:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **xu zewei 34** • **vimeo confirms user** • **disclose sensitive information** • **twitter whistleblower complaint** • **iran's intelligence agencies** • **fake zoom calls** • **exchange online starting** • **130 companies tangled** • **orchestrating cyber attacks** • **windows operating systems** • **large files researchers** • **aggravated identity theft** • **ai governance join** • **robinhood vulnerability exploited** • **finding exploitable vulnerabilities** • **wire fraud conspiracy** • **uk cyber league** • **things iot devices** • **targets minecraft players**
+**remote code execution** • **xu zewei 34** • **vimeo confirms user** • **disclose sensitive information** • **twitter whistleblower complaint** • **iran's intelligence agencies** • **fake zoom calls** • **exchange online starting** • **130 companies tangled** • **windows operating systems** • **orchestrating cyber attacks** • **large files researchers** • **ai governance join** • **finding exploitable vulnerabilities** • **robinhood vulnerability exploited** • **yet another instance** • **wire fraud conspiracy** • **uk cyber league** • **things iot devices** • **targets minecraft players**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
 - [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 - [Brazilian LofyGang Resurfaces After Three Years With Minecraft LofyStealer Campaign](https://thehackernews.com/2026/04/brazilian-lofygang-resurfaces-after.html)
 - [VECT 2.0 Ransomware Irreversibly Destroys Files Over 131KB on Windows, Linux, ESXi](https://thehackernews.com/2026/04/vect-20-ransomware-irreversibly.html)
@@ -23,7 +24,6 @@
 - [Critical Unpatched Flaw Leaves Hugging Face LeRobot Open to Unauthenticated RCE](https://thehackernews.com/2026/04/critical-cve-2026-25874-leaves-hugging.html)
 - [After Mythos: New Playbooks For a Zero-Window Era](https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html)
 - [Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks](https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html)
-- [Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover](https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html)
 
 ### BleepingComputer
 

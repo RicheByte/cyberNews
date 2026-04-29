@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 02:30",
+  "last_updated": "2026-04-29 06:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,13 +12,13 @@
     "fake zoom calls",
     "exchange online starting",
     "130 companies tangled",
-    "orchestrating cyber attacks",
     "windows operating systems",
+    "orchestrating cyber attacks",
     "large files researchers",
-    "aggravated identity theft",
     "ai governance join",
-    "robinhood vulnerability exploited",
     "finding exploitable vulnerabilities",
+    "robinhood vulnerability exploited",
+    "yet another instance",
     "wire fraud conspiracy",
     "uk cyber league",
     "things iot devices",
@@ -27,46 +27,61 @@
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 303
+      "mentions": 304
     },
     {
       "keyword": "xu zewei 34",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "vimeo confirms user",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "disclose sensitive information",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1484
+      "mentions": 1485
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 400
+      "mentions": 401
     },
     {
       "keyword": "fake zoom calls",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "exchange online starting",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 186
+      "mentions": 187
     },
     {
-      "keyword": "orchestrating cyber attacks",
-      "mentions": 5
+      "keyword": "windows operating systems",
+      "mentions": 602
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html",
+      "summary": "In yet another instance of threat actors quickly jumping on the exploitation bandwagon, a newly disclosed critical security flaw in BerriAI's LiteLLM Python package has come under active exploitation in the wild within 36 hours of the bug becoming public knowledge. The vulnerability, tracked as CVE-2026-42208 (CVSS score: 9.3), is an SQL injection that could be exploited to modify the underlying",
+      "published": "Wed, 29 Apr 2026 11:04:00 +0530",
+      "value_score": 93,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push",
@@ -146,17 +161,6 @@
       "published": "Tue, 28 Apr 2026 13:27:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches Entra ID Role Flaw That Enabled Service Principal Takeover",
-      "link": "https://thehackernews.com/2026/04/microsoft-patches-entra-id-role-flaw.html",
-      "summary": "An administrative role meant for artificial intelligence (AI) agents within Microsoft Entra ID could enable privilege escalation and identity takeover attacks, according to new findings from Silverfort. Agent ID Administrator is a privileged built-in role introduced by Microsoft as part of its agent identity platform to handle all aspects of an AI agent's identity lifecycle operations in a",
-      "published": "Tue, 28 Apr 2026 12:07:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Privilege escalation"
-      ]
     },
     {
       "source": "BleepingComputer",

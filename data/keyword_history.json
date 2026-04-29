@@ -274,7 +274,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1489,
+      "count": 1490,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -665,7 +665,7 @@
       ]
     },
     "remote code execution": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2272,7 +2272,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2842,7 +2842,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -8352,7 +8352,7 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-25",
         "2026-02-26",
@@ -10725,7 +10725,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 405,
+      "count": 406,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10914,7 +10914,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -14578,7 +14578,7 @@
       ]
     },
     "disclose sensitive information": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-28",
         "2026-04-29"
@@ -14592,7 +14592,7 @@
       ]
     },
     "large files researchers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-28",
         "2026-04-29"
@@ -14605,31 +14605,31 @@
       ]
     },
     "38 vulnerabilities found": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-29"
       ]
     },
     "github enterprise server": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-29"
       ]
     },
     "game threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-29"
       ]
     },
     "custom snow malware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-29"
       ]
     },
     "impact github com": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-29"
       ]
@@ -14641,19 +14641,19 @@
       ]
     },
     "automate exposure validation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-29"
       ]
     },
     "control panel software": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-29"
       ]
     },
     "automate attacks directly": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-29"
       ]
@@ -14663,20 +14663,27 @@
       "dates": [
         "2026-04-29"
       ]
+    },
+    "operational technology ot": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "operational technology cisa": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
+    },
+    "arrested three individuals": {
+      "count": 1,
+      "dates": [
+        "2026-04-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-19 14:37",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-19 16:34",
       "articles": 56,
@@ -15764,6 +15771,17 @@
         "iran's intelligence agencies",
         "game threat actors",
         "supply chain attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-29 19:17",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "iran's intelligence agencies",
+        "game threat actors",
+        "disclose sensitive information",
+        "operational technology ot"
       ]
     }
   ]

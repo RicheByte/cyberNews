@@ -1,75 +1,75 @@
 {
-  "last_updated": "2026-04-29 17:22",
+  "last_updated": "2026-04-29 19:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "disclose sensitive information",
     "remote code execution",
     "iran's intelligence agencies",
     "game threat actors",
+    "disclose sensitive information",
+    "operational technology ot",
+    "operational technology cisa",
     "supply chain attack",
     "twitter whistleblower complaint",
     "automate exposure validation",
+    "arrested three individuals",
     "arbitrary code execution",
     "130 companies tangled",
     "github enterprise server",
     "control panel software",
-    "custom snow malware",
     "large files researchers",
+    "custom snow malware",
+    "critical vulnerability affecting",
     "38 vulnerabilities found",
     "automate attacks directly",
-    "impact github com",
-    "critical vulnerability affecting",
-    "yet another instance",
-    "wire fraud conspiracy",
-    "validate sdk v2"
+    "impact github com"
   ],
   "trending": [
     {
-      "keyword": "disclose sensitive information",
-      "mentions": 7
-    },
-    {
       "keyword": "remote code execution",
-      "mentions": 308
+      "mentions": 309
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 405
+      "mentions": 406
     },
     {
       "keyword": "game threat actors",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "disclose sensitive information",
+      "mentions": 8
+    },
+    {
+      "keyword": "operational technology ot",
+      "mentions": 1
+    },
+    {
+      "keyword": "operational technology cisa",
+      "mentions": 1
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1489
+      "mentions": 1490
     },
     {
       "keyword": "automate exposure validation",
-      "mentions": 2
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 216
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 191
-    },
-    {
-      "keyword": "github enterprise server",
       "mentions": 3
+    },
+    {
+      "keyword": "arrested three individuals",
+      "mentions": 1
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "SAP npm Packages Compromised by “Mini Shai-Hulud” Credential-Stealing Malware",
+      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
       "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's JavaScript and cloud application",
       "published": "Wed, 29 Apr 2026 21:56:00 +0530",
@@ -165,6 +165,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
+      "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
+      "published": "Wed, 29 Apr 2026 14:32:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
       "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
       "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
@@ -242,19 +251,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
-      "summary": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
-      "published": "Tue, 28 Apr 2026 17:07:23 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -586,6 +582,18 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Adapting Zero Trust Principles to Operational Technology",
+      "link": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
+      "summary": "Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operational Technology , joint guidance for organizations applying zero trust (ZT) principles to operational technology (OT). Zero trust is a modern, adaptive approach to cybersecurity that eliminates implicit trust and requires continuously validating access based on i",
+      "published": "Wed, 29 Apr 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "NSA GRASSMARLIN",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to disclose sensitive information. The following versions of NSA GRASSMARLIN are affected: GRASSMARLIN vers:all/* CVSS Vendor Equipment Vulnerabilities v3 5.5 NSA NSA GRASSMARLIN Improper Restriction of XML External Entity Reference Background Critical Infrastructure Sectors: Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CV",
@@ -680,19 +688,6 @@
         "CVE mentioned",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "FIRESTARTER Backdoor",
-      "link": "https://www.cisa.gov/news-events/analysis-reports/ar26-113a",
-      "summary": "Malware Analysis Report at a Glance Malware Name FIRESTARTER Original Publication April 23, 2026 Executive Summary The Cybersecurity and Infrastructure Security Agency (CISA) analyzed a sample of FIRESTARTER malware obtained from a forensic investigation. CISA and the United Kingdom National Cyber Security Centre (NCSC) assess advanced persistent threat (APT) actors are using FIRESTARTER malware for persistence, specifically targeting publicly accessible Cisco Firepower and Secure Firewall devic",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 87,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Backdoor",
-        "CISA/KEV ×2"
       ]
     }
   ],

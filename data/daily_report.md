@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 17:22 UTC  
+> **Last Updated:** 2026-04-29 19:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**disclose sensitive information** • **remote code execution** • **iran's intelligence agencies** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **automate exposure validation** • **arbitrary code execution** • **130 companies tangled** • **github enterprise server** • **control panel software** • **custom snow malware** • **large files researchers** • **38 vulnerabilities found** • **automate attacks directly** • **impact github com** • **critical vulnerability affecting** • **yet another instance** • **wire fraud conspiracy** • **validate sdk v2**
+**remote code execution** • **iran's intelligence agencies** • **game threat actors** • **disclose sensitive information** • **operational technology ot** • **operational technology cisa** • **supply chain attack** • **twitter whistleblower complaint** • **automate exposure validation** • **arrested three individuals** • **arbitrary code execution** • **130 companies tangled** • **github enterprise server** • **control panel software** • **large files researchers** • **custom snow malware** • **critical vulnerability affecting** • **38 vulnerabilities found** • **automate attacks directly** • **impact github com**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### The Hacker News
 
-- [SAP npm Packages Compromised by “Mini Shai-Hulud” Credential-Stealing Malware](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
+- [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 - [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
 - [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
 - [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
 - [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
@@ -34,7 +35,6 @@
 - [CISA orders feds to patch Windows flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-windows-flaw-exploited-in-zero-day-attacks/)
 - [Microsoft says backend change broke Teams Free chat and calls](https://www.bleepingcomputer.com/news/security/microsoft-says-backend-change-broke-teams-free-chat-and-calls/)
 - [Broken VECT 2.0 ransomware acts as a data wiper for large files](https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/)
-- [Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw](https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/)
 
 ### Krebs on Security
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [Adapting Zero Trust Principles to Operational Technology](https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology)
 - [NSA GRASSMARLIN](https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog)
@@ -89,7 +90,6 @@
 - [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
 - [SpiceJet Online Booking System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04)
 - [Yadea T5 Electric Bicycle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01)
-- [FIRESTARTER Backdoor](https://www.cisa.gov/news-events/analysis-reports/ar26-113a)
 
 ---
 

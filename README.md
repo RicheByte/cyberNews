@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-30 15:45 UTC |
+| 🕐 Last Updated | 2026-04-30 17:15 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`specially crafted message` • `iran's intelligence agencies` • `codenamed copy fail` • `service ddos attacks` • `operational technology ot` • `operational technology cisa` • `rats cybersecurity researchers` • `supply chain attack` • `twitter whistleblower complaint` • `mms e g`
+`supply chain attack` • `2 6 3` • `service ddos attacks` • `specially crafted message` • `iran's intelligence agencies` • `codenamed copy fail` • `cargo theft attacks` • `operational technology ot` • `operational technology cisa` • `rats cybersecurity researchers`
 
 ## 📄 Reports
 

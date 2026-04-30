@@ -275,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1497,
+      "count": 1498,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2275,7 +2275,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 199,
+      "count": 200,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6258,7 +6258,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10735,7 +10735,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 413,
+      "count": 414,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10925,7 +10925,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -13799,7 +13799,7 @@
       ]
     },
     "5 000 workers": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14601,7 +14601,7 @@
       ]
     },
     "fake zoom calls": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-28",
         "2026-04-29",
@@ -14690,14 +14690,14 @@
       ]
     },
     "operational technology ot": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "operational technology cisa": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14711,25 +14711,25 @@
       ]
     },
     "scale malware attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-30"
       ]
     },
     "rats cybersecurity researchers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-30"
       ]
     },
     "codenamed copy fail": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
     },
     "intrusion chain begins": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
@@ -14741,25 +14741,25 @@
       ]
     },
     "specially crafted message": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
     },
     "mms e g": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
     },
     "massive ddos attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
     },
     "abb products support": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
@@ -14781,20 +14781,27 @@
       "dates": [
         "2026-04-30"
       ]
+    },
+    "2 6 3": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "cargo theft attacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "automated attacks move": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-20 11:16",
-      "articles": 56,
-      "top_keywords": [
-        "horner automation cscape",
-        "white house chief",
-        "iran's intelligence agencies",
-        "play policy updates",
-        "recent service update"
-      ]
-    },
     {
       "timestamp": "2026-04-20 13:20",
       "articles": 56,
@@ -15882,6 +15889,17 @@
         "codenamed copy fail",
         "service ddos attacks",
         "operational technology ot"
+      ]
+    },
+    {
+      "timestamp": "2026-04-30 17:15",
+      "articles": 56,
+      "top_keywords": [
+        "supply chain attack",
+        "2 6 3",
+        "service ddos attacks",
+        "specially crafted message",
+        "iran's intelligence agencies"
       ]
     }
   ]

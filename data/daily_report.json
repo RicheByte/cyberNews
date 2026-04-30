@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-30 15:45",
+  "last_updated": "2026-04-30 17:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "supply chain attack",
+    "2 6 3",
+    "service ddos attacks",
     "specially crafted message",
     "iran's intelligence agencies",
     "codenamed copy fail",
-    "service ddos attacks",
+    "cargo theft attacks",
     "operational technology ot",
     "operational technology cisa",
     "rats cybersecurity researchers",
-    "supply chain attack",
+    "intrusion chain begins",
+    "massive ddos attacks",
     "twitter whistleblower complaint",
     "mms e g",
     "fake zoom calls",
-    "automate exposure validation",
     "5 000 workers",
     "130 companies tangled",
-    "massive ddos attacks",
     "abb products support",
-    "system node resulting",
-    "system node allowing",
-    "intrusion chain begins",
-    "chinese authorities arrested"
+    "scale malware attacks",
+    "automated attacks move"
   ],
   "trending": [
     {
-      "keyword": "specially crafted message",
+      "keyword": "supply chain attack",
+      "mentions": 46
+    },
+    {
+      "keyword": "2 6 3",
       "mentions": 1
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 413
-    },
-    {
-      "keyword": "codenamed copy fail",
-      "mentions": 2
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 17
+      "mentions": 18
     },
     {
-      "keyword": "operational technology ot",
-      "mentions": 8
+      "keyword": "specially crafted message",
+      "mentions": 2
     },
     {
-      "keyword": "operational technology cisa",
-      "mentions": 8
+      "keyword": "iran's intelligence agencies",
+      "mentions": 414
     },
     {
-      "keyword": "rats cybersecurity researchers",
+      "keyword": "codenamed copy fail",
       "mentions": 3
     },
     {
-      "keyword": "supply chain attack",
-      "mentions": 45
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1497
-    },
-    {
-      "keyword": "mms e g",
+      "keyword": "cargo theft attacks",
       "mentions": 1
+    },
+    {
+      "keyword": "operational technology ot",
+      "mentions": 9
+    },
+    {
+      "keyword": "operational technology cisa",
+      "mentions": 9
+    },
+    {
+      "keyword": "rats cybersecurity researchers",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an extension of the",
+      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
@@ -123,7 +132,7 @@
       "source": "The Hacker News",
       "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
       "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the mini Shai-Hulud – has affected the following packages associated with SAP's",
+      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the Mini Shai-Hulud – has affected the following packages associated with",
       "published": "Wed, 29 Apr 2026 21:56:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -138,15 +147,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks",
-      "link": "https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html",
-      "summary": "In February 2026, researchers uncovered a shift that completely changed the game: threat actors are now using custom AI setups to automate attacks directly into the kill chain. We aren't just talking about AI writing better phishing emails anymore. We’re talking about autonomous agents mapping Active Directory and seizing Domain Admin credentials in minutes. The problem? Most defensive workflows",
-      "published": "Wed, 29 Apr 2026 17:32:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "BleepingComputer",
+      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
+      "published": "Thu, 30 Apr 2026 12:32:18 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -223,19 +230,6 @@
       "value_score": 34,
       "value_signals": [
         "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/",
-      "summary": "Hackers are exploiting two authentication bypass vulnerabilities in the Qinglong open-source task scheduling tool to deploy cryptominers on developers' servers. [...]",
-      "published": "Wed, 29 Apr 2026 16:50:35 -0400",
-      "value_score": 51,
-      "value_signals": [
-        "RCE",
-        "Auth bypass",
-        "Exploit wording"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-30 15:45 UTC  
+> **Last Updated:** 2026-04-30 17:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **service ddos attacks** • **operational technology ot** • **operational technology cisa** • **rats cybersecurity researchers** • **supply chain attack** • **twitter whistleblower complaint** • **mms e g** • **fake zoom calls** • **automate exposure validation** • **5 000 workers** • **130 companies tangled** • **massive ddos attacks** • **abb products support** • **system node resulting** • **system node allowing** • **intrusion chain begins** • **chinese authorities arrested**
+**supply chain attack** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **cargo theft attacks** • **operational technology ot** • **operational technology cisa** • **rats cybersecurity researchers** • **intrusion chain begins** • **massive ddos attacks** • **twitter whistleblower complaint** • **mms e g** • **fake zoom calls** • **5 000 workers** • **130 companies tangled** • **abb products support** • **scale malware attacks** • **automated attacks move**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 - [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 - [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 - [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
@@ -23,10 +24,10 @@
 - [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 - [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
-- [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 
 ### BleepingComputer
 
+- [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
 - [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
 - [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
 - [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
@@ -34,7 +35,6 @@
 - [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
 - [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 - [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
-- [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
 
 ### Krebs on Security
 

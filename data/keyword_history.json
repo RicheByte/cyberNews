@@ -275,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1496,
+      "count": 1497,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2275,7 +2275,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6258,11 +6258,12 @@
       ]
     },
     "service ddos attacks": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-05",
         "2026-02-06",
-        "2026-02-16"
+        "2026-02-16",
+        "2026-04-30"
       ]
     },
     "memory spain's ministry": {
@@ -10734,7 +10735,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 412,
+      "count": 413,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10924,7 +10925,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -13798,12 +13799,13 @@
       ]
     },
     "5 000 workers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-21",
         "2026-04-22",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-04-30"
       ]
     },
     "blackcat ransomware starting": {
@@ -14599,7 +14601,7 @@
       ]
     },
     "fake zoom calls": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-28",
         "2026-04-29",
@@ -14660,7 +14662,7 @@
       ]
     },
     "automate exposure validation": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14688,14 +14690,14 @@
       ]
     },
     "operational technology ot": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "operational technology cisa": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14715,19 +14717,19 @@
       ]
     },
     "rats cybersecurity researchers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
     },
     "codenamed copy fail": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
     },
     "intrusion chain begins": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
@@ -14737,20 +14739,51 @@
       "dates": [
         "2026-04-30"
       ]
+    },
+    "specially crafted message": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "mms e g": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "massive ddos attacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "abb products support": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "system node resulting": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "system node allowing": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "chinese authorities arrested": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-20 09:54",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "iran's intelligence agencies",
-        "horner automation cscape",
-        "play policy updates",
-        "recent service update"
-      ]
-    },
     {
       "timestamp": "2026-04-20 11:16",
       "articles": 56,
@@ -15838,6 +15871,17 @@
         "operational technology ot",
         "rats cybersecurity researchers",
         "supply chain attack"
+      ]
+    },
+    {
+      "timestamp": "2026-04-30 15:45",
+      "articles": 56,
+      "top_keywords": [
+        "specially crafted message",
+        "iran's intelligence agencies",
+        "codenamed copy fail",
+        "service ddos attacks",
+        "operational technology ot"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-30 13:44 UTC  
+> **Last Updated:** 2026-04-30 15:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **codenamed copy fail** • **operational technology ot** • **rats cybersecurity researchers** • **supply chain attack** • **twitter whistleblower complaint** • **fake zoom calls** • **execute arbitrary commands** • **automate exposure validation** • **130 companies tangled** • **uk cyber league** • **operational technology cisa** • **remote code execution** • **intrusion chain begins** • **arrested three individuals** • **scale malware attacks** • **automate attacks directly** • **wire fraud conspiracy** • **validate sdk v2** • **unprivileged local user**
+**specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **service ddos attacks** • **operational technology ot** • **operational technology cisa** • **rats cybersecurity researchers** • **supply chain attack** • **twitter whistleblower complaint** • **mms e g** • **fake zoom calls** • **automate exposure validation** • **5 000 workers** • **130 companies tangled** • **massive ddos attacks** • **abb products support** • **system node resulting** • **system node allowing** • **intrusion chain begins** • **chinese authorities arrested**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 - [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 - [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
 - [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
@@ -23,21 +24,21 @@
 - [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
-- [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 
 ### BleepingComputer
 
+- [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
+- [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
+- [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
 - [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
 - [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
 - [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 - [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
 - [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
-- [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
-- [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
-- [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
 
 ### Krebs on Security
 
+- [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 - [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
@@ -45,14 +46,13 @@
 - [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
-- [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/)
 
 ### Dark Reading
 
+- [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
 - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
-- [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 - [Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error](https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error)
 - [Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities](https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities)
 - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
+- [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
 - [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
 - [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
 - [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
 - [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
 - [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
 - [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
-- [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
-- [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [ABB Ability Symphony Plus Engineering](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06)
+- [ABB AWIN Gateways](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05)
+- [ABB Edgenius Management Portal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03)
+- [ABB System 800xA, Symphony Plus IEC 61850](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01)
+- [ABB Ability OPTIMAX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04)
+- [ABB PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02)
 - [Adapting Zero Trust Principles to Operational Technology](https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology)
 - [NSA GRASSMARLIN](https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [CISA Adds Four Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog)
-- [Milesight Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03)
-- [Defending Against China-Nexus Covert Networks of Compromised Devices](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a)
-- [SpiceJet Online Booking System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04)
-- [Yadea T5 Electric Bicycle](https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01)
 
 ---
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-04-30 13:44",
+  "last_updated": "2026-04-30 15:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "specially crafted message",
     "iran's intelligence agencies",
     "codenamed copy fail",
+    "service ddos attacks",
     "operational technology ot",
+    "operational technology cisa",
     "rats cybersecurity researchers",
     "supply chain attack",
     "twitter whistleblower complaint",
+    "mms e g",
     "fake zoom calls",
-    "execute arbitrary commands",
     "automate exposure validation",
+    "5 000 workers",
     "130 companies tangled",
-    "uk cyber league",
-    "operational technology cisa",
-    "remote code execution",
+    "massive ddos attacks",
+    "abb products support",
+    "system node resulting",
+    "system node allowing",
     "intrusion chain begins",
-    "arrested three individuals",
-    "scale malware attacks",
-    "automate attacks directly",
-    "wire fraud conspiracy",
-    "validate sdk v2",
-    "unprivileged local user"
+    "chinese authorities arrested"
   ],
   "trending": [
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 412
-    },
-    {
-      "keyword": "codenamed copy fail",
+      "keyword": "specially crafted message",
       "mentions": 1
     },
     {
-      "keyword": "operational technology ot",
-      "mentions": 7
+      "keyword": "iran's intelligence agencies",
+      "mentions": 413
     },
     {
-      "keyword": "rats cybersecurity researchers",
+      "keyword": "codenamed copy fail",
       "mentions": 2
     },
     {
-      "keyword": "supply chain attack",
-      "mentions": 44
+      "keyword": "service ddos attacks",
+      "mentions": 17
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1496
-    },
-    {
-      "keyword": "fake zoom calls",
+      "keyword": "operational technology ot",
       "mentions": 8
     },
     {
-      "keyword": "execute arbitrary commands",
-      "mentions": 23
+      "keyword": "operational technology cisa",
+      "mentions": 8
     },
     {
-      "keyword": "automate exposure validation",
-      "mentions": 9
+      "keyword": "rats cybersecurity researchers",
+      "mentions": 3
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 198
+      "keyword": "supply chain attack",
+      "mentions": 45
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1497
+    },
+    {
+      "keyword": "mms e g",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
+      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online. Security is always a moving target. Millions of servers are currently sitting online without any passwords, and",
+      "published": "Thu, 30 Apr 2026 19:25:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
@@ -140,14 +149,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)",
-      "link": "https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html",
-      "summary": "Every security team has a version of the same story. The quarter ends with hundreds of vulnerabilities closed. The dashboards are bursting with green. Then someone in a leadership meeting asks: \"So, are we actually safer now?\" Crickets. The room goes quiet because an honest answer requires context – which is something that patch counts and CVSS scores were never designed to provide. Exposure",
-      "published": "Wed, 29 Apr 2026 17:00:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "April KB5083769 Windows 11 update causes backup software failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
+      "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
+      "published": "Thu, 30 Apr 2026 11:23:03 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Patch/update"
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
+      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
+      "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
+      "published": "Thu, 30 Apr 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
+      "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
+      "published": "Thu, 30 Apr 2026 09:54:47 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
       ]
     },
     {
@@ -209,36 +239,16 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Hackers arrested for hijacking and selling 610,000 Roblox accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/",
-      "summary": "The Ukrainian police have arrested three individuals who hacked more than 610,000 Roblox gaming accounts and sold them for a profit of $225,000. [...]",
-      "published": "Wed, 29 Apr 2026 14:32:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "cPanel, WHM emergency update fixes critical auth bypass bug",
-      "link": "https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/",
-      "summary": "A critical vulnerability affecting all but the latest versions of cPanel and the WebHost Manager (WHM) dashboard could be exploited to obtain access to the control panel without authentication. [...]",
-      "published": "Wed, 29 Apr 2026 11:51:44 -0400",
-      "value_score": 55,
+      "source": "Krebs on Security",
+      "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
+      "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
+      "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
+      "published": "Thu, 30 Apr 2026 14:04:26 +0000",
+      "value_score": 32,
       "value_signals": [
-        "Auth bypass",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
+        "Breach/leak",
+        "Botnet"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "European police dismantles €50 million crypto investment fraud ring",
-      "link": "https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/",
-      "summary": "Austrian and Albanian authorities dismantled a criminal ring accused of running a large-scale cryptocurrency investment fraud operation that caused estimated losses of over €50 million ($58.5 million) to victims worldwide. [...]",
-      "published": "Wed, 29 Apr 2026 10:27:36 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -314,16 +324,13 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Microsoft Patch Tuesday, March 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/",
-      "summary": "Microsoft Corp. today pushed security updates to fix at least 77 vulnerabilities in its Windows operating systems and other software. There are no pressing \"zero-day\" flaws this month (compared to February's five zero-day treat), but as usual some patches may deserve more rapid attention from organizations using Windows. Here are a few highlights from this month's Patch Tuesday.",
-      "published": "Wed, 11 Mar 2026 00:32:51 +0000",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×3"
-      ]
+      "source": "Dark Reading",
+      "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
+      "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
+      "summary": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
+      "published": "Thu, 30 Apr 2026 13:45:58 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -353,15 +360,6 @@
       "value_signals": [
         "RCE"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
-      "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
-      "summary": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
-      "published": "Wed, 29 Apr 2026 18:02:01 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -398,6 +396,26 @@
       "link": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
       "summary": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leaks exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and \"enculturation.\"",
       "published": "Tue, 28 Apr 2026 20:38:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SonicWall Urges Immediate Patching of Firewall Vulnerabilities",
+      "link": "https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/",
+      "summary": "The bugs could be exploited to bypass security controls, access restricted services, and crash firewalls. The post SonicWall Urges Immediate Patching of Firewall Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 14:52:20 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "SAP NPM Packages Targeted in Supply Chain Attack",
+      "link": "https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/",
+      "summary": "The Mini Shai-Hulud attack introduced a preinstall hook to fetch and execute a Bun binary and bypass security monitoring. The post SAP NPM Packages Targeted in Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 14:27:36 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -469,24 +487,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hundreds of Internet-Facing VNC Servers Expose ICS/OT",
-      "link": "https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/",
-      "summary": "Forescout has identified tens of thousands of exposed RDP and VNC servers that can be mapped to specific industries. The post Hundreds of Internet-Facing VNC Servers Expose ICS/OT appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 12:03:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Checkmarx Confirms Data Stolen in Supply Chain Attack",
-      "link": "https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/",
-      "summary": "The hackers exfiltrated the data from Checkmarx’s GitHub environment on March 30, a week after publishing malicious code. The post Checkmarx Confirms Data Stolen in Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 11:03:03 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -573,6 +573,79 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "ABB Ability Symphony Plus Engineering",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If an attacker gains access to a site’s S+ Client Server network, they could exploit such vulnerabilities by executing arbitrary code and potentially compromising the entire system. The following versions of ABB Ability Symphony Plus Engineering are affected: Abili",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB AWIN Gateways",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to remotely reboot the device or complete an unauthenticated query to reveal system configuration, including sensitive details. The following versions of ABB AWIN Gateways are affected: ABB AWIN Firmware (2.0-0) installed on ABB AWIN GW100 rev.2 2.0-0 ABB AWIN Firmware (2.0-1) installed on ABB AWIN GW100 rev.2 2.0-1 ABB AWIN Firmware (1.2-0) installed on ABB AWIN GW120 1.2-0 ABB AWIN Firmware (1.2-1) insta",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB Edgenius Management Portal",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify the configuration of installed applications. The following versions of ABB Edgenius Management Portal are affected: Edgenius Management Portal 3.2.0.0|3.2.1.1 CVSS Vendor Equipment Vulnerabilities v3 9.6 ABB ABB Edgenius Management Portal Authentication Bypass Usin",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB System 800xA, Symphony Plus IEC 61850",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
+      "summary": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication typically supports MMS and GOOSE protocols. Some ABB products support both, others only MMS (e.g. S+ Operations and PM 877). In any case, GOOSE communication is not impacted by this reported vulnerability. If an attacker gains access to a site’s IEC 61850 network",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB Ability OPTIMAX",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass user authentication on OPTIMAX installations that make use of the Azure Active Directory Single-Sign On integration. The following versions of ABB Ability OPTIMAX are affected: ABB Ability OPTIMAX 6.1 vers:all/* ABB Ability OPTIMAX 6.2 vers:all/* ABB Ability OPTIMAX 6.3 <6.3.1-251120 ABB Ability OPTIMAX 6.4 <6.4.1-251120 CVSS Vendor Equipment Vulnerabilities v3 8.1 ABB ABB Ability OPTIMAX Incorrect ",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB PCM600",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600 are affected: PCM600 >=1.5|<=2.13 CVSS Vendor Equipment Vulnerabilities v3 4.4 ABB ABB PCM600 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Com",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Adapting Zero Trust Principles to Operational Technology",
       "link": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
       "summary": "Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operational Technology , joint guidance for organizations applying zero trust (ZT) principles to operational technology (OT). Zero trust is a modern, adaptive approach to cybersecurity that eliminates implicit trust and requires continuously validating access based on i",
@@ -592,91 +665,6 @@
       "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/28/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-1708 ConnectWise ScreenConnect Path Traversal Vulnerability CVE-2026-32202 Microsoft Windows Protection Mechanism Failure Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kno",
-      "published": "Tue, 28 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/24/cisa-adds-four-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added four new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-7399 Samsung MagicINFO 9 Server Path Traversal Vulnerability CVE-2024-57726 SimpleHelp Missing Authorization Vulnerability CVE-2024-57728 SimpleHelp Path Traversal Vulnerability CVE-2025-29635 D-Link DIR-823X Command Injection Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks ",
-      "published": "Fri, 24 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Milesight Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could crash the device being accessed or allow remote code execution. The following versions of Milesight Cameras are affected: MS-Cxx63-PD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx64-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026-32649, CVE-2026-20766) MS-Cxx73-xPD <=51.7.0.77-r12 (CVE-2026-28747, CVE-2026-27785, CVE-2026-32644, CVE-2026",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×13",
-        "RCE",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Defending Against China-Nexus Covert Networks of Compromised Devices",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-113a",
-      "summary": "Defending against china-nexus covert networks of compromised devices executive summary Defending against China-nexus covert networks of compromised devices Explaining the widespread shift in tactics, techniques and procedures (TTPs) towards networks of compromised infrastructure, and how to defend against it Summary With support from the UK Cyber League , this advisory has been jointly released by the National Cyber Security Centre (NCSC-UK) and international partners: Australian Signals Directo",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "SpiceJet Online Booking System",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-04",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to disclose sensitive information. The following versions of SpiceJet Online Booking System are affected: Online Booking System vers:all/* (CVE-2026-6375, CVE-2026-6376) CVSS Vendor Equipment Vulnerabilities v3 7.5 SpiceJet SpiceJet Online Booking System Authorization Bypass Through User-Controlled Key, Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation ",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "High severity ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Yadea T5 Electric Bicycle",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-113-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker being able to unlock and start the bicycle, leading to vehicle theft. The following versions of Yadea T5 Electric Bicycle are affected: T5 Electric Bicycle vers:all/* (CVE-2025-70994) CVSS Vendor Equipment Vulnerabilities v3 7.3 Yadea Yadea T5 Electric Bicycle Weak Authentication Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worldwide Company Headquarters Loc",
-      "published": "Thu, 23 Apr 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
         "High severity",
         "Exploit wording"
       ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-30 13:44 UTC |
+| 🕐 Last Updated | 2026-04-30 15:45 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `codenamed copy fail` • `operational technology ot` • `rats cybersecurity researchers` • `supply chain attack` • `twitter whistleblower complaint` • `fake zoom calls` • `execute arbitrary commands` • `automate exposure validation` • `130 companies tangled`
+`specially crafted message` • `iran's intelligence agencies` • `codenamed copy fail` • `service ddos attacks` • `operational technology ot` • `operational technology cisa` • `rats cybersecurity researchers` • `supply chain attack` • `twitter whistleblower complaint` • `mms e g`
 
 ## 📄 Reports
 

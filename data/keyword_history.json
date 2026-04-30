@@ -275,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1498,
+      "count": 1499,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2275,7 +2275,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6258,7 +6258,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7193,9 +7193,10 @@
       ]
     },
     "supply chain attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-02-16"
+        "2026-02-16",
+        "2026-04-30"
       ]
     },
     "canada goose investigating": {
@@ -10735,7 +10736,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 414,
+      "count": 415,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -14601,7 +14602,7 @@
       ]
     },
     "fake zoom calls": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-28",
         "2026-04-29",
@@ -14690,14 +14691,14 @@
       ]
     },
     "operational technology ot": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "operational technology cisa": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14717,13 +14718,13 @@
       ]
     },
     "rats cybersecurity researchers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-30"
       ]
     },
     "codenamed copy fail": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-04-30"
       ]
@@ -14741,25 +14742,25 @@
       ]
     },
     "specially crafted message": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
     },
     "mms e g": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
     },
     "massive ddos attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
     },
     "abb products support": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
@@ -14783,13 +14784,13 @@
       ]
     },
     "2 6 3": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
     },
     "cargo theft attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
@@ -14799,20 +14800,33 @@
       "dates": [
         "2026-04-30"
       ]
+    },
+    "intercom client hit": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "four religious institutions": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "defenders must match": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "bypass user authentication": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-20 13:20",
-      "articles": 56,
-      "top_keywords": [
-        "horner automation cscape",
-        "iran's intelligence agencies",
-        "hackers abuse qemu",
-        "recent service update",
-        "phony zoom updates"
-      ]
-    },
     {
       "timestamp": "2026-04-20 15:13",
       "articles": 56,
@@ -15900,6 +15914,17 @@
         "service ddos attacks",
         "specially crafted message",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-04-30 19:12",
+      "articles": 56,
+      "top_keywords": [
+        "2 6 3",
+        "service ddos attacks",
+        "specially crafted message",
+        "iran's intelligence agencies",
+        "codenamed copy fail"
       ]
     }
   ]

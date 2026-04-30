@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-04-30 17:15",
+  "last_updated": "2026-04-30 19:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "supply chain attack",
     "2 6 3",
     "service ddos attacks",
     "specially crafted message",
@@ -11,67 +10,68 @@
     "codenamed copy fail",
     "cargo theft attacks",
     "operational technology ot",
-    "operational technology cisa",
+    "supply chain attacks",
     "rats cybersecurity researchers",
-    "intrusion chain begins",
     "massive ddos attacks",
     "twitter whistleblower complaint",
     "mms e g",
+    "intercom client hit",
+    "four religious institutions",
     "fake zoom calls",
-    "5 000 workers",
+    "defenders must match",
     "130 companies tangled",
-    "abb products support",
-    "scale malware attacks",
-    "automated attacks move"
+    "bypass user authentication",
+    "operational technology cisa",
+    "abb products support"
   ],
   "trending": [
     {
-      "keyword": "supply chain attack",
-      "mentions": 46
-    },
-    {
       "keyword": "2 6 3",
-      "mentions": 1
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 18
-    },
-    {
-      "keyword": "specially crafted message",
       "mentions": 2
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 414
+      "keyword": "service ddos attacks",
+      "mentions": 19
     },
     {
-      "keyword": "codenamed copy fail",
+      "keyword": "specially crafted message",
       "mentions": 3
     },
     {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 415
+    },
+    {
+      "keyword": "codenamed copy fail",
+      "mentions": 4
+    },
+    {
       "keyword": "cargo theft attacks",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "operational technology ot",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "operational technology cisa",
-      "mentions": 9
+      "keyword": "supply chain attacks",
+      "mentions": 6
     },
     {
       "keyword": "rats cybersecurity researchers",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "massive ddos attacks",
+      "mentions": 3
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials",
+      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
       "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an extension of the",
+      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
       "published": "Thu, 30 Apr 2026 22:01:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -148,6 +148,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
+      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
+      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Romanian leader of online swatting ring gets 4 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
+      "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
+      "published": "Thu, 30 Apr 2026 13:45:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
       "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
@@ -211,26 +231,6 @@
       "published": "Thu, 30 Apr 2026 07:21:02 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "summary": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-      "published": "Wed, 29 Apr 2026 18:43:44 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "summary": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
-      "published": "Wed, 29 Apr 2026 18:13:15 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -395,6 +395,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
+      "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
+      "summary": "With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace. The post Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 18:57:55 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours",
+      "link": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
+      "summary": "Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation. The post AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 18:54:15 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "SonicWall Urges Immediate Patching of Firewall Vulnerabilities",
       "link": "https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/",
       "summary": "The bugs could be exploited to bypass security controls, access restricted services, and crash firewalls. The post SonicWall Urges Immediate Patching of Firewall Vulnerabilities appeared first on SecurityWeek .",
@@ -458,29 +480,6 @@
       "published": "Thu, 30 Apr 2026 10:06:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Sandhills Medical Says Ransomware Breach Affects 170,000",
-      "link": "https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/",
-      "summary": "It took the healthcare organization nearly one year to publicly disclose a data breach after it was targeted by Inc Ransom. The post Sandhills Medical Says Ransomware Breach Affects 170,000 appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 08:35:59 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure",
-      "link": "https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/",
-      "summary": "The vulnerability allows attackers to read data from a LiteLLM proxy’s database and potentially modify it. The post Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 13:04:05 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",
@@ -567,18 +566,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB Ability Symphony Plus Engineering",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If an attacker gains access to a site’s S+ Client Server network, they could exploit such vulnerabilities by executing arbitrary code and potentially compromising the entire system. The following versions of ABB Ability Symphony Plus Engineering are affected: Abili",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "ABB AWIN Gateways",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to remotely reboot the device or complete an unauthenticated query to reveal system configuration, including sensitive details. The following versions of ABB AWIN Gateways are affected: ABB AWIN Firmware (2.0-0) installed on ABB AWIN GW100 rev.2 2.0-0 ABB AWIN Firmware (2.0-1) installed on ABB AWIN GW100 rev.2 2.0-1 ABB AWIN Firmware (1.2-0) installed on ABB AWIN GW120 1.2-0 ABB AWIN Firmware (1.2-1) insta",
@@ -587,30 +574,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Edgenius Management Portal",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify the configuration of installed applications. The following versions of ABB Edgenius Management Portal are affected: Edgenius Management Portal 3.2.0.0|3.2.1.1 CVSS Vendor Equipment Vulnerabilities v3 9.6 ABB ABB Edgenius Management Portal Authentication Bypass Usin",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB System 800xA, Symphony Plus IEC 61850",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
-      "summary": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication typically supports MMS and GOOSE protocols. Some ABB products support both, others only MMS (e.g. S+ Operations and PM 877). In any case, GOOSE communication is not impacted by this reported vulnerability. If an attacker gains access to a site’s IEC 61850 network",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     },
     {
@@ -640,6 +603,57 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "ABB Edgenius Management Portal",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify the configuration of installed applications. The following versions of ABB Edgenius Management Portal are affected: Edgenius Management Portal 3.2.0.0|3.2.1.1 CVSS Vendor Equipment Vulnerabilities v3 9.6 ABB ABB Edgenius Management Portal Authentication Bypass Usin",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41940 WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilitie",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB Ability Symphony Plus Engineering",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If an attacker gains access to a site’s S+ Client Server network, they could exploit such vulnerabilities by executing arbitrary code and potentially compromising the entire system. The following versions of ABB Ability Symphony Plus Engineering are affected: Abili",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB System 800xA, Symphony Plus IEC 61850",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
+      "summary": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication typically supports MMS and GOOSE protocols. Some ABB products support both, others only MMS (e.g. S+ Operations and PM 877). In any case, GOOSE communication is not impacted by this reported vulnerability. If an attacker gains access to a site’s IEC 61850 network",
+      "published": "Thu, 30 Apr 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Adapting Zero Trust Principles to Operational Technology",
       "link": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
       "summary": "Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operational Technology , joint guidance for organizations applying zero trust (ZT) principles to operational technology (OT). Zero trust is a modern, adaptive approach to cybersecurity that eliminates implicit trust and requires continuously validating access based on i",
@@ -648,19 +662,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "NSA GRASSMARLIN",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to disclose sensitive information. The following versions of NSA GRASSMARLIN are affected: GRASSMARLIN vers:all/* CVSS Vendor Equipment Vulnerabilities v3 5.5 NSA NSA GRASSMARLIN Improper Restriction of XML External Entity Reference Background Critical Infrastructure Sectors: Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CV",
-      "published": "Tue, 28 Apr 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
       ]
     }
   ],

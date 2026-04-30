@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-30 17:15 UTC  
+> **Last Updated:** 2026-04-30 19:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**supply chain attack** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **cargo theft attacks** • **operational technology ot** • **operational technology cisa** • **rats cybersecurity researchers** • **intrusion chain begins** • **massive ddos attacks** • **twitter whistleblower complaint** • **mms e g** • **fake zoom calls** • **5 000 workers** • **130 companies tangled** • **abb products support** • **scale malware attacks** • **automated attacks move**
+**2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **cargo theft attacks** • **operational technology ot** • **supply chain attacks** • **rats cybersecurity researchers** • **massive ddos attacks** • **twitter whistleblower complaint** • **mms e g** • **intercom client hit** • **four religious institutions** • **fake zoom calls** • **defenders must match** • **130 companies tangled** • **bypass user authentication** • **operational technology cisa** • **abb products support**
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### The Hacker News
 
-- [PyTorch Lightning Compromised in PyPI Supply Chain Attack to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
+- [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 - [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 - [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 - [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
+- [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
 - [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
 - [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
 - [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
 - [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
 - [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
 - [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
-- [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
-- [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
+- [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
 - [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
 - [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
 - [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
 - [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
 - [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
 - [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
-- [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
-- [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [ABB Ability Symphony Plus Engineering](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06)
 - [ABB AWIN Gateways](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05)
-- [ABB Edgenius Management Portal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03)
-- [ABB System 800xA, Symphony Plus IEC 61850](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01)
 - [ABB Ability OPTIMAX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04)
 - [ABB PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02)
+- [ABB Edgenius Management Portal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [ABB Ability Symphony Plus Engineering](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06)
+- [ABB System 800xA, Symphony Plus IEC 61850](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01)
 - [Adapting Zero Trust Principles to Operational Technology](https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology)
-- [NSA GRASSMARLIN](https://www.cisa.gov/news-events/ics-advisories/icsa-26-118-01)
 
 ---
 

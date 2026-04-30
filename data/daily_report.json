@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 02:31",
+  "last_updated": "2026-04-30 06:24",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "control panel software",
     "uk cyber league",
     "malicious cyber actors",
+    "released security updates",
     "38 vulnerabilities found",
     "scale malware attacks",
-    "automate attacks directly",
-    "impact github com"
+    "automate attacks directly"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 312
+      "mentions": 313
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 220
+      "mentions": 221
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 409
+      "mentions": 410
     },
     {
       "keyword": "disclose sensitive information",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "operational technology ot",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "operational technology cisa",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "game threat actors",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1493
+      "mentions": 1494
     },
     {
       "keyword": "fake zoom calls",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -111,7 +111,7 @@
       "source": "The Hacker News",
       "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
       "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions, according to an alert released by cPanel on Tuesday. The issue has been addressed in the following versions - 11.110.0.97 11.118.0.63 11.126.0.54 11.132.0.29",
+      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
       "published": "Wed, 29 Apr 2026 15:07:00 +0530",
       "value_score": 26,
       "value_signals": [

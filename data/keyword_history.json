@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 454,
+      "count": 455,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -275,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1493,
+      "count": 1494,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -667,7 +667,7 @@
       ]
     },
     "remote code execution": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2275,7 +2275,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2846,7 +2846,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3701,7 +3701,7 @@
       ]
     },
     "released security updates": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3717,7 +3717,8 @@
         "2026-03-13",
         "2026-03-24",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-04-30"
       ]
     },
     "auditability collide daily": {
@@ -10730,7 +10731,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 409,
+      "count": 410,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10920,7 +10921,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -14228,7 +14229,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14586,7 +14587,7 @@
       ]
     },
     "disclose sensitive information": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-28",
         "2026-04-29",
@@ -14594,7 +14595,7 @@
       ]
     },
     "fake zoom calls": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-28",
         "2026-04-29",
@@ -14615,21 +14616,21 @@
       ]
     },
     "38 vulnerabilities found": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "github enterprise server": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "game threat actors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14655,21 +14656,21 @@
       ]
     },
     "automate exposure validation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "control panel software": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "automate attacks directly": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14682,14 +14683,14 @@
       ]
     },
     "operational technology ot": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "operational technology cisa": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14702,24 +14703,13 @@
       ]
     },
     "scale malware attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-04-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-19 22:29",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-20 02:10",
       "articles": 56,
@@ -15800,6 +15790,17 @@
     },
     {
       "timestamp": "2026-04-30 02:31",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "arbitrary code execution",
+        "iran's intelligence agencies",
+        "disclose sensitive information",
+        "operational technology ot"
+      ]
+    },
+    {
+      "timestamp": "2026-04-30 06:24",
       "articles": 56,
       "top_keywords": [
         "remote code execution",

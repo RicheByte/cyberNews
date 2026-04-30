@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 20:54",
+  "last_updated": "2026-04-30 22:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,53 +17,53 @@
     "mms e g",
     "intercom client hit",
     "four religious institutions",
-    "fake zoom calls",
     "defenders must match",
     "130 companies tangled",
     "bypass user authentication",
+    "supply chain attack",
     "operational technology cisa",
     "abb products support"
   ],
   "trending": [
     {
       "keyword": "2 6 3",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 4
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 416
-    },
-    {
-      "keyword": "codenamed copy fail",
       "mentions": 5
     },
     {
-      "keyword": "cargo theft attacks",
-      "mentions": 3
+      "keyword": "iran's intelligence agencies",
+      "mentions": 417
     },
     {
-      "keyword": "operational technology ot",
-      "mentions": 11
-    },
-    {
-      "keyword": "supply chain attacks",
-      "mentions": 7
-    },
-    {
-      "keyword": "rats cybersecurity researchers",
+      "keyword": "codenamed copy fail",
       "mentions": 6
     },
     {
-      "keyword": "massive ddos attacks",
+      "keyword": "cargo theft attacks",
       "mentions": 4
+    },
+    {
+      "keyword": "operational technology ot",
+      "mentions": 12
+    },
+    {
+      "keyword": "supply chain attacks",
+      "mentions": 8
+    },
+    {
+      "keyword": "rats cybersecurity researchers",
+      "mentions": 7
+    },
+    {
+      "keyword": "massive ddos attacks",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -319,6 +319,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack",
+      "link": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
+      "summary": "Several npm packages for SAP's cloud application development ecosystem have been compromised as TeamPCP's supply chain attacks broaden.",
+      "published": "Thu, 30 Apr 2026 21:01:18 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
+      "summary": "The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
+      "published": "Thu, 30 Apr 2026 20:41:18 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
       "link": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
       "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
@@ -374,24 +395,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities",
-      "link": "https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities",
-      "summary": "An analysis of the destructive malware reveals sophisticated living-off-the-land (LotL) techniques and detailed strategies for the widespread deletion of data.",
-      "published": "Wed, 29 Apr 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
-      "summary": "The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
-      "published": "Tue, 28 Apr 2026 21:38:39 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-30 20:54 UTC  
+> **Last Updated:** 2026-04-30 22:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **cargo theft attacks** • **operational technology ot** • **supply chain attacks** • **rats cybersecurity researchers** • **massive ddos attacks** • **twitter whistleblower complaint** • **mms e g** • **intercom client hit** • **four religious institutions** • **fake zoom calls** • **defenders must match** • **130 companies tangled** • **bypass user authentication** • **operational technology cisa** • **abb products support**
+**2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **codenamed copy fail** • **cargo theft attacks** • **operational technology ot** • **supply chain attacks** • **rats cybersecurity researchers** • **massive ddos attacks** • **twitter whistleblower complaint** • **mms e g** • **intercom client hit** • **four religious institutions** • **defenders must match** • **130 companies tangled** • **bypass user authentication** • **supply chain attack** • **operational technology cisa** • **abb products support**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack](https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud)
+- [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - [Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber](https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next)
 - [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
 - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
 - [Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error](https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error)
-- [Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities](https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities)
-- [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
 
 ### Security Week
 

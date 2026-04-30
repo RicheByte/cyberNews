@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-30 10:01 UTC  
+> **Last Updated:** 2026-04-30 13:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**high severity vulnerabilities** • **iran's intelligence agencies** • **remote code execution** • **operational technology ot** • **operational technology cisa** • **supply chain attack** • **arbitrary code execution** • **impact github com** • **twitter whistleblower complaint** • **fake zoom calls** • **disclose sensitive information** • **automate exposure validation** • **130 companies tangled** • **github enterprise server** • **control panel software** • **uk cyber league** • **execute arbitrary commands** • **rats cybersecurity researchers** • **released security updates** • **critical vulnerability affecting**
+**iran's intelligence agencies** • **codenamed copy fail** • **operational technology ot** • **rats cybersecurity researchers** • **supply chain attack** • **twitter whistleblower complaint** • **fake zoom calls** • **execute arbitrary commands** • **automate exposure validation** • **130 companies tangled** • **uk cyber league** • **operational technology cisa** • **remote code execution** • **intrusion chain begins** • **arrested three individuals** • **scale malware attacks** • **automate attacks directly** • **wire fraud conspiracy** • **validate sdk v2** • **unprivileged local user**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
+- [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
 - [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 - [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 - [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 - [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
-- [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
-- [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
 
 ### BleepingComputer
 
+- [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
+- [Police dismantles 9 crypto scam centers, arrests 276 suspects](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/)
 - [Official SAP npm packages compromised to steal credentials](https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/)
 - [Popular WordPress redirect plugin hid dormant backdoor for years](https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/)
 - [Hackers exploit RCE flaws in Qinglong task scheduler for cryptomining](https://www.bleepingcomputer.com/news/security/hackers-exploit-rce-flaws-in-qinglong-task-scheduler-for-cryptomining/)
 - [Hackers arrested for hijacking and selling 610,000 Roblox accounts](https://www.bleepingcomputer.com/news/security/hackers-arrested-for-hijacking-and-selling-610-000-roblox-accounts/)
 - [cPanel, WHM emergency update fixes critical auth bypass bug](https://www.bleepingcomputer.com/news/security/cpanel-whm-emergency-update-fixes-critical-auth-bypass-bug/)
 - [European police dismantles €50 million crypto investment fraud ring](https://www.bleepingcomputer.com/news/security/european-police-dismantles-50-million-crypto-investment-fraud-ring/)
-- [Learning from the Vercel breach: Shadow AI & OAuth sprawl](https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/)
-- [GitHub fixes RCE flaw that gave access to millions of private repos](https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/)
 
 ### Krebs on Security
 
@@ -52,22 +52,22 @@
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
 - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
+- [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 - [Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error](https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error)
 - [Lotus Wiper Attack Targets Venezuelan Energy Firms, Utilities](https://www.darkreading.com/cyber-risk/lotus-wiper-attack-targeted-venezuelan-energy-firms-utilities)
 - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
 - [NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later](https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later)
-- [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
 
 ### Security Week
 
+- [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
+- [EnOcean SmartServer Flaws Expose Buildings to Remote Hacking](https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/)
+- [Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months](https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/)
+- [‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover](https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/)
 - [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
 - [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
 - [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
 - [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
-- [Iranian Cyber Group Handala Targets US Troops in Bahrain](https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/)
-- [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
-- [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
-- [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
 
 ### Threatpost
 

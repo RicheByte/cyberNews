@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-04-30 10:01",
+  "last_updated": "2026-04-30 13:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "high severity vulnerabilities",
     "iran's intelligence agencies",
-    "remote code execution",
+    "codenamed copy fail",
     "operational technology ot",
-    "operational technology cisa",
+    "rats cybersecurity researchers",
     "supply chain attack",
-    "arbitrary code execution",
-    "impact github com",
     "twitter whistleblower complaint",
     "fake zoom calls",
-    "disclose sensitive information",
+    "execute arbitrary commands",
     "automate exposure validation",
     "130 companies tangled",
-    "github enterprise server",
-    "control panel software",
     "uk cyber league",
-    "execute arbitrary commands",
-    "rats cybersecurity researchers",
-    "released security updates",
-    "critical vulnerability affecting"
+    "operational technology cisa",
+    "remote code execution",
+    "intrusion chain begins",
+    "arrested three individuals",
+    "scale malware attacks",
+    "automate attacks directly",
+    "wire fraud conspiracy",
+    "validate sdk v2",
+    "unprivileged local user"
   ],
   "trending": [
     {
-      "keyword": "high severity vulnerabilities",
-      "mentions": 11
-    },
-    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 411
+      "mentions": 412
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 314
+      "keyword": "codenamed copy fail",
+      "mentions": 1
     },
     {
       "keyword": "operational technology ot",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "operational technology cisa",
-      "mentions": 6
+      "keyword": "rats cybersecurity researchers",
+      "mentions": 2
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 43
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 222
-    },
-    {
-      "keyword": "impact github com",
-      "mentions": 8
+      "mentions": 44
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1495
+      "mentions": 1496
     },
     {
       "keyword": "fake zoom calls",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "execute arbitrary commands",
+      "mentions": 23
+    },
+    {
+      "keyword": "automate exposure validation",
+      "mentions": 9
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 198
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
+      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
+      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. \"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
+      "published": "Thu, 30 Apr 2026 18:06:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
+      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
+      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating Search Engine Order (SEO)",
+      "published": "Thu, 30 Apr 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
@@ -131,30 +151,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately",
-      "link": "https://thehackernews.com/2026/04/critical-cpanel-authentication.html",
-      "summary": "cPanel has released security updates to address a security issue impacting various authentication paths that could allow an attacker to obtain access to the control panel software. The problem affects all currently supported versions of cPanel and WebHost Manager (WHM), according to an alert published by WebPros on Tuesday. It does not have an official identifier. The issue has been addressed in",
-      "published": "Wed, 29 Apr 2026 15:07:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
+      "summary": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
+      "published": "Thu, 30 Apr 2026 07:40:31 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Patch/update",
-        "High severity"
+        "CVE mentioned",
+        "Zero-day",
+        "Active exploitation ×2",
+        "Auth bypass",
+        "PoC available",
+        "High severity ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV",
-      "link": "https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two security flaws impacting ConnectWise ScreenConnect and Microsoft Windows to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerabilities are listed below - CVE-2024-1708 (CVSS score: 8.4) - A path traversal vulnerability in ConnectWise ScreenConnect",
-      "published": "Wed, 29 Apr 2026 14:16:00 +0530",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×5",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
+      "summary": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
+      "published": "Thu, 30 Apr 2026 07:21:02 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -220,30 +239,6 @@
       "published": "Wed, 29 Apr 2026 10:27:36 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Learning from the Vercel breach: Shadow AI & OAuth sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/learning-from-the-vercel-breach-shadow-ai-and-oauth-sprawl/",
-      "summary": "A single third-party OAuth integration can become a direct path into your environment. Push explains how the Vercel breach shows a compromised OAuth app can lead to widespread impact across downstream customers. [...]",
-      "published": "Wed, 29 Apr 2026 09:05:14 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub fixes RCE flaw that gave access to millions of private repos",
-      "link": "https://www.bleepingcomputer.com/news/security/github-fixes-rce-flaw-that-gave-access-to-millions-of-private-repos/",
-      "summary": "In early March, GitHub patched a critical remote code execution vulnerability (CVE-2026-3854) that could have allowed attackers to access millions of private repositories. [...]",
-      "published": "Wed, 29 Apr 2026 08:41:17 -0400",
-      "value_score": 76,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -361,6 +356,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
+      "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
+      "summary": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
+      "published": "Wed, 29 Apr 2026 18:02:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error",
       "link": "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error",
       "summary": "The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
@@ -398,16 +402,50 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Feuding Ransomware Groups Leak Each Other's Data",
-      "link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
-      "summary": "When 0APT and KryBit attacked each other, they exposed infrastructure and operational data, giving defenders rare insight into ransomware operations.",
-      "published": "Tue, 28 Apr 2026 20:13:30 GMT",
-      "value_score": 58,
+      "source": "Security Week",
+      "title": "Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks",
+      "link": "https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/",
+      "summary": "An attacker could have planted a malicious configuration to execute commands outside the sandbox. The post Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 12:34:05 +0000",
+      "value_score": 26,
       "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
+        "High severity ×2"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
+      "link": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
+      "summary": "Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution. The post EnOcean SmartServer Flaws Expose Buildings to Remote Hacking appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 11:57:31 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
+      "link": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
+      "summary": "The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers. The post Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 11:10:30 +0000",
+      "value_score": 97,
+      "value_signals": [
+        "Zero-day ×2",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
+      "link": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
+      "summary": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions. The post ‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover appeared first on SecurityWeek .",
+      "published": "Thu, 30 Apr 2026 10:06:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -449,50 +487,6 @@
       "published": "Wed, 29 Apr 2026 11:03:03 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Iranian Cyber Group Handala Targets US Troops in Bahrain",
-      "link": "https://www.securityweek.com/iranian-cyber-group-handala-targets-us-troops-in-bahrain/",
-      "summary": "US service members received WhatsApp messages claiming they would be targeted with drones and missiles. The post Iranian Cyber Group Handala Targets US Troops in Bahrain appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 10:35:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "38 Vulnerabilities Found in OpenEMR Medical Software",
-      "link": "https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/",
-      "summary": "Some of the vulnerabilities discovered by Aisle can be exploited to access and alter sensitive patient information. The post 38 Vulnerabilities Found in OpenEMR Medical Software appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 09:54:17 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 147, Firefox 150 Security Updates Rolling Out",
-      "link": "https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/",
-      "summary": "The browser refreshes resolve critical and high-severity vulnerabilities that could lead to arbitrary code execution. The post Chrome 147, Firefox 150 Security Updates Rolling Out appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 09:24:29 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical GitHub Vulnerability Exposed Millions of Repositories",
-      "link": "https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/",
-      "summary": "The remote code execution flaw CVE-2026-3854 was found to impact GitHub.com and GitHub Enterprise Server. The post Critical GitHub Vulnerability Exposed Millions of Repositories appeared first on SecurityWeek .",
-      "published": "Wed, 29 Apr 2026 06:27:49 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

@@ -275,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1495,
+      "count": 1496,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -667,7 +667,7 @@
       ]
     },
     "remote code execution": {
-      "count": 314,
+      "count": 315,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2275,7 +2275,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6225,7 +6225,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7887,7 +7887,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7895,7 +7895,8 @@
         "2026-04-23",
         "2026-04-24",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "unfortunately named toolkit": {
@@ -10733,7 +10734,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 411,
+      "count": 412,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10923,7 +10924,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -14232,7 +14233,7 @@
       ]
     },
     "uk cyber league": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-04-24",
         "2026-04-25",
@@ -14598,7 +14599,7 @@
       ]
     },
     "fake zoom calls": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-28",
         "2026-04-29",
@@ -14659,7 +14660,7 @@
       ]
     },
     "automate exposure validation": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-29",
         "2026-04-30"
@@ -14673,45 +14674,65 @@
       ]
     },
     "automate attacks directly": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "validate sdk v2": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "operational technology ot": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "operational technology cisa": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-29",
         "2026-04-30"
       ]
     },
     "arrested three individuals": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "scale malware attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-04-30"
       ]
     },
     "rats cybersecurity researchers": {
+      "count": 2,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "codenamed copy fail": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "intrusion chain begins": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
+    },
+    "unprivileged local user": {
       "count": 1,
       "dates": [
         "2026-04-30"
@@ -14719,17 +14740,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-20 06:11",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-20 09:54",
       "articles": 56,
@@ -15817,6 +15827,17 @@
         "remote code execution",
         "operational technology ot",
         "operational technology cisa"
+      ]
+    },
+    {
+      "timestamp": "2026-04-30 13:44",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "codenamed copy fail",
+        "operational technology ot",
+        "rats cybersecurity researchers",
+        "supply chain attack"
       ]
     }
   ]

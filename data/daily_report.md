@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-29 22:52 UTC  
+> **Last Updated:** 2026-04-30 02:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **arbitrary code execution** • **iran's intelligence agencies** • **disclose sensitive information** • **operational technology ot** • **operational technology cisa** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **fake zoom calls** • **automate exposure validation** • **130 companies tangled** • **github enterprise server** • **control panel software** • **38 vulnerabilities found** • **automate attacks directly** • **impact github com** • **critical vulnerability affecting** • **yet another instance** • **wire fraud conspiracy**
+**remote code execution** • **arbitrary code execution** • **iran's intelligence agencies** • **disclose sensitive information** • **operational technology ot** • **operational technology cisa** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **fake zoom calls** • **automate exposure validation** • **130 companies tangled** • **github enterprise server** • **control panel software** • **uk cyber league** • **malicious cyber actors** • **38 vulnerabilities found** • **scale malware attacks** • **automate attacks directly** • **impact github com**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
 - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 - [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
 - [Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error](https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error)
@@ -56,7 +57,6 @@
 - [BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures](https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures)
 - [NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later](https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later)
 - [Feuding Ransomware Groups Leak Each Other's Data](https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data)
-- [Vidar Rises to Top of Chaotic Infostealer Market](https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market)
 
 ### Security Week
 

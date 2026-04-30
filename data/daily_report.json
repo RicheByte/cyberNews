@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-29 22:52",
+  "last_updated": "2026-04-30 02:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,53 +17,53 @@
     "130 companies tangled",
     "github enterprise server",
     "control panel software",
+    "uk cyber league",
+    "malicious cyber actors",
     "38 vulnerabilities found",
+    "scale malware attacks",
     "automate attacks directly",
-    "impact github com",
-    "critical vulnerability affecting",
-    "yet another instance",
-    "wire fraud conspiracy"
+    "impact github com"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 311
+      "mentions": 312
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 219
+      "mentions": 220
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 408
+      "mentions": 409
     },
     {
       "keyword": "disclose sensitive information",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "operational technology ot",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "operational technology cisa",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "game threat actors",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "supply chain attack",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1492
+      "mentions": 1493
     },
     {
       "keyword": "fake zoom calls",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -339,6 +339,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
+      "link": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
+      "summary": "Global financial institutions are panicked over Anthropic's new superhacker AI model. Cyber experts aren't quite as worried.",
+      "published": "Thu, 30 Apr 2026 00:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug",
       "link": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
       "summary": "Wiz used an AI reverse-engineering tool to pinpoint a vulnerability that previously would have been too costly and time-consuming to undertake.",
@@ -406,15 +415,6 @@
         "Ransomware ×2",
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vidar Rises to Top of Chaotic Infostealer Market",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vidar-top-chaotic-infostealer-market",
-      "summary": "The malware has filled the gap created by last year's law enforcement takedowns of Lumma and Rhadamanthys.",
-      "published": "Tue, 28 Apr 2026 19:07:16 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-03-31",
     "2026-04-01",
     "2026-04-02",
     "2026-04-03",
@@ -29,7 +28,8 @@
     "2026-04-26",
     "2026-04-27",
     "2026-04-28",
-    "2026-04-29"
+    "2026-04-29",
+    "2026-04-30"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 453,
+      "count": 454,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -146,7 +146,8 @@
         "2026-04-14",
         "2026-04-18",
         "2026-04-19",
-        "2026-04-20"
+        "2026-04-20",
+        "2026-04-30"
       ]
     },
     "user named csnemess": {
@@ -274,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1492,
+      "count": 1493,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -409,7 +410,8 @@
         "2026-04-26",
         "2026-04-27",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "supposed wayward package": {
@@ -665,7 +667,7 @@
       ]
     },
     "remote code execution": {
-      "count": 311,
+      "count": 312,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -715,7 +717,8 @@
         "2026-04-26",
         "2026-04-27",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "attacker remotely control": {
@@ -2272,7 +2275,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2297,7 +2300,8 @@
         "2026-04-26",
         "2026-04-27",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "corporate data stolen": {
@@ -2842,7 +2846,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2872,7 +2876,8 @@
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "authenticated remote attacker": {
@@ -10725,7 +10730,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 408,
+      "count": 409,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10767,7 +10772,8 @@
         "2026-04-26",
         "2026-04-27",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "missing authentication combined": {
@@ -10914,14 +10920,15 @@
       ]
     },
     "supply chain attack": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
         "2026-04-06",
         "2026-04-07",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "threat actors known": {
@@ -14221,14 +14228,15 @@
       ]
     },
     "uk cyber league": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-04-24",
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "nasa employees duped": {
@@ -14578,17 +14586,19 @@
       ]
     },
     "disclose sensitive information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "fake zoom calls": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "large files researchers": {
@@ -14605,21 +14615,24 @@
       ]
     },
     "38 vulnerabilities found": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "github enterprise server": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "game threat actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "custom snow malware": {
@@ -14629,9 +14642,10 @@
       ]
     },
     "impact github com": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "snowden leaks exploded": {
@@ -14641,21 +14655,24 @@
       ]
     },
     "automate exposure validation": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "control panel software": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "automate attacks directly": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "validate sdk v2": {
@@ -14665,15 +14682,17 @@
       ]
     },
     "operational technology ot": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "operational technology cisa": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-04-29"
+        "2026-04-29",
+        "2026-04-30"
       ]
     },
     "arrested three individuals": {
@@ -14681,20 +14700,15 @@
       "dates": [
         "2026-04-29"
       ]
+    },
+    "scale malware attacks": {
+      "count": 1,
+      "dates": [
+        "2026-04-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-19 20:31",
-      "articles": 56,
-      "top_keywords": [
-        "white house chief",
-        "lawmakers gathered quietly",
-        "horner automation cscape",
-        "western intelligence agencies",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-04-19 22:29",
       "articles": 56,
@@ -15775,6 +15789,17 @@
     },
     {
       "timestamp": "2026-04-29 22:52",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "arbitrary code execution",
+        "iran's intelligence agencies",
+        "disclose sensitive information",
+        "operational technology ot"
+      ]
+    },
+    {
+      "timestamp": "2026-04-30 02:31",
       "articles": 56,
       "top_keywords": [
         "remote code execution",

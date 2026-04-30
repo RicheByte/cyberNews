@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-30 19:12",
+  "last_updated": "2026-04-30 20:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "2 6 3",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 3
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 415
-    },
-    {
-      "keyword": "codenamed copy fail",
       "mentions": 4
     },
     {
-      "keyword": "cargo theft attacks",
-      "mentions": 2
+      "keyword": "iran's intelligence agencies",
+      "mentions": 416
     },
     {
-      "keyword": "operational technology ot",
-      "mentions": 10
-    },
-    {
-      "keyword": "supply chain attacks",
-      "mentions": 6
-    },
-    {
-      "keyword": "rats cybersecurity researchers",
+      "keyword": "codenamed copy fail",
       "mentions": 5
     },
     {
-      "keyword": "massive ddos attacks",
+      "keyword": "cargo theft attacks",
       "mentions": 3
+    },
+    {
+      "keyword": "operational technology ot",
+      "mentions": 11
+    },
+    {
+      "keyword": "supply chain attacks",
+      "mentions": 7
+    },
+    {
+      "keyword": "rats cybersecurity researchers",
+      "mentions": 6
+    },
+    {
+      "keyword": "massive ddos attacks",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -319,6 +319,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
+      "link": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
+      "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
+      "published": "Thu, 30 Apr 2026 19:09:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Oracle Red Bull Racing Team Revs Up Automation to Boost Security",
       "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
       "summary": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
@@ -381,15 +390,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
       "summary": "The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
       "published": "Tue, 28 Apr 2026 21:38:39 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later",
-      "link": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
-      "summary": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leaks exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and \"enculturation.\"",
-      "published": "Tue, 28 Apr 2026 20:38:59 GMT",
       "value_score": 10,
       "value_signals": []
     },

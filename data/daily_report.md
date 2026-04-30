@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-04-30 06:24 UTC  
+> **Last Updated:** 2026-04-30 10:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **arbitrary code execution** • **iran's intelligence agencies** • **disclose sensitive information** • **operational technology ot** • **operational technology cisa** • **game threat actors** • **supply chain attack** • **twitter whistleblower complaint** • **fake zoom calls** • **automate exposure validation** • **130 companies tangled** • **github enterprise server** • **control panel software** • **uk cyber league** • **malicious cyber actors** • **released security updates** • **38 vulnerabilities found** • **scale malware attacks** • **automate attacks directly**
+**high severity vulnerabilities** • **iran's intelligence agencies** • **remote code execution** • **operational technology ot** • **operational technology cisa** • **supply chain attack** • **arbitrary code execution** • **impact github com** • **twitter whistleblower complaint** • **fake zoom calls** • **disclose sensitive information** • **automate exposure validation** • **130 companies tangled** • **github enterprise server** • **control panel software** • **uk cyber league** • **execute arbitrary commands** • **rats cybersecurity researchers** • **released security updates** • **critical vulnerability affecting**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
+- [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 - [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 - [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 - [Webinar: How to Automate Exposure Validation to Match the Speed of AI Attacks](https://thehackernews.com/2026/04/webinar-how-to-automate-exposure.html)
 - [What to Look for in an Exposure Management Platform (And What Most of Them Get Wrong)](https://thehackernews.com/2026/04/what-to-look-for-in-exposure-management.html)
 - [Critical cPanel Authentication Vulnerability Identified — Update Your Server Immediately](https://thehackernews.com/2026/04/critical-cpanel-authentication.html)
 - [CISA Adds Actively Exploited ConnectWise and Windows Flaws to KEV](https://thehackernews.com/2026/04/cisa-adds-actively-exploited.html)
-- [LiteLLM CVE-2026-42208 SQL Injection Exploited within 36 Hours of Disclosure](https://thehackernews.com/2026/04/litellm-cve-2026-42208-sql-injection.html)
-- [Researchers Discover Critical GitHub CVE-2026-3854 RCE Flaw Exploitable via Single Git Push](https://thehackernews.com/2026/04/researchers-discover-critical-github.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Sandhills Medical Says Ransomware Breach Affects 170,000](https://www.securityweek.com/sandhills-medical-says-ransomware-breach-affects-170000/)
 - [Fresh LiteLLM Vulnerability Exploited Shortly After Disclosure](https://www.securityweek.com/fresh-litellm-vulnerability-exploited-shortly-after-disclosure/)
 - [Hundreds of Internet-Facing VNC Servers Expose ICS/OT](https://www.securityweek.com/hundreds-of-internet-facing-vnc-servers-expose-ics-ot/)
 - [Checkmarx Confirms Data Stolen in Supply Chain Attack](https://www.securityweek.com/checkmarx-confirms-data-stolen-in-supply-chain-attack/)
@@ -67,7 +68,6 @@
 - [38 Vulnerabilities Found in OpenEMR Medical Software](https://www.securityweek.com/38-vulnerabilities-found-in-openemr-medical-software/)
 - [Chrome 147, Firefox 150 Security Updates Rolling Out](https://www.securityweek.com/chrome-147-firefox-150-security-updates-rolling-out/)
 - [Critical GitHub Vulnerability Exposed Millions of Repositories](https://www.securityweek.com/critical-github-vulnerability-exposed-millions-of-repositories/)
-- [Cyber Insurance Data Gives CISOs New Ammo for Budget Talks](https://www.securityweek.com/cyber-insurance-data-gives-cisos-new-ammo-for-budget-talks/)
 
 ### Threatpost
 

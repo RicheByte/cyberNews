@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-04-30 06:24 UTC |
+| 🕐 Last Updated | 2026-04-30 10:01 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `arbitrary code execution` • `iran's intelligence agencies` • `disclose sensitive information` • `operational technology ot` • `operational technology cisa` • `game threat actors` • `supply chain attack` • `twitter whistleblower complaint` • `fake zoom calls`
+`high severity vulnerabilities` • `iran's intelligence agencies` • `remote code execution` • `operational technology ot` • `operational technology cisa` • `supply chain attack` • `arbitrary code execution` • `impact github com` • `twitter whistleblower complaint` • `fake zoom calls`
 
 ## 📄 Reports
 

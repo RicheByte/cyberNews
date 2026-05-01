@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 20:44 UTC  
+> **Last Updated:** 2026-05-01 22:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **blackcat ransomware attacks** • **ai model provenance** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **market strategy fails** • **actively exploited flaw** • **supply chain attacks** • **aggravated identity theft** • **1 5 million** • **data wiping attack** • **malicious ruby gems** • **wire fraud conspiracy** • **threatq automating analysis**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **blackcat ransomware attacks** • **1 800 hit** • **ai model provenance** • **bypass user authentication** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **market strategy fails** • **actively exploited flaw** • **supply chain attacks** • **aggravated identity theft** • **1 5 million** • **data wiping attack** • **malicious ruby gems** • **wire fraud conspiracy** • **threatq automating analysis**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
 - [If AI's So Smart, Why Does It Keep Deleting Production Databases?](https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases)
 - [Name That Toon: Mark of (Security) Progress](https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress)
 - [20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage](https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage)
@@ -56,7 +57,6 @@
 - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - [Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber](https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next)
 - [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
-- [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
 
 ### Security Week
 

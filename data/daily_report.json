@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 20:44",
+  "last_updated": "2026-05-01 22:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,8 +8,8 @@
     "service ddos attacks",
     "specially crafted message",
     "blackcat ransomware attacks",
-    "ai model provenance",
     "1 800 hit",
+    "ai model provenance",
     "bypass user authentication",
     "massive ddos attacks",
     "twitter whistleblower complaint",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 426
+      "mentions": 427
     },
     {
       "keyword": "2 6 3",
-      "mentions": 13
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 30
-    },
-    {
-      "keyword": "specially crafted message",
       "mentions": 14
     },
     {
-      "keyword": "blackcat ransomware attacks",
-      "mentions": 5
+      "keyword": "service ddos attacks",
+      "mentions": 31
     },
     {
-      "keyword": "ai model provenance",
+      "keyword": "specially crafted message",
+      "mentions": 15
+    },
+    {
+      "keyword": "blackcat ransomware attacks",
       "mentions": 6
     },
     {
       "keyword": "1 800 hit",
+      "mentions": 8
+    },
+    {
+      "keyword": "ai model provenance",
       "mentions": 7
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1510
+      "mentions": 1511
     }
   ],
   "articles": [
@@ -316,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
+      "summary": "North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
+      "published": "Fri, 01 May 2026 20:34:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
       "link": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
       "summary": "The issue isn't artificial intelligence, but rather an industry adding AI agent integrations into production environments before proper security testing.",
@@ -377,15 +386,6 @@
       "link": "https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security",
       "summary": "While drivers race to shave off seconds on the track, the team's IT and engineering staff are speeding up how they deliver security.",
       "published": "Thu, 30 Apr 2026 13:45:58 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Claude Mythos Fears Startle Japan's Financial Services Sector",
-      "link": "https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector",
-      "summary": "Global financial institutions are panicked over Anthropic's new superhacker AI model. Cyber experts aren't quite as worried.",
-      "published": "Thu, 30 Apr 2026 00:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

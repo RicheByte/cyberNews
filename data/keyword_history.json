@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1510,
+      "count": 1511,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6261,7 +6261,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7197,7 +7197,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -7894,7 +7894,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10742,7 +10742,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 426,
+      "count": 427,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13379,7 +13379,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13741,7 +13741,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13992,7 +13992,7 @@
       ]
     },
     "data wiping attack": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-04-22",
         "2026-04-23",
@@ -14757,7 +14757,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14771,7 +14771,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14803,7 +14803,7 @@
       ]
     },
     "2 6 3": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14844,7 +14844,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14857,7 +14857,7 @@
       ]
     },
     "1 800 hit": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-01"
       ]
@@ -14869,7 +14869,7 @@
       ]
     },
     "ai model provenance": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-01"
       ]
@@ -14881,19 +14881,19 @@
       ]
     },
     "blackcat ransomware attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-01"
       ]
     },
     "ryan goldberg 40": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-01"
       ]
     },
     "market strategy fails": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-01"
       ]
@@ -14905,36 +14905,25 @@
       ]
     },
     "1 5 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-01"
       ]
     },
     "malicious ruby gems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-01"
       ]
     },
     "threatq automating analysis": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-21 16:54",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "major orgs things",
-        "aggravated identity theft",
-        "user experience don't",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-21 19:05",
       "articles": 56,
@@ -16015,6 +16004,17 @@
     },
     {
       "timestamp": "2026-05-01 20:44",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "2 6 3",
+        "service ddos attacks",
+        "specially crafted message",
+        "blackcat ransomware attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-01 22:43",
       "articles": 56,
       "top_keywords": [
         "iran's intelligence agencies",

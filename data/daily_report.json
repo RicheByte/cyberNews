@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-05-01 14:50",
+  "last_updated": "2026-05-01 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "2 6 3",
     "iran's intelligence agencies",
+    "2 6 3",
     "service ddos attacks",
-    "ai model provenance",
     "specially crafted message",
+    "ai model provenance",
     "blackcat ransomware attacks",
     "cargo theft attacks",
     "1 800 hit",
@@ -26,44 +26,44 @@
   ],
   "trending": [
     {
-      "keyword": "2 6 3",
-      "mentions": 10
-    },
-    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 423
+      "mentions": 424
     },
     {
-      "keyword": "service ddos attacks",
-      "mentions": 27
-    },
-    {
-      "keyword": "ai model provenance",
-      "mentions": 3
-    },
-    {
-      "keyword": "specially crafted message",
+      "keyword": "2 6 3",
       "mentions": 11
     },
     {
-      "keyword": "blackcat ransomware attacks",
-      "mentions": 2
+      "keyword": "service ddos attacks",
+      "mentions": 28
     },
     {
-      "keyword": "cargo theft attacks",
-      "mentions": 10
+      "keyword": "specially crafted message",
+      "mentions": 12
     },
     {
-      "keyword": "1 800 hit",
+      "keyword": "ai model provenance",
       "mentions": 4
     },
     {
+      "keyword": "blackcat ransomware attacks",
+      "mentions": 3
+    },
+    {
+      "keyword": "cargo theft attacks",
+      "mentions": 11
+    },
+    {
+      "keyword": "1 800 hit",
+      "mentions": 5
+    },
+    {
       "keyword": "bypass user authentication",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 458
+      "mentions": 459
     }
   ],
   "articles": [
@@ -312,6 +312,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
+      "link": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
+      "summary": "The issue isn't artificial intelligence, but rather an industry adding AI agent integrations into production environments before proper security testing.",
+      "published": "Fri, 01 May 2026 14:39:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Name That Toon: Mark of (Security) Progress",
       "link": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
       "summary": "Feeling creative? Have something to say about the last 20 years of cybersecurity? Our editors will award the best cybersecurity-related caption with a $20 gift card.",
@@ -377,13 +386,16 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug",
-      "link": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
-      "summary": "Wiz used an AI reverse-engineering tool to pinpoint a vulnerability that previously would have been too costly and time-consuming to undertake.",
-      "published": "Wed, 29 Apr 2026 20:08:17 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
+      "link": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT. The post In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 15:01:27 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Breach/leak",
+        "CISA/KEV"
+      ]
     },
     {
       "source": "Security Week",
@@ -453,17 +465,6 @@
       "published": "Fri, 01 May 2026 07:33:40 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
-      "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
-      "summary": "With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace. The post Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 18:57:55 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

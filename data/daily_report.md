@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 14:50 UTC  
+> **Last Updated:** 2026-05-01 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 6 3** • **iran's intelligence agencies** • **service ddos attacks** • **ai model provenance** • **specially crafted message** • **blackcat ransomware attacks** • **cargo theft attacks** • **1 800 hit** • **bypass user authentication** • **malicious cyber actors** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **activists cybersecurity researchers** • **aggravated identity theft** • **products versions listed** • **abb products support**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **ai model provenance** • **blackcat ransomware attacks** • **cargo theft attacks** • **1 800 hit** • **bypass user authentication** • **malicious cyber actors** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **activists cybersecurity researchers** • **aggravated identity theft** • **products versions listed** • **abb products support**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [If AI's So Smart, Why Does It Keep Deleting Production Databases?](https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases)
 - [Name That Toon: Mark of (Security) Progress](https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress)
 - [20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage](https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage)
 - [TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack](https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud)
@@ -56,10 +57,10 @@
 - [Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber](https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next)
 - [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
-- [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
 
 ### Security Week
 
+- [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
 - [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
 - [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
 - [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
@@ -67,7 +68,6 @@
 - [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 - [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 - [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
-- [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
 
 ### Threatpost
 

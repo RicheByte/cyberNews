@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-01 06:33",
+  "last_updated": "2026-05-01 09:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "mini shai hulud",
+    "1 800 hit",
     "2 6 3",
     "service ddos attacks",
     "specially crafted message",
     "iran's intelligence agencies",
-    "codenamed copy fail",
+    "supply chain attacks",
     "cargo theft attacks",
     "operational technology ot",
-    "supply chain attacks",
+    "bypass user authentication",
     "rats cybersecurity researchers",
+    "credential stealing malware",
     "massive ddos attacks",
+    "supply chain attack",
     "twitter whistleblower complaint",
     "mms e g",
     "intercom client hit",
-    "four religious institutions",
     "defenders must match",
-    "130 companies tangled",
-    "bypass user authentication",
-    "supply chain attack",
     "operational technology cisa",
     "abb products support"
   ],
   "trending": [
     {
+      "keyword": "mini shai hulud",
+      "mentions": 1
+    },
+    {
+      "keyword": "1 800 hit",
+      "mentions": 1
+    },
+    {
       "keyword": "2 6 3",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 7
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 419
-    },
-    {
-      "keyword": "codenamed copy fail",
       "mentions": 8
     },
     {
-      "keyword": "cargo theft attacks",
-      "mentions": 6
-    },
-    {
-      "keyword": "operational technology ot",
-      "mentions": 14
+      "keyword": "iran's intelligence agencies",
+      "mentions": 420
     },
     {
       "keyword": "supply chain attacks",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "rats cybersecurity researchers",
-      "mentions": 9
-    },
-    {
-      "keyword": "massive ddos attacks",
+      "keyword": "cargo theft attacks",
       "mentions": 7
+    },
+    {
+      "keyword": "operational technology ot",
+      "mentions": 15
+    },
+    {
+      "keyword": "bypass user authentication",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -148,6 +148,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
+      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "published": "Fri, 01 May 2026 03:47:11 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
       "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
       "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
@@ -222,15 +233,6 @@
         "PoC available",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "summary": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
-      "published": "Thu, 30 Apr 2026 07:21:02 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +400,33 @@
     },
     {
       "source": "Security Week",
+      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
+      "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
+      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 08:41:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
+      "link": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
+      "summary": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale. The post FBI Warns of Surge in Hacker-Enabled Cargo Theft appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 08:11:20 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
+      "link": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
+      "summary": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million. The post 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 07:33:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
       "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
       "summary": "With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace. The post Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge appeared first on SecurityWeek .",
@@ -448,41 +477,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "EnOcean SmartServer Flaws Expose Buildings to Remote Hacking",
-      "link": "https://www.securityweek.com/enocean-smartserver-flaws-expose-buildings-to-remote-hacking/",
-      "summary": "Claroty researchers discovered two vulnerabilities that can be exploited for security bypass and remote code execution. The post EnOcean SmartServer Flaws Expose Buildings to Remote Hacking appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 11:57:31 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months",
-      "link": "https://www.securityweek.com/critical-cpanel-whm-vulnerability-exploited-as-zero-day-for-months/",
-      "summary": "The authentication bypass flaw allows attackers to gain administrative access to vulnerable servers. The post Critical cPanel & WHM Vulnerability Exploited as Zero-Day for Months appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 11:10:30 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Zero-day ×2",
-        "Auth bypass",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover",
-      "link": "https://www.securityweek.com/copy-fail-logic-flaw-in-linux-kernel-enables-system-takeover/",
-      "summary": "Affecting the kernel’s authencesn cryptographic template, the vulnerability was introduced in 2017 and impacts all distributions. The post ‘Copy Fail’ Logic Flaw in Linux Kernel Enables System Takeover appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 10:06:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

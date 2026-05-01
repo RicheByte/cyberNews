@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-01 06:33 UTC |
+| 🕐 Last Updated | 2026-05-01 09:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`2 6 3` • `service ddos attacks` • `specially crafted message` • `iran's intelligence agencies` • `codenamed copy fail` • `cargo theft attacks` • `operational technology ot` • `supply chain attacks` • `rats cybersecurity researchers` • `massive ddos attacks`
+`mini shai hulud` • `1 800 hit` • `2 6 3` • `service ddos attacks` • `specially crafted message` • `iran's intelligence agencies` • `supply chain attacks` • `cargo theft attacks` • `operational technology ot` • `bypass user authentication`
 
 ## 📄 Reports
 

@@ -275,7 +275,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1503,
+      "count": 1504,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6260,7 +6260,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7196,7 +7196,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -10740,7 +10740,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 419,
+      "count": 420,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -10931,7 +10931,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -14697,7 +14697,7 @@
       ]
     },
     "operational technology ot": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-29",
         "2026-04-30",
@@ -14705,7 +14705,7 @@
       ]
     },
     "operational technology cisa": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-04-29",
         "2026-04-30",
@@ -14726,7 +14726,7 @@
       ]
     },
     "rats cybersecurity researchers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14752,28 +14752,28 @@
       ]
     },
     "specially crafted message": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "mms e g": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "massive ddos attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "abb products support": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14798,14 +14798,14 @@
       ]
     },
     "2 6 3": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "cargo theft attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14818,7 +14818,7 @@
       ]
     },
     "intercom client hit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14832,32 +14832,39 @@
       ]
     },
     "defenders must match": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "bypass user authentication": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-30",
+        "2026-05-01"
+      ]
+    },
+    "mini shai hulud": {
+      "count": 1,
+      "dates": [
+        "2026-05-01"
+      ]
+    },
+    "1 800 hit": {
+      "count": 1,
+      "dates": [
+        "2026-05-01"
+      ]
+    },
+    "credential stealing malware": {
+      "count": 1,
+      "dates": [
         "2026-05-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-20 22:38",
-      "articles": 56,
-      "top_keywords": [
-        "seiko usa website",
-        "iran's intelligence agencies",
-        "hackers abuse qemu",
-        "intelligence claims grinex",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-21 02:06",
       "articles": 56,
@@ -15945,6 +15952,17 @@
         "specially crafted message",
         "iran's intelligence agencies",
         "codenamed copy fail"
+      ]
+    },
+    {
+      "timestamp": "2026-05-01 09:28",
+      "articles": 56,
+      "top_keywords": [
+        "mini shai hulud",
+        "1 800 hit",
+        "2 6 3",
+        "service ddos attacks",
+        "specially crafted message"
       ]
     }
   ]

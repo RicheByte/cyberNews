@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1508,
+      "count": 1509,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6261,7 +6261,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7197,7 +7197,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -10741,7 +10741,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 424,
+      "count": 425,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13739,7 +13739,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14754,28 +14754,28 @@
       ]
     },
     "specially crafted message": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "mms e g": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "massive ddos attacks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "abb products support": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14800,7 +14800,7 @@
       ]
     },
     "2 6 3": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14820,7 +14820,7 @@
       ]
     },
     "intercom client hit": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14841,7 +14841,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14854,7 +14854,7 @@
       ]
     },
     "1 800 hit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-01"
       ]
@@ -14866,54 +14866,49 @@
       ]
     },
     "ai model provenance": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-01"
       ]
     },
     "products versions listed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-01"
       ]
     },
     "blackcat ransomware attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-01"
       ]
     },
     "ryan goldberg 40": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-01"
       ]
     },
     "market strategy fails": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-01"
       ]
     },
     "activists cybersecurity researchers": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-05-01"
+      ]
+    },
+    "1 5 million": {
+      "count": 1,
       "dates": [
         "2026-05-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-21 13:14",
-      "articles": 56,
-      "top_keywords": [
-        "seiko usa website",
-        "iran's intelligence agencies",
-        "major orgs things",
-        "hackers abuse qemu",
-        "frequent attack vector"
-      ]
-    },
     {
       "timestamp": "2026-04-21 15:07",
       "articles": 56,
@@ -16001,6 +15996,17 @@
         "service ddos attacks",
         "specially crafted message",
         "ai model provenance"
+      ]
+    },
+    {
+      "timestamp": "2026-05-01 19:04",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "2 6 3",
+        "service ddos attacks",
+        "specially crafted message",
+        "blackcat ransomware attacks"
       ]
     }
   ]

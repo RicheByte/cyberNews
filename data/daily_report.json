@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 16:52",
+  "last_updated": "2026-05-01 19:04",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,12 +7,10 @@
     "2 6 3",
     "service ddos attacks",
     "specially crafted message",
-    "ai model provenance",
     "blackcat ransomware attacks",
-    "cargo theft attacks",
+    "ai model provenance",
     "1 800 hit",
     "bypass user authentication",
-    "malicious cyber actors",
     "massive ddos attacks",
     "twitter whistleblower complaint",
     "ryan goldberg 40",
@@ -20,50 +18,52 @@
     "market strategy fails",
     "intercom client hit",
     "activists cybersecurity researchers",
-    "aggravated identity theft",
+    "supply chain attacks",
     "products versions listed",
-    "abb products support"
+    "aggravated identity theft",
+    "abb products support",
+    "1 5 million"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 424
+      "mentions": 425
     },
     {
       "keyword": "2 6 3",
-      "mentions": 11
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 28
-    },
-    {
-      "keyword": "specially crafted message",
       "mentions": 12
     },
     {
-      "keyword": "ai model provenance",
-      "mentions": 4
+      "keyword": "service ddos attacks",
+      "mentions": 29
+    },
+    {
+      "keyword": "specially crafted message",
+      "mentions": 13
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "cargo theft attacks",
-      "mentions": 11
-    },
-    {
-      "keyword": "1 800 hit",
+      "keyword": "ai model provenance",
       "mentions": 5
     },
     {
-      "keyword": "bypass user authentication",
-      "mentions": 10
+      "keyword": "1 800 hit",
+      "mentions": 6
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 459
+      "keyword": "bypass user authentication",
+      "mentions": 11
+    },
+    {
+      "keyword": "massive ddos attacks",
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1509
     }
   ],
   "articles": [
@@ -147,6 +147,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "15-year-old detained over French govt agency data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+      "published": "Fri, 01 May 2026 13:52:06 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Story retracted",
+      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
+      "published": "Fri, 01 May 2026 12:26:28 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
       "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
       "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
@@ -206,24 +228,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Romanian leader of online swatting ring gets 4 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/",
-      "summary": "A Romanian national who led an online swatting ring that targeted more than 75 public officials, multiple journalists, and four religious institutions was sentenced to 4 years in federal prison. [...]",
-      "published": "Thu, 30 Apr 2026 13:45:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
-      "published": "Thu, 30 Apr 2026 12:32:18 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

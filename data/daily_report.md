@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 16:52 UTC  
+> **Last Updated:** 2026-05-01 19:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **ai model provenance** • **blackcat ransomware attacks** • **cargo theft attacks** • **1 800 hit** • **bypass user authentication** • **malicious cyber actors** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **activists cybersecurity researchers** • **aggravated identity theft** • **products versions listed** • **abb products support**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **blackcat ransomware attacks** • **ai model provenance** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **activists cybersecurity researchers** • **supply chain attacks** • **products versions listed** • **aggravated identity theft** • **abb products support** • **1 5 million**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
+- [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 - [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 - [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
 - [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 - [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 - [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
 - [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
-- [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
-- [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
 
 ### Krebs on Security
 

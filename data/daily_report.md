@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 11:03 UTC  
+> **Last Updated:** 2026-05-01 13:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mini shai hulud** • **1 800 hit** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **ai model provenance** • **supply chain attacks** • **operational technology ot** • **bypass user authentication** • **cargo theft attacks** • **massive ddos attacks** • **supply chain attack** • **twitter whistleblower complaint** • **mms e g** • **malicious cyber actors** • **intercom client hit** • **defenders must match** • **products versions listed** • **operational technology cisa**
+**2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **blackcat ransomware attacks** • **cargo theft attacks** • **ai model provenance** • **1 800 hit** • **bypass user authentication** • **malicious cyber actors** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **defenders must match** • **products versions listed** • **abb products support** • **supply chain attacks**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
+- [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 - [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 - [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 - [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 - [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 - [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
 - [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
-- [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
-- [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
 
 ### BleepingComputer
 
+- [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
+- [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 - [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 - [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
 - [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
 - [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
 - [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
 - [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
-- [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
-- [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Name That Toon: Mark of (Security) Progress](https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress)
+- [20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage](https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage)
 - [TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack](https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud)
 - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - [Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber](https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next)
 - [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 - [Claude Mythos Fears Startle Japan's Financial Services Sector](https://www.darkreading.com/cyber-risk/claude-mythos-startle-japans-financial-sector)
 - [Reverse Engineering With AI Unearths High-Severity GitHub Bug](https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug)
-- [AI Finds 38 Security Flaws in Electronic Health Record Platform](https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr)
-- [Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error](https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error)
 
 ### Security Week
 
+- [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
+- [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
 - [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 - [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 - [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 - [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
 - [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
 - [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
-- [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
-- [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
 
 ### Threatpost
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [Careful Adoption of Agentic AI Services](https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services)
 - [ABB AWIN Gateways](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05)
 - [ABB Ability OPTIMAX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04)
 - [ABB PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02)
@@ -89,7 +90,6 @@
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [ABB Ability Symphony Plus Engineering](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06)
 - [ABB System 800xA, Symphony Plus IEC 61850](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01)
-- [Adapting Zero Trust Principles to Operational Technology](https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology)
 
 ---
 

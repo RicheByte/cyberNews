@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-05-01 11:03",
+  "last_updated": "2026-05-01 13:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "mini shai hulud",
-    "1 800 hit",
     "2 6 3",
     "service ddos attacks",
     "specially crafted message",
     "iran's intelligence agencies",
-    "ai model provenance",
-    "supply chain attacks",
-    "operational technology ot",
-    "bypass user authentication",
+    "blackcat ransomware attacks",
     "cargo theft attacks",
-    "massive ddos attacks",
-    "supply chain attack",
-    "twitter whistleblower complaint",
-    "mms e g",
+    "ai model provenance",
+    "1 800 hit",
+    "bypass user authentication",
     "malicious cyber actors",
+    "massive ddos attacks",
+    "twitter whistleblower complaint",
+    "ryan goldberg 40",
+    "mms e g",
+    "market strategy fails",
     "intercom client hit",
     "defenders must match",
     "products versions listed",
-    "operational technology cisa"
+    "abb products support",
+    "supply chain attacks"
   ],
   "trending": [
     {
-      "keyword": "mini shai hulud",
+      "keyword": "2 6 3",
+      "mentions": 9
+    },
+    {
+      "keyword": "service ddos attacks",
+      "mentions": 26
+    },
+    {
+      "keyword": "specially crafted message",
+      "mentions": 10
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 422
+    },
+    {
+      "keyword": "blackcat ransomware attacks",
+      "mentions": 1
+    },
+    {
+      "keyword": "cargo theft attacks",
+      "mentions": 9
+    },
+    {
+      "keyword": "ai model provenance",
       "mentions": 2
     },
     {
       "keyword": "1 800 hit",
-      "mentions": 2
-    },
-    {
-      "keyword": "2 6 3",
-      "mentions": 8
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 25
-    },
-    {
-      "keyword": "specially crafted message",
-      "mentions": 9
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 421
-    },
-    {
-      "keyword": "ai model provenance",
-      "mentions": 1
-    },
-    {
-      "keyword": "supply chain attacks",
-      "mentions": 12
-    },
-    {
-      "keyword": "operational technology ot",
-      "mentions": 16
+      "mentions": 3
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 457
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
+      "link": "https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html",
+      "summary": "The managed security services market is projected to grow from $38.31 billion in 2025 to $69.16 billion by 2030[1], with cybersecurity being the fastest-growing sector[2]. Despite this opportunity, many MSPs leave revenue on the table because their go-to-market strategy fails to connect technical expertise with business needs. This execution gap is where most deals stall. MSPs often focus on",
+      "published": "Fri, 01 May 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the sentencing of two cybersecurity professionals to four years each in prison for their role in facilitating BlackCat ransomware attacks in 2023. Ryan Goldberg, 40, of Georgia, and Kevin Martin, 36, of Texas, were accused of deploying the ransomware against multiple victims located throughout the U.S. between April and December 2023.",
+      "published": "Fri, 01 May 2026 15:26:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
@@ -129,22 +149,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution",
-      "link": "https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html",
-      "summary": "Google has addressed a maximum severity security flaw in Gemini CLI -- the \"@google/gemini-cli\" npm package and the \"google-github-actions/run-gemini-cli\" GitHub Actions workflow -- that could have allowed attackers to execute arbitrary commands on host systems. \"The vulnerability allowed an unprivileged external attacker to force their own malicious content to load as Gemini configuration,\"",
-      "published": "Thu, 30 Apr 2026 12:37:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
+      "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
+      "published": "Fri, 01 May 2026 08:46:48 -0400",
+      "value_score": 18,
       "value_signals": [
-        "RCE"
+        "Patch/update"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about a new supply chain attack campaign targeting SAP-related npm Packages with credential-stealing malware. According to reports from Aikido Security, Onapsis, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz, the campaign – calling itself the Mini Shai-Hulud – has affected the following packages associated with",
-      "published": "Wed, 29 Apr 2026 21:56:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
+      "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
+      "published": "Fri, 01 May 2026 07:10:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -208,27 +228,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "What Happens in the First 24 Hours After a New Asset Goes Live",
-      "link": "https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/",
-      "summary": "When a new asset goes live, attackers start scanning within minutes. Sprocket Security shows how automated attacks move from discovery to compromise in under 24 hours. [...]",
-      "published": "Thu, 30 Apr 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Linux ‘Copy Fail’ flaw gives hackers root on major distros",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/",
-      "summary": "An exploit has been published for a local privilege escalation vulnerability dubbed \"Copy Fail\" that impacts Linux kernels released since 2017, allowing an unprivileged local attacker to gain root permissions. [...]",
-      "published": "Thu, 30 Apr 2026 09:54:47 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
       ]
     },
     {
@@ -318,6 +317,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Name That Toon: Mark of (Security) Progress",
+      "link": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
+      "summary": "Feeling creative? Have something to say about the last 20 years of cybersecurity? Our editors will award the best cybersecurity-related caption with a $20 gift card.",
+      "published": "Fri, 01 May 2026 12:00:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
+      "link": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
+      "summary": "On this day in 2006, Dark Reading went live. We have a celebration planned that spans our two decades of covering the industry, and you, dear readers, are invited.",
+      "published": "Fri, 01 May 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack",
       "link": "https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud",
       "summary": "Several npm packages for SAP's cloud application development ecosystem have been compromised as TeamPCP's supply chain attacks broaden.",
@@ -374,25 +391,25 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Finds 38 Security Flaws in Electronic Health Record Platform",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-finds-38-security-flaws-openemr",
-      "summary": "Flaws in OpenEMR's platform — used by more than 100,000 healthcare providers — enabled database compromise, remote code execution, and data theft.",
-      "published": "Wed, 29 Apr 2026 19:32:42 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vect 2.0 Ransomware Acts as Wiper, Thanks to Design Error",
-      "link": "https://www.darkreading.com/threat-intelligence/vect-ransomware-wiper-design-error",
-      "summary": "The emerging ransomware has been deployed against victims of the TeamPCP supply chain attacks, but organizations should think twice before paying for a decryptor.",
-      "published": "Wed, 29 Apr 2026 15:23:53 GMT",
+      "source": "Security Week",
+      "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
+      "link": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
+      "summary": "Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. The post Two US Security Experts Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 11:37:03 +0000",
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
+      "link": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
+      "summary": "The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage. The post Sophisticated Deep#Door Backdoor Enables Espionage, Disruption appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 11:08:50 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×3"
       ]
     },
     {
@@ -452,26 +469,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SonicWall Urges Immediate Patching of Firewall Vulnerabilities",
-      "link": "https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/",
-      "summary": "The bugs could be exploited to bypass security controls, access restricted services, and crash firewalls. The post SonicWall Urges Immediate Patching of Firewall Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 14:52:20 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP NPM Packages Targeted in Supply Chain Attack",
-      "link": "https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/",
-      "summary": "The Mini Shai-Hulud attack introduced a preinstall hook to fetch and execute a Bun binary and bypass security monitoring. The post SAP NPM Packages Targeted in Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 14:27:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -555,6 +552,18 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Careful Adoption of Agentic AI Services",
+      "link": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
+      "summary": "CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI) systems. This guide outlines key security challenges and risks associated with agentic AI, and provides actionable steps for designing, deploying, and operating these systems safely. It helps organizations align AI risk management with existing cybersecurity fr",
+      "published": "Fri, 01 May 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -642,18 +651,6 @@
       "value_score": 35,
       "value_signals": [
         "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Adapting Zero Trust Principles to Operational Technology",
-      "link": "https://www.cisa.gov/resources-tools/resources/adapting-zero-trust-principles-operational-technology",
-      "summary": "Adapting Zero Trust Principles to Operational Technology CISA, in coordination with the Department of War, Department of Energy, Federal Bureau of Investigation, and Department of State, released Adapting Zero Trust Principles to Operational Technology , joint guidance for organizations applying zero trust (ZT) principles to operational technology (OT). Zero trust is a modern, adaptive approach to cybersecurity that eliminates implicit trust and requires continuously validating access based on i",
-      "published": "Wed, 29 Apr 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV"
       ]
     }
   ],

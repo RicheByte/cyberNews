@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-01 11:03 UTC |
+| 🕐 Last Updated | 2026-05-01 13:09 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mini shai hulud` • `1 800 hit` • `2 6 3` • `service ddos attacks` • `specially crafted message` • `iran's intelligence agencies` • `ai model provenance` • `supply chain attacks` • `operational technology ot` • `bypass user authentication`
+`2 6 3` • `service ddos attacks` • `specially crafted message` • `iran's intelligence agencies` • `blackcat ransomware attacks` • `cargo theft attacks` • `ai model provenance` • `1 800 hit` • `bypass user authentication` • `malicious cyber actors`
 
 ## 📄 Reports
 

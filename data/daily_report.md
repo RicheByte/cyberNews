@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 09:28 UTC  
+> **Last Updated:** 2026-05-01 11:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mini shai hulud** • **1 800 hit** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **supply chain attacks** • **cargo theft attacks** • **operational technology ot** • **bypass user authentication** • **rats cybersecurity researchers** • **credential stealing malware** • **massive ddos attacks** • **supply chain attack** • **twitter whistleblower complaint** • **mms e g** • **intercom client hit** • **defenders must match** • **operational technology cisa** • **abb products support**
+**mini shai hulud** • **1 800 hit** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **ai model provenance** • **supply chain attacks** • **operational technology ot** • **bypass user authentication** • **cargo theft attacks** • **massive ddos attacks** • **supply chain attack** • **twitter whistleblower complaint** • **mms e g** • **malicious cyber actors** • **intercom client hit** • **defenders must match** • **products versions listed** • **operational technology cisa**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 - [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 - [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 - [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
@@ -23,10 +24,10 @@
 - [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 - [Google Fixes CVSS 10 Gemini CLI CI RCE and Cursor Flaws Enable Code Execution](https://thehackernews.com/2026/04/google-fixes-cvss-10-gemini-cli-ci-rce.html)
 - [SAP-Related npm Packages Compromised in Credential-Stealing Supply Chain Attack](https://thehackernews.com/2026/04/sap-npm-packages-compromised-by-mini.html)
-- [New Wave of DPRK Attacks Uses AI-Inserted npm Malware, Fake Firms, and RATs](https://thehackernews.com/2026/04/new-wave-of-dprk-attacks-uses-ai.html)
 
 ### BleepingComputer
 
+- [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
 - [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
 - [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
 - [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
@@ -34,7 +35,6 @@
 - [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
 - [What Happens in the First 24 Hours After a New Asset Goes Live](https://www.bleepingcomputer.com/news/security/what-happens-in-the-first-24-hours-after-a-new-asset-goes-live/)
 - [New Linux ‘Copy Fail’ flaw gives hackers root on major distros](https://www.bleepingcomputer.com/news/security/new-linux-copy-fail-flaw-gives-hackers-root-on-major-distros/)
-- [Critical cPanel and WHM bug exploited as a zero-day, PoC now available](https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 - [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 - [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 - [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
@@ -67,7 +68,6 @@
 - [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
 - [SonicWall Urges Immediate Patching of Firewall Vulnerabilities](https://www.securityweek.com/sonicwall-urges-immediate-patching-of-firewall-vulnerabilities/)
 - [SAP NPM Packages Targeted in Supply Chain Attack](https://www.securityweek.com/sap-npm-packages-targeted-in-supply-chain-attack/)
-- [Critical Gemini CLI Flaw Enabled Host Code Execution, Supply Chain Attacks](https://www.securityweek.com/critical-gemini-cli-flaw-enabled-host-code-execution-supply-chain-attacks/)
 
 ### Threatpost
 

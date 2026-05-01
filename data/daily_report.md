@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 19:04 UTC  
+> **Last Updated:** 2026-05-01 20:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **blackcat ransomware attacks** • **ai model provenance** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **activists cybersecurity researchers** • **supply chain attacks** • **products versions listed** • **aggravated identity theft** • **abb products support** • **1 5 million**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **blackcat ransomware attacks** • **ai model provenance** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **market strategy fails** • **actively exploited flaw** • **supply chain attacks** • **aggravated identity theft** • **1 5 million** • **data wiping attack** • **malicious ruby gems** • **wire fraud conspiracy** • **threatq automating analysis**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
 - [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 - [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
@@ -23,7 +24,6 @@
 - [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 - [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 - [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
-- [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
 
 ### BleepingComputer
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Careful Adoption of Agentic AI Services](https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services)
 - [ABB AWIN Gateways](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05)
 - [ABB Ability OPTIMAX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04)
@@ -89,7 +90,6 @@
 - [ABB Edgenius Management Portal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [ABB Ability Symphony Plus Engineering](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06)
-- [ABB System 800xA, Symphony Plus IEC 61850](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01)
 
 ---
 

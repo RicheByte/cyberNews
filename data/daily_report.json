@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 19:04",
+  "last_updated": "2026-05-01 20:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,59 +14,70 @@
     "massive ddos attacks",
     "twitter whistleblower complaint",
     "ryan goldberg 40",
-    "mms e g",
     "market strategy fails",
-    "intercom client hit",
-    "activists cybersecurity researchers",
+    "actively exploited flaw",
     "supply chain attacks",
-    "products versions listed",
     "aggravated identity theft",
-    "abb products support",
-    "1 5 million"
+    "1 5 million",
+    "data wiping attack",
+    "malicious ruby gems",
+    "wire fraud conspiracy",
+    "threatq automating analysis"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 425
+      "mentions": 426
     },
     {
       "keyword": "2 6 3",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 4
-    },
-    {
-      "keyword": "ai model provenance",
       "mentions": 5
     },
     {
-      "keyword": "1 800 hit",
+      "keyword": "ai model provenance",
       "mentions": 6
     },
     {
+      "keyword": "1 800 hit",
+      "mentions": 7
+    },
+    {
       "keyword": "bypass user authentication",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1509
+      "mentions": 1510
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
+      "published": "Fri, 01 May 2026 23:39:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
@@ -133,17 +144,6 @@
       "published": "Thu, 30 Apr 2026 19:25:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials",
-      "link": "https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html",
-      "summary": "Cybersecurity researchers have disclosed details of a stealthy Python-based backdoor framework called DEEP#DOOR that comes with capabilities to establish persistent access and harvest a wide range of sensitive information from compromised hosts. \"The intrusion chain begins with execution of a batch script ('install_obf.bat') that disables Windows security controls, dynamically extracts an",
-      "published": "Thu, 30 Apr 2026 18:06:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -555,6 +555,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a li",
+      "published": "Fri, 01 May 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Careful Adoption of Agentic AI Services",
       "link": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
       "summary": "CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI) systems. This guide outlines key security challenges and risks associated with agentic AI, and provides actionable steps for designing, deploying, and operating these systems safely. It helps organizations align AI risk management with existing cybersecurity fr",
@@ -640,17 +654,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB System 800xA, Symphony Plus IEC 61850",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-01",
-      "summary": "View CSAF Summary This vulnerability was privately reported relating to ABB’s implementation of the IEC 61850 communication stack for MMS client applications used in some Automation control system products. Note: IEC 61850 communication typically supports MMS and GOOSE protocols. Some ABB products support both, others only MMS (e.g. S+ Operations and PM 877). In any case, GOOSE communication is not impacted by this reported vulnerability. If an attacker gains access to a site’s IEC 61850 network",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     }
   ],

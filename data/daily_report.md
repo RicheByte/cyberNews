@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 13:09 UTC  
+> **Last Updated:** 2026-05-01 14:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 6 3** • **service ddos attacks** • **specially crafted message** • **iran's intelligence agencies** • **blackcat ransomware attacks** • **cargo theft attacks** • **ai model provenance** • **1 800 hit** • **bypass user authentication** • **malicious cyber actors** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **defenders must match** • **products versions listed** • **abb products support** • **supply chain attacks**
+**2 6 3** • **iran's intelligence agencies** • **service ddos attacks** • **ai model provenance** • **specially crafted message** • **blackcat ransomware attacks** • **cargo theft attacks** • **1 800 hit** • **bypass user authentication** • **malicious cyber actors** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **mms e g** • **market strategy fails** • **intercom client hit** • **activists cybersecurity researchers** • **aggravated identity theft** • **products versions listed** • **abb products support**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
+- [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 - [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 - [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 - [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 - [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 - [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 - [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html)
-- [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html)
-- [New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions](https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html)
 
 ### BleepingComputer
 
+- [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 - [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
 - [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 - [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
@@ -34,7 +35,6 @@
 - [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
 - [Romanian leader of online swatting ring gets 4 years in prison](https://www.bleepingcomputer.com/news/security/romanian-leader-of-online-swatting-ring-gets-4-years-in-prison/)
 - [FBI links cybercriminals to sharp surge in cargo theft attacks](https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/)
-- [April KB5083769 Windows 11 update causes backup software failures](https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
 - [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
 - [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
 - [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
@@ -67,7 +68,6 @@
 - [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 - [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
 - [Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge](https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/)
-- [AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours](https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/)
 
 ### Threatpost
 

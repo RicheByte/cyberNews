@@ -1,15 +1,15 @@
 {
-  "last_updated": "2026-05-01 13:09",
+  "last_updated": "2026-05-01 14:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "2 6 3",
-    "service ddos attacks",
-    "specially crafted message",
     "iran's intelligence agencies",
+    "service ddos attacks",
+    "ai model provenance",
+    "specially crafted message",
     "blackcat ransomware attacks",
     "cargo theft attacks",
-    "ai model provenance",
     "1 800 hit",
     "bypass user authentication",
     "malicious cyber actors",
@@ -19,54 +19,72 @@
     "mms e g",
     "market strategy fails",
     "intercom client hit",
-    "defenders must match",
+    "activists cybersecurity researchers",
+    "aggravated identity theft",
     "products versions listed",
-    "abb products support",
-    "supply chain attacks"
+    "abb products support"
   ],
   "trending": [
     {
       "keyword": "2 6 3",
-      "mentions": 9
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 26
-    },
-    {
-      "keyword": "specially crafted message",
       "mentions": 10
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 422
+      "mentions": 423
     },
     {
-      "keyword": "blackcat ransomware attacks",
-      "mentions": 1
-    },
-    {
-      "keyword": "cargo theft attacks",
-      "mentions": 9
+      "keyword": "service ddos attacks",
+      "mentions": 27
     },
     {
       "keyword": "ai model provenance",
-      "mentions": 2
-    },
-    {
-      "keyword": "1 800 hit",
       "mentions": 3
     },
     {
+      "keyword": "specially crafted message",
+      "mentions": 11
+    },
+    {
+      "keyword": "blackcat ransomware attacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "cargo theft attacks",
+      "mentions": 10
+    },
+    {
+      "keyword": "1 800 hit",
+      "mentions": 4
+    },
+    {
       "keyword": "bypass user authentication",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 457
+      "mentions": 458
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
+      "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
+      "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions. The clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
+      "published": "Fri, 01 May 2026 19:56:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists",
+      "link": "https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new China-aligned espionage campaign targeting government and defense sectors across South, East, and Southeast Asia, along with one European government belonging to NATO. Trend Micro has attributed the activity to a threat activity cluster it tracks under the temporary designation SHADOW-EARTH-053. The adversarial collective is assessed to",
+      "published": "Fri, 01 May 2026 19:32:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Top Five Sales Challenges Costing MSPs Cybersecurity Revenue",
@@ -128,25 +146,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
-      "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
-      "summary": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating Search Engine Order (SEO)",
-      "published": "Thu, 30 Apr 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
+      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
+      "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
+      "published": "Fri, 01 May 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Linux 'Copy Fail' Vulnerability Enables Root Access on Major Distributions",
-      "link": "https://thehackernews.com/2026/04/new-linux-copy-fail-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed details of a Linux local privilege escalation (LPE) flaw that could allow an unprivileged local user to obtain root. The high-severity vulnerability tracked as CVE-2026-31431 (CVSS score: 7.8) has been codenamed Copy Fail by Xint.io and Theori. \"An unprivileged local user can write four controlled bytes into the page cache of any readable file on a Linux",
-      "published": "Thu, 30 Apr 2026 14:54:00 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,17 +224,6 @@
       "published": "Thu, 30 Apr 2026 12:32:18 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "April KB5083769 Windows 11 update causes backup software failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/april-kb5083769-windows-11-update-causes-backup-software-failures/",
-      "summary": "The April 2026 KB5083769 security update breaks third-party backup applications from multiple vendors on systems running Windows 11 24H2 and 25H2. [...]",
-      "published": "Thu, 30 Apr 2026 11:23:03 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -392,6 +387,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge",
+      "link": "https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/",
+      "summary": "The maximum reward for a zero-click Pixel Titan M exploit with persistence has increased to $1.5 million. The post Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge appeared first on SecurityWeek .",
+      "published": "Fri, 01 May 2026 14:26:14 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Two US Security Experts Sentenced to Prison for Helping Ransomware Gang",
       "link": "https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/",
       "summary": "Ryan Goldberg of Georgia and Kevin Martin of Texas were each sentenced to four years in prison. The post Two US Security Experts Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek .",
@@ -454,17 +460,6 @@
       "link": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
       "summary": "With Mythos signaling a new era of near-instant exploitation, Anthropic positions Claude Security to help defenders keep pace. The post Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge appeared first on SecurityWeek .",
       "published": "Thu, 30 Apr 2026 18:57:55 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours",
-      "link": "https://www.securityweek.com/ai-fuels-industrial-cybercrime-as-time-to-exploit-shrinks-to-hours/",
-      "summary": "Industrialized cybercrime delivers attacks with greater scale, speed and success. Defenders must match this with use of AI and automation. The post AI Fuels ‘Industrial’ Cybercrime as Time-to-Exploit Shrinks to Hours appeared first on SecurityWeek .",
-      "published": "Thu, 30 Apr 2026 18:54:15 +0000",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"

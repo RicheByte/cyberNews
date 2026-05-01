@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 457,
+      "count": 458,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1506,
+      "count": 1507,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6261,7 +6261,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10741,7 +10741,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 422,
+      "count": 423,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13739,13 +13739,14 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-01"
       ]
     },
     "prompts land cleanly": {
@@ -14753,28 +14754,28 @@
       ]
     },
     "specially crafted message": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "mms e g": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "massive ddos attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "abb products support": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14799,14 +14800,14 @@
       ]
     },
     "2 6 3": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-30",
         "2026-05-01"
       ]
     },
     "cargo theft attacks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14819,7 +14820,7 @@
       ]
     },
     "intercom client hit": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14840,7 +14841,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-30",
         "2026-05-01"
@@ -14853,7 +14854,7 @@
       ]
     },
     "1 800 hit": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-01"
       ]
@@ -14865,30 +14866,36 @@
       ]
     },
     "ai model provenance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-01"
       ]
     },
     "products versions listed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-01"
       ]
     },
     "blackcat ransomware attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-01"
       ]
     },
     "ryan goldberg 40": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-01"
       ]
     },
     "market strategy fails": {
+      "count": 2,
+      "dates": [
+        "2026-05-01"
+      ]
+    },
+    "activists cybersecurity researchers": {
       "count": 1,
       "dates": [
         "2026-05-01"
@@ -14896,17 +14903,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-21 08:02",
-      "articles": 56,
-      "top_keywords": [
-        "seiko usa website",
-        "hackers abuse qemu",
-        "twitter whistleblower complaint",
-        "iran's intelligence agencies",
-        "iran war unleashing"
-      ]
-    },
     {
       "timestamp": "2026-04-21 11:01",
       "articles": 56,
@@ -15994,6 +15990,17 @@
         "specially crafted message",
         "iran's intelligence agencies",
         "blackcat ransomware attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-01 14:50",
+      "articles": 56,
+      "top_keywords": [
+        "2 6 3",
+        "iran's intelligence agencies",
+        "service ddos attacks",
+        "ai model provenance",
+        "specially crafted message"
       ]
     }
   ]

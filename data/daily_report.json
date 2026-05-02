@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 10:44",
+  "last_updated": "2026-05-02 12:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "2 6 3",
     "service ddos attacks",
     "specially crafted message",
-    "1 800 hit",
     "bypass user authentication",
     "massive ddos attacks",
     "blackcat ransomware attacks",
     "twitter whistleblower complaint",
+    "provides actionable steps",
     "market strategy fails",
     "illicit storefront run",
-    "ai model provenance",
     "actively exploited flaw",
     "130 companies tangled",
+    "ai model provenance",
     "aggravated identity theft",
-    "1 5 million",
     "supply chain attacks",
     "enabled unauthorized access",
-    "data wiping attack",
-    "malicious ruby gems"
+    "malicious ruby gems",
+    "wire fraud conspiracy",
+    "threatq automating analysis"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 431
+      "mentions": 432
     },
     {
       "keyword": "2 6 3",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 19
-    },
-    {
-      "keyword": "1 800 hit",
-      "mentions": 12
+      "mentions": 20
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1515
+      "mentions": 1516
+    },
+    {
+      "keyword": "provides actionable steps",
+      "mentions": 1
     },
     {
       "keyword": "market strategy fails",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -389,6 +389,17 @@
     },
     {
       "source": "Security Week",
+      "title": "New Bluekit Phishing Kit Features AI Assistant",
+      "link": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
+      "summary": "Still under development, Bluekit provides users with automated domain registration and an AI Assistant. The post New Bluekit Phishing Kit Features AI Assistant appeared first on SecurityWeek .",
+      "published": "Sat, 02 May 2026 10:50:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
       "link": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
       "summary": "Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT. The post In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability appeared first on SecurityWeek .",
@@ -456,15 +467,6 @@
       "link": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
       "summary": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale. The post FBI Warns of Surge in Hacker-Enabled Cargo Theft appeared first on SecurityWeek .",
       "published": "Fri, 01 May 2026 08:11:20 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom",
-      "link": "https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/",
-      "summary": "The compromised Lightning and Intercom packages have a combined monthly download count of nearly 10 million. The post 1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom appeared first on SecurityWeek .",
-      "published": "Fri, 01 May 2026 07:33:40 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-02 10:44 UTC  
+> **Last Updated:** 2026-05-02 12:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **market strategy fails** • **illicit storefront run** • **ai model provenance** • **actively exploited flaw** • **130 companies tangled** • **aggravated identity theft** • **1 5 million** • **supply chain attacks** • **enabled unauthorized access** • **data wiping attack** • **malicious ruby gems**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **illicit storefront run** • **actively exploited flaw** • **130 companies tangled** • **ai model provenance** • **aggravated identity theft** • **supply chain attacks** • **enabled unauthorized access** • **malicious ruby gems** • **wire fraud conspiracy** • **threatq automating analysis**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
 - [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
 - [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
 - [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
@@ -67,7 +68,6 @@
 - [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 - [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
 - [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
-- [1,800 Hit in Mini Shai-Hulud Attack on SAP, Lightning, Intercom](https://www.securityweek.com/1800-hit-in-mini-shai-hulud-attack-on-sap-lightning-intercom/)
 
 ### Threatpost
 

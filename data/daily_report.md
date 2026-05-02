@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-02 06:03 UTC  
+> **Last Updated:** 2026-05-02 09:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **market strategy fails** • **illicit storefront run** • **ai model provenance** • **actively exploited flaw** • **130 companies tangled** • **aggravated identity theft** • **1 5 million** • **supply chain attacks** • **data wiping attack** • **malicious ruby gems** • **wire fraud conspiracy**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **market strategy fails** • **illicit storefront run** • **ai model provenance** • **actively exploited flaw** • **130 companies tangled** • **aggravated identity theft** • **1 5 million** • **supply chain attacks** • **enabled unauthorized access** • **data wiping attack** • **malicious ruby gems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
 - [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
@@ -23,7 +24,6 @@
 - [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 - [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 - [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
-- [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html)
 
 ### BleepingComputer
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 06:03",
+  "last_updated": "2026-05-02 09:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -20,53 +20,64 @@
     "aggravated identity theft",
     "1 5 million",
     "supply chain attacks",
+    "enabled unauthorized access",
     "data wiping attack",
-    "malicious ruby gems",
-    "wire fraud conspiracy"
+    "malicious ruby gems"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 429
+      "mentions": 430
     },
     {
       "keyword": "2 6 3",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "1 800 hit",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1513
+      "mentions": 1514
     },
     {
       "keyword": "market strategy fails",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter. Trellix did not disclose the",
+      "published": "Sat, 02 May 2026 12:11:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
@@ -133,15 +144,6 @@
       "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
       "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
       "published": "Thu, 30 Apr 2026 22:01:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories",
-      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html",
-      "summary": "The internet is noisy this week. We are seeing some wild new tactics, like people using fake cell towers to send scam texts, while some developers are accidentally downloading tools that peek into their private files during a simple install. It is definitely a busy time to be online. Security is always a moving target. Millions of servers are currently sitting online without any passwords, and",
-      "published": "Thu, 30 Apr 2026 19:25:00 +0530",
       "value_score": 10,
       "value_signals": []
     },

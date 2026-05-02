@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-02 20:35",
+  "last_updated": "2026-05-02 22:34",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,57 +13,57 @@
     "twitter whistleblower complaint",
     "provides actionable steps",
     "market strategy fails",
+    "legacy dialog microsoft",
     "illicit storefront run",
-    "actively exploited flaw",
     "130 companies tangled",
     "ai model provenance",
     "aggravated identity theft",
     "supply chain attacks",
     "enabled unauthorized access",
     "malicious ruby gems",
-    "wire fraud conspiracy",
-    "threatq automating analysis"
+    "sorry ransomware attacks",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 436
+      "mentions": 437
     },
     {
       "keyword": "2 6 3",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1520
+      "mentions": 1521
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "market strategy fails",
-      "mentions": 15
+      "mentions": 16
     }
   ],
   "articles": [
@@ -149,6 +149,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
+      "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
+      "published": "Sat, 02 May 2026 17:54:00 -0400",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "Ransomware ×2",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ConsentFix v3 attacks target Azure with automated OAuth abuse",
       "link": "https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/",
       "summary": "A new attack type, dubbed ConsentFix v3, has been circulating on hacker forums, building on the previous technique by adding automation and scaling potential. [...]",
@@ -215,15 +229,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft now lets admins choose pre-installed Store apps to uninstall",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/",
-      "summary": "Microsoft has updated a Windows 11 in-box app removal policy introduced in October to include a dynamic list that lets IT admins choose which preinstalled Store apps to uninstall. [...]",
-      "published": "Fri, 01 May 2026 07:10:07 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

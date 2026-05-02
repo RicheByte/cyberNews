@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-02 20:35 UTC  
+> **Last Updated:** 2026-05-02 22:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **illicit storefront run** • **actively exploited flaw** • **130 companies tangled** • **ai model provenance** • **aggravated identity theft** • **supply chain attacks** • **enabled unauthorized access** • **malicious ruby gems** • **wire fraud conspiracy** • **threatq automating analysis**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **130 companies tangled** • **ai model provenance** • **aggravated identity theft** • **supply chain attacks** • **enabled unauthorized access** • **malicious ruby gems** • **sorry ransomware attacks** • **wire fraud conspiracy**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
 - [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
 - [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
 - [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
@@ -34,7 +35,6 @@
 - [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 - [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 - [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
-- [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 
 ### Krebs on Security
 

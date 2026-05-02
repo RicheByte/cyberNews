@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-01 22:43 UTC  
+> **Last Updated:** 2026-05-02 02:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **blackcat ransomware attacks** • **1 800 hit** • **ai model provenance** • **bypass user authentication** • **massive ddos attacks** • **twitter whistleblower complaint** • **ryan goldberg 40** • **market strategy fails** • **actively exploited flaw** • **supply chain attacks** • **aggravated identity theft** • **1 5 million** • **data wiping attack** • **malicious ruby gems** • **wire fraud conspiracy** • **threatq automating analysis**
+**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **1 800 hit** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **market strategy fails** • **illicit storefront run** • **ai model provenance** • **actively exploited flaw** • **130 companies tangled** • **aggravated identity theft** • **1 5 million** • **supply chain attacks** • **data wiping attack** • **malicious ruby gems** • **wire fraud conspiracy**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
+- [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
 - [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
 - [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
 - [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 - [Microsoft fixes Remote Desktop warnings displaying incorrectly](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/)
 - [Microsoft now lets admins choose pre-installed Store apps to uninstall](https://www.bleepingcomputer.com/news/microsoft/microsoft-now-lets-admins-choose-pre-installed-store-apps-to-uninstall/)
 - [Windows 11 KB5083631 update released with 34 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5083631-update-released-with-34-changes-and-fixes/)
-- [US ransomware negotiators get 4 years in prison over BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/)
-- [New Bluekit phishing service includes an AI assistant, 40 templates](https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/)
 
 ### Krebs on Security
 

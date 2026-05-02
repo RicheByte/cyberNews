@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-01 22:43",
+  "last_updated": "2026-05-02 02:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "2 6 3",
     "service ddos attacks",
     "specially crafted message",
-    "blackcat ransomware attacks",
     "1 800 hit",
-    "ai model provenance",
     "bypass user authentication",
     "massive ddos attacks",
+    "blackcat ransomware attacks",
     "twitter whistleblower complaint",
-    "ryan goldberg 40",
     "market strategy fails",
+    "illicit storefront run",
+    "ai model provenance",
     "actively exploited flaw",
-    "supply chain attacks",
+    "130 companies tangled",
     "aggravated identity theft",
     "1 5 million",
+    "supply chain attacks",
     "data wiping attack",
     "malicious ruby gems",
-    "wire fraud conspiracy",
-    "threatq automating analysis"
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 427
+      "mentions": 428
     },
     {
       "keyword": "2 6 3",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 15
-    },
-    {
-      "keyword": "blackcat ransomware attacks",
-      "mentions": 6
+      "mentions": 16
     },
     {
       "keyword": "1 800 hit",
-      "mentions": 8
-    },
-    {
-      "keyword": "ai model provenance",
-      "mentions": 7
+      "mentions": 9
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 15
+      "mentions": 16
+    },
+    {
+      "keyword": "blackcat ransomware attacks",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1511
+      "mentions": 1512
+    },
+    {
+      "keyword": "market strategy fails",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -147,6 +147,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+      "summary": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
+      "published": "Fri, 01 May 2026 20:18:05 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+      "summary": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
+      "published": "Fri, 01 May 2026 19:43:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "15-year-old detained over French govt agency data breach",
       "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
       "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
@@ -205,28 +223,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US ransomware negotiators get 4 years in prison over BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiators-get-4-years-in-prison-over-blackcat-attacks/",
-      "summary": "Two former employees of cybersecurity incident response companies Sygnia and DigitalMint were sentenced to four years in prison each for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "published": "Fri, 01 May 2026 03:47:11 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Bluekit phishing service includes an AI assistant, 40 templates",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bluekit-phishing-service-includes-an-ai-assistant-40-templates/",
-      "summary": "A new phishing kit named Bluekit offers more than 40 templates targeting popular services and includes basic AI features for generating campaign drafts. [...]",
-      "published": "Thu, 30 Apr 2026 14:58:50 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {

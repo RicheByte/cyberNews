@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 14:43",
+  "last_updated": "2026-05-03 16:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -16,54 +16,54 @@
     "market strategy fails",
     "legacy dialog microsoft",
     "illicit storefront run",
+    "editors will award",
+    "7 tech companies",
     "130 companies tangled",
     "aggravated identity theft",
-    "ai model provenance",
-    "enabled unauthorized access",
     "sorry ransomware attacks",
-    "threatq automating analysis",
-    "things iot devices"
+    "ai model provenance",
+    "threatq automating analysis"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 443
+      "mentions": 444
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "distribute android malware",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "wire fraud conspiracy",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1527
+      "mentions": 1528
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
@@ -397,6 +397,15 @@
     },
     {
       "source": "Security Week",
+      "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
+      "link": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
+      "summary": "Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said. The post US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems appeared first on SecurityWeek .",
+      "published": "Sun, 03 May 2026 16:21:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New Bluekit Phishing Kit Features AI Assistant",
       "link": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
       "summary": "Still under development, Bluekit provides users with automated domain registration and an AI Assistant. The post New Bluekit Phishing Kit Features AI Assistant appeared first on SecurityWeek .",
@@ -466,15 +475,6 @@
       "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
       "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek .",
       "published": "Fri, 01 May 2026 08:41:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Warns of Surge in Hacker-Enabled Cargo Theft",
-      "link": "https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/",
-      "summary": "A new alert from the FBI says criminal enterprises are hacking both brokers and carriers to steal cargo for resale. The post FBI Warns of Surge in Hacker-Enabled Cargo Theft appeared first on SecurityWeek .",
-      "published": "Fri, 01 May 2026 08:11:20 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-03 14:43 UTC  
+> **Last Updated:** 2026-05-03 16:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **distribute android malware** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **130 companies tangled** • **aggravated identity theft** • **ai model provenance** • **enabled unauthorized access** • **sorry ransomware attacks** • **threatq automating analysis** • **things iot devices**
+**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **distribute android malware** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **editors will award** • **7 tech companies** • **130 companies tangled** • **aggravated identity theft** • **sorry ransomware attacks** • **ai model provenance** • **threatq automating analysis**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
 - [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
 - [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
 - [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
@@ -67,7 +68,6 @@
 - [Sophisticated Deep#Door Backdoor Enables Espionage, Disruption](https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/)
 - [Cisco Releases Open Source Tool for AI Model Provenance](https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/)
 - [Hugging Face, ClawHub Abused for Malware Distribution](https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/)
-- [FBI Warns of Surge in Hacker-Enabled Cargo Theft](https://www.securityweek.com/fbi-warns-of-surge-in-hacker-enabled-cargo-theft/)
 
 ### Threatpost
 

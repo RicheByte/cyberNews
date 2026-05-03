@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1523,
+      "count": 1524,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1967,7 +1967,7 @@
       ]
     },
     "things iot devices": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -1998,7 +1998,8 @@
         "2026-04-21",
         "2026-04-22",
         "2026-04-28",
-        "2026-04-29"
+        "2026-04-29",
+        "2026-05-03"
       ]
     },
     "cvss scoring system": {
@@ -2279,7 +2280,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6265,7 +6266,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7902,7 +7903,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10752,7 +10753,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 439,
+      "count": 440,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13754,7 +13755,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14773,7 +14774,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14789,7 +14790,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14805,9 +14806,10 @@
       ]
     },
     "system node resulting": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-03"
       ]
     },
     "system node allowing": {
@@ -14866,7 +14868,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14894,7 +14896,7 @@
       ]
     },
     "ai model provenance": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -14908,7 +14910,7 @@
       ]
     },
     "blackcat ransomware attacks": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -14922,7 +14924,7 @@
       ]
     },
     "market strategy fails": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -14951,42 +14953,43 @@
       ]
     },
     "threatq automating analysis": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-01",
-        "2026-05-02"
+        "2026-05-02",
+        "2026-05-03"
       ]
     },
     "illicit storefront run": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "enabled unauthorized access": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "provides actionable steps": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "legacy dialog microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "sorry ransomware attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-02",
         "2026-05-03"
@@ -14994,17 +14997,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-22 20:49",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "malicious images pushed",
-        "arbitrary code execution",
-        "threat actor known",
-        "destructive campaign targeting"
-      ]
-    },
     {
       "timestamp": "2026-04-22 22:42",
       "articles": 56,
@@ -16092,6 +16084,17 @@
         "service ddos attacks",
         "specially crafted message",
         "bypass user authentication"
+      ]
+    },
+    {
+      "timestamp": "2026-05-03 09:18",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "service ddos attacks",
+        "specially crafted message",
+        "bypass user authentication",
+        "massive ddos attacks"
       ]
     }
   ]

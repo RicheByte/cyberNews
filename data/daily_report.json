@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-05-03 06:23",
+  "last_updated": "2026-05-03 09:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
-    "2 6 3",
     "service ddos attacks",
     "specially crafted message",
     "bypass user authentication",
@@ -16,57 +15,74 @@
     "legacy dialog microsoft",
     "illicit storefront run",
     "130 companies tangled",
-    "ai model provenance",
     "aggravated identity theft",
-    "supply chain attacks",
+    "ai model provenance",
     "enabled unauthorized access",
-    "malicious ruby gems",
     "sorry ransomware attacks",
-    "wire fraud conspiracy"
+    "wire fraud conspiracy",
+    "threatq automating analysis",
+    "things iot devices",
+    "system node resulting"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 439
-    },
-    {
-      "keyword": "2 6 3",
-      "mentions": 26
+      "mentions": 440
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1523
+      "mentions": 1524
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "market strategy fails",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "legacy dialog microsoft",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
+      "published": "Sun, 03 May 2026 11:56:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Privilege escalation",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
@@ -137,15 +153,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
-      "link": "https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html",
-      "summary": "In yet another software supply chain attack, threat actors have managed to compromise the popular Python package Lightning to push two malicious versions to conduct credential theft. According to Aikido Security, OX Security, Socket, and StepSecurity, the two malicious versions are versions 2.6.2 and 2.6.3, both of which were published on April 30, 2026. The campaign is assessed to be an",
-      "published": "Thu, 30 Apr 2026 22:01:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-03 06:23 UTC  
+> **Last Updated:** 2026-05-03 09:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **2 6 3** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **130 companies tangled** • **ai model provenance** • **aggravated identity theft** • **supply chain attacks** • **enabled unauthorized access** • **malicious ruby gems** • **sorry ransomware attacks** • **wire fraud conspiracy**
+**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **massive ddos attacks** • **blackcat ransomware attacks** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **130 companies tangled** • **aggravated identity theft** • **ai model provenance** • **enabled unauthorized access** • **sorry ransomware attacks** • **wire fraud conspiracy** • **threatq automating analysis** • **things iot devices** • **system node resulting**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
@@ -23,7 +24,6 @@
 - [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 - [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 - [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
-- [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html)
 
 ### BleepingComputer
 

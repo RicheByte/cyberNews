@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 16:42",
+  "last_updated": "2026-05-03 18:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -22,48 +22,48 @@
     "aggravated identity theft",
     "sorry ransomware attacks",
     "ai model provenance",
-    "threatq automating analysis"
+    "trojan win32 cerdigent"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 444
+      "mentions": 445
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "distribute android malware",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "wire fraud conspiracy",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1528
+      "mentions": 1529
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+      "published": "Sun, 03 May 2026 14:11:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
       "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
       "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
@@ -225,15 +234,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations",
-      "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/",
-      "summary": "Raw threat intel isn't enough without real-world context. Criminal IP has partnered with Securonix to integrate exposure-based intelligence into ThreatQ, automating analysis and speeding up investigations. [...]",
-      "published": "Fri, 01 May 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

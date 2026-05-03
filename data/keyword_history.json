@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1528,
+      "count": 1529,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2280,7 +2280,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6266,7 +6266,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7903,7 +7903,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10753,7 +10753,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 444,
+      "count": 445,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13755,7 +13755,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14774,7 +14774,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14790,7 +14790,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14868,7 +14868,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14896,7 +14896,7 @@
       ]
     },
     "ai model provenance": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -14910,7 +14910,7 @@
       ]
     },
     "blackcat ransomware attacks": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -14924,7 +14924,7 @@
       ]
     },
     "market strategy fails": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -14961,7 +14961,7 @@
       ]
     },
     "illicit storefront run": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-02",
         "2026-05-03"
@@ -14975,39 +14975,45 @@
       ]
     },
     "provides actionable steps": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "legacy dialog microsoft": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "sorry ransomware attacks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-02",
         "2026-05-03"
       ]
     },
     "distribute android malware": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-03"
       ]
     },
     "editors will award": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-03"
       ]
     },
     "7 tech companies": {
+      "count": 2,
+      "dates": [
+        "2026-05-03"
+      ]
+    },
+    "trojan win32 cerdigent": {
       "count": 1,
       "dates": [
         "2026-05-03"
@@ -15015,17 +15021,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-23 11:03",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "threat actor known",
-        "notification services flaw",
-        "destructive campaign targeting",
-        "altered without authentication"
-      ]
-    },
     {
       "timestamp": "2026-04-23 13:16",
       "articles": 56,
@@ -16106,6 +16101,17 @@
     },
     {
       "timestamp": "2026-05-03 16:42",
+      "articles": 56,
+      "top_keywords": [
+        "iran's intelligence agencies",
+        "service ddos attacks",
+        "specially crafted message",
+        "bypass user authentication",
+        "distribute android malware"
+      ]
+    },
+    {
+      "timestamp": "2026-05-03 18:52",
       "articles": 56,
       "top_keywords": [
         "iran's intelligence agencies",

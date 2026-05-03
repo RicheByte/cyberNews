@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-03 16:42 UTC  
+> **Last Updated:** 2026-05-03 18:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **distribute android malware** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **editors will award** • **7 tech companies** • **130 companies tangled** • **aggravated identity theft** • **sorry ransomware attacks** • **ai model provenance** • **threatq automating analysis**
+**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **distribute android malware** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **editors will award** • **7 tech companies** • **130 companies tangled** • **aggravated identity theft** • **sorry ransomware attacks** • **ai model provenance** • **trojan win32 cerdigent**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha](https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/)
 - [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
 - [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
 - [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
@@ -34,7 +35,6 @@
 - [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
 - [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
 - [Story retracted](https://www.bleepingcomputer.com/news/security/story-retracted/)
-- [Criminal IP and Securonix ThreatQ Collaborate to Enhance Threat Intelligence Operations](https://www.bleepingcomputer.com/news/security/criminal-ip-and-securonix-threatq-collaborate-to-enhance-threat-intelligence-operations/)
 
 ### Krebs on Security
 

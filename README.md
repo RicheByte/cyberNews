@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-03 12:58 UTC |
+| 🕐 Last Updated | 2026-05-03 14:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `service ddos attacks` • `specially crafted message` • `bypass user authentication` • `massive ddos attacks` • `blackcat ransomware attacks` • `twitter whistleblower complaint` • `provides actionable steps` • `market strategy fails` • `legacy dialog microsoft`
+`iran's intelligence agencies` • `service ddos attacks` • `specially crafted message` • `bypass user authentication` • `distribute android malware` • `massive ddos attacks` • `blackcat ransomware attacks` • `wire fraud conspiracy` • `twitter whistleblower complaint` • `provides actionable steps`
 
 ## 📄 Reports
 

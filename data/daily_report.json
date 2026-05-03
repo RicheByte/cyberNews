@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 12:58",
+  "last_updated": "2026-05-03 14:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,8 +7,10 @@
     "service ddos attacks",
     "specially crafted message",
     "bypass user authentication",
+    "distribute android malware",
     "massive ddos attacks",
     "blackcat ransomware attacks",
+    "wire fraud conspiracy",
     "twitter whistleblower complaint",
     "provides actionable steps",
     "market strategy fails",
@@ -19,51 +21,49 @@
     "ai model provenance",
     "enabled unauthorized access",
     "sorry ransomware attacks",
-    "wire fraud conspiracy",
     "threatq automating analysis",
-    "things iot devices",
-    "system node resulting"
+    "things iot devices"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 442
+      "mentions": 443
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 28
+      "mentions": 29
+    },
+    {
+      "keyword": "distribute android malware",
+      "mentions": 1
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "wire fraud conspiracy",
+      "mentions": 45
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1526
+      "mentions": 1527
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 11
-    },
-    {
-      "keyword": "market strategy fails",
-      "mentions": 21
-    },
-    {
-      "keyword": "legacy dialog microsoft",
-      "mentions": 6
+      "mentions": 12
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
+      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
+      "published": "Sun, 03 May 2026 10:11:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
       "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
@@ -225,17 +234,6 @@
       "published": "Fri, 01 May 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Remote Desktop warnings displaying incorrectly",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-warnings-displaying-incorrectly/",
-      "summary": "Microsoft has fixed a known issue causing newly introduced Windows security warnings to display incorrectly when opening Remote Desktop (.rdp) files. [...]",
-      "published": "Fri, 01 May 2026 08:46:48 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",

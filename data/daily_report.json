@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-03 20:37",
+  "last_updated": "2026-05-03 22:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 446
+      "mentions": 447
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "distribute android malware",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "wire fraud conspiracy",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1530
+      "mentions": 1531
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 15
+      "mentions": 16
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Instructure confirms data breach, ShinyHunters claims attack",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
+      "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
+      "published": "Sun, 03 May 2026 18:16:27 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
       "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
@@ -219,17 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
       "summary": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
       "published": "Fri, 01 May 2026 13:52:06 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Story retracted",
-      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
-      "summary": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
-      "published": "Fri, 01 May 2026 12:26:28 -0400",
       "value_score": 22,
       "value_signals": [
         "Breach/leak"

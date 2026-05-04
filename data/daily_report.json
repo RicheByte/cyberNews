@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-04 06:35",
+  "last_updated": "2026-05-04 10:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "iran's intelligence agencies",
     "service ddos attacks",
     "specially crafted message",
-    "bypass user authentication",
-    "distribute android malware",
     "aggravated identity theft",
     "massive ddos attacks",
     "blackcat ransomware attacks",
     "wire fraud conspiracy",
     "twitter whistleblower complaint",
+    "ryan goldberg 40",
     "provides actionable steps",
     "market strategy fails",
     "legacy dialog microsoft",
     "illicit storefront run",
     "editors will award",
+    "5 000 workers",
     "7 tech companies",
     "130 companies tangled",
+    "bypass user authentication",
     "sorry ransomware attacks",
-    "ai model provenance",
     "trojan win32 cerdigent"
   ],
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 449
+      "mentions": 450
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 37
-    },
-    {
-      "keyword": "bypass user authentication",
-      "mentions": 35
-    },
-    {
-      "keyword": "distribute android malware",
-      "mentions": 7
+      "mentions": 38
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "wire fraud conspiracy",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1533
+      "mentions": 1534
+    },
+    {
+      "keyword": "ryan goldberg 40",
+      "mentions": 7
+    },
+    {
+      "keyword": "provides actionable steps",
+      "mentions": 19
     }
   ],
   "articles": [
@@ -395,6 +395,39 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
+      "link": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
+      "summary": "Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion. The post OpenAI Rolls Out Advanced Security for ChatGPT Accounts appeared first on SecurityWeek .",
+      "published": "Mon, 04 May 2026 09:29:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
+      "link": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
+      "summary": "The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access. The post Over 40,000 Servers Compromised in Ongoing cPanel Exploitation appeared first on SecurityWeek .",
+      "published": "Mon, 04 May 2026 08:25:04 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats",
+      "link": "https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/",
+      "summary": "Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages. The post Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats appeared first on SecurityWeek .",
+      "published": "Mon, 04 May 2026 07:02:51 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×4"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
       "link": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
       "summary": "Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said. The post US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems appeared first on SecurityWeek .",
@@ -446,35 +479,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Sophisticated Deep#Door Backdoor Enables Espionage, Disruption",
-      "link": "https://www.securityweek.com/sophisticated-deepdoor-backdoor-enables-espionage-disruption/",
-      "summary": "The stealthy Python-based backdoor framework deploys a persistent Windows implant likely designed for espionage. The post Sophisticated Deep#Door Backdoor Enables Espionage, Disruption appeared first on SecurityWeek .",
-      "published": "Fri, 01 May 2026 11:08:50 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Releases Open Source Tool for AI Model Provenance",
-      "link": "https://www.securityweek.com/cisco-releases-open-source-tool-for-ai-model-provenance/",
-      "summary": "The new kit aims to address risks related to poisoned models, regulatory issues, supply chain integrity, and incident response. The post Cisco Releases Open Source Tool for AI Model Provenance appeared first on SecurityWeek .",
-      "published": "Fri, 01 May 2026 10:18:39 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hugging Face, ClawHub Abused for Malware Distribution",
-      "link": "https://www.securityweek.com/hugging-face-clawhub-abused-for-malware-distribution/",
-      "summary": "Threat actors are relying on social engineering to lure users into downloading files containing malicious instructions. The post Hugging Face, ClawHub Abused for Malware Distribution appeared first on SecurityWeek .",
-      "published": "Fri, 01 May 2026 08:41:57 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

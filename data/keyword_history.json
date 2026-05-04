@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1535,
+      "count": 1536,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2281,7 +2281,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6268,7 +6268,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6308,7 +6308,7 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -7907,7 +7907,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10758,7 +10758,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 451,
+      "count": 452,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13761,7 +13761,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13833,7 +13833,7 @@
       ]
     },
     "5 000 workers": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14782,7 +14782,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14799,7 +14799,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14878,7 +14878,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14991,7 +14991,7 @@
       ]
     },
     "provides actionable steps": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-02",
         "2026-05-03",
@@ -15022,14 +15022,14 @@
       ]
     },
     "editors will award": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-03",
         "2026-05-04"
       ]
     },
     "7 tech companies": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-03",
         "2026-05-04"
@@ -15043,30 +15043,36 @@
       ]
     },
     "digicert revokes certificates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-04"
       ]
     },
     "msps strengthen resilience": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-04"
       ]
     },
     "internal support portal": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-04"
       ]
     },
     "income tax department": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-04"
       ]
     },
     "cases removing certificates": {
+      "count": 2,
+      "dates": [
+        "2026-05-04"
+      ]
+    },
+    "7 million users": {
       "count": 1,
       "dates": [
         "2026-05-04"
@@ -15074,17 +15080,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-24 02:08",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "server without authentication",
-        "china nexus hackers",
-        "helpdesk employees convincing",
-        "gain system privileges"
-      ]
-    },
     {
       "timestamp": "2026-04-24 06:04",
       "articles": 56,
@@ -16165,6 +16160,17 @@
     },
     {
       "timestamp": "2026-05-04 13:47",
+      "articles": 56,
+      "top_keywords": [
+        "digicert revokes certificates",
+        "iran's intelligence agencies",
+        "specially crafted message",
+        "service ddos attacks",
+        "bypass user authentication"
+      ]
+    },
+    {
+      "timestamp": "2026-05-04 15:57",
       "articles": 56,
       "top_keywords": [
         "digicert revokes certificates",

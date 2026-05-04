@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 13:47",
+  "last_updated": "2026-05-04 15:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,78 @@
     "service ddos attacks",
     "bypass user authentication",
     "msps strengthen resilience",
-    "aggravated identity theft",
     "wire fraud conspiracy",
     "twitter whistleblower complaint",
     "provides actionable steps",
     "internal support portal",
     "editors will award",
-    "distribute android malware",
+    "aggravated identity theft",
     "5 000 workers",
     "income tax department",
     "cases removing certificates",
     "7 tech companies",
     "130 companies tangled",
     "critical function vulnerability",
-    "massive ddos attacks"
+    "massive ddos attacks",
+    "7 million users"
   ],
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 451
+      "mentions": 452
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "msps strengthen resilience",
-      "mentions": 1
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 54
+      "mentions": 2
     },
     {
       "keyword": "wire fraud conspiracy",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1535
+      "mentions": 1536
     },
     {
       "keyword": "provides actionable steps",
-      "mentions": 20
+      "mentions": 21
+    },
+    {
+      "keyword": "internal support portal",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
+      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupation. They’re living inside SaaS sessions, pushing code with trusted commits, and scaling",
+      "published": "Mon, 04 May 2026 19:53:00 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "RCE",
+        "Breach/leak",
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "2026: The Year of AI-Assisted Attacks",
@@ -147,13 +161,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks",
-      "link": "https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html",
-      "summary": "Cybersecurity researchers are warning of two cybercrime groups that are carrying out \"rapid, high-impact attacks\" operating almost within the confines of SaaS environments, while leaving minimal traces of their actions. The clusters, Cordial Spider (aka BlackFile, CL-CRI-1116, O-UNC-045, and UNC6671) and Snarky Spider (aka O-UNC-025 and UNC6661), have been attributed to high-speed data theft and",
-      "published": "Fri, 01 May 2026 19:56:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
+      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
+      "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
+      "published": "Mon, 04 May 2026 09:42:51 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -228,20 +244,6 @@
       "published": "Sun, 03 May 2026 10:11:21 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critrical cPanel flaw mass-exploited in \"Sorry\" ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/",
-      "summary": "A new disclosed cPanel flaw tracked as CVE-2026-41940 is being mass-exploited to breach websites and encrypt data in \"Sorry\" ransomware attacks. [...]",
-      "published": "Sat, 02 May 2026 17:54:00 -0400",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware ×2",
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +332,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
+      "link": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
+      "summary": "More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
+      "published": "Mon, 04 May 2026 14:39:26 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "How Dark Reading Lifted Off the Launchpad in 2006",
       "link": "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006",
       "summary": "Twenty years ago, this media brand didn't have a print edition to attract eyeballs and sponsors. Top-notch content and editorial talent did the heavy lifting.",
@@ -393,15 +406,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber",
-      "link": "https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next",
-      "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how the new AI model threatens to completely upend cybersecurity, and what industry leaders are telling the press.",
-      "published": "Thu, 30 Apr 2026 19:09:21 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-04 19:21 UTC |
+| 🕐 Last Updated | 2026-05-04 21:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`digicert revokes certificates` • `iran's intelligence agencies` • `specially crafted message` • `moveit automation including` • `service ddos attacks` • `msps strengthen resilience` • `twitter whistleblower complaint` • `internal support portal` • `income tax department` • `aggravated identity theft`
+`digicert revokes certificates` • `iran's intelligence agencies` • `specially crafted message` • `moveit automation including` • `service ddos attacks` • `msps strengthen resilience` • `concept exploits appeared` • `authentication bypass flaw` • `twitter whistleblower complaint` • `internal support portal`
 
 ## 📄 Reports
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 19:21",
+  "last_updated": "2026-05-04 21:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,61 +9,61 @@
     "moveit automation including",
     "service ddos attacks",
     "msps strengthen resilience",
+    "concept exploits appeared",
+    "authentication bypass flaw",
     "twitter whistleblower complaint",
     "internal support portal",
     "income tax department",
     "aggravated identity theft",
     "5 000 workers",
     "130 companies tangled",
-    "sprawling phishing campaign",
     "legitimate remote monitoring",
+    "identity centric security",
+    "acquire astrix security",
     "massive ddos attacks",
     "related software including",
-    "management rmm software",
-    "least april 2025",
-    "acquire astrix security",
-    "analyst s system"
+    "management rmm software"
   ],
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 454
+      "mentions": 455
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "moveit automation including",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "msps strengthen resilience",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "concept exploits appeared",
+      "mentions": 1
+    },
+    {
+      "keyword": "authentication bypass flaw",
+      "mentions": 24
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1538
+      "mentions": 1539
     },
     {
       "keyword": "internal support portal",
-      "mentions": 4
-    },
-    {
-      "keyword": "income tax department",
-      "mentions": 4
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 57
+      "mentions": 5
     }
   ],
   "articles": [
@@ -163,6 +163,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Amazon SES increasingly abused in phishing to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
+      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
+      "published": "Mon, 04 May 2026 16:03:28 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Backdoored PyTorch Lightning package drops credential stealer",
       "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
       "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
@@ -236,17 +247,6 @@
       "published": "Mon, 04 May 2026 06:40:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Instructure confirms data breach, ShinyHunters claims attack",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/",
-      "summary": "Educational tech giant Instructure has confirmed that data was stolen in a cyberattack, with the ShinyHunters extortion gang claiming responsibility. [...]",
-      "published": "Sun, 03 May 2026 18:16:27 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -335,6 +335,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
+      "link": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
+      "summary": "Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.",
+      "published": "Mon, 04 May 2026 19:14:14 GMT",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
       "link": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
       "summary": "More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
@@ -399,22 +412,10 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
-      "summary": "The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
-      "published": "Thu, 30 Apr 2026 20:41:18 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "Security Week",
       "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
       "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
-      "summary": "Cisco on Monday announced its intent to acquire Astrix Security, a startup focused on securing non-human identities (NHIs) such as API keys, service accounts, and OAuth tokens increasingly used by applications and AI agents. In a blog post, Cisco said the acquisition is aimed at extending zero trust principles to the emerging “agentic workforce,” where AI agents […] The post Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks appeared first on SecurityWeek .",
+      "summary": "The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access. The post Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks appeared first on SecurityWeek .",
       "published": "Mon, 04 May 2026 19:00:26 +0000",
       "value_score": 10,
       "value_signals": []

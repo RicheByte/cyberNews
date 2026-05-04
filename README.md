@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-04 10:09 UTC |
+| 🕐 Last Updated | 2026-05-04 13:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `service ddos attacks` • `specially crafted message` • `aggravated identity theft` • `massive ddos attacks` • `blackcat ransomware attacks` • `wire fraud conspiracy` • `twitter whistleblower complaint` • `ryan goldberg 40` • `provides actionable steps`
+`digicert revokes certificates` • `iran's intelligence agencies` • `specially crafted message` • `service ddos attacks` • `bypass user authentication` • `msps strengthen resilience` • `aggravated identity theft` • `wire fraud conspiracy` • `twitter whistleblower complaint` • `provides actionable steps`
 
 ## 📄 Reports
 

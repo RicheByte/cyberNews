@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-04 10:09 UTC  
+> **Last Updated:** 2026-05-04 13:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **aggravated identity theft** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **ryan goldberg 40** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **editors will award** • **5 000 workers** • **7 tech companies** • **130 companies tangled** • **bypass user authentication** • **sorry ransomware attacks** • **trojan win32 cerdigent**
+**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **service ddos attacks** • **bypass user authentication** • **msps strengthen resilience** • **aggravated identity theft** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **internal support portal** • **editors will award** • **distribute android malware** • **5 000 workers** • **income tax department** • **cases removing certificates** • **7 tech companies** • **130 companies tangled** • **critical function vulnerability** • **massive ddos attacks**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
+- [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
+- [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
 - [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
 - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html)
-- [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
-- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
-- [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
 
 ### BleepingComputer
 
+- [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
+- [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
+- [CISA says ‘Copy Fail’ flaw now exploited to root Linux systems](https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/)
+- [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
 - [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
 - [Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha](https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/)
 - [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
 - [Critrical cPanel flaw mass-exploited in "Sorry" ransomware attacks](https://www.bleepingcomputer.com/news/security/critrical-cpanel-flaw-mass-exploited-in-sorry-ransomware-attacks/)
-- [ConsentFix v3 attacks target Azure with automated OAuth abuse](https://www.bleepingcomputer.com/news/security/consentfix-v3-attacks-target-azure-with-automated-oauth-abuse/)
-- [Microsoft tests modern Windows Run, says it's faster than legacy dialog](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/)
-- [Edu tech firm Instructure discloses cyber incident, probes impact](https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/)
-- [15-year-old detained over French govt agency data breach](https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [How Dark Reading Lifted Off the Launchpad in 2006](https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006)
 - [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
 - [If AI's So Smart, Why Does It Keep Deleting Production Databases?](https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases)
 - [Name That Toon: Mark of (Security) Progress](https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress)
@@ -56,18 +57,17 @@
 - [TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack](https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud)
 - [Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug](https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug)
 - [Anthropic's Mythos Has Landed: Here's What Comes Next for Cyber](https://www.darkreading.com/cybersecurity-operations/anthropic-mythos-cyber-what-comes-next)
-- [Oracle Red Bull Racing Team Revs Up Automation to Boost Security](https://www.darkreading.com/identity-access-management-security/oracle-red-bull-racing-team-revs-up-automation-to-boost-security)
 
 ### Security Week
 
+- [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
+- [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
+- [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
 - [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
 - [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
 - [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
 - [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
 - [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
-- [In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability](https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/)
-- [Google Adjusts Bug Bounties: Chrome Payouts Drop as Android Rewards Rise Amid AI Surge](https://www.securityweek.com/google-adjusts-bug-bounties-chrome-payouts-drop-as-android-rewards-rise-amid-ai-surge/)
-- [Two US Security Experts Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/two-us-security-experts-sentenced-to-prison-for-helping-ransomware-gang/)
 
 ### Threatpost
 

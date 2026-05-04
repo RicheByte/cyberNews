@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-04 21:03 UTC  
+> **Last Updated:** 2026-05-04 22:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **moveit automation including** • **service ddos attacks** • **msps strengthen resilience** • **concept exploits appeared** • **authentication bypass flaw** • **twitter whistleblower complaint** • **internal support portal** • **income tax department** • **aggravated identity theft** • **5 000 workers** • **130 companies tangled** • **legitimate remote monitoring** • **identity centric security** • **acquire astrix security** • **massive ddos attacks** • **related software including** • **management rmm software**
+**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **service ddos attacks** • **moveit automation including** • **legitimate remote monitoring** • **msps strengthen resilience** • **concept exploits appeared** • **authentication bypass flaw** • **twitter whistleblower complaint** • **internal support portal** • **income tax department** • **aggravated identity theft** • **5 000 workers** • **130 companies tangled** • **massive ddos attacks** • **management rmm tools** • **related software including** • **identity centric security** • **acquire astrix security**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
 - [Amazon SES increasingly abused in phishing to evade detection](https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/)
 - [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
 - [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
@@ -34,7 +35,6 @@
 - [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
 - [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
 - [CISA says ‘Copy Fail’ flaw now exploited to root Linux systems](https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/)
-- [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [RMM Tools Fuel Stealthy Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign)
 - [Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability](https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability)
 - [Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia](https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia)
 - [How Dark Reading Lifted Off the Launchpad in 2006](https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006)
@@ -56,7 +57,6 @@
 - [If AI's So Smart, Why Does It Keep Deleting Production Databases?](https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases)
 - [Name That Toon: Mark of (Security) Progress](https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress)
 - [20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage](https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage)
-- [TeamPCP Hits SAP Packages With 'Mini Shai-Hulud' Attack](https://www.darkreading.com/cloud-security/teampcp-sap-packages-mini-shai-hulud)
 
 ### Security Week
 

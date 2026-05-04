@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1539,
+      "count": 1540,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1904,7 +1904,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2284,7 +2284,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 233,
+      "count": 234,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6271,7 +6271,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10761,7 +10761,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 455,
+      "count": 456,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13708,7 +13708,7 @@
       ]
     },
     "related software including": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13765,7 +13765,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13837,7 +13837,7 @@
       ]
     },
     "5 000 workers": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14786,7 +14786,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14803,7 +14803,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15047,25 +15047,25 @@
       ]
     },
     "digicert revokes certificates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-04"
       ]
     },
     "msps strengthen resilience": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-04"
       ]
     },
     "internal support portal": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-04"
       ]
     },
     "income tax department": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-04"
       ]
@@ -15083,7 +15083,7 @@
       ]
     },
     "moveit automation including": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-04"
       ]
@@ -15101,7 +15101,7 @@
       ]
     },
     "legitimate remote monitoring": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-04"
       ]
@@ -15119,18 +15119,24 @@
       ]
     },
     "acquire astrix security": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-04"
       ]
     },
     "concept exploits appeared": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-04"
       ]
     },
     "identity centric security": {
+      "count": 2,
+      "dates": [
+        "2026-05-04"
+      ]
+    },
+    "management rmm tools": {
       "count": 1,
       "dates": [
         "2026-05-04"
@@ -15138,17 +15144,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-24 13:12",
-      "articles": 56,
-      "top_keywords": [
-        "server without authentication",
-        "iran's intelligence agencies",
-        "custom malware suite",
-        "130 companies tangled",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-24 15:04",
       "articles": 56,
@@ -16236,6 +16231,17 @@
         "specially crafted message",
         "moveit automation including",
         "service ddos attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-04 22:52",
+      "articles": 56,
+      "top_keywords": [
+        "digicert revokes certificates",
+        "iran's intelligence agencies",
+        "specially crafted message",
+        "service ddos attacks",
+        "moveit automation including"
       ]
     }
   ]

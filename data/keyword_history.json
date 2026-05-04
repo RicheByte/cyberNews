@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1536,
+      "count": 1537,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1662,7 +1662,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 324,
+      "count": 325,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1716,7 +1716,8 @@
         "2026-04-21",
         "2026-04-22",
         "2026-04-23",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-04"
       ]
     },
     "model agnostic abstractions": {
@@ -1968,7 +1969,7 @@
       ]
     },
     "things iot devices": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2000,7 +2001,8 @@
         "2026-04-22",
         "2026-04-28",
         "2026-04-29",
-        "2026-05-03"
+        "2026-05-03",
+        "2026-05-04"
       ]
     },
     "cvss scoring system": {
@@ -2281,7 +2283,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6268,7 +6270,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7907,7 +7909,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -10758,7 +10760,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 452,
+      "count": 453,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13761,7 +13763,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13833,7 +13835,7 @@
       ]
     },
     "5 000 workers": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14782,7 +14784,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14799,7 +14801,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15022,14 +15024,14 @@
       ]
     },
     "editors will award": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-03",
         "2026-05-04"
       ]
     },
     "7 tech companies": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-03",
         "2026-05-04"
@@ -15043,25 +15045,25 @@
       ]
     },
     "digicert revokes certificates": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-04"
       ]
     },
     "msps strengthen resilience": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-04"
       ]
     },
     "internal support portal": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-04"
       ]
     },
     "income tax department": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-04"
       ]
@@ -15077,20 +15079,27 @@
       "dates": [
         "2026-05-04"
       ]
+    },
+    "moveit automation including": {
+      "count": 1,
+      "dates": [
+        "2026-05-04"
+      ]
+    },
+    "analyst s system": {
+      "count": 1,
+      "dates": [
+        "2026-05-04"
+      ]
+    },
+    "top notch content": {
+      "count": 1,
+      "dates": [
+        "2026-05-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-24 06:04",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "server without authentication",
-        "china nexus hackers",
-        "helpdesk employees convincing",
-        "gain system privileges"
-      ]
-    },
     {
       "timestamp": "2026-04-24 09:26",
       "articles": 56,
@@ -16178,6 +16187,17 @@
         "specially crafted message",
         "service ddos attacks",
         "bypass user authentication"
+      ]
+    },
+    {
+      "timestamp": "2026-05-04 17:40",
+      "articles": 56,
+      "top_keywords": [
+        "digicert revokes certificates",
+        "iran's intelligence agencies",
+        "specially crafted message",
+        "moveit automation including",
+        "service ddos attacks"
       ]
     }
   ]

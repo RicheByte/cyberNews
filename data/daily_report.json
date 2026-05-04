@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-05-04 15:57",
+  "last_updated": "2026-05-04 17:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "digicert revokes certificates",
     "iran's intelligence agencies",
     "specially crafted message",
+    "moveit automation including",
     "service ddos attacks",
-    "bypass user authentication",
     "msps strengthen resilience",
-    "wire fraud conspiracy",
     "twitter whistleblower complaint",
-    "provides actionable steps",
+    "sprawling phishing campaign",
     "internal support portal",
     "editors will award",
     "aggravated identity theft",
     "5 000 workers",
     "income tax department",
-    "cases removing certificates",
     "7 tech companies",
     "130 companies tangled",
-    "critical function vulnerability",
     "massive ddos attacks",
-    "7 million users"
+    "analyst s system",
+    "wire fraud conspiracy",
+    "top notch content",
+    "things iot devices"
   ],
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 452
+      "mentions": 453
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 40
+      "mentions": 41
+    },
+    {
+      "keyword": "moveit automation including",
+      "mentions": 1
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 56
-    },
-    {
-      "keyword": "bypass user authentication",
-      "mentions": 38
+      "mentions": 57
     },
     {
       "keyword": "msps strengthen resilience",
-      "mentions": 2
-    },
-    {
-      "keyword": "wire fraud conspiracy",
-      "mentions": 54
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1536
+      "mentions": 1537
     },
     {
-      "keyword": "provides actionable steps",
-      "mentions": 21
+      "keyword": "sprawling phishing campaign",
+      "mentions": 325
     },
     {
       "keyword": "internal support portal",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "editors will award",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
+      "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
+      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts. The",
+      "published": "Mon, 04 May 2026 22:04:00 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "Auth bypass ×2",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
@@ -150,14 +162,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
-      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
-      "summary": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
-      "published": "Fri, 01 May 2026 23:39:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Backdoored PyTorch Lightning package drops credential stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
+      "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
+      "published": "Mon, 04 May 2026 13:15:27 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Trellix discloses data breach after source code repository hack",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
+      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
+      "published": "Mon, 04 May 2026 12:25:07 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Phishing ×3"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -226,24 +247,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
-      "summary": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
-      "published": "Sun, 03 May 2026 14:11:25 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Telegram Mini Apps abused for crypto scams, Android malware delivery",
-      "link": "https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/",
-      "summary": "Cybersecurity researchers have uncovered a large-scale fraud operation that uses Telegram's Mini App feature to run crypto scams, impersonate well-known brands, and distribute Android malware. [...]",
-      "published": "Sun, 03 May 2026 10:11:21 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -409,6 +412,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Trellix Source Code Repository Breached",
+      "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
+      "summary": "The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. The post Trellix Source Code Repository Breached appeared first on SecurityWeek .",
+      "published": "Mon, 04 May 2026 17:23:54 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cybersecurity M&A Roundup: 33 Deals Announced in April 2026",
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/",
       "summary": "Significant cybersecurity M&A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket. The post Cybersecurity M&A Roundup: 33 Deals Announced in April 2026 appeared first on SecurityWeek .",
@@ -479,17 +491,6 @@
       "published": "Sun, 03 May 2026 16:21:36 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Bluekit Phishing Kit Features AI Assistant",
-      "link": "https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/",
-      "summary": "Still under development, Bluekit provides users with automated domain registration and an AI Assistant. The post New Bluekit Phishing Kit Features AI Assistant appeared first on SecurityWeek .",
-      "published": "Sat, 02 May 2026 10:50:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Threatpost",

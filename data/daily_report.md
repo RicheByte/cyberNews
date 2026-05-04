@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-04 15:57 UTC  
+> **Last Updated:** 2026-05-04 17:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **service ddos attacks** • **bypass user authentication** • **msps strengthen resilience** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **internal support portal** • **editors will award** • **aggravated identity theft** • **5 000 workers** • **income tax department** • **cases removing certificates** • **7 tech companies** • **130 companies tangled** • **critical function vulnerability** • **massive ddos attacks** • **7 million users**
+**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **moveit automation including** • **service ddos attacks** • **msps strengthen resilience** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **internal support portal** • **editors will award** • **aggravated identity theft** • **5 000 workers** • **income tax department** • **7 tech companies** • **130 companies tangled** • **massive ddos attacks** • **analyst s system** • **wire fraud conspiracy** • **top notch content** • **things iot devices**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
 - [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
 - [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
 - [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
@@ -23,18 +24,17 @@
 - [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
 - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
-- [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
 
 ### BleepingComputer
 
+- [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
+- [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
 - [They don’t hack, they borrow: How fraudsters target credit unions](https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/)
 - [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
 - [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
 - [CISA says ‘Copy Fail’ flaw now exploited to root Linux systems](https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/)
 - [Microsoft confirms April Windows updates cause backup failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-backup-failures-caused-by-vulnerable-driver-block/)
 - [Instructure confirms data breach, ShinyHunters claims attack](https://www.bleepingcomputer.com/news/security/instructure-confirms-data-breach-shinyhunters-claims-attack/)
-- [Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha](https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/)
-- [Telegram Mini Apps abused for crypto scams, Android malware delivery](https://www.bleepingcomputer.com/news/security/telegram-mini-apps-abused-for-crypto-scams-android-malware-delivery/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
 - [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
 - [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
 - [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
@@ -67,7 +68,6 @@
 - [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
 - [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
 - [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
-- [New Bluekit Phishing Kit Features AI Assistant](https://www.securityweek.com/new-bluekit-phishing-kit-features-ai-assistant/)
 
 ### Threatpost
 

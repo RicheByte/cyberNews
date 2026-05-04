@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 17:40",
+  "last_updated": "2026-05-04 19:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,63 +10,74 @@
     "service ddos attacks",
     "msps strengthen resilience",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "internal support portal",
-    "editors will award",
+    "income tax department",
     "aggravated identity theft",
     "5 000 workers",
-    "income tax department",
-    "7 tech companies",
     "130 companies tangled",
+    "sprawling phishing campaign",
+    "legitimate remote monitoring",
     "massive ddos attacks",
-    "analyst s system",
-    "wire fraud conspiracy",
-    "top notch content",
-    "things iot devices"
+    "related software including",
+    "management rmm software",
+    "least april 2025",
+    "acquire astrix security",
+    "analyst s system"
   ],
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 453
+      "mentions": 454
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "moveit automation including",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "msps strengthen resilience",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1537
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 325
+      "mentions": 1538
     },
     {
       "keyword": "internal support portal",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "editors will award",
-      "mentions": 10
+      "keyword": "income tax department",
+      "mentions": 4
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 57
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
+      "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
+      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
+      "published": "Mon, 04 May 2026 23:36:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
@@ -148,17 +159,6 @@
         "CISA/KEV ×5",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
-      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
-      "summary": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter. Trellix did not disclose the",
-      "published": "Sat, 02 May 2026 12:11:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -412,6 +412,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
+      "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
+      "summary": "Cisco on Monday announced its intent to acquire Astrix Security, a startup focused on securing non-human identities (NHIs) such as API keys, service accounts, and OAuth tokens increasingly used by applications and AI agents. In a blog post, Cisco said the acquisition is aimed at extending zero trust principles to the emerging “agentic workforce,” where AI agents […] The post Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks appeared first on SecurityWeek .",
+      "published": "Mon, 04 May 2026 19:00:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Trellix Source Code Repository Breached",
       "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
       "summary": "The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. The post Trellix Source Code Repository Breached appeared first on SecurityWeek .",
@@ -482,15 +491,6 @@
       "value_signals": [
         "Breach/leak ×4"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
-      "link": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
-      "summary": "Google, Microsoft, Amazon Web Services, Nvidia, OpenAI, Reflection and SpaceX will provide resources to help augment warfighter decision-making in complex operational environments,” the Defense Department said. The post US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems appeared first on SecurityWeek .",
-      "published": "Sun, 03 May 2026 16:21:36 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

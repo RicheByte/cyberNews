@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-04 17:40 UTC  
+> **Last Updated:** 2026-05-04 19:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **moveit automation including** • **service ddos attacks** • **msps strengthen resilience** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **internal support portal** • **editors will award** • **aggravated identity theft** • **5 000 workers** • **income tax department** • **7 tech companies** • **130 companies tangled** • **massive ddos attacks** • **analyst s system** • **wire fraud conspiracy** • **top notch content** • **things iot devices**
+**digicert revokes certificates** • **iran's intelligence agencies** • **specially crafted message** • **moveit automation including** • **service ddos attacks** • **msps strengthen resilience** • **twitter whistleblower complaint** • **internal support portal** • **income tax department** • **aggravated identity theft** • **5 000 workers** • **130 companies tangled** • **sprawling phishing campaign** • **legitimate remote monitoring** • **massive ddos attacks** • **related software including** • **management rmm software** • **least april 2025** • **acquire astrix security** • **analyst s system**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
 - [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
 - [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
 - [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
@@ -23,7 +24,6 @@
 - [Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks](https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html)
 - [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
 - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
-- [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks](https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/)
 - [Trellix Source Code Repository Breached](https://www.securityweek.com/trellix-source-code-repository-breached/)
 - [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
 - [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
@@ -67,7 +68,6 @@
 - [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
 - [Over 40,000 Servers Compromised in Ongoing cPanel Exploitation](https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/)
 - [Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats](https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/)
-- [US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems](https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/)
 
 ### Threatpost
 

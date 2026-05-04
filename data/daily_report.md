@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-04 02:27 UTC  
+> **Last Updated:** 2026-05-04 06:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **distribute android malware** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **editors will award** • **7 tech companies** • **130 companies tangled** • **aggravated identity theft** • **sorry ransomware attacks** • **ai model provenance** • **trojan win32 cerdigent**
+**iran's intelligence agencies** • **service ddos attacks** • **specially crafted message** • **bypass user authentication** • **distribute android malware** • **aggravated identity theft** • **massive ddos attacks** • **blackcat ransomware attacks** • **wire fraud conspiracy** • **twitter whistleblower complaint** • **provides actionable steps** • **market strategy fails** • **legacy dialog microsoft** • **illicit storefront run** • **editors will award** • **7 tech companies** • **130 companies tangled** • **sorry ransomware attacks** • **ai model provenance** • **trojan win32 cerdigent**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html)
 - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html)
 - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html)
 - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html)
@@ -23,7 +24,6 @@
 - [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html)
 - [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html)
 - [Two Cybersecurity Professionals Get 4-Year Sentences in BlackCat Ransomware Attacks](https://thehackernews.com/2026/05/two-cybersecurity-professionals-get-4.html)
-- [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html)
 
 ### BleepingComputer
 

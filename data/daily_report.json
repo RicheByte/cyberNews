@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04 02:27",
+  "last_updated": "2026-05-04 06:35",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,6 +8,7 @@
     "specially crafted message",
     "bypass user authentication",
     "distribute android malware",
+    "aggravated identity theft",
     "massive ddos attacks",
     "blackcat ransomware attacks",
     "wire fraud conspiracy",
@@ -19,7 +20,6 @@
     "editors will award",
     "7 tech companies",
     "130 companies tangled",
-    "aggravated identity theft",
     "sorry ransomware attacks",
     "ai model provenance",
     "trojan win32 cerdigent"
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 448
+      "mentions": 449
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "bypass user authentication",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "distribute android malware",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 52
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "blackcat ransomware attacks",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "wire fraud conspiracy",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1532
-    },
-    {
-      "keyword": "provides actionable steps",
-      "mentions": 17
+      "mentions": 1533
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
+      "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
+      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses. The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
+      "published": "Mon, 04 May 2026 11:29:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
@@ -141,17 +150,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft",
-      "link": "https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html",
-      "summary": "A new software supply chain attack campaign has been observed using sleeper packages as a conduit to subsequently push malicious payloads that enabled credential theft, GitHub Actions tampering, and SSH persistence. The activity has been attributed to the GitHub account \"BufferZoneCorp,\" which has published a set of repositories that are associated with malicious Ruby gems and Go modules. As of",
-      "published": "Fri, 01 May 2026 15:13:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

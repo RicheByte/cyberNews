@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1547,
+      "count": 1548,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -673,7 +673,7 @@
       ]
     },
     "remote code execution": {
-      "count": 317,
+      "count": 318,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1906,7 +1906,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2863,7 +2863,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -6276,7 +6276,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10767,7 +10767,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 463,
+      "count": 464,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13774,7 +13774,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14816,7 +14816,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14972,7 +14972,7 @@
       ]
     },
     "1 5 million": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -15150,7 +15150,7 @@
       ]
     },
     "concept exploits appeared": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-04",
         "2026-05-05"
@@ -15183,7 +15183,7 @@
       ]
     },
     "video game platform": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-05"
       ]
@@ -15201,7 +15201,7 @@
       ]
     },
     "south america since": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05"
       ]
@@ -15213,19 +15213,19 @@
       ]
     },
     "scaling back payouts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-05"
       ]
     },
     "episode looks back": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-05"
       ]
     },
     "http server including": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05"
       ]
@@ -15237,19 +15237,19 @@
       ]
     },
     "opc ua protocol": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-05"
       ]
     },
     "abb awin gateways": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-05"
       ]
     },
     "pvi client application": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-05"
       ]
@@ -15259,20 +15259,21 @@
       "dates": [
         "2026-05-05"
       ]
+    },
+    "security product's controls": {
+      "count": 1,
+      "dates": [
+        "2026-05-05"
+      ]
+    },
+    "designed giving attackers": {
+      "count": 1,
+      "dates": [
+        "2026-05-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-25 07:07",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "remove system packages",
-        "twitter whistleblower complaint",
-        "iran war unleashing"
-      ]
-    },
     {
       "timestamp": "2026-04-25 08:44",
       "articles": 56,
@@ -16353,6 +16354,17 @@
     },
     {
       "timestamp": "2026-05-05 19:12",
+      "articles": 56,
+      "top_keywords": [
+        "service ddos attacks",
+        "authentication bypass flaw",
+        "concept exploits appeared",
+        "http server including",
+        "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-05-05 20:57",
       "articles": 56,
       "top_keywords": [
         "service ddos attacks",

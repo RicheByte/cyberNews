@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-05 19:12 UTC  
+> **Last Updated:** 2026-05-05 20:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**service ddos attacks** • **authentication bypass flaw** • **concept exploits appeared** • **http server including** • **remote code execution** • **video game platform** • **massive ddos attacks** • **aggravated identity theft** • **twitter whistleblower complaint** • **opc ua protocol** • **abb awin gateways** • **1 5 million** • **scaling back payouts** • **pvi client application** • **iran's intelligence agencies** • **episode looks back** • **arbitrary code execution** • **code injection flaw** • **cybercriminals cargo theft** • **data wiping attack**
+**service ddos attacks** • **authentication bypass flaw** • **concept exploits appeared** • **http server including** • **remote code execution** • **video game platform** • **massive ddos attacks** • **aggravated identity theft** • **security product's controls** • **twitter whistleblower complaint** • **south america since** • **opc ua protocol** • **abb awin gateways** • **1 5 million** • **scaling back payouts** • **pvi client application** • **iran's intelligence agencies** • **episode looks back** • **designed giving attackers** • **arbitrary code execution**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
 - [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 - [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
 - [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
@@ -34,7 +35,6 @@
 - [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
 - [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
 - [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
-- [ScarCruft hackers push BirdCall Android malware via game platform](https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Trellix Source Code Breach Highlights Growing Supply Chain Threats](https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats)
 - [Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk](https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk)
 - [How the Story of a USB Penetration Test Went Viral](https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral)
 - [Physical Cargo Theft Gets a Boost From Cybercriminals](https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals)
@@ -56,7 +57,6 @@
 - [Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability](https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability)
 - [Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia](https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia)
 - [How Dark Reading Lifted Off the Launchpad in 2006](https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006)
-- [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
 
 ### Security Week
 

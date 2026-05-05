@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 19:12",
+  "last_updated": "2026-05-05 20:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,7 +11,9 @@
     "video game platform",
     "massive ddos attacks",
     "aggravated identity theft",
+    "security product's controls",
     "twitter whistleblower complaint",
+    "south america since",
     "opc ua protocol",
     "abb awin gateways",
     "1 5 million",
@@ -19,51 +21,49 @@
     "pvi client application",
     "iran's intelligence agencies",
     "episode looks back",
-    "arbitrary code execution",
-    "code injection flaw",
-    "cybercriminals cargo theft",
-    "data wiping attack"
+    "designed giving attackers",
+    "arbitrary code execution"
   ],
   "trending": [
     {
       "keyword": "service ddos attacks",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "http server including",
-      "mentions": 2
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 317
-    },
-    {
-      "keyword": "video game platform",
       "mentions": 3
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 318
+    },
+    {
+      "keyword": "video game platform",
+      "mentions": 4
+    },
+    {
       "keyword": "massive ddos attacks",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 66
+      "mentions": 67
+    },
+    {
+      "keyword": "security product's controls",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1547
-    },
-    {
-      "keyword": "opc ua protocol",
-      "mentions": 1
+      "mentions": 1548
     }
   ],
   "articles": [
@@ -163,6 +163,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
+      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
+      "published": "Tue, 05 May 2026 15:21:18 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
       "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
       "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
@@ -231,17 +242,6 @@
       "published": "Tue, 05 May 2026 06:03:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
-      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
-      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
-      "published": "Tue, 05 May 2026 05:04:13 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +330,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
+      "summary": "Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
+      "published": "Tue, 05 May 2026 20:40:11 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
       "link": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
       "summary": "A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
@@ -399,15 +410,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006",
       "summary": "Twenty years ago, this media brand didn't have a print edition to attract eyeballs and sponsors. Top-notch content and editorial talent did the heavy lifting.",
       "published": "Mon, 04 May 2026 11:15:08 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
-      "summary": "North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
-      "published": "Fri, 01 May 2026 20:34:27 GMT",
       "value_score": 10,
       "value_signals": []
     },

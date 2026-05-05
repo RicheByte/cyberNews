@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-05 15:49 UTC  
+> **Last Updated:** 2026-05-05 17:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**service ddos attacks** • **legitimate remote monitoring** • **concept exploits appeared** • **authentication bypass flaw** • **massive ddos attacks** • **video game platform** • **scanners don't check** • **legitimate email services** • **aggravated identity theft** • **steal authentication tokens** • **artificial intelligence ai** • **twitter whistleblower complaint** • **specially crafted message** • **south america since** • **persistent oauth token** • **iran's intelligence agencies** • **1 5 million** • **scaling back payouts** • **management rmm tools** • **episode looks back**
+**service ddos attacks** • **http server including** • **concept exploits appeared** • **authentication bypass flaw** • **massive ddos attacks** • **video game platform** • **scanners don't check** • **aggravated identity theft** • **twitter whistleblower complaint** • **specially crafted message** • **south america since** • **1 5 million** • **scaling back payouts** • **iran's intelligence agencies** • **episode looks back** • **management rmm tools** • **data wiping attack** • **remote code execution** • **bypass user authentication** • **cybercriminals cargo theft**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
+- [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
 - [China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions](https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html)
 - [The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed](https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html)
 - [MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks](https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html)
 - [We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
 - [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
 - [Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
-- [Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
-- [Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools](https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html)
 
 ### BleepingComputer
 
@@ -51,12 +51,12 @@
 
 - [Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk](https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk)
 - [How the Story of a USB Penetration Test Went Viral](https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral)
+- [Physical Cargo Theft Gets a Boost From Cybercriminals](https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals)
 - [RMM Tools Fuel Stealthy Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign)
 - [Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability](https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability)
 - [Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia](https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia)
 - [How Dark Reading Lifted Off the Launchpad in 2006](https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006)
 - [76% of All Crypto Stolen in 2026 Is Now in North Korea](https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea)
-- [If AI's So Smart, Why Does It Keep Deleting Production Databases?](https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases)
 
 ### Security Week
 

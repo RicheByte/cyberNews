@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-05-05 15:49",
+  "last_updated": "2026-05-05 17:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "service ddos attacks",
-    "legitimate remote monitoring",
+    "http server including",
     "concept exploits appeared",
     "authentication bypass flaw",
     "massive ddos attacks",
     "video game platform",
     "scanners don't check",
-    "legitimate email services",
     "aggravated identity theft",
-    "steal authentication tokens",
-    "artificial intelligence ai",
     "twitter whistleblower complaint",
     "specially crafted message",
     "south america since",
-    "persistent oauth token",
-    "iran's intelligence agencies",
     "1 5 million",
     "scaling back payouts",
+    "iran's intelligence agencies",
+    "episode looks back",
     "management rmm tools",
-    "episode looks back"
+    "data wiping attack",
+    "remote code execution",
+    "bypass user authentication",
+    "cybercriminals cargo theft"
   ],
   "trending": [
     {
       "keyword": "service ddos attacks",
-      "mentions": 65
+      "mentions": 66
     },
     {
-      "keyword": "legitimate remote monitoring",
-      "mentions": 8
+      "keyword": "http server including",
+      "mentions": 1
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "video game platform",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "scanners don't check",
-      "mentions": 1
-    },
-    {
-      "keyword": "legitimate email services",
       "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 64
+      "mentions": 65
     },
     {
-      "keyword": "steal authentication tokens",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1546
+    },
+    {
+      "keyword": "specially crafted message",
+      "mentions": 50
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
+      "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
+      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been described as a case of \"double free and possible RCE\" in the HTTP/2 protocol handling. This issue",
+      "published": "Tue, 05 May 2026 21:49:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×4",
+        "High severity",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
+      "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
+      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging to DAEMON Tools developers,\" Kaspersky researchers Igor Kuznetsov, Georgy Kucherin, Leonid",
+      "published": "Tue, 05 May 2026 21:37:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
@@ -136,28 +159,6 @@
         "High severity",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
-      "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
-      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,",
-      "published": "Tue, 05 May 2026 12:05:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
-      "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
-      "published": "Mon, 04 May 2026 23:36:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -354,6 +355,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Physical Cargo Theft Gets a Boost From Cybercriminals",
+      "link": "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
+      "summary": "Cargo theft is no longer about small groups of criminals operating on the ground, but transnational cybercriminal syndicates using access to supply chain systems to reroute goods.",
+      "published": "Mon, 04 May 2026 21:38:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "RMM Tools Fuel Stealthy Phishing Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
       "summary": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
@@ -402,15 +412,6 @@
       "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
       "summary": "North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
       "published": "Fri, 01 May 2026 20:34:27 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
-      "link": "https://www.darkreading.com/cloud-security/ais-so-smart-keep-deleting-production-databases",
-      "summary": "The issue isn't artificial intelligence, but rather an industry adding AI agent integrations into production environments before proper security testing.",
-      "published": "Fri, 01 May 2026 14:39:55 GMT",
       "value_score": 10,
       "value_signals": []
     },

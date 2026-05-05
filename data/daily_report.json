@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 02:22",
+  "last_updated": "2026-05-05 06:11",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 457
+      "mentions": 458
     },
     {
       "keyword": "specially crafted message",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "moveit automation including",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "legitimate remote monitoring",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "msps strengthen resilience",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1541
+      "mentions": 1542
     }
   ],
   "articles": [
@@ -71,7 +71,7 @@
       "source": "The Hacker News",
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
       "link": "https://thehackernews.com/2026/05/phishing-campaign-hits-80-orgs-using.html",
-      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025, with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
+      "summary": "An active phishing campaign has been observed targeting multiple vectors since at least April 2025 with legitimate Remote Monitoring and Management (RMM) software as a way to establish persistent remote access to compromised hosts. The activity, codenamed VENOMOUS#HELPER, has impacted over 80 organizations, most of which are in the U.S., according to Securonix. It shares overlaps with clusters",
       "published": "Mon, 04 May 2026 23:36:00 +0530",
       "value_score": 26,
       "value_signals": [
@@ -117,7 +117,7 @@
       "source": "The Hacker News",
       "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
       "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities. \"Both waves followed a nearly identical",
+      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities in January 2026. \"Both waves followed a nearly",
       "published": "Mon, 04 May 2026 17:27:00 +0530",
       "value_score": 26,
       "value_signals": [

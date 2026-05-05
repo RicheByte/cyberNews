@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-05-05 11:15",
+  "last_updated": "2026-05-05 15:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "digicert revokes certificates",
-    "moveit automation including",
-    "iran's intelligence agencies",
     "service ddos attacks",
     "legitimate remote monitoring",
+    "concept exploits appeared",
+    "authentication bypass flaw",
     "massive ddos attacks",
+    "video game platform",
+    "scanners don't check",
+    "legitimate email services",
+    "aggravated identity theft",
+    "steal authentication tokens",
+    "artificial intelligence ai",
     "twitter whistleblower complaint",
     "specially crafted message",
-    "internal support portal",
-    "concept exploits appeared",
-    "aggravated identity theft",
-    "actively exploited flaw",
-    "steal authentication tokens",
+    "south america since",
+    "persistent oauth token",
+    "iran's intelligence agencies",
+    "1 5 million",
+    "scaling back payouts",
     "management rmm tools",
-    "5 000 workers",
-    "7 million users",
-    "bypass user authentication",
-    "authentication bypass flaw",
-    "legitimate email services",
-    "analyst s system"
+    "episode looks back"
   ],
   "trending": [
     {
-      "keyword": "digicert revokes certificates",
-      "mentions": 10
-    },
-    {
-      "keyword": "moveit automation including",
-      "mentions": 8
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 460
-    },
-    {
       "keyword": "service ddos attacks",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "legitimate remote monitoring",
-      "mentions": 7
-    },
-    {
-      "keyword": "massive ddos attacks",
-      "mentions": 48
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1544
-    },
-    {
-      "keyword": "specially crafted message",
-      "mentions": 48
-    },
-    {
-      "keyword": "internal support portal",
-      "mentions": 10
+      "mentions": 8
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "authentication bypass flaw",
+      "mentions": 30
+    },
+    {
+      "keyword": "massive ddos attacks",
+      "mentions": 49
+    },
+    {
+      "keyword": "video game platform",
+      "mentions": 1
+    },
+    {
+      "keyword": "scanners don't check",
+      "mentions": 1
+    },
+    {
+      "keyword": "legitimate email services",
+      "mentions": 2
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 64
+    },
+    {
+      "keyword": "steal authentication tokens",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
+      "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
+      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, with post-exploitation involving the deployment of custom-made malware families that have been put",
+      "published": "Tue, 05 May 2026 19:49:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
+      "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
+      "summary": "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Your MFA doesn't stop it. And when an attacker gets hold of one, they don't need a password. OAuth",
+      "published": "Tue, 05 May 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
+      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
+      "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution. \"MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code",
+      "published": "Tue, 05 May 2026 17:26:00 +0530",
+      "value_score": 88,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
@@ -126,39 +161,46 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass",
-      "link": "https://thehackernews.com/2026/05/progress-patches-critical-moveit.html",
-      "summary": "Progress Software has released updates to address two security flaws in MOVEit Automation, including a critical bug that could result in an authentication bypass. MOVEit Automation (formerly Central) is a secure, server-based managed file transfer (MFT) solution used to schedule and automate file movement workflows in enterprise environments without requiring any custom scripts. The",
-      "published": "Mon, 04 May 2026 22:04:00 +0530",
-      "value_score": 56,
-      "value_signals": [
-        "Auth bypass ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html",
-      "summary": "This week, the shadows moved faster than the patches. While most teams were still triaging last month’s alerts, attackers had already turned control panels into kill switches, kernels into open doors, and open-source pipelines into silent delivery systems. The game has shifted from breach to occupation. They’re living inside SaaS sessions, pushing code with trusted commits, and scaling",
-      "published": "Mon, 04 May 2026 19:53:00 +0530",
-      "value_score": 56,
-      "value_signals": [
-        "RCE",
-        "Breach/leak",
-        "Phishing",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "2026: The Year of AI-Assisted Attacks",
-      "link": "https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html",
-      "summary": "On December 4, 2025, a 17-year-old was arrested in Osaka under Japan’s Unauthorized Access Prohibition Act. The young man had run malicious code to extract the personal data of over 7 million users of Kaikatsu Club, Japan's largest internet cafe chain. When asked, the young man shared his motivation for the hack: he wanted to buy Pokémon cards. In a sense, this is a fairly conventional story.",
-      "published": "Mon, 04 May 2026 17:28:00 +0530",
+      "source": "BleepingComputer",
+      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
+      "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data collected from hundreds of millions of mobile devices. [...]",
+      "published": "Tue, 05 May 2026 10:39:53 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
+      "published": "Tue, 05 May 2026 10:00:10 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Vimeo data breach exposes personal information of 119,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
+      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "Tue, 05 May 2026 09:03:46 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google now offers up to $1.5 million for some Android exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
+      "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has made easier to find. [...]",
+      "published": "Tue, 05 May 2026 07:24:48 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -201,48 +243,6 @@
       "value_signals": [
         "CVE mentioned",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amazon SES increasingly abused in phishing to evade detection",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/",
-      "summary": "The Amazon Simple Email Service (SES) is being increasingly abused to send convincing phishing emails that can bypass standard security filters and render reputation-based blocks ineffective. [...]",
-      "published": "Mon, 04 May 2026 16:03:28 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Backdoored PyTorch Lightning package drops credential stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/",
-      "summary": "A malicious version of the PyTorch Lightning package published on the Python Package Index (PyPI) delivers a credential-stealing payload targeting browsers, environment files, and cloud services. [...]",
-      "published": "Mon, 04 May 2026 13:15:27 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trellix discloses data breach after source code repository hack",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/",
-      "summary": "Cybersecurity firm Trellix disclosed a data breach after attackers gained access to \"a portion\" of its source code repository. [...]",
-      "published": "Mon, 04 May 2026 12:25:07 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "They don’t hack, they borrow: How fraudsters target credit unions",
-      "link": "https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/",
-      "summary": "Fraudsters aren't hacking credit unions, they are exploiting normal business processes. Flare reveals how structured loan fraud methods use stolen identities to pass verification and secure funds. [...]",
-      "published": "Mon, 04 May 2026 09:42:51 -0400",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -333,6 +333,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
+      "link": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
+      "summary": "A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
+      "published": "Tue, 05 May 2026 14:57:51 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "How the Story of a USB Penetration Test Went Viral",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
+      "summary": "Two decades ago Dark Reading posted its first blockbuster — a column by a pen tester who sprinkled rigged thumb drives around a credit union parking lot and let curious employees do the rest. This episode looks back at the history-making piece with its author Steve Stasiukonis, Dark Reading senior editor Becky Bracken, and Dark Reading's editor-in-chief Kelly Jackson Higgins.",
+      "published": "Tue, 05 May 2026 11:56:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "RMM Tools Fuel Stealthy Phishing Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
       "summary": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
@@ -394,22 +415,61 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Name That Toon: Mark of (Security) Progress",
-      "link": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
-      "summary": "Feeling creative? Have something to say about the last 20 years of cybersecurity? Our editors will award the best cybersecurity-related caption with a $20 gift card.",
-      "published": "Fri, 01 May 2026 12:00:55 GMT",
+      "source": "Security Week",
+      "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
+      "link": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
+      "summary": "The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM. The post Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 14:45:04 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacker Conversations: Joey Melo on Hacking AI",
+      "link": "https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/",
+      "summary": "AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models. The post Hacker Conversations: Joey Melo on Hacking AI appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 13:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
-      "link": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
-      "summary": "On this day in 2006, Dark Reading went live. We have a celebration planned that spans our two decades of covering the industry, and you, dear readers, are invited.",
-      "published": "Fri, 01 May 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft",
+      "link": "https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/",
+      "summary": "Dubbed Bleeding Llama, the heap out-of-bounds read issue can be exploited remotely, without authentication. The post Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 12:39:36 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Remote Code Execution Vulnerability Patched in Android",
+      "link": "https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/",
+      "summary": "CVE-2026-0073 affects Android’s System component and it can be exploited without any user interaction. The post Critical Remote Code Execution Vulnerability Patched in Android appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 11:58:44 +0000",
+      "value_score": 90,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server",
+      "link": "https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/",
+      "summary": "The most severe of these security defects could allow remote attackers to execute arbitrary code. The post Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 11:19:59 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -439,55 +499,6 @@
       "published": "Tue, 05 May 2026 09:01:14 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
-      "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
-      "summary": "The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access. The post Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 19:00:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Trellix Source Code Repository Breached",
-      "link": "https://www.securityweek.com/trellix-source-code-repository-breached/",
-      "summary": "The cybersecurity firm’s investigation has not found any impact on its source code release or distribution process. The post Trellix Source Code Repository Breached appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 17:23:54 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in April 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/",
-      "summary": "Significant cybersecurity M&A deals announced by Airbus, Cyera, Fortra, Palo Alto Networks, Silverfort, and Socket. The post Cybersecurity M&A Roundup: 33 Deals Announced in April 2026 appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 13:02:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "DigiCert Revokes Certificates After Support Portal Hack",
-      "link": "https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/",
-      "summary": "Hackers delivered malware via a customer chat channel, infected an analyst’s system, and accessed the internal support portal. The post DigiCert Revokes Certificates After Support Portal Hack appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 12:46:53 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation of ‘Copy Fail’ Linux Vulnerability Begins",
-      "link": "https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/",
-      "summary": "CISA has added the bug to its KEV list, and Microsoft has observed limited exploitation, mainly associated with PoC testing. The post Exploitation of ‘Copy Fail’ Linux Vulnerability Begins appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 10:42:33 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "PoC available",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-05 17:18 UTC |
+| 🕐 Last Updated | 2026-05-05 19:12 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`service ddos attacks` • `http server including` • `concept exploits appeared` • `authentication bypass flaw` • `massive ddos attacks` • `video game platform` • `scanners don't check` • `aggravated identity theft` • `twitter whistleblower complaint` • `specially crafted message`
+`service ddos attacks` • `authentication bypass flaw` • `concept exploits appeared` • `http server including` • `remote code execution` • `video game platform` • `massive ddos attacks` • `aggravated identity theft` • `twitter whistleblower complaint` • `opc ua protocol`
 
 ## 📄 Reports
 

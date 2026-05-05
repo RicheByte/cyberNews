@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-05 17:18 UTC  
+> **Last Updated:** 2026-05-05 19:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**service ddos attacks** • **http server including** • **concept exploits appeared** • **authentication bypass flaw** • **massive ddos attacks** • **video game platform** • **scanners don't check** • **aggravated identity theft** • **twitter whistleblower complaint** • **specially crafted message** • **south america since** • **1 5 million** • **scaling back payouts** • **iran's intelligence agencies** • **episode looks back** • **management rmm tools** • **data wiping attack** • **remote code execution** • **bypass user authentication** • **cybercriminals cargo theft**
+**service ddos attacks** • **authentication bypass flaw** • **concept exploits appeared** • **http server including** • **remote code execution** • **video game platform** • **massive ddos attacks** • **aggravated identity theft** • **twitter whistleblower complaint** • **opc ua protocol** • **abb awin gateways** • **1 5 million** • **scaling back payouts** • **pvi client application** • **iran's intelligence agencies** • **episode looks back** • **arbitrary code execution** • **code injection flaw** • **cybercriminals cargo theft** • **data wiping attack**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 - [FTC to ban data broker Kochava from selling Americans’ location data](https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/)
-- [The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/)
+- [The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss](https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/)
 - [Vimeo data breach exposes personal information of 119,000 people](https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/)
 - [Google now offers up to $1.5 million for some Android exploits](https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/)
 - [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
 - [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
 - [ScarCruft hackers push BirdCall Android malware via game platform](https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/)
-- [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04)
+- [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03)
+- [Hitachi Energy PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01)
+- [Johnson Controls CEM AC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05)
+- [ABB B&R PVI](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Careful Adoption of Agentic AI Services](https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services)
 - [ABB AWIN Gateways](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05)
-- [ABB Ability OPTIMAX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04)
-- [ABB PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02)
-- [ABB Edgenius Management Portal](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [ABB Ability Symphony Plus Engineering](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06)
 
 ---
 

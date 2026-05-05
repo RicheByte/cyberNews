@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-05 17:18",
+  "last_updated": "2026-05-05 19:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "service ddos attacks",
-    "http server including",
-    "concept exploits appeared",
     "authentication bypass flaw",
-    "massive ddos attacks",
+    "concept exploits appeared",
+    "http server including",
+    "remote code execution",
     "video game platform",
-    "scanners don't check",
+    "massive ddos attacks",
     "aggravated identity theft",
     "twitter whistleblower complaint",
-    "specially crafted message",
-    "south america since",
+    "opc ua protocol",
+    "abb awin gateways",
     "1 5 million",
     "scaling back payouts",
+    "pvi client application",
     "iran's intelligence agencies",
     "episode looks back",
-    "management rmm tools",
-    "data wiping attack",
-    "remote code execution",
-    "bypass user authentication",
-    "cybercriminals cargo theft"
+    "arbitrary code execution",
+    "code injection flaw",
+    "cybercriminals cargo theft",
+    "data wiping attack"
   ],
   "trending": [
     {
       "keyword": "service ddos attacks",
-      "mentions": 66
-    },
-    {
-      "keyword": "http server including",
-      "mentions": 1
-    },
-    {
-      "keyword": "concept exploits appeared",
-      "mentions": 8
+      "mentions": 67
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 31
+      "mentions": 32
     },
     {
-      "keyword": "massive ddos attacks",
-      "mentions": 50
+      "keyword": "concept exploits appeared",
+      "mentions": 9
+    },
+    {
+      "keyword": "http server including",
+      "mentions": 2
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 317
     },
     {
       "keyword": "video game platform",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "scanners don't check",
-      "mentions": 2
+      "keyword": "massive ddos attacks",
+      "mentions": 51
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1546
+      "mentions": 1547
     },
     {
-      "keyword": "specially crafted message",
-      "mentions": 50
+      "keyword": "opc ua protocol",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -163,6 +163,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
+      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
+      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
+      "published": "Tue, 05 May 2026 13:34:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FTC to ban data broker Kochava from selling Americans’ location data",
       "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
       "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data collected from hundreds of millions of mobile devices. [...]",
@@ -172,8 +181,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Don't Check.",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-dont-check/",
+      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
+      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
       "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
       "published": "Tue, 05 May 2026 10:00:10 -0400",
       "value_score": 18,
@@ -232,19 +241,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Weaver E-cology critical bug exploited in attacks since March",
-      "link": "https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/",
-      "summary": "Hackers have been exploiting a critical vulnerability (CVE-2026-22679) in the Weaver E-cology office automation since mid-March to run discovery commands. [...]",
-      "published": "Mon, 04 May 2026 18:12:57 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -586,6 +582,77 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "ABB B&R Automation Studio",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&R Automation Studio establishes a connection with a server via the ANSL over TLS or OPC-UA protocol. The following versions of ABB B&R Automation Studio are affected: Automation Studio <6.5, 6.5 (CVE-2025-11043) CVSS Vendor E",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB B&R Automation Runtime",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&R Automation Runtime are affected: Automation Runtime <6.5, >=6.5, =R4.93 (CVE-2025-11044, CVE-2025-11044) CVSS Vendor Equipment Vulnerabilities v3 6.8 ABB ABB B&R Automation Runtime Allocation of Resources With",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 93,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy PCM600",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy PCM600 are affected: PCM600 Legacy vers:PCM600_Legacy/<=2.11 (CVE-2018-1002208) PCM600 3.0, 3.0_HF1, 3.0_HF2, 3.0_HF3, 3.1, 3",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Johnson Controls CEM AC2000",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661) CEM AC2000 11.0 (CVE-2026-21661) CEM AC2000 10.6 (CVE-2026-21661) CVSS Vendor Equipment Vulnerabilities v3 8.7 Johnson Controls Inc. Johnson Controls CEM AC2000 Uncontrolled Search Path Element Background Critical Infrastructure Sectors: Critical Manufacturing, C",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB B&R PVI",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read sensitive information in the logging data of the PVI client application. Logging is deactivated by default in all PVI client versions. The following versions of ABB B&R PVI are affected: PVI <6.5.0, 6.5.0 (CVE-2026-0936) CVSS Vendor Equipment ",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a li",
@@ -615,71 +682,6 @@
       "title": "ABB AWIN Gateways",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to remotely reboot the device or complete an unauthenticated query to reveal system configuration, including sensitive details. The following versions of ABB AWIN Gateways are affected: ABB AWIN Firmware (2.0-0) installed on ABB AWIN GW100 rev.2 2.0-0 ABB AWIN Firmware (2.0-1) installed on ABB AWIN GW100 rev.2 2.0-1 ABB AWIN Firmware (1.2-0) installed on ABB AWIN GW120 1.2-0 ABB AWIN Firmware (1.2-1) insta",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Ability OPTIMAX",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to bypass user authentication on OPTIMAX installations that make use of the Azure Active Directory Single-Sign On integration. The following versions of ABB Ability OPTIMAX are affected: ABB Ability OPTIMAX 6.1 vers:all/* ABB Ability OPTIMAX 6.2 vers:all/* ABB Ability OPTIMAX 6.3 <6.3.1-251120 ABB Ability OPTIMAX 6.4 <6.4.1-251120 CVSS Vendor Equipment Vulnerabilities v3 8.1 ABB ABB Ability OPTIMAX Incorrect ",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB PCM600",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send specially crafted messages to the system node resulting in execution of arbitrary code. The following versions of ABB PCM600 are affected: PCM600 >=1.5|<=2.13 CVSS Vendor Equipment Vulnerabilities v3 4.4 ABB ABB PCM600 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Com",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Edgenius Management Portal",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-03",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to send a specially crafted message to the system node allowing the attacker to install and run arbitrary code, uninstall applications, and modify the configuration of installed applications. The following versions of ABB Edgenius Management Portal are affected: Edgenius Management Portal 3.2.0.0|3.2.1.1 CVSS Vendor Equipment Vulnerabilities v3 9.6 ABB ABB Edgenius Management Portal Authentication Bypass Usin",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-41940 WebPros cPanel & WHM and WP2 (WordPress Squared) Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilitie",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Ability Symphony Plus Engineering",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-06",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. The ABB S+ Engineering product versions are affected by vulnerabilities in PostgreSQL version 13.11 and earlier versions. If an attacker gains access to a site’s S+ Client Server network, they could exploit such vulnerabilities by executing arbitrary code and potentially compromising the entire system. The following versions of ABB Ability Symphony Plus Engineering are affected: Abili",
       "published": "Thu, 30 Apr 26 12:00:00 +0000",
       "value_score": 41,
       "value_signals": [

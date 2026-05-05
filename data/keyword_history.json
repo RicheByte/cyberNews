@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1546,
+      "count": 1547,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -673,7 +673,7 @@
       ]
     },
     "remote code execution": {
-      "count": 316,
+      "count": 317,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1906,7 +1906,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2863,7 +2863,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2894,7 +2894,8 @@
         "2026-04-22",
         "2026-04-23",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-05"
       ]
     },
     "authenticated remote attacker": {
@@ -6275,7 +6276,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10766,7 +10767,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 462,
+      "count": 463,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13773,7 +13774,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14030,7 +14031,7 @@
       ]
     },
     "data wiping attack": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-22",
         "2026-04-23",
@@ -14815,7 +14816,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14971,7 +14972,7 @@
       ]
     },
     "1 5 million": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -15149,7 +15150,7 @@
       ]
     },
     "concept exploits appeared": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-04",
         "2026-05-05"
@@ -15182,7 +15183,7 @@
       ]
     },
     "video game platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05"
       ]
@@ -15212,24 +15213,48 @@
       ]
     },
     "scaling back payouts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05"
       ]
     },
     "episode looks back": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05"
       ]
     },
     "http server including": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-05"
       ]
     },
     "cybercriminals cargo theft": {
+      "count": 2,
+      "dates": [
+        "2026-05-05"
+      ]
+    },
+    "opc ua protocol": {
+      "count": 1,
+      "dates": [
+        "2026-05-05"
+      ]
+    },
+    "abb awin gateways": {
+      "count": 1,
+      "dates": [
+        "2026-05-05"
+      ]
+    },
+    "pvi client application": {
+      "count": 1,
+      "dates": [
+        "2026-05-05"
+      ]
+    },
+    "code injection flaw": {
       "count": 1,
       "dates": [
         "2026-05-05"
@@ -15237,17 +15262,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-25 04:38",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "nasa employees duped",
-        "iran's intelligence agencies",
-        "remove system packages",
-        "password manager bitwarden"
-      ]
-    },
     {
       "timestamp": "2026-04-25 07:07",
       "articles": 56,
@@ -16335,6 +16349,17 @@
         "concept exploits appeared",
         "authentication bypass flaw",
         "massive ddos attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-05 19:12",
+      "articles": 56,
+      "top_keywords": [
+        "service ddos attacks",
+        "authentication bypass flaw",
+        "concept exploits appeared",
+        "http server including",
+        "remote code execution"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 20:57",
+  "last_updated": "2026-05-05 22:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,55 +15,55 @@
     "twitter whistleblower complaint",
     "south america since",
     "opc ua protocol",
+    "online education platforms",
     "abb awin gateways",
     "1 5 million",
     "scaling back payouts",
     "pvi client application",
     "iran's intelligence agencies",
     "episode looks back",
-    "designed giving attackers",
-    "arbitrary code execution"
+    "designed giving attackers"
   ],
   "trending": [
     {
       "keyword": "service ddos attacks",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "http server including",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 318
-    },
-    {
-      "keyword": "video game platform",
       "mentions": 4
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 319
+    },
+    {
+      "keyword": "video game platform",
+      "mentions": 5
+    },
+    {
       "keyword": "massive ddos attacks",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "security product's controls",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1548
+      "mentions": 1549
     }
   ],
   "articles": [
@@ -163,6 +163,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New stealthy Quasar Linux malware targets software developers",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
+      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
+      "published": "Tue, 05 May 2026 18:01:39 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
+      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
+      "published": "Tue, 05 May 2026 17:20:23 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
       "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
       "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
@@ -222,26 +244,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
-      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
-      "published": "Tue, 05 May 2026 06:13:17 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
-      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
-      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
-      "published": "Tue, 05 May 2026 06:03:52 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

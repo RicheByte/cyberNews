@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-05 09:57 UTC  
+> **Last Updated:** 2026-05-05 11:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**digicert revokes certificates** • **moveit automation including** • **iran's intelligence agencies** • **legitimate remote monitoring** • **service ddos attacks** • **concept exploits appeared** • **bypass user authentication** • **authentication bypass flaw** • **steal authentication tokens** • **twitter whistleblower complaint** • **specially crafted message** • **msps strengthen resilience** • **internal support portal** • **income tax department** • **aggravated identity theft** • **actively exploited flaw** • **130 companies tangled** • **massive ddos attacks** • **management rmm tools** • **5 000 workers**
+**digicert revokes certificates** • **moveit automation including** • **iran's intelligence agencies** • **service ddos attacks** • **legitimate remote monitoring** • **massive ddos attacks** • **twitter whistleblower complaint** • **specially crafted message** • **internal support portal** • **concept exploits appeared** • **aggravated identity theft** • **actively exploited flaw** • **steal authentication tokens** • **management rmm tools** • **5 000 workers** • **7 million users** • **bypass user authentication** • **authentication bypass flaw** • **legitimate email services** • **analyst s system**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is](https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html)
 - [ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows](https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html)
 - [Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API](https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html)
 - [Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries](https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html)
@@ -23,18 +24,17 @@
 - [Progress Patches Critical MOVEit Automation Bug Enabling Authentication Bypass](https://thehackernews.com/2026/05/progress-patches-critical-moveit.html)
 - [⚡ Weekly Recap: AI-Powered Phishing, Android Spying Tool, Linux Exploit, GitHub RCE & More](https://thehackernews.com/2026/05/weekly-recap-ai-powered-phishing.html)
 - [2026: The Year of AI-Assisted Attacks](https://thehackernews.com/2026/05/2026-year-of-ai-assisted-attacks.html)
-- [Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia](https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html)
 
 ### BleepingComputer
 
+- [Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison](https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/)
+- [CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs](https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/)
 - [ScarCruft hackers push BirdCall Android malware via game platform](https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/)
 - [Weaver E-cology critical bug exploited in attacks since March](https://www.bleepingcomputer.com/news/security/weaver-e-cology-critical-bug-exploited-in-attacks-since-march/)
 - [Amazon SES increasingly abused in phishing to evade detection](https://www.bleepingcomputer.com/news/security/amazon-ses-increasingly-abused-in-phishing-to-evade-detection/)
 - [Backdoored PyTorch Lightning package drops credential stealer](https://www.bleepingcomputer.com/news/security/backdoored-pytorch-lightning-package-drops-credential-stealer/)
 - [Trellix discloses data breach after source code repository hack](https://www.bleepingcomputer.com/news/security/trellix-discloses-data-breach-after-source-code-repository-hack/)
 - [They don’t hack, they borrow: How fraudsters target credit unions](https://www.bleepingcomputer.com/news/security/they-dont-hack-they-borrow-how-fraudsters-target-credit-unions/)
-- [Progress warns of critical MOVEit Automation auth bypass flaw](https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/)
-- [Webinar: Why MSPs must rethink security and backup strategies](https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Karakurt Ransomware Negotiator Sentenced to Prison](https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/)
 - [MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/)
 - [WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities](https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/)
 - [Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks](https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/)
@@ -67,7 +68,6 @@
 - [Cybersecurity M&A Roundup: 33 Deals Announced in April 2026](https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-april-2026/)
 - [DigiCert Revokes Certificates After Support Portal Hack](https://www.securityweek.com/digicert-revokes-certificates-after-support-portal-hack/)
 - [Exploitation of ‘Copy Fail’ Linux Vulnerability Begins](https://www.securityweek.com/exploitation-of-copy-fail-linux-vulnerability-begins/)
-- [OpenAI Rolls Out Advanced Security for ChatGPT Accounts](https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/)
 
 ### Threatpost
 

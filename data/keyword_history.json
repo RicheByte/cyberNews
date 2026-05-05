@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1543,
+      "count": 1544,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1905,7 +1905,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -6274,7 +6274,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10765,7 +10765,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 459,
+      "count": 460,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13406,7 +13406,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13772,7 +13772,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13845,7 +13845,7 @@
       ]
     },
     "5 000 workers": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14795,7 +14795,7 @@
       ]
     },
     "specially crafted message": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14813,7 +14813,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14893,7 +14893,7 @@
       ]
     },
     "bypass user authentication": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15059,7 +15059,7 @@
       ]
     },
     "digicert revokes certificates": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-04",
         "2026-05-05"
@@ -15073,7 +15073,7 @@
       ]
     },
     "internal support portal": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-04",
         "2026-05-05"
@@ -15093,22 +15093,24 @@
       ]
     },
     "7 million users": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-04"
+        "2026-05-04",
+        "2026-05-05"
       ]
     },
     "moveit automation including": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-04",
         "2026-05-05"
       ]
     },
     "analyst s system": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-04"
+        "2026-05-04",
+        "2026-05-05"
       ]
     },
     "top notch content": {
@@ -15118,7 +15120,7 @@
       ]
     },
     "legitimate remote monitoring": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-04",
         "2026-05-05"
@@ -15144,7 +15146,7 @@
       ]
     },
     "concept exploits appeared": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-04",
         "2026-05-05"
@@ -15158,13 +15160,19 @@
       ]
     },
     "management rmm tools": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-04",
         "2026-05-05"
       ]
     },
     "steal authentication tokens": {
+      "count": 2,
+      "dates": [
+        "2026-05-05"
+      ]
+    },
+    "legitimate email services": {
       "count": 1,
       "dates": [
         "2026-05-05"
@@ -15172,17 +15180,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-24 20:40",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "nasa employees duped",
-        "iran's intelligence agencies",
-        "remove system packages",
-        "password manager bitwarden"
-      ]
-    },
     {
       "timestamp": "2026-04-24 22:34",
       "articles": 56,
@@ -16270,6 +16267,17 @@
         "iran's intelligence agencies",
         "legitimate remote monitoring",
         "service ddos attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-05 11:15",
+      "articles": 56,
+      "top_keywords": [
+        "digicert revokes certificates",
+        "moveit automation including",
+        "iran's intelligence agencies",
+        "service ddos attacks",
+        "legitimate remote monitoring"
       ]
     }
   ]

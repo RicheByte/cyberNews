@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-05 09:57",
+  "last_updated": "2026-05-05 11:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "digicert revokes certificates",
     "moveit automation including",
     "iran's intelligence agencies",
-    "legitimate remote monitoring",
     "service ddos attacks",
-    "concept exploits appeared",
-    "bypass user authentication",
-    "authentication bypass flaw",
-    "steal authentication tokens",
+    "legitimate remote monitoring",
+    "massive ddos attacks",
     "twitter whistleblower complaint",
     "specially crafted message",
-    "msps strengthen resilience",
     "internal support portal",
-    "income tax department",
+    "concept exploits appeared",
     "aggravated identity theft",
     "actively exploited flaw",
-    "130 companies tangled",
-    "massive ddos attacks",
+    "steal authentication tokens",
     "management rmm tools",
-    "5 000 workers"
+    "5 000 workers",
+    "7 million users",
+    "bypass user authentication",
+    "authentication bypass flaw",
+    "legitimate email services",
+    "analyst s system"
   ],
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "moveit automation including",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 459
-    },
-    {
-      "keyword": "legitimate remote monitoring",
-      "mentions": 6
+      "mentions": 460
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 63
+      "mentions": 64
     },
     {
-      "keyword": "concept exploits appeared",
-      "mentions": 5
+      "keyword": "legitimate remote monitoring",
+      "mentions": 7
     },
     {
-      "keyword": "bypass user authentication",
-      "mentions": 39
-    },
-    {
-      "keyword": "authentication bypass flaw",
-      "mentions": 28
-    },
-    {
-      "keyword": "steal authentication tokens",
-      "mentions": 1
+      "keyword": "massive ddos attacks",
+      "mentions": 48
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1543
+      "mentions": 1544
+    },
+    {
+      "keyword": "specially crafted message",
+      "mentions": 48
+    },
+    {
+      "keyword": "internal support portal",
+      "mentions": 10
+    },
+    {
+      "keyword": "concept exploits appeared",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
+      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
+      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security. In the wake of the",
+      "published": "Tue, 05 May 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
@@ -152,15 +161,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Silver Fox Deploys ABCDoor Malware via Tax-Themed Phishing in India and Russia",
-      "link": "https://thehackernews.com/2026/05/silver-fox-deploys-abcdoor-malware-via.html",
-      "summary": "The China-based cybercrime group known as Silver Fox has been linked to a new campaign targeting organizations in Russia and India with a new malware called ABCDoor. The activity involved using phishing emails that mimic correspondence from the Income Tax Department of India in December 2025, followed by a similar campaign aimed at Russian entities in January 2026. \"Both waves followed a nearly",
-      "published": "Mon, 04 May 2026 17:27:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Karakurt extortion gang ‘cold case’ negotiator gets 8.5 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/karakurt-extortion-gang-negotiator-sentenced-to-85-years-in-prison/",
+      "summary": "A Latvian national extradited to the United States was sentenced to 8.5 years in prison for his \"cold case\" negotiator role in the Russian Karakurt ransomware group. [...]",
+      "published": "Tue, 05 May 2026 06:13:17 -0400",
+      "value_score": 28,
       "value_signals": [
-        "Phishing ×2"
+        "Ransomware"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CloudZ malware abuses Microsoft Phone Link to steal SMS and OTPs",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudz-malware-abuses-microsoft-phone-link-to-steal-sms-and-otps/",
+      "summary": "A new version of the CloudZ remote access tool (RAT) is deploying a previously unseen malicious plugin called Pheno that hijacks the Microsoft Phone Link connection to steal sensitive codes from mobile devices. [...]",
+      "published": "Tue, 05 May 2026 06:03:52 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,28 +245,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Progress warns of critical MOVEit Automation auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/moveit-automation-customers-warned-to-patch-critical-auth-bypass-flaw/",
-      "summary": "Progress Software warned customers to patch a critical authentication bypass vulnerability in its MOVEit Automation enterprise-grade managed file transfer (MFT) application. [...]",
-      "published": "Mon, 04 May 2026 08:18:57 -0400",
-      "value_score": 64,
-      "value_signals": [
-        "Auth bypass ×2",
-        "Patch/update",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why MSPs must rethink security and backup strategies",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-msps-must-rethink-security-and-backup-strategies/",
-      "summary": "Security breaches don't just test your defenses—they test your recovery. Join Kaseya in our upcoming webinar to learn how MSPs strengthen resilience with SaaS backups and BCDR to stay operational after attacks. [...]",
-      "published": "Mon, 04 May 2026 08:16:24 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -417,6 +413,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Karakurt Ransomware Negotiator Sentenced to Prison",
+      "link": "https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/",
+      "summary": "Deniss Zolotarjovs was directly involved in extortion strategies and in negotiations with victim companies. The post Karakurt Ransomware Negotiator Sentenced to Prison appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 10:55:00 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
       "link": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
       "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs appeared first on SecurityWeek .",
@@ -481,15 +488,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Rolls Out Advanced Security for ChatGPT Accounts",
-      "link": "https://www.securityweek.com/openai-rolls-out-advanced-security-for-chatgpt-accounts/",
-      "summary": "Advanced Account Security provides stronger login methods, more secure account recovery, shorter sessions, and training exclusion. The post OpenAI Rolls Out Advanced Security for ChatGPT Accounts appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 09:29:30 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

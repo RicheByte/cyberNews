@@ -1,72 +1,110 @@
 {
-  "last_updated": "2026-05-05 06:11",
+  "last_updated": "2026-05-05 09:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "digicert revokes certificates",
-    "iran's intelligence agencies",
-    "specially crafted message",
-    "service ddos attacks",
     "moveit automation including",
+    "iran's intelligence agencies",
     "legitimate remote monitoring",
-    "msps strengthen resilience",
+    "service ddos attacks",
     "concept exploits appeared",
+    "bypass user authentication",
     "authentication bypass flaw",
+    "steal authentication tokens",
     "twitter whistleblower complaint",
+    "specially crafted message",
+    "msps strengthen resilience",
     "internal support portal",
     "income tax department",
     "aggravated identity theft",
-    "5 000 workers",
+    "actively exploited flaw",
     "130 companies tangled",
     "massive ddos attacks",
     "management rmm tools",
-    "related software including",
-    "identity centric security",
-    "acquire astrix security"
+    "5 000 workers"
   ],
   "trending": [
     {
       "keyword": "digicert revokes certificates",
-      "mentions": 8
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 458
-    },
-    {
-      "keyword": "specially crafted message",
-      "mentions": 46
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 62
+      "mentions": 9
     },
     {
       "keyword": "moveit automation including",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 459
     },
     {
       "keyword": "legitimate remote monitoring",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "msps strengthen resilience",
-      "mentions": 8
+      "keyword": "service ddos attacks",
+      "mentions": 63
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "bypass user authentication",
+      "mentions": 39
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 27
+      "mentions": 28
+    },
+    {
+      "keyword": "steal authentication tokens",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1542
+      "mentions": 1543
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
+      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
+      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
+      "published": "Tue, 05 May 2026 14:37:00 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
+      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
+      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the \"/papi/esearch/data/devops/",
+      "published": "Tue, 05 May 2026 13:07:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "RCE ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Details Phishing Campaign Targeting 35,000 Users Across 26 Countries",
+      "link": "https://thehackernews.com/2026/05/microsoft-details-phishing-campaign.html",
+      "summary": "Microsoft has disclosed details of a large-scale credential theft campaign that has leveraged a combination of code of conduct-themed lures and legitimate email services to direct users to attacker-controlled domains and steal authentication tokens. The multi-stage campaign, observed between April 14 and 16, 2026, targeted more than 35,000 users across over 13,000 organizations in 26 countries,",
+      "published": "Tue, 05 May 2026 12:05:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Phishing Campaign Hits 80+ Orgs Using SimpleHelp and ScreenConnect RMM Tools",
@@ -125,40 +163,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical cPanel Vulnerability Weaponized to Target Government and MSP Networks",
-      "link": "https://thehackernews.com/2026/05/critical-cpanel-vulnerability.html",
-      "summary": "A previously unknown threat actor has been observed targeting government and military entities in Southeast Asia, alongside a smaller cluster of managed service providers (MSPs) and hosting providers in the Philippines, Laos, Canada, South Africa, and the U.S., by exploiting the recently disclosed vulnerability in cPanel. The activity, detected by Ctrl-Alt-Intel on May 2, 2026, involves the",
-      "published": "Mon, 04 May 2026 14:57:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "ScarCruft hackers push BirdCall Android malware via game platform",
+      "link": "https://www.bleepingcomputer.com/news/security/scarcruft-hackers-push-birdcall-android-malware-via-game-platform/",
+      "summary": "The North Korean hacker group APT37 has been delivering an Android version of a backdoor called BirdCall in a supply-chain attack through a video game platform. [...]",
+      "published": "Tue, 05 May 2026 05:04:13 -0400",
+      "value_score": 22,
       "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M",
-      "link": "https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html",
-      "summary": "A coordinated international operation involving U.S. and Chinese authorities has arrested at least 276 suspects and shut down nine scam centers used for cryptocurrency investment fraud schemes targeting Americans, resulting in millions of dollars in losses. The crackdown was led by the Dubai Police, under the United Arab Emirates (UAE) Ministry of Interior, in partnership with the U.S. Federal",
-      "published": "Mon, 04 May 2026 11:29:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a recently disclosed security flaw impacting various Linux distributions to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The vulnerability, tracked as CVE-2026-31431 (CVSS score: 7.8), is a case of local privilege escalation (LPE) flaw that could allow an",
-      "published": "Sun, 03 May 2026 11:56:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "Privilege escalation",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Backdoor"
       ]
     },
     {
@@ -237,20 +249,6 @@
       "published": "Mon, 04 May 2026 08:16:24 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA says ‘Copy Fail’ flaw now exploited to root Linux systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-says-copy-fail-flaw-now-exploited-to-root-linux-systems/",
-      "summary": "CISA has warned that threat actors have started exploiting the \"Copy Fail\" Linux security vulnerability in the wild, one day after Theori researchers disclosed it and shared a proof-of-concept (PoC) exploit. [...]",
-      "published": "Mon, 04 May 2026 07:28:15 -0400",
-      "value_score": 91,
-      "value_signals": [
-        "Active exploitation",
-        "PoC available",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -419,6 +417,24 @@
     },
     {
       "source": "Security Week",
+      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
+      "link": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
+      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 09:27:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities",
+      "link": "https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/",
+      "summary": "The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year. The post WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 05 May 2026 09:01:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks",
       "link": "https://www.securityweek.com/cisco-moves-to-acquire-astrix-security-to-tackle-non-human-identity-risks/",
       "summary": "The acquisition strengthens Cisco’s push into identity-centric security for AI and machine access. The post Cisco Moves to Acquire Astrix Security to Tackle Non-Human Identity Risks appeared first on SecurityWeek .",
@@ -474,30 +490,6 @@
       "published": "Mon, 04 May 2026 09:29:30 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 40,000 Servers Compromised in Ongoing cPanel Exploitation",
-      "link": "https://www.securityweek.com/over-40000-servers-compromised-in-ongoing-cpanel-exploitation/",
-      "summary": "The attacks likely target CVE-2026-41940, a recently patched zero-day leading to administrative access. The post Over 40,000 Servers Compromised in Ongoing cPanel Exploitation appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 08:25:04 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats",
-      "link": "https://www.securityweek.com/edtech-firm-instructure-discloses-data-breach/",
-      "summary": "Hackers disrupted services and stole names, email addresses, student ID numbers, and user messages. The post Edtech Firm Instructure Discloses Data Breach Amid Hacker Leak Threats appeared first on SecurityWeek .",
-      "published": "Mon, 04 May 2026 07:02:51 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×4"
-      ]
     },
     {
       "source": "Threatpost",

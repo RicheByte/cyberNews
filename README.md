@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-05 06:11 UTC |
+| 🕐 Last Updated | 2026-05-05 09:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`digicert revokes certificates` • `iran's intelligence agencies` • `specially crafted message` • `service ddos attacks` • `moveit automation including` • `legitimate remote monitoring` • `msps strengthen resilience` • `concept exploits appeared` • `authentication bypass flaw` • `twitter whistleblower complaint`
+`digicert revokes certificates` • `moveit automation including` • `iran's intelligence agencies` • `legitimate remote monitoring` • `service ddos attacks` • `concept exploits appeared` • `bypass user authentication` • `authentication bypass flaw` • `steal authentication tokens` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

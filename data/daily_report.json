@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-05-06 10:12",
+  "last_updated": "2026-05-06 13:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "critical severity vulnerabilities",
-    "remote code execution",
-    "concept exploits appeared",
-    "authentication bypass flaw",
-    "pixel binary transparency",
     "palo alto networks",
+    "remote code execution",
+    "pixel binary transparency",
     "captive portal service",
     "service ddos attacks",
-    "security product's controls",
+    "romanian man extradited",
     "twitter whistleblower complaint",
+    "startup will invest",
     "south america since",
+    "schools local governments",
     "opc ua protocol",
-    "online education platforms",
     "iran's intelligence agencies",
     "http server including",
-    "facilitating credential theft",
-    "episode looks back",
-    "designed giving attackers",
+    "history making event",
+    "gartner market guide",
+    "daemon tools trojanized",
     "company's public image",
-    "arbitrary code execution"
+    "biggest newsmaking events",
+    "abb awin gateways"
   ],
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 21
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 322
-    },
-    {
-      "keyword": "concept exploits appeared",
-      "mentions": 14
-    },
-    {
-      "keyword": "authentication bypass flaw",
-      "mentions": 37
-    },
-    {
-      "keyword": "pixel binary transparency",
-      "mentions": 1
+      "mentions": 22
     },
     {
       "keyword": "palo alto networks",
-      "mentions": 15
+      "mentions": 16
     },
     {
-      "keyword": "captive portal service",
+      "keyword": "remote code execution",
+      "mentions": 323
+    },
+    {
+      "keyword": "pixel binary transparency",
       "mentions": 2
     },
     {
-      "keyword": "service ddos attacks",
-      "mentions": 72
+      "keyword": "captive portal service",
+      "mentions": 3
     },
     {
-      "keyword": "security product's controls",
-      "mentions": 5
+      "keyword": "service ddos attacks",
+      "mentions": 73
+    },
+    {
+      "keyword": "romanian man extradited",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1552
+      "mentions": 1553
+    },
+    {
+      "keyword": "startup will invest",
+      "mentions": 17
+    },
+    {
+      "keyword": "south america since",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
+      "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
+      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 — even when it’s hard. Most of the time, this work is",
+      "published": "Wed, 06 May 2026 17:33:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
+      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
+      "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.” Enterprise leaders can request access to the Gartner Market Guide for",
+      "published": "Wed, 06 May 2026 16:27:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
@@ -137,27 +155,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
-      "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-      "summary": "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Your MFA doesn't stop it. And when an attacker gets hold of one, they don't need a password. OAuth",
-      "published": "Tue, 05 May 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
+      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
+      "published": "Wed, 06 May 2026 09:02:52 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution. \"MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code",
-      "published": "Tue, 05 May 2026 17:26:00 +0530",
-      "value_score": 88,
+      "source": "BleepingComputer",
+      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
+      "summary": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
+      "published": "Wed, 06 May 2026 08:56:32 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Patch/update ×2"
       ]
     },
     {
@@ -224,28 +240,6 @@
       "published": "Tue, 05 May 2026 10:39:53 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The EOL Blind Spot in Your CVE Feed: What SCA Tools Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-eol-blind-spot-in-your-cve-feed-what-sca-tools-miss/",
-      "summary": "Critical vulnerabilities can exist in open source software your scanners don't check. HeroDevs reveals how EOL software creates blind spots in CVE feeds and SCA tools, and how you can receive a free end-of-life scan for your projects. [...]",
-      "published": "Tue, 05 May 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vimeo data breach exposes personal information of 119,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/vimeo-data-breach-exposes-personal-information-of-119-000-people/",
-      "summary": "The ShinyHunters extortion gang stole personal information belonging to over 119,000 people after hacking the Vimeo online video platform in April, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "Tue, 05 May 2026 09:03:46 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -334,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
+      "link": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
+      "summary": "As part of its 20th anniversary celebration, Dark Reading looks back on 20 of the biggest newsmaking events from the past two decades that influenced the risk landscape for today's cybersecurity teams.",
+      "published": "Wed, 06 May 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
       "summary": "As the war with Iran continues, breach attempts targeting the United Arab Emirates tripled in a few weeks — many targeting critical infrastructure.",
@@ -354,6 +357,24 @@
       "value_signals": [
         "Breach/leak"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations",
+      "link": "https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations",
+      "summary": "The UC Berkeley Center for Long-Term Cybersecurity (CLTC) offers tools and support to schools, local governments, and non-profits as they defend themselves against a growing volume of cyberattacks.",
+      "published": "Tue, 05 May 2026 20:00:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Why Security Leadership Makes or Breaks a Pen Test",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests",
+      "summary": "Well-run security drills go beyond checking audit boxes to identify and address trouble spots. Effective leaders can ensure proper scope, access, and follow-through, but it’s not easy.",
+      "published": "Tue, 05 May 2026 18:36:34 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -386,38 +407,44 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "RMM Tools Fuel Stealthy Phishing Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
-      "summary": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
-      "published": "Mon, 04 May 2026 20:56:34 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "Herd Security Raises $3 Million for AI-Powered Training Platform",
+      "link": "https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/",
+      "summary": "The startup will invest in expanding its training categories, optimizing video generation, and growing its partnership ecosystem. The post Herd Security Raises $3 Million for AI-Powered Training Platform appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 13:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Iranian APT Intrusion Masquerades as Chaos Ransomware Attack",
+      "link": "https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/",
+      "summary": "Likely perpetrated by MuddyWater, the attack combined social engineering, persistence, credential harvesting, and data theft. The post Iranian APT Intrusion Masquerades as Chaos Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 13:00:00 +0000",
+      "value_score": 46,
       "value_signals": [
-        "Phishing"
+        "Ransomware ×2"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
-      "link": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
-      "summary": "Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.",
-      "published": "Mon, 04 May 2026 19:14:14 GMT",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "High severity",
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago",
+      "link": "https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/",
+      "summary": "Gavril Sandu, 53, was indicted in 2017, but was arrested and extradited to the United States only in 2026. The post Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 11:57:40 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
-      "link": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
-      "summary": "More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
-      "published": "Mon, 04 May 2026 14:39:26 GMT",
-      "value_score": 22,
+      "source": "Security Week",
+      "title": "CISA: Critical Infrastructure Must Master Isolation, Recovery",
+      "link": "https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/",
+      "summary": "The agency has issued guidance to help critical infrastructure operators prepare for cyberattacks by foreign threat actors. The post CISA: Critical Infrastructure Must Master Isolation, Recovery appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 10:15:34 +0000",
+      "value_score": 66,
       "value_signals": [
-        "Backdoor"
+        "CISA/KEV ×2",
+        "High severity ×3"
       ]
     },
     {
@@ -463,52 +490,6 @@
         "CVE mentioned",
         "Zero-day ×2",
         "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations",
-      "link": "https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/",
-      "summary": "The malicious emails claim to contain a conduct report and lure victims to a Microsoft phishing website that leverages AitM. The post Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 14:45:04 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Joey Melo on Hacking AI",
-      "link": "https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/",
-      "summary": "AI red team specialist details his methods for manipulating AI guardrails through jailbreaking and data poisoning, helping developers harden machine learning models. The post Hacker Conversations: Joey Melo on Hacking AI appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 13:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft",
-      "link": "https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/",
-      "summary": "Dubbed Bleeding Llama, the heap out-of-bounds read issue can be exploited remotely, without authentication. The post Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 12:39:36 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Remote Code Execution Vulnerability Patched in Android",
-      "link": "https://www.securityweek.com/critical-remote-code-execution-vulnerability-patched-in-android-2/",
-      "summary": "CVE-2026-0073 affects Android’s System component and it can be exploited without any user interaction. The post Critical Remote Code Execution Vulnerability Patched in Android appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 11:58:44 +0000",
-      "value_score": 90,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity ×2",
         "Exploit wording"
       ]
     },

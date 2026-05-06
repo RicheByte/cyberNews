@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1552,
+      "count": 1553,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -674,7 +674,7 @@
       ]
     },
     "remote code execution": {
-      "count": 322,
+      "count": 323,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -5452,7 +5452,7 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -6281,7 +6281,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7515,7 +7515,7 @@
       ]
     },
     "palo alto networks": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-18",
         "2026-02-19",
@@ -10463,12 +10463,13 @@
       ]
     },
     "startup will invest": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-18",
         "2026-03-19",
         "2026-03-26",
-        "2026-03-27"
+        "2026-03-27",
+        "2026-05-06"
       ]
     },
     "send crypto scams": {
@@ -10774,7 +10775,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 468,
+      "count": 469,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -15214,7 +15215,7 @@
       ]
     },
     "south america since": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15241,7 +15242,7 @@
       ]
     },
     "http server including": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15254,14 +15255,14 @@
       ]
     },
     "opc ua protocol": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "abb awin gateways": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15302,13 +15303,13 @@
       ]
     },
     "captive portal service": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-06"
       ]
     },
     "pixel binary transparency": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-06"
       ]
@@ -15320,6 +15321,42 @@
       ]
     },
     "company's public image": {
+      "count": 2,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "romanian man extradited": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "schools local governments": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "history making event": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "gartner market guide": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "daemon tools trojanized": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "biggest newsmaking events": {
       "count": 1,
       "dates": [
         "2026-05-06"
@@ -15327,17 +15364,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-25 16:35",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "remove system packages",
-        "government entities universities"
-      ]
-    },
     {
       "timestamp": "2026-04-25 18:42",
       "articles": 56,
@@ -16425,6 +16451,17 @@
         "concept exploits appeared",
         "authentication bypass flaw",
         "pixel binary transparency"
+      ]
+    },
+    {
+      "timestamp": "2026-05-06 13:55",
+      "articles": 56,
+      "top_keywords": [
+        "critical severity vulnerabilities",
+        "palo alto networks",
+        "remote code execution",
+        "pixel binary transparency",
+        "captive portal service"
       ]
     }
   ]

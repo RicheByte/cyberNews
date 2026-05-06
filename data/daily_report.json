@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-05-06 21:06",
+  "last_updated": "2026-05-06 22:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "critical severity vulnerabilities",
     "remote code execution",
     "pixel binary transparency",
+    "managewp godaddy's platform",
     "iran's intelligence agencies",
     "false flag operation",
     "otps cybersecurity researchers",
@@ -18,7 +19,6 @@
     "startup will invest",
     "opc ua protocol",
     "http server including",
-    "history making event",
     "gartner market guide",
     "company's public image",
     "biggest newsmaking events",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "remote code execution",
-      "mentions": 327
+      "mentions": 328
     },
     {
       "keyword": "pixel binary transparency",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 473
-    },
-    {
-      "keyword": "false flag operation",
-      "mentions": 4
-    },
-    {
-      "keyword": "otps cybersecurity researchers",
+      "keyword": "managewp godaddy's platform",
       "mentions": 1
     },
     {
-      "keyword": "romanian man extradited",
+      "keyword": "iran's intelligence agencies",
+      "mentions": 474
+    },
+    {
+      "keyword": "false flag operation",
       "mentions": 5
     },
     {
+      "keyword": "otps cybersecurity researchers",
+      "mentions": 2
+    },
+    {
+      "keyword": "romanian man extradited",
+      "mentions": 6
+    },
+    {
       "keyword": "service ddos attacks",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 56
-    },
-    {
-      "keyword": "detect attacks hackers",
-      "mentions": 4
+      "mentions": 57
     }
   ],
   "articles": [
@@ -159,6 +159,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
+      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
+      "published": "Wed, 06 May 2026 17:36:06 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
       "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
       "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
@@ -233,17 +244,6 @@
         "RCE",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New stealthy Quasar Linux malware targets software developers",
-      "link": "https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/",
-      "summary": "A previously undocumented Linux implant named Quasar Linux (QLNX) is targeting developers' systems with a mix of rootkit, backdoor, and credential-stealing capabilities. [...]",
-      "published": "Tue, 05 May 2026 18:01:39 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {
@@ -333,6 +333,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
+      "link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
+      "summary": "Authors of the VoidStealer Trojan uncovered a way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
+      "published": "Wed, 06 May 2026 21:19:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Instructure Breach Exposes Schools' Vendor Dependence",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
+      "summary": "ShinyHunters' attack on Instructure, which owns the widely used Canvas learning management system (LMS), carries big questions about the trust educational institutions put into their vendors.",
+      "published": "Wed, 06 May 2026 21:02:57 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
       "link": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
       "summary": "As part of its 20th anniversary celebration, Dark Reading looks back on 20 of the biggest newsmaking events from the past two decades that influenced the risk landscape for today's cybersecurity teams.",
@@ -385,29 +405,8 @@
       "source": "Dark Reading",
       "title": "Why Security Leadership Makes or Breaks a Pen Test",
       "link": "https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests",
-      "summary": "Well-run security drills go beyond checking audit boxes to identify and address trouble spots. Effective leaders can ensure proper scope, access, and follow-through, but it’s not easy.",
+      "summary": "Well-run security drills go beyond checking audit boxes to identifying and addressing trouble spots. Effective leaders ensure proper scope, access, and follow-through, but it's not easy.",
       "published": "Tue, 05 May 2026 18:36:34 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
-      "link": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
-      "summary": "A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
-      "published": "Tue, 05 May 2026 14:57:51 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How the Story of a USB Penetration Test Went Viral",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
-      "summary": "Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling rigged thumb drives around a credit union parking lot and following what curious employees did next. This episode looks back at the history-making event.",
-      "published": "Tue, 05 May 2026 11:56:15 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-06 21:06 UTC  
+> **Last Updated:** 2026-05-06 22:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **otps cybersecurity researchers** • **romanian man extradited** • **service ddos attacks** • **massive ddos attacks** • **detect attacks hackers** • **today's cybersecurity teams** • **twitter whistleblower complaint** • **startup will invest** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed**
+**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **managewp godaddy's platform** • **iran's intelligence agencies** • **false flag operation** • **otps cybersecurity researchers** • **romanian man extradited** • **service ddos attacks** • **massive ddos attacks** • **detect attacks hackers** • **today's cybersecurity teams** • **twitter whistleblower complaint** • **startup will invest** • **opc ua protocol** • **http server including** • **gartner market guide** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
 - [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
 - [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
 - [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
@@ -34,7 +35,6 @@
 - [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
 - [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
 - [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
-- [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Yet Another Way to Bypass Google Chrome's Encryption Protection](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
+- [Instructure Breach Exposes Schools' Vendor Dependence](https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence)
 - [From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber](https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber)
 - [Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA](https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa)
 - [Middle East Cyber Battle Field Broadens — Especially in UAE](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae)
 - [Trellix Source Code Breach Highlights Growing Supply Chain Threats](https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats)
 - [Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations](https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations)
 - [Why Security Leadership Makes or Breaks a Pen Test](https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests)
-- [Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk](https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk)
-- [How the Story of a USB Penetration Test Went Viral](https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral)
 
 ### Security Week
 

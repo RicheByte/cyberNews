@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 17:48",
+  "last_updated": "2026-05-06 19:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,12 +8,10 @@
     "pixel binary transparency",
     "iran's intelligence agencies",
     "false flag operation",
-    "service ddos attacks",
     "romanian man extradited",
     "twitter whistleblower complaint",
+    "things iot devices",
     "startup will invest",
-    "schools local governments",
-    "prepare critical infrastructure",
     "opc ua protocol",
     "http server including",
     "history making event",
@@ -22,48 +20,50 @@
     "company's public image",
     "biggest newsmaking events",
     "analysts recently confirmed",
-    "abb awin gateways"
+    "130 companies tangled",
+    "today's cybersecurity teams",
+    "service ddos attacks"
   ],
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "remote code execution",
-      "mentions": 325
+      "mentions": 326
     },
     {
       "keyword": "pixel binary transparency",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 471
+      "mentions": 472
     },
     {
       "keyword": "false flag operation",
-      "mentions": 2
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 75
+      "mentions": 3
     },
     {
       "keyword": "romanian man extradited",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1555
+      "mentions": 1556
+    },
+    {
+      "keyword": "things iot devices",
+      "mentions": 248
     },
     {
       "keyword": "startup will invest",
-      "mentions": 19
+      "mentions": 20
     },
     {
-      "keyword": "schools local governments",
-      "mentions": 3
+      "keyword": "opc ua protocol",
+      "mentions": 10
     }
   ],
   "articles": [
@@ -156,6 +156,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
+      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
+      "published": "Wed, 06 May 2026 14:38:38 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
+      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
+      "published": "Wed, 06 May 2026 14:06:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DAEMON Tools devs confirm breach, release malware-free version",
       "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
       "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
@@ -221,28 +241,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Instructure hacker claims data theft from 8,800 schools, universities",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/",
-      "summary": "The hacker behind a breach at education technology giant Instructure claims to have stolen 280 million data records for students and staff from 8,809 colleges, school districts, and online education platforms. [...]",
-      "published": "Tue, 05 May 2026 17:20:23 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DAEMON Tools trojanized in supply-chain attack to deploy backdoor",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/",
-      "summary": "Hackers trojanized installers for the DAEMON Tools software and since April 8, delivered a backdoor to thousands of systems that downloaded the product from the official website. [...]",
-      "published": "Tue, 05 May 2026 15:21:18 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
       ]
     },
     {
@@ -577,15 +575,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB B&R Automation Studio",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&R Automation Studio establishes a connection with a server via the ANSL over TLS or OPC-UA protocol. The following versions of ABB B&R Automation Studio are affected: Automation Studio <6.5, 6.5 (CVE-2025-11043) CVSS Vendor E",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 67,
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
+      "published": "Wed, 06 May 26 12:00:00 +0000",
+      "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "Patch/update",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
@@ -601,6 +599,20 @@
         "CVE mentioned ×2",
         "Patch/update",
         "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB B&R Automation Studio",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&R Automation Studio establishes a connection with a server via the ANSL over TLS or OPC-UA protocol. The following versions of ABB B&R Automation Studio are affected: Automation Studio <6.5, 6.5 (CVE-2025-11043) CVSS Vendor E",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -648,20 +660,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a li",
-      "published": "Fri, 01 May 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Careful Adoption of Agentic AI Services",
       "link": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
       "summary": "CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI) systems. This guide outlines key security challenges and risks associated with agentic AI, and provides actionable steps for designing, deploying, and operating these systems safely. It helps organizations align AI risk management with existing cybersecurity fr",
@@ -674,13 +672,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB AWIN Gateways",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to remotely reboot the device or complete an unauthenticated query to reveal system configuration, including sensitive details. The following versions of ABB AWIN Gateways are affected: ABB AWIN Firmware (2.0-0) installed on ABB AWIN GW100 rev.2 2.0-0 ABB AWIN Firmware (2.0-1) installed on ABB AWIN GW100 rev.2 2.0-1 ABB AWIN Firmware (1.2-0) installed on ABB AWIN GW120 1.2-0 ABB AWIN Firmware (1.2-1) insta",
-      "published": "Thu, 30 Apr 26 12:00:00 +0000",
-      "value_score": 41,
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a li",
+      "published": "Fri, 01 May 26 12:00:00 +0000",
+      "value_score": 99,
       "value_signals": [
         "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

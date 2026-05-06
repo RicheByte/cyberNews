@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-06 17:48 UTC  
+> **Last Updated:** 2026-05-06 19:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **service ddos attacks** • **romanian man extradited** • **twitter whistleblower complaint** • **startup will invest** • **schools local governments** • **prepare critical infrastructure** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **detect attacks hackers** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed** • **abb awin gateways**
+**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **romanian man extradited** • **twitter whistleblower complaint** • **things iot devices** • **startup will invest** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **detect attacks hackers** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed** • **130 companies tangled** • **today's cybersecurity teams** • **service ddos attacks**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
+- [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
 - [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
 - [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
 - [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
 - [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
 - [Palo Alto Networks warns of firewall RCE zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/)
 - [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
-- [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
-- [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03)
+- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04)
 - [Hitachi Energy PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01)
 - [Johnson Controls CEM AC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05)
 - [ABB B&R PVI](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Careful Adoption of Agentic AI Services](https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services)
-- [ABB AWIN Gateways](https://www.cisa.gov/news-events/ics-advisories/icsa-26-120-05)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 
 ---
 

@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1551,
+      "count": 1552,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -674,7 +674,7 @@
       ]
     },
     "remote code execution": {
-      "count": 321,
+      "count": 322,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1908,7 +1908,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2866,7 +2866,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -2898,7 +2898,8 @@
         "2026-04-23",
         "2026-04-29",
         "2026-04-30",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-06"
       ]
     },
     "authenticated remote attacker": {
@@ -5451,12 +5452,13 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-01-30",
         "2026-01-31",
         "2026-03-06",
-        "2026-03-07"
+        "2026-03-07",
+        "2026-05-06"
       ]
     },
     "path zero trust": {
@@ -6279,7 +6281,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7513,7 +7515,7 @@
       ]
     },
     "palo alto networks": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-18",
         "2026-02-19",
@@ -10772,7 +10774,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 467,
+      "count": 468,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -15159,7 +15161,7 @@
       ]
     },
     "concept exploits appeared": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-04",
         "2026-05-05",
@@ -15212,7 +15214,7 @@
       ]
     },
     "south america since": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15232,14 +15234,14 @@
       ]
     },
     "episode looks back": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "http server including": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15252,7 +15254,7 @@
       ]
     },
     "opc ua protocol": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15279,27 +15281,45 @@
       ]
     },
     "security product's controls": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "designed giving attackers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "online education platforms": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "captive portal service": {
+      "count": 2,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "pixel binary transparency": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "facilitating credential theft": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "company's public image": {
       "count": 1,
       "dates": [
         "2026-05-06"
@@ -15307,17 +15327,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-25 14:38",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "remove system packages",
-        "government entities universities",
-        "firestarter malware obtained"
-      ]
-    },
     {
       "timestamp": "2026-04-25 16:35",
       "articles": 56,
@@ -16405,6 +16414,17 @@
         "authentication bypass flaw",
         "palo alto networks",
         "http server including"
+      ]
+    },
+    {
+      "timestamp": "2026-05-06 10:12",
+      "articles": 56,
+      "top_keywords": [
+        "critical severity vulnerabilities",
+        "remote code execution",
+        "concept exploits appeared",
+        "authentication bypass flaw",
+        "pixel binary transparency"
       ]
     }
   ]

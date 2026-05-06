@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-05-06 06:26",
+  "last_updated": "2026-05-06 10:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "service ddos attacks",
+    "critical severity vulnerabilities",
+    "remote code execution",
     "concept exploits appeared",
     "authentication bypass flaw",
+    "pixel binary transparency",
     "palo alto networks",
-    "http server including",
-    "remote code execution",
-    "video game platform",
-    "massive ddos attacks",
-    "aggravated identity theft",
+    "captive portal service",
+    "service ddos attacks",
     "security product's controls",
     "twitter whistleblower complaint",
     "south america since",
     "opc ua protocol",
     "online education platforms",
-    "captive portal service",
-    "abb awin gateways",
-    "1 5 million",
-    "scaling back payouts",
-    "pvi client application",
-    "iran's intelligence agencies"
+    "iran's intelligence agencies",
+    "http server including",
+    "facilitating credential theft",
+    "episode looks back",
+    "designed giving attackers",
+    "company's public image",
+    "arbitrary code execution"
   ],
   "trending": [
     {
-      "keyword": "service ddos attacks",
-      "mentions": 71
-    },
-    {
-      "keyword": "concept exploits appeared",
-      "mentions": 13
-    },
-    {
-      "keyword": "authentication bypass flaw",
-      "mentions": 36
-    },
-    {
-      "keyword": "palo alto networks",
-      "mentions": 14
-    },
-    {
-      "keyword": "http server including",
-      "mentions": 6
+      "keyword": "critical severity vulnerabilities",
+      "mentions": 21
     },
     {
       "keyword": "remote code execution",
-      "mentions": 321
+      "mentions": 322
     },
     {
-      "keyword": "video game platform",
-      "mentions": 7
+      "keyword": "concept exploits appeared",
+      "mentions": 14
     },
     {
-      "keyword": "massive ddos attacks",
-      "mentions": 55
+      "keyword": "authentication bypass flaw",
+      "mentions": 37
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 70
+      "keyword": "pixel binary transparency",
+      "mentions": 1
+    },
+    {
+      "keyword": "palo alto networks",
+      "mentions": 15
+    },
+    {
+      "keyword": "captive portal service",
+      "mentions": 2
+    },
+    {
+      "keyword": "service ddos attacks",
+      "mentions": 72
     },
     {
       "keyword": "security product's controls",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1552
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
+      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
+      "published": "Wed, 06 May 2026 14:43:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
+      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
+      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
+      "published": "Wed, 06 May 2026 14:04:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
+      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
+      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
+      "published": "Wed, 06 May 2026 11:44:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
@@ -126,38 +161,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "summary": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security. In the wake of the",
-      "published": "Tue, 05 May 2026 16:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "summary": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
-      "published": "Tue, 05 May 2026 14:37:00 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
+      "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
+      "published": "Wed, 06 May 2026 05:18:16 -0400",
+      "value_score": 69,
       "value_signals": [
-        "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Weaver E-cology RCE Flaw CVE-2026-22679 Actively Exploited via Debug API",
-      "link": "https://thehackernews.com/2026/05/weaver-e-cology-rce-flaw-cve-2026-22679.html",
-      "summary": "A critical security vulnerability in Weaver (Fanwei) E-cology, an enterprise office automation (OA) and collaboration platform, has come under active exploitation in the wild. The vulnerability (CVE-2026-22679, CVSS score: 9.8) relates to a case of unauthenticated remote code execution affecting Weaver E-cology 10.0 versions prior to 20260312. The issue resides in the \"/papi/esearch/data/devops/",
-      "published": "Tue, 05 May 2026 13:07:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "RCE ×2",
+        "Zero-day",
+        "RCE",
         "High severity",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     },
@@ -232,17 +245,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google now offers up to $1.5 million for some Android exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/google-now-offers-up-to-15-million-for-some-android-exploits/",
-      "summary": "Google overhauls its Android and Chrome vulnerability rewards programs, offering bounties of up to $1.5 million for the most difficult exploits while scaling back payouts for flaws that artificial intelligence (AI) has made easier to find. [...]",
-      "published": "Tue, 05 May 2026 07:24:48 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -420,6 +422,38 @@
     },
     {
       "source": "Security Week",
+      "title": "Sophisticated Quasar Linux RAT Targets Software Developers",
+      "link": "https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/",
+      "summary": "The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities. The post Sophisticated Quasar Linux RAT Targets Software Developers appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 09:48:39 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack",
+      "link": "https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/",
+      "summary": "While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems. The post Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 08:33:40 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Oracle Debuts Monthly Critical Security Patch Updates",
+      "link": "https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/",
+      "summary": "Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster. The post Oracle Debuts Monthly Critical Security Patch Updates appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 06:32:17 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls",
       "link": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
       "summary": "CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls. The post Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls appeared first on SecurityWeek .",
@@ -477,37 +511,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server",
-      "link": "https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/",
-      "summary": "The most severe of these security defects could allow remote attackers to execute arbitrary code. The post Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 11:19:59 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Karakurt Ransomware Negotiator Sentenced to Prison",
-      "link": "https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/",
-      "summary": "Deniss Zolotarjovs was directly involved in extortion strategies and in negotiations with victim companies. The post Karakurt Ransomware Negotiator Sentenced to Prison appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 10:55:00 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
-      "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 09:27:14 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

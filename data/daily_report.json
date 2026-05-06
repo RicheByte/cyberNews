@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-05-06 02:26",
+  "last_updated": "2026-05-06 06:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "service ddos attacks",
-    "authentication bypass flaw",
     "concept exploits appeared",
+    "authentication bypass flaw",
+    "palo alto networks",
     "http server including",
     "remote code execution",
     "video game platform",
@@ -16,54 +17,53 @@
     "south america since",
     "opc ua protocol",
     "online education platforms",
+    "captive portal service",
     "abb awin gateways",
     "1 5 million",
     "scaling back payouts",
     "pvi client application",
-    "iran's intelligence agencies",
-    "episode looks back",
-    "designed giving attackers"
+    "iran's intelligence agencies"
   ],
   "trending": [
     {
       "keyword": "service ddos attacks",
-      "mentions": 70
-    },
-    {
-      "keyword": "authentication bypass flaw",
-      "mentions": 35
+      "mentions": 71
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "authentication bypass flaw",
+      "mentions": 36
+    },
+    {
+      "keyword": "palo alto networks",
+      "mentions": 14
     },
     {
       "keyword": "http server including",
-      "mentions": 5
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 320
-    },
-    {
-      "keyword": "video game platform",
       "mentions": 6
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 321
+    },
+    {
+      "keyword": "video game platform",
+      "mentions": 7
+    },
+    {
       "keyword": "massive ddos attacks",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "security product's controls",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1550
+      "mentions": 4
     }
   ],
   "articles": [
@@ -332,6 +332,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
+      "summary": "As the war with Iran continues, breach attempts targeting the United Arab Emirates tripled in a few weeks — many targeting critical infrastructure.",
+      "published": "Wed, 06 May 2026 05:30:00 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "Breach/leak",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
       "summary": "Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
@@ -407,13 +419,18 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "How Dark Reading Lifted Off the Launchpad in 2006",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006",
-      "summary": "Twenty years ago, this media brand didn't have a print edition to attract eyeballs and sponsors. Top-notch content and editorial talent did the heavy lifting.",
-      "published": "Mon, 04 May 2026 11:15:08 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls",
+      "link": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
+      "summary": "CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls. The post Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 04:46:23 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -489,15 +506,6 @@
       "link": "https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/",
       "summary": "The security defects allow unauthenticated, remote attackers to execute arbitrary code through crafted requests. The post MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs appeared first on SecurityWeek .",
       "published": "Tue, 05 May 2026 09:27:14 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities",
-      "link": "https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/",
-      "summary": "The vulnerabilities were reported to Meta through its bug bounty program and were patched with updates released earlier this year. The post WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 05 May 2026 09:01:14 +0000",
       "value_score": 10,
       "value_signals": []
     },

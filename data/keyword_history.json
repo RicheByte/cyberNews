@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1550,
+      "count": 1551,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -674,7 +674,7 @@
       ]
     },
     "remote code execution": {
-      "count": 320,
+      "count": 321,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1908,7 +1908,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -6279,7 +6279,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7513,10 +7513,11 @@
       ]
     },
     "palo alto networks": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-18",
-        "2026-02-19"
+        "2026-02-19",
+        "2026-05-06"
       ]
     },
     "darknet drug ring": {
@@ -10771,7 +10772,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 466,
+      "count": 467,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13779,7 +13780,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14822,7 +14823,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14979,7 +14980,7 @@
       ]
     },
     "1 5 million": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-01",
         "2026-05-02",
@@ -15158,7 +15159,7 @@
       ]
     },
     "concept exploits appeared": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-04",
         "2026-05-05",
@@ -15192,7 +15193,7 @@
       ]
     },
     "video game platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15211,7 +15212,7 @@
       ]
     },
     "south america since": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15224,7 +15225,7 @@
       ]
     },
     "scaling back payouts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15238,7 +15239,7 @@
       ]
     },
     "http server including": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15251,21 +15252,21 @@
       ]
     },
     "opc ua protocol": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "abb awin gateways": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "pvi client application": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15278,7 +15279,7 @@
       ]
     },
     "security product's controls": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15292,25 +15293,20 @@
       ]
     },
     "online education platforms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05",
+        "2026-05-06"
+      ]
+    },
+    "captive portal service": {
+      "count": 1,
+      "dates": [
         "2026-05-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-25 12:54",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "remove system packages",
-        "government entities universities",
-        "firestarter malware obtained"
-      ]
-    },
     {
       "timestamp": "2026-04-25 14:38",
       "articles": 56,
@@ -16398,6 +16394,17 @@
         "concept exploits appeared",
         "http server including",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-05-06 06:26",
+      "articles": 56,
+      "top_keywords": [
+        "service ddos attacks",
+        "concept exploits appeared",
+        "authentication bypass flaw",
+        "palo alto networks",
+        "http server including"
       ]
     }
   ]

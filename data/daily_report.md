@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-06 02:26 UTC  
+> **Last Updated:** 2026-05-06 06:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**service ddos attacks** • **authentication bypass flaw** • **concept exploits appeared** • **http server including** • **remote code execution** • **video game platform** • **massive ddos attacks** • **aggravated identity theft** • **security product's controls** • **twitter whistleblower complaint** • **south america since** • **opc ua protocol** • **online education platforms** • **abb awin gateways** • **1 5 million** • **scaling back payouts** • **pvi client application** • **iran's intelligence agencies** • **episode looks back** • **designed giving attackers**
+**service ddos attacks** • **concept exploits appeared** • **authentication bypass flaw** • **palo alto networks** • **http server including** • **remote code execution** • **video game platform** • **massive ddos attacks** • **aggravated identity theft** • **security product's controls** • **twitter whistleblower complaint** • **south america since** • **opc ua protocol** • **online education platforms** • **captive portal service** • **abb awin gateways** • **1 5 million** • **scaling back payouts** • **pvi client application** • **iran's intelligence agencies**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Middle East Cyber Battle Field Broadens — Especially in UAE](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae)
 - [Trellix Source Code Breach Highlights Growing Supply Chain Threats](https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats)
 - [Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk](https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk)
 - [How the Story of a USB Penetration Test Went Viral](https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral)
@@ -56,10 +57,10 @@
 - [RMM Tools Fuel Stealthy Phishing Campaign](https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign)
 - [Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability](https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability)
 - [Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia](https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia)
-- [How Dark Reading Lifted Off the Launchpad in 2006](https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006)
 
 ### Security Week
 
+- [Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls](https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/)
 - [Microsoft Warns of Sophisticated Phishing Campaign Targeting US Organizations](https://www.securityweek.com/microsoft-warns-of-sophisticated-phishing-campaign-targeting-us-organizations/)
 - [Hacker Conversations: Joey Melo on Hacking AI](https://www.securityweek.com/hacker-conversations-joey-melo-on-hacking-ai/)
 - [Critical Bug Could Expose 300,000 Ollama Deployments to Information Theft](https://www.securityweek.com/critical-bug-could-expose-300000-ollama-deployments-to-information-theft/)
@@ -67,7 +68,6 @@
 - [Critical, High-Severity Vulnerabilities Patched in Apache MINA, HTTP Server](https://www.securityweek.com/critical-high-severity-vulnerabilities-patched-in-apache-mina-http-server/)
 - [Karakurt Ransomware Negotiator Sentenced to Prison](https://www.securityweek.com/karakurt-ransomware-negotiator-sentenced-to-prison/)
 - [MetInfo, Weaver E-cology Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/metinfo-weaver-e-cology-vulnerabilities-in-attackers-crosshairs/)
-- [WhatsApp Discloses File Spoofing, Arbitrary URL Scheme Vulnerabilities](https://www.securityweek.com/whatsapp-discloses-file-spoofing-arbitrary-url-scheme-vulnerabilities/)
 
 ### Threatpost
 

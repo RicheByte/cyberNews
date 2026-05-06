@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 16:00",
+  "last_updated": "2026-05-06 17:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,57 +13,57 @@
     "twitter whistleblower complaint",
     "startup will invest",
     "schools local governments",
+    "prepare critical infrastructure",
     "opc ua protocol",
     "http server including",
     "history making event",
     "gartner market guide",
     "detect attacks hackers",
-    "daemon tools trojanized",
     "company's public image",
     "biggest newsmaking events",
-    "abb awin gateways",
-    "130 companies tangled"
+    "analysts recently confirmed",
+    "abb awin gateways"
   ],
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "remote code execution",
-      "mentions": 324
+      "mentions": 325
     },
     {
       "keyword": "pixel binary transparency",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 470
+      "mentions": 471
     },
     {
       "keyword": "false flag operation",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "romanian man extradited",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1554
+      "mentions": 1555
     },
     {
       "keyword": "startup will invest",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "schools local governments",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DAEMON Tools devs confirm breach, release malware-free version",
+      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
+      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
+      "published": "Wed, 06 May 2026 12:43:30 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Why ransomware attacks succeed even when backups exist",
       "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
       "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
@@ -233,15 +244,6 @@
       "value_signals": [
         "Backdoor ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Student hacked Taiwan high-speed rail to trigger emergency brakes",
-      "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
-      "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
-      "published": "Tue, 05 May 2026 13:34:09 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -448,14 +450,14 @@
     },
     {
       "source": "Security Week",
-      "title": "CISA: Critical Infrastructure Must Master Isolation, Recovery",
+      "title": "CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict",
       "link": "https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/",
-      "summary": "The agency has issued guidance to help critical infrastructure operators prepare for cyberattacks by foreign threat actors. The post CISA: Critical Infrastructure Must Master Isolation, Recovery appeared first on SecurityWeek .",
+      "summary": "Agency issued guidance and calls on operators to build resilient OT environments capable of surviving extended isolation and cyber compromise. The post CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict appeared first on SecurityWeek .",
       "published": "Wed, 06 May 2026 10:15:34 +0000",
       "value_score": 66,
       "value_signals": [
         "CISA/KEV ×2",
-        "High severity ×3"
+        "High severity ×2"
       ]
     },
     {

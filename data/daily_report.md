@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-06 16:00 UTC  
+> **Last Updated:** 2026-05-06 17:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **service ddos attacks** • **romanian man extradited** • **twitter whistleblower complaint** • **startup will invest** • **schools local governments** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **detect attacks hackers** • **daemon tools trojanized** • **company's public image** • **biggest newsmaking events** • **abb awin gateways** • **130 companies tangled**
+**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **service ddos attacks** • **romanian man extradited** • **twitter whistleblower complaint** • **startup will invest** • **schools local governments** • **prepare critical infrastructure** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **detect attacks hackers** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed** • **abb awin gateways**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [DAEMON Tools devs confirm breach, release malware-free version](https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/)
 - [Why ransomware attacks succeed even when backups exist](https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/)
 - [MuddyWater hackers use Chaos ransomware as a decoy in attacks](https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/)
 - [Webinar: Why network incidents escalate and how to fix response gaps](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/)
@@ -34,7 +35,6 @@
 - [New stealthy Quasar Linux malware targets software developers](https://www.bleepingcomputer.com/news/security/new-stealthy-quasar-linux-malware-targets-software-developers/)
 - [Instructure hacker claims data theft from 8,800 schools, universities](https://www.bleepingcomputer.com/news/security/instructure-hacker-claims-data-theft-from-8-800-schools-universities/)
 - [DAEMON Tools trojanized in supply-chain attack to deploy backdoor](https://www.bleepingcomputer.com/news/security/daemon-tools-trojanized-in-supply-chain-attack-to-deploy-backdoor/)
-- [Student hacked Taiwan high-speed rail to trigger emergency brakes](https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/)
 
 ### Krebs on Security
 
@@ -64,7 +64,7 @@
 - [Herd Security Raises $3 Million for AI-Powered Training Platform](https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/)
 - [Iranian APT Intrusion Masquerades as Chaos Ransomware Attack](https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/)
 - [Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago](https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/)
-- [CISA: Critical Infrastructure Must Master Isolation, Recovery](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
+- [CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict](https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/)
 - [Sophisticated Quasar Linux RAT Targets Software Developers](https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/)
 - [Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack](https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/)
 - [Oracle Debuts Monthly Critical Security Patch Updates](https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/)

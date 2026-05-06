@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-06 13:55",
+  "last_updated": "2026-05-06 16:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "critical severity vulnerabilities",
-    "palo alto networks",
     "remote code execution",
     "pixel binary transparency",
-    "captive portal service",
+    "iran's intelligence agencies",
+    "false flag operation",
     "service ddos attacks",
     "romanian man extradited",
     "twitter whistleblower complaint",
     "startup will invest",
-    "south america since",
     "schools local governments",
     "opc ua protocol",
-    "iran's intelligence agencies",
     "http server including",
     "history making event",
     "gartner market guide",
+    "detect attacks hackers",
     "daemon tools trojanized",
     "company's public image",
     "biggest newsmaking events",
-    "abb awin gateways"
+    "abb awin gateways",
+    "130 companies tangled"
   ],
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 22
-    },
-    {
-      "keyword": "palo alto networks",
-      "mentions": 16
+      "mentions": 23
     },
     {
       "keyword": "remote code execution",
-      "mentions": 323
+      "mentions": 324
     },
     {
       "keyword": "pixel binary transparency",
-      "mentions": 2
-    },
-    {
-      "keyword": "captive portal service",
       "mentions": 3
     },
     {
-      "keyword": "service ddos attacks",
-      "mentions": 73
+      "keyword": "iran's intelligence agencies",
+      "mentions": 470
     },
     {
-      "keyword": "romanian man extradited",
+      "keyword": "false flag operation",
       "mentions": 1
     },
     {
+      "keyword": "service ddos attacks",
+      "mentions": 74
+    },
+    {
+      "keyword": "romanian man extradited",
+      "mentions": 2
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1553
+      "mentions": 1554
     },
     {
       "keyword": "startup will invest",
-      "mentions": 17
+      "mentions": 18
     },
     {
-      "keyword": "south america since",
-      "mentions": 8
+      "keyword": "schools local governments",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
+      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
+      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
+      "published": "Wed, 06 May 2026 18:30:00 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
@@ -144,14 +155,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked UAT-8302 Targets Governments Using Shared APT Malware Across Regions",
-      "link": "https://thehackernews.com/2026/05/china-linked-uat-8302-targets.html",
-      "summary": "A sophisticated China-nexus advanced persistent threat (APT) group has been attributed to attacks targeting government entities in South America since at least late 2024 and government agencies in southeastern Europe in 2025. The activity is being tracked by Cisco Talos under the moniker UAT-8302, with post-exploitation involving the deployment of custom-made malware families that have been put",
-      "published": "Tue, 05 May 2026 19:49:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Why ransomware attacks succeed even when backups exist",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
+      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
+      "published": "Wed, 06 May 2026 10:04:14 -0400",
+      "value_score": 46,
       "value_signals": [
-        "Exploit wording"
+        "Ransomware ×2"
       ]
     },
     {
@@ -229,15 +240,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/student-hacked-taiwan-high-speed-rail-to-trigger-emergency-brakes/",
       "summary": "A 23-year-old university student in Taiwan was arrested for interfering with the TETRA communication system used by the country's high-speed railway network (THSR). [...]",
       "published": "Tue, 05 May 2026 13:34:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FTC to ban data broker Kochava from selling Americans’ location data",
-      "link": "https://www.bleepingcomputer.com/news/security/ftc-to-ban-data-broker-kochava-from-selling-americans-location-data/",
-      "summary": "The FTC will ban data broker Kochava and its subsidiary, Collective Data Solutions (CDS), from selling location data without consumers' explicit consent to settle charges alleging that it sold precise geolocation data collected from hundreds of millions of mobile devices. [...]",
-      "published": "Tue, 05 May 2026 10:39:53 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -337,6 +339,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
+      "summary": "In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plugin, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
+      "published": "Wed, 06 May 2026 10:30:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
       "summary": "As the war with Iran continues, breach attempts targeting the United Arab Emirates tripled in a few weeks — many targeting critical infrastructure.",
@@ -398,11 +409,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Physical Cargo Theft Gets a Boost From Cybercriminals",
-      "link": "https://www.darkreading.com/cyber-risk/physical-cargo-theft-cybercriminals",
-      "summary": "Cargo theft is no longer about small groups of criminals operating on the ground, but transnational cybercriminal syndicates using access to supply chain systems to reroute goods.",
-      "published": "Mon, 04 May 2026 21:38:06 GMT",
+      "source": "Security Week",
+      "title": "Autonomous Offensive Security Firm XBOW Raises $35 Million",
+      "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
+      "summary": "The company raised another $35 million as an extension to its previously announced Series C funding round. The post Autonomous Offensive Security Firm XBOW Raises $35 Million appeared first on SecurityWeek .",
+      "published": "Wed, 06 May 2026 14:49:33 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -477,20 +488,6 @@
       "value_signals": [
         "Patch/update ×2",
         "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls",
-      "link": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
-      "summary": "CVE-2026-0300 affects the Captive Portal service of PAN-OS software on PA and VM series firewalls. The post Palo Alto Networks to Patch Zero-Day Exploited to Hack Firewalls appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 04:46:23 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1553,
+      "count": 1554,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -674,7 +674,7 @@
       ]
     },
     "remote code execution": {
-      "count": 323,
+      "count": 324,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2290,7 +2290,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2321,7 +2321,8 @@
         "2026-05-02",
         "2026-05-03",
         "2026-05-04",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-06"
       ]
     },
     "corporate data stolen": {
@@ -5452,7 +5453,7 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -6281,7 +6282,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10463,7 +10464,7 @@
       ]
     },
     "startup will invest": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -10775,7 +10776,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 469,
+      "count": 470,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -15242,7 +15243,7 @@
       ]
     },
     "http server including": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15255,14 +15256,14 @@
       ]
     },
     "opc ua protocol": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-05",
         "2026-05-06"
       ]
     },
     "abb awin gateways": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15309,7 +15310,7 @@
       ]
     },
     "pixel binary transparency": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-06"
       ]
@@ -15321,42 +15322,54 @@
       ]
     },
     "company's public image": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-06"
       ]
     },
     "romanian man extradited": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-06"
       ]
     },
     "schools local governments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-06"
       ]
     },
     "history making event": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-06"
       ]
     },
     "gartner market guide": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-06"
       ]
     },
     "daemon tools trojanized": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-06"
       ]
     },
     "biggest newsmaking events": {
+      "count": 2,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "false flag operation": {
+      "count": 1,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "detect attacks hackers": {
       "count": 1,
       "dates": [
         "2026-05-06"
@@ -15364,17 +15377,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-25 18:42",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "remove system packages",
-        "government entities universities"
-      ]
-    },
     {
       "timestamp": "2026-04-25 20:33",
       "articles": 56,
@@ -16462,6 +16464,17 @@
         "remote code execution",
         "pixel binary transparency",
         "captive portal service"
+      ]
+    },
+    {
+      "timestamp": "2026-05-06 16:00",
+      "articles": 56,
+      "top_keywords": [
+        "critical severity vulnerabilities",
+        "remote code execution",
+        "pixel binary transparency",
+        "iran's intelligence agencies",
+        "false flag operation"
       ]
     }
   ]

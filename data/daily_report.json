@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-05 22:51",
+  "last_updated": "2026-05-06 02:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "service ddos attacks",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "concept exploits appeared",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "http server including",
-      "mentions": 4
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 319
-    },
-    {
-      "keyword": "video game platform",
       "mentions": 5
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 320
+    },
+    {
+      "keyword": "video game platform",
+      "mentions": 6
+    },
+    {
       "keyword": "massive ddos attacks",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "security product's controls",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1549
+      "mentions": 1550
     }
   ],
   "articles": [
@@ -357,7 +357,7 @@
       "source": "Dark Reading",
       "title": "How the Story of a USB Penetration Test Went Viral",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
-      "summary": "Two decades ago Dark Reading posted its first blockbuster — a column by a pen tester who sprinkled rigged thumb drives around a credit union parking lot and let curious employees do the rest. This episode looks back at the history-making piece with its author Steve Stasiukonis, Dark Reading senior editor Becky Bracken, and Dark Reading's editor-in-chief Kelly Jackson Higgins.",
+      "summary": "Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling rigged thumb drives around a credit union parking lot and following what curious employees did next. This episode looks back at the history-making event.",
       "published": "Tue, 05 May 2026 11:56:15 GMT",
       "value_score": 10,
       "value_signals": []

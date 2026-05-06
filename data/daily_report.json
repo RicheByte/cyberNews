@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-06 19:29",
+  "last_updated": "2026-05-06 21:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,77 @@
     "pixel binary transparency",
     "iran's intelligence agencies",
     "false flag operation",
+    "otps cybersecurity researchers",
     "romanian man extradited",
+    "service ddos attacks",
+    "massive ddos attacks",
+    "detect attacks hackers",
+    "today's cybersecurity teams",
     "twitter whistleblower complaint",
-    "things iot devices",
     "startup will invest",
     "opc ua protocol",
     "http server including",
     "history making event",
     "gartner market guide",
-    "detect attacks hackers",
     "company's public image",
     "biggest newsmaking events",
-    "analysts recently confirmed",
-    "130 companies tangled",
-    "today's cybersecurity teams",
-    "service ddos attacks"
+    "analysts recently confirmed"
   ],
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "remote code execution",
-      "mentions": 326
+      "mentions": 327
     },
     {
       "keyword": "pixel binary transparency",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 472
+      "mentions": 473
     },
     {
       "keyword": "false flag operation",
-      "mentions": 3
-    },
-    {
-      "keyword": "romanian man extradited",
       "mentions": 4
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1556
+      "keyword": "otps cybersecurity researchers",
+      "mentions": 1
     },
     {
-      "keyword": "things iot devices",
-      "mentions": 248
+      "keyword": "romanian man extradited",
+      "mentions": 5
     },
     {
-      "keyword": "startup will invest",
-      "mentions": 20
+      "keyword": "service ddos attacks",
+      "mentions": 77
     },
     {
-      "keyword": "opc ua protocol",
-      "mentions": 10
+      "keyword": "massive ddos attacks",
+      "mentions": 56
+    },
+    {
+      "keyword": "detect attacks hackers",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
+      "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
+      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
+      "published": "Thu, 07 May 2026 01:51:00 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "Botnet ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
@@ -144,15 +156,6 @@
         "High severity",
         "Multiple CVEs"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware",
-      "link": "https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html",
-      "summary": "A newly identified supply chain attack targeting DAEMON Tools software has compromised its installers to serve a malicious payload, according to findings from Kaspersky. \"These installers are distributed from the legitimate website of DAEMON Tools and are signed with digital certificates belonging to DAEMON Tools developers,\" Kaspersky researchers Igor Kuznetsov, Georgy Kucherin, Leonid",
-      "published": "Tue, 05 May 2026 21:37:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -341,7 +344,7 @@
       "source": "Dark Reading",
       "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
-      "summary": "In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plugin, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
+      "summary": "In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plug-in, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
       "published": "Wed, 06 May 2026 10:30:27 GMT",
       "value_score": 10,
       "value_signals": []

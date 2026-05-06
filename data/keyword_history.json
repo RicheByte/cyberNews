@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1556,
+      "count": 1557,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -674,7 +674,7 @@
       ]
     },
     "remote code execution": {
-      "count": 326,
+      "count": 327,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -5454,7 +5454,7 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -6283,7 +6283,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10465,7 +10465,7 @@
       ]
     },
     "startup will invest": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -10777,7 +10777,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 472,
+      "count": 473,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -14828,7 +14828,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15244,7 +15244,7 @@
       ]
     },
     "http server including": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15257,7 +15257,7 @@
       ]
     },
     "opc ua protocol": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-05",
         "2026-05-06"
@@ -15311,7 +15311,7 @@
       ]
     },
     "pixel binary transparency": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-06"
       ]
@@ -15323,13 +15323,13 @@
       ]
     },
     "company's public image": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-06"
       ]
     },
     "romanian man extradited": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-06"
       ]
@@ -15341,13 +15341,13 @@
       ]
     },
     "history making event": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-06"
       ]
     },
     "gartner market guide": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-06"
       ]
@@ -15359,19 +15359,19 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-06"
       ]
     },
     "false flag operation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-06"
       ]
     },
     "detect attacks hackers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-06"
       ]
@@ -15383,12 +15383,18 @@
       ]
     },
     "analysts recently confirmed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-06"
       ]
     },
     "today's cybersecurity teams": {
+      "count": 2,
+      "dates": [
+        "2026-05-06"
+      ]
+    },
+    "otps cybersecurity researchers": {
       "count": 1,
       "dates": [
         "2026-05-06"
@@ -15396,17 +15402,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-26 02:12",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "remove system packages",
-        "government entities universities"
-      ]
-    },
     {
       "timestamp": "2026-04-26 06:03",
       "articles": 56,
@@ -16487,6 +16482,17 @@
     },
     {
       "timestamp": "2026-05-06 19:29",
+      "articles": 56,
+      "top_keywords": [
+        "critical severity vulnerabilities",
+        "remote code execution",
+        "pixel binary transparency",
+        "iran's intelligence agencies",
+        "false flag operation"
+      ]
+    },
+    {
+      "timestamp": "2026-05-06 21:06",
       "articles": 56,
       "top_keywords": [
         "critical severity vulnerabilities",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-06 19:29 UTC  
+> **Last Updated:** 2026-05-06 21:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **romanian man extradited** • **twitter whistleblower complaint** • **things iot devices** • **startup will invest** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **detect attacks hackers** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed** • **130 companies tangled** • **today's cybersecurity teams** • **service ddos attacks**
+**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **iran's intelligence agencies** • **false flag operation** • **otps cybersecurity researchers** • **romanian man extradited** • **service ddos attacks** • **massive ddos attacks** • **detect attacks hackers** • **today's cybersecurity teams** • **twitter whistleblower complaint** • **startup will invest** • **opc ua protocol** • **http server including** • **history making event** • **gartner market guide** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
 - [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
 - [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
 - [Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?](https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html)
@@ -23,7 +24,6 @@
 - [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
 - [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
 - [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
-- [DAEMON Tools Supply Chain Attack Compromises Official Installers with Malware](https://thehackernews.com/2026/05/daemon-tools-supply-chain-attack.html)
 
 ### BleepingComputer
 

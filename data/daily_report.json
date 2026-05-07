@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-07 06:31",
+  "last_updated": "2026-05-07 10:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "critical severity vulnerabilities",
     "pixel binary transparency",
     "managewp godaddy's platform",
     "iran's intelligence agencies",
     "false flag operation",
-    "otps cybersecurity researchers",
     "detect attacks hackers",
-    "remote code execution",
     "romanian man extradited",
     "service ddos attacks",
     "massive ddos attacks",
-    "today's cybersecurity teams",
+    "otps cybersecurity researchers",
     "twitter whistleblower complaint",
-    "startup will invest",
+    "today's cybersecurity teams",
     "gartner market guide",
     "company's public image",
     "biggest newsmaking events",
     "analysts recently confirmed",
     "130 companies tangled",
-    "things iot devices"
+    "things iot devices",
+    "pvi client versions",
+    "pvi client application",
+    "security product's controls"
   ],
   "trending": [
     {
-      "keyword": "critical severity vulnerabilities",
-      "mentions": 29
-    },
-    {
       "keyword": "pixel binary transparency",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "managewp godaddy's platform",
-      "mentions": 3
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 476
-    },
-    {
-      "keyword": "false flag operation",
-      "mentions": 7
-    },
-    {
-      "keyword": "otps cybersecurity researchers",
       "mentions": 4
     },
     {
-      "keyword": "detect attacks hackers",
-      "mentions": 7
+      "keyword": "iran's intelligence agencies",
+      "mentions": 477
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 330
-    },
-    {
-      "keyword": "romanian man extradited",
+      "keyword": "false flag operation",
       "mentions": 8
     },
     {
+      "keyword": "detect attacks hackers",
+      "mentions": 8
+    },
+    {
+      "keyword": "romanian man extradited",
+      "mentions": 9
+    },
+    {
       "keyword": "service ddos attacks",
-      "mentions": 80
+      "mentions": 81
+    },
+    {
+      "keyword": "massive ddos attacks",
+      "mentions": 60
+    },
+    {
+      "keyword": "otps cybersecurity researchers",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1561
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
+      "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
+      "summary": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky",
+      "published": "Thu, 07 May 2026 14:50:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
@@ -141,18 +150,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
-      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
-      "summary": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
-      "published": "Wed, 06 May 2026 11:44:00 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
+      "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
+      "published": "Thu, 07 May 2026 06:02:35 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE ×2",
-        "High severity",
-        "Exploit wording"
+        "Backdoor"
       ]
     },
     {
@@ -228,20 +233,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Palo Alto Networks warns of firewall RCE zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-actively-exploited-firewall-zero-day/",
-      "summary": "Palo Alto Networks warned customers today that a critical-severity unpatched vulnerability in the PAN-OS User-ID Authentication Portal is being exploited in attacks. [...]",
-      "published": "Wed, 06 May 2026 05:18:16 -0400",
-      "value_score": 69,
-      "value_signals": [
-        "Zero-day",
-        "RCE",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -410,6 +401,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion",
+      "link": "https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/",
+      "summary": "Dragos has published a report describing how threat actors used Claude AI in an attack on a water and drainage utility in Mexico. The post Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 07:35:25 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Autonomous Offensive Security Firm XBOW Raises $35 Million",
       "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
       "summary": "The company raised another $35 million as an extension to its previously announced Series C funding round. The post Autonomous Offensive Security Firm XBOW Raises $35 Million appeared first on SecurityWeek .",
@@ -476,18 +476,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle Debuts Monthly Critical Security Patch Updates",
-      "link": "https://www.securityweek.com/oracle-debuts-monthly-critical-security-patch-updates/",
-      "summary": "Containing fixes for critical-severity vulnerabilities, the monthly rollouts will focus on addressing priority issues faster. The post Oracle Debuts Monthly Critical Security Patch Updates appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 06:32:17 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×3"
       ]
     },
     {

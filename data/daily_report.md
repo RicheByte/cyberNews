@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-07 16:03 UTC  
+> **Last Updated:** 2026-05-07 19:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chrome 148 rolls** • **iran's intelligence agencies** • **false flag operation** • **chinese state hacking** • **aggravated identity theft** • **service ddos attacks** • **massive ddos attacks** • **130 companies tangled** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **scada login screen** • **phishing campaign delivered** • **managewp godaddy's platform** • **biggest newsmaking events** • **detect attacks hackers** • **running laptop farms** • **pvi client application** • **called laptop farms** • **today's cybersecurity teams** • **actively exploited flaw**
+**chrome 148 rolls** • **pvi client application** • **exposed cloud infrastructure** • **iran's intelligence agencies** • **chinese state hacking** • **actively exploited flaw** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **biggest newsmaking events** • **aggravated identity theft** • **service ddos attacks** • **running laptop farms** • **pvi client versions** • **massive ddos attacks** • **called laptop farms** • **campaign bearing hallmarks** • **discovered three packages** • **wire fraud conspiracy** • **voidstealer trojan uncovered** • **trial pitting musk**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
+- [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
 - [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 - [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
 - [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
 - [PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux](https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html)
 - [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
-- [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
-- [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
 
 ### BleepingComputer
 
+- [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
+- [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
 - [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
 - [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
 - [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
 - [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
 - [Webinar: Why modern attacks require both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/)
 - [Palo Alto Networks firewall zero-day exploited for nearly a month](https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/)
-- [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
-- [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
-- [World's First AI-Driven Cyberattack Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
+- [Has CISA Finally Found Its New Leader in Tom Parker?](https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker)
 - ['TrustFall' Convention Exposes Claude Code Execution Risk](https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk)
+- [World's First AI-Driven Cyberattack Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
 - [Yet Another Way to Bypass Google Chrome's Encryption Protection](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
 - [Instructure Breach Exposes Schools' Vendor Dependence](https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence)
 - [From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber](https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber)
 - [Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA](https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa)
 - [Middle East Cyber Battle Field Broadens — Especially in UAE](https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae)
-- [Trellix Source Code Breach Highlights Growing Supply Chain Threats](https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats)
 
 ### Security Week
 
+- [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
 - [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
 - [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
 - [Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking](https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/)
@@ -67,7 +68,6 @@
 - [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
 - [Vendor Says Daemon Tools Supply Chain Attack Contained](https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/)
 - [AI Coding Agents Could Fuel Next Supply Chain Crisis](https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/)
-- [Webinar Today: Securing Identity Across Humans, Machines and AI](https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [MAXHUB Pivot Client Application](https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03)
-- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04)
 - [Hitachi Energy PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01)
 - [Johnson Controls CEM AC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05)
 - [ABB B&R PVI](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02)
-- [Careful Adoption of Agentic AI Services](https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04)
 
 ---
 

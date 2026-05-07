@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-05-07 16:03",
+  "last_updated": "2026-05-07 19:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "chrome 148 rolls",
+    "pvi client application",
+    "exposed cloud infrastructure",
     "iran's intelligence agencies",
-    "false flag operation",
     "chinese state hacking",
+    "actively exploited flaw",
+    "sprawling phishing campaign",
+    "twitter whistleblower complaint",
+    "biggest newsmaking events",
     "aggravated identity theft",
     "service ddos attacks",
-    "massive ddos attacks",
-    "130 companies tangled",
-    "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "scada login screen",
-    "phishing campaign delivered",
-    "managewp godaddy's platform",
-    "biggest newsmaking events",
-    "detect attacks hackers",
     "running laptop farms",
-    "pvi client application",
+    "pvi client versions",
+    "massive ddos attacks",
     "called laptop farms",
-    "today's cybersecurity teams",
-    "actively exploited flaw"
+    "campaign bearing hallmarks",
+    "discovered three packages",
+    "wire fraud conspiracy",
+    "voidstealer trojan uncovered",
+    "trial pitting musk"
   ],
   "trending": [
     {
       "keyword": "chrome 148 rolls",
+      "mentions": 2
+    },
+    {
+      "keyword": "pvi client application",
+      "mentions": 9
+    },
+    {
+      "keyword": "exposed cloud infrastructure",
       "mentions": 1
     },
     {
       "keyword": "iran's intelligence agencies",
-      "mentions": 479
-    },
-    {
-      "keyword": "false flag operation",
-      "mentions": 10
+      "mentions": 480
     },
     {
       "keyword": "chinese state hacking",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 72
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 83
-    },
-    {
-      "keyword": "massive ddos attacks",
-      "mentions": 62
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 243
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1563
+      "keyword": "actively exploited flaw",
+      "mentions": 57
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 328
+      "mentions": 329
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1564
+    },
+    {
+      "keyword": "biggest newsmaking events",
+      "mentions": 12
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 73
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
+      "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
+      "summary": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows \"a remotely authenticated user with administrative access to achieve remote code",
+      "published": "Thu, 07 May 2026 23:25:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "RCE",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
+      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
+      "published": "Thu, 07 May 2026 23:15:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
@@ -134,27 +160,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
-      "link": "https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html",
-      "summary": "Cybersecurity researchers have exposed a new Mirai-derived botnet that self-identifies as xlabs_v1 and targets internet-exposed devices running Android Debug Bridge (ADB) to enlist them in a network capable of carrying out distributed denial-of-service (DDoS) attacks. Hunt.io, which detailed the malware, said it made the discovery after identifying an exposed directory on a Netherlands-hosted",
-      "published": "Thu, 07 May 2026 01:51:00 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
+      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
+      "published": "Thu, 07 May 2026 14:35:50 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack",
-      "link": "https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html",
-      "summary": "The Iranian state-sponsored hacking group known as MuddyWater (aka Mango Sandstorm, Seedworm, and Static Kitten) has been attributed to a ransomware attack in what has been described as a \"false flag\" operation. The attack, observed by Rapid7 in early 2026, has been found to leverage social engineering techniques via Microsoft Teams to initiate the infection sequence. Although the incident",
-      "published": "Wed, 06 May 2026 18:30:00 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
+      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
+      "published": "Thu, 07 May 2026 14:00:59 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -217,28 +238,6 @@
         "Zero-day ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "summary": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
-      "published": "Thu, 07 May 2026 06:02:35 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "summary": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
-      "published": "Wed, 06 May 2026 17:36:06 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -328,13 +327,13 @@
     },
     {
       "source": "Dark Reading",
-      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
-      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "value_score": 22,
+      "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
+      "summary": "Dark Reading investigates rumors that Tom Parker, a board room \"operator\" and longtime cyber exec, could be next in line to take over CISA.",
+      "published": "Thu, 07 May 2026 19:07:17 GMT",
+      "value_score": 50,
       "value_signals": [
-        "Breach/leak"
+        "CISA/KEV ×2"
       ]
     },
     {
@@ -345,6 +344,17 @@
       "published": "Thu, 07 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
+      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "published": "Thu, 07 May 2026 13:00:00 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -397,15 +407,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
-      "summary": "Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
-      "published": "Tue, 05 May 2026 20:40:11 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "Security Week",
+      "title": "Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders",
+      "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
+      "summary": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.” The post Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 19:10:11 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -475,15 +483,6 @@
       "link": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
       "summary": "“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises. The post AI Coding Agents Could Fuel Next Supply Chain Crisis appeared first on SecurityWeek .",
       "published": "Thu, 07 May 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
-      "link": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
-      "summary": "From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control. The post Webinar Today: Securing Identity Across Humans, Machines and AI appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -573,6 +572,33 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog a",
+      "published": "Thu, 07 May 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "MAXHUB Pivot Client Application",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivot client application are affected: MAXHUB Pivot client application CVSS Vendor Equipment Vulnerabilities v3 7.3 MAXHUB MAXHUB Pivot client application Use of a Broken or Risky Cryptographic Algorithm Background Critical Infrastructure Sectors: Information Technol",
+      "published": "Thu, 07 May 26 12:00:00 +0000",
+      "value_score": 49,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
       "published": "Wed, 06 May 26 12:00:00 +0000",
@@ -596,20 +622,6 @@
         "CVE mentioned ×2",
         "Patch/update",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB B&R Automation Studio",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&R Automation Studio establishes a connection with a server via the ANSL over TLS or OPC-UA protocol. The following versions of ABB B&R Automation Studio are affected: Automation Studio <6.5, 6.5 (CVE-2025-11043) CVSS Vendor E",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -657,27 +669,15 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Careful Adoption of Agentic AI Services",
-      "link": "https://www.cisa.gov/resources-tools/resources/careful-adoption-agentic-ai-services",
-      "summary": "CISA, in collaboration with the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and other international and U.S. partners, released guidance for organizations on adopting agentic artificial intelligence (AI) systems. This guide outlines key security challenges and risks associated with agentic AI, and provides actionable steps for designing, deploying, and operating these systems safely. It helps organizations align AI risk management with existing cybersecurity fr",
-      "published": "Fri, 01 May 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-31431 Linux Kernel Incorrect Resource Transfer Between Spheres Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a li",
-      "published": "Fri, 01 May 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "ABB B&R Automation Studio",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&R Automation Studio establishes a connection with a server via the ANSL over TLS or OPC-UA protocol. The following versions of ABB B&R Automation Studio are affected: Automation Studio <6.5, 6.5 (CVE-2025-11043) CVSS Vendor E",
+      "published": "Tue, 05 May 26 12:00:00 +0000",
+      "value_score": 67,
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "CISA/KEV ×6",
+        "Patch/update",
         "Exploit wording"
       ]
     }

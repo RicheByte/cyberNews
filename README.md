@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-07 16:03 UTC |
+| 🕐 Last Updated | 2026-05-07 19:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chrome 148 rolls` • `iran's intelligence agencies` • `false flag operation` • `chinese state hacking` • `aggravated identity theft` • `service ddos attacks` • `massive ddos attacks` • `130 companies tangled` • `twitter whistleblower complaint` • `sprawling phishing campaign`
+`chrome 148 rolls` • `pvi client application` • `exposed cloud infrastructure` • `iran's intelligence agencies` • `chinese state hacking` • `actively exploited flaw` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `biggest newsmaking events` • `aggravated identity theft`
 
 ## 📄 Reports
 

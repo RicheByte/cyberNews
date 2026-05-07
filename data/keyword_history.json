@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1563,
+      "count": 1564,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1668,7 +1668,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 328,
+      "count": 329,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6289,7 +6289,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7932,7 +7932,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7945,7 +7945,8 @@
         "2026-05-01",
         "2026-05-02",
         "2026-05-03",
-        "2026-05-04"
+        "2026-05-04",
+        "2026-05-07"
       ]
     },
     "unfortunately named toolkit": {
@@ -10785,7 +10786,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 479,
+      "count": 480,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13428,7 +13429,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13795,7 +13796,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14839,7 +14840,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15285,7 +15286,7 @@
       ]
     },
     "pvi client application": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15379,7 +15380,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15434,7 +15435,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
@@ -15464,30 +15465,54 @@
       ]
     },
     "discovered three packages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
     },
     "chrome 148 rolls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
     },
     "chinese state hacking": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
     },
     "running laptop farms": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
     },
     "called laptop farms": {
+      "count": 2,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "exposed cloud infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "campaign bearing hallmarks": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "voidstealer trojan uncovered": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "trial pitting musk": {
       "count": 1,
       "dates": [
         "2026-05-07"
@@ -15495,17 +15520,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-26 18:43",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "government entities universities",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-26 20:33",
       "articles": 56,
@@ -16593,6 +16607,17 @@
         "false flag operation",
         "chinese state hacking",
         "aggravated identity theft"
+      ]
+    },
+    {
+      "timestamp": "2026-05-07 19:38",
+      "articles": 56,
+      "top_keywords": [
+        "chrome 148 rolls",
+        "pvi client application",
+        "exposed cloud infrastructure",
+        "iran's intelligence agencies",
+        "chinese state hacking"
       ]
     }
   ]

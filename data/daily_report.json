@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-05-07 02:28",
+  "last_updated": "2026-05-07 06:31",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "critical severity vulnerabilities",
-    "remote code execution",
     "pixel binary transparency",
     "managewp godaddy's platform",
     "iran's intelligence agencies",
     "false flag operation",
     "otps cybersecurity researchers",
+    "detect attacks hackers",
+    "remote code execution",
     "romanian man extradited",
     "service ddos attacks",
     "massive ddos attacks",
-    "detect attacks hackers",
     "today's cybersecurity teams",
     "twitter whistleblower complaint",
     "startup will invest",
-    "opc ua protocol",
-    "http server including",
     "gartner market guide",
     "company's public image",
     "biggest newsmaking events",
-    "analysts recently confirmed"
+    "analysts recently confirmed",
+    "130 companies tangled",
+    "things iot devices"
   ],
   "trending": [
     {
       "keyword": "critical severity vulnerabilities",
-      "mentions": 28
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 329
+      "mentions": 29
     },
     {
       "keyword": "pixel binary transparency",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "managewp godaddy's platform",
-      "mentions": 2
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 475
-    },
-    {
-      "keyword": "false flag operation",
-      "mentions": 6
-    },
-    {
-      "keyword": "otps cybersecurity researchers",
       "mentions": 3
     },
     {
-      "keyword": "romanian man extradited",
+      "keyword": "iran's intelligence agencies",
+      "mentions": 476
+    },
+    {
+      "keyword": "false flag operation",
       "mentions": 7
     },
     {
-      "keyword": "service ddos attacks",
-      "mentions": 79
+      "keyword": "otps cybersecurity researchers",
+      "mentions": 4
     },
     {
-      "keyword": "massive ddos attacks",
-      "mentions": 58
+      "keyword": "detect attacks hackers",
+      "mentions": 7
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 330
+    },
+    {
+      "keyword": "romanian man extradited",
+      "mentions": 8
+    },
+    {
+      "keyword": "service ddos attacks",
+      "mentions": 80
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
+      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
+      "summary": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
+      "published": "Thu, 07 May 2026 09:45:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks",
@@ -141,20 +153,6 @@
         "RCE ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE",
-      "link": "https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html",
-      "summary": "The Apache Software Foundation (ASF) has released security updates to address several security vulnerabilities in the HTTP Server, including a severe vulnerability that could potentially lead to remote code execution (RCE). The vulnerability, tracked as CVE-2026-23918 (CVSS score: 8.8), has been described as a case of \"double free and possible RCE\" in the HTTP/2 protocol handling. This issue",
-      "published": "Tue, 05 May 2026 21:49:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×4",
-        "High severity",
-        "Multiple CVEs"
       ]
     },
     {

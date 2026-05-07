@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1559,
+      "count": 1560,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -675,7 +675,7 @@
       ]
     },
     "remote code execution": {
-      "count": 329,
+      "count": 330,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1978,7 +1978,7 @@
       ]
     },
     "things iot devices": {
-      "count": 248,
+      "count": 249,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2012,7 +2012,8 @@
         "2026-04-29",
         "2026-05-03",
         "2026-05-04",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-07"
       ]
     },
     "cvss scoring system": {
@@ -2293,7 +2294,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2325,7 +2326,8 @@
         "2026-05-03",
         "2026-05-04",
         "2026-05-05",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-05-07"
       ]
     },
     "corporate data stolen": {
@@ -5456,7 +5458,7 @@
       ]
     },
     "critical severity vulnerabilities": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-30",
         "2026-01-31",
@@ -6286,7 +6288,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10469,7 +10471,7 @@
       ]
     },
     "startup will invest": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -10782,7 +10784,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 475,
+      "count": 476,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -14834,7 +14836,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15320,7 +15322,7 @@
       ]
     },
     "pixel binary transparency": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15333,14 +15335,14 @@
       ]
     },
     "company's public image": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "romanian man extradited": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15359,7 +15361,7 @@
       ]
     },
     "gartner market guide": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15372,21 +15374,21 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "false flag operation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "detect attacks hackers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15399,28 +15401,28 @@
       ]
     },
     "analysts recently confirmed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "today's cybersecurity teams": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "otps cybersecurity researchers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "managewp godaddy's platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15428,17 +15430,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-26 10:40",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "remove system packages",
-        "government entities universities"
-      ]
-    },
     {
       "timestamp": "2026-04-26 12:56",
       "articles": 56,
@@ -16526,6 +16517,17 @@
         "pixel binary transparency",
         "managewp godaddy's platform",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-05-07 06:31",
+      "articles": 56,
+      "top_keywords": [
+        "critical severity vulnerabilities",
+        "pixel binary transparency",
+        "managewp godaddy's platform",
+        "iran's intelligence agencies",
+        "false flag operation"
       ]
     }
   ]

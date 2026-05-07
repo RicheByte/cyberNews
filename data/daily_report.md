@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-07 02:28 UTC  
+> **Last Updated:** 2026-05-07 06:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical severity vulnerabilities** • **remote code execution** • **pixel binary transparency** • **managewp godaddy's platform** • **iran's intelligence agencies** • **false flag operation** • **otps cybersecurity researchers** • **romanian man extradited** • **service ddos attacks** • **massive ddos attacks** • **detect attacks hackers** • **today's cybersecurity teams** • **twitter whistleblower complaint** • **startup will invest** • **opc ua protocol** • **http server including** • **gartner market guide** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed**
+**critical severity vulnerabilities** • **pixel binary transparency** • **managewp godaddy's platform** • **iran's intelligence agencies** • **false flag operation** • **otps cybersecurity researchers** • **detect attacks hackers** • **remote code execution** • **romanian man extradited** • **service ddos attacks** • **massive ddos attacks** • **today's cybersecurity teams** • **twitter whistleblower complaint** • **startup will invest** • **gartner market guide** • **company's public image** • **biggest newsmaking events** • **analysts recently confirmed** • **130 companies tangled** • **things iot devices**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
 - [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
 - [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
 - [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
@@ -23,7 +24,6 @@
 - [Google's Android Apps Get Public Verification to Stop Supply Chain Attacks](https://thehackernews.com/2026/05/android-apps-get-public-verification.html)
 - [Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs](https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html)
 - [Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution](https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html)
-- [Critical Apache HTTP/2 Flaw (CVE-2026-23918) Enables DoS and Potential RCE](https://thehackernews.com/2026/05/critical-apache-http2-flaw-cve-2026.html)
 
 ### BleepingComputer
 

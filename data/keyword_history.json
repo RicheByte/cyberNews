@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1565,
+      "count": 1566,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1668,7 +1668,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 330,
+      "count": 331,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6289,7 +6289,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10786,7 +10786,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 481,
+      "count": 482,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13429,7 +13429,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13796,7 +13796,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14840,7 +14840,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15286,7 +15286,7 @@
       ]
     },
     "pvi client application": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15380,7 +15380,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15435,13 +15435,13 @@
       ]
     },
     "pvi client versions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07"
       ]
     },
     "scada login screen": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-07"
       ]
@@ -15471,43 +15471,43 @@
       ]
     },
     "chrome 148 rolls": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07"
       ]
     },
     "chinese state hacking": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07"
       ]
     },
     "running laptop farms": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07"
       ]
     },
     "called laptop farms": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07"
       ]
     },
     "exposed cloud infrastructure": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-07"
       ]
     },
     "campaign bearing hallmarks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-07"
       ]
     },
     "voidstealer trojan uncovered": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-07"
       ]
@@ -15517,20 +15517,21 @@
       "dates": [
         "2026-05-07"
       ]
+    },
+    "patient zero webinar": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "much free time": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-26 22:33",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "government entities universities",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-27 02:23",
       "articles": 56,
@@ -16618,6 +16619,17 @@
         "exposed cloud infrastructure",
         "iran's intelligence agencies",
         "chinese state hacking"
+      ]
+    },
+    {
+      "timestamp": "2026-05-07 22:56",
+      "articles": 56,
+      "top_keywords": [
+        "chrome 148 rolls",
+        "pvi client application",
+        "exposed cloud infrastructure",
+        "patient zero webinar",
+        "iran's intelligence agencies"
       ]
     }
   ]

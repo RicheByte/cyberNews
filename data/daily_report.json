@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-07 21:00",
+  "last_updated": "2026-05-07 22:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "chrome 148 rolls",
     "pvi client application",
     "exposed cloud infrastructure",
+    "patient zero webinar",
     "iran's intelligence agencies",
-    "chinese state hacking",
-    "actively exploited flaw",
     "sprawling phishing campaign",
+    "actively exploited flaw",
+    "voidstealer trojan uncovered",
     "twitter whistleblower complaint",
+    "scada login screen",
+    "chinese state hacking",
     "biggest newsmaking events",
     "aggravated identity theft",
     "service ddos attacks",
     "running laptop farms",
     "pvi client versions",
     "massive ddos attacks",
-    "called laptop farms",
     "campaign bearing hallmarks",
-    "discovered three packages",
-    "wire fraud conspiracy",
-    "voidstealer trojan uncovered",
-    "trial pitting musk"
+    "called laptop farms",
+    "much free time"
   ],
   "trending": [
     {
       "keyword": "chrome 148 rolls",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "pvi client application",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "exposed cloud infrastructure",
-      "mentions": 2
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 481
-    },
-    {
-      "keyword": "chinese state hacking",
       "mentions": 3
     },
     {
-      "keyword": "actively exploited flaw",
-      "mentions": 58
+      "keyword": "patient zero webinar",
+      "mentions": 1
+    },
+    {
+      "keyword": "iran's intelligence agencies",
+      "mentions": 482
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 330
+      "mentions": 331
+    },
+    {
+      "keyword": "actively exploited flaw",
+      "mentions": 59
+    },
+    {
+      "keyword": "voidstealer trojan uncovered",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1565
+      "mentions": 1566
     },
     {
-      "keyword": "biggest newsmaking events",
-      "mentions": 13
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 74
+      "keyword": "scada login screen",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -161,6 +161,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
+      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
+      "published": "Thu, 07 May 2026 18:36:54 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
+      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
+      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
+      "published": "Thu, 07 May 2026 18:06:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
       "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
       "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
@@ -217,28 +237,6 @@
       "published": "Thu, 07 May 2026 08:11:53 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "summary": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
-      "published": "Thu, 07 May 2026 08:00:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-      "published": "Thu, 07 May 2026 06:57:59 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
+      "link": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
+      "summary": "PCPJack makes innovative use of parquet files for stealthy, pre-validated target discovery as it canvasses multiple cloud environments.",
+      "published": "Thu, 07 May 2026 20:43:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
       "summary": "Dark Reading investigates rumors that Tom Parker, a board room \"operator\" and longtime cyber exec, could be next in line to take over CISA.",
@@ -393,18 +400,6 @@
       "published": "Wed, 06 May 2026 10:30:27 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
-      "summary": "As the war with Iran continues, breach attempts targeting the United Arab Emirates tripled in a few weeks — many targeting critical infrastructure.",
-      "published": "Wed, 06 May 2026 05:30:00 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "Breach/leak",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-07 13:54 UTC |
+| 🕐 Last Updated | 2026-05-07 16:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iran's intelligence agencies` • `false flag operation` • `aggravated identity theft` • `detect attacks hackers` • `massive ddos attacks` • `130 companies tangled` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `scada login screen` • `phishing campaign delivered`
+`chrome 148 rolls` • `iran's intelligence agencies` • `false flag operation` • `chinese state hacking` • `aggravated identity theft` • `service ddos attacks` • `massive ddos attacks` • `130 companies tangled` • `twitter whistleblower complaint` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

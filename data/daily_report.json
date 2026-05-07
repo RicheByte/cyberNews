@@ -1,12 +1,14 @@
 {
-  "last_updated": "2026-05-07 13:54",
+  "last_updated": "2026-05-07 16:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "chrome 148 rolls",
     "iran's intelligence agencies",
     "false flag operation",
+    "chinese state hacking",
     "aggravated identity theft",
-    "detect attacks hackers",
+    "service ddos attacks",
     "massive ddos attacks",
     "130 companies tangled",
     "twitter whistleblower complaint",
@@ -15,58 +17,67 @@
     "phishing campaign delivered",
     "managewp godaddy's platform",
     "biggest newsmaking events",
-    "service ddos attacks",
-    "today's cybersecurity teams",
-    "things iot devices",
+    "detect attacks hackers",
+    "running laptop farms",
     "pvi client application",
-    "linux cybersecurity researchers",
-    "modern attacks require",
-    "discovered three packages",
-    "security product's controls"
+    "called laptop farms",
+    "today's cybersecurity teams",
+    "actively exploited flaw"
   ],
   "trending": [
     {
+      "keyword": "chrome 148 rolls",
+      "mentions": 1
+    },
+    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 478
+      "mentions": 479
     },
     {
       "keyword": "false flag operation",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "chinese state hacking",
+      "mentions": 1
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 71
+      "mentions": 72
     },
     {
-      "keyword": "detect attacks hackers",
-      "mentions": 9
+      "keyword": "service ddos attacks",
+      "mentions": 83
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 242
+      "mentions": 243
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1562
+      "mentions": 1563
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 327
-    },
-    {
-      "keyword": "scada login screen",
-      "mentions": 1
-    },
-    {
-      "keyword": "phishing campaign delivered",
-      "mentions": 1
+      "mentions": 328
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+      "published": "Thu, 07 May 2026 19:20:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
@@ -146,11 +157,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open",
-      "link": "https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html",
-      "summary": "For nearly 20 years, we at The Hacker News have mostly told scary stories about cyberspace — big hacks, broken systems, and new threats. But behind every headline, there’s a quieter, better story. It’s the story of leaders making tough calls under pressure, teams building smarter defenses, and security products that keep hunting threats 24/7 — even when it’s hard. Most of the time, this work is",
-      "published": "Wed, 06 May 2026 17:33:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "published": "Thu, 07 May 2026 11:20:51 -0400",
+      "value_score": 94,
+      "value_signals": [
+        "Zero-day ×2",
+        "RCE",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
+      "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
+      "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
+      "published": "Thu, 07 May 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -215,26 +240,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical vm2 sandbox bug lets attackers execute code on hosts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/",
-      "summary": "A critical vulnerability in the popular Node.js sandboxing library vm2 allows escaping the sandbox and executing arbitrary code on the host system. [...]",
-      "published": "Wed, 06 May 2026 14:38:38 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Cisco DoS flaw requires manual reboot to revive devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/",
-      "summary": "Cisco patched a Crosswork Network Controller and Network Services Orchestrator denial-of-service vulnerability that requires manually rebooting targeted systems for recovery. [...]",
-      "published": "Wed, 06 May 2026 14:06:21 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -404,6 +409,48 @@
     },
     {
       "source": "Security Week",
+      "title": "Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking",
+      "link": "https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/",
+      "summary": "The cybersecurity firm has not explicitly accused China of being behind the attack, but the evidence suggests it was. The post Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 15:31:12 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Boost Security Raises $4 Million for SDLC Defense Platform",
+      "link": "https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/",
+      "summary": "The company is expanding its platform’s capabilities with the acquisition of SecureIQx and Korbit.ai. The post Boost Security Raises $4 Million for SDLC Defense Platform appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 14:51:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking",
+      "link": "https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/",
+      "summary": "Mitiga researchers say attackers can silently redirect Claude Code MCP traffic, intercept OAuth tokens, and maintain persistent access to connected SaaS platforms. The post Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 14:33:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 148 Rolls Out With 127 Security Fixes",
+      "link": "https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/",
+      "summary": "The fresh browser update resolves critical-severity integer overflow and use-after-free vulnerabilities. The post Chrome 148 Rolls Out With 127 Security Fixes appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 14:10:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes",
       "link": "https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/",
       "summary": "Cisco’s AI security researchers have analyzed ways to target vision-language models (VLMs) using pixel-level perturbation. The post Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes appeared first on SecurityWeek .",
@@ -437,44 +484,6 @@
       "link": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
       "summary": "From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control. The post Webinar Today: Securing Identity Across Humans, Machines and AI appeared first on SecurityWeek .",
       "published": "Thu, 07 May 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
-      "link": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
-      "summary": "Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions. The post Cisco Patches High-Severity Vulnerabilities in Enterprise Products appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 11:24:01 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
-      "link": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
-      "summary": "Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue. The post Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 10:39:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion",
-      "link": "https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/",
-      "summary": "Dragos has published a report describing how threat actors used Claude AI in an attack on a water and drainage utility in Mexico. The post Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 07:35:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Autonomous Offensive Security Firm XBOW Raises $35 Million",
-      "link": "https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/",
-      "summary": "The company raised another $35 million as an extension to its previously announced Series C funding round. The post Autonomous Offensive Security Firm XBOW Raises $35 Million appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 14:49:33 +0000",
       "value_score": 10,
       "value_signals": []
     },

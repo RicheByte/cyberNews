@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1562,
+      "count": 1563,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1668,7 +1668,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 327,
+      "count": 328,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2295,7 +2295,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6289,7 +6289,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -10785,7 +10785,7 @@
       ]
     },
     "iran's intelligence agencies": {
-      "count": 478,
+      "count": 479,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -13428,7 +13428,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13441,7 +13441,8 @@
         "2026-04-27",
         "2026-05-01",
         "2026-05-02",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-07"
       ]
     },
     "nkabuse malware hosted": {
@@ -13794,7 +13795,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14838,7 +14839,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15284,7 +15285,7 @@
       ]
     },
     "pvi client application": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15378,21 +15379,21 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "false flag operation": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-06",
         "2026-05-07"
       ]
     },
     "detect attacks hackers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15412,7 +15413,7 @@
       ]
     },
     "today's cybersecurity teams": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15426,7 +15427,7 @@
       ]
     },
     "managewp godaddy's platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-06",
         "2026-05-07"
@@ -15439,13 +15440,13 @@
       ]
     },
     "scada login screen": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
     },
     "phishing campaign delivered": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-07"
       ]
@@ -15467,20 +15468,33 @@
       "dates": [
         "2026-05-07"
       ]
+    },
+    "chrome 148 rolls": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "chinese state hacking": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "running laptop farms": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
+    },
+    "called laptop farms": {
+      "count": 1,
+      "dates": [
+        "2026-05-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-26 16:36",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "government entities universities",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-26 18:43",
       "articles": 56,
@@ -16568,6 +16582,17 @@
         "aggravated identity theft",
         "detect attacks hackers",
         "massive ddos attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-07 16:03",
+      "articles": 56,
+      "top_keywords": [
+        "chrome 148 rolls",
+        "iran's intelligence agencies",
+        "false flag operation",
+        "chinese state hacking",
+        "aggravated identity theft"
       ]
     }
   ]

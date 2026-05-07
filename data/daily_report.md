@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-07 13:54 UTC  
+> **Last Updated:** 2026-05-07 16:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iran's intelligence agencies** • **false flag operation** • **aggravated identity theft** • **detect attacks hackers** • **massive ddos attacks** • **130 companies tangled** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **scada login screen** • **phishing campaign delivered** • **managewp godaddy's platform** • **biggest newsmaking events** • **service ddos attacks** • **today's cybersecurity teams** • **things iot devices** • **pvi client application** • **linux cybersecurity researchers** • **modern attacks require** • **discovered three packages** • **security product's controls**
+**chrome 148 rolls** • **iran's intelligence agencies** • **false flag operation** • **chinese state hacking** • **aggravated identity theft** • **service ddos attacks** • **massive ddos attacks** • **130 companies tangled** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **scada login screen** • **phishing campaign delivered** • **managewp godaddy's platform** • **biggest newsmaking events** • **detect attacks hackers** • **running laptop farms** • **pvi client application** • **called laptop farms** • **today's cybersecurity teams** • **actively exploited flaw**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 - [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
 - [Day Zero Readiness: The Operational Gaps That Break Incident Response](https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html)
@@ -23,18 +24,17 @@
 - [vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution](https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html)
 - [Mirai-Based xlabs_v1 Botnet Exploits ADB to Hijack IoT Devices for DDoS Attacks](https://thehackernews.com/2026/05/mirai-based-xlabsv1-botnet-exploits-adb.html)
 - [MuddyWater Uses Microsoft Teams to Steal Credentials in False Flag Ransomware Attack](https://thehackernews.com/2026/05/muddywater-uses-microsoft-teams-to.html)
-- [The Hacker News Launches 'Cybersecurity Stars Awards 2026' — Submissions Now Open](https://thehackernews.com/2026/05/the-hacker-news-launches-cybersecurity.html)
 
 ### BleepingComputer
 
+- [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
+- [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
 - [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
 - [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
 - [Webinar: Why modern attacks require both security and recovery](https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/)
 - [Palo Alto Networks firewall zero-day exploited for nearly a month](https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/)
 - [Fake Claude AI website delivers new 'Beagle' Windows malware](https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/)
 - [Hackers abuse Google ads for GoDaddy ManageWP login phishing](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/)
-- [Critical vm2 sandbox bug lets attackers execute code on hosts](https://www.bleepingcomputer.com/news/security/critical-vm2-sandbox-bug-lets-attackers-execute-code-on-hosts/)
-- [New Cisco DoS flaw requires manual reboot to revive devices](https://www.bleepingcomputer.com/news/security/new-cisco-dos-flaw-requires-manual-reboot-to-revive-devices/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
+- [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
+- [Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking](https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/)
+- [Chrome 148 Rolls Out With 127 Security Fixes](https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/)
 - [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
 - [Vendor Says Daemon Tools Supply Chain Attack Contained](https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/)
 - [AI Coding Agents Could Fuel Next Supply Chain Crisis](https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/)
 - [Webinar Today: Securing Identity Across Humans, Machines and AI](https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/)
-- [Cisco Patches High-Severity Vulnerabilities in Enterprise Products](https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/)
-- [Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack](https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/)
-- [Claude AI Guided Hackers Toward OT Assets During Water Utility Intrusion](https://www.securityweek.com/claude-ai-guided-hackers-toward-ot-assets-during-water-utility-intrusion/)
-- [Autonomous Offensive Security Firm XBOW Raises $35 Million](https://www.securityweek.com/autonomous-offensive-security-firm-xbow-raises-35-million/)
 
 ### Threatpost
 

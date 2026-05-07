@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-05-07 10:19",
+  "last_updated": "2026-05-07 13:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "pixel binary transparency",
-    "managewp godaddy's platform",
     "iran's intelligence agencies",
     "false flag operation",
+    "aggravated identity theft",
     "detect attacks hackers",
-    "romanian man extradited",
-    "service ddos attacks",
     "massive ddos attacks",
-    "otps cybersecurity researchers",
-    "twitter whistleblower complaint",
-    "today's cybersecurity teams",
-    "gartner market guide",
-    "company's public image",
-    "biggest newsmaking events",
-    "analysts recently confirmed",
     "130 companies tangled",
+    "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "scada login screen",
+    "phishing campaign delivered",
+    "managewp godaddy's platform",
+    "biggest newsmaking events",
+    "service ddos attacks",
+    "today's cybersecurity teams",
     "things iot devices",
-    "pvi client versions",
     "pvi client application",
+    "linux cybersecurity researchers",
+    "modern attacks require",
+    "discovered three packages",
     "security product's controls"
   ],
   "trending": [
     {
-      "keyword": "pixel binary transparency",
-      "mentions": 10
-    },
-    {
-      "keyword": "managewp godaddy's platform",
-      "mentions": 4
-    },
-    {
       "keyword": "iran's intelligence agencies",
-      "mentions": 477
+      "mentions": 478
     },
     {
       "keyword": "false flag operation",
-      "mentions": 8
-    },
-    {
-      "keyword": "detect attacks hackers",
-      "mentions": 8
-    },
-    {
-      "keyword": "romanian man extradited",
       "mentions": 9
     },
     {
-      "keyword": "service ddos attacks",
-      "mentions": 81
+      "keyword": "aggravated identity theft",
+      "mentions": 71
+    },
+    {
+      "keyword": "detect attacks hackers",
+      "mentions": 9
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 60
+      "mentions": 61
     },
     {
-      "keyword": "otps cybersecurity researchers",
-      "mentions": 5
+      "keyword": "130 companies tangled",
+      "mentions": 242
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1561
+      "mentions": 1562
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 327
+    },
+    {
+      "keyword": "scada login screen",
+      "mentions": 1
+    },
+    {
+      "keyword": "phishing campaign delivered",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
+      "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
+      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
+      "published": "Thu, 07 May 2026 19:04:00 +0530",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
+      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
+      "published": "Thu, 07 May 2026 17:03:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
+      "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
+      "summary": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do. That distinction matters far more than many organizations realize. In the first hours of a security incident",
+      "published": "Thu, 07 May 2026 16:24:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
@@ -121,31 +155,42 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-      "summary": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.” Enterprise leaders can request access to the Gartner Market Guide for",
-      "published": "Wed, 06 May 2026 16:27:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Americans sentenced for running 'laptop farms' for North Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
+      "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
+      "published": "Thu, 07 May 2026 09:45:48 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-      "summary": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
-      "published": "Wed, 06 May 2026 14:43:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
+      "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
+      "summary": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
+      "published": "Thu, 07 May 2026 08:11:53 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
-      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
-      "summary": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
-      "published": "Wed, 06 May 2026 14:04:00 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Webinar: Why modern attacks require both security and recovery",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
+      "summary": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
+      "published": "Thu, 07 May 2026 08:00:08 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
+      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
+      "summary": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
+      "published": "Thu, 07 May 2026 06:57:59 -0400",
+      "value_score": 74,
       "value_signals": [
+        "Zero-day ×2",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -190,50 +235,6 @@
       "published": "Wed, 06 May 2026 14:06:21 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DAEMON Tools devs confirm breach, release malware-free version",
-      "link": "https://www.bleepingcomputer.com/news/security/daemon-tools-devs-confirm-breach-release-malware-free-version/",
-      "summary": "Disc Soft Limited, the maker of DAEMON Tools Lite, confirmed that the software had been trojanized in a supply chain attack and released a new, malware-free version. [...]",
-      "published": "Wed, 06 May 2026 12:43:30 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why ransomware attacks succeed even when backups exist",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ransomware-attacks-succeed-even-when-backups-exist/",
-      "summary": "Backups don't fail because they're missing, they fail because attackers destroy them first. Acronis explains how ransomware targets backup systems before encryption, leaving no path to recovery. [...]",
-      "published": "Wed, 06 May 2026 10:04:14 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "MuddyWater hackers use Chaos ransomware as a decoy in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/muddywater-hackers-use-chaos-ransomware-as-a-decoy-in-attacks/",
-      "summary": "The MuddyWater Iranian hackers disguised their operations as a Chaos ransomware attack, relying on Microsoft Teams social engineering to gain access and establish persistence. [...]",
-      "published": "Wed, 06 May 2026 09:02:52 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why network incidents escalate and how to fix response gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-escalate-and-how-to-fix-response-gaps/",
-      "summary": "Most network incidents don't escalate due to a lack of alerts; they escalate when response breaks down. This webinar explores how to fix gaps in triage, enrichment, and coordination. [...]",
-      "published": "Wed, 06 May 2026 08:56:32 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +323,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
+      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "published": "Thu, 07 May 2026 13:00:00 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
+      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
+      "published": "Thu, 07 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
       "link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
       "summary": "Authors of the VoidStealer Trojan uncovered a way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
@@ -382,20 +403,60 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations",
-      "link": "https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations",
-      "summary": "The UC Berkeley Center for Long-Term Cybersecurity (CLTC) offers tools and support to schools, local governments, and non-profits as they defend themselves against a growing volume of cyberattacks.",
-      "published": "Tue, 05 May 2026 20:00:49 GMT",
+      "source": "Security Week",
+      "title": "Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes",
+      "link": "https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/",
+      "summary": "Cisco’s AI security researchers have analyzed ways to target vision-language models (VLMs) using pixel-level perturbation. The post Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 13:45:53 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Vendor Says Daemon Tools Supply Chain Attack Contained",
+      "link": "https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/",
+      "summary": "The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages. The post Vendor Says Daemon Tools Supply Chain Attack Contained appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 13:21:02 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Why Security Leadership Makes or Breaks a Pen Test",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests",
-      "summary": "Well-run security drills go beyond checking audit boxes to identifying and addressing trouble spots. Effective leaders ensure proper scope, access, and follow-through, but it's not easy.",
-      "published": "Tue, 05 May 2026 18:36:34 GMT",
+      "source": "Security Week",
+      "title": "AI Coding Agents Could Fuel Next Supply Chain Crisis",
+      "link": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
+      "summary": "“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises. The post AI Coding Agents Could Fuel Next Supply Chain Crisis appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Securing Identity Across Humans, Machines and AI",
+      "link": "https://www.securityweek.com/webinar-today-securing-identity-across-humans-machines-and-ai/",
+      "summary": "From service accounts to AI-driven processes, identity is evolving faster than most security programs can adapt. Discover strategies for reducing risk and regaining control. The post Webinar Today: Securing Identity Across Humans, Machines and AI appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Patches High-Severity Vulnerabilities in Enterprise Products",
+      "link": "https://www.securityweek.com/cisco-patches-high-severity-vulnerabilities-in-enterprise-products/",
+      "summary": "Successful exploitation of the flaws could lead to code execution, server-side request forgery attacks, and denial-of-service conditions. The post Cisco Patches High-Severity Vulnerabilities in Enterprise Products appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 11:24:01 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack",
+      "link": "https://www.securityweek.com/gemini-cli-vulnerability-could-have-led-to-code-execution-supply-chain-attack/",
+      "summary": "Attackers could inject prompts into a GitHub issue and take over the AI agent designed to automatically triage the issue. The post Gemini CLI Vulnerability Could Have Led to Code Execution, Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Thu, 07 May 2026 10:39:34 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -416,67 +477,6 @@
       "published": "Wed, 06 May 2026 14:49:33 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Herd Security Raises $3 Million for AI-Powered Training Platform",
-      "link": "https://www.securityweek.com/herd-security-raises-3-million-for-ai-powered-training-platform/",
-      "summary": "The startup will invest in expanding its training categories, optimizing video generation, and growing its partnership ecosystem. The post Herd Security Raises $3 Million for AI-Powered Training Platform appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 13:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Iranian APT Intrusion Masquerades as Chaos Ransomware Attack",
-      "link": "https://www.securityweek.com/iranian-apt-intrusion-masquerades-as-chaos-ransomware-attack/",
-      "summary": "Likely perpetrated by MuddyWater, the attack combined social engineering, persistence, credential harvesting, and data theft. The post Iranian APT Intrusion Masquerades as Chaos Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 13:00:00 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago",
-      "link": "https://www.securityweek.com/romanian-extradited-to-us-for-role-in-hacking-scheme-17-years-ago/",
-      "summary": "Gavril Sandu, 53, was indicted in 2017, but was arrested and extradited to the United States only in 2026. The post Romanian Man Extradited to US for Role in Hacking Scheme 17 Years Ago appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 11:57:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict",
-      "link": "https://www.securityweek.com/cisa-critical-infrastructure-must-master-isolation-recovery/",
-      "summary": "Agency issued guidance and calls on operators to build resilient OT environments capable of surviving extended isolation and cyber compromise. The post CISA Launches ‘CI Fortify’ to Prepare Critical Infrastructure for Geopolitical Cyber Conflict appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 10:15:34 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Sophisticated Quasar Linux RAT Targets Software Developers",
-      "link": "https://www.securityweek.com/sophisticated-quasar-linux-rat-targets-software-developers/",
-      "summary": "The persistent, evasive implant provides remote access, surveillance, and credential exfiltration capabilities. The post Sophisticated Quasar Linux RAT Targets Software Developers appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 09:48:39 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack",
-      "link": "https://www.securityweek.com/government-scientific-entities-hit-via-daemon-tools-supply-chain-attack/",
-      "summary": "While trojanized Daemon Tools versions were installed worldwide, a sophisticated backdoor was dropped only on a dozen systems. The post Government, Scientific Entities Hit via Daemon Tools Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Wed, 06 May 2026 08:33:40 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Threatpost",

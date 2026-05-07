@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-07 10:19 UTC |
+| 🕐 Last Updated | 2026-05-07 13:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pixel binary transparency` • `managewp godaddy's platform` • `iran's intelligence agencies` • `false flag operation` • `detect attacks hackers` • `romanian man extradited` • `service ddos attacks` • `massive ddos attacks` • `otps cybersecurity researchers` • `twitter whistleblower complaint`
+`iran's intelligence agencies` • `false flag operation` • `aggravated identity theft` • `detect attacks hackers` • `massive ddos attacks` • `130 companies tangled` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `scada login screen` • `phishing campaign delivered`
 
 ## 📄 Reports
 

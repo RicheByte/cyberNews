@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1568,
+      "count": 1569,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1669,7 +1669,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 333,
+      "count": 334,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6291,7 +6291,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -13433,7 +13433,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13801,7 +13801,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14846,7 +14846,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15293,7 +15293,7 @@
       ]
     },
     "pvi client application": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15388,7 +15388,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15444,14 +15444,14 @@
       ]
     },
     "pvi client versions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "scada login screen": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15482,49 +15482,49 @@
       ]
     },
     "chrome 148 rolls": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "chinese state hacking": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "running laptop farms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "called laptop farms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "exposed cloud infrastructure": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "campaign bearing hallmarks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "voidstealer trojan uncovered": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15537,7 +15537,7 @@
       ]
     },
     "patient zero webinar": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15551,6 +15551,12 @@
       ]
     },
     "service's login page": {
+      "count": 2,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "claude chrome extension": {
       "count": 1,
       "dates": [
         "2026-05-08"
@@ -15558,17 +15564,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-27 10:09",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "poorly timed restarts",
-        "firestarter malware obtained",
-        "fake investment sites",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-27 13:28",
       "articles": 56,
@@ -16656,6 +16651,17 @@
         "exposed cloud infrastructure",
         "patient zero webinar",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-08 07:22",
+      "articles": 56,
+      "top_keywords": [
+        "chrome 148 rolls",
+        "actively exploited flaw",
+        "pvi client application",
+        "exposed cloud infrastructure",
+        "patient zero webinar"
       ]
     }
   ]

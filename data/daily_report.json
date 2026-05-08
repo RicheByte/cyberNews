@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 19:09",
+  "last_updated": "2026-05-08 20:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -21,49 +21,49 @@
     "pvi client versions",
     "ransomhouse threat group",
     "targeting developers systems",
-    "275 million students",
-    "cybercrime group defaced"
+    "shinyhunters extortion gang",
+    "275 million students"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "public water supply",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 340
+      "mentions": 341
     },
     {
       "keyword": "actively exploited flaw",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1575
+      "mentions": 1576
     },
     {
       "keyword": "service's login page",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "scada login screen",
-      "mentions": 12
+      "mentions": 13
     }
   ],
   "articles": [
@@ -334,6 +334,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ShinyHunters Claims Second Attack Against Instructure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
+      "summary": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
+      "published": "Fri, 08 May 2026 20:08:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
       "link": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
       "summary": "PCPJack makes innovative use of parquet files for stealthy, pre-validated target discovery as it canvasses multiple cloud environments.",
@@ -354,6 +363,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
+      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
+      "published": "Thu, 07 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
       "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
       "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
@@ -362,15 +380,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
-      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
-      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -398,15 +407,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
       "summary": "As part of its 20th anniversary celebration, Dark Reading looks back on 20 of the biggest newsmaking events from the past two decades that influenced the risk landscape for today's cybersecurity teams.",
       "published": "Wed, 06 May 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
-      "summary": "In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plug-in, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
-      "published": "Wed, 06 May 2026 10:30:27 GMT",
       "value_score": 10,
       "value_signals": []
     },

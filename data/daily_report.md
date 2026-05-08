@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-08 19:09 UTC  
+> **Last Updated:** 2026-05-08 20:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **patient zero webinar** • **internal trellix services** • **sprawling phishing campaign** • **actively exploited flaw** • **service ddos attacks** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **massive ddos attacks** • **provided fake data** • **pvi client versions** • **ransomhouse threat group** • **targeting developers systems** • **275 million students** • **cybercrime group defaced**
+**pvi client application** • **public water supply** • **patient zero webinar** • **internal trellix services** • **sprawling phishing campaign** • **actively exploited flaw** • **service ddos attacks** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **massive ddos attacks** • **provided fake data** • **pvi client versions** • **ransomhouse threat group** • **targeting developers systems** • **shinyhunters extortion gang** • **275 million students**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [ShinyHunters Claims Second Attack Against Instructure](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure)
 - [After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets](https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets)
 - [Has CISA Finally Found Its New Leader in Tom Parker?](https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker)
-- [AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
 - ['TrustFall' Convention Exposes Claude Code Execution Risk](https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk)
+- [AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
 - [VoidStealer Malware Darts Past Google Chrome's Encryption](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
 - [Instructure Breach Exposes Schools' Vendor Dependence](https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence)
 - [From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber](https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber)
-- [Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA](https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa)
 
 ### Security Week
 

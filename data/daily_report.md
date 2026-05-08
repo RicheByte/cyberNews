@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-08 07:22 UTC  
+> **Last Updated:** 2026-05-08 09:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chrome 148 rolls** • **actively exploited flaw** • **pvi client application** • **exposed cloud infrastructure** • **patient zero webinar** • **sprawling phishing campaign** • **voidstealer trojan uncovered** • **twitter whistleblower complaint** • **claude chrome extension** • **chinese state hacking** • **biggest newsmaking events** • **aggravated identity theft** • **service ddos attacks** • **massive ddos attacks** • **service's login page** • **scada login screen** • **running laptop farms** • **pvi client versions** • **campaign bearing hallmarks** • **called laptop farms**
+**actively exploited flaw** • **pvi client application** • **exposed cloud infrastructure** • **patient zero webinar** • **sprawling phishing campaign** • **much free time** • **voidstealer trojan uncovered** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **claude chrome extension** • **chinese state hacking** • **biggest newsmaking events** • **aggravated identity theft** • **275 million students** • **service ddos attacks** • **massive ddos attacks** • **pvi client versions** • **internal trellix services** • **campaign bearing hallmarks**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
+- [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
 - [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
 - [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
 - [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
 - [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
 - [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
 - [The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls](https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/)
-- [Americans sentenced for running 'laptop farms' for North Korea](https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/)
-- [Crypto gang member gets 6.5 years for role in $230 million heist](https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials](https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/)
+- [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
 - [Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover](https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/)
 - [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
 - [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
 - [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
 - [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
 - [Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking](https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/)
-- [Chrome 148 Rolls Out With 127 Security Fixes](https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/)
-- [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
 
 ### Threatpost
 

@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-05-08 07:22",
+  "last_updated": "2026-05-08 09:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "chrome 148 rolls",
     "actively exploited flaw",
     "pvi client application",
     "exposed cloud infrastructure",
     "patient zero webinar",
     "sprawling phishing campaign",
+    "much free time",
     "voidstealer trojan uncovered",
     "twitter whistleblower complaint",
+    "service's login page",
+    "scada login screen",
     "claude chrome extension",
     "chinese state hacking",
     "biggest newsmaking events",
     "aggravated identity theft",
+    "275 million students",
     "service ddos attacks",
     "massive ddos attacks",
-    "service's login page",
-    "scada login screen",
-    "running laptop farms",
     "pvi client versions",
-    "campaign bearing hallmarks",
-    "called laptop farms"
+    "internal trellix services",
+    "campaign bearing hallmarks"
   ],
   "trending": [
     {
-      "keyword": "chrome 148 rolls",
-      "mentions": 7
-    },
-    {
       "keyword": "actively exploited flaw",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "pvi client application",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "exposed cloud infrastructure",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 334
+      "mentions": 335
+    },
+    {
+      "keyword": "much free time",
+      "mentions": 4
     },
     {
       "keyword": "voidstealer trojan uncovered",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1569
+      "mentions": 1570
     },
     {
-      "keyword": "claude chrome extension",
-      "mentions": 1
+      "keyword": "service's login page",
+      "mentions": 3
     },
     {
-      "keyword": "chinese state hacking",
+      "keyword": "scada login screen",
       "mentions": 7
     }
   ],
@@ -163,6 +163,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Former govt contractor convicted for wiping dozens of federal databases",
+      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
+      "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
+      "published": "Fri, 08 May 2026 04:45:04 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
+      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
+      "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "published": "Fri, 08 May 2026 03:45:24 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
       "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
       "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
@@ -219,24 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
       "summary": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
       "published": "Thu, 07 May 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Americans sentenced for running 'laptop farms' for North Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/americans-sentenced-for-running-laptop-farms-for-north-korea/",
-      "summary": "Two U.S. nationals were sentenced to 18 months in prison each for operating so-called laptop farms that helped North Korean IT workers fraudulently obtain remote employment at nearly 70 American companies. [...]",
-      "published": "Thu, 07 May 2026 09:45:48 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
-      "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
-      "summary": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
-      "published": "Thu, 07 May 2026 08:11:53 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -407,6 +409,26 @@
     },
     {
       "source": "Security Week",
+      "title": "‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials",
+      "link": "https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/",
+      "summary": "The malware framework targets web applications and cloud environments, including AWS, Docker, Kubernetes, and more. The post ‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials appeared first on SecurityWeek .",
+      "published": "Fri, 08 May 2026 08:32:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ransomware Group Takes Credit for Trellix Hack",
+      "link": "https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/",
+      "summary": "RansomHouse has published several screenshots to demonstrate access to internal Trellix services. The post Ransomware Group Takes Credit for Trellix Hack appeared first on SecurityWeek .",
+      "published": "Fri, 08 May 2026 07:58:04 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
       "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
       "summary": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension. The post Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover appeared first on SecurityWeek .",
@@ -465,29 +487,6 @@
       "published": "Thu, 07 May 2026 14:33:06 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 148 Rolls Out With 127 Security Fixes",
-      "link": "https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/",
-      "summary": "The fresh browser update resolves critical-severity integer overflow and use-after-free vulnerabilities. The post Chrome 148 Rolls Out With 127 Security Fixes appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 14:10:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes",
-      "link": "https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/",
-      "summary": "Cisco’s AI security researchers have analyzed ways to target vision-language models (VLMs) using pixel-level perturbation. The post Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 13:45:53 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

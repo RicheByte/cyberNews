@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1569,
+      "count": 1570,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1669,7 +1669,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 334,
+      "count": 335,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6291,7 +6291,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -13433,7 +13433,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13801,7 +13801,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14846,7 +14846,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15293,7 +15293,7 @@
       ]
     },
     "pvi client application": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15388,7 +15388,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15444,14 +15444,14 @@
       ]
     },
     "pvi client versions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "scada login screen": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15489,7 +15489,7 @@
       ]
     },
     "chinese state hacking": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15510,21 +15510,21 @@
       ]
     },
     "exposed cloud infrastructure": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "campaign bearing hallmarks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "voidstealer trojan uncovered": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15537,26 +15537,38 @@
       ]
     },
     "patient zero webinar": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "much free time": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "service's login page": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-08"
       ]
     },
     "claude chrome extension": {
+      "count": 2,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "275 million students": {
+      "count": 1,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "internal trellix services": {
       "count": 1,
       "dates": [
         "2026-05-08"
@@ -15564,17 +15576,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-27 13:28",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "russia hacked routers",
-        "deploy snow malware",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-04-27 15:43",
       "articles": 56,
@@ -16662,6 +16663,17 @@
         "pvi client application",
         "exposed cloud infrastructure",
         "patient zero webinar"
+      ]
+    },
+    {
+      "timestamp": "2026-05-08 09:12",
+      "articles": 56,
+      "top_keywords": [
+        "actively exploited flaw",
+        "pvi client application",
+        "exposed cloud infrastructure",
+        "patient zero webinar",
+        "sprawling phishing campaign"
       ]
     }
   ]

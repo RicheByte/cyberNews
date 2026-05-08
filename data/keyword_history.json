@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1571,
+      "count": 1572,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1669,7 +1669,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 336,
+      "count": 337,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6291,7 +6291,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7935,7 +7935,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7949,7 +7949,8 @@
         "2026-05-02",
         "2026-05-03",
         "2026-05-04",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-08"
       ]
     },
     "unfortunately named toolkit": {
@@ -13433,7 +13434,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13801,7 +13802,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14846,7 +14847,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15293,7 +15294,7 @@
       ]
     },
     "pvi client application": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15388,7 +15389,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15445,14 +15446,14 @@
       ]
     },
     "pvi client versions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "scada login screen": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15511,7 +15512,7 @@
       ]
     },
     "exposed cloud infrastructure": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15538,7 +15539,7 @@
       ]
     },
     "patient zero webinar": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15552,7 +15553,7 @@
       ]
     },
     "service's login page": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-08"
       ]
@@ -15570,12 +15571,36 @@
       ]
     },
     "internal trellix services": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-08"
       ]
     },
     "cybercrime group defaced": {
+      "count": 2,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "qlnx targets developers": {
+      "count": 1,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "public water supply": {
+      "count": 1,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "ai driven cyberattack": {
+      "count": 1,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "ai s risks": {
       "count": 1,
       "dates": [
         "2026-05-08"
@@ -15583,17 +15608,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-27 17:17",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "sending real money",
-        "fake investment sites",
-        "5 000 workers",
-        "130 companies tangled"
-      ]
-    },
     {
       "timestamp": "2026-04-27 19:11",
       "articles": 56,
@@ -16681,6 +16695,17 @@
         "exposed cloud infrastructure",
         "patient zero webinar",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-08 13:21",
+      "articles": 56,
+      "top_keywords": [
+        "actively exploited flaw",
+        "pvi client application",
+        "exposed cloud infrastructure",
+        "sprawling phishing campaign",
+        "patient zero webinar"
       ]
     }
   ]

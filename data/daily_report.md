@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-08 11:07 UTC  
+> **Last Updated:** 2026-05-08 13:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**actively exploited flaw** • **pvi client application** • **exposed cloud infrastructure** • **patient zero webinar** • **sprawling phishing campaign** • **service ddos attacks** • **much free time** • **voidstealer trojan uncovered** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **chinese state hacking** • **biggest newsmaking events** • **aggravated identity theft** • **massive ddos attacks** • **pvi client versions** • **internal trellix services** • **campaign bearing hallmarks** • **detect attacks hackers** • **cybercrime group defaced**
+**actively exploited flaw** • **pvi client application** • **exposed cloud infrastructure** • **sprawling phishing campaign** • **patient zero webinar** • **service ddos attacks** • **qlnx targets developers** • **public water supply** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **massive ddos attacks** • **pvi client versions** • **internal trellix services** • **ai driven cyberattack** • **cybercrime group defaced** • **ai s risks** • **wire fraud conspiracy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 - [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
 - [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
@@ -23,10 +24,10 @@
 - [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
 - [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
-- [ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html)
 
 ### BleepingComputer
 
+- [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 - [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 - [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
 - [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
@@ -34,7 +35,6 @@
 - [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
 - [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
 - [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
-- [Ivanti warns of new EPMM flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/)
 
 ### Krebs on Security
 
@@ -51,23 +51,23 @@
 
 - [After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets](https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets)
 - [Has CISA Finally Found Its New Leader in Tom Parker?](https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker)
+- [AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
 - ['TrustFall' Convention Exposes Claude Code Execution Risk](https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk)
-- [World's First AI-Driven Cyberattack Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
-- [Yet Another Way to Bypass Google Chrome's Encryption Protection](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
+- [VoidStealer Malware Darts Past Google Chrome's Encryption](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
 - [Instructure Breach Exposes Schools' Vendor Dependence](https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence)
 - [From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber](https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber)
 - [Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA](https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa)
 
 ### Security Week
 
+- [Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants](https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/)
+- [AI Firm Braintrust Prompts API Key Rotation After Data Breach](https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/)
 - [Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom](https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/)
 - [‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials](https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/)
 - [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
 - [Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover](https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/)
 - [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
 - [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
-- [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
-- [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
 
 ### Threatpost
 

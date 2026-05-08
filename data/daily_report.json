@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-08 11:07",
+  "last_updated": "2026-05-08 13:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "actively exploited flaw",
     "pvi client application",
     "exposed cloud infrastructure",
-    "patient zero webinar",
     "sprawling phishing campaign",
+    "patient zero webinar",
     "service ddos attacks",
-    "much free time",
-    "voidstealer trojan uncovered",
+    "qlnx targets developers",
+    "public water supply",
     "twitter whistleblower complaint",
     "service's login page",
     "scada login screen",
-    "chinese state hacking",
     "biggest newsmaking events",
     "aggravated identity theft",
     "massive ddos attacks",
     "pvi client versions",
     "internal trellix services",
-    "campaign bearing hallmarks",
-    "detect attacks hackers",
-    "cybercrime group defaced"
+    "ai driven cyberattack",
+    "cybercrime group defaced",
+    "ai s risks",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "actively exploited flaw",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "pvi client application",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "exposed cloud infrastructure",
-      "mentions": 8
-    },
-    {
-      "keyword": "patient zero webinar",
-      "mentions": 6
+      "mentions": 9
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 336
+      "mentions": 337
+    },
+    {
+      "keyword": "patient zero webinar",
+      "mentions": 7
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 91
+      "mentions": 92
     },
     {
-      "keyword": "much free time",
-      "mentions": 5
+      "keyword": "qlnx targets developers",
+      "mentions": 1
     },
     {
-      "keyword": "voidstealer trojan uncovered",
-      "mentions": 8
+      "keyword": "public water supply",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1571
+      "mentions": 1572
     },
     {
       "keyword": "service's login page",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
+      "published": "Fri, 08 May 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
@@ -154,14 +163,17 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "summary": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
-      "published": "Thu, 07 May 2026 17:03:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "summary": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "published": "Fri, 08 May 2026 08:16:32 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Patch/update"
+        "Zero-day ×2",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -232,20 +244,6 @@
       "published": "Thu, 07 May 2026 14:00:59 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ivanti warns of new EPMM flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-new-epmm-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Ivanti warned customers today to patch a high-severity remote code execution vulnerability in Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
-      "published": "Thu, 07 May 2026 11:20:51 -0400",
-      "value_score": 94,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE",
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -356,16 +354,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
-      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
-      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
+      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
       "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
       "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
       "published": "Thu, 07 May 2026 13:00:00 GMT",
@@ -376,9 +365,18 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
+      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
+      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
+      "published": "Thu, 07 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "VoidStealer Malware Darts Past Google Chrome's Encryption",
       "link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
-      "summary": "Authors of the VoidStealer Trojan uncovered a way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
+      "summary": "Authors of the VoidStealer Trojan uncovered yet another way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
       "published": "Wed, 06 May 2026 21:19:11 GMT",
       "value_score": 10,
       "value_signals": []
@@ -411,6 +409,26 @@
       "published": "Wed, 06 May 2026 10:30:27 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
+      "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
+      "summary": "The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply. The post Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants appeared first on SecurityWeek .",
+      "published": "Fri, 08 May 2026 11:46:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach",
+      "link": "https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/",
+      "summary": "Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust. The post AI Firm Braintrust Prompts API Key Rotation After Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 08 May 2026 11:14:01 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -469,27 +487,6 @@
       "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
       "summary": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.” The post Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders appeared first on SecurityWeek .",
       "published": "Thu, 07 May 2026 19:10:11 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking",
-      "link": "https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/",
-      "summary": "The cybersecurity firm has not explicitly accused China of being behind the attack, but the evidence suggests it was. The post Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 15:31:12 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Boost Security Raises $4 Million for SDLC Defense Platform",
-      "link": "https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/",
-      "summary": "The company is expanding its platform’s capabilities with the acquisition of SecureIQx and Korbit.ai. The post Boost Security Raises $4 Million for SDLC Defense Platform appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 14:51:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

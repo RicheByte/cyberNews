@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1573,
+      "count": 1574,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1669,7 +1669,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 338,
+      "count": 339,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2297,7 +2297,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 244,
+      "count": 245,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6292,7 +6292,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -13435,7 +13435,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13803,7 +13803,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14848,7 +14848,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15295,7 +15295,7 @@
       ]
     },
     "pvi client application": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15390,7 +15390,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15447,14 +15447,14 @@
       ]
     },
     "pvi client versions": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "scada login screen": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15540,7 +15540,7 @@
       ]
     },
     "patient zero webinar": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15554,7 +15554,7 @@
       ]
     },
     "service's login page": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-08"
       ]
@@ -15566,31 +15566,31 @@
       ]
     },
     "275 million students": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-08"
       ]
     },
     "internal trellix services": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-08"
       ]
     },
     "cybercrime group defaced": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-08"
       ]
     },
     "qlnx targets developers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-08"
       ]
     },
     "public water supply": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-08"
       ]
@@ -15618,20 +15618,21 @@
       "dates": [
         "2026-05-08"
       ]
+    },
+    "provided fake data": {
+      "count": 1,
+      "dates": [
+        "2026-05-08"
+      ]
+    },
+    "ransomhouse threat group": {
+      "count": 1,
+      "dates": [
+        "2026-05-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-27 20:56",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "sms blaster device",
-        "fake investment sites",
-        "5 000 workers",
-        "130 companies tangled"
-      ]
-    },
     {
       "timestamp": "2026-04-27 22:45",
       "articles": 56,
@@ -16712,6 +16713,17 @@
     },
     {
       "timestamp": "2026-05-08 15:17",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "public water supply",
+        "patient zero webinar",
+        "sprawling phishing campaign",
+        "actively exploited flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-05-08 17:09",
       "articles": 56,
       "top_keywords": [
         "pvi client application",

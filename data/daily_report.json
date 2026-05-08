@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 15:17",
+  "last_updated": "2026-05-08 17:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,64 +9,73 @@
     "sprawling phishing campaign",
     "actively exploited flaw",
     "service ddos attacks",
-    "qlnx targets developers",
     "twitter whistleblower complaint",
     "service's login page",
     "scada login screen",
+    "qlnx targets developers",
     "biggest newsmaking events",
     "aggravated identity theft",
     "130 companies tangled",
     "massive ddos attacks",
     "pvi client versions",
     "internal trellix services",
+    "provided fake data",
+    "275 million students",
     "cybercrime group defaced",
-    "wire fraud conspiracy",
-    "windows based bridge",
-    "united states today"
+    "ransomhouse threat group"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "public water supply",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 338
+      "mentions": 339
     },
     {
       "keyword": "actively exploited flaw",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 93
-    },
-    {
-      "keyword": "qlnx targets developers",
-      "mentions": 2
+      "mentions": 94
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1573
+      "mentions": 1574
     },
     {
       "keyword": "service's login page",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "scada login screen",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "qlnx targets developers",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss. The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over",
+      "published": "Fri, 08 May 2026 20:38:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
@@ -149,17 +158,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
-      "published": "Thu, 07 May 2026 19:04:00 +0530",
-      "value_score": 62,
+      "source": "BleepingComputer",
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+      "published": "Fri, 08 May 2026 12:18:31 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -238,15 +244,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "published": "Thu, 07 May 2026 18:06:52 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-08 13:21",
+  "last_updated": "2026-05-08 15:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "actively exploited flaw",
     "pvi client application",
-    "exposed cloud infrastructure",
-    "sprawling phishing campaign",
+    "public water supply",
     "patient zero webinar",
+    "sprawling phishing campaign",
+    "actively exploited flaw",
     "service ddos attacks",
     "qlnx targets developers",
-    "public water supply",
     "twitter whistleblower complaint",
     "service's login page",
     "scada login screen",
     "biggest newsmaking events",
     "aggravated identity theft",
+    "130 companies tangled",
     "massive ddos attacks",
     "pvi client versions",
     "internal trellix services",
-    "ai driven cyberattack",
     "cybercrime group defaced",
-    "ai s risks",
-    "wire fraud conspiracy"
+    "wire fraud conspiracy",
+    "windows based bridge",
+    "united states today"
   ],
   "trending": [
     {
-      "keyword": "actively exploited flaw",
-      "mentions": 65
-    },
-    {
       "keyword": "pvi client application",
-      "mentions": 17
-    },
-    {
-      "keyword": "exposed cloud infrastructure",
-      "mentions": 9
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 337
-    },
-    {
-      "keyword": "patient zero webinar",
-      "mentions": 7
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 92
-    },
-    {
-      "keyword": "qlnx targets developers",
-      "mentions": 1
+      "mentions": 18
     },
     {
       "keyword": "public water supply",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "patient zero webinar",
+      "mentions": 8
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 338
+    },
+    {
+      "keyword": "actively exploited flaw",
+      "mentions": 66
+    },
+    {
+      "keyword": "service ddos attacks",
+      "mentions": 93
+    },
+    {
+      "keyword": "qlnx targets developers",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1572
+      "mentions": 1573
     },
     {
       "keyword": "service's login page",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "scada login screen",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+      "published": "Fri, 08 May 2026 19:31:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
@@ -139,17 +150,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
-      "published": "Thu, 07 May 2026 19:20:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
       "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
       "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
       "summary": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
@@ -160,6 +160,26 @@
         "RCE",
         "High severity",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+      "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+      "published": "Fri, 08 May 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
+      "published": "Fri, 08 May 2026 09:23:23 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
       ]
     },
     {
@@ -200,11 +220,12 @@
       "source": "BleepingComputer",
       "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "summary": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
       "published": "Fri, 08 May 2026 03:45:24 -0400",
-      "value_score": 60,
+      "value_score": 66,
       "value_signals": [
-        "Zero-day ×2"
+        "Zero-day ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -224,24 +245,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
       "summary": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
       "published": "Thu, 07 May 2026 18:06:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "summary": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "published": "Thu, 07 May 2026 14:35:50 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Australia warns of ClickFix attacks pushing Vidar Stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/",
-      "summary": "The Australian Cyber Security Center (ACSC) is warning organizations of an ongoing malware campaign using the ClickFix social engineering technique to distribute the Vidar Stealer info-stealing malware. [...]",
-      "published": "Thu, 07 May 2026 14:00:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -412,6 +415,19 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
+      "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry. The post In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner appeared first on SecurityWeek .",
+      "published": "Fri, 08 May 2026 14:30:00 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Patch/update",
+        "Backdoor ×2",
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
       "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
       "summary": "The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply. The post Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants appeared first on SecurityWeek .",
@@ -480,15 +496,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders",
-      "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
-      "summary": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.” The post Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 19:10:11 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

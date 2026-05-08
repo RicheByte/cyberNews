@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-08 13:21 UTC |
+| 🕐 Last Updated | 2026-05-08 15:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`actively exploited flaw` • `pvi client application` • `exposed cloud infrastructure` • `sprawling phishing campaign` • `patient zero webinar` • `service ddos attacks` • `qlnx targets developers` • `public water supply` • `twitter whistleblower complaint` • `service's login page`
+`pvi client application` • `public water supply` • `patient zero webinar` • `sprawling phishing campaign` • `actively exploited flaw` • `service ddos attacks` • `qlnx targets developers` • `twitter whistleblower complaint` • `service's login page` • `scada login screen`
 
 ## 📄 Reports
 

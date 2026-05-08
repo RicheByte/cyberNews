@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-08 13:21 UTC  
+> **Last Updated:** 2026-05-08 15:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**actively exploited flaw** • **pvi client application** • **exposed cloud infrastructure** • **sprawling phishing campaign** • **patient zero webinar** • **service ddos attacks** • **qlnx targets developers** • **public water supply** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **massive ddos attacks** • **pvi client versions** • **internal trellix services** • **ai driven cyberattack** • **cybercrime group defaced** • **ai s risks** • **wire fraud conspiracy**
+**pvi client application** • **public water supply** • **patient zero webinar** • **sprawling phishing campaign** • **actively exploited flaw** • **service ddos attacks** • **qlnx targets developers** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **massive ddos attacks** • **pvi client versions** • **internal trellix services** • **cybercrime group defaced** • **wire fraud conspiracy** • **windows based bridge** • **united states today**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 - [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
 - [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 - [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 - [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
-- [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage](https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html)
 
 ### BleepingComputer
 
+- [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
+- [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
 - [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 - [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 - [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
 - [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
 - [Canvas login portals hacked in mass ShinyHunters extortion campaign](https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/)
 - [New TCLBanker malware self-spreads over WhatsApp and Outlook](https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/)
-- [New PCPJack worm steals credentials, cleans TeamPCP infections](https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/)
-- [Australia warns of ClickFix attacks pushing Vidar Stealer malware](https://www.bleepingcomputer.com/news/security/australia-warns-of-clickfix-attacks-pushing-vidar-stealer-malware/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner](https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/)
 - [Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants](https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/)
 - [AI Firm Braintrust Prompts API Key Rotation After Data Breach](https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/)
 - [Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom](https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/)
@@ -67,7 +68,6 @@
 - [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
 - [Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover](https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/)
 - [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
-- [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
 
 ### Threatpost
 

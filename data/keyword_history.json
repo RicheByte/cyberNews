@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1567,
+      "count": 1568,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1669,7 +1669,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 332,
+      "count": 333,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6291,7 +6291,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -13433,7 +13433,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13801,7 +13801,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14846,7 +14846,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15293,7 +15293,7 @@
       ]
     },
     "pvi client application": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15388,7 +15388,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15444,14 +15444,14 @@
       ]
     },
     "pvi client versions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "scada login screen": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15482,49 +15482,49 @@
       ]
     },
     "chrome 148 rolls": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "chinese state hacking": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "running laptop farms": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "called laptop farms": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "exposed cloud infrastructure": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "campaign bearing hallmarks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "voidstealer trojan uncovered": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-07",
         "2026-05-08"
@@ -15537,32 +15537,27 @@
       ]
     },
     "patient zero webinar": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-07",
         "2026-05-08"
       ]
     },
     "much free time": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-07",
+        "2026-05-08"
+      ]
+    },
+    "service's login page": {
+      "count": 1,
+      "dates": [
         "2026-05-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-27 06:24",
-      "articles": 56,
-      "top_keywords": [
-        "poorly timed restarts",
-        "iran's intelligence agencies",
-        "firestarter malware obtained",
-        "twitter whistleblower complaint",
-        "iran war unleashing"
-      ]
-    },
     {
       "timestamp": "2026-04-27 10:09",
       "articles": 56,
@@ -16650,6 +16645,17 @@
         "exposed cloud infrastructure",
         "patient zero webinar",
         "iran's intelligence agencies"
+      ]
+    },
+    {
+      "timestamp": "2026-05-08 05:52",
+      "articles": 56,
+      "top_keywords": [
+        "chrome 148 rolls",
+        "pvi client application",
+        "exposed cloud infrastructure",
+        "patient zero webinar",
+        "sprawling phishing campaign"
       ]
     }
   ]

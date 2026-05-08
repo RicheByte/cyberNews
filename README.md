@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-08 02:35 UTC |
+| 🕐 Last Updated | 2026-05-08 05:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chrome 148 rolls` • `pvi client application` • `exposed cloud infrastructure` • `patient zero webinar` • `iran's intelligence agencies` • `sprawling phishing campaign` • `actively exploited flaw` • `voidstealer trojan uncovered` • `twitter whistleblower complaint` • `scada login screen`
+`chrome 148 rolls` • `pvi client application` • `exposed cloud infrastructure` • `patient zero webinar` • `sprawling phishing campaign` • `actively exploited flaw` • `voidstealer trojan uncovered` • `twitter whistleblower complaint` • `chinese state hacking` • `biggest newsmaking events`
 
 ## 📄 Reports
 

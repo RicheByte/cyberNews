@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-08 02:35",
+  "last_updated": "2026-05-08 05:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,19 +7,19 @@
     "pvi client application",
     "exposed cloud infrastructure",
     "patient zero webinar",
-    "iran's intelligence agencies",
     "sprawling phishing campaign",
     "actively exploited flaw",
     "voidstealer trojan uncovered",
     "twitter whistleblower complaint",
-    "scada login screen",
     "chinese state hacking",
     "biggest newsmaking events",
     "aggravated identity theft",
     "service ddos attacks",
+    "massive ddos attacks",
+    "service's login page",
+    "scada login screen",
     "running laptop farms",
     "pvi client versions",
-    "massive ddos attacks",
     "campaign bearing hallmarks",
     "called laptop farms",
     "much free time"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "chrome 148 rolls",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "pvi client application",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "exposed cloud infrastructure",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 2
-    },
-    {
-      "keyword": "iran's intelligence agencies",
-      "mentions": 483
+      "mentions": 3
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 332
+      "mentions": 333
     },
     {
       "keyword": "actively exploited flaw",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "voidstealer trojan uncovered",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1567
+      "mentions": 1568
     },
     {
-      "keyword": "scada login screen",
-      "mentions": 4
+      "keyword": "chinese state hacking",
+      "mentions": 6
+    },
+    {
+      "keyword": "biggest newsmaking events",
+      "mentions": 16
     }
   ],
   "articles": [
@@ -240,6 +240,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
+      "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
+      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
+      "published": "Fri, 08 May 2026 02:58:46 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Anti-DDoS Firm Heaped Attacks on Brazilian ISPs",
       "link": "https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/",
       "summary": "A Brazilian tech firm that specializes in protecting networks from distributed denial-of-service (DDoS) attacks has been enabling a botnet responsible for an extended campaign of massive DDoS attacks against other network operators in Brazil, KrebsOnSecurity has learned. The firm's chief executive says the malicious activity resulted from a security breach and was likely the work of a competitor trying to tarnish his company's public image.",
@@ -311,15 +322,6 @@
       "link": "https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/",
       "summary": "The U.S. Justice Department joined authorities in Canada and Germany in dismantling the online infrastructure behind four highly disruptive botnets that compromised more than three million hacked Internet of Things (IoT) devices, such as routers and web cameras. The feds say the four botnets -- named Aisuru, Kimwolf, JackSkid and Mossad -- are responsible for a series of recent record-smashing distributed denial-of-service (DDoS) attacks capable of knocking nearly any target offline.",
       "published": "Fri, 20 Mar 2026 00:49:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker",
-      "link": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-      "summary": "A hacktivist group with links to Iran's intelligence agencies is claiming responsibility for a data-wiping attack against Stryker, a global medical technology company based in Michigan. News reports out of Ireland, Stryker's largest hub outside of the United States, said the company sent home more than 5,000 workers there today. Meanwhile, a voicemail message at Stryker's main U.S. headquarters says the company is currently experiencing a building emergency.",
-      "published": "Wed, 11 Mar 2026 16:20:13 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -403,6 +405,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
+      "link": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
+      "summary": "CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code. The post Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 08 May 2026 05:41:30 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders",
       "link": "https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/",
       "summary": "Musk said that he could have founded OpenAI as a for-profit company, just like the other companies he started or took over. “I deliberately chose this,” he said, “for the public good.” The post Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders appeared first on SecurityWeek .",
@@ -469,15 +484,6 @@
       "link": "https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/",
       "summary": "The software developer has identified the impacted systems, removed potentially compromised files, and validated installation packages. The post Vendor Says Daemon Tools Supply Chain Attack Contained appeared first on SecurityWeek .",
       "published": "Thu, 07 May 2026 13:21:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Coding Agents Could Fuel Next Supply Chain Crisis",
-      "link": "https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/",
-      "summary": "“TrustFall” attack shows how AI coding agents can be manipulated into launching stealthy supply chain compromises. The post AI Coding Agents Could Fuel Next Supply Chain Crisis appeared first on SecurityWeek .",
-      "published": "Thu, 07 May 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

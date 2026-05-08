@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-08 02:35 UTC  
+> **Last Updated:** 2026-05-08 05:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chrome 148 rolls** • **pvi client application** • **exposed cloud infrastructure** • **patient zero webinar** • **iran's intelligence agencies** • **sprawling phishing campaign** • **actively exploited flaw** • **voidstealer trojan uncovered** • **twitter whistleblower complaint** • **scada login screen** • **chinese state hacking** • **biggest newsmaking events** • **aggravated identity theft** • **service ddos attacks** • **running laptop farms** • **pvi client versions** • **massive ddos attacks** • **campaign bearing hallmarks** • **called laptop farms** • **much free time**
+**chrome 148 rolls** • **pvi client application** • **exposed cloud infrastructure** • **patient zero webinar** • **sprawling phishing campaign** • **actively exploited flaw** • **voidstealer trojan uncovered** • **twitter whistleblower complaint** • **chinese state hacking** • **biggest newsmaking events** • **aggravated identity theft** • **service ddos attacks** • **massive ddos attacks** • **service's login page** • **scada login screen** • **running laptop farms** • **pvi client versions** • **campaign bearing hallmarks** • **called laptop farms** • **much free time**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
@@ -45,7 +46,6 @@
 - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
-- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
 - [Worries About AI’s Risks to Humanity Loom Over the Trial Pitting Musk Against OpenAI’s Leaders](https://www.securityweek.com/worries-about-ais-risks-to-humanity-loom-over-the-trial-pitting-musk-against-openais-leaders/)
 - [Palo Alto Zero-Day Exploited in Campaign Bearing Hallmarks of Chinese State Hacking](https://www.securityweek.com/palo-alto-zero-day-exploited-in-campaign-bearing-hallmarks-of-chinese-state-hacking/)
 - [Boost Security Raises $4 Million for SDLC Defense Platform](https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/)
@@ -67,7 +68,6 @@
 - [Chrome 148 Rolls Out With 127 Security Fixes](https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/)
 - [Attackers Could Exploit AI Vision Models Using Imperceptible Image Changes](https://www.securityweek.com/attackers-could-exploit-ai-vision-models-using-imperceptible-image-changes/)
 - [Vendor Says Daemon Tools Supply Chain Attack Contained](https://www.securityweek.com/vendor-says-daemon-tools-supply-chain-attack-contained/)
-- [AI Coding Agents Could Fuel Next Supply Chain Crisis](https://www.securityweek.com/ai-coding-agents-could-fuel-next-supply-chain-crisis/)
 
 ### Threatpost
 

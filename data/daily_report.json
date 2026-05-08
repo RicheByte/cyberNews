@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-08 17:09",
+  "last_updated": "2026-05-08 19:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
     "public water supply",
     "patient zero webinar",
+    "internal trellix services",
     "sprawling phishing campaign",
     "actively exploited flaw",
     "service ddos attacks",
     "twitter whistleblower complaint",
     "service's login page",
     "scada login screen",
-    "qlnx targets developers",
     "biggest newsmaking events",
     "aggravated identity theft",
     "130 companies tangled",
     "massive ddos attacks",
-    "pvi client versions",
-    "internal trellix services",
     "provided fake data",
+    "pvi client versions",
+    "ransomhouse threat group",
+    "targeting developers systems",
     "275 million students",
-    "cybercrime group defaced",
-    "ransomhouse threat group"
+    "cybercrime group defaced"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "public water supply",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "internal trellix services",
+      "mentions": 6
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 339
+      "mentions": 340
     },
     {
       "keyword": "actively exploited flaw",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "service ddos attacks",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1574
+      "mentions": 1575
     },
     {
       "keyword": "service's login page",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "scada login screen",
-      "mentions": 11
-    },
-    {
-      "keyword": "qlnx targets developers",
-      "mentions": 3
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick, which is known to leverage a worm called SORVEPOTEL to spread via",
+      "published": "Fri, 08 May 2026 23:42:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
@@ -143,17 +154,6 @@
         "Active exploitation",
         "RCE",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
-      "published": "Thu, 07 May 2026 23:15:00 +0530",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -580,6 +580,20 @@
     {
       "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42208 BerriAI LiteLLM SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common V",
+      "published": "Fri, 08 May 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog a",
       "published": "Thu, 07 May 26 12:00:00 +0000",
@@ -666,20 +680,6 @@
       "title": "ABB B&R PVI",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
       "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read sensitive information in the logging data of the PVI client application. Logging is deactivated by default in all PVI client versions. The following versions of ABB B&R PVI are affected: PVI <6.5.0, 6.5.0 (CVE-2026-0936) CVSS Vendor Equipment ",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB B&R Automation Studio",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. Successful exploitation of this vulnerability may enable an attacker to masquerade as a trusted party when B&R Automation Studio establishes a connection with a server via the ANSL over TLS or OPC-UA protocol. The following versions of ABB B&R Automation Studio are affected: Automation Studio <6.5, 6.5 (CVE-2025-11043) CVSS Vendor E",
       "published": "Tue, 05 May 26 12:00:00 +0000",
       "value_score": 67,
       "value_signals": [

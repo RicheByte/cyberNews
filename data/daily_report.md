@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-08 17:09 UTC  
+> **Last Updated:** 2026-05-08 19:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **patient zero webinar** • **sprawling phishing campaign** • **actively exploited flaw** • **service ddos attacks** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **qlnx targets developers** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **massive ddos attacks** • **pvi client versions** • **internal trellix services** • **provided fake data** • **275 million students** • **cybercrime group defaced** • **ransomhouse threat group**
+**pvi client application** • **public water supply** • **patient zero webinar** • **internal trellix services** • **sprawling phishing campaign** • **actively exploited flaw** • **service ddos attacks** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **massive ddos attacks** • **provided fake data** • **pvi client versions** • **ransomhouse threat group** • **targeting developers systems** • **275 million students** • **cybercrime group defaced**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 - [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
 - [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
@@ -23,7 +24,6 @@
 - [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 - [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
-- [PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems](https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html)
 
 ### BleepingComputer
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [MAXHUB Pivot Client Application](https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog)
@@ -89,7 +90,6 @@
 - [Hitachi Energy PCM600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01)
 - [Johnson Controls CEM AC2000](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05)
 - [ABB B&R PVI](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02)
-- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-04)
 
 ---
 

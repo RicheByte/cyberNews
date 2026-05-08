@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-08 09:12 UTC |
+| 🕐 Last Updated | 2026-05-08 11:07 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`actively exploited flaw` • `pvi client application` • `exposed cloud infrastructure` • `patient zero webinar` • `sprawling phishing campaign` • `much free time` • `voidstealer trojan uncovered` • `twitter whistleblower complaint` • `service's login page` • `scada login screen`
+`actively exploited flaw` • `pvi client application` • `exposed cloud infrastructure` • `patient zero webinar` • `sprawling phishing campaign` • `service ddos attacks` • `much free time` • `voidstealer trojan uncovered` • `twitter whistleblower complaint` • `service's login page`
 
 ## 📄 Reports
 

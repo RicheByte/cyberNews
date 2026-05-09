@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-09 06:11 UTC  
+> **Last Updated:** 2026-05-09 09:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **patient zero webinar** • **internal trellix services** • **sprawling phishing campaign** • **actively exploited flaw** • **service ddos attacks** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **massive ddos attacks** • **provided fake data** • **pvi client versions** • **ransomhouse threat group** • **targeting developers systems** • **shinyhunters extortion gang** • **275 million students**
+**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **internal trellix services** • **sprawling phishing campaign** • **massive ddos attacks** • **twitter whistleblower complaint** • **service's login page** • **scada login screen** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **provided fake data** • **pvi client versions** • **actively exploited flaw** • **ransomhouse threat group** • **targeting developers systems** • **shinyhunters extortion gang**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 - [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
 - [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
@@ -23,7 +24,6 @@
 - [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
 - [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 - [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
-- [Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access](https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html)
 
 ### BleepingComputer
 

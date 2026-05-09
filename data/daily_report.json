@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 13:05",
+  "last_updated": "2026-05-09 14:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,11 +8,9 @@
     "address three vulnerabilities",
     "patient zero webinar",
     "internal trellix services",
-    "sprawling phishing campaign",
     "massive ddos attacks",
     "twitter whistleblower complaint",
-    "service's login page",
-    "scada login screen",
+    "sprawling phishing campaign",
     "biggest newsmaking events",
     "aggravated identity theft",
     "130 companies tangled",
@@ -22,48 +20,50 @@
     "actively exploited flaw",
     "ransomhouse threat group",
     "targeting developers systems",
-    "shinyhunters extortion gang"
+    "275 million students",
+    "cybercrime group defaced",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "public water supply",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 13
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 347
+      "mentions": 14
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1582
+      "mentions": 1583
     },
     {
-      "keyword": "service's login page",
-      "mentions": 15
+      "keyword": "sprawling phishing campaign",
+      "mentions": 348
     },
     {
-      "keyword": "scada login screen",
-      "mentions": 19
+      "keyword": "biggest newsmaking events",
+      "mentions": 31
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 92
     }
   ],
   "articles": [
@@ -158,6 +158,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
+      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
+      "published": "Sat, 09 May 2026 10:26:03 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
       "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
       "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
@@ -230,17 +239,6 @@
       "value_score": 66,
       "value_signals": [
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "summary": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
-      "published": "Thu, 07 May 2026 18:36:54 -0400",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

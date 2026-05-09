@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-09 13:05 UTC |
+| 🕐 Last Updated | 2026-05-09 14:45 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pvi client application` • `public water supply` • `address three vulnerabilities` • `patient zero webinar` • `internal trellix services` • `sprawling phishing campaign` • `massive ddos attacks` • `twitter whistleblower complaint` • `service's login page` • `scada login screen`
+`pvi client application` • `public water supply` • `address three vulnerabilities` • `patient zero webinar` • `internal trellix services` • `massive ddos attacks` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `biggest newsmaking events` • `aggravated identity theft`
 
 ## 📄 Reports
 

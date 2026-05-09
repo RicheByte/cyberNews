@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-09 18:53",
+  "last_updated": "2026-05-09 20:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,6 +8,7 @@
     "address three vulnerabilities",
     "patient zero webinar",
     "internal trellix services",
+    "fake openai repository",
     "massive ddos attacks",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -15,55 +16,54 @@
     "aggravated identity theft",
     "130 companies tangled",
     "service ddos attacks",
-    "provided fake data",
     "pvi client versions",
     "actively exploited flaw",
+    "provided fake data",
     "ransomhouse threat group",
     "targeting developers systems",
     "275 million students",
-    "cybercrime group defaced",
-    "wire fraud conspiracy"
+    "cybercrime group defaced"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "public water supply",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "fake openai repository",
+      "mentions": 1
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 84
+      "mentions": 85
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1585
+      "mentions": 1586
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 350
+      "mentions": 351
     },
     {
       "keyword": "biggest newsmaking events",
-      "mentions": 33
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 94
+      "mentions": 34
     }
   ],
   "articles": [
@@ -158,6 +158,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "JDownloader site hacked to replace installers with Python RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
+      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
+      "published": "Sat, 09 May 2026 15:27:58 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
       "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
@@ -229,18 +238,6 @@
       "published": "Fri, 08 May 2026 04:45:04 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "summary": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
-      "published": "Fri, 08 May 2026 03:45:24 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

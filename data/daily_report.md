@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-09 18:53 UTC  
+> **Last Updated:** 2026-05-09 20:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **internal trellix services** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **provided fake data** • **pvi client versions** • **actively exploited flaw** • **ransomhouse threat group** • **targeting developers systems** • **275 million students** • **cybercrime group defaced** • **wire fraud conspiracy**
+**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **internal trellix services** • **fake openai repository** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **pvi client versions** • **actively exploited flaw** • **provided fake data** • **ransomhouse threat group** • **targeting developers systems** • **275 million students** • **cybercrime group defaced**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 - [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
 - [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
 - [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
@@ -34,7 +35,6 @@
 - [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 - [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
 - [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
-- [New Linux 'Dirty Frag' zero-day gives root on all major distros](https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/)
 
 ### Krebs on Security
 

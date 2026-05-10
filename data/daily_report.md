@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-10 13:06 UTC  
+> **Last Updated:** 2026-05-10 14:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **jdownloader site hacked** • **internal trellix services** • **fake openai repository** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **pvi client versions** • **actively exploited flaw** • **provided fake data** • **ransomhouse threat group** • **targeting developers systems** • **275 million students**
+**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **jdownloader site hacked** • **internal trellix services** • **fake openai repository** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **pvi client versions** • **actively exploited flaw** • **275 million students** • **provided fake data** • **ransomhouse threat group** • **targeting developers systems**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
 - [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 - [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
 - [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
@@ -34,7 +35,6 @@
 - [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
 - [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 - [Zara data breach exposed personal information of 197,000 people](https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/)
-- [Former govt contractor convicted for wiping dozens of federal databases](https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/)
 
 ### Krebs on Security
 

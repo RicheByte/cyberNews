@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 13:06",
+  "last_updated": "2026-05-10 14:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -19,51 +19,51 @@
     "service ddos attacks",
     "pvi client versions",
     "actively exploited flaw",
+    "275 million students",
     "provided fake data",
     "ransomhouse threat group",
-    "targeting developers systems",
-    "275 million students"
+    "targeting developers systems"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "public water supply",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "jdownloader site hacked",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "fake openai repository",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 91
+      "mentions": 92
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1592
+      "mentions": 1593
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 357
+      "mentions": 358
     }
   ],
   "articles": [
@@ -158,6 +158,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
+      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
+      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
+      "published": "Sun, 10 May 2026 10:16:47 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "JDownloader site hacked to replace installers with Python RAT malware",
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
       "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
@@ -229,15 +238,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former govt contractor convicted for wiping dozens of federal databases",
-      "link": "https://www.bleepingcomputer.com/news/security/former-govt-contractor-convicted-for-wiping-dozens-of-federal-databases/",
-      "summary": "A 34-year-old Virginia man was found guilty of conspiring to destroy dozens of government databases after getting fired from his job as a federal contractor. [...]",
-      "published": "Fri, 08 May 2026 04:45:04 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

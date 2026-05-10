@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 10:57",
+  "last_updated": "2026-05-10 13:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,6 +7,7 @@
     "public water supply",
     "address three vulnerabilities",
     "patient zero webinar",
+    "jdownloader site hacked",
     "internal trellix services",
     "fake openai repository",
     "massive ddos attacks",
@@ -21,52 +22,65 @@
     "provided fake data",
     "ransomhouse threat group",
     "targeting developers systems",
-    "275 million students",
-    "cybercrime group defaced"
+    "275 million students"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "public water supply",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 26
+      "mentions": 27
+    },
+    {
+      "keyword": "jdownloader site hacked",
+      "mentions": 1
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "fake openai repository",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 90
+      "mentions": 91
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1591
+      "mentions": 1592
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 356
-    },
-    {
-      "keyword": "biggest newsmaking events",
-      "mentions": 39
+      "mentions": 357
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
+      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
+      "published": "Sun, 10 May 2026 18:11:00 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "CVE mentioned",
+        "Breach/leak ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -139,20 +153,6 @@
       "value_score": 40,
       "value_signals": [
         "Backdoor ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
-      "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
-      "summary": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
-      "published": "Fri, 08 May 2026 10:42:00 +0530",
-      "value_score": 71,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Privilege escalation",
         "Exploit wording"
       ]
     },

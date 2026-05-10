@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-10 10:57 UTC  
+> **Last Updated:** 2026-05-10 13:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **internal trellix services** • **fake openai repository** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **pvi client versions** • **actively exploited flaw** • **provided fake data** • **ransomhouse threat group** • **targeting developers systems** • **275 million students** • **cybercrime group defaced**
+**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **jdownloader site hacked** • **internal trellix services** • **fake openai repository** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **130 companies tangled** • **service ddos attacks** • **pvi client versions** • **actively exploited flaw** • **provided fake data** • **ransomhouse threat group** • **targeting developers systems** • **275 million students**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
 - [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 - [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
@@ -23,7 +24,6 @@
 - [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 - [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
 - [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
-- [Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions](https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html)
 
 ### BleepingComputer
 

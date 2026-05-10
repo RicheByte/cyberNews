@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1589,
+      "count": 1590,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1671,7 +1671,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 354,
+      "count": 355,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2301,7 +2301,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6298,7 +6298,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -13446,7 +13446,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13816,7 +13816,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14863,7 +14863,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15312,7 +15312,7 @@
       ]
     },
     "pvi client application": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15409,7 +15409,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15468,7 +15468,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15564,7 +15564,7 @@
       ]
     },
     "patient zero webinar": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15593,7 +15593,7 @@
       ]
     },
     "275 million students": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15601,7 +15601,7 @@
       ]
     },
     "internal trellix services": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15609,7 +15609,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15623,7 +15623,7 @@
       ]
     },
     "public water supply": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15655,7 +15655,7 @@
       ]
     },
     "provided fake data": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15663,7 +15663,7 @@
       ]
     },
     "ransomhouse threat group": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15671,7 +15671,7 @@
       ]
     },
     "targeting developers systems": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15679,14 +15679,14 @@
       ]
     },
     "address three vulnerabilities": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-09",
         "2026-05-10"
       ]
     },
     "fake openai repository": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-09",
         "2026-05-10"
@@ -15694,17 +15694,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-29 19:17",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "iran's intelligence agencies",
-        "game threat actors",
-        "disclose sensitive information",
-        "operational technology ot"
-      ]
-    },
     {
       "timestamp": "2026-04-29 20:58",
       "articles": 56,
@@ -16785,6 +16774,17 @@
     },
     {
       "timestamp": "2026-05-10 06:29",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "public water supply",
+        "address three vulnerabilities",
+        "patient zero webinar",
+        "internal trellix services"
+      ]
+    },
+    {
+      "timestamp": "2026-05-10 09:25",
       "articles": 56,
       "top_keywords": [
         "pvi client application",

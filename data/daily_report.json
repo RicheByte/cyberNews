@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-10 16:47",
+  "last_updated": "2026-05-10 18:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -15,55 +15,55 @@
     "sprawling phishing campaign",
     "biggest newsmaking events",
     "aggravated identity theft",
+    "abusing google ads",
     "130 companies tangled",
-    "service ddos attacks",
     "pvi client versions",
     "actively exploited flaw",
     "275 million students",
-    "provided fake data",
     "ransomhouse threat group",
-    "targeting developers systems"
+    "targeting developers systems",
+    "claude chrome extension"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "public water supply",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "jdownloader site hacked",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "fake openai repository",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "massive ddos attacks",
-      "mentions": 93
+      "mentions": 94
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1594
+      "mentions": 1595
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 359
+      "mentions": 360
     }
   ],
   "articles": [
@@ -158,6 +158,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
+      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
+      "published": "Sun, 10 May 2026 13:52:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
       "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
       "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
@@ -226,17 +235,6 @@
         "Patch/update",
         "CISA/KEV ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zara data breach exposed personal information of 197,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/zara-data-breach-exposed-personal-information-of-197-000-people/",
-      "summary": "Hackers who gained access to the databases of Spanish fast-fashion retailer Zara stole data belonging to more than 197,000 customers, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "Fri, 08 May 2026 06:42:22 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

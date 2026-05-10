@@ -276,7 +276,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1594,
+      "count": 1595,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1671,7 +1671,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 359,
+      "count": 360,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2301,7 +2301,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 265,
+      "count": 266,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -13446,7 +13446,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13816,7 +13816,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14863,7 +14863,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15312,7 +15312,7 @@
       ]
     },
     "pvi client application": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15409,7 +15409,7 @@
       ]
     },
     "biggest newsmaking events": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15468,7 +15468,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15564,7 +15564,7 @@
       ]
     },
     "patient zero webinar": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15587,13 +15587,14 @@
       ]
     },
     "claude chrome extension": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-08"
+        "2026-05-08",
+        "2026-05-10"
       ]
     },
     "275 million students": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15601,7 +15602,7 @@
       ]
     },
     "internal trellix services": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15623,7 +15624,7 @@
       ]
     },
     "public water supply": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15663,7 +15664,7 @@
       ]
     },
     "ransomhouse threat group": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15671,7 +15672,7 @@
       ]
     },
     "targeting developers systems": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15679,38 +15680,33 @@
       ]
     },
     "address three vulnerabilities": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-09",
         "2026-05-10"
       ]
     },
     "fake openai repository": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-09",
         "2026-05-10"
       ]
     },
     "jdownloader site hacked": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-05-10"
+      ]
+    },
+    "abusing google ads": {
+      "count": 1,
       "dates": [
         "2026-05-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-30 10:01",
-      "articles": 56,
-      "top_keywords": [
-        "high severity vulnerabilities",
-        "iran's intelligence agencies",
-        "remote code execution",
-        "operational technology ot",
-        "operational technology cisa"
-      ]
-    },
     {
       "timestamp": "2026-04-30 13:44",
       "articles": 56,
@@ -16791,6 +16787,17 @@
     },
     {
       "timestamp": "2026-05-10 16:47",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "public water supply",
+        "address three vulnerabilities",
+        "patient zero webinar",
+        "jdownloader site hacked"
+      ]
+    },
+    {
+      "timestamp": "2026-05-10 18:54",
       "articles": 56,
       "top_keywords": [
         "pvi client application",

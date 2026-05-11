@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-11 07:36 UTC  
+> **Last Updated:** 2026-05-11 10:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **criminal marketplace crimenetwork** • **address three vulnerabilities** • **patient zero webinar** • **jdownloader site hacked** • **internal trellix services** • **fake openai repository** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **massive ddos attacks** • **biggest newsmaking events** • **aggravated identity theft** • **abusing google ads** • **130 companies tangled** • **pvi client versions** • **actively exploited flaw** • **275 million students** • **ransomhouse threat group** • **targeting developers systems**
+**pvi client application** • **patient zero webinar** • **criminal marketplace crimenetwork** • **address three vulnerabilities** • **public water supply** • **jdownloader site hacked** • **fake openai repository** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **massive ddos attacks** • **biggest newsmaking events** • **aggravated identity theft** • **abusing google ads** • **130 companies tangled** • **supply chain attack** • **pvi client versions** • **275 million students** • **targeting developers systems** • **wire fraud conspiracy** • **united states today**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
 - [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
@@ -23,10 +24,10 @@
 - [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 - [Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise](https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html)
 - [One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk](https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html)
-- [New Linux PamDOORa Backdoor Uses PAM Modules to Steal SSH Credentials](https://thehackernews.com/2026/05/new-linux-pamdoora-backdoor-uses-pam.html)
 
 ### BleepingComputer
 
+- [TrickMo Android banker adopts TON blockchain for covert comms](https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/)
 - [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
 - [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
 - [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
@@ -34,7 +35,6 @@
 - [NVIDIA confirms GeForce NOW data breach affecting Armenian users](https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/)
 - [Why More Analysts Won’t Solve Your SOC’s Alert Problem](https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/)
 - [Trellix source code breach claimed by RansomHouse hackers](https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/)
-- [CISA gives feds four days to patch Ivanti flaw exploited as zero-day](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [SailPoint Discloses GitHub Repository Hack](https://www.securityweek.com/sailpoint-discloses-github-repository-hack/)
+- [Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/)
+- [Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools](https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/)
+- [New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks](https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/)
 - [Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested](https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/)
 - [Over 500 Organizations Hit in Years-Long Phishing Campaign](https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/)
 - [In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner](https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/)
 - [Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants](https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/)
-- [AI Firm Braintrust Prompts API Key Rotation After Data Breach](https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/)
-- [Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom](https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/)
-- [‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials](https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/)
-- [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
 
 ### Threatpost
 

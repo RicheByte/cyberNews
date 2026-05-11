@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-11 17:51 UTC  
+> **Last Updated:** 2026-05-11 19:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **address three vulnerabilities** • **jdownloader site hacked** • **sprawling phishing campaign** • **cybercrime threat actors** • **twitter whistleblower complaint** • **aggravated identity theft** • **abusing google ads** • **130 companies tangled** • **frame security emerges** • **service's login page** • **scada login screen** • **pvi client versions** • **massive ddos attacks** • **ai driven restructuring** • **software build pipeline** • **mass exploitation google** • **275 million students** • **post canvas system** • **provided fake data**
+**pvi client application** • **webhost manager whm** • **address three vulnerabilities** • **jdownloader site hacked** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **cybercrime threat actors** • **aggravated identity theft** • **130 companies tangled** • **ai driven restructuring** • **frame security emerges** • **service's login page** • **scada login screen** • **pvi client versions** • **massive ddos attacks** • **abusing google ads** • **software build pipeline** • **275 million students** • **post canvas system** • **allow remote attackers**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
+- [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
 - [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
 - [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
 - [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 - [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
 - [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
-- [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
-- [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
 
 ### BleepingComputer
 

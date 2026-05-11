@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-11 17:51 UTC |
+| 🕐 Last Updated | 2026-05-11 19:41 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pvi client application` • `address three vulnerabilities` • `jdownloader site hacked` • `sprawling phishing campaign` • `cybercrime threat actors` • `twitter whistleblower complaint` • `aggravated identity theft` • `abusing google ads` • `130 companies tangled` • `frame security emerges`
+`pvi client application` • `webhost manager whm` • `address three vulnerabilities` • `jdownloader site hacked` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `cybercrime threat actors` • `aggravated identity theft` • `130 companies tangled` • `ai driven restructuring`
 
 ## 📄 Reports
 

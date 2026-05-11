@@ -1,72 +1,97 @@
 {
-  "last_updated": "2026-05-11 17:51",
+  "last_updated": "2026-05-11 19:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
+    "webhost manager whm",
     "address three vulnerabilities",
     "jdownloader site hacked",
     "sprawling phishing campaign",
-    "cybercrime threat actors",
     "twitter whistleblower complaint",
+    "cybercrime threat actors",
     "aggravated identity theft",
-    "abusing google ads",
     "130 companies tangled",
+    "ai driven restructuring",
     "frame security emerges",
     "service's login page",
     "scada login screen",
     "pvi client versions",
     "massive ddos attacks",
-    "ai driven restructuring",
+    "abusing google ads",
     "software build pipeline",
-    "mass exploitation google",
     "275 million students",
     "post canvas system",
-    "provided fake data"
+    "allow remote attackers"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 47
+      "mentions": 48
+    },
+    {
+      "keyword": "webhost manager whm",
+      "mentions": 1
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "jdownloader site hacked",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 367
-    },
-    {
-      "keyword": "cybercrime threat actors",
-      "mentions": 1
+      "mentions": 368
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1602
+      "mentions": 1603
+    },
+    {
+      "keyword": "cybercrime threat actors",
+      "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 111
-    },
-    {
-      "keyword": "abusing google ads",
-      "mentions": 8
+      "mentions": 112
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 273
+      "mentions": 274
     },
     {
-      "keyword": "frame security emerges",
-      "mentions": 1
+      "keyword": "ai driven restructuring",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend. As of writing, Checkmarx has released",
+      "published": "Tue, 12 May 2026 00:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
+      "published": "Mon, 11 May 2026 23:24:00 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Auth bypass",
+        "Backdoor ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
@@ -137,26 +162,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick family, which is known to leverage a worm called SORVEPOTEL to",
-      "published": "Fri, 08 May 2026 23:42:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
-      "summary": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss. The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over",
-      "published": "Fri, 08 May 2026 20:38:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

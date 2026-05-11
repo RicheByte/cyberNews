@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-11 21:12",
+  "last_updated": "2026-05-11 22:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
     "webhost manager whm",
     "address three vulnerabilities",
-    "jdownloader site hacked",
-    "sprawling phishing campaign",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "service's login page",
+    "general motors gm",
     "cybercrime threat actors",
+    "ai driven restructuring",
     "aggravated identity theft",
     "130 companies tangled",
-    "ai driven restructuring",
-    "frame security emerges",
-    "service's login page",
-    "scada login screen",
     "pvi client versions",
-    "massive ddos attacks",
-    "abusing google ads",
     "software build pipeline",
-    "275 million students",
+    "frame security emerges",
     "post canvas system",
-    "allow remote attackers"
+    "wire fraud conspiracy",
+    "united states today",
+    "things iot devices",
+    "russia hacked routers",
+    "recommended immediate actions"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "webhost manager whm",
-      "mentions": 2
-    },
-    {
-      "keyword": "address three vulnerabilities",
-      "mentions": 25
-    },
-    {
-      "keyword": "jdownloader site hacked",
-      "mentions": 13
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 369
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1604
-    },
-    {
-      "keyword": "cybercrime threat actors",
       "mentions": 3
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 113
+      "keyword": "address three vulnerabilities",
+      "mentions": 26
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 275
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1605
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 370
+    },
+    {
+      "keyword": "service's login page",
+      "mentions": 20
+    },
+    {
+      "keyword": "general motors gm",
+      "mentions": 1
+    },
+    {
+      "keyword": "cybercrime threat actors",
+      "mentions": 4
     },
     {
       "keyword": "ai driven restructuring",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 114
     }
   ],
   "articles": [
@@ -165,6 +165,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
+      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
+      "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
+      "published": "Mon, 11 May 2026 18:40:34 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Official CheckMarx Jenkins package compromised with infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
+      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
+      "published": "Mon, 11 May 2026 18:03:06 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New GhostLock tool abuses Windows API to block file access",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
+      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
+      "published": "Mon, 11 May 2026 18:02:00 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Instructure confirms hackers used Canvas flaw to deface portals",
       "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
       "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
@@ -210,33 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
       "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
       "published": "Mon, 11 May 2026 05:03:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "summary": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
-      "published": "Sun, 10 May 2026 13:52:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "summary": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
-      "published": "Sun, 10 May 2026 10:16:47 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-      "published": "Sat, 09 May 2026 15:27:58 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -329,6 +329,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "FCC Softens Ban on Foreign-Made Routers",
+      "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
+      "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
+      "published": "Mon, 11 May 2026 21:15:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Tech Can't Stop These Threats — Your People Can",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
+      "summary": "Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense.",
+      "published": "Mon, 11 May 2026 19:50:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
       "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
       "summary": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
@@ -386,26 +404,6 @@
       "value_score": 50,
       "value_signals": [
         "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
-      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
-      "summary": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
-      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "summary": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "published": "Thu, 07 May 2026 13:00:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1604,
+      "count": 1605,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1673,7 +1673,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 369,
+      "count": 370,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1988,7 +1988,7 @@
       ]
     },
     "things iot devices": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2305,7 +2305,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 275,
+      "count": 276,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2751,7 +2751,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2769,7 +2769,8 @@
         "2026-04-10",
         "2026-04-11",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-05-11"
       ]
     },
     "next wave hits": {
@@ -7949,7 +7950,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13732,7 +13733,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13741,7 +13742,8 @@
         "2026-04-25",
         "2026-04-26",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-05-11"
       ]
     },
     "sophisticated ddos attack": {
@@ -13824,7 +13826,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15322,7 +15324,7 @@
       ]
     },
     "pvi client application": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15480,7 +15482,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15595,7 +15597,7 @@
       ]
     },
     "service's login page": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15670,7 +15672,7 @@
       ]
     },
     "united states today": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-08",
         "2026-05-11"
@@ -15704,7 +15706,7 @@
       ]
     },
     "address three vulnerabilities": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-09",
         "2026-05-10",
@@ -15740,25 +15742,25 @@
       ]
     },
     "software build pipeline": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-11"
       ]
     },
     "ai driven restructuring": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-11"
       ]
     },
     "cybercrime threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-11"
       ]
     },
     "frame security emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-11"
       ]
@@ -15770,13 +15772,13 @@
       ]
     },
     "post canvas system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-11"
       ]
     },
     "webhost manager whm": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-11"
       ]
@@ -15786,20 +15788,15 @@
       "dates": [
         "2026-05-11"
       ]
+    },
+    "general motors gm": {
+      "count": 1,
+      "dates": [
+        "2026-05-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-01 11:03",
-      "articles": 56,
-      "top_keywords": [
-        "mini shai hulud",
-        "1 800 hit",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message"
-      ]
-    },
     {
       "timestamp": "2026-05-01 13:09",
       "articles": 56,
@@ -16886,6 +16883,17 @@
         "webhost manager whm",
         "address three vulnerabilities",
         "jdownloader site hacked",
+        "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-11 22:49",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "webhost manager whm",
+        "address three vulnerabilities",
+        "twitter whistleblower complaint",
         "sprawling phishing campaign"
       ]
     }

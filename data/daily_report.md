@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-11 21:12 UTC  
+> **Last Updated:** 2026-05-11 22:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **webhost manager whm** • **address three vulnerabilities** • **jdownloader site hacked** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **cybercrime threat actors** • **aggravated identity theft** • **130 companies tangled** • **ai driven restructuring** • **frame security emerges** • **service's login page** • **scada login screen** • **pvi client versions** • **massive ddos attacks** • **abusing google ads** • **software build pipeline** • **275 million students** • **post canvas system** • **allow remote attackers**
+**pvi client application** • **webhost manager whm** • **address three vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service's login page** • **general motors gm** • **cybercrime threat actors** • **ai driven restructuring** • **aggravated identity theft** • **130 companies tangled** • **pvi client versions** • **software build pipeline** • **frame security emerges** • **post canvas system** • **wire fraud conspiracy** • **united states today** • **things iot devices** • **russia hacked routers** • **recommended immediate actions**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [GM agrees to $12.75M California settlement over sale of drivers’ data](https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/)
+- [Official CheckMarx Jenkins package compromised with infostealer](https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/)
+- [New GhostLock tool abuses Windows API to block file access](https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/)
 - [Instructure confirms hackers used Canvas flaw to deface portals](https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/)
 - [Why Changing Passwords Doesn’t End an Active Directory Breach](https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/)
 - [Google: Hackers used AI to develop zero-day exploit for web admin tool](https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/)
 - [Webinar this week: Prevention alone is not enough against modern attacks](https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/)
 - [TrickMo Android banker adopts TON blockchain for covert comms](https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/)
-- [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
-- [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
-- [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [FCC Softens Ban on Foreign-Made Routers](https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban)
+- [Tech Can't Stop These Threats — Your People Can](https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can)
 - ['Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros](https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros)
 - [Hackers Use AI for Exploit Development, Attack Automation](https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation)
 - [Cyber Espionage Group Targets Aviation Firms to Steal Map Data](https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data)
 - [ShinyHunters Claims Second Attack Against Instructure](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure)
 - [After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets](https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets)
 - [Has CISA Finally Found Its New Leader in Tom Parker?](https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker)
-- ['TrustFall' Convention Exposes Claude Code Execution Risk](https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk)
-- [AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
 
 ### Security Week
 

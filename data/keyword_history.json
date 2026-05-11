@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 459,
+      "count": 460,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -148,7 +148,8 @@
         "2026-04-19",
         "2026-04-20",
         "2026-04-30",
-        "2026-05-01"
+        "2026-05-01",
+        "2026-05-11"
       ]
     },
     "user named csnemess": {
@@ -276,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1600,
+      "count": 1601,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1672,7 +1673,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 365,
+      "count": 366,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1987,7 +1988,7 @@
       ]
     },
     "things iot devices": {
-      "count": 251,
+      "count": 252,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2022,7 +2023,8 @@
         "2026-05-03",
         "2026-05-04",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-11"
       ]
     },
     "cvss scoring system": {
@@ -2303,7 +2305,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 271,
+      "count": 272,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7947,7 +7949,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13822,7 +13824,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14870,7 +14872,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15320,7 +15322,7 @@
       ]
     },
     "pvi client application": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15478,7 +15480,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15575,7 +15577,7 @@
       ]
     },
     "patient zero webinar": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15592,10 +15594,11 @@
       ]
     },
     "service's login page": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-08",
-        "2026-05-09"
+        "2026-05-09",
+        "2026-05-11"
       ]
     },
     "claude chrome extension": {
@@ -15607,7 +15610,7 @@
       ]
     },
     "275 million students": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15666,7 +15669,7 @@
       ]
     },
     "united states today": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-08",
         "2026-05-11"
@@ -15699,7 +15702,7 @@
       ]
     },
     "address three vulnerabilities": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-09",
         "2026-05-10",
@@ -15707,7 +15710,7 @@
       ]
     },
     "fake openai repository": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-09",
         "2026-05-10",
@@ -15715,14 +15718,14 @@
       ]
     },
     "jdownloader site hacked": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-10",
         "2026-05-11"
       ]
     },
     "abusing google ads": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-10",
         "2026-05-11"
@@ -15733,20 +15736,21 @@
       "dates": [
         "2026-05-11"
       ]
+    },
+    "software build pipeline": {
+      "count": 1,
+      "dates": [
+        "2026-05-11"
+      ]
+    },
+    "ai driven restructuring": {
+      "count": 1,
+      "dates": [
+        "2026-05-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-04-30 22:48",
-      "articles": 56,
-      "top_keywords": [
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "iran's intelligence agencies",
-        "codenamed copy fail"
-      ]
-    },
     {
       "timestamp": "2026-05-01 02:36",
       "articles": 56,
@@ -16834,6 +16838,17 @@
         "criminal marketplace crimenetwork",
         "address three vulnerabilities",
         "public water supply"
+      ]
+    },
+    {
+      "timestamp": "2026-05-11 14:37",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "address three vulnerabilities",
+        "jdownloader site hacked",
+        "fake openai repository",
+        "sprawling phishing campaign"
       ]
     }
   ]

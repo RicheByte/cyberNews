@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-05-11 10:56",
+  "last_updated": "2026-05-11 14:37",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
-    "patient zero webinar",
-    "criminal marketplace crimenetwork",
     "address three vulnerabilities",
-    "public water supply",
     "jdownloader site hacked",
     "fake openai repository",
-    "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "massive ddos attacks",
-    "biggest newsmaking events",
-    "aggravated identity theft",
     "abusing google ads",
+    "twitter whistleblower complaint",
+    "aggravated identity theft",
     "130 companies tangled",
-    "supply chain attack",
     "pvi client versions",
+    "massive ddos attacks",
+    "malicious cyber actors",
+    "patient zero webinar",
+    "software build pipeline",
     "275 million students",
-    "targeting developers systems",
+    "ai driven restructuring",
     "wire fraud conspiracy",
-    "united states today"
+    "united states today",
+    "things iot devices",
+    "service's login page"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 45
-    },
-    {
-      "keyword": "patient zero webinar",
-      "mentions": 35
-    },
-    {
-      "keyword": "criminal marketplace crimenetwork",
-      "mentions": 2
+      "mentions": 46
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 21
-    },
-    {
-      "keyword": "public water supply",
-      "mentions": 29
+      "mentions": 22
     },
     {
       "keyword": "jdownloader site hacked",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "fake openai repository",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1600
+      "mentions": 16
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 365
+      "mentions": 366
     },
     {
-      "keyword": "massive ddos attacks",
-      "mentions": 99
+      "keyword": "abusing google ads",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1601
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 110
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 272
+    },
+    {
+      "keyword": "pvi client versions",
+      "mentions": 39
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+      "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
+      "published": "Mon, 11 May 2026 18:06:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
+      "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
+      "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its",
+      "published": "Mon, 11 May 2026 17:00:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
@@ -136,20 +157,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
-      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
-      "summary": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
-      "published": "Fri, 08 May 2026 16:30:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
+      "published": "Mon, 11 May 2026 09:53:56 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "One Missed Threat Per Week: What 25M Alerts Reveal About Low-Severity Risk",
-      "link": "https://thehackernews.com/2026/05/one-missed-threat-per-week-what-25m.html",
-      "summary": "The dark secret of enterprise security operations is that defenders have quietly institutionalized the practice of not looking. This is not just anecdotal, but rather backed by a recent report investigating more than 25 million security alerts, including informational and low-severity, across live enterprise environments. The dataset behind these findings includes 10 million monitored",
-      "published": "Fri, 08 May 2026 16:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
+      "published": "Mon, 11 May 2026 09:02:30 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
+      "published": "Mon, 11 May 2026 08:30:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -197,37 +232,6 @@
       "published": "Sat, 09 May 2026 10:26:03 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "summary": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-      "published": "Fri, 08 May 2026 12:18:31 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "summary": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
-      "published": "Fri, 08 May 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trellix source code breach claimed by RansomHouse hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "summary": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
-      "published": "Fri, 08 May 2026 09:23:23 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +322,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Hackers Use AI for Exploit Development, Attack Automation",
+      "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+      "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
+      "published": "Mon, 11 May 2026 13:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
+      "summary": "The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
+      "published": "Mon, 11 May 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "ShinyHunters Claims Second Attack Against Instructure",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
       "summary": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
@@ -375,22 +399,43 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Instructure Breach Exposes Schools' Vendor Dependence",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/instructure-breach-exposes-schools-vendor-dependence",
-      "summary": "ShinyHunters' attack on Instructure, which owns the widely used Canvas learning management system (LMS), carries big questions about the trust educational institutions put into their vendors.",
-      "published": "Wed, 06 May 2026 21:02:57 GMT",
-      "value_score": 22,
+      "source": "Security Week",
+      "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
+      "link": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
+      "summary": "Rather than scanning code alone, Build Application Firewalls inspect runtime behavior inside the software build pipeline. The post Build Application Firewalls Aim to Stop the Next Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 14:06:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Detects First AI-Generated Zero-Day Exploit",
+      "link": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
+      "summary": "The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group. The post Google Detects First AI-Generated Zero-Day Exploit appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 13:04:21 +0000",
+      "value_score": 66,
       "value_signals": [
-        "Breach/leak"
+        "Zero-day ×3",
+        "Exploit wording"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "From Stuxnet to ChatGPT: 20 News Events That Shaped Cyber",
-      "link": "https://www.darkreading.com/threat-intelligence/stuxnet-chatgpt-20-news-events-cyber",
-      "summary": "As part of its 20th anniversary celebration, Dark Reading looks back on 20 of the biggest newsmaking events from the past two decades that influenced the risk landscape for today's cybersecurity teams.",
-      "published": "Wed, 06 May 2026 12:00:00 GMT",
+      "source": "Security Week",
+      "title": "Skoda Data Breach Hits Online Shop Customers",
+      "link": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
+      "summary": "Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers. The post Skoda Data Breach Hits Online Shop Customers appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 11:54:27 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring",
+      "link": "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/",
+      "summary": "The company topped revenue and earnings forecasts for the first quarter of 2026, but its shares plunged more than 20%. The post Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 11:25:02 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -434,49 +479,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested",
-      "link": "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/",
-      "summary": "The second iteration of the German-speaking online crime marketplace had over 22,000 users and more than 100 sellers. The post Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 07:25:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 500 Organizations Hit in Years-Long Phishing Campaign",
-      "link": "https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/",
-      "summary": "Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors. The post Over 500 Organizations Hit in Years-Long Phishing Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 03:49:18 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Phishing ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
-      "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry. The post In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner appeared first on SecurityWeek .",
-      "published": "Fri, 08 May 2026 14:30:00 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Patch/update",
-        "Backdoor ×2",
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
-      "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
-      "summary": "The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply. The post Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants appeared first on SecurityWeek .",
-      "published": "Fri, 08 May 2026 11:46:06 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

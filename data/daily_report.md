@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-11 02:41 UTC  
+> **Last Updated:** 2026-05-11 07:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **public water supply** • **address three vulnerabilities** • **patient zero webinar** • **jdownloader site hacked** • **internal trellix services** • **fake openai repository** • **massive ddos attacks** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **biggest newsmaking events** • **aggravated identity theft** • **abusing google ads** • **130 companies tangled** • **pvi client versions** • **actively exploited flaw** • **275 million students** • **ransomhouse threat group** • **targeting developers systems** • **claude chrome extension**
+**pvi client application** • **public water supply** • **criminal marketplace crimenetwork** • **address three vulnerabilities** • **patient zero webinar** • **jdownloader site hacked** • **internal trellix services** • **fake openai repository** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **massive ddos attacks** • **biggest newsmaking events** • **aggravated identity theft** • **abusing google ads** • **130 companies tangled** • **pvi client versions** • **actively exploited flaw** • **275 million students** • **ransomhouse threat group** • **targeting developers systems**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested](https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/)
+- [Over 500 Organizations Hit in Years-Long Phishing Campaign](https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/)
 - [In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner](https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/)
 - [Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants](https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/)
 - [AI Firm Braintrust Prompts API Key Rotation After Data Breach](https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/)
 - [Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom](https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/)
 - [‘PCPJack’ Worm Removes TeamPCP Infections, Steals Credentials](https://www.securityweek.com/pcpjack-worm-removes-teampcp-infections-steals-credentials/)
 - [Ransomware Group Takes Credit for Trellix Hack](https://www.securityweek.com/ransomware-group-takes-credit-for-trellix-hack/)
-- [Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover](https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/)
-- [Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks](https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/)
 
 ### Threatpost
 

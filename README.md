@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-11 02:41 UTC |
+| 🕐 Last Updated | 2026-05-11 07:36 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pvi client application` • `public water supply` • `address three vulnerabilities` • `patient zero webinar` • `jdownloader site hacked` • `internal trellix services` • `fake openai repository` • `massive ddos attacks` • `twitter whistleblower complaint` • `sprawling phishing campaign`
+`pvi client application` • `public water supply` • `criminal marketplace crimenetwork` • `address three vulnerabilities` • `patient zero webinar` • `jdownloader site hacked` • `internal trellix services` • `fake openai repository` • `twitter whistleblower complaint` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

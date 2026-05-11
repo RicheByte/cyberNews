@@ -1,18 +1,19 @@
 {
-  "last_updated": "2026-05-11 02:41",
+  "last_updated": "2026-05-11 07:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
     "public water supply",
+    "criminal marketplace crimenetwork",
     "address three vulnerabilities",
     "patient zero webinar",
     "jdownloader site hacked",
     "internal trellix services",
     "fake openai repository",
-    "massive ddos attacks",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
+    "massive ddos attacks",
     "biggest newsmaking events",
     "aggravated identity theft",
     "abusing google ads",
@@ -21,49 +22,48 @@
     "actively exploited flaw",
     "275 million students",
     "ransomhouse threat group",
-    "targeting developers systems",
-    "claude chrome extension"
+    "targeting developers systems"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "public water supply",
-      "mentions": 27
+      "mentions": 28
+    },
+    {
+      "keyword": "criminal marketplace crimenetwork",
+      "mentions": 1
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "patient zero webinar",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "jdownloader site hacked",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "internal trellix services",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "fake openai repository",
-      "mentions": 13
-    },
-    {
-      "keyword": "massive ddos attacks",
-      "mentions": 97
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1598
+      "mentions": 1599
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 363
+      "mentions": 364
     }
   ],
   "articles": [
@@ -99,7 +99,7 @@
       "source": "The Hacker News",
       "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
       "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick, which is known to leverage a worm called SORVEPOTEL to spread via",
+      "summary": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick family, which is known to leverage a worm called SORVEPOTEL to",
       "published": "Fri, 08 May 2026 23:42:00 +0530",
       "value_score": 18,
       "value_signals": [
@@ -404,6 +404,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested",
+      "link": "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/",
+      "summary": "The second iteration of the German-speaking online crime marketplace had over 22,000 users and more than 100 sellers. The post Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 07:25:12 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 500 Organizations Hit in Years-Long Phishing Campaign",
+      "link": "https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/",
+      "summary": "Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors. The post Over 500 Organizations Hit in Years-Long Phishing Campaign appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 03:49:18 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Phishing ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
       "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
       "summary": "Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry. The post In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner appeared first on SecurityWeek .",
@@ -462,28 +483,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover",
-      "link": "https://www.securityweek.com/vulnerability-in-claude-extension-for-chrome-exposes-ai-agent-to-takeover/",
-      "summary": "Lax extension permissions and improper trust implementation allow attackers to inject prompts in the Claude Chrome extension. The post Vulnerability in Claude Extension for Chrome Exposes AI Agent to Takeover appeared first on SecurityWeek .",
-      "published": "Fri, 08 May 2026 06:53:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks",
-      "link": "https://www.securityweek.com/ivanti-patches-epmm-zero-day-exploited-in-targeted-attacks/",
-      "summary": "CVE-2026-6973 is a high-severity vulnerability that allows an attacker who has admin privileges to execute arbitrary code. The post Ivanti Patches EPMM Zero-Day Exploited in Targeted Attacks appeared first on SecurityWeek .",
-      "published": "Fri, 08 May 2026 05:41:30 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
       ]
     },
     {

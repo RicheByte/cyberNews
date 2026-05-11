@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-05-11 14:37",
+  "last_updated": "2026-05-11 17:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
     "address three vulnerabilities",
     "jdownloader site hacked",
-    "fake openai repository",
     "sprawling phishing campaign",
-    "abusing google ads",
+    "cybercrime threat actors",
     "twitter whistleblower complaint",
     "aggravated identity theft",
+    "abusing google ads",
     "130 companies tangled",
+    "frame security emerges",
+    "service's login page",
+    "scada login screen",
     "pvi client versions",
     "massive ddos attacks",
-    "malicious cyber actors",
-    "patient zero webinar",
-    "software build pipeline",
-    "275 million students",
     "ai driven restructuring",
-    "wire fraud conspiracy",
-    "united states today",
-    "things iot devices",
-    "service's login page"
+    "software build pipeline",
+    "mass exploitation google",
+    "275 million students",
+    "post canvas system",
+    "provided fake data"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "address three vulnerabilities",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "jdownloader site hacked",
-      "mentions": 10
-    },
-    {
-      "keyword": "fake openai repository",
-      "mentions": 16
+      "mentions": 11
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 366
+      "mentions": 367
     },
     {
-      "keyword": "abusing google ads",
-      "mentions": 7
+      "keyword": "cybercrime threat actors",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1601
+      "mentions": 1602
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 110
+      "mentions": 111
+    },
+    {
+      "keyword": "abusing google ads",
+      "mentions": 8
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 272
+      "mentions": 273
     },
     {
-      "keyword": "pvi client versions",
-      "mentions": 39
+      "keyword": "frame security emerges",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. The activity is said to be the work of cybercrime threat actors who appear to",
+      "published": "Mon, 11 May 2026 21:15:00 +0530",
+      "value_score": 91,
+      "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
@@ -92,7 +105,7 @@
       "source": "The Hacker News",
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
       "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart, released by OpenAI late last month (openai/privacy-filter), including copying the entire",
+      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
       "published": "Mon, 11 May 2026 12:35:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -146,15 +159,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "summary": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
-      "published": "Fri, 08 May 2026 19:31:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "BleepingComputer",
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+      "published": "Mon, 11 May 2026 11:26:26 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,15 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
       "summary": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
       "published": "Sat, 09 May 2026 15:27:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "summary": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-      "published": "Sat, 09 May 2026 10:26:03 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -322,6 +324,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
+      "summary": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
+      "published": "Mon, 11 May 2026 15:05:45 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Hackers Use AI for Exploit Development, Attack Automation",
       "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
       "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
@@ -390,11 +404,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "VoidStealer Malware Darts Past Google Chrome's Encryption",
-      "link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
-      "summary": "Authors of the VoidStealer Trojan uncovered yet another way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
-      "published": "Wed, 06 May 2026 21:19:11 GMT",
+      "source": "Security Week",
+      "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
+      "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
+      "summary": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security. The post Frame Security Emerges From Stealth With $50M for Awareness and Training Platform appeared first on SecurityWeek .",
+      "published": "Mon, 11 May 2026 17:17:37 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -465,20 +479,6 @@
       "published": "Mon, 11 May 2026 08:35:13 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
-      "link": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-      "summary": "Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released. The post New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 08:15:28 +0000",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

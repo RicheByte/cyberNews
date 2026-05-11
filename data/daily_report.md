@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-11 14:37 UTC  
+> **Last Updated:** 2026-05-11 17:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **address three vulnerabilities** • **jdownloader site hacked** • **fake openai repository** • **sprawling phishing campaign** • **abusing google ads** • **twitter whistleblower complaint** • **aggravated identity theft** • **130 companies tangled** • **pvi client versions** • **massive ddos attacks** • **malicious cyber actors** • **patient zero webinar** • **software build pipeline** • **275 million students** • **ai driven restructuring** • **wire fraud conspiracy** • **united states today** • **things iot devices** • **service's login page**
+**pvi client application** • **address three vulnerabilities** • **jdownloader site hacked** • **sprawling phishing campaign** • **cybercrime threat actors** • **twitter whistleblower complaint** • **aggravated identity theft** • **abusing google ads** • **130 companies tangled** • **frame security emerges** • **service's login page** • **scada login screen** • **pvi client versions** • **massive ddos attacks** • **ai driven restructuring** • **software build pipeline** • **mass exploitation google** • **275 million students** • **post canvas system** • **provided fake data**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
 - [⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More](https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html)
 - [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 - [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
@@ -23,10 +24,10 @@
 - [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 - [TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms](https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html)
 - [Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads](https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html)
-- [One Click, Total Shutdown: The "Patient Zero" Webinar on Killing Stealth Breaches](https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html)
 
 ### BleepingComputer
 
+- [Instructure confirms hackers used Canvas flaw to deface portals](https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/)
 - [Why Changing Passwords Doesn’t End an Active Directory Breach](https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/)
 - [Google: Hackers used AI to develop zero-day exploit for web admin tool](https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/)
 - [Webinar this week: Prevention alone is not enough against modern attacks](https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/)
@@ -34,7 +35,6 @@
 - [Hackers abuse Google ads, Claude.ai chats to push Mac malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/)
 - [Police shut down reboot of Crimenetwork marketplace, arrest admin](https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/)
 - [JDownloader site hacked to replace installers with Python RAT malware](https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/)
-- [Fake OpenAI repository on Hugging Face pushes infostealer malware](https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros](https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros)
 - [Hackers Use AI for Exploit Development, Attack Automation](https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation)
 - [Cyber Espionage Group Targets Aviation Firms to Steal Map Data](https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data)
 - [ShinyHunters Claims Second Attack Against Instructure](https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure)
@@ -56,10 +57,10 @@
 - [Has CISA Finally Found Its New Leader in Tom Parker?](https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker)
 - ['TrustFall' Convention Exposes Claude Code Execution Risk](https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk)
 - [AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems](https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems)
-- [VoidStealer Malware Darts Past Google Chrome's Encryption](https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection)
 
 ### Security Week
 
+- [Frame Security Emerges From Stealth With $50M for Awareness and Training Platform](https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/)
 - [Build Application Firewalls Aim to Stop the Next Supply Chain Attack](https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/)
 - [Google Detects First AI-Generated Zero-Day Exploit](https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/)
 - [Skoda Data Breach Hits Online Shop Customers](https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/)
@@ -67,7 +68,6 @@
 - [SailPoint Discloses GitHub Repository Hack](https://www.securityweek.com/sailpoint-discloses-github-repository-hack/)
 - [Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack](https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/)
 - [Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools](https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/)
-- [New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks](https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/)
 
 ### Threatpost
 

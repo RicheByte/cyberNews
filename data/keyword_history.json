@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1601,
+      "count": 1602,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1673,7 +1673,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 366,
+      "count": 367,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2305,7 +2305,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 272,
+      "count": 273,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -13824,7 +13824,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14872,7 +14872,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15322,7 +15322,7 @@
       ]
     },
     "pvi client application": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15480,7 +15480,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15490,11 +15490,12 @@
       ]
     },
     "scada login screen": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-07",
         "2026-05-08",
-        "2026-05-09"
+        "2026-05-09",
+        "2026-05-11"
       ]
     },
     "phishing campaign delivered": {
@@ -15594,7 +15595,7 @@
       ]
     },
     "service's login page": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15610,7 +15611,7 @@
       ]
     },
     "275 million students": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15676,11 +15677,12 @@
       ]
     },
     "provided fake data": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-08",
         "2026-05-09",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-11"
       ]
     },
     "ransomhouse threat group": {
@@ -15702,7 +15704,7 @@
       ]
     },
     "address three vulnerabilities": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-05-09",
         "2026-05-10",
@@ -15718,14 +15720,14 @@
       ]
     },
     "jdownloader site hacked": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-10",
         "2026-05-11"
       ]
     },
     "abusing google ads": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-10",
         "2026-05-11"
@@ -15738,12 +15740,36 @@
       ]
     },
     "software build pipeline": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-11"
       ]
     },
     "ai driven restructuring": {
+      "count": 2,
+      "dates": [
+        "2026-05-11"
+      ]
+    },
+    "cybercrime threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-05-11"
+      ]
+    },
+    "frame security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-05-11"
+      ]
+    },
+    "mass exploitation google": {
+      "count": 1,
+      "dates": [
+        "2026-05-11"
+      ]
+    },
+    "post canvas system": {
       "count": 1,
       "dates": [
         "2026-05-11"
@@ -15751,17 +15777,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-01 02:36",
-      "articles": 56,
-      "top_keywords": [
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "iran's intelligence agencies",
-        "codenamed copy fail"
-      ]
-    },
     {
       "timestamp": "2026-05-01 06:33",
       "articles": 56,
@@ -16849,6 +16864,17 @@
         "jdownloader site hacked",
         "fake openai repository",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-11 17:51",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "address three vulnerabilities",
+        "jdownloader site hacked",
+        "sprawling phishing campaign",
+        "cybercrime threat actors"
       ]
     }
   ]

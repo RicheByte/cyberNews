@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1608,
+      "count": 1609,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1674,7 +1674,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 373,
+      "count": 374,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2136,13 +2136,14 @@
       ]
     },
     "bounds write vulnerability": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-02",
         "2026-03-13",
         "2026-03-14",
         "2026-03-15",
-        "2026-03-16"
+        "2026-03-16",
+        "2026-05-12"
       ]
     },
     "2 520 wallets": {
@@ -2308,7 +2309,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 279,
+      "count": 280,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6309,7 +6310,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -7956,7 +7957,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8911,7 +8912,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -13464,7 +13465,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13838,7 +13839,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14887,7 +14888,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14900,7 +14901,8 @@
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-12"
       ]
     },
     "abb products support": {
@@ -15612,7 +15614,7 @@
       ]
     },
     "service's login page": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15648,7 +15650,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15823,13 +15825,13 @@
       ]
     },
     "end encryption e2ee": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "unauthorized actor involved": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
@@ -15839,20 +15841,45 @@
       "dates": [
         "2026-05-12"
       ]
+    },
+    "claude mythos finds": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "ai minimum elements": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "s 4hana sap": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "apple patches dozens": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "haven t admitted": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "disruptive ransomware attack": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-01 19:04",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "blackcat ransomware attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-01 20:44",
       "articles": 56,
@@ -16940,6 +16967,17 @@
         "threat actor behind",
         "twitter whistleblower complaint",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-12 14:09",
+      "articles": 48,
+      "top_keywords": [
+        "claude mythos finds",
+        "ai minimum elements",
+        "s 4hana sap",
+        "apple patches dozens",
+        "twitter whistleblower complaint"
       ]
     }
   ]

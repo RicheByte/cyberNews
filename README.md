@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-12 10:26 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-05-12 14:09 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pvi client application` • `supply chain attack` • `threat actor behind` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service's login page` • `end encryption e2ee` • `cybercrime threat actors` • `aggravated identity theft` • `275 million students`
+`claude mythos finds` • `ai minimum elements` • `s 4hana sap` • `apple patches dozens` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service's login page` • `haven t admitted` • `end encryption e2ee` • `aggravated identity theft`
 
 ## 📄 Reports
 

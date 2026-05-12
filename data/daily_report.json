@@ -1,78 +1,105 @@
 {
-  "last_updated": "2026-05-12 10:26",
+  "last_updated": "2026-05-12 14:09",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
-    "pvi client application",
-    "supply chain attack",
-    "threat actor behind",
+    "claude mythos finds",
+    "ai minimum elements",
+    "s 4hana sap",
+    "apple patches dozens",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "service's login page",
+    "haven t admitted",
     "end encryption e2ee",
-    "cybercrime threat actors",
     "aggravated identity theft",
-    "275 million students",
+    "actively exploited flaw",
     "130 companies tangled",
-    "pvi client versions",
-    "ai driven restructuring",
-    "unauthorized actor involved",
-    "software build pipeline",
-    "frequent attack vector",
-    "frame security emerges",
-    "prominent cybercrime group",
+    "disruptive ransomware attack",
+    "service ddos attacks",
+    "massive ddos attacks",
     "cybercrime group defaced",
-    "wire fraud conspiracy"
+    "bounds write vulnerability",
+    "wire fraud conspiracy",
+    "unauthorized actor involved",
+    "threat actor behind"
   ],
   "trending": [
     {
-      "keyword": "pvi client application",
-      "mentions": 53
+      "keyword": "claude mythos finds",
+      "mentions": 1
     },
     {
-      "keyword": "supply chain attack",
-      "mentions": 53
+      "keyword": "ai minimum elements",
+      "mentions": 1
     },
     {
-      "keyword": "threat actor behind",
-      "mentions": 34
+      "keyword": "s 4hana sap",
+      "mentions": 1
+    },
+    {
+      "keyword": "apple patches dozens",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1608
+      "mentions": 1609
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 373
+      "mentions": 374
     },
     {
       "keyword": "service's login page",
-      "mentions": 23
+      "mentions": 24
+    },
+    {
+      "keyword": "haven t admitted",
+      "mentions": 1
     },
     {
       "keyword": "end encryption e2ee",
-      "mentions": 2
-    },
-    {
-      "keyword": "cybercrime threat actors",
-      "mentions": 7
+      "mentions": 3
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 117
-    },
-    {
-      "keyword": "275 million students",
-      "mentions": 30
+      "mentions": 118
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. \"TrickMo relies on a runtime-loaded APK (dex.module),",
+      "published": "Tue, 12 May 2026 18:20:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently",
+      "published": "Tue, 12 May 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
       "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
       "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
-      "published": "Tue, 12 May 2026 14:20:00 +0530",
+      "published": "Tue, 12 May 2026 17:16:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point. The more urgent",
+      "published": "Tue, 12 May 2026 16:00:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -118,42 +145,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
-      "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
-      "summary": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
-      "published": "Mon, 11 May 2026 23:24:00 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Auth bypass",
-        "Backdoor ×2",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
-      "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
-      "summary": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. The activity is said to be the work of cybercrime threat actors who appear to",
-      "published": "Mon, 11 May 2026 21:15:00 +0530",
-      "value_score": 91,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-      "summary": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
-      "published": "Mon, 11 May 2026 18:06:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "published": "Tue, 12 May 2026 07:29:36 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [...]",
+      "published": "Tue, 12 May 2026 07:04:55 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -212,27 +221,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-      "summary": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
-      "published": "Mon, 11 May 2026 09:02:30 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-      "published": "Mon, 11 May 2026 08:30:00 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -322,83 +310,73 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "FCC Softens Ban on Foreign-Made Routers",
-      "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
-      "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
-      "published": "Mon, 11 May 2026 21:15:48 GMT",
+      "source": "Security Week",
+      "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
+      "link": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
+      "summary": "CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development. The post Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 13:46:49 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Tech Can't Stop These Threats — Your People Can",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
-      "summary": "Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense.",
-      "published": "Mon, 11 May 2026 19:50:20 GMT",
+      "source": "Security Week",
+      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
+      "link": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
+      "summary": "The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals. The post Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 13:26:46 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
-      "summary": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
-      "published": "Mon, 11 May 2026 15:05:45 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
+      "link": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
+      "summary": "The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware. The post West Pharmaceutical Services Hit by Disruptive Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 12:59:49 +0000",
+      "value_score": 46,
       "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
+        "Ransomware ×3"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Hackers Use AI for Exploit Development, Attack Automation",
-      "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
-      "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
-      "published": "Mon, 11 May 2026 13:00:00 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "Apple Patches Dozens of Vulnerabilities in macOS, iOS",
+      "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/",
+      "summary": "The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS. The post Apple Patches Dozens of Vulnerabilities in macOS, iOS appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 12:37:21 +0000",
+      "value_score": 18,
       "value_signals": [
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
-      "summary": "The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
-      "published": "Mon, 11 May 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ShinyHunters Claims Second Attack Against Instructure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
-      "summary": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
-      "published": "Fri, 08 May 2026 20:08:06 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
-      "link": "https://www.darkreading.com/cloud-security/teampcp-malware-pcpjack-steals-cloud-secrets",
-      "summary": "PCPJack makes innovative use of parquet files for stealthy, pre-validated target discovery as it canvasses multiple cloud environments.",
-      "published": "Thu, 07 May 2026 20:43:30 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Has CISA Finally Found Its New Leader in Tom Parker?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-new-leader-tom-parker",
-      "summary": "Dark Reading investigates rumors that Tom Parker, a board room \"operator\" and longtime cyber exec, could be next in line to take over CISA.",
-      "published": "Thu, 07 May 2026 19:07:17 GMT",
-      "value_score": 50,
+      "source": "Security Week",
+      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
+      "summary": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution. The post SAP Patches Critical S/4HANA, Commerce Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 12:13:41 +0000",
+      "value_score": 26,
       "value_signals": [
-        "CISA/KEV ×2"
+        "High severity ×2"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
+      "link": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
+      "summary": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security. The post Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 11:15:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Is the SOC Obsolete, and We Just Haven’t Admitted It Yet?",
+      "link": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
+      "summary": "Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity—and the SOC—should be next. The post Is the SOC Obsolete, and We Just Haven’t Admitted It Yet? appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -406,74 +384,6 @@
       "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
       "summary": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek .",
       "published": "Tue, 12 May 2026 10:10:33 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
-      "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
-      "summary": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security. The post Frame Security Emerges From Stealth With $50M for Awareness and Training Platform appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 17:17:37 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
-      "link": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
-      "summary": "Rather than scanning code alone, Build Application Firewalls inspect runtime behavior inside the software build pipeline. The post Build Application Firewalls Aim to Stop the Next Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 14:06:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Detects First AI-Generated Zero-Day Exploit",
-      "link": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
-      "summary": "The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group. The post Google Detects First AI-Generated Zero-Day Exploit appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 13:04:21 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Skoda Data Breach Hits Online Shop Customers",
-      "link": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
-      "summary": "Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers. The post Skoda Data Breach Hits Online Shop Customers appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 11:54:27 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring",
-      "link": "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/",
-      "summary": "The company topped revenue and earnings forecasts for the first quarter of 2026, but its shares plunged more than 20%. The post Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 11:25:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SailPoint Discloses GitHub Repository Hack",
-      "link": "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/",
-      "summary": "The incident occurred on April 20 and did not affect customer data in the company’s production and staging environments. The post SailPoint Discloses GitHub Repository Hack appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 10:52:23 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack",
-      "link": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
-      "summary": "A malicious version of the plugin was published to the Jenkins Marketplace late last week. The post Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 09:34:55 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -559,6 +469,18 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Software Bill of Materials for AI - Minimum Elements",
+      "link": "https://www.cisa.gov/resources-tools/resources/software-bill-materials-ai-minimum-elements",
+      "summary": "CISA and the Group of Seven (G7) international partners—Germany, Canada, France, Italy, Japan, the United Kingdom, and the European Union—have released joint guidance, Software Bill of Materials for AI – Minimum Elements , to help public and private sector stakeholders improve transparency in their artificial intelligence (AI) systems and supply chains. A software bill of materials (SBOM) acts as an “ingredients list” for software that better positions organizations to understand their supply ch",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
     },
     {
       "source": "CISA Alerts",
@@ -655,20 +577,6 @@
         "CVE mentioned ×3",
         "High severity ×2",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB B&R PVI",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-02",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. An attacker who successfully exploited this vulnerability could read sensitive information in the logging data of the PVI client application. Logging is deactivated by default in all PVI client versions. The following versions of ABB B&R PVI are affected: PVI <6.5.0, 6.5.0 (CVE-2026-0936) CVSS Vendor Equipment ",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Patch/update",
         "Exploit wording"
       ]
     }

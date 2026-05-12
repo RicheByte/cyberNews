@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1607,
+      "count": 1608,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1674,7 +1674,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2308,7 +2308,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 278,
+      "count": 279,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7956,7 +7956,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8911,7 +8911,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -8919,7 +8919,8 @@
         "2026-03-29",
         "2026-03-30",
         "2026-04-06",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-05-12"
       ]
     },
     "researchers uncover method": {
@@ -11014,7 +11015,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11024,7 +11025,8 @@
         "2026-04-29",
         "2026-04-30",
         "2026-05-01",
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-12"
       ]
     },
     "threat actors known": {
@@ -11460,7 +11462,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11471,7 +11473,8 @@
         "2026-04-23",
         "2026-04-24",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-05-12"
       ]
     },
     "things get shaky": {
@@ -13835,7 +13838,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15334,7 +15337,7 @@
       ]
     },
     "pvi client application": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-05-05",
         "2026-05-06",
@@ -15493,7 +15496,7 @@
       ]
     },
     "pvi client versions": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-07",
         "2026-05-08",
@@ -15609,7 +15612,7 @@
       ]
     },
     "service's login page": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15626,12 +15629,13 @@
       ]
     },
     "275 million students": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-12"
       ]
     },
     "internal trellix services": {
@@ -15644,11 +15648,12 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-08",
         "2026-05-09",
-        "2026-05-10"
+        "2026-05-10",
+        "2026-05-12"
       ]
     },
     "qlnx targets developers": {
@@ -15757,28 +15762,28 @@
       ]
     },
     "software build pipeline": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-11",
         "2026-05-12"
       ]
     },
     "ai driven restructuring": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-11",
         "2026-05-12"
       ]
     },
     "cybercrime threat actors": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-11",
         "2026-05-12"
       ]
     },
     "frame security emerges": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-11",
         "2026-05-12"
@@ -15818,6 +15823,18 @@
       ]
     },
     "end encryption e2ee": {
+      "count": 2,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "unauthorized actor involved": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "prominent cybercrime group": {
       "count": 1,
       "dates": [
         "2026-05-12"
@@ -15825,17 +15842,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-01 16:52",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "ai model provenance"
-      ]
-    },
     {
       "timestamp": "2026-05-01 19:04",
       "articles": 56,
@@ -16923,6 +16929,17 @@
         "sprawling phishing campaign",
         "service's login page",
         "end encryption e2ee"
+      ]
+    },
+    {
+      "timestamp": "2026-05-12 10:26",
+      "articles": 56,
+      "top_keywords": [
+        "pvi client application",
+        "supply chain attack",
+        "threat actor behind",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign"
       ]
     }
   ]

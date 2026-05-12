@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-05-12 06:33",
+  "last_updated": "2026-05-12 10:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
+    "supply chain attack",
+    "threat actor behind",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "service's login page",
     "end encryption e2ee",
     "cybercrime threat actors",
-    "ai driven restructuring",
     "aggravated identity theft",
+    "275 million students",
     "130 companies tangled",
     "pvi client versions",
+    "ai driven restructuring",
+    "unauthorized actor involved",
     "software build pipeline",
+    "frequent attack vector",
     "frame security emerges",
-    "actively exploited flaw",
-    "post canvas system",
-    "wire fraud conspiracy",
-    "webhost manager whm",
-    "united states today",
-    "things iot devices",
-    "service ddos attacks",
-    "russia hacked routers"
+    "prominent cybercrime group",
+    "cybercrime group defaced",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 52
+      "mentions": 53
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 53
+    },
+    {
+      "keyword": "threat actor behind",
+      "mentions": 34
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1607
+      "mentions": 1608
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 372
+      "mentions": 373
     },
     {
       "keyword": "service's login page",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "end encryption e2ee",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime threat actors",
-      "mentions": 6
-    },
-    {
-      "keyword": "ai driven restructuring",
       "mentions": 7
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 116
+      "mentions": 117
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 278
-    },
-    {
-      "keyword": "pvi client versions",
-      "mentions": 45
+      "keyword": "275 million students",
+      "mentions": 30
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "published": "Tue, 12 May 2026 14:20:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
+      "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
+      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities. In an update shared on Monday, the Utah-based firm said it \"reached an agreement with the unauthorized actor involved in",
+      "published": "Tue, 12 May 2026 13:07:00 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
+      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
+      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues. \"Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across",
+      "published": "Tue, 12 May 2026 12:25:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
@@ -124,38 +156,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-      "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-      "summary": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its",
-      "published": "Mon, 11 May 2026 17:00:00 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
+      "published": "Tue, 12 May 2026 05:23:56 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "summary": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
-      "published": "Mon, 11 May 2026 12:35:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
-      "published": "Sun, 10 May 2026 18:11:00 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "CVE mentioned",
-        "Breach/leak ×2",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -223,15 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
       "summary": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
       "published": "Mon, 11 May 2026 08:30:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "summary": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
-      "published": "Mon, 11 May 2026 05:03:02 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -403,6 +402,15 @@
     },
     {
       "source": "Security Week",
+      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
+      "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
+      "summary": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 10:10:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
       "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
       "summary": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security. The post Frame Security Emerges From Stealth With $50M for Awareness and Training Platform appeared first on SecurityWeek .",
@@ -466,15 +474,6 @@
       "link": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
       "summary": "A malicious version of the plugin was published to the Jenkins Marketplace late last week. The post Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek .",
       "published": "Mon, 11 May 2026 09:34:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-      "link": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-      "summary": "Tens of thousands of students studying for final exams around the world have regained access to a key online learning system after a cyberattack had earlier knocked it offline. The post Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools appeared first on SecurityWeek .",
-      "published": "Mon, 11 May 2026 08:35:13 +0000",
       "value_score": 10,
       "value_signals": []
     },

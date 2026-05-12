@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-12 06:33 UTC |
+| 🕐 Last Updated | 2026-05-12 10:26 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pvi client application` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service's login page` • `end encryption e2ee` • `cybercrime threat actors` • `ai driven restructuring` • `aggravated identity theft` • `130 companies tangled` • `pvi client versions`
+`pvi client application` • `supply chain attack` • `threat actor behind` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service's login page` • `end encryption e2ee` • `cybercrime threat actors` • `aggravated identity theft` • `275 million students`
 
 ## 📄 Reports
 

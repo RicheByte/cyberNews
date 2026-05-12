@@ -1,15 +1,13 @@
 {
-  "last_updated": "2026-05-12 02:33",
+  "last_updated": "2026-05-12 06:33",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pvi client application",
-    "webhost manager whm",
-    "address three vulnerabilities",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "service's login page",
-    "general motors gm",
+    "end encryption e2ee",
     "cybercrime threat actors",
     "ai driven restructuring",
     "aggravated identity theft",
@@ -17,56 +15,67 @@
     "pvi client versions",
     "software build pipeline",
     "frame security emerges",
+    "actively exploited flaw",
     "post canvas system",
     "wire fraud conspiracy",
+    "webhost manager whm",
     "united states today",
     "things iot devices",
-    "russia hacked routers",
-    "recommended immediate actions"
+    "service ddos attacks",
+    "russia hacked routers"
   ],
   "trending": [
     {
       "keyword": "pvi client application",
-      "mentions": 51
-    },
-    {
-      "keyword": "webhost manager whm",
-      "mentions": 4
-    },
-    {
-      "keyword": "address three vulnerabilities",
-      "mentions": 27
+      "mentions": 52
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1606
+      "mentions": 1607
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 371
+      "mentions": 372
     },
     {
       "keyword": "service's login page",
-      "mentions": 21
+      "mentions": 22
     },
     {
-      "keyword": "general motors gm",
-      "mentions": 2
+      "keyword": "end encryption e2ee",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime threat actors",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai driven restructuring",
       "mentions": 6
     },
     {
+      "keyword": "ai driven restructuring",
+      "mentions": 7
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 115
+      "mentions": 116
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 278
+    },
+    {
+      "keyword": "pvi client versions",
+      "mentions": 45
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
+      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
+      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure alternative. To that end, E2EE RCS messaging is rolling out to iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages.",
+      "published": "Tue, 12 May 2026 10:48:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
@@ -146,20 +155,6 @@
         "CVE mentioned",
         "Breach/leak ×2",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "summary": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
-      "published": "Sat, 09 May 2026 12:46:00 +0530",
-      "value_score": 54,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "Patch/update",
         "Exploit wording"
       ]
     },

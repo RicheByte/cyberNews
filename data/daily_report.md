@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-12 02:33 UTC  
+> **Last Updated:** 2026-05-12 06:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pvi client application** • **webhost manager whm** • **address three vulnerabilities** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service's login page** • **general motors gm** • **cybercrime threat actors** • **ai driven restructuring** • **aggravated identity theft** • **130 companies tangled** • **pvi client versions** • **software build pipeline** • **frame security emerges** • **post canvas system** • **wire fraud conspiracy** • **united states today** • **things iot devices** • **russia hacked routers** • **recommended immediate actions**
+**pvi client application** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **service's login page** • **end encryption e2ee** • **cybercrime threat actors** • **ai driven restructuring** • **aggravated identity theft** • **130 companies tangled** • **pvi client versions** • **software build pipeline** • **frame security emerges** • **actively exploited flaw** • **post canvas system** • **wire fraud conspiracy** • **webhost manager whm** • **united states today** • **things iot devices** • **service ddos attacks** • **russia hacked routers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android](https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html)
 - [TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack](https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html)
 - [cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor](https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html)
 - [Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation](https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html)
@@ -23,7 +24,6 @@
 - [Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room](https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html)
 - [Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads](https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html)
 - [Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak](https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html)
-- [cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now](https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html)
 
 ### BleepingComputer
 

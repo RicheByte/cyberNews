@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-12 21:14 UTC  
+> **Last Updated:** 2026-05-12 22:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **single file tweak** • **remote code execution** • **twitter whistleblower complaint** • **orchestrate complex attacks** • **cryptographic message syntax** • **bwh hotels guests** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **potential code execution** • **service ddos attacks** • **massive ddos attacks** • **known common v** • **disruptive ransomware attack** • **ai assisted workflows** • **major malicious attack** • **ai control platform** • **wholly owned subsidiary** • **unauthorized actor involved**
+**ai minimum elements** • **single file tweak** • **remote code execution** • **twitter whistleblower complaint** • **potential code execution** • **foreign made routers** • **cryptographic message syntax** • **bwh hotels guests** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **orchestrate complex attacks** • **known common v** • **disruptive ransomware attack** • **ai assisted workflows** • **major malicious attack** • **ai control platform** • **wholly owned subsidiary** • **unauthorized actor involved** • **threat actor behind**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
@@ -45,10 +46,10 @@
 - [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 - [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
-- [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/)
 
 ### Dark Reading
 
+- [It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight](https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight)
 - [Hugging Face Packages Weaponized With a Single File Tweak](https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak)
 - [20 Leaders Who Built the CISO Era: 2 Decades of Change](https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change)
 - [Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain](https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain)
@@ -56,7 +57,6 @@
 - [Tech Can't Stop These Threats — Your People Can](https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can)
 - ['Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros](https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros)
 - [Hackers Use AI for Exploit Development, Attack Automation](https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation)
-- [Cyber Espionage Group Targets Aviation Firms to Steal Map Data](https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data)
 
 ### Security Week
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-12 14:09",
+  "last_updated": "2026-05-12 17:55",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
-    "claude mythos finds",
+    "banking scam calls",
     "ai minimum elements",
-    "s 4hana sap",
     "apple patches dozens",
-    "twitter whistleblower complaint",
+    "s 4hana sap",
     "sprawling phishing campaign",
-    "service's login page",
-    "haven t admitted",
-    "end encryption e2ee",
     "aggravated identity theft",
-    "actively exploited flaw",
+    "single file tweak",
+    "twitter whistleblower complaint",
+    "threat actor behind",
+    "end encryption e2ee",
+    "cryptographic message syntax",
+    "bwh hotels guests",
+    "adobe reader nixes",
     "130 companies tangled",
+    "known common v",
+    "orchestrate complex attacks",
     "disruptive ransomware attack",
-    "service ddos attacks",
-    "massive ddos attacks",
-    "cybercrime group defaced",
-    "bounds write vulnerability",
-    "wire fraud conspiracy",
-    "unauthorized actor involved",
-    "threat actor behind"
+    "tech can't stop",
+    "major malicious attack",
+    "service ddos attacks"
   ],
   "trending": [
     {
-      "keyword": "claude mythos finds",
+      "keyword": "banking scam calls",
       "mentions": 1
     },
     {
       "keyword": "ai minimum elements",
-      "mentions": 1
-    },
-    {
-      "keyword": "s 4hana sap",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "apple patches dozens",
+      "mentions": 2
+    },
+    {
+      "keyword": "s 4hana sap",
+      "mentions": 2
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 375
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 119
+    },
+    {
+      "keyword": "single file tweak",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1609
+      "mentions": 1610
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 374
-    },
-    {
-      "keyword": "service's login page",
-      "mentions": 24
-    },
-    {
-      "keyword": "haven t admitted",
-      "mentions": 1
+      "keyword": "threat actor behind",
+      "mentions": 36
     },
     {
       "keyword": "end encryption e2ee",
-      "mentions": 3
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 118
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "published": "Tue, 12 May 2026 20:17:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
@@ -89,7 +98,7 @@
       "source": "The Hacker News",
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
       "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
       "published": "Tue, 12 May 2026 17:16:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -136,11 +145,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
-      "summary": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend. As of writing, Checkmarx has released",
-      "published": "Tue, 12 May 2026 00:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+      "published": "Tue, 12 May 2026 13:07:01 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+      "published": "Tue, 12 May 2026 13:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -201,26 +221,6 @@
       "published": "Mon, 11 May 2026 18:02:00 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "summary": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
-      "published": "Mon, 11 May 2026 11:26:26 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "summary": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
-      "published": "Mon, 11 May 2026 09:53:56 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -310,6 +310,122 @@
       "value_signals": []
     },
     {
+      "source": "Dark Reading",
+      "title": "Hugging Face Packages Weaponized With a Single File Tweak",
+      "link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
+      "summary": "A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model's outputs and exfiltrate data.",
+      "published": "Tue, 12 May 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
+      "link": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
+      "summary": "As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
+      "published": "Tue, 12 May 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain",
+      "link": "https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain",
+      "summary": "Hundreds of npm packages infected by the self-propagating, credential-stealing worm from TeamPCP are related to the open source TanStack ecosystem.",
+      "published": "Tue, 12 May 2026 11:07:43 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "FCC Softens Ban on Foreign-Made Routers",
+      "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
+      "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
+      "published": "Mon, 11 May 2026 21:15:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Tech Can't Stop These Threats — Your People Can",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
+      "summary": "Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense.",
+      "published": "Mon, 11 May 2026 19:50:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
+      "summary": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
+      "published": "Mon, 11 May 2026 15:05:45 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hackers Use AI for Exploit Development, Attack Automation",
+      "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+      "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
+      "published": "Mon, 11 May 2026 13:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
+      "summary": "The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
+      "published": "Mon, 11 May 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
+      "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
+      "summary": "Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. The post Exaforce Raises $125 Million for Agentic SOC Platform appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 17:23:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
+      "link": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
+      "summary": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution. The post Adobe Patches 52 Vulnerabilities in 10 Products appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 16:47:21 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "White Circle Raises $11 Million for AI Control Platform",
+      "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
+      "summary": "The startup will invest in accelerating product development, hiring new talent, and expanding its customer base. The post White Circle Raises $11 Million for AI Control Platform appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 15:40:21 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
+      "link": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
+      "summary": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
       "source": "Security Week",
       "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
       "link": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
@@ -348,44 +464,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
-      "link": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
-      "summary": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution. The post SAP Patches Critical S/4HANA, Commerce Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 12:13:41 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
-      "link": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
-      "summary": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security. The post Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 11:15:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Is the SOC Obsolete, and We Just Haven’t Admitted It Yet?",
-      "link": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
-      "summary": "Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity—and the SOC—should be next. The post Is the SOC Obsolete, and We Just Haven’t Admitted It Yet? appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
-      "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
-      "summary": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 10:10:33 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -472,6 +550,34 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabilities could cause a crash, denial-of-service (DoS), or potentially remote code execution. The following versions of ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax are affected: AC500 V3 PM5xxx 3.9.0, 3.9.0_HF1 CVSS Vendor Equipment Vulnerabil",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 69,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "RCE",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Subnet Solutions PowerSYSTEM Center",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.28.x (CVE-2026-35504) PowerSYSTEM Center 2020 >=5.8.x|<=5.28.x (CVE-2026-26289) PowerSYSTEM Center 2020 >=5.11.x|<=5.28.x (CVE-2026-33570) PowerSYSTEM Center 2024 >=6.0.x|<=6.1.x (CVE-2026-26289, CVE-2026-35555, CVE-2026-35504) Powe",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×6",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Software Bill of Materials for AI - Minimum Elements",
       "link": "https://www.cisa.gov/resources-tools/resources/software-bill-materials-ai-minimum-elements",
       "summary": "CISA and the Group of Seven (G7) international partners—Germany, Canada, France, Italy, Japan, the United Kingdom, and the European Union—have released joint guidance, Software Bill of Materials for AI – Minimum Elements , to help public and private sector stakeholders improve transparency in their artificial intelligence (AI) systems and supply chains. A software bill of materials (SBOM) acts as an “ingredients list” for software that better positions organizations to understand their supply ch",
@@ -480,6 +586,57 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
+      "summary": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with access to local network who successfully exploited this vulnerability could have - Unauthorized access - Insufficient Session Expiration leading to resource unavailability - Uncontrolled Resource Consumption leading to DOS attack ABB strongly advises customers to upda",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB AC500 V3 Multiple Vulnerabilities",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03",
+      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilities could bypass the user management and read visualization files (CVE-2025-2595), read and write certificates and keys (CVE-2025-41659) or cause a denial-of-service (DoS) (CVE-2025-41691). The following versions of ABB AC500 V3 Multiple Vulnerabilities are affec",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 97,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB Automation Builder Gateway for Windows",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-04",
+      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. The Windows gateway is accessible remotely by default. Unauthenticated attackers can therefore search for PLCs, but the user management of the PLCs prevents the actual access to the PLCs – unless it is disabled The following versions of ABB Automation Builder Gateway for Windows are affected: Automation Builder <2.9.0, 2.9.0 CVSS Vendor Equipment Vulnerabilities v3 5.3 ABB ABB ",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Fuji Electric Tellus",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. The following versions of Fuji Electric Tellus are affected: Tellus 5.0.2 CVSS Vendor Equipment Vulnerabilities v3 7.8 Fuji Electric Fuji Electric Tellus Exposed Dangerous Method or Function Background Critical Infrastructure Sectors: Critical Manufacturing Countri",
+      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "value_score": 57,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -493,90 +650,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned",
         "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/07/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-6973 Ivanti Endpoint Manager Mobile (EPMM) Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog a",
-      "published": "Thu, 07 May 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "MAXHUB Pivot Client Application",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-127-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may enable an attacker to access tenant email addresses and associated information in cleartext or cause a denial-of-service condition. The following versions of MAXHUB Pivot client application are affected: MAXHUB Pivot client application CVSS Vendor Equipment Vulnerabilities v3 7.3 MAXHUB MAXHUB Pivot client application Use of a Broken or Risky Cryptographic Algorithm Background Critical Infrastructure Sectors: Information Technol",
-      "published": "Thu, 07 May 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0300 Palo Alto Networks PAN-OS Out-of-bounds Write Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "Wed, 06 May 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB B&R Automation Runtime",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-03",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that resolves a vulnerability. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&R Automation Runtime are affected: Automation Runtime <6.5, >=6.5, =R4.93 (CVE-2025-11044, CVE-2025-11044) CVSS Vendor Equipment Vulnerabilities v3 6.8 ABB ABB B&R Automation Runtime Allocation of Resources With",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 93,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy PCM600",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-01",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a vulnerability that affects the Hitachi Energy PCM600 product versions listed in this document. An attacker successfully exploiting this vulnerability can impact integrity of the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy PCM600 are affected: PCM600 Legacy vers:PCM600_Legacy/<=2.11 (CVE-2018-1002208) PCM600 3.0, 3.0_HF1, 3.0_HF2, 3.0_HF3, 3.1, 3",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Johnson Controls CEM AC2000",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-125-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a standard user to escalate privileges on the host machine. The following versions of Johnson Controls CEM AC2000 are affected: CEM AC2000 12.0 (CVE-2026-21661) CEM AC2000 11.0 (CVE-2026-21661) CEM AC2000 10.6 (CVE-2026-21661) CVSS Vendor Equipment Vulnerabilities v3 8.7 Johnson Controls Inc. Johnson Controls CEM AC2000 Uncontrolled Search Path Element Background Critical Infrastructure Sectors: Critical Manufacturing, C",
-      "published": "Tue, 05 May 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "High severity ×2",
-        "Multiple CVEs",
         "Exploit wording"
       ]
     }

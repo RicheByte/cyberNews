@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1609,
+      "count": 1610,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1674,7 +1674,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 374,
+      "count": 375,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2309,7 +2309,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6310,7 +6310,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8912,7 +8912,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -13839,7 +13839,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15825,7 +15825,7 @@
       ]
     },
     "end encryption e2ee": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-12"
       ]
@@ -15849,19 +15849,19 @@
       ]
     },
     "ai minimum elements": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "s 4hana sap": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "apple patches dozens": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
@@ -15873,6 +15873,60 @@
       ]
     },
     "disruptive ransomware attack": {
+      "count": 2,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "banking scam calls": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "single file tweak": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "cryptographic message syntax": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "bwh hotels guests": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "adobe reader nixes": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "known common v": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "orchestrate complex attacks": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "tech can't stop": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "major malicious attack": {
       "count": 1,
       "dates": [
         "2026-05-12"
@@ -15880,17 +15934,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-01 20:44",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "blackcat ransomware attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-01 22:43",
       "articles": 56,
@@ -16978,6 +17021,17 @@
         "s 4hana sap",
         "apple patches dozens",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-12 17:55",
+      "articles": 56,
+      "top_keywords": [
+        "banking scam calls",
+        "ai minimum elements",
+        "apple patches dozens",
+        "s 4hana sap",
+        "sprawling phishing campaign"
       ]
     }
   ]

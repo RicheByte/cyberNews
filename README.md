@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-12 14:09 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-05-12 17:55 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`claude mythos finds` • `ai minimum elements` • `s 4hana sap` • `apple patches dozens` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `service's login page` • `haven t admitted` • `end encryption e2ee` • `aggravated identity theft`
+`banking scam calls` • `ai minimum elements` • `apple patches dozens` • `s 4hana sap` • `sprawling phishing campaign` • `aggravated identity theft` • `single file tweak` • `twitter whistleblower complaint` • `threat actor behind` • `end encryption e2ee`
 
 ## 📄 Reports
 

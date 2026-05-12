@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1610,
+      "count": 1611,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -681,7 +681,7 @@
       ]
     },
     "remote code execution": {
-      "count": 330,
+      "count": 331,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -735,7 +735,8 @@
         "2026-04-30",
         "2026-05-05",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-12"
       ]
     },
     "attacker remotely control": {
@@ -2309,7 +2310,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6310,7 +6311,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8912,7 +8913,7 @@
       ]
     },
     "threat actor behind": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-03-03",
         "2026-03-27",
@@ -13839,7 +13840,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14888,7 +14889,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15849,7 +15850,7 @@
       ]
     },
     "ai minimum elements": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
@@ -15873,49 +15874,49 @@
       ]
     },
     "disruptive ransomware attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "banking scam calls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "single file tweak": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "cryptographic message syntax": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "bwh hotels guests": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "adobe reader nixes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "known common v": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "orchestrate complex attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
@@ -15927,6 +15928,24 @@
       ]
     },
     "major malicious attack": {
+      "count": 2,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "potential code execution": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "ai control platform": {
+      "count": 1,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "wholly owned subsidiary": {
       "count": 1,
       "dates": [
         "2026-05-12"
@@ -15934,17 +15953,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-01 22:43",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "blackcat ransomware attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-02 02:12",
       "articles": 56,
@@ -17032,6 +17040,17 @@
         "apple patches dozens",
         "s 4hana sap",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-12 19:43",
+      "articles": 56,
+      "top_keywords": [
+        "banking scam calls",
+        "ai minimum elements",
+        "single file tweak",
+        "aggravated identity theft",
+        "remote code execution"
       ]
     }
   ]

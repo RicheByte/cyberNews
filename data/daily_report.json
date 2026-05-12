@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-12 17:55",
+  "last_updated": "2026-05-12 19:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "banking scam calls",
     "ai minimum elements",
-    "apple patches dozens",
-    "s 4hana sap",
-    "sprawling phishing campaign",
-    "aggravated identity theft",
     "single file tweak",
+    "aggravated identity theft",
+    "remote code execution",
     "twitter whistleblower complaint",
     "threat actor behind",
-    "end encryption e2ee",
+    "orchestrate complex attacks",
     "cryptographic message syntax",
     "bwh hotels guests",
     "adobe reader nixes",
     "130 companies tangled",
+    "potential code execution",
+    "service ddos attacks",
+    "massive ddos attacks",
     "known common v",
-    "orchestrate complex attacks",
     "disruptive ransomware attack",
-    "tech can't stop",
     "major malicious attack",
-    "service ddos attacks"
+    "ai control platform",
+    "wholly owned subsidiary"
   ],
   "trending": [
     {
       "keyword": "banking scam calls",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "ai minimum elements",
-      "mentions": 2
-    },
-    {
-      "keyword": "apple patches dozens",
-      "mentions": 2
-    },
-    {
-      "keyword": "s 4hana sap",
-      "mentions": 2
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 375
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 119
+      "mentions": 3
     },
     {
       "keyword": "single file tweak",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 120
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 331
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1610
+      "mentions": 1611
     },
     {
       "keyword": "threat actor behind",
-      "mentions": 36
+      "mentions": 37
     },
     {
-      "keyword": "end encryption e2ee",
-      "mentions": 4
+      "keyword": "orchestrate complex attacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "cryptographic message syntax",
+      "mentions": 2
+    },
+    {
+      "keyword": "bwh hotels guests",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
+      "published": "Tue, 12 May 2026 22:14:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
@@ -136,13 +147,60 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "iOS 26.5 Brings Default End-to-End Encrypted RCS Messaging Between iPhone and Android",
-      "link": "https://thehackernews.com/2026/05/ios-265-brings-default-end-to-end.html",
-      "summary": "Apple on Monday officially released iOS 26.5 with support for end-to-end encryption (E2EE) to Rich Communication Services (RCS) in beta as part of a \"cross-industry effort\" to replace traditional SMS with a more secure alternative. To that end, E2EE RCS messaging is rolling out to iPhone users running iOS 26.5 with supported carriers and Android users on the latest version of Google Messages.",
-      "published": "Tue, 12 May 2026 10:48:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+      "published": "Tue, 12 May 2026 15:40:31 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+      "published": "Tue, 12 May 2026 14:58:34 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+      "published": "Tue, 12 May 2026 14:23:09 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "Tue, 12 May 2026 14:09:12 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
+      "published": "Tue, 12 May 2026 14:08:06 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -170,55 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
       "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
       "published": "Tue, 12 May 2026 07:29:36 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
-      "summary": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [...]",
-      "published": "Tue, 12 May 2026 07:04:55 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
-      "summary": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
-      "published": "Tue, 12 May 2026 05:23:56 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GM agrees to $12.75M California settlement over sale of drivers’ data",
-      "link": "https://www.bleepingcomputer.com/news/legal/gm-agrees-to-1275m-california-settlement-over-sale-of-drivers-data/",
-      "summary": "California Attorney General Rob Bonta announced a proposed $12.75 million settlement agreement with General Motors (GM) over allegations that the company violated the California Consumer Privacy Act (CCPA). [...]",
-      "published": "Mon, 11 May 2026 18:40:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Official CheckMarx Jenkins package compromised with infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/official-checkmarx-jenkins-package-compromised-with-infostealer/",
-      "summary": "Checkmarx warned over the weekend that a rogue version of its Jenkins Application Security Testing (AST) plugin had been published on the Jenkins Marketplace. [...]",
-      "published": "Mon, 11 May 2026 18:03:06 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New GhostLock tool abuses Windows API to block file access",
-      "link": "https://www.bleepingcomputer.com/news/security/new-ghostlock-tool-abuses-windows-api-to-block-file-access/",
-      "summary": "A security researcher has released a proof-of-concept tool named GhostLock that demonstrates how a legitimate Windows file API can be abused in attacks to block access to files stored locally or on SMB network shares. [...]",
-      "published": "Mon, 11 May 2026 18:02:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -388,6 +397,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Microsoft Patches 137 Vulnerabilities",
+      "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
+      "summary": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira & Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 12 May 2026 18:07:39 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
       "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
       "summary": "Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. The post Exaforce Raises $125 Million for Agentic SOC Platform appeared first on SecurityWeek .",
@@ -452,17 +472,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Patches Dozens of Vulnerabilities in macOS, iOS",
-      "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/",
-      "summary": "The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS. The post Apple Patches Dozens of Vulnerabilities in macOS, iOS appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 12:37:21 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

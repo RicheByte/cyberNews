@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-12 17:55 UTC |
+| 🕐 Last Updated | 2026-05-12 19:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`banking scam calls` • `ai minimum elements` • `apple patches dozens` • `s 4hana sap` • `sprawling phishing campaign` • `aggravated identity theft` • `single file tweak` • `twitter whistleblower complaint` • `threat actor behind` • `end encryption e2ee`
+`banking scam calls` • `ai minimum elements` • `single file tweak` • `aggravated identity theft` • `remote code execution` • `twitter whistleblower complaint` • `threat actor behind` • `orchestrate complex attacks` • `cryptographic message syntax` • `bwh hotels guests`
 
 ## 📄 Reports
 

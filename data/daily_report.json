@@ -1,18 +1,16 @@
 {
-  "last_updated": "2026-05-12 19:43",
+  "last_updated": "2026-05-12 21:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "banking scam calls",
     "ai minimum elements",
     "single file tweak",
-    "aggravated identity theft",
     "remote code execution",
     "twitter whistleblower complaint",
-    "threat actor behind",
     "orchestrate complex attacks",
     "cryptographic message syntax",
     "bwh hotels guests",
+    "aggravated identity theft",
     "adobe reader nixes",
     "130 companies tangled",
     "potential code execution",
@@ -20,50 +18,52 @@
     "massive ddos attacks",
     "known common v",
     "disruptive ransomware attack",
+    "ai assisted workflows",
     "major malicious attack",
     "ai control platform",
-    "wholly owned subsidiary"
+    "wholly owned subsidiary",
+    "unauthorized actor involved"
   ],
   "trending": [
     {
-      "keyword": "banking scam calls",
-      "mentions": 2
-    },
-    {
       "keyword": "ai minimum elements",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "single file tweak",
-      "mentions": 2
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 120
+      "mentions": 3
     },
     {
       "keyword": "remote code execution",
-      "mentions": 331
+      "mentions": 332
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1611
-    },
-    {
-      "keyword": "threat actor behind",
-      "mentions": 37
+      "mentions": 1612
     },
     {
       "keyword": "orchestrate complex attacks",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cryptographic message syntax",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "bwh hotels guests",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 121
+    },
+    {
+      "keyword": "adobe reader nixes",
+      "mentions": 3
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 283
     }
   ],
   "articles": [
@@ -148,6 +148,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
+      "published": "Tue, 12 May 2026 16:17:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Webinar: Fixing the gaps in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
+      "published": "Tue, 12 May 2026 15:46:04 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Signal adds security warnings for social engineering, phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
       "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
@@ -212,24 +230,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Android 17 to expand banking scam call and privacy protections",
-      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
-      "summary": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
-      "published": "Tue, 12 May 2026 13:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
-      "summary": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
-      "published": "Tue, 12 May 2026 07:29:36 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

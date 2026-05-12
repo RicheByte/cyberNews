@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1611,
+      "count": 1612,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -681,7 +681,7 @@
       ]
     },
     "remote code execution": {
-      "count": 331,
+      "count": 332,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2310,7 +2310,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 282,
+      "count": 283,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -6311,7 +6311,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -13840,7 +13840,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14889,7 +14889,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15832,7 +15832,7 @@
       ]
     },
     "unauthorized actor involved": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
@@ -15850,7 +15850,7 @@
       ]
     },
     "ai minimum elements": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-12"
       ]
@@ -15874,7 +15874,7 @@
       ]
     },
     "disruptive ransomware attack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-12"
       ]
@@ -15886,37 +15886,37 @@
       ]
     },
     "single file tweak": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "cryptographic message syntax": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "bwh hotels guests": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "adobe reader nixes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "known common v": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "orchestrate complex attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
@@ -15928,24 +15928,30 @@
       ]
     },
     "major malicious attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-12"
       ]
     },
     "potential code execution": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "ai control platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-12"
       ]
     },
     "wholly owned subsidiary": {
+      "count": 2,
+      "dates": [
+        "2026-05-12"
+      ]
+    },
+    "ai assisted workflows": {
       "count": 1,
       "dates": [
         "2026-05-12"
@@ -15953,17 +15959,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-02 02:12",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "1 800 hit"
-      ]
-    },
     {
       "timestamp": "2026-05-02 06:03",
       "articles": 56,
@@ -17051,6 +17046,17 @@
         "single file tweak",
         "aggravated identity theft",
         "remote code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-05-12 21:14",
+      "articles": 56,
+      "top_keywords": [
+        "ai minimum elements",
+        "single file tweak",
+        "remote code execution",
+        "twitter whistleblower complaint",
+        "orchestrate complex attacks"
       ]
     }
   ]

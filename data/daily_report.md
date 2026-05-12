@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-12 19:43 UTC  
+> **Last Updated:** 2026-05-12 21:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**banking scam calls** • **ai minimum elements** • **single file tweak** • **aggravated identity theft** • **remote code execution** • **twitter whistleblower complaint** • **threat actor behind** • **orchestrate complex attacks** • **cryptographic message syntax** • **bwh hotels guests** • **adobe reader nixes** • **130 companies tangled** • **potential code execution** • **service ddos attacks** • **massive ddos attacks** • **known common v** • **disruptive ransomware attack** • **major malicious attack** • **ai control platform** • **wholly owned subsidiary**
+**ai minimum elements** • **single file tweak** • **remote code execution** • **twitter whistleblower complaint** • **orchestrate complex attacks** • **cryptographic message syntax** • **bwh hotels guests** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **potential code execution** • **service ddos attacks** • **massive ddos attacks** • **known common v** • **disruptive ransomware attack** • **ai assisted workflows** • **major malicious attack** • **ai control platform** • **wholly owned subsidiary** • **unauthorized actor involved**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
+- [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
 - [Signal adds security warnings for social engineering, phishing attacks](https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/)
 - [Microsoft releases Windows 10 KB5087544 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/)
 - [Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/)
 - [Windows 11 KB5089549 & KB5087420 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/)
 - [Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/)
 - [Škoda warns of customer data breach after online shop hack](https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/)
-- [Android 17 to expand banking scam call and privacy protections](https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/)
-- [Shai Hulud attack ships signed malicious TanStack, Mistral npm packages](https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/)
 
 ### Krebs on Security
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-12 22:55 UTC  
+> **Last Updated:** 2026-05-13 02:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **single file tweak** • **remote code execution** • **twitter whistleblower complaint** • **potential code execution** • **foreign made routers** • **cryptographic message syntax** • **bwh hotels guests** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **orchestrate complex attacks** • **known common v** • **disruptive ransomware attack** • **ai assisted workflows** • **major malicious attack** • **ai control platform** • **wholly owned subsidiary** • **unauthorized actor involved** • **threat actor behind**
+**ai minimum elements** • **single file tweak** • **remote code execution** • **twitter whistleblower complaint** • **publicly disclosed weakness** • **potential code execution** • **foreign made routers** • **cryptographic message syntax** • **bwh hotels guests** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **orchestrate complex attacks** • **known common v** • **disruptive ransomware attack** • **ai assisted workflows** • **cybercrime group defaced** • **major malicious attack** • **ai control platform** • **unauthorized actor involved**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
 - [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
 - [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
 - [Signal adds security warnings for social engineering, phishing attacks](https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/)
@@ -34,7 +35,6 @@
 - [Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/)
 - [Windows 11 KB5089549 & KB5087420 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/)
 - [Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/)
-- [Škoda warns of customer data breach after online shop hack](https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/)
 
 ### Krebs on Security
 

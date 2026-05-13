@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-12 22:55",
+  "last_updated": "2026-05-13 02:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,6 +7,7 @@
     "single file tweak",
     "remote code execution",
     "twitter whistleblower complaint",
+    "publicly disclosed weakness",
     "potential code execution",
     "foreign made routers",
     "cryptographic message syntax",
@@ -18,52 +19,51 @@
     "known common v",
     "disruptive ransomware attack",
     "ai assisted workflows",
+    "cybercrime group defaced",
     "major malicious attack",
     "ai control platform",
-    "wholly owned subsidiary",
-    "unauthorized actor involved",
-    "threat actor behind"
+    "unauthorized actor involved"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "single file tweak",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "remote code execution",
-      "mentions": 333
+      "mentions": 334
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1613
+      "mentions": 1614
+    },
+    {
+      "keyword": "publicly disclosed weakness",
+      "mentions": 6
     },
     {
       "keyword": "potential code execution",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "foreign made routers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cryptographic message syntax",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "bwh hotels guests",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 122
-    },
-    {
-      "keyword": "adobe reader nixes",
-      "mentions": 4
+      "mentions": 123
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
+      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
+      "published": "Tue, 12 May 2026 19:09:55 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
       "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
       "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
@@ -218,17 +227,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Škoda warns of customer data breach after online shop hack",
-      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
-      "summary": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
-      "published": "Tue, 12 May 2026 13:07:01 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

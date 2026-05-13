@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 17:57",
+  "last_updated": "2026-05-13 19:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,7 +12,6 @@
     "released security updates",
     "arbitrary code execution",
     "twitter whistleblower complaint",
-    "tech can't stop",
     "sprawling phishing campaign",
     "single file tweak",
     "foreign made routers",
@@ -22,48 +21,49 @@
     "130 companies tangled",
     "138 flaws 30",
     "webinar today roi",
-    "breach 24 hours"
+    "breach 24 hours",
+    "massive canvas cyberattack"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "716 000 impacted",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "remote code execution",
-      "mentions": 338
+      "mentions": 339
     },
     {
       "keyword": "potential code execution",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "privilege escalation flaw",
-      "mentions": 1
-    },
-    {
-      "keyword": "late december 2025",
       "mentions": 2
     },
     {
+      "keyword": "late december 2025",
+      "mentions": 3
+    },
+    {
       "keyword": "released security updates",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 227
+      "mentions": 228
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1618
+      "mentions": 1619
     },
     {
-      "keyword": "tech can't stop",
-      "mentions": 4
+      "keyword": "sprawling phishing campaign",
+      "mentions": 377
     }
   ],
   "articles": [
@@ -327,6 +327,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+      "summary": "Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.",
+      "published": "Wed, 13 May 2026 18:52:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
       "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
       "summary": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
@@ -389,15 +398,6 @@
       "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
       "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
       "published": "Mon, 11 May 2026 21:15:48 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Tech Can't Stop These Threats — Your People Can",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can",
-      "summary": "Security controls can do only so much. Here are four attacks where your employees are usually your first, and only, line of cyber defense.",
-      "published": "Mon, 11 May 2026 19:50:20 GMT",
       "value_score": 10,
       "value_signals": []
     },

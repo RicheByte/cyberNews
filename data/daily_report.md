@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-13 17:57 UTC  
+> **Last Updated:** 2026-05-13 19:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **716 000 impacted** • **remote code execution** • **potential code execution** • **privilege escalation flaw** • **late december 2025** • **released security updates** • **arbitrary code execution** • **twitter whistleblower complaint** • **tech can't stop** • **sprawling phishing campaign** • **single file tweak** • **foreign made routers** • **cryptographic message syntax** • **concept poc exploits** • **aggravated identity theft** • **130 companies tangled** • **138 flaws 30** • **webinar today roi** • **breach 24 hours**
+**ai minimum elements** • **716 000 impacted** • **remote code execution** • **potential code execution** • **privilege escalation flaw** • **late december 2025** • **released security updates** • **arbitrary code execution** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **single file tweak** • **foreign made routers** • **cryptographic message syntax** • **concept poc exploits** • **aggravated identity theft** • **130 companies tangled** • **138 flaws 30** • **webinar today roi** • **breach 24 hours** • **massive canvas cyberattack**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape](https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape)
 - [LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly](https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools)
 - [China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm)
 - [It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight](https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight)
@@ -56,7 +57,6 @@
 - [20 Leaders Who Built the CISO Era: 2 Decades of Change](https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change)
 - [Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain](https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain)
 - [FCC Softens Ban on Foreign-Made Routers](https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban)
-- [Tech Can't Stop These Threats — Your People Can](https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can)
 
 ### Security Week
 

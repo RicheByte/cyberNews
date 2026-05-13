@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-13 17:57 UTC |
+| 🕐 Last Updated | 2026-05-13 19:55 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai minimum elements` • `716 000 impacted` • `remote code execution` • `potential code execution` • `privilege escalation flaw` • `late december 2025` • `released security updates` • `arbitrary code execution` • `twitter whistleblower complaint` • `tech can't stop`
+`ai minimum elements` • `716 000 impacted` • `remote code execution` • `potential code execution` • `privilege escalation flaw` • `late december 2025` • `released security updates` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

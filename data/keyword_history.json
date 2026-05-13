@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1618,
+      "count": 1619,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -682,7 +682,7 @@
       ]
     },
     "remote code execution": {
-      "count": 338,
+      "count": 339,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1677,7 +1677,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 376,
+      "count": 377,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2313,7 +2313,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 289,
+      "count": 290,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2899,7 +2899,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3757,7 +3757,7 @@
       ]
     },
     "released security updates": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -13848,7 +13848,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15861,7 +15861,7 @@
       ]
     },
     "ai minimum elements": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -15899,14 +15899,14 @@
       ]
     },
     "single file tweak": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-12",
         "2026-05-13"
       ]
     },
     "cryptographic message syntax": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -15955,7 +15955,7 @@
       ]
     },
     "potential code execution": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -15982,7 +15982,7 @@
       ]
     },
     "foreign made routers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -16013,19 +16013,19 @@
       ]
     },
     "716 000 impacted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-13"
       ]
     },
     "late december 2025": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-13"
       ]
     },
     "138 flaws 30": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-13"
       ]
@@ -16037,7 +16037,7 @@
       ]
     },
     "webinar today roi": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-13"
       ]
@@ -16049,18 +16049,24 @@
       ]
     },
     "breach 24 hours": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-13"
       ]
     },
     "privilege escalation flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-13"
       ]
     },
     "concept poc exploits": {
+      "count": 2,
+      "dates": [
+        "2026-05-13"
+      ]
+    },
+    "massive canvas cyberattack": {
       "count": 1,
       "dates": [
         "2026-05-13"
@@ -16068,17 +16074,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-02 18:52",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication"
-      ]
-    },
     {
       "timestamp": "2026-05-02 20:35",
       "articles": 56,
@@ -17159,6 +17154,17 @@
     },
     {
       "timestamp": "2026-05-13 17:57",
+      "articles": 56,
+      "top_keywords": [
+        "ai minimum elements",
+        "716 000 impacted",
+        "remote code execution",
+        "potential code execution",
+        "privilege escalation flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-05-13 19:55",
       "articles": 56,
       "top_keywords": [
         "ai minimum elements",

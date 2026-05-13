@@ -1,72 +1,130 @@
 {
-  "last_updated": "2026-05-13 10:20",
+  "last_updated": "2026-05-13 14:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai minimum elements",
+    "716 000 impacted",
     "remote code execution",
-    "twitter whistleblower complaint",
-    "single file tweak",
-    "publicly disclosed weakness",
     "potential code execution",
+    "late december 2025",
+    "ai assisted workflows",
+    "138 flaws 30",
+    "arbitrary code execution",
+    "twitter whistleblower complaint",
+    "tech can't stop",
+    "single file tweak",
     "foreign made routers",
     "cryptographic message syntax",
+    "appsec tools miss",
     "aggravated identity theft",
-    "adobe reader nixes",
     "130 companies tangled",
-    "known common v",
-    "ai control platform",
-    "ai assisted workflows",
-    "finding security vulnerabilities",
-    "released security patches",
-    "unix like systems",
-    "threat actor behind",
-    "tech can't stop",
-    "teams often struggle"
+    "webinar today roi",
+    "reduce response times",
+    "breach 24 hours",
+    "finding security vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "716 000 impacted",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 336
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1616
-    },
-    {
-      "keyword": "single file tweak",
-      "mentions": 7
-    },
-    {
-      "keyword": "publicly disclosed weakness",
-      "mentions": 8
+      "mentions": 337
     },
     {
       "keyword": "potential code execution",
+      "mentions": 7
+    },
+    {
+      "keyword": "late december 2025",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai assisted workflows",
       "mentions": 6
     },
     {
-      "keyword": "foreign made routers",
-      "mentions": 4
+      "keyword": "138 flaws 30",
+      "mentions": 1
     },
     {
-      "keyword": "cryptographic message syntax",
-      "mentions": 7
+      "keyword": "arbitrary code execution",
+      "mentions": 226
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 125
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1617
     },
     {
-      "keyword": "adobe reader nixes",
-      "mentions": 7
+      "keyword": "tech can't stop",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
+      "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
+      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview. MDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
+      "published": "Wed, 13 May 2026 19:16:02 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
+      "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
+      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
+      "published": "Wed, 13 May 2026 18:30:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real",
+      "published": "Wed, 13 May 2026 17:22:43 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
+      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
+      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
+      "published": "Wed, 13 May 2026 17:00:00 +0530",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
+      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
+      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
+      "published": "Wed, 13 May 2026 16:06:10 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "RCE",
+        "Privilege escalation",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
@@ -97,47 +155,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
-      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
-      "published": "Tue, 12 May 2026 20:17:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
+      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
+      "published": "Wed, 13 May 2026 08:49:54 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "summary": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. \"TrickMo relies on a runtime-loaded APK (dex.module),",
-      "published": "Tue, 12 May 2026 18:20:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
+      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
+      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
+      "published": "Wed, 13 May 2026 08:30:38 -0400",
+      "value_score": 38,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak",
+        "High severity"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
-      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
-      "summary": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently",
-      "published": "Tue, 12 May 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "summary": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
-      "published": "Tue, 12 May 2026 17:16:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why Agentic AI Is Security's Next Blind Spot",
-      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
-      "summary": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point. The more urgent",
-      "published": "Tue, 12 May 2026 16:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft says some users can't install Office on Windows 365 devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
+      "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
+      "published": "Wed, 13 May 2026 07:53:54 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -188,40 +234,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-      "summary": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
-      "published": "Tue, 12 May 2026 14:23:09 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "RCE",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "Tue, 12 May 2026 14:09:12 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "summary": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
-      "published": "Tue, 12 May 2026 14:08:06 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -315,7 +327,25 @@
     },
     {
       "source": "Dark Reading",
-      "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "summary": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+      "published": "Wed, 13 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+      "summary": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
+      "published": "Wed, 13 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight",
       "link": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
       "summary": "It's the first time in two years with no zero-days. But with 137 flaws to patch, including nine critical ones, admins still have plenty of work to do.",
       "published": "Tue, 12 May 2026 21:03:04 GMT",
@@ -372,26 +402,46 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
-      "summary": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
-      "published": "Mon, 11 May 2026 15:05:45 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
+      "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
+      "summary": "This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers. The post Webinar Today: ROI for Cyber-Physical Security Programs appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 13:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
+      "link": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
+      "summary": "The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps. The post Government to Scrutinize Instructure Over Canvas Disruption, Data Breach appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 12:13:14 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Hackers Use AI for Exploit Development, Attack Automation",
-      "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
-      "summary": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
-      "published": "Mon, 11 May 2026 13:00:00 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "716,000 Impacted by OpenLoop Health Data Breach",
+      "link": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
+      "summary": "The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems. The post 716,000 Impacted by OpenLoop Health Data Breach appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 11:18:03 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Exploit wording"
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
+      "link": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
+      "summary": "CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”. The post Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 10:33:46 +0000",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
       ]
     },
     {
@@ -438,47 +488,6 @@
         "Patch/update ×3",
         "CISA/KEV ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches 137 Vulnerabilities",
-      "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
-      "summary": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira & Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 18:07:39 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
-      "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
-      "summary": "Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. The post Exaforce Raises $125 Million for Agentic SOC Platform appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 17:23:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
-      "link": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
-      "summary": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution. The post Adobe Patches 52 Vulnerabilities in 10 Products appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 16:47:21 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "White Circle Raises $11 Million for AI Control Platform",
-      "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
-      "summary": "The startup will invest in accelerating product development, hiring new talent, and expanding its customer base. The post White Circle Raises $11 Million for AI Control Platform appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 15:40:21 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-13 10:20 UTC |
+| 🕐 Last Updated | 2026-05-13 14:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai minimum elements` • `remote code execution` • `twitter whistleblower complaint` • `single file tweak` • `publicly disclosed weakness` • `potential code execution` • `foreign made routers` • `cryptographic message syntax` • `aggravated identity theft` • `adobe reader nixes`
+`ai minimum elements` • `716 000 impacted` • `remote code execution` • `potential code execution` • `late december 2025` • `ai assisted workflows` • `138 flaws 30` • `arbitrary code execution` • `twitter whistleblower complaint` • `tech can't stop`
 
 ## 📄 Reports
 

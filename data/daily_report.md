@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-13 10:20 UTC  
+> **Last Updated:** 2026-05-13 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **remote code execution** • **twitter whistleblower complaint** • **single file tweak** • **publicly disclosed weakness** • **potential code execution** • **foreign made routers** • **cryptographic message syntax** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **known common v** • **ai control platform** • **ai assisted workflows** • **finding security vulnerabilities** • **released security patches** • **unix like systems** • **threat actor behind** • **tech can't stop** • **teams often struggle**
+**ai minimum elements** • **716 000 impacted** • **remote code execution** • **potential code execution** • **late december 2025** • **ai assisted workflows** • **138 flaws 30** • **arbitrary code execution** • **twitter whistleblower complaint** • **tech can't stop** • **single file tweak** • **foreign made routers** • **cryptographic message syntax** • **appsec tools miss** • **aggravated identity theft** • **130 companies tangled** • **webinar today roi** • **reduce response times** • **breach 24 hours** • **finding security vulnerabilities**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
+- [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
+- [[Webinar] Why Your AppSec Tools Miss the "Lethal Path" (and How to Fix It)](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
+- [Most Remediation Programs Never Confirm the Fix Actually Worked](https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html)
+- [Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
 - [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
 - [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
 - [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
-- [RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html)
-- [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html)
-- [Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help](https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html)
-- [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
-- [Why Agentic AI Is Security's Next Blind Spot](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html)
 
 ### BleepingComputer
 
+- [Foxconn confirms cyberattack claimed by Nitrogen ransomware gang](https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/)
+- [73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation](https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/)
+- [Microsoft says some users can't install Office on Windows 365 devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/)
 - [US govt seeks Instructure testimony on massive Canvas cyberattack](https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/)
 - [UK fines water supplier $1.3M for exposing data of 664k customers](https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/)
 - [Webinar: Fixing the gaps in network incident response](https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/)
 - [Signal adds security warnings for social engineering, phishing attacks](https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/)
 - [Microsoft releases Windows 10 KB5087544 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/)
-- [Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator](https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/)
-- [Windows 11 KB5089549 & KB5087420 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/)
-- [Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
-- [It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight](https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight)
+- [LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly](https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools)
+- [China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm)
+- [It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight](https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight)
 - [Hugging Face Packages Weaponized With a Single File Tweak](https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak)
 - [20 Leaders Who Built the CISO Era: 2 Decades of Change](https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change)
 - [Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain](https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain)
 - [FCC Softens Ban on Foreign-Made Routers](https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban)
 - [Tech Can't Stop These Threats — Your People Can](https://www.darkreading.com/cyberattacks-data-breaches/tech-cant-stop-these-threats-people-can)
-- ['Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros](https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros)
-- [Hackers Use AI for Exploit Development, Attack Automation](https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation)
 
 ### Security Week
 
+- [Webinar Today: ROI for Cyber-Physical Security Programs](https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/)
+- [Government to Scrutinize Instructure Over Canvas Disruption, Data Breach](https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/)
+- [716,000 Impacted by OpenLoop Health Data Breach](https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/)
+- [Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises](https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/)
 - [Fortinet, Ivanti Patch Critical Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/)
 - [Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities](https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/)
 - [Hundreds of Malicious Packages Force RubyGems to Suspend Registrations](https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/)
 - [ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA](https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/)
-- [Microsoft Patches 137 Vulnerabilities](https://www.securityweek.com/microsoft-patches-137-vulnerabilities/)
-- [Exaforce Raises $125 Million for Agentic SOC Platform](https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/)
-- [Adobe Patches 52 Vulnerabilities in 10 Products](https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/)
-- [White Circle Raises $11 Million for AI Control Platform](https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/)
 
 ### Threatpost
 

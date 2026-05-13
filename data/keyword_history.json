@@ -277,7 +277,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1620,
+      "count": 1621,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -682,7 +682,7 @@
       ]
     },
     "remote code execution": {
-      "count": 340,
+      "count": 341,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -978,7 +978,7 @@
       ]
     },
     "national security risk": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1007,7 +1007,8 @@
         "2026-03-19",
         "2026-04-21",
         "2026-04-22",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-13"
       ]
     },
     "open source millions": {
@@ -1677,7 +1678,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 378,
+      "count": 379,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2899,7 +2900,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3757,7 +3758,7 @@
       ]
     },
     "released security updates": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -13848,7 +13849,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15861,7 +15862,7 @@
       ]
     },
     "ai minimum elements": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -15899,14 +15900,14 @@
       ]
     },
     "single file tweak": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-12",
         "2026-05-13"
       ]
     },
     "cryptographic message syntax": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -15955,7 +15956,7 @@
       ]
     },
     "potential code execution": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-12",
         "2026-05-13"
@@ -15989,7 +15990,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-13"
       ]
@@ -16013,19 +16014,19 @@
       ]
     },
     "716 000 impacted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-13"
       ]
     },
     "late december 2025": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-13"
       ]
     },
     "138 flaws 30": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-13"
       ]
@@ -16037,7 +16038,7 @@
       ]
     },
     "webinar today roi": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-13"
       ]
@@ -16055,13 +16056,13 @@
       ]
     },
     "privilege escalation flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-13"
       ]
     },
     "concept poc exploits": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-13"
       ]
@@ -16073,6 +16074,12 @@
       ]
     },
     "gentlemen raas gang": {
+      "count": 2,
+      "dates": [
+        "2026-05-13"
+      ]
+    },
+    "current audit tools": {
       "count": 1,
       "dates": [
         "2026-05-13"
@@ -16080,17 +16087,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-02 22:34",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "2 6 3",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication"
-      ]
-    },
     {
       "timestamp": "2026-05-03 02:28",
       "articles": 56,
@@ -17171,6 +17167,17 @@
     },
     {
       "timestamp": "2026-05-13 21:23",
+      "articles": 56,
+      "top_keywords": [
+        "ai minimum elements",
+        "716 000 impacted",
+        "potential code execution",
+        "privilege escalation flaw",
+        "late december 2025"
+      ]
+    },
+    {
+      "timestamp": "2026-05-13 23:01",
       "articles": 56,
       "top_keywords": [
         "ai minimum elements",

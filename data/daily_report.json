@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 21:23",
+  "last_updated": "2026-05-13 23:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "potential code execution",
     "privilege escalation flaw",
     "late december 2025",
-    "remote code execution",
     "released security updates",
+    "remote code execution",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "single file tweak",
     "gentlemen raas gang",
+    "current audit tools",
     "cryptographic message syntax",
     "concept poc exploits",
     "aggravated identity theft",
-    "130 companies tangled",
     "138 flaws 30",
     "webinar today roi",
-    "breach 24 hours",
+    "national security risk",
     "finding security vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "716 000 impacted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "potential code execution",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "privilege escalation flaw",
-      "mentions": 3
-    },
-    {
-      "keyword": "late december 2025",
       "mentions": 4
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 340
+      "keyword": "late december 2025",
+      "mentions": 5
     },
     {
       "keyword": "released security updates",
-      "mentions": 59
+      "mentions": 60
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 341
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 229
+      "mentions": 230
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1620
+      "mentions": 1621
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 378
+      "mentions": 379
     }
   ],
   "articles": [
@@ -154,6 +154,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
+      "published": "Wed, 13 May 2026 18:23:31 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Iranian hackers targeted major South Korean electronics maker",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
+      "published": "Wed, 13 May 2026 17:59:33 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New critical Exim mailer flaw allows remote code execution",
       "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
       "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
@@ -217,28 +235,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "73 Seconds to Breach, 24 Hours to Patch: The Case for Autonomous Validation",
-      "link": "https://www.bleepingcomputer.com/news/security/73-seconds-to-breach-24-hours-to-patch-the-case-for-autonomous-validation/",
-      "summary": "Attackers can compromise systems in minutes while patching and response still take hours or days. Picus Security breaks down why autonomous validation is becoming critical for modern defense strategies. [...]",
-      "published": "Wed, 13 May 2026 08:30:38 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says some users can't install Office on Windows 365 devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-      "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-      "published": "Wed, 13 May 2026 07:53:54 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -331,6 +327,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+      "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+      "summary": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
+      "published": "Wed, 13 May 2026 21:17:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Weaponize RubyGems for Data Dead Drops",
+      "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+      "summary": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.",
+      "published": "Wed, 13 May 2026 21:09:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
       "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
       "summary": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.",
@@ -352,18 +366,18 @@
     },
     {
       "source": "Dark Reading",
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "summary": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+      "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
+      "summary": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
       "published": "Wed, 13 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Dark Reading",
-      "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
-      "summary": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "summary": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
       "published": "Wed, 13 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -387,24 +401,6 @@
       "link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
       "summary": "A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model's outputs and exfiltrate data.",
       "published": "Tue, 12 May 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
-      "link": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
-      "summary": "As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
-      "published": "Tue, 12 May 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain",
-      "link": "https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain",
-      "summary": "Hundreds of npm packages infected by the self-propagating, credential-stealing worm from TeamPCP are related to the open source TanStack ecosystem.",
-      "published": "Tue, 12 May 2026 11:07:43 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-05-13 06:43",
+  "last_updated": "2026-05-13 10:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai minimum elements",
-    "single file tweak",
     "remote code execution",
     "twitter whistleblower complaint",
+    "single file tweak",
     "publicly disclosed weakness",
     "potential code execution",
     "foreign made routers",
     "cryptographic message syntax",
-    "bwh hotels guests",
     "aggravated identity theft",
     "adobe reader nixes",
     "130 companies tangled",
-    "orchestrate complex attacks",
     "known common v",
-    "disruptive ransomware attack",
-    "ai assisted workflows",
-    "cybercrime group defaced",
-    "major malicious attack",
     "ai control platform",
-    "unauthorized actor involved"
+    "ai assisted workflows",
+    "finding security vulnerabilities",
+    "released security patches",
+    "unix like systems",
+    "threat actor behind",
+    "tech can't stop",
+    "teams often struggle"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 7
-    },
-    {
-      "keyword": "single file tweak",
-      "mentions": 6
+      "mentions": 8
     },
     {
       "keyword": "remote code execution",
-      "mentions": 335
+      "mentions": 336
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1615
+      "mentions": 1616
     },
     {
-      "keyword": "publicly disclosed weakness",
+      "keyword": "single file tweak",
       "mentions": 7
     },
     {
+      "keyword": "publicly disclosed weakness",
+      "mentions": 8
+    },
+    {
       "keyword": "potential code execution",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "foreign made routers",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cryptographic message syntax",
-      "mentions": 6
-    },
-    {
-      "keyword": "bwh hotels guests",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 124
+      "mentions": 125
+    },
+    {
+      "keyword": "adobe reader nixes",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
+      "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
+      "published": "Wed, 13 May 2026 13:38:54 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
+      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
+      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
+      "published": "Wed, 13 May 2026 12:25:42 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
@@ -82,7 +100,7 @@
       "source": "The Hacker News",
       "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
       "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
-      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "summary": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on RubyGems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
       "published": "Tue, 12 May 2026 20:17:00 +0530",
       "value_score": 10,
       "value_signals": []
@@ -122,29 +140,6 @@
       "published": "Tue, 12 May 2026 16:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
-      "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
-      "summary": "American educational technology company Instructure, the parent company of Canvas, said it reached an \"agreement\" with a decentralized cybercrime extortion group after it breached its network and threatened to leak stolen information from thousands of schools and universities. In an update shared on Monday, the Utah-based firm said it \"reached an agreement with the unauthorized actor involved in",
-      "published": "Tue, 12 May 2026 13:07:00 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation",
-      "link": "https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html",
-      "summary": "OpenAI has launched Daybreak, a new cybersecurity initiative that brings together frontier artificial intelligence (AI) model capabilities and Codex Security to help organizations identify and patch vulnerabilities before attackers find a way in using the same issues. \"Daybreak combines the intelligence of OpenAI models, the extensibility of Codex as an agentic harness, and our partners across",
-      "published": "Tue, 12 May 2026 12:25:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -401,6 +396,51 @@
     },
     {
       "source": "Security Week",
+      "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
+      "summary": "Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure. The post Fortinet, Ivanti Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 09:36:55 +0000",
+      "value_score": 48,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/",
+      "summary": "The two chip giants have published over two dozen advisories describing recently identified security defects. The post Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 08:37:34 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
+      "link": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
+      "summary": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users. The post Hundreds of Malicious Packages Force RubyGems to Suspend Registrations appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 07:30:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA",
+      "link": "https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/",
+      "summary": "Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday. The post ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 06:50:51 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Patch/update ×3",
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft Patches 137 Vulnerabilities",
       "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
       "summary": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira & Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek .",
@@ -439,44 +479,6 @@
       "published": "Tue, 12 May 2026 15:40:21 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
-      "link": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
-      "summary": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
-      "link": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
-      "summary": "CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development. The post Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 13:46:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
-      "link": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
-      "summary": "The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals. The post Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 13:26:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
-      "link": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
-      "summary": "The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware. The post West Pharmaceutical Services Hit by Disruptive Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Tue, 12 May 2026 12:59:49 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Threatpost",

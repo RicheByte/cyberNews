@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-13 06:43 UTC  
+> **Last Updated:** 2026-05-13 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **single file tweak** • **remote code execution** • **twitter whistleblower complaint** • **publicly disclosed weakness** • **potential code execution** • **foreign made routers** • **cryptographic message syntax** • **bwh hotels guests** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **orchestrate complex attacks** • **known common v** • **disruptive ransomware attack** • **ai assisted workflows** • **cybercrime group defaced** • **major malicious attack** • **ai control platform** • **unauthorized actor involved**
+**ai minimum elements** • **remote code execution** • **twitter whistleblower complaint** • **single file tweak** • **publicly disclosed weakness** • **potential code execution** • **foreign made routers** • **cryptographic message syntax** • **aggravated identity theft** • **adobe reader nixes** • **130 companies tangled** • **known common v** • **ai control platform** • **ai assisted workflows** • **finding security vulnerabilities** • **released security patches** • **unix like systems** • **threat actor behind** • **tech can't stop** • **teams often struggle**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
+- [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
 - [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
 - [RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded](https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html)
 - [New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots](https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html)
 - [Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help](https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html)
 - [Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages](https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html)
 - [Why Agentic AI Is Security's Next Blind Spot](https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html)
-- [Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak](https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html)
-- [OpenAI Launches Daybreak for AI-Powered Vulnerability Detection and Patch Validation](https://thehackernews.com/2026/05/openai-launches-daybreak-for-ai-powered.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Fortinet, Ivanti Patch Critical Vulnerabilities](https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/)
+- [Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities](https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/)
+- [Hundreds of Malicious Packages Force RubyGems to Suspend Registrations](https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/)
+- [ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA](https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/)
 - [Microsoft Patches 137 Vulnerabilities](https://www.securityweek.com/microsoft-patches-137-vulnerabilities/)
 - [Exaforce Raises $125 Million for Agentic SOC Platform](https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/)
 - [Adobe Patches 52 Vulnerabilities in 10 Products](https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/)
 - [White Circle Raises $11 Million for AI Control Platform](https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/)
-- [BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months](https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/)
-- [Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware](https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/)
-- [Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform](https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/)
-- [West Pharmaceutical Services Hit by Disruptive Ransomware Attack](https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/)
 
 ### Threatpost
 

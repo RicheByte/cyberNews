@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13 14:21",
+  "last_updated": "2026-05-13 17:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "716 000 impacted",
     "remote code execution",
     "potential code execution",
+    "privilege escalation flaw",
     "late december 2025",
-    "ai assisted workflows",
-    "138 flaws 30",
+    "released security updates",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "tech can't stop",
+    "sprawling phishing campaign",
     "single file tweak",
     "foreign made routers",
     "cryptographic message syntax",
-    "appsec tools miss",
+    "concept poc exploits",
     "aggravated identity theft",
     "130 companies tangled",
+    "138 flaws 30",
     "webinar today roi",
-    "reduce response times",
-    "breach 24 hours",
-    "finding security vulnerabilities"
+    "breach 24 hours"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "716 000 impacted",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "remote code execution",
-      "mentions": 337
+      "mentions": 338
     },
     {
       "keyword": "potential code execution",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "privilege escalation flaw",
+      "mentions": 1
     },
     {
       "keyword": "late december 2025",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "ai assisted workflows",
-      "mentions": 6
-    },
-    {
-      "keyword": "138 flaws 30",
-      "mentions": 1
+      "keyword": "released security updates",
+      "mentions": 57
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 226
+      "mentions": 227
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1617
+      "mentions": 1618
     },
     {
       "keyword": "tech can't stop",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -91,14 +91,12 @@
     },
     {
       "source": "The Hacker News",
-      "title": "[Webinar] Why Your AppSec Tools Miss the \"Lethal Path\" (and How to Fix It)",
+      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
       "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz and Okta/GitLab to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real",
+      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real danger? While",
       "published": "Wed, 13 May 2026 17:22:43 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -156,6 +154,48 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
+      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
+      "published": "Wed, 13 May 2026 12:37:49 -0400",
+      "value_score": 61,
+      "value_signals": [
+        "Zero-day",
+        "PoC available ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
+      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
+      "published": "Wed, 13 May 2026 11:45:56 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
+      "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
+      "published": "Wed, 13 May 2026 11:42:46 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
+      "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
+      "published": "Wed, 13 May 2026 10:36:09 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
       "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
       "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
@@ -195,46 +235,6 @@
       "published": "Tue, 12 May 2026 19:09:55 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "summary": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
-      "published": "Tue, 12 May 2026 16:17:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "summary": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
-      "published": "Tue, 12 May 2026 15:46:04 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "summary": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-      "published": "Tue, 12 May 2026 15:40:31 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
-      "published": "Tue, 12 May 2026 14:58:34 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×4"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -403,6 +403,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
+      "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
+      "summary": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 17:13:36 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
+      "link": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
+      "summary": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. The post Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 16:01:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
+      "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
+      "summary": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss. The post Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’ appeared first on SecurityWeek .",
+      "published": "Wed, 13 May 2026 14:50:20 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
       "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
       "summary": "This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers. The post Webinar Today: ROI for Cyber-Physical Security Programs appeared first on SecurityWeek .",
@@ -455,38 +488,6 @@
         "Patch/update ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities",
-      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/",
-      "summary": "The two chip giants have published over two dozen advisories describing recently identified security defects. The post Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 08:37:34 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
-      "link": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
-      "summary": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users. The post Hundreds of Malicious Packages Force RubyGems to Suspend Registrations appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 07:30:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/",
-      "summary": "Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday. The post ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 06:50:51 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "Patch/update ×3",
-        "CISA/KEV ×2"
       ]
     },
     {

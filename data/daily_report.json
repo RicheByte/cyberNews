@@ -1,20 +1,20 @@
 {
-  "last_updated": "2026-05-13 19:55",
+  "last_updated": "2026-05-13 21:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai minimum elements",
     "716 000 impacted",
-    "remote code execution",
     "potential code execution",
     "privilege escalation flaw",
     "late december 2025",
+    "remote code execution",
     "released security updates",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "single file tweak",
-    "foreign made routers",
+    "gentlemen raas gang",
     "cryptographic message syntax",
     "concept poc exploits",
     "aggravated identity theft",
@@ -22,48 +22,48 @@
     "138 flaws 30",
     "webinar today roi",
     "breach 24 hours",
-    "massive canvas cyberattack"
+    "finding security vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "716 000 impacted",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 339
+      "mentions": 4
     },
     {
       "keyword": "potential code execution",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "privilege escalation flaw",
-      "mentions": 2
-    },
-    {
-      "keyword": "late december 2025",
       "mentions": 3
     },
     {
+      "keyword": "late december 2025",
+      "mentions": 4
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 340
+    },
+    {
       "keyword": "released security updates",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 228
+      "mentions": 229
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1619
+      "mentions": 1620
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 377
+      "mentions": 378
     }
   ],
   "articles": [
@@ -154,6 +154,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+      "published": "Wed, 13 May 2026 16:23:50 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
       "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
@@ -224,15 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
       "summary": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
       "published": "Wed, 13 May 2026 07:53:54 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "summary": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
-      "published": "Tue, 12 May 2026 19:09:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -327,6 +331,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
+      "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
+      "summary": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.",
+      "published": "Wed, 13 May 2026 20:47:46 GMT",
+      "value_score": 40,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
       "link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
       "summary": "Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.",
@@ -389,15 +405,6 @@
       "link": "https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain",
       "summary": "Hundreds of npm packages infected by the self-propagating, credential-stealing worm from TeamPCP are related to the open source TanStack ecosystem.",
       "published": "Tue, 12 May 2026 11:07:43 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FCC Softens Ban on Foreign-Made Routers",
-      "link": "https://www.darkreading.com/endpoint-security/fcc-softens-foreign-router-ban",
-      "summary": "The Federal Communications Commission eased some restrictions and pushed back deadlines for foreign router manufacturers, but the ban is still in place.",
-      "published": "Mon, 11 May 2026 21:15:48 GMT",
       "value_score": 10,
       "value_signals": []
     },

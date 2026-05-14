@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-14 13:57 UTC  
+> **Last Updated:** 2026-05-14 16:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mythos proves potent** • **remote code execution** • **late december 2025** • **ai minimum elements** • **outlines minimum elements** • **twitter whistleblower complaint** • **medium severity issues** • **current audit tools** • **cryptographic message syntax** • **concept poc exploits** • **anyone potentially allowing** • **aggravated identity theft** • **national security risk** • **zero trust portfolio** • **known common v** • **execute arbitrary code** • **finding security vulnerabilities** • **cve 2026 46300** • **hacking group known** • **wire fraud conspiracy**
+**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **twitter whistleblower complaint** • **late december 2025** • **national security risk** • **cyberthreat group targets** • **zero trust portfolio** • **zero sum game** • **model agnostic system** • **massive ddos attacks** • **write arbitrary files** • **wire fraud conspiracy** • **service's login page** • **russia hacked routers** • **publishing rubygems packages** • **proving remarkably good** • **people events ideas** • **opsec failure provides** • **older internet routers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
 - [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
 - [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
 - [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
@@ -23,18 +24,17 @@
 - [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
 - [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
 - [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
-- [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
 
 ### BleepingComputer
 
+- [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
+- [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/)
 - [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
 - [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
 - [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
 - [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/)
 - [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
 - [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
-- [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
-- [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
 
 ### Krebs on Security
 
@@ -51,7 +51,7 @@
 
 - [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death)
 - [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis)
-- [Checkbox Assessments Aren't Fit to Measure to Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk)
+- [Checkbox Assessments Aren't Fit to Measure Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk)
 - [Attackers Weaponize RubyGems for Data Dead Drops](https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops)
 - [Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak](https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak)
 - [Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape](https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape)
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
 - [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
 - [Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere](https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/)
 - [Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million](https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/)
@@ -67,7 +68,6 @@
 - [G7 Countries Release AI SBOM Guidance](https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/)
 - [F5 Patches Over 50 Vulnerabilities](https://www.securityweek.com/f5-patches-over-50-vulnerabilities/)
 - [Hackers Targeted PraisonAI Vulnerability Hours After Disclosure](https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/)
-- [High-Severity Vulnerability Patched in VMware Fusion](https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax](https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05)
-- [Subnet Solutions PowerSYSTEM Center](https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02)
-- [Software Bill of Materials for AI - Minimum Elements](https://www.cisa.gov/resources-tools/resources/software-bill-materials-ai-minimum-elements)
-- [ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06)
-- [ABB AC500 V3 Multiple Vulnerabilities](https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03)
-- [ABB Automation Builder Gateway for Windows](https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-04)
-- [Fuji Electric Tellus](https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Siemens Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08)
+- [Siemens gWAP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01)
+- [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-10)
+- [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12)
+- [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-16)
+- [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05)
+- [Universal Robots Polyscope 5](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-17)
+- [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11)
 
 ---
 

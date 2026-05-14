@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-14 13:57",
+  "last_updated": "2026-05-14 16:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mythos proves potent",
     "remote code execution",
-    "late december 2025",
-    "ai minimum elements",
-    "outlines minimum elements",
-    "twitter whistleblower complaint",
-    "medium severity issues",
-    "current audit tools",
-    "cryptographic message syntax",
-    "concept poc exploits",
-    "anyone potentially allowing",
     "aggravated identity theft",
+    "twitter whistleblower complaint",
+    "late december 2025",
     "national security risk",
+    "cyberthreat group targets",
     "zero trust portfolio",
-    "known common v",
-    "execute arbitrary code",
-    "finding security vulnerabilities",
-    "cve 2026 46300",
-    "hacking group known",
-    "wire fraud conspiracy"
+    "zero sum game",
+    "model agnostic system",
+    "massive ddos attacks",
+    "write arbitrary files",
+    "wire fraud conspiracy",
+    "service's login page",
+    "russia hacked routers",
+    "publishing rubygems packages",
+    "proving remarkably good",
+    "people events ideas",
+    "opsec failure provides",
+    "older internet routers"
   ],
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "remote code execution",
-      "mentions": 345
+      "mentions": 346
     },
     {
-      "keyword": "late december 2025",
-      "mentions": 9
-    },
-    {
-      "keyword": "ai minimum elements",
-      "mentions": 17
-    },
-    {
-      "keyword": "outlines minimum elements",
-      "mentions": 1
+      "keyword": "aggravated identity theft",
+      "mentions": 135
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1625
+      "mentions": 1626
     },
     {
-      "keyword": "medium severity issues",
+      "keyword": "late december 2025",
+      "mentions": 10
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 173
+    },
+    {
+      "keyword": "cyberthreat group targets",
       "mentions": 1
     },
     {
-      "keyword": "current audit tools",
-      "mentions": 5
+      "keyword": "zero trust portfolio",
+      "mentions": 2
     },
     {
-      "keyword": "cryptographic message syntax",
-      "mentions": 16
+      "keyword": "zero sum game",
+      "mentions": 1
     },
     {
-      "keyword": "concept poc exploits",
-      "mentions": 8
+      "keyword": "model agnostic system",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057",
+      "published": "Thu, 14 May 2026 19:30:37 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
@@ -152,13 +163,27 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
-      "link": "https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html",
-      "summary": "TL;DR: Stop chasing thousands of \"toast\" alerts. Join experts from Wiz to learn how hackers connect tiny flaws to build a \"Lethal Chain\" to your data—and how to break it. Register for the Strategic Briefing Here. Most security tools work like a smoke alarm that goes off every time you burn a piece of toast. You get so many alerts that you eventually start to ignore them. The real danger? While",
-      "published": "Wed, 13 May 2026 17:22:43 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
+      "published": "Thu, 14 May 2026 11:43:41 -0400",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
+      "published": "Thu, 14 May 2026 11:21:32 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -216,32 +241,6 @@
       "published": "Wed, 13 May 2026 17:59:33 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New critical Exim mailer flaw allows remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
-      "summary": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
-      "published": "Wed, 13 May 2026 16:23:50 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
-      "summary": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
-      "published": "Wed, 13 May 2026 12:37:49 -0400",
-      "value_score": 61,
-      "value_signals": [
-        "Zero-day",
-        "PoC available ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -336,7 +335,7 @@
       "source": "Dark Reading",
       "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
-      "summary": "In a role reversal, investment dollars in AI security startups exceeded the value of AI acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
+      "summary": "In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
       "published": "Thu, 14 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -354,7 +353,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+      "title": "Checkbox Assessments Aren't Fit to Measure Risk",
       "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
       "summary": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
       "published": "Wed, 13 May 2026 21:17:07 GMT",
@@ -406,6 +405,15 @@
       "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
       "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
       "published": "Wed, 13 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Enhancing Data Center Security Without Sacrificing Performance",
+      "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
+      "summary": "For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game. The post Enhancing Data Center Security Without Sacrificing Performance appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 14:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -481,17 +489,6 @@
       "value_signals": [
         "Auth bypass",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "High-Severity Vulnerability Patched in VMware Fusion",
-      "link": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
-      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 08:42:25 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -579,88 +576,86 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-05",
-      "summary": "View CSAF Summary ABB became aware of vulnerability in the products versions listed as affected in the advisory. An update is available that resolves publicly reported vulnerability. An attacker who successfully exploited these vulnerabilities could cause a crash, denial-of-service (DoS), or potentially remote code execution. The following versions of ABB AC500 V3 Stack Buffer Overflow in Cryptographic Message Syntax are affected: AC500 V3 PM5xxx 3.9.0, 3.9.0_HF1 CVSS Vendor Equipment Vulnerabil",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "value_score": 69,
+      "title": "Siemens Siemens ROS#",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
+      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that hosts service. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens Siemens ROS# are affected: ROS# vers:intdot/<2.2.2 CVSS Ven",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens gWAP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01",
+      "summary": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability stems from a specific \"Gadget\" attack chain that allows prototype pollution in other third-party libraries, potentially allowing an attacker to execute arbitrary code. Siemens has released a new version for gWAP and recommends to update to the latest version. The following versio",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 63,
       "value_signals": [
         "Source boost: CISA Alerts",
         "RCE",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens SIMATIC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-10",
+      "summary": "View CSAF Summary SIMATIC CN 4100 contains multiple vulnerabilities which could potentially lead to a compromise in availability, integrity and confidentiality. Siemens has released a new version for SIMATIC CN 4100 and recommends to update to the latest version. The following versions of Siemens SIMATIC are affected: SIMATIC CN 4100 vers:intdot/<5.0 CVSS Vendor Equipment Vulnerabilities v3 9.6 Siemens Siemens SIMATIC NULL Pointer Dereference, Reachable Assertion, Use After Free, Out-of-bounds W",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens Ruggedcom Rox",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the Scheduler functionality that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Ruggedcom Rox are affected: RUGGEDCOM ROX MX5000 vers:intdot/<2.17.1 RUGGEDCOM ROX MX5000RE vers:intdot/<2.17.1 RU",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 43,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Siemens Ruggedcom Rox",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-16",
+      "summary": "View CSAF Summary Ruggedcom Rox before v2.17.1 contain multiple third-party vulnerabilities. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Ruggedcom Rox are affected: RUGGEDCOM ROX MX5000 vers:intdot/<2.17.1 (CVE-2019-13103, CVE-2019-13104, CVE-2019-13106, CVE-2019-14192, CVE-2019-14193, CVE-2019-14194, CVE-2019-14195, CVE-2019-14196, CVE-2019-14197, CVE-2019-14198, CVE-2019-14199, CVE-2019-14200, CV",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 91,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×12",
         "Patch/update",
-        "Exploit wording"
+        "Multiple CVEs"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Subnet Solutions PowerSYSTEM Center",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an authenticated attacker to expose sensitive information or cause a CRLF injection. The following versions of Subnet Solutions PowerSYSTEM Center are affected: PowerSYSTEM Center 2020 <=5.28.x (CVE-2026-35504) PowerSYSTEM Center 2020 >=5.8.x|<=5.28.x (CVE-2026-26289) PowerSYSTEM Center 2020 >=5.11.x|<=5.28.x (CVE-2026-33570) PowerSYSTEM Center 2024 >=6.0.x|<=6.1.x (CVE-2026-26289, CVE-2026-35555, CVE-2026-35504) Powe",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "value_score": 89,
+      "title": "Siemens Simcenter Femap",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05",
+      "summary": "View CSAF Summary Simcenter Femap is affected by heap based buffer overflow vulnerability in Datakit library that could be triggered when the application reads files in IPT format. If a user is tricked to open a malicious file with the affected application, an attacker could leverage the vulnerability to perform remote code execution in the context of the current process. Siemens has released a new version for Simcenter Femap and recommends to update to the latest version. The following versions",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 63,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×6",
-        "Multiple CVEs",
-        "Exploit wording"
+        "RCE",
+        "Patch/update"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Software Bill of Materials for AI - Minimum Elements",
-      "link": "https://www.cisa.gov/resources-tools/resources/software-bill-materials-ai-minimum-elements",
-      "summary": "CISA and the Group of Seven (G7) international partners—Germany, Canada, France, Italy, Japan, the United Kingdom, and the European Union—have released joint guidance, Software Bill of Materials for AI – Minimum Elements , to help public and private sector stakeholders improve transparency in their artificial intelligence (AI) systems and supply chains. A software bill of materials (SBOM) acts as an “ingredients list” for software that better positions organizations to understand their supply ch",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "value_score": 55,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB WebPro SNMP Card PowerValue Multiple Vulnerabilities",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-06",
-      "summary": "View CSAF Summary ABB became aware of multiple internally discovered vulnerabilities in the WebPro SNMP card PowerValue for the product versions listed as affected in the advisory. Depending upon the vulnerability, an attacker with access to local network who successfully exploited this vulnerability could have - Unauthorized access - Insufficient Session Expiration leading to resource unavailability - Uncontrolled Resource Consumption leading to DOS attack ABB strongly advises customers to upda",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB AC500 V3 Multiple Vulnerabilities",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-03",
-      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. An update is available that resolves these vulnerabilities. An attacker who successfully exploited these vulnerabilities could bypass the user management and read visualization files (CVE-2025-2595), read and write certificates and keys (CVE-2025-41659) or cause a denial-of-service (DoS) (CVE-2025-41691). The following versions of ABB AC500 V3 Multiple Vulnerabilities are affec",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Automation Builder Gateway for Windows",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-04",
-      "summary": "View CSAF Summary ABB became aware of severe vulnerability in the products versions listed as affected in the advisory. The Windows gateway is accessible remotely by default. Unauthenticated attackers can therefore search for PLCs, but the user management of the PLCs prevents the actual access to the PLCs – unless it is disabled The following versions of ABB Automation Builder Gateway for Windows are affected: Automation Builder <2.9.0, 2.9.0 CVSS Vendor Equipment Vulnerabilities v3 5.3 ABB ABB ",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Fuji Electric Tellus",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-132-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to elevate privileges from user to system, which may then enable the attacker to cause a temporary denial of service, open files, or delete files. The following versions of Fuji Electric Tellus are affected: Tellus 5.0.2 CVSS Vendor Equipment Vulnerabilities v3 7.8 Fuji Electric Fuji Electric Tellus Exposed Dangerous Method or Function Background Critical Infrastructure Sectors: Critical Manufacturing Countri",
-      "published": "Tue, 12 May 26 12:00:00 +0000",
+      "title": "Universal Robots Polyscope 5",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-17",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to bypass authentication and execute code. The following versions of Universal Robots Polyscope 5 are affected: Polyscope 5 <5.25.1 CVSS Vendor Equipment Vulnerabilities v3 9.8 Universal Robots Universal Robots Polyscope 5 Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Wo",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
       "value_score": 57,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -670,16 +665,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42208 BerriAI LiteLLM SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common V",
-      "published": "Fri, 08 May 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "Siemens Ruggedcom Rox",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
+      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Ruggedcom Rox are affected: RUGGEDCOM ROX MX5000 vers:intdot/<2.17.1 RUGGEDCOM ROX MX5000RE vers:intdot/<",
+      "published": "Thu, 14 May 26 12:00:00 +0000",
+      "value_score": 43,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
+        "Patch/update"
       ]
     }
   ],

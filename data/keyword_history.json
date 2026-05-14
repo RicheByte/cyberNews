@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1625,
+      "count": 1626,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "remote code execution": {
-      "count": 345,
+      "count": 346,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -982,7 +982,7 @@
       ]
     },
     "national security risk": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2394,10 +2394,11 @@
       ]
     },
     "write arbitrary files": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-06",
-        "2026-01-07"
+        "2026-01-07",
+        "2026-05-14"
       ]
     },
     "supply chain risks": {
@@ -7973,7 +7974,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -12590,7 +12591,7 @@
       ]
     },
     "older internet routers": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12600,7 +12601,8 @@
         "2026-04-24",
         "2026-04-25",
         "2026-04-26",
-        "2026-04-27"
+        "2026-04-27",
+        "2026-05-14"
       ]
     },
     "authentication tokens stolen": {
@@ -13765,7 +13767,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13776,7 +13778,8 @@
         "2026-04-27",
         "2026-04-28",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ]
     },
     "sophisticated ddos attack": {
@@ -13859,7 +13862,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14910,7 +14913,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14924,7 +14927,8 @@
         "2026-05-09",
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ]
     },
     "abb products support": {
@@ -15636,12 +15640,13 @@
       ]
     },
     "service's login page": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ]
     },
     "claude chrome extension": {
@@ -16038,7 +16043,7 @@
       ]
     },
     "late december 2025": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16123,7 +16128,7 @@
       ]
     },
     "publishing rubygems packages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
@@ -16135,7 +16140,7 @@
       ]
     },
     "mythos proves potent": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
@@ -16159,7 +16164,7 @@
       ]
     },
     "zero trust portfolio": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
@@ -16169,20 +16174,45 @@
       "dates": [
         "2026-05-14"
       ]
+    },
+    "cyberthreat group targets": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "zero sum game": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "model agnostic system": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "proving remarkably good": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "people events ideas": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "opsec failure provides": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-03 12:58",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication",
-        "massive ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-03 14:43",
       "articles": 56,
@@ -17270,6 +17300,17 @@
         "late december 2025",
         "ai minimum elements",
         "outlines minimum elements"
+      ]
+    },
+    {
+      "timestamp": "2026-05-14 16:09",
+      "articles": 56,
+      "top_keywords": [
+        "mythos proves potent",
+        "remote code execution",
+        "aggravated identity theft",
+        "twitter whistleblower complaint",
+        "late december 2025"
       ]
     }
   ]

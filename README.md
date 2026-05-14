@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-14 13:57 UTC |
+| 🕐 Last Updated | 2026-05-14 16:09 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mythos proves potent` • `remote code execution` • `late december 2025` • `ai minimum elements` • `outlines minimum elements` • `twitter whistleblower complaint` • `medium severity issues` • `current audit tools` • `cryptographic message syntax` • `concept poc exploits`
+`mythos proves potent` • `remote code execution` • `aggravated identity theft` • `twitter whistleblower complaint` • `late december 2025` • `national security risk` • `cyberthreat group targets` • `zero trust portfolio` • `zero sum game` • `model agnostic system`
 
 ## 📄 Reports
 

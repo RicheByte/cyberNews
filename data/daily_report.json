@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-05-14 06:42",
+  "last_updated": "2026-05-14 10:10",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai minimum elements",
-    "716 000 impacted",
     "remote code execution",
     "late december 2025",
-    "privilege escalation flaw",
-    "arbitrary code execution",
+    "ctfmon privilege escalation",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "single file tweak",
-    "gentlemen raas gang",
+    "publishing rubygems packages",
     "current audit tools",
     "cryptographic message syntax",
     "concept poc exploits",
     "aggravated identity theft",
-    "138 flaws 30",
     "webinar today roi",
+    "privilege escalation flaw",
     "nginx open including",
+    "138 flaws 30",
     "national security risk",
-    "tuesday released patches",
-    "finding security vulnerabilities"
+    "cve 2026 46300",
+    "execute arbitrary code",
+    "finding security vulnerabilities",
+    "malicious cyber actors"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 15
-    },
-    {
-      "keyword": "716 000 impacted",
-      "mentions": 7
+      "mentions": 16
     },
     {
       "keyword": "remote code execution",
-      "mentions": 343
+      "mentions": 344
     },
     {
       "keyword": "late december 2025",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "privilege escalation flaw",
-      "mentions": 6
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 232
+      "keyword": "ctfmon privilege escalation",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1623
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 381
+      "mentions": 1624
     },
     {
       "keyword": "single file tweak",
-      "mentions": 14
+      "mentions": 15
     },
     {
-      "keyword": "gentlemen raas gang",
+      "keyword": "publishing rubygems packages",
+      "mentions": 1
+    },
+    {
+      "keyword": "current audit tools",
       "mentions": 4
+    },
+    {
+      "keyword": "cryptographic message syntax",
+      "mentions": 15
+    },
+    {
+      "keyword": "concept poc exploits",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+      "published": "Thu, 14 May 2026 14:55:50 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Privilege escalation ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+      "published": "Thu, 14 May 2026 12:36:15 +0530",
+      "value_score": 40,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
@@ -137,22 +160,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
-      "link": "https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign dubbed GemStuffer that has targeted the RubyGems repository with more than 150 gems that use the registry as a data exfiltration channel rather than for malware distribution. \"The packages do not appear designed for mass developer compromise,\" Socket said. \"Many have little or no download activity, and the payloads are repetitive,",
-      "published": "Wed, 13 May 2026 13:38:54 +0530",
+      "source": "BleepingComputer",
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
+      "published": "Thu, 14 May 2026 06:03:39 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
-      "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
-      "summary": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
-      "published": "Wed, 13 May 2026 12:25:42 +0530",
+      "source": "BleepingComputer",
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
+      "published": "Thu, 14 May 2026 04:55:46 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "published": "Thu, 14 May 2026 03:34:19 -0400",
+      "value_score": 40,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -206,37 +241,6 @@
       "published": "Wed, 13 May 2026 11:45:56 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes BitLocker recovery issue only for Windows 11 users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-issue-only-for-windows-11-users/",
-      "summary": "Microsoft has addressed a known issue causing some Windows 11 systems to boot into BitLocker recovery after installing the April 2026 Windows security updates. [...]",
-      "published": "Wed, 13 May 2026 11:42:46 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
-      "summary": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
-      "published": "Wed, 13 May 2026 10:36:09 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/electronics-giant-foxconn-confirms-cyberattack-on-north-american-factories/",
-      "summary": "Foxconn, the world's largest electronics manufacturer, says some of its North American factories are now working to resume normal operations after a cyberattack. [...]",
-      "published": "Wed, 13 May 2026 08:49:54 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -408,6 +412,38 @@
     },
     {
       "source": "Security Week",
+      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
+      "link": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
+      "summary": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed. The post Hackers Targeted PraisonAI Vulnerability Hours After Disclosure appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 09:45:53 +0000",
+      "value_score": 31,
+      "value_signals": [
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "High-Severity Vulnerability Patched in VMware Fusion",
+      "link": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
+      "summary": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 08:42:25 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
+      "link": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
+      "summary": "YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System. The post Researcher Drops YellowKey, GreenPlasma Windows Zero-Days appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 07:27:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
       "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
       "summary": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek .",
@@ -457,42 +493,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "716,000 Impacted by OpenLoop Health Data Breach",
-      "link": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
-      "summary": "The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems. The post 716,000 Impacted by OpenLoop Health Data Breach appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 11:18:03 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
-      "link": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
-      "summary": "CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”. The post Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 10:33:46 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
-      "summary": "Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure. The post Fortinet, Ivanti Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 09:36:55 +0000",
-      "value_score": 48,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-14 06:42 UTC |
+| 🕐 Last Updated | 2026-05-14 10:10 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai minimum elements` • `716 000 impacted` • `remote code execution` • `late december 2025` • `privilege escalation flaw` • `arbitrary code execution` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `single file tweak` • `gentlemen raas gang`
+`ai minimum elements` • `remote code execution` • `late december 2025` • `ctfmon privilege escalation` • `twitter whistleblower complaint` • `single file tweak` • `publishing rubygems packages` • `current audit tools` • `cryptographic message syntax` • `concept poc exploits`
 
 ## 📄 Reports
 

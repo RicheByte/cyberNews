@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 460,
+      "count": 461,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -149,7 +149,8 @@
         "2026-04-20",
         "2026-04-30",
         "2026-05-01",
-        "2026-05-11"
+        "2026-05-11",
+        "2026-05-14"
       ]
     },
     "user named csnemess": {
@@ -277,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1623,
+      "count": 1624,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -683,7 +684,7 @@
       ]
     },
     "remote code execution": {
-      "count": 343,
+      "count": 344,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -813,7 +814,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -827,7 +828,8 @@
         "2026-03-31",
         "2026-04-01",
         "2026-04-16",
-        "2026-04-17"
+        "2026-04-17",
+        "2026-05-14"
       ]
     },
     "france arrests latvian": {
@@ -980,7 +982,7 @@
       ]
     },
     "national security risk": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -13856,7 +13858,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15870,7 +15872,7 @@
       ]
     },
     "ai minimum elements": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-12",
         "2026-05-13",
@@ -15909,7 +15911,7 @@
       ]
     },
     "single file tweak": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-12",
         "2026-05-13",
@@ -15917,7 +15919,7 @@
       ]
     },
     "cryptographic message syntax": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-12",
         "2026-05-13",
@@ -16002,7 +16004,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16034,14 +16036,14 @@
       ]
     },
     "late december 2025": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-13",
         "2026-05-14"
       ]
     },
     "138 flaws 30": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16054,7 +16056,7 @@
       ]
     },
     "webinar today roi": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16073,14 +16075,14 @@
       ]
     },
     "privilege escalation flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-13",
         "2026-05-14"
       ]
     },
     "concept poc exploits": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16100,13 +16102,31 @@
       ]
     },
     "current audit tools": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-13",
         "2026-05-14"
       ]
     },
     "nginx open including": {
+      "count": 2,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "ctfmon privilege escalation": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "publishing rubygems packages": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "cve 2026 46300": {
       "count": 1,
       "dates": [
         "2026-05-14"
@@ -16114,17 +16134,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-03 09:18",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication",
-        "massive ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-03 10:50",
       "articles": 56,
@@ -17212,6 +17221,17 @@
         "remote code execution",
         "late december 2025",
         "privilege escalation flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-05-14 10:10",
+      "articles": 56,
+      "top_keywords": [
+        "ai minimum elements",
+        "remote code execution",
+        "late december 2025",
+        "ctfmon privilege escalation",
+        "twitter whistleblower complaint"
       ]
     }
   ]

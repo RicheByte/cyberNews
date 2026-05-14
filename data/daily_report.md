@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-14 02:40 UTC  
+> **Last Updated:** 2026-05-14 06:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **716 000 impacted** • **potential code execution** • **privilege escalation flaw** • **late december 2025** • **released security updates** • **remote code execution** • **arbitrary code execution** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **single file tweak** • **gentlemen raas gang** • **current audit tools** • **cryptographic message syntax** • **concept poc exploits** • **aggravated identity theft** • **138 flaws 30** • **webinar today roi** • **national security risk** • **finding security vulnerabilities**
+**ai minimum elements** • **716 000 impacted** • **remote code execution** • **late december 2025** • **privilege escalation flaw** • **arbitrary code execution** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **single file tweak** • **gentlemen raas gang** • **current audit tools** • **cryptographic message syntax** • **concept poc exploits** • **aggravated identity theft** • **138 flaws 30** • **webinar today roi** • **nginx open including** • **national security risk** • **tuesday released patches** • **finding security vulnerabilities**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
 - [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
 - [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
 - [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
@@ -23,7 +24,6 @@
 - [Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
 - [GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data](https://thehackernews.com/2026/05/gemstuffer-abuses-150-rubygems-to.html)
 - [Android Adds Intrusion Logging for Sophisticated Spyware Forensics](https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html)
-- [New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution](https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html)
 
 ### BleepingComputer
 

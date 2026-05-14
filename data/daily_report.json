@@ -1,15 +1,13 @@
 {
-  "last_updated": "2026-05-14 02:40",
+  "last_updated": "2026-05-14 06:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai minimum elements",
     "716 000 impacted",
-    "potential code execution",
-    "privilege escalation flaw",
-    "late december 2025",
-    "released security updates",
     "remote code execution",
+    "late december 2025",
+    "privilege escalation flaw",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
@@ -21,52 +19,67 @@
     "aggravated identity theft",
     "138 flaws 30",
     "webinar today roi",
+    "nginx open including",
     "national security risk",
+    "tuesday released patches",
     "finding security vulnerabilities"
   ],
   "trending": [
     {
       "keyword": "ai minimum elements",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "716 000 impacted",
-      "mentions": 6
-    },
-    {
-      "keyword": "potential code execution",
-      "mentions": 12
-    },
-    {
-      "keyword": "privilege escalation flaw",
-      "mentions": 5
-    },
-    {
-      "keyword": "late december 2025",
-      "mentions": 6
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 61
+      "mentions": 7
     },
     {
       "keyword": "remote code execution",
-      "mentions": 342
+      "mentions": 343
+    },
+    {
+      "keyword": "late december 2025",
+      "mentions": 7
+    },
+    {
+      "keyword": "privilege escalation flaw",
+      "mentions": 6
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 231
+      "mentions": 232
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1622
+      "mentions": 1623
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 380
+      "mentions": 381
+    },
+    {
+      "keyword": "single file tweak",
+      "mentions": 14
+    },
+    {
+      "keyword": "gentlemen raas gang",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+      "published": "Thu, 14 May 2026 11:30:09 +0530",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
@@ -140,17 +153,6 @@
       "published": "Wed, 13 May 2026 12:25:42 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "summary": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
-      "published": "Tue, 12 May 2026 22:14:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
     },
     {
       "source": "BleepingComputer",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-14 21:05 UTC  
+> **Last Updated:** 2026-05-14 22:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **cve 2026 20182** • **twitter whistleblower complaint** • **pypi packages causing** • **national security risk** • **gain persistent access** • **zero trust portfolio** • **zero sum game** • **supply chain attacks** • **massive ddos attacks** • **third party ecosystems** • **cve 2026 46300** • **finding security vulnerabilities** • **write arbitrary files** • **wire fraud conspiracy** • **underlying operating system** • **targeted asian entities** • **service's login page**
+**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **cve 2026 20182** • **twitter whistleblower complaint** • **gain persistent access** • **national security risk** • **zero trust portfolio** • **zero sum game** • **supply chain attacks** • **massive ddos attacks** • **third party ecosystems** • **cve 2026 46300** • **finding security vulnerabilities** • **write arbitrary files** • **wire fraud conspiracy** • **united states today** • **underlying operating system** • **targeted asian entities** • **service's login page**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
+- [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/)
 - [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/)
 - [OpenAI confirms security breach in TanStack supply chain attack](https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/)
 - [Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/)
 - [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
 - [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/)
 - [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
-- [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
-- [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
 
 ### Krebs on Security
 

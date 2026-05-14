@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 21:05",
+  "last_updated": "2026-05-14 22:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,9 +8,8 @@
     "aggravated identity theft",
     "cve 2026 20182",
     "twitter whistleblower complaint",
-    "pypi packages causing",
-    "national security risk",
     "gain persistent access",
+    "national security risk",
     "zero trust portfolio",
     "zero sum game",
     "supply chain attacks",
@@ -20,6 +19,7 @@
     "finding security vulnerabilities",
     "write arbitrary files",
     "wire fraud conspiracy",
+    "united states today",
     "underlying operating system",
     "targeted asian entities",
     "service's login page"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "remote code execution",
-      "mentions": 348
+      "mentions": 349
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 137
+      "mentions": 138
     },
     {
       "keyword": "cve 2026 20182",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1628
-    },
-    {
-      "keyword": "pypi packages causing",
-      "mentions": 2
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 175
+      "mentions": 1629
     },
     {
       "keyword": "gain persistent access",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 176
     },
     {
       "keyword": "zero trust portfolio",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "zero sum game",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "supply chain attacks",
+      "mentions": 30
     }
   ],
   "articles": [
@@ -166,6 +166,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
+      "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
+      "published": "Thu, 14 May 2026 18:50:36 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
+      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
+      "published": "Thu, 14 May 2026 17:07:17 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "Auth bypass ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
       "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
@@ -231,24 +255,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
       "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
       "published": "Thu, 14 May 2026 08:12:40 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
-      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
-      "summary": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
-      "published": "Thu, 14 May 2026 06:03:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US charges suspected Dream Market admin arrested in Germany",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
-      "summary": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
-      "published": "Thu, 14 May 2026 04:55:46 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -345,7 +351,7 @@
       "source": "Dark Reading",
       "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
       "link": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
-      "summary": "The new acquisition looks to boost visibility into third-party ecosystems that are becoming a bigger concern as vectors for supply-chain attacks.",
+      "summary": "The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.",
       "published": "Thu, 14 May 2026 20:57:27 GMT",
       "value_score": 10,
       "value_signals": []

@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1626,
+      "count": 1627,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "remote code execution": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -982,7 +982,7 @@
       ]
     },
     "national security risk": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2394,7 +2394,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7974,7 +7974,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -12591,7 +12591,7 @@
       ]
     },
     "older internet routers": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -13767,7 +13767,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13862,7 +13862,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15640,7 +15640,7 @@
       ]
     },
     "service's login page": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16128,19 +16128,19 @@
       ]
     },
     "publishing rubygems packages": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-14"
       ]
     },
     "cve 2026 46300": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-14"
       ]
     },
     "mythos proves potent": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-14"
       ]
@@ -16164,7 +16164,7 @@
       ]
     },
     "zero trust portfolio": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-14"
       ]
@@ -16182,7 +16182,7 @@
       ]
     },
     "zero sum game": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
@@ -16194,18 +16194,36 @@
       ]
     },
     "proving remarkably good": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
     },
     "people events ideas": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
     },
     "opsec failure provides": {
+      "count": 2,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "pypi packages causing": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "gain persistent access": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "targeted asian entities": {
       "count": 1,
       "dates": [
         "2026-05-14"
@@ -16213,17 +16231,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-03 14:43",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication",
-        "distribute android malware"
-      ]
-    },
     {
       "timestamp": "2026-05-03 16:42",
       "articles": 56,
@@ -17311,6 +17318,17 @@
         "aggravated identity theft",
         "twitter whistleblower complaint",
         "late december 2025"
+      ]
+    },
+    {
+      "timestamp": "2026-05-14 19:40",
+      "articles": 56,
+      "top_keywords": [
+        "mythos proves potent",
+        "remote code execution",
+        "aggravated identity theft",
+        "twitter whistleblower complaint",
+        "pypi packages causing"
       ]
     }
   ]

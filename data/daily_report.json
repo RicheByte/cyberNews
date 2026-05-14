@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 16:09",
+  "last_updated": "2026-05-14 19:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,15 +7,15 @@
     "remote code execution",
     "aggravated identity theft",
     "twitter whistleblower complaint",
-    "late december 2025",
+    "pypi packages causing",
+    "gain persistent access",
     "national security risk",
-    "cyberthreat group targets",
+    "cve 2026 46300",
     "zero trust portfolio",
     "zero sum game",
-    "model agnostic system",
-    "massive ddos attacks",
     "write arbitrary files",
     "wire fraud conspiracy",
+    "targeted asian entities",
     "service's login page",
     "russia hacked routers",
     "publishing rubygems packages",
@@ -27,46 +27,83 @@
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "remote code execution",
-      "mentions": 346
+      "mentions": 347
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 135
+      "mentions": 136
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1626
+      "mentions": 1627
     },
     {
-      "keyword": "late december 2025",
-      "mentions": 10
+      "keyword": "pypi packages causing",
+      "mentions": 1
+    },
+    {
+      "keyword": "gain persistent access",
+      "mentions": 1
     },
     {
       "keyword": "national security risk",
-      "mentions": 173
+      "mentions": 174
     },
     {
-      "keyword": "cyberthreat group targets",
-      "mentions": 1
+      "keyword": "cve 2026 46300",
+      "mentions": 3
     },
     {
       "keyword": "zero trust portfolio",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "zero sum game",
-      "mentions": 1
-    },
-    {
-      "keyword": "model agnostic system",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
+      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
+      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. \"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
+      "published": "Thu, 14 May 2026 23:15:20 +0530",
+      "value_score": 89,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Auth bypass ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
+      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
+      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious - node-ipc@9.1.6 node-ipc@9.2.3 node-ipc@12.0.1 \"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
+      "published": "Thu, 14 May 2026 22:52:43 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
+      "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels like crap we should have fixed years ago. The mess keeps getting louder: users get tricked, boxes get popped, tools meant for normal work",
+      "published": "Thu, 14 May 2026 21:37:46 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "RCE",
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
@@ -128,35 +165,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
-      "summary": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
-      "published": "Thu, 14 May 2026 11:30:09 +0530",
-      "value_score": 76,
+      "source": "BleepingComputer",
+      "title": "OpenAI confirms security breach in TanStack supply chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
+      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
+      "published": "Thu, 14 May 2026 15:07:24 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "High severity"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday",
-      "link": "https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html",
-      "summary": "Microsoft has unveiled a new multi-model artificial intelligence (AI)-driven system called MDASH to facilitate vulnerability discovery and remediation at scale, adding that it's being tested by some customers as part of a limited private preview. MDASH, short for multi-model agentic scanning harness, is designed as a model-agnostic system that uses bespoke AI agents for different vulnerability",
-      "published": "Wed, 13 May 2026 19:16:02 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
-      "link": "https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html",
-      "summary": "A threat actor with affiliations to China has been linked to a \"multi-wave intrusion\" targeting an unnamed Azerbaijani oil and gas company between late December 2025 and late February 2026, marking an expansion of its targeting. The activity has been attributed by Bitdefender with moderate-to-high confidence to a hacking group known as FamousSparrow (aka UAT-9244), which shares some level of",
-      "published": "Wed, 13 May 2026 18:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
+      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
+      "published": "Thu, 14 May 2026 14:53:50 -0400",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
@@ -223,24 +247,6 @@
         "CVE mentioned",
         "Privilege escalation"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
-      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
-      "summary": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
-      "published": "Wed, 13 May 2026 18:23:31 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Iranian hackers targeted major South Korean electronics maker",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
-      "summary": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
-      "published": "Wed, 13 May 2026 17:59:33 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -333,6 +339,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
+      "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
+      "published": "Thu, 14 May 2026 16:59:25 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
       "summary": "In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
@@ -395,15 +412,6 @@
       "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
       "summary": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
-      "published": "Wed, 13 May 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
       "published": "Wed, 13 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []

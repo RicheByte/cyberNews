@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-14 16:09 UTC  
+> **Last Updated:** 2026-05-14 19:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **twitter whistleblower complaint** • **late december 2025** • **national security risk** • **cyberthreat group targets** • **zero trust portfolio** • **zero sum game** • **model agnostic system** • **massive ddos attacks** • **write arbitrary files** • **wire fraud conspiracy** • **service's login page** • **russia hacked routers** • **publishing rubygems packages** • **proving remarkably good** • **people events ideas** • **opsec failure provides** • **older internet routers**
+**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **twitter whistleblower complaint** • **pypi packages causing** • **gain persistent access** • **national security risk** • **cve 2026 46300** • **zero trust portfolio** • **zero sum game** • **write arbitrary files** • **wire fraud conspiracy** • **targeted asian entities** • **service's login page** • **russia hacked routers** • **publishing rubygems packages** • **proving remarkably good** • **people events ideas** • **opsec failure provides** • **older internet routers**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
+- [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
+- [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
 - [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
 - [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
 - [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
 - [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
 - [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
-- [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
-- [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
-- [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
 
 ### BleepingComputer
 
+- [OpenAI confirms security breach in TanStack supply chain attack](https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/)
+- [Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/)
 - [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
 - [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/)
 - [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
 - [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
 - [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
 - [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/)
-- [West Pharmaceutical says hackers stole data, encrypted systems](https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/)
-- [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine)
 - [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death)
 - [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis)
 - [Checkbox Assessments Aren't Fit to Measure Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk)
@@ -56,7 +57,6 @@
 - [Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak](https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak)
 - [Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape](https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape)
 - [China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm)
-- [LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly](https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools)
 
 ### Security Week
 

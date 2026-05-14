@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-05-14 10:10",
+  "last_updated": "2026-05-14 13:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "ai minimum elements",
+    "mythos proves potent",
     "remote code execution",
     "late december 2025",
-    "ctfmon privilege escalation",
+    "ai minimum elements",
+    "outlines minimum elements",
     "twitter whistleblower complaint",
-    "single file tweak",
-    "publishing rubygems packages",
+    "medium severity issues",
     "current audit tools",
     "cryptographic message syntax",
     "concept poc exploits",
+    "anyone potentially allowing",
     "aggravated identity theft",
-    "webinar today roi",
-    "privilege escalation flaw",
-    "nginx open including",
-    "138 flaws 30",
     "national security risk",
-    "cve 2026 46300",
+    "zero trust portfolio",
+    "known common v",
     "execute arbitrary code",
     "finding security vulnerabilities",
-    "malicious cyber actors"
+    "cve 2026 46300",
+    "hacking group known",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
-      "keyword": "ai minimum elements",
-      "mentions": 16
+      "keyword": "mythos proves potent",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 344
+      "mentions": 345
     },
     {
       "keyword": "late december 2025",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "ctfmon privilege escalation",
+      "keyword": "ai minimum elements",
+      "mentions": 17
+    },
+    {
+      "keyword": "outlines minimum elements",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1624
+      "mentions": 1625
     },
     {
-      "keyword": "single file tweak",
-      "mentions": 15
-    },
-    {
-      "keyword": "publishing rubygems packages",
+      "keyword": "medium severity issues",
       "mentions": 1
     },
     {
       "keyword": "current audit tools",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "cryptographic message syntax",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "concept poc exploits",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
+      "published": "Thu, 14 May 2026 17:10:14 +0530",
+      "value_score": 75,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Auth bypass",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
+      "published": "Thu, 14 May 2026 17:00:00 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
@@ -135,29 +161,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
-      "link": "https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html",
-      "summary": "Security teams have never had better visibility into their environments and never been worse at confirming what they fix stays fixed. Mandiant's M-Trends 2026 report puts the mean time to exploit at an estimated negative seven days. The Verizon 2025 DBIR puts median time to remediate edge device vulnerabilities at 32 days. These numbers have understandably driven the industry toward a clear",
-      "published": "Wed, 13 May 2026 17:00:00 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html",
-      "summary": "Microsoft on Tuesday released patches for 138 security vulnerabilities spanning its product portfolio, although none of them have been listed as publicly known or under active attack. Of the 138 flaws, 30 are rated Critical, 104 are rated Important, three are rated Moderate, and one is rated Low in severity. As many as 61 vulnerabilities are classified as privilege escalation bugs, followed by",
-      "published": "Wed, 13 May 2026 16:06:10 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "RCE",
-        "Privilege escalation",
-        "High severity"
-      ]
+      "source": "BleepingComputer",
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+      "published": "Thu, 14 May 2026 08:12:40 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -232,15 +242,6 @@
         "PoC available ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/",
-      "summary": "Tomorrow's webinar examines why prevention alone is no longer enough against modern cyberattacks. The session explores how organizations combine security, backups, and recovery planning to improve cyber resilience after attacks. [...]",
-      "published": "Wed, 13 May 2026 11:45:56 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -333,6 +334,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
+      "summary": "In a role reversal, investment dollars in AI security startups exceeded the value of AI acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
+      "published": "Thu, 14 May 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Foxconn Attack Highlights Manufacturing's Cyber Crisis",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis",
+      "summary": "A Nitrogen ransomware attack on Foxconn's North American facilities is one of 600 hits on manufacturers this year, as gangs increasingly target the sector for its low tolerance for downtime.",
+      "published": "Thu, 14 May 2026 12:00:00 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
       "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
       "summary": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
@@ -383,30 +404,70 @@
       "source": "Dark Reading",
       "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
       "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "summary": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+      "summary": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
       "published": "Wed, 13 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight",
-      "link": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
-      "summary": "It's the first time in two years with no zero-days. But with 137 flaws to patch, including nine critical ones, admins still have plenty of work to do.",
-      "published": "Tue, 12 May 2026 21:03:04 GMT",
-      "value_score": 59,
+      "source": "Security Week",
+      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+      "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
+      "summary": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 13:44:46 +0000",
+      "value_score": 58,
       "value_signals": [
-        "Zero-day",
-        "Patch/update ×2",
-        "High severity"
+        "CVE mentioned",
+        "Privilege escalation ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Hugging Face Packages Weaponized With a Single File Tweak",
-      "link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
-      "summary": "A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model's outputs and exfiltrate data.",
-      "published": "Tue, 12 May 2026 14:00:00 GMT",
+      "source": "Security Week",
+      "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
+      "link": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
+      "summary": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent. The post Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 13:00:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
+      "link": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
+      "summary": "The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser. The post Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 12:55:38 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
+      "link": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
+      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 12:11:15 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "G7 Countries Release AI SBOM Guidance",
+      "link": "https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/",
+      "summary": "The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains. The post G7 Countries Release AI SBOM Guidance appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 11:15:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "F5 Patches Over 50 Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
+      "summary": "The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX. The post F5 Patches Over 50 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 14 May 2026 10:47:58 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -431,68 +492,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
-      "link": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
-      "summary": "YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System. The post Researcher Drops YellowKey, GreenPlasma Windows Zero-Days appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 07:27:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
-      "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
-      "summary": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 17:13:36 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
-      "link": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
-      "summary": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. The post Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 16:01:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
-      "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
-      "summary": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss. The post Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’ appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 14:50:20 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
-      "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
-      "summary": "This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers. The post Webinar Today: ROI for Cyber-Physical Security Programs appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 13:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
-      "link": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
-      "summary": "The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps. The post Government to Scrutinize Instructure Over Canvas Disruption, Data Breach appeared first on SecurityWeek .",
-      "published": "Wed, 13 May 2026 12:13:14 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

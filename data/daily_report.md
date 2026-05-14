@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-14 10:10 UTC  
+> **Last Updated:** 2026-05-14 13:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai minimum elements** • **remote code execution** • **late december 2025** • **ctfmon privilege escalation** • **twitter whistleblower complaint** • **single file tweak** • **publishing rubygems packages** • **current audit tools** • **cryptographic message syntax** • **concept poc exploits** • **aggravated identity theft** • **webinar today roi** • **privilege escalation flaw** • **nginx open including** • **138 flaws 30** • **national security risk** • **cve 2026 46300** • **execute arbitrary code** • **finding security vulnerabilities** • **malicious cyber actors**
+**mythos proves potent** • **remote code execution** • **late december 2025** • **ai minimum elements** • **outlines minimum elements** • **twitter whistleblower complaint** • **medium severity issues** • **current audit tools** • **cryptographic message syntax** • **concept poc exploits** • **anyone potentially allowing** • **aggravated identity theft** • **national security risk** • **zero trust portfolio** • **known common v** • **execute arbitrary code** • **finding security vulnerabilities** • **cve 2026 46300** • **hacking group known** • **wire fraud conspiracy**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
+- [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
 - [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
 - [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
 - [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html)
 - [Microsoft's MDASH AI System Finds 16 Windows Flaws Fixed in Patch Tuesday](https://thehackernews.com/2026/05/microsofts-mdash-ai-system-finds-16.html)
 - [Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation](https://thehackernews.com/2026/05/azerbaijani-energy-firm-hit-by-repeated.html)
 - [[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud](https://thehackernews.com/2026/05/webinar-why-your-appsec-tools-miss.html)
-- [Most Remediation Programs Never Confirm the Fix Actually Worked](https://thehackernews.com/2026/05/most-remediation-programs-never-confirm.html)
-- [Microsoft Patches 138 Vulnerabilities, Including DNS and Netlogon RCE Flaws](https://thehackernews.com/2026/05/microsoft-patches-138-vulnerabilities.html)
 
 ### BleepingComputer
 
+- [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/)
 - [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/)
 - [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/)
 - [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/)
@@ -34,7 +35,6 @@
 - [Iranian hackers targeted major South Korean electronics maker](https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/)
 - [New critical Exim mailer flaw allows remote code execution](https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/)
 - [Windows BitLocker zero-day gives access to protected drives, PoC released](https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/)
-- [Webinar tomorrow: Why security alone won't stop modern attacks](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-security-alone-wont-stop-modern-attacks/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death)
+- [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis)
 - [Checkbox Assessments Aren't Fit to Measure to Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk)
 - [Attackers Weaponize RubyGems for Data Dead Drops](https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops)
 - [Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak](https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak)
 - [Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape](https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape)
 - [China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm](https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm)
 - [LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly](https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools)
-- [It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight](https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight)
-- [Hugging Face Packages Weaponized With a Single File Tweak](https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak)
 
 ### Security Week
 
+- [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
+- [Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere](https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/)
+- [Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million](https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/)
+- [Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns](https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/)
+- [G7 Countries Release AI SBOM Guidance](https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/)
+- [F5 Patches Over 50 Vulnerabilities](https://www.securityweek.com/f5-patches-over-50-vulnerabilities/)
 - [Hackers Targeted PraisonAI Vulnerability Hours After Disclosure](https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/)
 - [High-Severity Vulnerability Patched in VMware Fusion](https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/)
-- [Researcher Drops YellowKey, GreenPlasma Windows Zero-Days](https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/)
-- [Foxconn Confirms North American Factories Hit by Cyberattack](https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/)
-- [Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code](https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/)
-- [Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’](https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/)
-- [Webinar Today: ROI for Cyber-Physical Security Programs](https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/)
-- [Government to Scrutinize Instructure Over Canvas Disruption, Data Breach](https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/)
 
 ### Threatpost
 

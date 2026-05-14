@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-14 10:10 UTC |
+| 🕐 Last Updated | 2026-05-14 13:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai minimum elements` • `remote code execution` • `late december 2025` • `ctfmon privilege escalation` • `twitter whistleblower complaint` • `single file tweak` • `publishing rubygems packages` • `current audit tools` • `cryptographic message syntax` • `concept poc exploits`
+`mythos proves potent` • `remote code execution` • `late december 2025` • `ai minimum elements` • `outlines minimum elements` • `twitter whistleblower complaint` • `medium severity issues` • `current audit tools` • `cryptographic message syntax` • `concept poc exploits`
 
 ## 📄 Reports
 

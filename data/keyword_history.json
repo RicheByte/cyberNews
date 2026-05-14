@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1624,
+      "count": 1625,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "remote code execution": {
-      "count": 344,
+      "count": 345,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -814,7 +814,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -982,7 +982,7 @@
       ]
     },
     "national security risk": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7973,7 +7973,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -7991,7 +7991,8 @@
         "2026-05-08",
         "2026-05-09",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-14"
       ]
     },
     "unfortunately named toolkit": {
@@ -13858,7 +13859,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15872,7 +15873,7 @@
       ]
     },
     "ai minimum elements": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-12",
         "2026-05-13",
@@ -15919,7 +15920,7 @@
       ]
     },
     "cryptographic message syntax": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-12",
         "2026-05-13",
@@ -15941,10 +15942,11 @@
       ]
     },
     "known common v": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-14"
       ]
     },
     "orchestrate complex attacks": {
@@ -16004,7 +16006,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16036,7 +16038,7 @@
       ]
     },
     "late december 2025": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16082,7 +16084,7 @@
       ]
     },
     "concept poc exploits": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16102,7 +16104,7 @@
       ]
     },
     "current audit tools": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16127,6 +16129,42 @@
       ]
     },
     "cve 2026 46300": {
+      "count": 2,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "mythos proves potent": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "outlines minimum elements": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "medium severity issues": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "anyone potentially allowing": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "zero trust portfolio": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "hacking group known": {
       "count": 1,
       "dates": [
         "2026-05-14"
@@ -16134,17 +16172,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-03 10:50",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication",
-        "massive ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-03 12:58",
       "articles": 56,
@@ -17232,6 +17259,17 @@
         "late december 2025",
         "ctfmon privilege escalation",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-14 13:57",
+      "articles": 56,
+      "top_keywords": [
+        "mythos proves potent",
+        "remote code execution",
+        "late december 2025",
+        "ai minimum elements",
+        "outlines minimum elements"
       ]
     }
   ]

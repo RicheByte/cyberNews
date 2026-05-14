@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-14 19:40",
+  "last_updated": "2026-05-14 21:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mythos proves potent",
     "remote code execution",
     "aggravated identity theft",
+    "cve 2026 20182",
     "twitter whistleblower complaint",
     "pypi packages causing",
-    "gain persistent access",
     "national security risk",
-    "cve 2026 46300",
+    "gain persistent access",
     "zero trust portfolio",
     "zero sum game",
+    "supply chain attacks",
+    "massive ddos attacks",
+    "third party ecosystems",
+    "cve 2026 46300",
+    "finding security vulnerabilities",
     "write arbitrary files",
     "wire fraud conspiracy",
+    "underlying operating system",
     "targeted asian entities",
-    "service's login page",
-    "russia hacked routers",
-    "publishing rubygems packages",
-    "proving remarkably good",
-    "people events ideas",
-    "opsec failure provides",
-    "older internet routers"
+    "service's login page"
   ],
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "remote code execution",
-      "mentions": 347
+      "mentions": 348
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 136
+      "mentions": 137
+    },
+    {
+      "keyword": "cve 2026 20182",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1627
+      "mentions": 1628
     },
     {
       "keyword": "pypi packages causing",
-      "mentions": 1
-    },
-    {
-      "keyword": "gain persistent access",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "national security risk",
-      "mentions": 174
+      "mentions": 175
     },
     {
-      "keyword": "cve 2026 46300",
-      "mentions": 3
+      "keyword": "gain persistent access",
+      "mentions": 2
     },
     {
       "keyword": "zero trust portfolio",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "zero sum game",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -166,6 +166,22 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
+      "published": "Thu, 14 May 2026 16:09:56 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI confirms security breach in TanStack supply chain attack",
       "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
       "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
@@ -235,18 +251,6 @@
       "published": "Thu, 14 May 2026 04:55:46 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
-      "published": "Thu, 14 May 2026 03:34:19 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -339,6 +343,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
+      "link": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
+      "summary": "The new acquisition looks to boost visibility into third-party ecosystems that are becoming a bigger concern as vectors for supply-chain attacks.",
+      "published": "Thu, 14 May 2026 20:57:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited",
+      "summary": "This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco's network control system.",
+      "published": "Thu, 14 May 2026 20:25:31 GMT",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
       "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
@@ -397,24 +422,6 @@
         "Ransomware",
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
-      "summary": "Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.",
-      "published": "Wed, 13 May 2026 18:52:50 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
-      "summary": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
-      "published": "Wed, 13 May 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

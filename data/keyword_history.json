@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1627,
+      "count": 1628,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "remote code execution": {
-      "count": 347,
+      "count": 348,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -982,7 +982,7 @@
       ]
     },
     "national security risk": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2394,7 +2394,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -5280,9 +5280,10 @@
       ]
     },
     "underlying operating system": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-28"
+        "2026-01-28",
+        "2026-05-14"
       ]
     },
     "johnson controls products": {
@@ -7274,13 +7275,14 @@
       ]
     },
     "supply chain attacks": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-02-16",
         "2026-04-30",
         "2026-05-01",
         "2026-05-02",
-        "2026-05-03"
+        "2026-05-03",
+        "2026-05-14"
       ]
     },
     "canada goose investigating": {
@@ -7974,7 +7976,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13862,7 +13864,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14913,7 +14915,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15640,7 +15642,7 @@
       ]
     },
     "service's login page": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16011,7 +16013,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-13",
         "2026-05-14"
@@ -16134,13 +16136,13 @@
       ]
     },
     "cve 2026 46300": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-14"
       ]
     },
     "mythos proves potent": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-14"
       ]
@@ -16164,7 +16166,7 @@
       ]
     },
     "zero trust portfolio": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-14"
       ]
@@ -16182,7 +16184,7 @@
       ]
     },
     "zero sum game": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-14"
       ]
@@ -16212,18 +16214,30 @@
       ]
     },
     "pypi packages causing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
     },
     "gain persistent access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-14"
       ]
     },
     "targeted asian entities": {
+      "count": 2,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "cve 2026 20182": {
+      "count": 1,
+      "dates": [
+        "2026-05-14"
+      ]
+    },
+    "third party ecosystems": {
       "count": 1,
       "dates": [
         "2026-05-14"
@@ -16231,17 +16245,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-03 16:42",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication",
-        "distribute android malware"
-      ]
-    },
     {
       "timestamp": "2026-05-03 18:52",
       "articles": 56,
@@ -17329,6 +17332,17 @@
         "aggravated identity theft",
         "twitter whistleblower complaint",
         "pypi packages causing"
+      ]
+    },
+    {
+      "timestamp": "2026-05-14 21:05",
+      "articles": 56,
+      "top_keywords": [
+        "mythos proves potent",
+        "remote code execution",
+        "aggravated identity theft",
+        "cve 2026 20182",
+        "twitter whistleblower complaint"
       ]
     }
   ]

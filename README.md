@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-14 19:40 UTC |
+| 🕐 Last Updated | 2026-05-14 21:05 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mythos proves potent` • `remote code execution` • `aggravated identity theft` • `twitter whistleblower complaint` • `pypi packages causing` • `gain persistent access` • `national security risk` • `cve 2026 46300` • `zero trust portfolio` • `zero sum game`
+`mythos proves potent` • `remote code execution` • `aggravated identity theft` • `cve 2026 20182` • `twitter whistleblower complaint` • `pypi packages causing` • `national security risk` • `gain persistent access` • `zero trust portfolio` • `zero sum game`
 
 ## 📄 Reports
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15 06:51",
+  "last_updated": "2026-05-15 10:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,79 @@
     "remote code execution",
     "cve 2026 20182",
     "aggravated identity theft",
+    "national security risk",
     "twitter whistleblower complaint",
     "three bullet trains",
-    "publicly disclosed weakness",
-    "national security risk",
+    "finding security vulnerabilities",
     "admin access exploits",
+    "microsoft edge hacked",
     "zero trust portfolio",
     "zero sum game",
-    "finding security vulnerabilities",
     "cve 2026 46300",
-    "gain persistent access",
-    "supply chain attacks",
-    "massive ddos attacks",
+    "security startups exceeded",
+    "changing transportation security",
     "write arbitrary files",
     "wire fraud conspiracy",
-    "united states today"
+    "united states today",
+    "underlying operating system"
   ],
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "remote code execution",
-      "mentions": 351
+      "mentions": 352
     },
     {
       "keyword": "cve 2026 20182",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 140
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1631
-    },
-    {
-      "keyword": "three bullet trains",
-      "mentions": 2
-    },
-    {
-      "keyword": "publicly disclosed weakness",
-      "mentions": 9
+      "mentions": 141
     },
     {
       "keyword": "national security risk",
-      "mentions": 178
+      "mentions": 179
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1632
+    },
+    {
+      "keyword": "three bullet trains",
+      "mentions": 3
+    },
+    {
+      "keyword": "finding security vulnerabilities",
+      "mentions": 13
     },
     {
       "keyword": "admin access exploits",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
+      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
+      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. \"",
+      "published": "Fri, 15 May 2026 11:49:04 +0530",
+      "value_score": 85,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
@@ -158,14 +172,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
-      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
-      "summary": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
-      "published": "Thu, 14 May 2026 14:55:50 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
+      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
+      "published": "Fri, 15 May 2026 05:40:42 -0400",
+      "value_score": 41,
       "value_signals": [
-        "Privilege escalation ×2"
+        "Zero-day",
+        "Exploit wording"
       ]
     },
     {
@@ -252,15 +267,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
-      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
-      "summary": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
-      "published": "Thu, 14 May 2026 08:12:40 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -432,6 +438,27 @@
     },
     {
       "source": "Security Week",
+      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
+      "link": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
+      "summary": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 09:47:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
+      "summary": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components. The post Chrome 148 Update Patches Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 07:25:15 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
       "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
       "summary": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616. The post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 appeared first on SecurityWeek .",
@@ -495,24 +522,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "G7 Countries Release AI SBOM Guidance",
-      "link": "https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/",
-      "summary": "The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains. The post G7 Countries Release AI SBOM Guidance appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 11:15:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "F5 Patches Over 50 Vulnerabilities",
-      "link": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
-      "summary": "The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX. The post F5 Patches Over 50 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 10:47:58 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

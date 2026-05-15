@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-05-15 10:17",
+  "last_updated": "2026-05-15 13:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "mythos proves potent",
     "third party ecosystems",
     "remote code execution",
     "cve 2026 20182",
-    "aggravated identity theft",
-    "national security risk",
     "twitter whistleblower complaint",
     "three bullet trains",
-    "finding security vulnerabilities",
+    "aggravated identity theft",
     "admin access exploits",
-    "microsoft edge hacked",
-    "zero trust portfolio",
+    "national security risk",
     "zero sum game",
+    "supply chain attacks",
+    "finding security vulnerabilities",
+    "ai data centers",
     "cve 2026 46300",
-    "security startups exceeded",
-    "changing transportation security",
+    "cve 2026 42897",
     "write arbitrary files",
     "wire fraud conspiracy",
+    "various browser components",
     "united states today",
-    "underlying operating system"
+    "underlying operating system",
+    "u s cybersecurity"
   ],
   "trending": [
     {
-      "keyword": "mythos proves potent",
-      "mentions": 8
-    },
-    {
       "keyword": "third party ecosystems",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "remote code execution",
-      "mentions": 352
+      "mentions": 353
     },
     {
       "keyword": "cve 2026 20182",
-      "mentions": 5
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 141
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 179
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1632
+      "mentions": 1633
     },
     {
       "keyword": "three bullet trains",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "finding security vulnerabilities",
-      "mentions": 13
+      "keyword": "aggravated identity theft",
+      "mentions": 142
     },
     {
       "keyword": "admin access exploits",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 180
+    },
+    {
+      "keyword": "zero sum game",
+      "mentions": 8
+    },
+    {
+      "keyword": "supply chain attacks",
+      "mentions": 33
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
+      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
+      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
+      "published": "Fri, 15 May 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
+      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
+      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
+      "published": "Fri, 15 May 2026 16:24:44 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
@@ -146,29 +164,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
-      "summary": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
-      "published": "Thu, 14 May 2026 17:10:14 +0530",
-      "value_score": 75,
+      "source": "BleepingComputer",
+      "title": "Microsoft to automatically roll back faulty Windows drivers",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/",
+      "summary": "Microsoft is introducing a new capability that will allow it to remotely roll back problematic Windows drivers delivered through Windows Update. [...]",
+      "published": "Fri, 15 May 2026 08:29:48 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Auth bypass",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "summary": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
-      "published": "Thu, 14 May 2026 17:00:00 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
@@ -255,17 +258,6 @@
       "value_signals": [
         "RCE ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
-      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
-      "summary": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
-      "published": "Thu, 14 May 2026 11:21:32 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -359,6 +351,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber Pioneers Ponder Past as Prologue",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
+      "summary": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
+      "published": "Fri, 15 May 2026 12:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
       "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
       "summary": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
@@ -428,11 +429,38 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Weaponize RubyGems for Data Dead Drops",
-      "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
-      "summary": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.",
-      "published": "Wed, 13 May 2026 21:09:20 GMT",
+      "source": "Security Week",
+      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
+      "link": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
+      "summary": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions. The post Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 12:06:53 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
+      "link": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
+      "summary": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation. The post American Lending Center Data Breach Affects 123,000 Individuals appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 11:06:55 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Hit by TanStack Supply Chain Attack",
+      "link": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
+      "summary": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories. The post OpenAI Hit by TanStack Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 10:37:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -490,37 +518,6 @@
         "CVE mentioned",
         "Privilege escalation ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
-      "link": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
-      "summary": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent. The post Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 13:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
-      "link": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
-      "summary": "The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser. The post Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 12:55:38 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
-      "link": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
-      "summary": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 12:11:15 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {

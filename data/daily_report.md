@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-15 02:41 UTC  
+> **Last Updated:** 2026-05-15 06:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **gain persistent access** • **national security risk** • **zero trust portfolio** • **zero sum game** • **supply chain attacks** • **massive ddos attacks** • **third party ecosystems** • **cve 2026 46300** • **finding security vulnerabilities** • **write arbitrary files** • **wire fraud conspiracy** • **united states today** • **underlying operating system** • **targeted asian entities**
+**mythos proves potent** • **third party ecosystems** • **remote code execution** • **cve 2026 20182** • **aggravated identity theft** • **twitter whistleblower complaint** • **three bullet trains** • **publicly disclosed weakness** • **national security risk** • **admin access exploits** • **zero trust portfolio** • **zero sum game** • **finding security vulnerabilities** • **cve 2026 46300** • **gain persistent access** • **supply chain attacks** • **massive ddos attacks** • **write arbitrary files** • **wire fraud conspiracy** • **united states today**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 - [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 - [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
 - [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
@@ -23,7 +24,6 @@
 - [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html)
 - [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html)
 - [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html)
-- [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
 - [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
 - [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
 - [Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere](https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/)
@@ -67,7 +68,6 @@
 - [Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns](https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/)
 - [G7 Countries Release AI SBOM Guidance](https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/)
 - [F5 Patches Over 50 Vulnerabilities](https://www.securityweek.com/f5-patches-over-50-vulnerabilities/)
-- [Hackers Targeted PraisonAI Vulnerability Hours After Disclosure](https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/)
 
 ### Threatpost
 

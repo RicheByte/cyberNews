@@ -1,72 +1,88 @@
 {
-  "last_updated": "2026-05-15 02:41",
+  "last_updated": "2026-05-15 06:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "mythos proves potent",
+    "third party ecosystems",
     "remote code execution",
-    "aggravated identity theft",
     "cve 2026 20182",
+    "aggravated identity theft",
     "twitter whistleblower complaint",
     "three bullet trains",
-    "gain persistent access",
+    "publicly disclosed weakness",
     "national security risk",
+    "admin access exploits",
     "zero trust portfolio",
     "zero sum game",
+    "finding security vulnerabilities",
+    "cve 2026 46300",
+    "gain persistent access",
     "supply chain attacks",
     "massive ddos attacks",
-    "third party ecosystems",
-    "cve 2026 46300",
-    "finding security vulnerabilities",
     "write arbitrary files",
     "wire fraud conspiracy",
-    "united states today",
-    "underlying operating system",
-    "targeted asian entities"
+    "united states today"
   ],
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 350
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 139
-    },
-    {
-      "keyword": "cve 2026 20182",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1630
-    },
-    {
-      "keyword": "three bullet trains",
-      "mentions": 1
-    },
-    {
-      "keyword": "gain persistent access",
+      "keyword": "third party ecosystems",
       "mentions": 4
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 351
+    },
+    {
+      "keyword": "cve 2026 20182",
+      "mentions": 4
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 140
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1631
+    },
+    {
+      "keyword": "three bullet trains",
+      "mentions": 2
+    },
+    {
+      "keyword": "publicly disclosed weakness",
+      "mentions": 9
+    },
+    {
       "keyword": "national security risk",
-      "mentions": 177
+      "mentions": 178
     },
     {
-      "keyword": "zero trust portfolio",
-      "mentions": 6
-    },
-    {
-      "keyword": "zero sum game",
-      "mentions": 5
+      "keyword": "admin access exploits",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
+      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
+      "published": "Fri, 15 May 2026 10:58:03 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Auth bypass",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
@@ -150,18 +166,6 @@
       "value_score": 34,
       "value_signals": [
         "Privilege escalation ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
-      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
-      "summary": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
-      "published": "Thu, 14 May 2026 12:36:15 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation"
       ]
     },
     {
@@ -428,6 +432,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
+      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
+      "summary": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616. The post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 06:28:46 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Enhancing Data Center Security Without Sacrificing Performance",
       "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
       "summary": "For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game. The post Enhancing Data Center Security Without Sacrificing Performance appeared first on SecurityWeek .",
@@ -496,18 +513,6 @@
       "published": "Thu, 14 May 2026 10:47:58 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
-      "link": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
-      "summary": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed. The post Hackers Targeted PraisonAI Vulnerability Hours After Disclosure appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 09:45:53 +0000",
-      "value_score": 31,
-      "value_signals": [
-        "Auth bypass",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

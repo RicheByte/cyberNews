@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1630,
+      "count": 1631,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -685,7 +685,7 @@
       ]
     },
     "remote code execution": {
-      "count": 350,
+      "count": 351,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -984,7 +984,7 @@
       ]
     },
     "national security risk": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2397,7 +2397,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7280,7 +7280,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -7982,7 +7982,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13672,11 +13672,12 @@
       ]
     },
     "publicly disclosed weakness": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-04-17",
         "2026-04-18",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-15"
       ]
     },
     "msps must rethink": {
@@ -13871,7 +13872,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14923,7 +14924,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15731,7 +15732,7 @@
       ]
     },
     "united states today": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16024,7 +16025,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16148,14 +16149,14 @@
       ]
     },
     "cve 2026 46300": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "mythos proves potent": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-14",
         "2026-05-15"
@@ -16180,7 +16181,7 @@
       ]
     },
     "zero trust portfolio": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-14",
         "2026-05-15"
@@ -16199,7 +16200,7 @@
       ]
     },
     "zero sum game": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-14",
         "2026-05-15"
@@ -16236,7 +16237,7 @@
       ]
     },
     "gain persistent access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-14",
         "2026-05-15"
@@ -16250,20 +16251,26 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "third party ecosystems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "three bullet trains": {
+      "count": 2,
+      "dates": [
+        "2026-05-15"
+      ]
+    },
+    "admin access exploits": {
       "count": 1,
       "dates": [
         "2026-05-15"
@@ -16271,17 +16278,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-03 22:35",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "bypass user authentication",
-        "distribute android malware"
-      ]
-    },
     {
       "timestamp": "2026-05-04 02:27",
       "articles": 56,
@@ -17369,6 +17365,17 @@
         "aggravated identity theft",
         "cve 2026 20182",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-15 06:51",
+      "articles": 56,
+      "top_keywords": [
+        "mythos proves potent",
+        "third party ecosystems",
+        "remote code execution",
+        "cve 2026 20182",
+        "aggravated identity theft"
       ]
     }
   ]

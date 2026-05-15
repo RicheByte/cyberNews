@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1634,
+      "count": 1635,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -685,7 +685,7 @@
       ]
     },
     "remote code execution": {
-      "count": 354,
+      "count": 355,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2323,7 +2323,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 292,
+      "count": 293,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2398,7 +2398,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -5285,7 +5285,7 @@
       ]
     },
     "underlying operating system": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-01-28",
         "2026-05-14",
@@ -7281,7 +7281,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -7983,7 +7983,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13873,7 +13873,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15733,7 +15733,7 @@
       ]
     },
     "united states today": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16026,7 +16026,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16201,7 +16201,7 @@
       ]
     },
     "zero sum game": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-14",
         "2026-05-15"
@@ -16252,21 +16252,21 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "third party ecosystems": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "three bullet trains": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-15"
       ]
@@ -16296,19 +16296,19 @@
       ]
     },
     "ai data centers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-15"
       ]
     },
     "cve 2026 42897": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-15"
       ]
     },
     "various browser components": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-15"
       ]
@@ -16320,7 +16320,7 @@
       ]
     },
     "extract sensitive information": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-15"
       ]
@@ -16330,20 +16330,21 @@
       "dates": [
         "2026-05-15"
       ]
+    },
+    "custom backdoor kazuar": {
+      "count": 1,
+      "dates": [
+        "2026-05-15"
+      ]
+    },
+    "taiwanese student experimenting": {
+      "count": 1,
+      "dates": [
+        "2026-05-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-04 13:47",
-      "articles": 56,
-      "top_keywords": [
-        "digicert revokes certificates",
-        "iran's intelligence agencies",
-        "specially crafted message",
-        "service ddos attacks",
-        "bypass user authentication"
-      ]
-    },
     {
       "timestamp": "2026-05-04 15:57",
       "articles": 56,
@@ -17431,6 +17432,17 @@
         "cve 2026 20182",
         "twitter whistleblower complaint",
         "three bullet trains"
+      ]
+    },
+    {
+      "timestamp": "2026-05-15 19:23",
+      "articles": 56,
+      "top_keywords": [
+        "third party ecosystems",
+        "custom backdoor kazuar",
+        "remote code execution",
+        "cve 2026 20182",
+        "twitter whistleblower complaint"
       ]
     }
   ]

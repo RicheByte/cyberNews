@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-15 16:00 UTC  
+> **Last Updated:** 2026-05-15 19:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party ecosystems** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **avada builder plugin** • **aggravated identity theft** • **130 companies tangled** • **admin access exploits** • **ai data centers** • **zero sum game** • **supply chain attacks** • **finding security vulnerabilities** • **cve 2026 42897** • **write arbitrary files** • **wire fraud conspiracy** • **various browser components** • **united states today** • **underlying operating system**
+**third party ecosystems** • **custom backdoor kazuar** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **ai data centers** • **finding security vulnerabilities** • **zero sum game** • **cve 2026 42897** • **write arbitrary files** • **wire fraud conspiracy** • **various browser components** • **united states today** • **underlying operating system** • **taiwanese student experimenting** • **supply chain attacks**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
 - [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
 - [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 - [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
@@ -23,18 +24,17 @@
 - [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
 - [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 - [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
-- [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
 
 ### BleepingComputer
 
+- [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
+- [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 - [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
 - [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
 - [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 - [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 - [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
 - [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
-- [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/)
-- [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/)
 
 ### Krebs on Security
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Cyber Pioneers Ponder Past as Prologue](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue)
-- [Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
+- [Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 - [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
 - [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited)
 - [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Siemens Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08)
 - [Siemens gWAP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01)
 - [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-10)
@@ -89,7 +90,6 @@
 - [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-16)
 - [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05)
 - [Universal Robots Polyscope 5](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-17)
-- [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11)
 
 ---
 

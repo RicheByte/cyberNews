@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-05-15 16:00",
+  "last_updated": "2026-05-15 19:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "third party ecosystems",
+    "custom backdoor kazuar",
     "remote code execution",
     "cve 2026 20182",
     "twitter whistleblower complaint",
     "three bullet trains",
     "extract sensitive information",
-    "avada builder plugin",
     "aggravated identity theft",
     "130 companies tangled",
-    "admin access exploits",
     "ai data centers",
-    "zero sum game",
-    "supply chain attacks",
     "finding security vulnerabilities",
+    "zero sum game",
     "cve 2026 42897",
     "write arbitrary files",
     "wire fraud conspiracy",
     "various browser components",
     "united states today",
-    "underlying operating system"
+    "underlying operating system",
+    "taiwanese student experimenting",
+    "supply chain attacks"
   ],
   "trending": [
     {
       "keyword": "third party ecosystems",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "custom backdoor kazuar",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 354
+      "mentions": 355
     },
     {
       "keyword": "cve 2026 20182",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1634
+      "mentions": 1635
     },
     {
       "keyword": "three bullet trains",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "extract sensitive information",
-      "mentions": 1
-    },
-    {
-      "keyword": "avada builder plugin",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 143
+      "mentions": 144
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 292
+      "mentions": 293
     },
     {
-      "keyword": "admin access exploits",
-      "mentions": 4
+      "keyword": "ai data centers",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
+      "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
+      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
+      "published": "Fri, 15 May 2026 22:40:25 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "Backdoor ×2",
+        "Botnet ×2",
+        "CISA/KEV"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -152,16 +165,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html",
-      "summary": "Everything is still on fire. This week feels dumb in the worst way — bad links, weak checks, fake help desks, shady forum posts, and people turning supply chain attacks into some cursed little game for clout and cash. Half of it feels new. Half of it feels like crap we should have fixed years ago. The mess keeps getting louder: users get tricked, boxes get popped, tools meant for normal work",
-      "published": "Thu, 14 May 2026 21:37:46 +0530",
-      "value_score": 38,
+      "source": "BleepingComputer",
+      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
+      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
+      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
+      "published": "Fri, 15 May 2026 13:47:25 -0400",
+      "value_score": 41,
       "value_signals": [
-        "RCE",
-        "Patch/update"
+        "Zero-day",
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Popular node-ipc npm package compromised to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
+      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
+      "published": "Fri, 15 May 2026 13:10:42 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -222,35 +244,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/",
-      "summary": "Hackers are leveraging a critical authentication bypass vulnerability in the WordPress plugin Burst Statistics to obtain admin-level access to websites. [...]",
-      "published": "Thu, 14 May 2026 17:07:17 -0400",
-      "value_score": 54,
-      "value_signals": [
-        "Auth bypass ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a critical Catalyst SD-WAN Controller authentication bypass flaw, tracked as CVE-2026-20182, was actively exploited in zero-day attacks that allowed attackers to gain administrative privileges on compromised devices. [...]",
-      "published": "Thu, 14 May 2026 16:09:56 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Auth bypass",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -353,7 +346,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
+      "title": "Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
       "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
       "summary": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
       "published": "Fri, 15 May 2026 01:00:00 GMT",
@@ -596,6 +589,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list ",
+      "published": "Fri, 15 May 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Siemens Siemens ROS#",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
       "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that hosts service. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens Siemens ROS# are affected: ROS# vers:intdot/<2.2.2 CVSS Ven",
@@ -681,18 +688,6 @@
         "Source boost: CISA Alerts",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Ruggedcom Rox",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-11",
-      "summary": "View CSAF Summary Ruggedcom Rox contains an input validation vulnerability in the feature key installation process that could allow an authenticated remote attacker to execute arbitrary commands with root privileges on the underlying operating system. Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens Ruggedcom Rox are affected: RUGGEDCOM ROX MX5000 vers:intdot/<2.17.1 RUGGEDCOM ROX MX5000RE vers:intdot/<",
-      "published": "Thu, 14 May 26 12:00:00 +0000",
-      "value_score": 43,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update"
       ]
     }
   ],

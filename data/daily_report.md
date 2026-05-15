@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-15 19:23 UTC  
+> **Last Updated:** 2026-05-15 20:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party ecosystems** • **custom backdoor kazuar** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **ai data centers** • **finding security vulnerabilities** • **zero sum game** • **cve 2026 42897** • **write arbitrary files** • **wire fraud conspiracy** • **various browser components** • **united states today** • **underlying operating system** • **taiwanese student experimenting** • **supply chain attacks**
+**third party ecosystems** • **custom backdoor kazuar** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **exploiting obscure vulnerabilities** • **zero sum game** • **finding security vulnerabilities** • **cve 2026 42897** • **malicious cyber actors** • **ai data centers** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy** • **various browser components** • **united states today**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 - [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
 - [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
 - [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
@@ -34,7 +35,6 @@
 - [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 - [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 - [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
-- [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [The Boring Stuff is Dangerous Now](https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt)
 - [Cyber Pioneers Ponder Past as Prologue](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue)
 - [Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 - [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
@@ -56,7 +57,6 @@
 - [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
 - ['FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine)
 - [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death)
-- [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis)
 
 ### Security Week
 

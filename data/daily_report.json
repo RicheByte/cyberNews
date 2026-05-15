@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15 19:23",
+  "last_updated": "2026-05-15 20:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -12,58 +12,58 @@
     "extract sensitive information",
     "aggravated identity theft",
     "130 companies tangled",
-    "ai data centers",
-    "finding security vulnerabilities",
+    "exploiting obscure vulnerabilities",
     "zero sum game",
+    "finding security vulnerabilities",
     "cve 2026 42897",
+    "malicious cyber actors",
+    "ai data centers",
     "write arbitrary files",
+    "woocommerce checkout pages",
     "wire fraud conspiracy",
     "various browser components",
-    "united states today",
-    "underlying operating system",
-    "taiwanese student experimenting",
-    "supply chain attacks"
+    "united states today"
   ],
   "trending": [
     {
       "keyword": "third party ecosystems",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 1
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 355
-    },
-    {
-      "keyword": "cve 2026 20182",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1635
-    },
-    {
-      "keyword": "three bullet trains",
-      "mentions": 6
-    },
-    {
-      "keyword": "extract sensitive information",
       "mentions": 2
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 356
+    },
+    {
+      "keyword": "cve 2026 20182",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1636
+    },
+    {
+      "keyword": "three bullet trains",
+      "mentions": 7
+    },
+    {
+      "keyword": "extract sensitive information",
+      "mentions": 3
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 144
+      "mentions": 145
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 293
+      "mentions": 294
     },
     {
-      "keyword": "ai data centers",
-      "mentions": 3
+      "keyword": "exploiting obscure vulnerabilities",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -166,6 +166,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
+      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
+      "published": "Fri, 15 May 2026 15:30:33 -0400",
+      "value_score": 49,
+      "value_signals": [
+        "Active exploitation",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
       "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
       "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
@@ -233,17 +246,6 @@
       "value_signals": [
         "Zero-day",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TeamPCP hackers advertise Mistral AI code repos for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/",
-      "summary": "The TeamPCP hacker group is threatening to leak source code from the Mistral AI project unless a buyer is found for the data. [...]",
-      "published": "Thu, 14 May 2026 18:50:36 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -337,6 +339,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Boring Stuff is Dangerous Now",
+      "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
+      "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
+      "published": "Mon, 18 May 2026 13:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cyber Pioneers Ponder Past as Prologue",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
       "summary": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
@@ -402,17 +415,6 @@
       "published": "Thu, 14 May 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Foxconn Attack Highlights Manufacturing's Cyber Crisis",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis",
-      "summary": "A Nitrogen ransomware attack on Foxconn's North American facilities is one of 600 hits on manufacturers this year, as gangs increasingly target the sector for its low tolerance for downtime.",
-      "published": "Thu, 14 May 2026 12:00:00 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Security Week",

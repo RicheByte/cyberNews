@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-15 13:54 UTC  
+> **Last Updated:** 2026-05-15 16:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party ecosystems** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **aggravated identity theft** • **admin access exploits** • **national security risk** • **zero sum game** • **supply chain attacks** • **finding security vulnerabilities** • **ai data centers** • **cve 2026 46300** • **cve 2026 42897** • **write arbitrary files** • **wire fraud conspiracy** • **various browser components** • **united states today** • **underlying operating system** • **u s cybersecurity**
+**third party ecosystems** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **avada builder plugin** • **aggravated identity theft** • **130 companies tangled** • **admin access exploits** • **ai data centers** • **zero sum game** • **supply chain attacks** • **finding security vulnerabilities** • **cve 2026 42897** • **write arbitrary files** • **wire fraud conspiracy** • **various browser components** • **united states today** • **underlying operating system**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
 - [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html)
 - [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 - [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
@@ -23,18 +24,17 @@
 - [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 - [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html)
 - [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html)
-- [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html)
 
 ### BleepingComputer
 
+- [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
+- [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
+- [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 - [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 - [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
 - [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/)
 - [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/)
 - [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/)
-- [OpenAI confirms security breach in TanStack supply chain attack](https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/)
-- [Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/)
-- [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/)
 
 ### Krebs on Security
 
@@ -53,13 +53,14 @@
 - [Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 - [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
 - [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited)
+- [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
 - ['FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine)
 - [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death)
 - [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis)
-- [Checkbox Assessments Aren't Fit to Measure Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk)
 
 ### Security Week
 
+- [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
 - [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
 - [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
 - [OpenAI Hit by TanStack Supply Chain Attack](https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/)
@@ -67,7 +68,6 @@
 - [Chrome 148 Update Patches Critical Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/)
 - [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
 - [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
-- [New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation](https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-15 13:54",
+  "last_updated": "2026-05-15 16:00",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,76 @@
     "cve 2026 20182",
     "twitter whistleblower complaint",
     "three bullet trains",
+    "extract sensitive information",
+    "avada builder plugin",
     "aggravated identity theft",
+    "130 companies tangled",
     "admin access exploits",
-    "national security risk",
+    "ai data centers",
     "zero sum game",
     "supply chain attacks",
     "finding security vulnerabilities",
-    "ai data centers",
-    "cve 2026 46300",
     "cve 2026 42897",
     "write arbitrary files",
     "wire fraud conspiracy",
     "various browser components",
     "united states today",
-    "underlying operating system",
-    "u s cybersecurity"
+    "underlying operating system"
   ],
   "trending": [
     {
       "keyword": "third party ecosystems",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "remote code execution",
-      "mentions": 353
+      "mentions": 354
     },
     {
       "keyword": "cve 2026 20182",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1633
+      "mentions": 1634
     },
     {
       "keyword": "three bullet trains",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "extract sensitive information",
+      "mentions": 1
+    },
+    {
+      "keyword": "avada builder plugin",
+      "mentions": 1
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 142
+      "mentions": 143
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 292
     },
     {
       "keyword": "admin access exploits",
-      "mentions": 3
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 180
-    },
-    {
-      "keyword": "zero sum game",
-      "mentions": 8
-    },
-    {
-      "keyword": "supply chain attacks",
-      "mentions": 33
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
+      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
+      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
+      "published": "Fri, 15 May 2026 19:05:04 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Privilege escalation ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
@@ -153,15 +164,31 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
-      "summary": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057",
-      "published": "Thu, 14 May 2026 19:30:37 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "BleepingComputer",
+      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
+      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
+      "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
+      "published": "Fri, 15 May 2026 11:56:56 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
+      "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
+      "published": "Fri, 15 May 2026 10:49:39 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
+      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
+      "published": "Fri, 15 May 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -223,40 +250,6 @@
         "Active exploitation",
         "Auth bypass",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI confirms security breach in TanStack supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/",
-      "summary": "OpenAI says two employees' devices were breached in the recent TanStack supply chain attack that impacted hundreds of npm and PyPI packages, causing the company to rotate code-signing certificates for its applications as a precaution. [...]",
-      "published": "Thu, 14 May 2026 15:07:24 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-      "summary": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
-      "published": "Thu, 14 May 2026 14:53:50 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "summary": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
-      "published": "Thu, 14 May 2026 11:43:41 -0400",
-      "value_score": 56,
-      "value_signals": [
-        "RCE ×2",
         "Exploit wording"
       ]
     },
@@ -390,6 +383,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Congress Puts Heat on Instructure After Canvas Outage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an \"agreement\" with the ShinyHunters cybercriminals.",
+      "published": "Thu, 14 May 2026 20:19:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
       "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
@@ -420,13 +422,15 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Checkbox Assessments Aren't Fit to Measure Risk",
-      "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
-      "summary": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
-      "published": "Wed, 13 May 2026 21:17:07 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
+      "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas. The post In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws appeared first on SecurityWeek .",
+      "published": "Fri, 15 May 2026 14:52:16 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "Security Week",
@@ -506,19 +510,6 @@
       "published": "Thu, 14 May 2026 14:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
-      "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
-      "summary": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 13:44:46 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

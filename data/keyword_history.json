@@ -278,7 +278,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1633,
+      "count": 1634,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -685,7 +685,7 @@
       ]
     },
     "remote code execution": {
-      "count": 353,
+      "count": 354,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2323,7 +2323,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 291,
+      "count": 292,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2362,7 +2362,8 @@
         "2026-05-10",
         "2026-05-11",
         "2026-05-12",
-        "2026-05-13"
+        "2026-05-13",
+        "2026-05-15"
       ]
     },
     "corporate data stolen": {
@@ -2397,7 +2398,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -5284,7 +5285,7 @@
       ]
     },
     "underlying operating system": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-28",
         "2026-05-14",
@@ -7280,7 +7281,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -7982,7 +7983,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13872,7 +13873,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15732,7 +15733,7 @@
       ]
     },
     "united states today": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16025,7 +16026,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16200,7 +16201,7 @@
       ]
     },
     "zero sum game": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-14",
         "2026-05-15"
@@ -16251,27 +16252,27 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "third party ecosystems": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-14",
         "2026-05-15"
       ]
     },
     "three bullet trains": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-15"
       ]
     },
     "admin access exploits": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-15"
       ]
@@ -16295,19 +16296,19 @@
       ]
     },
     "ai data centers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-15"
       ]
     },
     "cve 2026 42897": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-15"
       ]
     },
     "various browser components": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-15"
       ]
@@ -16317,20 +16318,21 @@
       "dates": [
         "2026-05-15"
       ]
+    },
+    "extract sensitive information": {
+      "count": 1,
+      "dates": [
+        "2026-05-15"
+      ]
+    },
+    "avada builder plugin": {
+      "count": 1,
+      "dates": [
+        "2026-05-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-04 10:09",
-      "articles": 56,
-      "top_keywords": [
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "specially crafted message",
-        "aggravated identity theft",
-        "massive ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-04 13:47",
       "articles": 56,
@@ -17411,6 +17413,17 @@
     },
     {
       "timestamp": "2026-05-15 13:54",
+      "articles": 56,
+      "top_keywords": [
+        "third party ecosystems",
+        "remote code execution",
+        "cve 2026 20182",
+        "twitter whistleblower complaint",
+        "three bullet trains"
+      ]
+    },
+    {
+      "timestamp": "2026-05-15 16:00",
       "articles": 56,
       "top_keywords": [
         "third party ecosystems",

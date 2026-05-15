@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-14 22:52",
+  "last_updated": "2026-05-15 02:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,6 +8,7 @@
     "aggravated identity theft",
     "cve 2026 20182",
     "twitter whistleblower complaint",
+    "three bullet trains",
     "gain persistent access",
     "national security risk",
     "zero trust portfolio",
@@ -21,49 +22,48 @@
     "wire fraud conspiracy",
     "united states today",
     "underlying operating system",
-    "targeted asian entities",
-    "service's login page"
+    "targeted asian entities"
   ],
   "trending": [
     {
       "keyword": "mythos proves potent",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "remote code execution",
-      "mentions": 349
+      "mentions": 350
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 138
+      "mentions": 139
     },
     {
       "keyword": "cve 2026 20182",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1629
-    },
-    {
-      "keyword": "gain persistent access",
       "mentions": 3
     },
     {
-      "keyword": "national security risk",
-      "mentions": 176
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1630
     },
     {
-      "keyword": "zero trust portfolio",
-      "mentions": 5
+      "keyword": "three bullet trains",
+      "mentions": 1
     },
     {
-      "keyword": "zero sum game",
+      "keyword": "gain persistent access",
       "mentions": 4
     },
     {
-      "keyword": "supply chain attacks",
-      "mentions": 30
+      "keyword": "national security risk",
+      "mentions": 177
+    },
+    {
+      "keyword": "zero trust portfolio",
+      "mentions": 6
+    },
+    {
+      "keyword": "zero sum game",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -349,6 +349,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems",
+      "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
+      "summary": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
+      "published": "Fri, 15 May 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
       "link": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
       "summary": "The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.",
@@ -416,18 +425,6 @@
       "published": "Wed, 13 May 2026 21:09:20 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
-      "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
-      "summary": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.",
-      "published": "Wed, 13 May 2026 20:47:46 GMT",
-      "value_score": 40,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",

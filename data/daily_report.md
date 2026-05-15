@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-14 22:52 UTC  
+> **Last Updated:** 2026-05-15 02:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **cve 2026 20182** • **twitter whistleblower complaint** • **gain persistent access** • **national security risk** • **zero trust portfolio** • **zero sum game** • **supply chain attacks** • **massive ddos attacks** • **third party ecosystems** • **cve 2026 46300** • **finding security vulnerabilities** • **write arbitrary files** • **wire fraud conspiracy** • **united states today** • **underlying operating system** • **targeted asian entities** • **service's login page**
+**mythos proves potent** • **remote code execution** • **aggravated identity theft** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **gain persistent access** • **national security risk** • **zero trust portfolio** • **zero sum game** • **supply chain attacks** • **massive ddos attacks** • **third party ecosystems** • **cve 2026 46300** • **finding security vulnerabilities** • **write arbitrary files** • **wire fraud conspiracy** • **united states today** • **underlying operating system** • **targeted asian entities**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Taiwan Incident Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 - [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
 - [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited)
 - ['FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine)
@@ -56,7 +57,6 @@
 - [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis)
 - [Checkbox Assessments Aren't Fit to Measure Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk)
 - [Attackers Weaponize RubyGems for Data Dead Drops](https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops)
-- [Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak](https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak)
 
 ### Security Week
 

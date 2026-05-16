@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 464,
+      "count": 465,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -280,7 +280,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1638,
+      "count": 1639,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -688,7 +688,7 @@
       ]
     },
     "remote code execution": {
-      "count": 358,
+      "count": 359,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2327,7 +2327,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 296,
+      "count": 297,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2403,7 +2403,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7989,7 +7989,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13880,7 +13880,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15741,7 +15741,7 @@
       ]
     },
     "united states today": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16035,7 +16035,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16211,7 +16211,7 @@
       ]
     },
     "zero sum game": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16263,7 +16263,7 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16271,7 +16271,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16279,7 +16279,7 @@
       ]
     },
     "three bullet trains": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16310,21 +16310,21 @@
       ]
     },
     "ai data centers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "cve 2026 42897": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "various browser components": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16337,7 +16337,7 @@
       ]
     },
     "extract sensitive information": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16350,7 +16350,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16363,14 +16363,14 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "woocommerce checkout pages": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16378,17 +16378,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-04 21:03",
-      "articles": 56,
-      "top_keywords": [
-        "digicert revokes certificates",
-        "iran's intelligence agencies",
-        "specially crafted message",
-        "moveit automation including",
-        "service ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-04 22:52",
       "articles": 56,
@@ -17469,6 +17458,17 @@
     },
     {
       "timestamp": "2026-05-16 02:30",
+      "articles": 56,
+      "top_keywords": [
+        "third party ecosystems",
+        "custom backdoor kazuar",
+        "remote code execution",
+        "cve 2026 20182",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-16 06:17",
       "articles": 56,
       "top_keywords": [
         "third party ecosystems",

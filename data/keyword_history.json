@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 467,
+      "count": 468,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -280,7 +280,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1641,
+      "count": 1642,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -688,7 +688,7 @@
       ]
     },
     "remote code execution": {
-      "count": 361,
+      "count": 362,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2327,7 +2327,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 299,
+      "count": 300,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2403,7 +2403,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7989,7 +7989,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13880,7 +13880,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16035,7 +16035,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16263,7 +16263,7 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16271,7 +16271,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16279,7 +16279,7 @@
       ]
     },
     "three bullet trains": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16317,14 +16317,14 @@
       ]
     },
     "cve 2026 42897": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "various browser components": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16337,7 +16337,7 @@
       ]
     },
     "extract sensitive information": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16350,7 +16350,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16363,50 +16363,39 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "woocommerce checkout pages": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "poc code published": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-16"
       ]
     },
     "newly published versions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-16"
       ]
     },
     "longer looks like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-05 06:11",
-      "articles": 56,
-      "top_keywords": [
-        "digicert revokes certificates",
-        "iran's intelligence agencies",
-        "specially crafted message",
-        "service ddos attacks",
-        "moveit automation including"
-      ]
-    },
     {
       "timestamp": "2026-05-05 09:57",
       "articles": 56,
@@ -17487,6 +17476,17 @@
     },
     {
       "timestamp": "2026-05-16 10:58",
+      "articles": 56,
+      "top_keywords": [
+        "third party ecosystems",
+        "custom backdoor kazuar",
+        "remote code execution",
+        "poc code published",
+        "cve 2026 20182"
+      ]
+    },
+    {
+      "timestamp": "2026-05-16 13:11",
       "articles": 56,
       "top_keywords": [
         "third party ecosystems",

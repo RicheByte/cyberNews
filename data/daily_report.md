@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-16 20:40 UTC  
+> **Last Updated:** 2026-05-16 22:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**custom backdoor kazuar** • **third party ecosystems** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **stealing payment data** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **malicious cyber actors** • **poc code published** • **funnel builder flaw** • **official cve identifier** • **supply chain attacks** • **longer looks like** • **cve 2026 42897** • **security startups exceeded** • **homeland security sent**
+**custom backdoor kazuar** • **third party ecosystems** • **remote code execution** • **twitter whistleblower complaint** • **stealing payment data** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **malicious cyber actors** • **poc code published** • **funnel builder flaw** • **supply chain attacks** • **longer looks like** • **security startups exceeded** • **homeland security sent** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft rejects critical Azure vulnerability report, no CVE issued](https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/)
 - [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
 - [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 - [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
@@ -34,7 +35,6 @@
 - [Avada Builder WordPress plugin flaws allow site credential theft](https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/)
 - [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
 - [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
-- [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
 
 ### Krebs on Security
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 469,
+      "count": 470,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -280,7 +280,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1643,
+      "count": 1644,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -688,7 +688,7 @@
       ]
     },
     "remote code execution": {
-      "count": 363,
+      "count": 364,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2327,7 +2327,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 301,
+      "count": 302,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7287,7 +7287,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13881,7 +13881,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16036,7 +16036,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16264,7 +16264,7 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16272,7 +16272,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16299,9 +16299,10 @@
       ]
     },
     "security startups exceeded": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "changing transportation security": {
@@ -16318,7 +16319,7 @@
       ]
     },
     "cve 2026 42897": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16338,7 +16339,7 @@
       ]
     },
     "extract sensitive information": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16351,7 +16352,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16364,7 +16365,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16378,7 +16379,7 @@
       ]
     },
     "poc code published": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-16"
       ]
@@ -16390,24 +16391,37 @@
       ]
     },
     "longer looks like": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-05-16"
+      ]
+    },
+    "stealing payment data": {
+      "count": 1,
+      "dates": [
+        "2026-05-16"
+      ]
+    },
+    "funnel builder flaw": {
+      "count": 1,
+      "dates": [
+        "2026-05-16"
+      ]
+    },
+    "official cve identifier": {
+      "count": 1,
+      "dates": [
+        "2026-05-16"
+      ]
+    },
+    "homeland security sent": {
+      "count": 1,
       "dates": [
         "2026-05-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-05 11:15",
-      "articles": 56,
-      "top_keywords": [
-        "digicert revokes certificates",
-        "moveit automation including",
-        "iran's intelligence agencies",
-        "service ddos attacks",
-        "legitimate remote monitoring"
-      ]
-    },
     {
       "timestamp": "2026-05-05 15:49",
       "articles": 56,
@@ -17495,6 +17509,17 @@
         "remote code execution",
         "poc code published",
         "cve 2026 20182"
+      ]
+    },
+    {
+      "timestamp": "2026-05-16 16:53",
+      "articles": 56,
+      "top_keywords": [
+        "custom backdoor kazuar",
+        "third party ecosystems",
+        "remote code execution",
+        "cve 2026 20182",
+        "twitter whistleblower complaint"
       ]
     }
   ]

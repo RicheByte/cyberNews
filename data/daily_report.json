@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-05-16 14:51",
+  "last_updated": "2026-05-16 16:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "custom backdoor kazuar",
     "third party ecosystems",
     "remote code execution",
-    "poc code published",
     "cve 2026 20182",
     "twitter whistleblower complaint",
-    "three bullet trains",
+    "stealing payment data",
     "extract sensitive information",
     "aggravated identity theft",
     "130 companies tangled",
     "finding security vulnerabilities",
     "exploiting obscure vulnerabilities",
-    "supply chain attacks",
-    "newly published versions",
-    "cve 2026 42897",
     "malicious cyber actors",
+    "poc code published",
+    "funnel builder flaw",
+    "official cve identifier",
+    "supply chain attacks",
     "longer looks like",
-    "write arbitrary files",
-    "woocommerce checkout pages",
-    "wire fraud conspiracy"
+    "cve 2026 42897",
+    "security startups exceeded",
+    "homeland security sent"
   ],
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 9
-    },
-    {
-      "keyword": "third party ecosystems",
-      "mentions": 16
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 363
-    },
-    {
-      "keyword": "poc code published",
-      "mentions": 3
-    },
-    {
-      "keyword": "cve 2026 20182",
-      "mentions": 16
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1643
-    },
-    {
-      "keyword": "three bullet trains",
-      "mentions": 14
-    },
-    {
-      "keyword": "extract sensitive information",
       "mentions": 10
     },
     {
+      "keyword": "third party ecosystems",
+      "mentions": 17
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 364
+    },
+    {
+      "keyword": "cve 2026 20182",
+      "mentions": 17
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1644
+    },
+    {
+      "keyword": "stealing payment data",
+      "mentions": 1
+    },
+    {
+      "keyword": "extract sensitive information",
+      "mentions": 11
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 152
+      "mentions": 153
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 301
+      "mentions": 302
+    },
+    {
+      "keyword": "finding security vulnerabilities",
+      "mentions": 25
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+      "published": "Sat, 16 May 2026 20:50:48 +0530",
+      "value_score": 49,
+      "value_signals": [
+        "Active exploitation",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
@@ -151,17 +164,6 @@
         "Active exploitation",
         "Auth bypass ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets",
-      "link": "https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html",
-      "summary": "Cybersecurity researchers are sounding the alarm about what has been described as \"malicious activity\" in newly published versions of node-ipc. According to Socket and StepSecurity, three different versions of the npm package have been confirmed as malicious - node-ipc@9.1.6 node-ipc@9.2.3 node-ipc@12.0.1 \"Early analysis indicates that node-ipc@9.1.6, node-ipc@9.2.3, and node-ipc@12.0.1",
-      "published": "Thu, 14 May 2026 22:52:43 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {

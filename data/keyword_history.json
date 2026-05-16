@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-04-16",
     "2026-04-17",
     "2026-04-18",
     "2026-04-19",
@@ -29,7 +28,8 @@
     "2026-05-12",
     "2026-05-13",
     "2026-05-14",
-    "2026-05-15"
+    "2026-05-15",
+    "2026-05-16"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 463,
+      "count": 464,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -151,7 +151,8 @@
         "2026-05-01",
         "2026-05-11",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "user named csnemess": {
@@ -279,7 +280,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1637,
+      "count": 1638,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -430,7 +431,8 @@
         "2026-05-12",
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "supposed wayward package": {
@@ -686,7 +688,7 @@
       ]
     },
     "remote code execution": {
-      "count": 357,
+      "count": 358,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -744,7 +746,8 @@
         "2026-05-12",
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "attacker remotely control": {
@@ -2324,7 +2327,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 295,
+      "count": 296,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2364,7 +2367,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-05-13",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "corporate data stolen": {
@@ -2399,12 +2403,13 @@
       ]
     },
     "write arbitrary files": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-06",
         "2026-01-07",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "supply chain risks": {
@@ -7984,7 +7989,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8004,7 +8009,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "unfortunately named toolkit": {
@@ -13874,7 +13880,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13895,7 +13901,8 @@
         "2026-05-12",
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "prompts land cleanly": {
@@ -15734,13 +15741,14 @@
       ]
     },
     "united states today": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-08",
         "2026-05-11",
         "2026-05-12",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "provided fake data": {
@@ -16027,11 +16035,12 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "released security patches": {
@@ -16202,10 +16211,11 @@
       ]
     },
     "zero sum game": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "model agnostic system": {
@@ -16253,23 +16263,26 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "third party ecosystems": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "three bullet trains": {
-      "count": 8,
+      "count": 9,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "admin access exploits": {
@@ -16297,21 +16310,24 @@
       ]
     },
     "ai data centers": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "cve 2026 42897": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "various browser components": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "u s cybersecurity": {
@@ -16321,9 +16337,10 @@
       ]
     },
     "extract sensitive information": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "avada builder plugin": {
@@ -16333,9 +16350,10 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "taiwanese student experimenting": {
@@ -16345,30 +16363,21 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "woocommerce checkout pages": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-04 19:21",
-      "articles": 56,
-      "top_keywords": [
-        "digicert revokes certificates",
-        "iran's intelligence agencies",
-        "specially crafted message",
-        "moveit automation including",
-        "service ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-04 21:03",
       "articles": 56,
@@ -17449,6 +17458,17 @@
     },
     {
       "timestamp": "2026-05-15 22:50",
+      "articles": 56,
+      "top_keywords": [
+        "third party ecosystems",
+        "custom backdoor kazuar",
+        "remote code execution",
+        "cve 2026 20182",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-16 02:30",
       "articles": 56,
       "top_keywords": [
         "third party ecosystems",

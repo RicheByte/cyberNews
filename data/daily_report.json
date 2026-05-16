@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-16 09:25",
+  "last_updated": "2026-05-16 10:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "third party ecosystems",
     "custom backdoor kazuar",
     "remote code execution",
+    "poc code published",
     "cve 2026 20182",
     "twitter whistleblower complaint",
     "three bullet trains",
     "extract sensitive information",
     "aggravated identity theft",
     "130 companies tangled",
-    "exploiting obscure vulnerabilities",
-    "zero sum game",
     "finding security vulnerabilities",
+    "exploiting obscure vulnerabilities",
+    "newly published versions",
     "cve 2026 42897",
     "malicious cyber actors",
-    "ai data centers",
+    "longer looks like",
     "write arbitrary files",
     "woocommerce checkout pages",
     "wire fraud conspiracy",
-    "various browser components",
-    "united states today"
+    "various browser components"
   ],
   "trending": [
     {
       "keyword": "third party ecosystems",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 6
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 360
-    },
-    {
-      "keyword": "cve 2026 20182",
-      "mentions": 13
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1640
-    },
-    {
-      "keyword": "three bullet trains",
-      "mentions": 11
-    },
-    {
-      "keyword": "extract sensitive information",
       "mentions": 7
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 361
+    },
+    {
+      "keyword": "poc code published",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 20182",
+      "mentions": 14
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1641
+    },
+    {
+      "keyword": "three bullet trains",
+      "mentions": 12
+    },
+    {
+      "keyword": "extract sensitive information",
+      "mentions": 8
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 149
+      "mentions": 150
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 298
-    },
-    {
-      "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 5
+      "mentions": 299
     }
   ],
   "articles": [
@@ -418,6 +418,18 @@
     },
     {
       "source": "Security Week",
+      "title": "PoC Code Published for Critical NGINX Vulnerability",
+      "link": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
+      "summary": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for Critical NGINX Vulnerability appeared first on SecurityWeek .",
+      "published": "Sat, 16 May 2026 10:02:00 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "PoC available ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
       "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas. The post In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws appeared first on SecurityWeek .",
@@ -496,15 +508,6 @@
         "Zero-day ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Enhancing Data Center Security Without Sacrificing Performance",
-      "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
-      "summary": "For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game. The post Enhancing Data Center Security Without Sacrificing Performance appeared first on SecurityWeek .",
-      "published": "Thu, 14 May 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

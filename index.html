@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-05-16 09:25 UTC</span>
+                <span>Last updated: 2026-05-16 10:58 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">third party ecosystems (13) </span><span class="keyword-tag large">custom backdoor kazuar (6) </span><span class="keyword-tag large">remote code execution (360) </span><span class="keyword-tag medium">cve 2026 20182 (13) </span><span class="keyword-tag medium">twitter whistleblower complaint (1640) </span><span class="keyword-tag medium">three bullet trains (11) </span><span class="keyword-tag medium">extract sensitive information (7) </span><span class="keyword-tag small">aggravated identity theft (149) </span><span class="keyword-tag small">130 companies tangled (298) </span><span class="keyword-tag small">exploiting obscure vulnerabilities (5) </span>
+                    <span class="keyword-tag large">third party ecosystems (14) </span><span class="keyword-tag large">custom backdoor kazuar (7) </span><span class="keyword-tag large">remote code execution (361) </span><span class="keyword-tag medium">poc code published (1) </span><span class="keyword-tag medium">cve 2026 20182 (14) </span><span class="keyword-tag medium">twitter whistleblower complaint (1641) </span><span class="keyword-tag medium">three bullet trains (12) </span><span class="keyword-tag small">extract sensitive information (8) </span><span class="keyword-tag small">aggravated identity theft (150) </span><span class="keyword-tag small">130 companies tangled (299) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-05-16 10:58</div>
+            <div class="timeline-content">
+                <strong>56 articles</strong> analyzed
+                <div class="timeline-keywords">third party ecosystems, custom backdoor kazuar, remote code execution</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-05-16 09:25</div>
             <div class="timeline-content">
@@ -583,13 +590,6 @@
         </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-05-15 16:00</div>
-            <div class="timeline-content">
-                <strong>56 articles</strong> analyzed
-                <div class="timeline-keywords">third party ecosystems, remote code execution, cve 2026 20182</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-05-15 13:54</div>
             <div class="timeline-content">
                 <strong>56 articles</strong> analyzed
                 <div class="timeline-keywords">third party ecosystems, remote code execution, cve 2026 20182</div>
@@ -928,6 +928,17 @@
             <div class="article-card" data-source="Security Week">
                 <div class="article-top">
                     <div class="article-source">Security Week</div>
+                    <div class="value-badge value-low">Value 46</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/" target="_blank" rel="noopener">PoC Code Published for Critical NGINX Vulnerability</a>
+                </h3>
+                <p class="article-summary">Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for C...</p>
+                <div class="article-meta">Sat, 16 May 2026 10:02:00</div>
+            </div>
+            <div class="article-card" data-source="Security Week">
+                <div class="article-top">
+                    <div class="article-source">Security Week</div>
                     <div class="value-badge value-low">Value 22</div>
                 </div>
                 <h3 class="article-title">
@@ -968,17 +979,6 @@
                 </h3>
                 <p class="article-summary">Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories. The post OpenAI Hit by TanStack...</p>
                 <div class="article-meta">Fri, 15 May 2026 10:37:00</div>
-            </div>
-            <div class="article-card" data-source="Security Week">
-                <div class="article-top">
-                    <div class="article-source">Security Week</div>
-                    <div class="value-badge value-low">Value 10</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/" target="_blank" rel="noopener">TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code</a>
-                </h3>
-                <p class="article-summary">The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releas...</p>
-                <div class="article-meta">Fri, 15 May 2026 09:47:09</div>
             </div>
             <div class="article-card" data-source="Threatpost">
                 <div class="article-top">
@@ -1146,10 +1146,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["third party ecosyste", "custom backdoor kazu", "remote code executio", "cve 2026 20182", "twitter whistleblowe", "three bullet trains", "extract sensitive in", "aggravated identity ", "130 companies tangle", "exploiting obscure v"],
+                labels: ["third party ecosyste", "custom backdoor kazu", "remote code executio", "poc code published", "cve 2026 20182", "twitter whistleblowe", "three bullet trains", "extract sensitive in", "aggravated identity ", "130 companies tangle"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [13, 6, 360, 13, 1640, 11, 7, 149, 298, 5],
+                    data: [14, 7, 361, 1, 14, 1641, 12, 8, 150, 299],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

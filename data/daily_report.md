@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-16 09:25 UTC  
+> **Last Updated:** 2026-05-16 10:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party ecosystems** • **custom backdoor kazuar** • **remote code execution** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **exploiting obscure vulnerabilities** • **zero sum game** • **finding security vulnerabilities** • **cve 2026 42897** • **malicious cyber actors** • **ai data centers** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy** • **various browser components** • **united states today**
+**third party ecosystems** • **custom backdoor kazuar** • **remote code execution** • **poc code published** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **newly published versions** • **cve 2026 42897** • **malicious cyber actors** • **longer looks like** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy** • **various browser components**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [PoC Code Published for Critical NGINX Vulnerability](https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/)
 - [In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws](https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/)
 - [Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild](https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/)
 - [American Lending Center Data Breach Affects 123,000 Individuals](https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/)
@@ -67,7 +68,6 @@
 - [TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code](https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/)
 - [Chrome 148 Update Patches Critical Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/)
 - [Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/)
-- [Enhancing Data Center Security Without Sacrificing Performance](https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/)
 
 ### Threatpost
 

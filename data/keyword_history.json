@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 468,
+      "count": 469,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -280,7 +280,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1642,
+      "count": 1643,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -688,7 +688,7 @@
       ]
     },
     "remote code execution": {
-      "count": 362,
+      "count": 363,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2327,7 +2327,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 300,
+      "count": 301,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2403,7 +2403,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7287,7 +7287,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -7295,7 +7295,8 @@
         "2026-05-02",
         "2026-05-03",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-16"
       ]
     },
     "canada goose investigating": {
@@ -7989,7 +7990,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13880,7 +13881,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16035,7 +16036,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16263,7 +16264,7 @@
       ]
     },
     "cve 2026 20182": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16271,7 +16272,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16279,7 +16280,7 @@
       ]
     },
     "three bullet trains": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16317,7 +16318,7 @@
       ]
     },
     "cve 2026 42897": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16337,7 +16338,7 @@
       ]
     },
     "extract sensitive information": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16350,7 +16351,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-15",
         "2026-05-16"
@@ -16363,50 +16364,39 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "woocommerce checkout pages": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-15",
         "2026-05-16"
       ]
     },
     "poc code published": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-16"
       ]
     },
     "newly published versions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-16"
       ]
     },
     "longer looks like": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-05 09:57",
-      "articles": 56,
-      "top_keywords": [
-        "digicert revokes certificates",
-        "moveit automation including",
-        "iran's intelligence agencies",
-        "legitimate remote monitoring",
-        "service ddos attacks"
-      ]
-    },
     {
       "timestamp": "2026-05-05 11:15",
       "articles": 56,
@@ -17491,6 +17481,17 @@
       "top_keywords": [
         "third party ecosystems",
         "custom backdoor kazuar",
+        "remote code execution",
+        "poc code published",
+        "cve 2026 20182"
+      ]
+    },
+    {
+      "timestamp": "2026-05-16 14:51",
+      "articles": 56,
+      "top_keywords": [
+        "custom backdoor kazuar",
+        "third party ecosystems",
         "remote code execution",
         "poc code published",
         "cve 2026 20182"

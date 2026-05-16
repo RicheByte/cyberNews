@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-05-16 13:11",
+  "last_updated": "2026-05-16 14:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "third party ecosystems",
     "custom backdoor kazuar",
+    "third party ecosystems",
     "remote code execution",
     "poc code published",
     "cve 2026 20182",
@@ -15,55 +15,55 @@
     "130 companies tangled",
     "finding security vulnerabilities",
     "exploiting obscure vulnerabilities",
+    "supply chain attacks",
     "newly published versions",
     "cve 2026 42897",
     "malicious cyber actors",
     "longer looks like",
     "write arbitrary files",
     "woocommerce checkout pages",
-    "wire fraud conspiracy",
-    "various browser components"
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
-      "keyword": "third party ecosystems",
-      "mentions": 15
-    },
-    {
       "keyword": "custom backdoor kazuar",
-      "mentions": 8
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 362
-    },
-    {
-      "keyword": "poc code published",
-      "mentions": 2
-    },
-    {
-      "keyword": "cve 2026 20182",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1642
-    },
-    {
-      "keyword": "three bullet trains",
-      "mentions": 13
-    },
-    {
-      "keyword": "extract sensitive information",
       "mentions": 9
     },
     {
+      "keyword": "third party ecosystems",
+      "mentions": 16
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 363
+    },
+    {
+      "keyword": "poc code published",
+      "mentions": 3
+    },
+    {
+      "keyword": "cve 2026 20182",
+      "mentions": 16
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1643
+    },
+    {
+      "keyword": "three bullet trains",
+      "mentions": 14
+    },
+    {
+      "keyword": "extract sensitive information",
+      "mentions": 10
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 300
+      "mentions": 301
     }
   ],
   "articles": [
@@ -166,6 +166,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
+      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
+      "published": "Sat, 16 May 2026 10:15:37 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "Backdoor ×2",
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
       "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
@@ -234,18 +246,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft warns of Exchange zero-day flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/",
-      "summary": "On Thursday, Microsoft shared mitigations for a high-severity Exchange Server vulnerability exploited in attacks that allow threat actors to execute arbitrary code via cross-site scripting (XSS) while targeting Outlook on the web users. [...]",
-      "published": "Fri, 15 May 2026 05:40:42 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-16 13:11 UTC  
+> **Last Updated:** 2026-05-16 14:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party ecosystems** • **custom backdoor kazuar** • **remote code execution** • **poc code published** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **newly published versions** • **cve 2026 42897** • **malicious cyber actors** • **longer looks like** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy** • **various browser components**
+**custom backdoor kazuar** • **third party ecosystems** • **remote code execution** • **poc code published** • **cve 2026 20182** • **twitter whistleblower complaint** • **three bullet trains** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **supply chain attacks** • **newly published versions** • **cve 2026 42897** • **malicious cyber actors** • **longer looks like** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Russian hackers turn Kazuar backdoor into modular P2P botnet](https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/)
 - [Funnel Builder WordPress plugin bug exploited to steal credit cards](https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/)
 - [Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own](https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/)
 - [Popular node-ipc npm package compromised to steal credentials](https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/)
@@ -34,7 +35,6 @@
 - [Microsoft backpedals: Edge to stop loading passwords into memory](https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/)
 - [Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution](https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/)
 - [Microsoft to automatically roll back faulty Windows drivers](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-automatically-roll-back-faulty-windows-drivers/)
-- [Microsoft warns of Exchange zero-day flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-exchange-zero-day-flaw-exploited-in-attacks/)
 
 ### Krebs on Security
 

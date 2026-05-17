@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 20:42",
+  "last_updated": "2026-05-17 22:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,7 +7,6 @@
     "remote code execution",
     "third party ecosystems",
     "twitter whistleblower complaint",
-    "stop loading passwords",
     "aggravated identity theft",
     "130 companies tangled",
     "finding security vulnerabilities",
@@ -15,55 +14,56 @@
     "stealing payment data",
     "malicious cyber actors",
     "poc code published",
+    "windows operating systems",
     "tycoon2fa phishing kit",
     "supply chain attacks",
     "funnel builder flaw",
-    "longer looks like",
     "security startups exceeded",
     "homeland security sent",
     "write arbitrary files",
-    "woocommerce checkout pages"
+    "woocommerce checkout pages",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "remote code execution",
-      "mentions": 376
+      "mentions": 377
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1656
-    },
-    {
-      "keyword": "stop loading passwords",
-      "mentions": 4
+      "mentions": 1657
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 314
+      "mentions": 315
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "stealing payment data",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 483
     }
   ],
   "articles": [
@@ -164,6 +164,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
+      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
+      "published": "Sun, 17 May 2026 18:30:08 -0400",
+      "value_score": 88,
+      "value_signals": [
+        "Zero-day ×2",
+        "Privilege escalation",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
       "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
       "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
@@ -237,15 +251,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
       "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
       "published": "Fri, 15 May 2026 11:56:56 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft backpedals: Edge to stop loading passwords into memory",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
-      "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
-      "published": "Fri, 15 May 2026 10:49:39 -0400",
       "value_score": 10,
       "value_signals": []
     },

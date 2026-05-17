@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-17 06:40 UTC  
+> **Last Updated:** 2026-05-17 09:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**custom backdoor kazuar** • **third party ecosystems** • **remote code execution** • **twitter whistleblower complaint** • **stealing payment data** • **extract sensitive information** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **malicious cyber actors** • **poc code published** • **funnel builder flaw** • **supply chain attacks** • **longer looks like** • **security startups exceeded** • **homeland security sent** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy**
+**custom backdoor kazuar** • **remote code execution** • **third party ecosystems** • **twitter whistleblower complaint** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **stealing payment data** • **malicious cyber actors** • **poc code published** • **supply chain attacks** • **funnel builder flaw** • **longer looks like** • **security startups exceeded** • **homeland security sent** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy** • **various browser components**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html)
 - [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html)
 - [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html)
 - [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html)
@@ -23,7 +24,6 @@
 - [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html)
 - [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html)
 - [CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits](https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html)
-- [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html)
 
 ### BleepingComputer
 

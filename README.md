@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-17 06:40 UTC |
+| 🕐 Last Updated | 2026-05-17 09:42 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`custom backdoor kazuar` • `third party ecosystems` • `remote code execution` • `twitter whistleblower complaint` • `stealing payment data` • `extract sensitive information` • `aggravated identity theft` • `130 companies tangled` • `finding security vulnerabilities` • `exploiting obscure vulnerabilities`
+`custom backdoor kazuar` • `remote code execution` • `third party ecosystems` • `twitter whistleblower complaint` • `aggravated identity theft` • `130 companies tangled` • `finding security vulnerabilities` • `exploiting obscure vulnerabilities` • `stealing payment data` • `malicious cyber actors`
 
 ## 📄 Reports
 

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-17 06:40",
+  "last_updated": "2026-05-17 09:42",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "custom backdoor kazuar",
-    "third party ecosystems",
     "remote code execution",
+    "third party ecosystems",
     "twitter whistleblower complaint",
-    "stealing payment data",
-    "extract sensitive information",
     "aggravated identity theft",
     "130 companies tangled",
     "finding security vulnerabilities",
     "exploiting obscure vulnerabilities",
+    "stealing payment data",
     "malicious cyber actors",
     "poc code published",
-    "funnel builder flaw",
     "supply chain attacks",
+    "funnel builder flaw",
     "longer looks like",
     "security startups exceeded",
     "homeland security sent",
     "write arbitrary files",
     "woocommerce checkout pages",
-    "wire fraud conspiracy"
+    "wire fraud conspiracy",
+    "various browser components"
   ],
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 15
-    },
-    {
-      "keyword": "third party ecosystems",
-      "mentions": 22
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 369
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1649
-    },
-    {
-      "keyword": "stealing payment data",
-      "mentions": 6
-    },
-    {
-      "keyword": "extract sensitive information",
       "mentions": 16
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 370
+    },
+    {
+      "keyword": "third party ecosystems",
+      "mentions": 23
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1650
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 158
+      "mentions": 159
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 307
+      "mentions": 308
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "stealing payment data",
+      "mentions": 7
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 476
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
+      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
+      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana said in a series of",
+      "published": "Sun, 17 May 2026 12:43:33 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
@@ -149,20 +160,6 @@
         "CISA/KEV ×5",
         "High severity",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-      "summary": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. \"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
-      "published": "Thu, 14 May 2026 23:15:20 +0530",
-      "value_score": 89,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Auth bypass ×2",
         "Exploit wording"
       ]
     },

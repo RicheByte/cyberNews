@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 476,
+      "count": 477,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -281,7 +281,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1650,
+      "count": 1651,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -690,7 +690,7 @@
       ]
     },
     "remote code execution": {
-      "count": 370,
+      "count": 371,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2330,7 +2330,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2407,7 +2407,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7292,7 +7292,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -7996,7 +7996,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13888,7 +13888,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16044,7 +16044,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16281,7 +16281,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16309,7 +16309,7 @@
       ]
     },
     "security startups exceeded": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16337,7 +16337,7 @@
       ]
     },
     "various browser components": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16365,7 +16365,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16379,7 +16379,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16387,7 +16387,7 @@
       ]
     },
     "woocommerce checkout pages": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16395,7 +16395,7 @@
       ]
     },
     "poc code published": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16408,21 +16408,21 @@
       ]
     },
     "longer looks like": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "stealing payment data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "funnel builder flaw": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16435,7 +16435,7 @@
       ]
     },
     "homeland security sent": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16443,17 +16443,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-06 06:26",
-      "articles": 56,
-      "top_keywords": [
-        "service ddos attacks",
-        "concept exploits appeared",
-        "authentication bypass flaw",
-        "palo alto networks",
-        "http server including"
-      ]
-    },
     {
       "timestamp": "2026-05-06 10:12",
       "articles": 56,
@@ -17534,6 +17523,17 @@
     },
     {
       "timestamp": "2026-05-17 09:42",
+      "articles": 56,
+      "top_keywords": [
+        "custom backdoor kazuar",
+        "remote code execution",
+        "third party ecosystems",
+        "twitter whistleblower complaint",
+        "aggravated identity theft"
+      ]
+    },
+    {
+      "timestamp": "2026-05-17 11:00",
       "articles": 56,
       "top_keywords": [
         "custom backdoor kazuar",

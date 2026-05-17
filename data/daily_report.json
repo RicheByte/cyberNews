@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 14:51",
+  "last_updated": "2026-05-17 16:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,46 +27,61 @@
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "remote code execution",
-      "mentions": 373
+      "mentions": 374
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1653
+      "mentions": 1654
     },
     {
       "keyword": "stop loading passwords",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 162
+      "mentions": 163
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 311
+      "mentions": 312
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "stealing payment data",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+      "published": "Sun, 17 May 2026 17:27:53 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "RCE",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
@@ -143,22 +158,6 @@
       "value_signals": [
         "CVE mentioned ×2",
         "Active exploitation",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "summary": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
-      "published": "Fri, 15 May 2026 10:58:03 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Auth bypass",
-        "CISA/KEV ×5",
-        "High severity",
         "Multiple CVEs",
         "Exploit wording"
       ]

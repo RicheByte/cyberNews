@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 479,
+      "count": 480,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -281,7 +281,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1653,
+      "count": 1654,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -690,7 +690,7 @@
       ]
     },
     "remote code execution": {
-      "count": 373,
+      "count": 374,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2330,7 +2330,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 311,
+      "count": 312,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2407,7 +2407,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7292,7 +7292,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13888,7 +13888,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16044,7 +16044,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16281,7 +16281,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16309,7 +16309,7 @@
       ]
     },
     "security startups exceeded": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16365,7 +16365,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16379,7 +16379,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16387,7 +16387,7 @@
       ]
     },
     "woocommerce checkout pages": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16395,7 +16395,7 @@
       ]
     },
     "poc code published": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16408,21 +16408,21 @@
       ]
     },
     "longer looks like": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "stealing payment data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "funnel builder flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16435,37 +16435,26 @@
       ]
     },
     "homeland security sent": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "stop loading passwords": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-17"
       ]
     },
     "tycoon2fa phishing kit": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-06 16:00",
-      "articles": 56,
-      "top_keywords": [
-        "critical severity vulnerabilities",
-        "remote code execution",
-        "pixel binary transparency",
-        "iran's intelligence agencies",
-        "false flag operation"
-      ]
-    },
     {
       "timestamp": "2026-05-06 17:48",
       "articles": 56,
@@ -17546,6 +17535,17 @@
     },
     {
       "timestamp": "2026-05-17 14:51",
+      "articles": 56,
+      "top_keywords": [
+        "custom backdoor kazuar",
+        "remote code execution",
+        "third party ecosystems",
+        "twitter whistleblower complaint",
+        "stop loading passwords"
+      ]
+    },
+    {
+      "timestamp": "2026-05-17 16:52",
       "articles": 56,
       "top_keywords": [
         "custom backdoor kazuar",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 13:08",
+  "last_updated": "2026-05-17 14:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,6 +7,7 @@
     "remote code execution",
     "third party ecosystems",
     "twitter whistleblower complaint",
+    "stop loading passwords",
     "aggravated identity theft",
     "130 companies tangled",
     "finding security vulnerabilities",
@@ -14,56 +15,55 @@
     "stealing payment data",
     "malicious cyber actors",
     "poc code published",
+    "tycoon2fa phishing kit",
     "supply chain attacks",
     "funnel builder flaw",
     "longer looks like",
     "security startups exceeded",
     "homeland security sent",
     "write arbitrary files",
-    "woocommerce checkout pages",
-    "wire fraud conspiracy",
-    "various browser components"
+    "woocommerce checkout pages"
   ],
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "remote code execution",
-      "mentions": 372
+      "mentions": 373
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1652
+      "mentions": 1653
+    },
+    {
+      "keyword": "stop loading passwords",
+      "mentions": 1
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 161
+      "mentions": 162
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 310
+      "mentions": 311
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "stealing payment data",
-      "mentions": 9
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 478
+      "mentions": 10
     }
   ],
   "articles": [
@@ -165,6 +165,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "published": "Sun, 17 May 2026 10:43:10 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
       "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
@@ -236,15 +247,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-edge-to-stop-loading-cleartext-passwords-in-memory-on-startup/",
       "summary": "Microsoft is updating the Edge web browser to ensure it no longer loads saved passwords into process memory in clear text at startup after previously stating it was \"by design.\" [...]",
       "published": "Fri, 15 May 2026 10:49:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside the REMUS Infostealer: Session Theft, MaaS, and Rapid Evolution",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-remus-infostealer-session-theft-maas-and-rapid-evolution/",
-      "summary": "Stolen browser sessions and authentication tokens are becoming more valuable than stolen passwords. Flare explains how the REMUS infostealer evolved around session theft and operational scalability. [...]",
-      "published": "Fri, 15 May 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
     },

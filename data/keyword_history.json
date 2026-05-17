@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 478,
+      "count": 479,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -281,7 +281,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1652,
+      "count": 1653,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -690,7 +690,7 @@
       ]
     },
     "remote code execution": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2330,7 +2330,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 310,
+      "count": 311,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2407,7 +2407,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -7292,7 +7292,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13888,7 +13888,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16044,7 +16044,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16281,7 +16281,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16309,7 +16309,7 @@
       ]
     },
     "security startups exceeded": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16365,7 +16365,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16379,7 +16379,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16387,7 +16387,7 @@
       ]
     },
     "woocommerce checkout pages": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16395,7 +16395,7 @@
       ]
     },
     "poc code published": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16408,21 +16408,21 @@
       ]
     },
     "longer looks like": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "stealing payment data": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-16",
         "2026-05-17"
       ]
     },
     "funnel builder flaw": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-16",
         "2026-05-17"
@@ -16435,25 +16435,26 @@
       ]
     },
     "homeland security sent": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-16",
+        "2026-05-17"
+      ]
+    },
+    "stop loading passwords": {
+      "count": 1,
+      "dates": [
+        "2026-05-17"
+      ]
+    },
+    "tycoon2fa phishing kit": {
+      "count": 1,
+      "dates": [
         "2026-05-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-06 13:55",
-      "articles": 56,
-      "top_keywords": [
-        "critical severity vulnerabilities",
-        "palo alto networks",
-        "remote code execution",
-        "pixel binary transparency",
-        "captive portal service"
-      ]
-    },
     {
       "timestamp": "2026-05-06 16:00",
       "articles": 56,
@@ -17541,6 +17542,17 @@
         "third party ecosystems",
         "twitter whistleblower complaint",
         "aggravated identity theft"
+      ]
+    },
+    {
+      "timestamp": "2026-05-17 14:51",
+      "articles": 56,
+      "top_keywords": [
+        "custom backdoor kazuar",
+        "remote code execution",
+        "third party ecosystems",
+        "twitter whistleblower complaint",
+        "stop loading passwords"
       ]
     }
   ]

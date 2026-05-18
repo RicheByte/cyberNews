@@ -1,72 +1,128 @@
 {
-  "last_updated": "2026-05-18 07:57",
+  "last_updated": "2026-05-18 11:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "custom backdoor kazuar",
+    "nuclear weapons simulations",
     "remote code execution",
     "third party ecosystems",
+    "shinyhunters scattered spider",
     "twitter whistleblower complaint",
-    "supply chain attacks",
+    "pre stuxnet tool",
     "aggravated identity theft",
     "130 companies tangled",
     "1 30 0",
-    "finding security vulnerabilities",
-    "exploiting obscure vulnerabilities",
-    "windows operating systems",
-    "malicious cyber actors",
+    "grafana confirms breach",
+    "unauthorized party obtained",
     "tycoon2fa phishing kit",
+    "nuclear weapon design",
+    "supply chain attacks",
+    "client side attacks",
+    "underlying operating system",
+    "exploiting obscure vulnerabilities",
     "poc code published",
-    "homeland security sent",
-    "write arbitrary files",
-    "woocommerce checkout pages",
-    "wire fraud conspiracy",
-    "united states today",
-    "underlying operating system"
+    "finding security vulnerabilities",
+    "slip malicious code"
   ],
   "trending": [
     {
-      "keyword": "custom backdoor kazuar",
-      "mentions": 25
+      "keyword": "nuclear weapons simulations",
+      "mentions": 1
     },
     {
       "keyword": "remote code execution",
-      "mentions": 379
+      "mentions": 380
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 32
+      "mentions": 33
+    },
+    {
+      "keyword": "shinyhunters scattered spider",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1659
+      "mentions": 1660
     },
     {
-      "keyword": "supply chain attacks",
-      "mentions": 52
+      "keyword": "pre stuxnet tool",
+      "mentions": 1
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 168
+      "mentions": 169
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 317
+      "mentions": 318
     },
     {
       "keyword": "1 30 0",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "finding security vulnerabilities",
-      "mentions": 40
-    },
-    {
-      "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 24
+      "keyword": "grafana confirms breach",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Developer Workstations Are Now Part of the Software Supply Chain",
+      "link": "https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html",
+      "summary": "Supply chain attackers are not only trying to slip malicious code into trusted software. They are trying to steal the access that makes trusted software possible. Recently, three separate campaigns hit npm, PyPI, and Docker Hub in a 48-hour window, and all three targeted secrets from developer environments and CI/CD pipelines, including API keys, cloud credentials, SSH keys, and tokens. This is",
+      "published": "Mon, 18 May 2026 16:53:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
+      "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
+      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks. \"External control of a file name",
+      "published": "Mon, 18 May 2026 16:24:05 +0530",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Privilege escalation",
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
+      "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
+      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
+      "published": "Mon, 18 May 2026 14:27:34 +0530",
+      "value_score": 69,
+      "value_signals": [
+        "Zero-day",
+        "Privilege escalation ×2",
+        "PoC available"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
+      "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
+      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axois-utils (963 Downloads) color-style-utils (934 Downloads) \"One of the packages (chalk-tempalte)",
+      "published": "Mon, 18 May 2026 14:27:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
+      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
+      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. \"Fast16's hook engine is selectively interested in",
+      "published": "Mon, 18 May 2026 12:16:37 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
@@ -107,59 +163,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access",
-      "link": "https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html",
-      "summary": "The Russian state-sponsored hacking group known as Turla has transformed its custom backdoor Kazuar into a modular peer-to-peer (P2P) botnet that's engineered for stealth and persistent access to compromised hosts. Turla, per the U.S. Cybersecurity and Infrastructure Security Agency (CISA), is assessed to be affiliated with Center 16 of Russia's Federal Security Service (FSB)",
-      "published": "Fri, 15 May 2026 22:40:25 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "Backdoor ×2",
-        "Botnet ×2",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
-      "link": "https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html",
-      "summary": "Cybersecurity researchers have disclosed a set of four security flaws in OpenClaw that could be chained to achieve data theft, privilege escalation, and persistence. The vulnerabilities, collectively dubbed Claw Chain by Cyera, can permit an attacker to establish a foothold, expose sensitive data, and plant backdoors. A brief description of the flaws is below -",
-      "published": "Fri, 15 May 2026 19:05:04 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Privilege escalation ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface",
-      "link": "https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html",
-      "summary": "In Your Biggest Security Risk Isn't Malware — It's What You Already Trust, we made a simple argument: the most dangerous activity inside most organizations no longer looks like an attack. It looks like administration. PowerShell, WMIC, netsh, Certutil, MSBuild — the same trusted utilities your IT team uses every day are also the preferred toolkit of modern threat actors. Bitdefender's analysis",
-      "published": "Fri, 15 May 2026 16:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft testing adjustable taskbar, Start menu in Windows 11",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/",
+      "summary": "Microsoft has finally brought back the resizable taskbar and Start menu to Windows 11 in the latest preview version rolling out to Insiders in the Experimental channel. [...]",
+      "published": "Mon, 18 May 2026 07:14:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "summary": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
-      "published": "Fri, 15 May 2026 16:24:44 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "summary": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. \"",
-      "published": "Fri, 15 May 2026 11:49:04 +0530",
-      "value_score": 85,
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms Windows 11 security update install issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
+      "summary": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
+      "published": "Mon, 18 May 2026 04:33:14 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Patch/update ×2"
       ]
     },
     {
@@ -233,31 +253,6 @@
       "value_signals": [
         "Backdoor ×2",
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/funnel-builder-wordpress-plugin-bug-exploited-to-steal-credit-cards/",
-      "summary": "A critical vulnerability in the Funnel Builder plugin for WordPress is being actively exploited to inject malicious JavaScript snippets into WooCommerce checkout pages. [...]",
-      "published": "Fri, 15 May 2026 15:30:33 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Exchange, Windows 11 hacked on second day of Pwn2Own",
-      "link": "https://www.bleepingcomputer.com/news/security/pwn2own-day-two-hackers-demo-microsoft-exchange-windows-11-red-had-enterprise-linux-zero-days/",
-      "summary": "​During the second day of Pwn2Own Berlin 2026, competitors collected $385,750 in cash awards after exploiting 15 unique zero-day vulnerabilities in multiple products, including Windows 11, Microsoft Exchange, and Red Hat Enterprise Linux for Workstations. [...]",
-      "published": "Fri, 15 May 2026 13:47:25 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
       ]
     },
     {
@@ -371,6 +366,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Congress Puts Heat on Instructure After Canvas Outage",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
+      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an \"agreement\" with the ShinyHunters cybercriminals.",
+      "published": "Fri, 15 May 2026 20:19:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cyber Pioneers Ponder Past as Prologue",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
       "summary": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
@@ -410,15 +414,6 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Congress Puts Heat on Instructure After Canvas Outage",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
-      "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an \"agreement\" with the ShinyHunters cybercriminals.",
-      "published": "Thu, 14 May 2026 20:19:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
       "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
       "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
@@ -426,6 +421,49 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
+      "link": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
+      "summary": "The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. The post 7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 11:25:54 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE",
+      "link": "https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/",
+      "summary": "The researcher dropped the MiniPlasma exploit that uses the original proof-of-concept (PoC) code targeting the bug. The post Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 10:38:22 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "First Shai-Hulud Worm Clones Emerge",
+      "link": "https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/",
+      "summary": "At least one threat actor has adopted the recently released malware source code in attacks against NPM developers. The post First Shai-Hulud Worm Clones Emerge appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 09:45:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
+      "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
+      "summary": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$. The post Grafana Confirms Breach After Hackers Claim They Stole Data appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 08:34:59 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
       ]
     },
     {
@@ -474,51 +512,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild",
-      "link": "https://www.securityweek.com/microsoft-warns-of-exchange-server-zero-day-exploited-in-the-wild/",
-      "summary": "Microsoft has shared mitigations for CVE-2026-42897 until a permanent patch can be released for affected Exchange Server versions. The post Microsoft Warns of Exchange Server Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 12:06:53 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation ×2",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "American Lending Center Data Breach Affects 123,000 Individuals",
-      "link": "https://www.securityweek.com/american-lending-center-data-breach-affects-123000-individuals/",
-      "summary": "The non-bank lender discovered a ransomware attack nearly one year ago, but only recently completed its investigation. The post American Lending Center Data Breach Affects 123,000 Individuals appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 11:06:55 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Hit by TanStack Supply Chain Attack",
-      "link": "https://www.securityweek.com/openai-hit-by-tanstack-supply-chain-attack/",
-      "summary": "Two employee devices were compromised in the attack, and credential material was stolen from OpenAI code repositories. The post OpenAI Hit by TanStack Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 10:37:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code",
-      "link": "https://www.securityweek.com/teampcp-ups-the-game-releases-shai-hulud-worms-source-code/",
-      "summary": "The hacking group is encouraging miscreants to use the code in supply chain attacks, promising monetary rewards. The post TeamPCP Ups the Game, Releases Shai-Hulud Worm’s Source Code appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 09:47:09 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

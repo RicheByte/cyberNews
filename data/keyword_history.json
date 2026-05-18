@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1659,
+      "count": 1660,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -694,7 +694,7 @@
       ]
     },
     "remote code execution": {
-      "count": 379,
+      "count": 380,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2335,7 +2335,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 317,
+      "count": 318,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -5303,7 +5303,7 @@
       ]
     },
     "underlying operating system": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-28",
         "2026-05-14",
@@ -7300,7 +7300,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13898,7 +13898,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -16056,7 +16056,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16294,7 +16294,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16394,7 +16394,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16412,7 +16412,7 @@
       ]
     },
     "poc code published": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-16",
         "2026-05-17",
@@ -16469,31 +16469,68 @@
       ]
     },
     "tycoon2fa phishing kit": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-17",
         "2026-05-18"
       ]
     },
     "1 30 0": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "nuclear weapons simulations": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "shinyhunters scattered spider": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "pre stuxnet tool": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "grafana confirms breach": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "unauthorized party obtained": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "nuclear weapon design": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "client side attacks": {
+      "count": 1,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "slip malicious code": {
+      "count": 1,
       "dates": [
         "2026-05-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-07 06:31",
-      "articles": 56,
-      "top_keywords": [
-        "critical severity vulnerabilities",
-        "pixel binary transparency",
-        "managewp godaddy's platform",
-        "iran's intelligence agencies",
-        "false flag operation"
-      ]
-    },
     {
       "timestamp": "2026-05-07 10:19",
       "articles": 56,
@@ -17581,6 +17618,17 @@
         "third party ecosystems",
         "twitter whistleblower complaint",
         "supply chain attacks"
+      ]
+    },
+    {
+      "timestamp": "2026-05-18 11:44",
+      "articles": 56,
+      "top_keywords": [
+        "nuclear weapons simulations",
+        "remote code execution",
+        "third party ecosystems",
+        "shinyhunters scattered spider",
+        "twitter whistleblower complaint"
       ]
     }
   ]

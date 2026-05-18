@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-18 07:57 UTC |
+| 🕐 Last Updated | 2026-05-18 11:44 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`custom backdoor kazuar` • `remote code execution` • `third party ecosystems` • `twitter whistleblower complaint` • `supply chain attacks` • `aggravated identity theft` • `130 companies tangled` • `1 30 0` • `finding security vulnerabilities` • `exploiting obscure vulnerabilities`
+`nuclear weapons simulations` • `remote code execution` • `third party ecosystems` • `shinyhunters scattered spider` • `twitter whistleblower complaint` • `pre stuxnet tool` • `aggravated identity theft` • `130 companies tangled` • `1 30 0` • `grafana confirms breach`
 
 ## 📄 Reports
 

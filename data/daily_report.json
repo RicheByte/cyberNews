@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-18 11:44",
+  "last_updated": "2026-05-18 15:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nuclear weapons simulations",
-    "remote code execution",
     "third party ecosystems",
+    "remote code execution",
     "shinyhunters scattered spider",
     "twitter whistleblower complaint",
     "pre stuxnet tool",
     "aggravated identity theft",
     "130 companies tangled",
     "1 30 0",
+    "tycoon2fa phishing kit",
+    "reduce phishing exposure",
     "grafana confirms breach",
     "unauthorized party obtained",
-    "tycoon2fa phishing kit",
     "nuclear weapon design",
     "supply chain attacks",
     "client side attacks",
     "underlying operating system",
     "exploiting obscure vulnerabilities",
-    "poc code published",
-    "finding security vulnerabilities",
-    "slip malicious code"
+    "write arbitrary files",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "nuclear weapons simulations",
-      "mentions": 1
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 380
+      "mentions": 2
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 33
+      "mentions": 34
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 381
     },
     {
       "keyword": "shinyhunters scattered spider",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1660
+      "mentions": 1661
     },
     {
       "keyword": "pre stuxnet tool",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 169
+      "mentions": 170
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 318
+      "mentions": 319
     },
     {
       "keyword": "1 30 0",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "grafana confirms breach",
-      "mentions": 1
+      "keyword": "tycoon2fa phishing kit",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
+      "link": "https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html",
+      "summary": "What happens when a phishing email looks clean enough to pass through security, but dangerous enough to expose the business after one click? That is the gap many SOCs still struggle with: the attacks that leave teams unsure what was exposed, who else was targeted, and how far the risk has spread. Early phishing detection closes that gap. It helps teams move from uncertainty to evidence faster,",
+      "published": "Mon, 18 May 2026 18:30:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Developer Workstations Are Now Part of the Software Supply Chain",
@@ -150,17 +161,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
-      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
-      "summary": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
-      "published": "Sat, 16 May 2026 20:50:48 +0530",
-      "value_score": 49,
-      "value_signals": [
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Grafana says stolen GitHub token let hackers steal codebase",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/",
+      "summary": "Grafana Labs disclosed that hackers have downloaded its source code after breaching its GitHub environment using a stolen access token. [...]",
+      "published": "Mon, 18 May 2026 09:46:26 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -241,18 +248,6 @@
       "value_signals": [
         "Patch/update ×2",
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-turn-kazuar-backdoor-into-modular-p2p-botnet/",
-      "summary": "The Russian hacker group Secret Blizzard has developed its long-running Kazuar backdoor into a modular peer-to-peer (P2P) botnet designed for long-term persistence, stealth, and data collection. [...]",
-      "published": "Sat, 16 May 2026 10:15:37 -0400",
-      "value_score": 54,
-      "value_signals": [
-        "Backdoor ×2",
-        "Botnet ×2"
       ]
     },
     {
@@ -425,6 +420,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Millions Impacted Across Several US Healthcare Data Breaches",
+      "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
+      "summary": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker. The post Millions Impacted Across Several US Healthcare Data Breaches appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 12:58:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery",
+      "link": "https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/",
+      "summary": "Four vulnerabilities in OpenClaw can be chained together to steal credentials, escape the sandbox, and plant persistent backdoors. The post ‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 12:14:43 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand",
       "link": "https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/",
       "summary": "The hackers claimed to have stolen more than 600,000 Salesforce records, including personal information and corporate data. The post 7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand appeared first on SecurityWeek .",
@@ -488,29 +503,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "PoC Code Published for Critical NGINX Vulnerability",
-      "link": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
-      "summary": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for Critical NGINX Vulnerability appeared first on SecurityWeek .",
-      "published": "Sat, 16 May 2026 10:02:00 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "PoC available ×2",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
-      "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas. The post In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 14:52:16 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

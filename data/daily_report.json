@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 17:55",
+  "last_updated": "2026-05-18 19:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -10,60 +10,60 @@
     "grafana confirms breach",
     "twitter whistleblower complaint",
     "service's login page",
+    "reduce phishing exposure",
     "pre stuxnet tool",
     "aggravated identity theft",
     "130 companies tangled",
-    "tycoon2fa phishing kit",
-    "reduce phishing exposure",
     "nuclear weapon design",
     "mail server flaw",
-    "windows 11 microsoft",
     "underlying operating system",
     "network control system",
     "exploiting obscure vulnerabilities",
     "supply chain attacks",
-    "path traversal vulnerability"
+    "path traversal vulnerability",
+    "input validation vulnerability",
+    "client side attacks"
   ],
   "trending": [
     {
       "keyword": "nuclear weapons simulations",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "remote code execution",
-      "mentions": 382
+      "mentions": 383
     },
     {
       "keyword": "shinyhunters scattered spider",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "grafana confirms breach",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1662
+      "mentions": 1663
     },
     {
       "keyword": "service's login page",
-      "mentions": 29
+      "mentions": 30
     },
     {
-      "keyword": "pre stuxnet tool",
+      "keyword": "reduce phishing exposure",
       "mentions": 3
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 171
+      "keyword": "pre stuxnet tool",
+      "mentions": 4
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 320
+      "keyword": "aggravated identity theft",
+      "mentions": 172
     }
   ],
   "articles": [
@@ -157,6 +157,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
+      "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
+      "published": "Mon, 18 May 2026 14:45:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
       "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
       "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
@@ -229,17 +238,6 @@
         "Privilege escalation",
         "PoC available",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
-      "summary": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
-      "published": "Sun, 17 May 2026 10:43:10 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
       ]
     },
     {
@@ -342,7 +340,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "The Boring Stuff is Dangerous Now",
+      "title": "The Boring Stuff Is Dangerous Now",
       "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
       "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
       "published": "Mon, 18 May 2026 13:00:00 GMT",

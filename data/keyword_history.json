@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1662,
+      "count": 1663,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -694,7 +694,7 @@
       ]
     },
     "remote code execution": {
-      "count": 382,
+      "count": 383,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2335,7 +2335,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 320,
+      "count": 321,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -5303,7 +5303,7 @@
       ]
     },
     "underlying operating system": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-28",
         "2026-05-14",
@@ -7301,7 +7301,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13899,7 +13899,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15682,7 +15682,7 @@
       ]
     },
     "service's login page": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16296,7 +16296,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16396,7 +16396,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16484,25 +16484,25 @@
       ]
     },
     "nuclear weapons simulations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18"
       ]
     },
     "shinyhunters scattered spider": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18"
       ]
     },
     "pre stuxnet tool": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18"
       ]
     },
     "grafana confirms breach": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18"
       ]
@@ -16514,13 +16514,13 @@
       ]
     },
     "nuclear weapon design": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18"
       ]
     },
     "client side attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-18"
       ]
@@ -16532,24 +16532,30 @@
       ]
     },
     "reduce phishing exposure": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-18"
       ]
     },
     "mail server flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-18"
       ]
     },
     "network control system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-18"
       ]
     },
     "path traversal vulnerability": {
+      "count": 2,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "input validation vulnerability": {
       "count": 1,
       "dates": [
         "2026-05-18"
@@ -16557,17 +16563,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-07 16:03",
-      "articles": 56,
-      "top_keywords": [
-        "chrome 148 rolls",
-        "iran's intelligence agencies",
-        "false flag operation",
-        "chinese state hacking",
-        "aggravated identity theft"
-      ]
-    },
     {
       "timestamp": "2026-05-07 19:38",
       "articles": 56,
@@ -17648,6 +17643,17 @@
     },
     {
       "timestamp": "2026-05-18 17:55",
+      "articles": 56,
+      "top_keywords": [
+        "nuclear weapons simulations",
+        "third party ecosystems",
+        "remote code execution",
+        "shinyhunters scattered spider",
+        "grafana confirms breach"
+      ]
+    },
+    {
+      "timestamp": "2026-05-18 19:39",
       "articles": 56,
       "top_keywords": [
         "nuclear weapons simulations",

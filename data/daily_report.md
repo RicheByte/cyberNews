@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-18 17:55 UTC  
+> **Last Updated:** 2026-05-18 19:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nuclear weapons simulations** • **third party ecosystems** • **remote code execution** • **shinyhunters scattered spider** • **grafana confirms breach** • **twitter whistleblower complaint** • **service's login page** • **pre stuxnet tool** • **aggravated identity theft** • **130 companies tangled** • **tycoon2fa phishing kit** • **reduce phishing exposure** • **nuclear weapon design** • **mail server flaw** • **windows 11 microsoft** • **underlying operating system** • **network control system** • **exploiting obscure vulnerabilities** • **supply chain attacks** • **path traversal vulnerability**
+**nuclear weapons simulations** • **third party ecosystems** • **remote code execution** • **shinyhunters scattered spider** • **grafana confirms breach** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **pre stuxnet tool** • **aggravated identity theft** • **130 companies tangled** • **nuclear weapon design** • **mail server flaw** • **underlying operating system** • **network control system** • **exploiting obscure vulnerabilities** • **supply chain attacks** • **path traversal vulnerability** • **input validation vulnerability** • **client side attacks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
 - [Leaked Shai-Hulud malware fuels new npm infostealer campaign](https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/)
 - [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
 - [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
@@ -34,7 +35,6 @@
 - [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
 - [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
 - [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
-- [Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing](https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/)
 
 ### Krebs on Security
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive](https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive)
-- [The Boring Stuff is Dangerous Now](https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt)
+- [The Boring Stuff Is Dangerous Now](https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt)
 - [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
 - [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
 - [Cyber Pioneers Ponder Past as Prologue](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue)

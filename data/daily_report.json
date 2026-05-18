@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 02:49",
+  "last_updated": "2026-05-18 07:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "remote code execution",
     "third party ecosystems",
     "twitter whistleblower complaint",
+    "supply chain attacks",
     "aggravated identity theft",
     "130 companies tangled",
     "1 30 0",
     "finding security vulnerabilities",
     "exploiting obscure vulnerabilities",
-    "stealing payment data",
-    "malicious cyber actors",
-    "poc code published",
     "windows operating systems",
+    "malicious cyber actors",
     "tycoon2fa phishing kit",
-    "supply chain attacks",
-    "funnel builder flaw",
+    "poc code published",
     "homeland security sent",
     "write arbitrary files",
     "woocommerce checkout pages",
-    "wire fraud conspiracy"
+    "wire fraud conspiracy",
+    "united states today",
+    "underlying operating system"
   ],
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "remote code execution",
-      "mentions": 378
+      "mentions": 379
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1658
+      "mentions": 1659
+    },
+    {
+      "keyword": "supply chain attacks",
+      "mentions": 52
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 167
+      "mentions": 168
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 316
+      "mentions": 317
     },
     {
       "keyword": "1 30 0",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 23
-    },
-    {
-      "keyword": "stealing payment data",
-      "mentions": 15
+      "mentions": 24
     }
   ],
   "articles": [
@@ -164,6 +164,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
+      "summary": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
+      "published": "Mon, 18 May 2026 03:18:33 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
+      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
+      "published": "Mon, 18 May 2026 01:33:20 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
       "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
@@ -235,24 +259,6 @@
         "Zero-day",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Popular node-ipc npm package compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-node-ipc-npm-package-compromised-to-steal-credentials/",
-      "summary": "Hackers have injected credential-stealing malware into newly published versions of node-ipc, a popular inter-process communication package, in a new supply chain attack targeting npm. [...]",
-      "published": "Fri, 15 May 2026 13:10:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Avada Builder WordPress plugin flaws allow site credential theft",
-      "link": "https://www.bleepingcomputer.com/news/security/avada-builder-wordpress-plugin-flaws-allow-site-credential-theft/",
-      "summary": "Two vulnerabilities in the Avada Builder plugin for WordPress, with an estimated one million active installations, allow hackers to read arbitrary files and extract sensitive information from the database. [...]",
-      "published": "Fri, 15 May 2026 11:56:56 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -424,6 +430,30 @@
     },
     {
       "source": "Security Week",
+      "title": "Exploitation of Critical NGINX Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
+      "summary": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled. The post Exploitation of Critical NGINX Vulnerability Begins appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 07:27:42 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
+      "link": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
+      "summary": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products. The post Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 appeared first on SecurityWeek .",
+      "published": "Mon, 18 May 2026 04:05:21 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "PoC Code Published for Critical NGINX Vulnerability",
       "link": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
       "summary": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for Critical NGINX Vulnerability appeared first on SecurityWeek .",
@@ -489,31 +519,6 @@
       "published": "Fri, 15 May 2026 09:47:09 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 148 Update Patches Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-148-update-patches-critical-vulnerabilities/",
-      "summary": "The refresh resolves critical-severity use-after-free and other types of bugs in various browser components. The post Chrome 148 Update Patches Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 07:25:15 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026",
-      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-the-sixth-exploited-in-2026/",
-      "summary": "The zero-day, tracked as CVE-2026-20182, has been exploited in targeted attacks by a sophisticated threat actor identified as UAT-8616. The post Cisco Patches Another SD-WAN Zero-Day, the Sixth Exploited in 2026 appeared first on SecurityWeek .",
-      "published": "Fri, 15 May 2026 06:28:46 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

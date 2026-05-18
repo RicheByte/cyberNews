@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 484,
+      "count": 485,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -192,7 +192,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 604,
+      "count": 605,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1658,
+      "count": 1659,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -694,7 +694,7 @@
       ]
     },
     "remote code execution": {
-      "count": 378,
+      "count": 379,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2335,7 +2335,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 316,
+      "count": 317,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2413,7 +2413,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -5303,11 +5303,12 @@
       ]
     },
     "underlying operating system": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-28",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-18"
       ]
     },
     "johnson controls products": {
@@ -7299,7 +7300,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -8004,7 +8005,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13897,7 +13898,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15760,14 +15761,15 @@
       ]
     },
     "united states today": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-08",
         "2026-05-11",
         "2026-05-12",
         "2026-05-14",
         "2026-05-15",
-        "2026-05-16"
+        "2026-05-16",
+        "2026-05-18"
       ]
     },
     "provided fake data": {
@@ -16054,7 +16056,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16292,7 +16294,7 @@
       ]
     },
     "third party ecosystems": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-14",
         "2026-05-15",
@@ -16377,7 +16379,7 @@
       ]
     },
     "custom backdoor kazuar": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16392,7 +16394,7 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16401,7 +16403,7 @@
       ]
     },
     "woocommerce checkout pages": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16410,7 +16412,7 @@
       ]
     },
     "poc code published": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-16",
         "2026-05-17",
@@ -16453,7 +16455,7 @@
       ]
     },
     "homeland security sent": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-16",
         "2026-05-17",
@@ -16467,31 +16469,20 @@
       ]
     },
     "tycoon2fa phishing kit": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-17",
         "2026-05-18"
       ]
     },
     "1 30 0": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-07 02:28",
-      "articles": 56,
-      "top_keywords": [
-        "critical severity vulnerabilities",
-        "remote code execution",
-        "pixel binary transparency",
-        "managewp godaddy's platform",
-        "iran's intelligence agencies"
-      ]
-    },
     {
       "timestamp": "2026-05-07 06:31",
       "articles": 56,
@@ -17579,6 +17570,17 @@
         "third party ecosystems",
         "twitter whistleblower complaint",
         "aggravated identity theft"
+      ]
+    },
+    {
+      "timestamp": "2026-05-18 07:57",
+      "articles": 56,
+      "top_keywords": [
+        "custom backdoor kazuar",
+        "remote code execution",
+        "third party ecosystems",
+        "twitter whistleblower complaint",
+        "supply chain attacks"
       ]
     }
   ]

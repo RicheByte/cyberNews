@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-18 19:39",
+  "last_updated": "2026-05-18 21:06",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "nuclear weapons simulations",
-    "third party ecosystems",
-    "remote code execution",
     "shinyhunters scattered spider",
     "grafana confirms breach",
+    "remote code execution",
     "twitter whistleblower complaint",
     "service's login page",
     "reduce phishing exposure",
     "pre stuxnet tool",
-    "aggravated identity theft",
     "130 companies tangled",
     "nuclear weapon design",
     "mail server flaw",
-    "underlying operating system",
-    "network control system",
     "exploiting obscure vulnerabilities",
-    "supply chain attacks",
-    "path traversal vulnerability",
-    "input validation vulnerability",
-    "client side attacks"
+    "client side attacks",
+    "cybercrime group linked",
+    "cybercrime group defaced",
+    "write arbitrary files",
+    "wire fraud conspiracy",
+    "unpatched 2020 cve",
+    "united states today",
+    "underlying operating system"
   ],
   "trending": [
     {
       "keyword": "nuclear weapons simulations",
-      "mentions": 4
-    },
-    {
-      "keyword": "third party ecosystems",
-      "mentions": 36
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 383
+      "mentions": 5
     },
     {
       "keyword": "shinyhunters scattered spider",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "grafana confirms breach",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 384
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1663
+      "mentions": 1664
     },
     {
       "keyword": "service's login page",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "reduce phishing exposure",
-      "mentions": 3
-    },
-    {
-      "keyword": "pre stuxnet tool",
       "mentions": 4
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 172
+      "keyword": "pre stuxnet tool",
+      "mentions": 5
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 322
+    },
+    {
+      "keyword": "nuclear weapon design",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -242,6 +242,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
+      "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
+      "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
+      "published": "Mon, 18 May 2026 20:48:21 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×4"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Patch Tuesday, May 2026 Edition",
       "link": "https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/",
       "summary": "Artificial intelligence platforms may be just as susceptible to social engineering as human beings, but they are proving remarkably good at finding security vulnerabilities in human-made computer code. That reality is on full display this month with some of the more widely-used software makers -- including Apple, Google, Microsoft, Mozilla and Oracle -- fixing near record volumes of security bugs, and/or quickening the tempo of their patch releases.",
@@ -321,11 +332,11 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "‘CanisterWorm’ Springs Wiper Attack Targeting Iran",
-      "link": "https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/",
-      "summary": "A financially motivated data theft and extortion group is attempting to inject itself into the Iran war, unleashing a worm that spreads through poorly secured cloud services and wipes data on infected systems that use Iran's time zone or have Farsi set as the default language.",
-      "published": "Mon, 23 Mar 2026 15:43:04 +0000",
+      "source": "Dark Reading",
+      "title": "Shai-Hulud Worm Clones Spread After Code Release",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
+      "summary": "The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale.",
+      "published": "Mon, 18 May 2026 19:53:05 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -347,6 +358,18 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
+      "link": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
+      "summary": "From the MGM and Caesars fiasco and MOVEit's patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations, systemic failures, and cringeworthy moments that still have us shaking our heads.",
+      "published": "Mon, 18 May 2026 12:00:00 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak"
       ]
     },
     {
@@ -384,27 +407,6 @@
       "published": "Fri, 15 May 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SecurityScorecard Snags Driftnet to Level Up Threat Intelligence",
-      "link": "https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence",
-      "summary": "The acquisition looks to boost visibility into third-party ecosystems, which are becoming a bigger concern as vectors for supply chain attacks.",
-      "published": "Thu, 14 May 2026 20:57:27 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Maximum Severity Cisco SD-WAN Bug Exploited in the Wild",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited",
-      "summary": "This is the second time this year a threat actor has leveraged a CVSS 10.0 vulnerability in Cisco's network control system.",
-      "published": "Thu, 14 May 2026 20:25:31 GMT",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

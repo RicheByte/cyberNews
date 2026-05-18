@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-18 19:39 UTC |
+| 🕐 Last Updated | 2026-05-18 21:06 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`nuclear weapons simulations` • `third party ecosystems` • `remote code execution` • `shinyhunters scattered spider` • `grafana confirms breach` • `twitter whistleblower complaint` • `service's login page` • `reduce phishing exposure` • `pre stuxnet tool` • `aggravated identity theft`
+`nuclear weapons simulations` • `shinyhunters scattered spider` • `grafana confirms breach` • `remote code execution` • `twitter whistleblower complaint` • `service's login page` • `reduce phishing exposure` • `pre stuxnet tool` • `130 companies tangled` • `nuclear weapon design`
 
 ## 📄 Reports
 

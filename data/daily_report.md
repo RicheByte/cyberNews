@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-18 19:39 UTC  
+> **Last Updated:** 2026-05-18 21:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nuclear weapons simulations** • **third party ecosystems** • **remote code execution** • **shinyhunters scattered spider** • **grafana confirms breach** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **pre stuxnet tool** • **aggravated identity theft** • **130 companies tangled** • **nuclear weapon design** • **mail server flaw** • **underlying operating system** • **network control system** • **exploiting obscure vulnerabilities** • **supply chain attacks** • **path traversal vulnerability** • **input validation vulnerability** • **client side attacks**
+**nuclear weapons simulations** • **shinyhunters scattered spider** • **grafana confirms breach** • **remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **pre stuxnet tool** • **130 companies tangled** • **nuclear weapon design** • **mail server flaw** • **exploiting obscure vulnerabilities** • **client side attacks** • **cybercrime group linked** • **cybercrime group defaced** • **write arbitrary files** • **wire fraud conspiracy** • **unpatched 2020 cve** • **united states today** • **underlying operating system**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 - [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
@@ -45,18 +46,17 @@
 - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 - [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
 - [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
-- [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/)
 
 ### Dark Reading
 
+- [Shai-Hulud Worm Clones Spread After Code Release](https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release)
 - [Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive](https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive)
 - [The Boring Stuff Is Dangerous Now](https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt)
+- [Boulevard of Broken Dreams: 2 Decades of Cyber Fails](https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails)
 - [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
 - [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
 - [Cyber Pioneers Ponder Past as Prologue](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue)
 - [Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
-- [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
-- [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited)
 
 ### Security Week
 

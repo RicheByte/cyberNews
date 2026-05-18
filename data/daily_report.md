@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-17 22:48 UTC  
+> **Last Updated:** 2026-05-18 02:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**custom backdoor kazuar** • **remote code execution** • **third party ecosystems** • **twitter whistleblower complaint** • **aggravated identity theft** • **130 companies tangled** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **stealing payment data** • **malicious cyber actors** • **poc code published** • **windows operating systems** • **tycoon2fa phishing kit** • **supply chain attacks** • **funnel builder flaw** • **security startups exceeded** • **homeland security sent** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy**
+**custom backdoor kazuar** • **remote code execution** • **third party ecosystems** • **twitter whistleblower complaint** • **aggravated identity theft** • **130 companies tangled** • **1 30 0** • **finding security vulnerabilities** • **exploiting obscure vulnerabilities** • **stealing payment data** • **malicious cyber actors** • **poc code published** • **windows operating systems** • **tycoon2fa phishing kit** • **supply chain attacks** • **funnel builder flaw** • **homeland security sent** • **write arbitrary files** • **woocommerce checkout pages** • **wire fraud conspiracy**
 
 ---
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [The Boring Stuff is Dangerous Now](https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt)
+- [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
 - [Cyber Pioneers Ponder Past as Prologue](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue)
 - [Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 - [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence)
 - [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited)
 - [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
 - ['FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine)
-- [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death)
 
 ### Security Week
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-17 22:48",
+  "last_updated": "2026-05-18 02:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,6 +9,7 @@
     "twitter whistleblower complaint",
     "aggravated identity theft",
     "130 companies tangled",
+    "1 30 0",
     "finding security vulnerabilities",
     "exploiting obscure vulnerabilities",
     "stealing payment data",
@@ -18,7 +19,6 @@
     "tycoon2fa phishing kit",
     "supply chain attacks",
     "funnel builder flaw",
-    "security startups exceeded",
     "homeland security sent",
     "write arbitrary files",
     "woocommerce checkout pages",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "custom backdoor kazuar",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "remote code execution",
-      "mentions": 377
+      "mentions": 378
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1657
+      "mentions": 1658
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 166
+      "mentions": 167
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 315
+      "mentions": 316
+    },
+    {
+      "keyword": "1 30 0",
+      "mentions": 1
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "exploiting obscure vulnerabilities",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "stealing payment data",
-      "mentions": 14
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 483
+      "mentions": 15
     }
   ],
   "articles": [
@@ -356,6 +356,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Can Laws Stop Deepfakes? South Korea Aims to Find Out",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea",
+      "summary": "South Korea's local elections next month will be a test bed for how effective regulations might be to stymie the flow of deepfakes.",
+      "published": "Mon, 18 May 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cyber Pioneers Ponder Past as Prologue",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
       "summary": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
@@ -412,15 +421,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
-      "summary": "In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
-      "published": "Thu, 14 May 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

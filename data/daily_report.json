@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 15:18",
+  "last_updated": "2026-05-18 17:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,87 @@
     "third party ecosystems",
     "remote code execution",
     "shinyhunters scattered spider",
+    "grafana confirms breach",
     "twitter whistleblower complaint",
+    "service's login page",
     "pre stuxnet tool",
     "aggravated identity theft",
     "130 companies tangled",
-    "1 30 0",
     "tycoon2fa phishing kit",
     "reduce phishing exposure",
-    "grafana confirms breach",
-    "unauthorized party obtained",
     "nuclear weapon design",
-    "supply chain attacks",
-    "client side attacks",
+    "mail server flaw",
+    "windows 11 microsoft",
     "underlying operating system",
+    "network control system",
     "exploiting obscure vulnerabilities",
-    "write arbitrary files",
-    "wire fraud conspiracy"
+    "supply chain attacks",
+    "path traversal vulnerability"
   ],
   "trending": [
     {
       "keyword": "nuclear weapons simulations",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "third party ecosystems",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "remote code execution",
-      "mentions": 381
+      "mentions": 382
     },
     {
       "keyword": "shinyhunters scattered spider",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "grafana confirms breach",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1661
+      "mentions": 1662
+    },
+    {
+      "keyword": "service's login page",
+      "mentions": 29
     },
     {
       "keyword": "pre stuxnet tool",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 170
+      "mentions": 171
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 319
-    },
-    {
-      "keyword": "1 30 0",
-      "mentions": 4
-    },
-    {
-      "keyword": "tycoon2fa phishing kit",
-      "mentions": 9
+      "mentions": 320
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
+      "link": "https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html",
+      "summary": "INTERPOL has coordinated a first-of-its-kind cybercrime crackdown across the Middle East and North Africa (MENA) that led to 201 arrests and the identification of an additional 382 suspects. The initiative involved the efforts of 13 countries from the region between October 2025 and February 2026, aiming to investigate and neutralize malicious infrastructure, arrest perpetrators behind these",
+      "published": "Mon, 18 May 2026 22:51:18 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html",
+      "summary": "Monday opens with a trust problem. A mail server flaw is under active use. A network control system was targeted. Trusted packages were poisoned. A fake model page pushed a stealer. Then came the familiar ransom claim: the data was returned and deleted. The pattern is clear. One weak dependency can leak keys. One leaked key can open cloud access. One cloud foothold can become a production",
+      "published": "Mon, 18 May 2026 19:20:17 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "How to Reduce Phishing Exposure Before It Turns into Business Disruption",
@@ -135,30 +156,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
-      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
-      "summary": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
-      "published": "Sun, 17 May 2026 17:27:53 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "RCE",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "summary": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana said in a series of",
-      "published": "Sun, 17 May 2026 12:43:33 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "BleepingComputer",
+      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
+      "summary": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
+      "published": "Mon, 18 May 2026 13:28:02 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -236,18 +240,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
-      "summary": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
-      "published": "Sat, 16 May 2026 16:55:44 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity"
       ]
     },
     {
@@ -341,6 +333,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
+      "summary": "Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.",
+      "published": "Mon, 18 May 2026 15:41:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Boring Stuff is Dangerous Now",
       "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
       "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
@@ -405,17 +406,6 @@
       "value_signals": [
         "Active exploitation",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
-      "summary": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
-      "published": "Thu, 14 May 2026 16:59:25 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

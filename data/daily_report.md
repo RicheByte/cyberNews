@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-18 21:06 UTC  
+> **Last Updated:** 2026-05-18 22:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nuclear weapons simulations** • **shinyhunters scattered spider** • **grafana confirms breach** • **remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **pre stuxnet tool** • **130 companies tangled** • **nuclear weapon design** • **mail server flaw** • **exploiting obscure vulnerabilities** • **client side attacks** • **cybercrime group linked** • **cybercrime group defaced** • **write arbitrary files** • **wire fraud conspiracy** • **unpatched 2020 cve** • **united states today** • **underlying operating system**
+**nuclear weapons simulations** • **shinyhunters scattered spider** • **grafana confirms breach** • **remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **pre stuxnet tool** • **130 companies tangled** • **nuclear weapon design** • **mail server flaw** • **windows 11 microsoft** • **client side attacks** • **write arbitrary files** • **wire fraud conspiracy** • **unpatched 2020 cve** • **united states today** • **underlying operating system** • **triggers 0x800f0922 errors** • **sprawling phishing campaign**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers](https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/)
+- [SHub macOS infostealer variant spoofs Apple security updates](https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/)
 - [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
 - [Leaked Shai-Hulud malware fuels new npm infostealer campaign](https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/)
 - [Grafana says stolen GitHub token let hackers steal codebase](https://www.bleepingcomputer.com/news/security/grafana-says-stolen-github-token-let-hackers-steal-codebase/)
 - [Microsoft testing adjustable taskbar, Start menu in Windows 11](https://www.bleepingcomputer.com/news/microsoft/windows-11-finally-gets-a-resizable-taskbar-and-start-menu/)
 - [Microsoft confirms Windows 11 security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/)
 - [Exploit available for new DirtyDecrypt Linux root escalation flaw](https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/)
-- [Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/)
-- [New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released](https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Microsoft Exchange Zero-Day Under Attack, No Patch Available](https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch)
+- ['Claw Chain' Vulnerabilities Threaten OpenClaw Deployments](https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw)
 - [Shai-Hulud Worm Clones Spread After Code Release](https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release)
 - [Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive](https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive)
 - [The Boring Stuff Is Dangerous Now](https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt)
 - [Boulevard of Broken Dreams: 2 Decades of Cyber Fails](https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails)
 - [Can Laws Stop Deepfakes? South Korea Aims to Find Out](https://www.darkreading.com/vulnerabilities-threats/can-laws-stop-deepfakes-south-korea)
 - [Congress Puts Heat on Instructure After Canvas Outage](https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks)
-- [Cyber Pioneers Ponder Past as Prologue](https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue)
-- [Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems](https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps)
 
 ### Security Week
 

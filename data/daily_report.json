@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-18 21:06",
+  "last_updated": "2026-05-18 22:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -14,56 +14,56 @@
     "130 companies tangled",
     "nuclear weapon design",
     "mail server flaw",
-    "exploiting obscure vulnerabilities",
+    "windows 11 microsoft",
     "client side attacks",
-    "cybercrime group linked",
-    "cybercrime group defaced",
     "write arbitrary files",
     "wire fraud conspiracy",
     "unpatched 2020 cve",
     "united states today",
-    "underlying operating system"
+    "underlying operating system",
+    "triggers 0x800f0922 errors",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "nuclear weapons simulations",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "shinyhunters scattered spider",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "grafana confirms breach",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "remote code execution",
-      "mentions": 384
+      "mentions": 385
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1664
+      "mentions": 1665
     },
     {
       "keyword": "service's login page",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "reduce phishing exposure",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "pre stuxnet tool",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 322
+      "mentions": 323
     },
     {
       "keyword": "nuclear weapon design",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -157,6 +157,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
+      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
+      "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
+      "published": "Mon, 18 May 2026 18:15:30 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SHub macOS infostealer variant spoofs Apple security updates",
+      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
+      "summary": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
+      "published": "Mon, 18 May 2026 17:42:20 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
       "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
       "summary": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
@@ -211,32 +234,6 @@
       "value_score": 28,
       "value_signals": [
         "Privilege escalation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers earn $1,298,250 for 47 zero-days at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-earn-1-298-250-for-47-zero-days-at-pwn2own-berlin-2026/",
-      "summary": "The Pwn2Own Berlin 2026 hacking contest has concluded, with security researchers collecting $1,298,250 in rewards after exploiting 47 zero-day flaws. [...]",
-      "published": "Mon, 18 May 2026 01:33:20 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Windows 'MiniPlasma' zero-day exploit gives SYSTEM access, PoC released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/new-windows-miniplasma-zero-day-exploit-gives-system-access-poc-released/",
-      "summary": "A cybersecurity researcher has released a proof-of-concept exploit for a Windows privilege escalation zero-day dubbed \"MiniPlasma\" that lets attackers gain SYSTEM privileges on fully patched Windows systems. [...]",
-      "published": "Sun, 17 May 2026 18:30:08 -0400",
-      "value_score": 88,
-      "value_signals": [
-        "Zero-day ×2",
-        "Privilege escalation",
-        "PoC available",
         "Exploit wording"
       ]
     },
@@ -333,6 +330,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
+      "summary": "CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.",
+      "published": "Mon, 18 May 2026 21:43:51 GMT",
+      "value_score": 61,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
+      "link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
+      "summary": "The now patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
+      "published": "Mon, 18 May 2026 21:24:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Shai-Hulud Worm Clones Spread After Code Release",
       "link": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
       "summary": "The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale.",
@@ -387,24 +406,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/congress-instructure-shinyhunters-attacks",
       "summary": "The House Committee on Homeland Security sent a letter about the Canvas cyberattack, the same day that the edtech company said it reached an \"agreement\" with the ShinyHunters cybercriminals.",
       "published": "Fri, 15 May 2026 20:19:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyber Pioneers Ponder Past as Prologue",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybersecurity-pioneers-ponder-past-prologue",
-      "summary": "Robert \"RSnake\" Hansen, Katie Moussouris, Rich Mogull, Richard Stiennon, and Bruce Schneier reflect on how their favorite columns penned for Dark Reading over the past 20 years have stood the test of time.",
-      "published": "Fri, 15 May 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
-      "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
-      "summary": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
-      "published": "Fri, 15 May 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

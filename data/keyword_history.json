@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1664,
+      "count": 1665,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -694,7 +694,7 @@
       ]
     },
     "remote code execution": {
-      "count": 384,
+      "count": 385,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1698,7 +1698,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 381,
+      "count": 382,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1761,7 +1761,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-05-13",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-18"
       ]
     },
     "model agnostic abstractions": {
@@ -2335,7 +2336,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 322,
+      "count": 323,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2413,7 +2414,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -5303,7 +5304,7 @@
       ]
     },
     "underlying operating system": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-28",
         "2026-05-14",
@@ -6165,7 +6166,7 @@
       ]
     },
     "windows 11 microsoft": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-04",
         "2026-05-18"
@@ -8006,7 +8007,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15682,7 +15683,7 @@
       ]
     },
     "service's login page": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15764,7 +15765,7 @@
       ]
     },
     "united states today": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16485,25 +16486,25 @@
       ]
     },
     "nuclear weapons simulations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-18"
       ]
     },
     "shinyhunters scattered spider": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-18"
       ]
     },
     "pre stuxnet tool": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-18"
       ]
     },
     "grafana confirms breach": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-18"
       ]
@@ -16515,13 +16516,13 @@
       ]
     },
     "nuclear weapon design": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-18"
       ]
     },
     "client side attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-18"
       ]
@@ -16533,13 +16534,13 @@
       ]
     },
     "reduce phishing exposure": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-18"
       ]
     },
     "mail server flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18"
       ]
@@ -16569,6 +16570,12 @@
       ]
     },
     "unpatched 2020 cve": {
+      "count": 2,
+      "dates": [
+        "2026-05-18"
+      ]
+    },
+    "triggers 0x800f0922 errors": {
       "count": 1,
       "dates": [
         "2026-05-18"
@@ -16576,17 +16583,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-07 21:00",
-      "articles": 56,
-      "top_keywords": [
-        "chrome 148 rolls",
-        "pvi client application",
-        "exposed cloud infrastructure",
-        "iran's intelligence agencies",
-        "chinese state hacking"
-      ]
-    },
     {
       "timestamp": "2026-05-07 22:56",
       "articles": 56,
@@ -17667,6 +17663,17 @@
     },
     {
       "timestamp": "2026-05-18 21:06",
+      "articles": 56,
+      "top_keywords": [
+        "nuclear weapons simulations",
+        "shinyhunters scattered spider",
+        "grafana confirms breach",
+        "remote code execution",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-18 22:55",
       "articles": 56,
       "top_keywords": [
         "nuclear weapons simulations",

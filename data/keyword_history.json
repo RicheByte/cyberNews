@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1667,
+      "count": 1668,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -695,7 +695,7 @@
       ]
     },
     "remote code execution": {
-      "count": 387,
+      "count": 388,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1700,7 +1700,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 384,
+      "count": 385,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2339,7 +2339,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 325,
+      "count": 326,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2418,7 +2418,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -8014,7 +8014,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 102,
+      "count": 103,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13813,7 +13813,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13825,7 +13825,8 @@
         "2026-04-28",
         "2026-05-11",
         "2026-05-12",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-19"
       ]
     },
     "sophisticated ddos attack": {
@@ -15691,7 +15692,7 @@
       ]
     },
     "service's login page": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15711,13 +15712,14 @@
       ]
     },
     "275 million students": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-19"
       ]
     },
     "internal trellix services": {
@@ -15774,7 +15776,7 @@
       ]
     },
     "united states today": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16262,9 +16264,10 @@
       ]
     },
     "proving remarkably good": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-19"
       ]
     },
     "people events ideas": {
@@ -16550,14 +16553,14 @@
       ]
     },
     "reduce phishing exposure": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-18",
         "2026-05-19"
       ]
     },
     "mail server flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-18",
         "2026-05-19"
@@ -16588,32 +16591,44 @@
       ]
     },
     "unpatched 2020 cve": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-18",
         "2026-05-19"
       ]
     },
     "triggers 0x800f0922 errors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-18",
         "2026-05-19"
       ]
     },
     "harvests sensitive credentials": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "steal credentials escape": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "south korea aims": {
+      "count": 2,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "os command injection": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "north africa mena": {
       "count": 1,
       "dates": [
         "2026-05-19"
@@ -16621,17 +16636,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 05:52",
-      "articles": 56,
-      "top_keywords": [
-        "chrome 148 rolls",
-        "pvi client application",
-        "exposed cloud infrastructure",
-        "patient zero webinar",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-08 07:22",
       "articles": 56,
@@ -17719,6 +17723,17 @@
         "remote code execution",
         "twitter whistleblower complaint",
         "service's login page"
+      ]
+    },
+    {
+      "timestamp": "2026-05-19 10:57",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "twitter whistleblower complaint",
+        "service's login page",
+        "reduce phishing exposure",
+        "275 million students"
       ]
     }
   ]

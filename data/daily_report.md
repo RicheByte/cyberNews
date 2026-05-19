@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-19 07:41 UTC  
+> **Last Updated:** 2026-05-19 10:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**shinyhunters scattered spider** • **grafana confirms breach** • **remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **130 companies tangled** • **harvests sensitive credentials** • **mail server flaw** • **client side attacks** • **write arbitrary files** • **wire fraud conspiracy** • **windows 11 microsoft** • **unpatched 2020 cve** • **united states today** • **underlying operating system** • **triggers 0x800f0922 errors** • **steal credentials escape** • **sprawling phishing campaign** • **south korea aims**
+**remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **275 million students** • **130 companies tangled** • **harvests sensitive credentials** • **write arbitrary files** • **wire fraud conspiracy** • **unpatched 2020 cve** • **united states today** • **triggers 0x800f0922 errors** • **steal credentials escape** • **sprawling phishing campaign** • **south korea aims** • **russia hacked routers** • **proving remarkably good** • **os command injection** • **north africa mena** • **mail server flaw**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
+- [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
 - [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
 - [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
 - [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
 - [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
 - [How to Reduce Phishing Exposure Before It Turns into Business Disruption](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html)
 - [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
-- [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
-- [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
+- [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
 - [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
 - [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
 - [‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery](https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/)
 - [7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand](https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/)
 - [Researcher Drops MiniPlasma Windows Exploit for Unpatched 2020 CVE](https://www.securityweek.com/researcher-drops-miniplasma-windows-exploit-for-unpatched-2020-cve/)
 - [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
-- [Grafana Confirms Breach After Hackers Claim They Stole Data](https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/)
-- [Exploitation of Critical NGINX Vulnerability Begins](https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/)
 
 ### Threatpost
 

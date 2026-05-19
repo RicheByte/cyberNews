@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-05-19 07:41",
+  "last_updated": "2026-05-19 10:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "shinyhunters scattered spider",
-    "grafana confirms breach",
     "remote code execution",
     "twitter whistleblower complaint",
     "service's login page",
     "reduce phishing exposure",
+    "275 million students",
     "130 companies tangled",
     "harvests sensitive credentials",
-    "mail server flaw",
-    "client side attacks",
     "write arbitrary files",
     "wire fraud conspiracy",
-    "windows 11 microsoft",
     "unpatched 2020 cve",
     "united states today",
-    "underlying operating system",
     "triggers 0x800f0922 errors",
     "steal credentials escape",
     "sprawling phishing campaign",
-    "south korea aims"
+    "south korea aims",
+    "russia hacked routers",
+    "proving remarkably good",
+    "os command injection",
+    "north africa mena",
+    "mail server flaw"
   ],
   "trending": [
     {
-      "keyword": "shinyhunters scattered spider",
-      "mentions": 8
-    },
-    {
-      "keyword": "grafana confirms breach",
-      "mentions": 8
-    },
-    {
       "keyword": "remote code execution",
-      "mentions": 387
+      "mentions": 388
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1667
+      "mentions": 1668
     },
     {
       "keyword": "service's login page",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "reduce phishing exposure",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 31
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 325
+      "mentions": 326
     },
     {
       "keyword": "harvests sensitive credentials",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "mail server flaw",
-      "mentions": 6
+      "keyword": "write arbitrary files",
+      "mentions": 51
     },
     {
-      "keyword": "client side attacks",
-      "mentions": 7
+      "keyword": "wire fraud conspiracy",
+      "mentions": 103
+    },
+    {
+      "keyword": "unpatched 2020 cve",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
+      "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
+      "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance. \"These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,\"",
+      "published": "Tue, 19 May 2026 14:53:15 +0530",
+      "value_score": 64,
+      "value_signals": [
+        "RCE ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
+      "published": "Tue, 19 May 2026 13:19:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
@@ -125,35 +147,6 @@
       "published": "Mon, 18 May 2026 16:53:41 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws",
-      "link": "https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html",
-      "summary": "Ivanti, Fortinet, n8n, SAP, and VMware have released security fixes for various vulnerabilities that could be exploited by bad actors to bypass authentication and execute arbitrary code. Topping the list is a critical flaw impacting Ivanti Xtraction (CVE-2026-8043, CVSS score: 9.6) that could be exploited to achieve information disclosure or client-side attacks. \"External control of a file name",
-      "published": "Mon, 18 May 2026 16:24:05 +0530",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Privilege escalation",
-        "Patch/update",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems",
-      "link": "https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html",
-      "summary": "Chaotic Eclipse, the security researcher behind the recently disclosed Windows flaws, YellowKey and GreenPlasma, has released a proof-of-concept (PoC) for a Windows privilege escalation zero-day flaw that grants attackers SYSTEM privileges on fully patched Windows systems. Codenamed MiniPlasma, the vulnerability impacts \"cldflt.sys,\" which refers to the Windows Cloud Files Mini Filter Driver,",
-      "published": "Mon, 18 May 2026 14:27:34 +0530",
-      "value_score": 69,
-      "value_signals": [
-        "Zero-day",
-        "Privilege escalation ×2",
-        "PoC available"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -411,6 +404,26 @@
     },
     {
       "source": "Security Week",
+      "title": "201 Arrested in Crackdown on Cybercrime in Middle East, North Africa",
+      "link": "https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/",
+      "summary": "The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region. The post 201 Arrested in Crackdown on Cybercrime in Middle East, North Africa appeared first on SecurityWeek .",
+      "published": "Tue, 19 May 2026 10:32:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
+      "link": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
+      "summary": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 19 May 2026 09:42:56 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "PoC available ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
       "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
       "summary": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek .",
@@ -473,30 +486,6 @@
       "published": "Mon, 18 May 2026 09:45:15 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Grafana Confirms Breach After Hackers Claim They Stole Data",
-      "link": "https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/",
-      "summary": "Grafana appears to have been targeted by Coinbase Cartel, a cybercrime group linked to ShinyHunters, Scattered Spider, and Lapsus$. The post Grafana Confirms Breach After Hackers Claim They Stole Data appeared first on SecurityWeek .",
-      "published": "Mon, 18 May 2026 08:34:59 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation of Critical NGINX Vulnerability Begins",
-      "link": "https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/",
-      "summary": "The flaw leads to denial-of-service on default configurations and to remote code execution if ASLR is disabled. The post Exploitation of Critical NGINX Vulnerability Begins appeared first on SecurityWeek .",
-      "published": "Mon, 18 May 2026 07:27:42 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

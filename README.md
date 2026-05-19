@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-19 07:41 UTC |
+| 🕐 Last Updated | 2026-05-19 10:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`shinyhunters scattered spider` • `grafana confirms breach` • `remote code execution` • `twitter whistleblower complaint` • `service's login page` • `reduce phishing exposure` • `130 companies tangled` • `harvests sensitive credentials` • `mail server flaw` • `client side attacks`
+`remote code execution` • `twitter whistleblower complaint` • `service's login page` • `reduce phishing exposure` • `275 million students` • `130 companies tangled` • `harvests sensitive credentials` • `write arbitrary files` • `wire fraud conspiracy` • `unpatched 2020 cve`
 
 ## 📄 Reports
 

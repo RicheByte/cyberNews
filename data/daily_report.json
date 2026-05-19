@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-05-19 02:46",
+  "last_updated": "2026-05-19 07:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "nuclear weapons simulations",
     "shinyhunters scattered spider",
     "grafana confirms breach",
     "remote code execution",
     "twitter whistleblower complaint",
     "service's login page",
     "reduce phishing exposure",
-    "pre stuxnet tool",
     "130 companies tangled",
-    "nuclear weapon design",
+    "harvests sensitive credentials",
     "mail server flaw",
-    "windows 11 microsoft",
     "client side attacks",
     "write arbitrary files",
     "wire fraud conspiracy",
+    "windows 11 microsoft",
     "unpatched 2020 cve",
     "united states today",
     "underlying operating system",
     "triggers 0x800f0922 errors",
-    "sprawling phishing campaign"
+    "steal credentials escape",
+    "sprawling phishing campaign",
+    "south korea aims"
   ],
   "trending": [
     {
-      "keyword": "nuclear weapons simulations",
-      "mentions": 7
-    },
-    {
       "keyword": "shinyhunters scattered spider",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "grafana confirms breach",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "remote code execution",
-      "mentions": 386
+      "mentions": 387
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1666
+      "mentions": 1667
     },
     {
       "keyword": "service's login page",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "reduce phishing exposure",
-      "mentions": 6
-    },
-    {
-      "keyword": "pre stuxnet tool",
       "mentions": 7
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 324
+      "mentions": 325
     },
     {
-      "keyword": "nuclear weapon design",
+      "keyword": "harvests sensitive credentials",
+      "mentions": 1
+    },
+    {
+      "keyword": "mail server flaw",
+      "mentions": 6
+    },
+    {
+      "keyword": "client side attacks",
       "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
+      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
+      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
+      "published": "Tue, 19 May 2026 10:58:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
+      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly",
+      "published": "Tue, 19 May 2026 10:24:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
@@ -136,24 +154,6 @@
         "Privilege escalation ×2",
         "PoC available"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware",
-      "link": "https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html",
-      "summary": "Cybersecurity researchers have discovered four new npm packages containing information-stealing malware, one of which is a clone of the Shai-Hulud worm open-sourced by TeamPCP. The list of identified packages is below - chalk-tempalte (825 Downloads) @deadcode09284814/axios-util (284 Downloads) axois-utils (963 Downloads) color-style-utils (934 Downloads) \"One of the packages (chalk-tempalte)",
-      "published": "Mon, 18 May 2026 14:27:26 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
-      "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
-      "summary": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. \"Fast16's hook engine is selectively interested in",
-      "published": "Mon, 18 May 2026 12:16:37 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -411,6 +411,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
+      "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
+      "summary": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek .",
+      "published": "Tue, 19 May 2026 06:18:51 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Millions Impacted Across Several US Healthcare Data Breaches",
       "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
       "summary": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker. The post Millions Impacted Across Several US Healthcare Data Breaches appeared first on SecurityWeek .",
@@ -482,17 +495,6 @@
       "value_signals": [
         "RCE",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Earn $1.3 Million at Pwn2Own Berlin 2026",
-      "link": "https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/",
-      "summary": "Participants demonstrated exploits for Windows, Linux, VMware, Nvidia, and AI products. The post Hackers Earn $1.3 Million at Pwn2Own Berlin 2026 appeared first on SecurityWeek .",
-      "published": "Mon, 18 May 2026 04:05:21 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

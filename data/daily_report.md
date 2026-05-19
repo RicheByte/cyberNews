@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-19 02:46 UTC  
+> **Last Updated:** 2026-05-19 07:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**nuclear weapons simulations** • **shinyhunters scattered spider** • **grafana confirms breach** • **remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **pre stuxnet tool** • **130 companies tangled** • **nuclear weapon design** • **mail server flaw** • **windows 11 microsoft** • **client side attacks** • **write arbitrary files** • **wire fraud conspiracy** • **unpatched 2020 cve** • **united states today** • **underlying operating system** • **triggers 0x800f0922 errors** • **sprawling phishing campaign**
+**shinyhunters scattered spider** • **grafana confirms breach** • **remote code execution** • **twitter whistleblower complaint** • **service's login page** • **reduce phishing exposure** • **130 companies tangled** • **harvests sensitive credentials** • **mail server flaw** • **client side attacks** • **write arbitrary files** • **wire fraud conspiracy** • **windows 11 microsoft** • **unpatched 2020 cve** • **united states today** • **underlying operating system** • **triggers 0x800f0922 errors** • **steal credentials escape** • **sprawling phishing campaign** • **south korea aims**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
+- [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
 - [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
 - [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
 - [How to Reduce Phishing Exposure Before It Turns into Business Disruption](https://thehackernews.com/2026/05/how-to-reduce-phishing-exposure-before.html)
 - [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html)
 - [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html)
 - [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html)
-- [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html)
-- [Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
 - [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
 - [‘Claw Chain’ OpenClaw Flaws Allow Sandbox Escape, Backdoor Delivery](https://www.securityweek.com/claw-chain-openclaw-flaws-allow-sandbox-escape-backdoor-delivery/)
 - [7-Eleven Data Breach Confirmed After ShinyHunters Ransom Demand](https://www.securityweek.com/7-eleven-data-breach-confirmed-after-shinyhunters-ransom-demand/)
@@ -67,7 +68,6 @@
 - [First Shai-Hulud Worm Clones Emerge](https://www.securityweek.com/first-shai-hulud-worm-clones-emerge/)
 - [Grafana Confirms Breach After Hackers Claim They Stole Data](https://www.securityweek.com/grafana-confirms-breach-after-hackers-claim-they-stole-data/)
 - [Exploitation of Critical NGINX Vulnerability Begins](https://www.securityweek.com/exploitation-of-critical-nginx-vulnerability-begins/)
-- [Hackers Earn $1.3 Million at Pwn2Own Berlin 2026](https://www.securityweek.com/hackers-earn-1-3-million-at-pwn2own-berlin-2026/)
 
 ### Threatpost
 

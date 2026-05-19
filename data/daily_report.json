@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-19 21:14",
+  "last_updated": "2026-05-19 22:59",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
     "north africa region",
     "abb coresense hm",
-    "unpatched chromadb vulnerability",
     "v12 security team",
     "twitter whistleblower complaint",
     "shub reaper stealer",
     "normal mfa challenge",
     "multi stage fraud",
+    "company's public image",
     "business cannot afford",
     "azure production environments",
+    "aggravated identity theft",
     "actively exploited flaw",
     "130 companies tangled",
     "align security continuity",
     "camera account credentials",
+    "related software including",
     "600 malicious packages",
     "275 million students",
-    "microsoft com devicelogin",
-    "related software including",
-    "massive ddos attacks"
+    "microsoft com devicelogin"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 391
+      "mentions": 392
     },
     {
       "keyword": "north africa region",
-      "mentions": 1
-    },
-    {
-      "keyword": "abb coresense hm",
       "mentions": 2
     },
     {
-      "keyword": "unpatched chromadb vulnerability",
+      "keyword": "abb coresense hm",
       "mentions": 3
     },
     {
       "keyword": "v12 security team",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1671
+      "mentions": 1672
     },
     {
       "keyword": "shub reaper stealer",
-      "mentions": 1
-    },
-    {
-      "keyword": "normal mfa challenge",
-      "mentions": 3
-    },
-    {
-      "keyword": "multi stage fraud",
       "mentions": 2
     },
     {
-      "keyword": "business cannot afford",
+      "keyword": "normal mfa challenge",
+      "mentions": 4
+    },
+    {
+      "keyword": "multi stage fraud",
       "mentions": 3
+    },
+    {
+      "keyword": "company's public image",
+      "mentions": 11
+    },
+    {
+      "keyword": "business cannot afford",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -154,6 +154,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+      "published": "Tue, 19 May 2026 18:25:49 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
+      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
+      "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
+      "published": "Tue, 19 May 2026 17:47:31 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Discord rolls out end-to-end encryption on voice, video calls",
       "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
       "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
@@ -207,29 +227,6 @@
       "published": "Tue, 19 May 2026 10:30:22 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "7-Eleven confirms data breach claimed by the ShinyHunters gang",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/",
-      "summary": "Convenience store chain giant 7-Eleven confirmed that its systems were breached in a cyberattack claimed by the ShinyHunters extortion group last month. [...]",
-      "published": "Tue, 19 May 2026 10:16:41 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/",
-      "summary": "Microsoft's total vulnerability count stayed steady in 2025, but critical flaws surged year over year. BeyondTrust breaks down why attackers are increasingly focused on privilege escalation and identity abuse. [...]",
-      "published": "Tue, 19 May 2026 10:00:10 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Privilege escalation",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +321,30 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
+      "link": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
+      "summary": "Verizon's \"2026 Data Breach Investigations Report\" (\"DBIR\") finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
+      "published": "Tue, 19 May 2026 21:55:35 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Windows Zero-Day Barrage Continues After Patch Tuesday",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday",
+      "summary": "YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.",
+      "published": "Tue, 19 May 2026 21:06:54 GMT",
+      "value_score": 43,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
       "summary": "The agency's GitHub repository, publicly available since November 2025, was ironically named \"Private-CISA.\"",
@@ -381,24 +402,6 @@
       "link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
       "summary": "The now-patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
       "published": "Mon, 18 May 2026 21:24:59 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Shai-Hulud Worm Clones Spread After Code Release",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release",
-      "summary": "The release of Shai-Hulud source code spells trouble for software developers as researchers worry the self-replicating worm could scale.",
-      "published": "Mon, 18 May 2026 19:53:05 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive",
-      "summary": "Security experts have long warned that insecure automatic tank gauge (ATG) systems exposed on the Internet can be tampered with by threat actors.",
-      "published": "Mon, 18 May 2026 15:41:55 GMT",
       "value_score": 10,
       "value_signals": []
     },

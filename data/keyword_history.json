@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1671,
+      "count": 1672,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -695,7 +695,7 @@
       ]
     },
     "remote code execution": {
-      "count": 391,
+      "count": 392,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2339,7 +2339,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 329,
+      "count": 330,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -13531,7 +13531,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13852,7 +13852,7 @@
       ]
     },
     "related software including": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13911,7 +13911,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -13935,7 +13935,8 @@
         "2026-05-15",
         "2026-05-16",
         "2026-05-17",
-        "2026-05-18"
+        "2026-05-18",
+        "2026-05-19"
       ]
     },
     "prompts land cleanly": {
@@ -15480,10 +15481,11 @@
       ]
     },
     "company's public image": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-05-19"
       ]
     },
     "romanian man extradited": {
@@ -15715,7 +15717,7 @@
       ]
     },
     "275 million students": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16646,19 +16648,19 @@
       ]
     },
     "microsoft com devicelogin": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19"
       ]
     },
     "normal mfa challenge": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19"
       ]
     },
     "align security continuity": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19"
       ]
@@ -16670,7 +16672,7 @@
       ]
     },
     "business cannot afford": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19"
       ]
@@ -16682,66 +16684,55 @@
       ]
     },
     "abb coresense hm": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-19"
       ]
     },
     "v12 security team": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-19"
       ]
     },
     "multi stage fraud": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-19"
       ]
     },
     "600 malicious packages": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-19"
       ]
     },
     "camera account credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-19"
       ]
     },
     "north africa region": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "shub reaper stealer": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "azure production environments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 13:21",
-      "articles": 56,
-      "top_keywords": [
-        "actively exploited flaw",
-        "pvi client application",
-        "exposed cloud infrastructure",
-        "sprawling phishing campaign",
-        "patient zero webinar"
-      ]
-    },
     {
       "timestamp": "2026-05-08 15:17",
       "articles": 56,
@@ -17829,6 +17820,17 @@
         "abb coresense hm",
         "unpatched chromadb vulnerability",
         "v12 security team"
+      ]
+    },
+    {
+      "timestamp": "2026-05-19 22:59",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "north africa region",
+        "abb coresense hm",
+        "v12 security team",
+        "twitter whistleblower complaint"
       ]
     }
   ]

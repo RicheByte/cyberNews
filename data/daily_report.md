@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-19 21:14 UTC  
+> **Last Updated:** 2026-05-19 22:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **north africa region** • **abb coresense hm** • **unpatched chromadb vulnerability** • **v12 security team** • **twitter whistleblower complaint** • **shub reaper stealer** • **normal mfa challenge** • **multi stage fraud** • **business cannot afford** • **azure production environments** • **actively exploited flaw** • **130 companies tangled** • **align security continuity** • **camera account credentials** • **600 malicious packages** • **275 million students** • **microsoft com devicelogin** • **related software including** • **massive ddos attacks**
+**remote code execution** • **north africa region** • **abb coresense hm** • **v12 security team** • **twitter whistleblower complaint** • **shub reaper stealer** • **normal mfa challenge** • **multi stage fraud** • **company's public image** • **business cannot afford** • **azure production environments** • **aggravated identity theft** • **actively exploited flaw** • **130 companies tangled** • **align security continuity** • **camera account credentials** • **related software including** • **600 malicious packages** • **275 million students** • **microsoft com devicelogin**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
+- [Cybercrime service disrupted for abusing Microsoft platform to sign malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/)
 - [Discord rolls out end-to-end encryption on voice, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/)
 - [FBI: Americans lost over $388 million to scams using crypto ATMs in 2025](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/)
 - [Microsoft Self-Service Password Reset abused in Azure data theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/)
 - [Microsoft plans to improve Windows 11 driver quality in 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/)
 - [Microsoft blames macOS update for undismissible Teams location prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/)
 - [New Shai-Hulud malware wave compromises 600 npm packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/)
-- [7-Eleven confirms data breach claimed by the ShinyHunters gang](https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/)
-- [Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation](https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut](https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut)
+- [Windows Zero-Day Barrage Continues After Patch Tuesday](https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday)
 - [CISA Exposes Secrets, Credentials in 'Private' Repo](https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo)
 - [Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS](https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos)
 - [Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution](https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution)
 - [Is 2026 the Year AI Bills of Materials Get Real?](https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real)
 - [Microsoft Exchange Zero-Day Under Attack, No Patch Available](https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch)
 - ['Claw Chain' Vulnerabilities Threaten OpenClaw Deployments](https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw)
-- [Shai-Hulud Worm Clones Spread After Code Release](https://www.darkreading.com/application-security/shai-hulud-worm-clones-spread-code-release)
-- [Fuel Tank Breaches Expand Scope of Iran's Cyber Offensive](https://www.darkreading.com/cyberattacks-data-breaches/fuel-tank-breaches-expand-scope-irans-cyber-offensive)
 
 ### Security Week
 

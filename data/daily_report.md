@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-19 14:48 UTC  
+> **Last Updated:** 2026-05-19 18:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **unpatched chromadb vulnerability** • **microsoft com devicelogin** • **twitter whistleblower complaint** • **service's login page** • **normal mfa challenge** • **275 million students** • **130 companies tangled** • **align security continuity** • **massive ddos attacks** • **epic business blunders** • **business cannot afford** • **harvests sensitive credentials** • **exploiting obscure vulnerabilities** • **finding security vulnerabilities** • **write arbitrary files** • **wire fraud conspiracy** • **walked away believing** • **united states today** • **russia hacked routers**
+**abb coresense hm** • **unpatched chromadb vulnerability** • **remote code execution** • **microsoft com devicelogin** • **v12 security team** • **twitter whistleblower complaint** • **normal mfa challenge** • **multi stage fraud** • **actively exploited flaw** • **275 million students** • **130 companies tangled** • **align security continuity** • **massive ddos attacks** • **epic business blunders** • **business cannot afford** • **600 malicious packages** • **camera account credentials** • **related software including** • **write arbitrary files** • **wire fraud conspiracy**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
+- [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
 - [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
 - [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
 - [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
 - [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html)
 - [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html)
 - [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html)
-- [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html)
-- [⚡ Weekly Recap: Exchange 0-Day, npm Worm, Fake AI Repo, Cisco Exploit and More](https://thehackernews.com/2026/05/weekly-recap-exchange-0-day-npm-worm.html)
 
 ### BleepingComputer
 
+- [Microsoft plans to improve Windows 11 driver quality in 2026](https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/)
+- [Microsoft blames macOS update for undismissible Teams location prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/)
 - [New Shai-Hulud malware wave compromises 600 npm packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/)
 - [7-Eleven confirms data breach claimed by the ShinyHunters gang](https://www.bleepingcomputer.com/news/security/7-eleven-confirms-data-breach-claimed-by-the-shinyhunters-gang/)
 - [Critical Microsoft Vulnerabilities Doubled: From Exposure to Escalation](https://www.bleepingcomputer.com/news/security/critical-microsoft-vulnerabilities-doubled-from-exposure-to-escalation/)
 - [Webinar: The hidden bottlenecks in network incident response](https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/)
 - [Microsoft confirms patching issues in restricted Windows networks](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/)
 - [INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers](https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/)
-- [SHub macOS infostealer variant spoofs Apple security updates](https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/)
-- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
+- [Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’](https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/)
 - [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
 - [Unpatched ChromaDB Vulnerability Can Lead to Server Takeover](https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/)
 - [B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards](https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/)
 - [Cyber Resilience is the New Business Continuity Plan](https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/)
 - [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
 - [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
-- [Critical Vulnerability Exposes Industrial Robot Fleets to Hacking](https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/)
-- [Millions Impacted Across Several US Healthcare Data Breaches](https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Kieback & Peter DDC Building Controllers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05)
+- [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02)
+- [ABB CoreSense HM and CoreSense M10](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01)
+- [ScadaBR](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03)
+- [ZKTeco CCTV Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Siemens Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08)
 - [Siemens gWAP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01)
-- [Siemens SIMATIC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-10)
-- [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-12)
-- [Siemens Ruggedcom Rox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-16)
-- [Siemens Simcenter Femap](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-05)
-- [Universal Robots Polyscope 5](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-17)
 
 ---
 

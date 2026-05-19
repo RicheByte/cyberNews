@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1669,
+      "count": 1670,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -695,7 +695,7 @@
       ]
     },
     "remote code execution": {
-      "count": 389,
+      "count": 390,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2339,7 +2339,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 327,
+      "count": 328,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2418,7 +2418,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -8014,7 +8014,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13531,7 +13531,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13550,7 +13550,8 @@
         "2026-05-09",
         "2026-05-10",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-19"
       ]
     },
     "nkabuse malware hosted": {
@@ -13851,12 +13852,13 @@
       ]
     },
     "related software including": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-20",
         "2026-04-21",
         "2026-05-04",
-        "2026-05-05"
+        "2026-05-05",
+        "2026-05-19"
       ]
     },
     "trusted download path": {
@@ -14964,7 +14966,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15713,7 +15715,7 @@
       ]
     },
     "275 million students": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16638,37 +16640,37 @@
       ]
     },
     "unpatched chromadb vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "microsoft com devicelogin": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "normal mfa challenge": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "align security continuity": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "epic business blunders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
     },
     "business cannot afford": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-19"
       ]
@@ -16678,20 +16680,39 @@
       "dates": [
         "2026-05-19"
       ]
+    },
+    "abb coresense hm": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "v12 security team": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "multi stage fraud": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "600 malicious packages": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "camera account credentials": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 09:12",
-      "articles": 56,
-      "top_keywords": [
-        "actively exploited flaw",
-        "pvi client application",
-        "exposed cloud infrastructure",
-        "patient zero webinar",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-08 11:07",
       "articles": 56,
@@ -17779,6 +17800,17 @@
         "microsoft com devicelogin",
         "twitter whistleblower complaint",
         "service's login page"
+      ]
+    },
+    {
+      "timestamp": "2026-05-19 18:00",
+      "articles": 56,
+      "top_keywords": [
+        "abb coresense hm",
+        "unpatched chromadb vulnerability",
+        "remote code execution",
+        "microsoft com devicelogin",
+        "v12 security team"
       ]
     }
   ]

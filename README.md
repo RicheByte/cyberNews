@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-19 14:48 UTC |
+| 🕐 Last Updated | 2026-05-19 18:00 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `unpatched chromadb vulnerability` • `microsoft com devicelogin` • `twitter whistleblower complaint` • `service's login page` • `normal mfa challenge` • `275 million students` • `130 companies tangled` • `align security continuity` • `massive ddos attacks`
+`abb coresense hm` • `unpatched chromadb vulnerability` • `remote code execution` • `microsoft com devicelogin` • `v12 security team` • `twitter whistleblower complaint` • `normal mfa challenge` • `multi stage fraud` • `actively exploited flaw` • `275 million students`
 
 ## 📄 Reports
 

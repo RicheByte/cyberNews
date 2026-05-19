@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-19 18:00",
+  "last_updated": "2026-05-19 21:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "remote code execution",
+    "north africa region",
     "abb coresense hm",
     "unpatched chromadb vulnerability",
-    "remote code execution",
-    "microsoft com devicelogin",
     "v12 security team",
     "twitter whistleblower complaint",
+    "shub reaper stealer",
     "normal mfa challenge",
     "multi stage fraud",
+    "business cannot afford",
+    "azure production environments",
     "actively exploited flaw",
-    "275 million students",
     "130 companies tangled",
     "align security continuity",
-    "massive ddos attacks",
-    "epic business blunders",
-    "business cannot afford",
-    "600 malicious packages",
     "camera account credentials",
+    "600 malicious packages",
+    "275 million students",
+    "microsoft com devicelogin",
     "related software including",
-    "write arbitrary files",
-    "wire fraud conspiracy"
+    "massive ddos attacks"
   ],
   "trending": [
     {
-      "keyword": "abb coresense hm",
+      "keyword": "remote code execution",
+      "mentions": 391
+    },
+    {
+      "keyword": "north africa region",
       "mentions": 1
+    },
+    {
+      "keyword": "abb coresense hm",
+      "mentions": 2
     },
     {
       "keyword": "unpatched chromadb vulnerability",
-      "mentions": 2
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 390
-    },
-    {
-      "keyword": "microsoft com devicelogin",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "v12 security team",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1670
-    },
-    {
-      "keyword": "normal mfa challenge",
       "mentions": 2
     },
     {
-      "keyword": "multi stage fraud",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1671
+    },
+    {
+      "keyword": "shub reaper stealer",
       "mentions": 1
     },
     {
-      "keyword": "actively exploited flaw",
-      "mentions": 95
+      "keyword": "normal mfa challenge",
+      "mentions": 3
     },
     {
-      "keyword": "275 million students",
-      "mentions": 33
+      "keyword": "multi stage fraud",
+      "mentions": 2
+    },
+    {
+      "keyword": "business cannot afford",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -154,6 +154,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Discord rolls out end-to-end encryption on voice, video calls",
+      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
+      "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
+      "published": "Tue, 19 May 2026 16:37:45 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+      "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+      "published": "Tue, 19 May 2026 15:45:39 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+      "published": "Tue, 19 May 2026 15:35:32 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
       "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
@@ -202,37 +229,6 @@
       "value_signals": [
         "Privilege escalation",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: The hidden bottlenecks in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-the-hidden-bottlenecks-in-network-incident-response/",
-      "summary": "IT teams are increasingly overwhelmed by alerts from disconnected systems, forcing responders to manually coordinate investigations during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce response delays and improve operational coordination. [...]",
-      "published": "Tue, 19 May 2026 08:14:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms patching issues in restricted Windows networks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-patching-issues-in-restricted-windows-networks/",
-      "summary": "Microsoft says customers in restricted network environments may encounter Windows Update failures after installing the January 2026 optional non-security preview updates. [...]",
-      "published": "Tue, 19 May 2026 07:22:15 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "summary": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-      "published": "Mon, 18 May 2026 18:15:30 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -328,6 +324,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
+      "summary": "The agency's GitHub repository, publicly available since November 2025, was ironically named \"Private-CISA.\"",
+      "published": "Tue, 19 May 2026 19:49:53 GMT",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS",
+      "link": "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos",
+      "summary": "The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.",
+      "published": "Tue, 19 May 2026 19:49:40 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution",
       "link": "https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution",
       "summary": "Dark Reading editors reflect on two decades of dramatic change — from perimeter defense to assume-breach strategies — and warn that while AI, cloud, and COVID-19 have transformed the threat landscape, organizations are still failing at fundamental security hygiene that could stop sophisticated attacks in their tracks.",
@@ -385,29 +401,6 @@
       "published": "Mon, 18 May 2026 15:41:55 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Boring Stuff Is Dangerous Now",
-      "link": "https://www.darkreading.com/cyber-risk/ai-code-and-agents-forces-defenders-adapt",
-      "summary": "AI agents capable of discovering and exploiting obscure vulnerabilities are emerging alongside developers producing vast amounts of potentially flawed AI-generated code, forcing defenders to adapt accordingly.",
-      "published": "Mon, 18 May 2026 13:00:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
-      "link": "https://www.darkreading.com/cyber-risk/broken-dreams-2-decades-cyber-fails",
-      "summary": "From the MGM and Caesars fiasco and MOVEit's patch nightmare to epic business blunders and the jaded reality of living in a post-breach world, Dark Reading looks back at the mistakes, miscalculations, systemic failures, and cringeworthy moments that still have us shaking our heads.",
-      "published": "Mon, 18 May 2026 12:00:00 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",

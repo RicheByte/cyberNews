@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-19 10:57 UTC |
+| 🕐 Last Updated | 2026-05-19 14:48 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `twitter whistleblower complaint` • `service's login page` • `reduce phishing exposure` • `275 million students` • `130 companies tangled` • `harvests sensitive credentials` • `write arbitrary files` • `wire fraud conspiracy` • `unpatched 2020 cve`
+`remote code execution` • `unpatched chromadb vulnerability` • `microsoft com devicelogin` • `twitter whistleblower complaint` • `service's login page` • `normal mfa challenge` • `275 million students` • `130 companies tangled` • `align security continuity` • `massive ddos attacks`
 
 ## 📄 Reports
 

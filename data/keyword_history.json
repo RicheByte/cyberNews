@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1668,
+      "count": 1669,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -695,7 +695,7 @@
       ]
     },
     "remote code execution": {
-      "count": 388,
+      "count": 389,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2339,7 +2339,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 326,
+      "count": 327,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2418,7 +2418,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -8014,7 +8014,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13813,7 +13813,7 @@
       ]
     },
     "russia hacked routers": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14964,7 +14964,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14980,7 +14980,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-19"
       ]
     },
     "abb products support": {
@@ -15692,7 +15693,7 @@
       ]
     },
     "service's login page": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15712,7 +15713,7 @@
       ]
     },
     "275 million students": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15776,7 +15777,7 @@
       ]
     },
     "united states today": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16072,14 +16073,15 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-05-13",
         "2026-05-14",
         "2026-05-15",
         "2026-05-16",
         "2026-05-17",
-        "2026-05-18"
+        "2026-05-18",
+        "2026-05-19"
       ]
     },
     "released security patches": {
@@ -16411,12 +16413,13 @@
       ]
     },
     "exploiting obscure vulnerabilities": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-15",
         "2026-05-16",
         "2026-05-17",
-        "2026-05-18"
+        "2026-05-18",
+        "2026-05-19"
       ]
     },
     "woocommerce checkout pages": {
@@ -16605,7 +16608,7 @@
       ]
     },
     "harvests sensitive credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-19"
       ]
@@ -16633,20 +16636,51 @@
       "dates": [
         "2026-05-19"
       ]
+    },
+    "unpatched chromadb vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "microsoft com devicelogin": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "normal mfa challenge": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "align security continuity": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "epic business blunders": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "business cannot afford": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
+    },
+    "walked away believing": {
+      "count": 1,
+      "dates": [
+        "2026-05-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 07:22",
-      "articles": 56,
-      "top_keywords": [
-        "chrome 148 rolls",
-        "actively exploited flaw",
-        "pvi client application",
-        "exposed cloud infrastructure",
-        "patient zero webinar"
-      ]
-    },
     {
       "timestamp": "2026-05-08 09:12",
       "articles": 56,
@@ -17734,6 +17768,17 @@
         "service's login page",
         "reduce phishing exposure",
         "275 million students"
+      ]
+    },
+    {
+      "timestamp": "2026-05-19 14:48",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "unpatched chromadb vulnerability",
+        "microsoft com devicelogin",
+        "twitter whistleblower complaint",
+        "service's login page"
       ]
     }
   ]

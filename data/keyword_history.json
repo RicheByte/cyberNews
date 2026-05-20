@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1675,
+      "count": 1676,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -696,7 +696,7 @@
       ]
     },
     "remote code execution": {
-      "count": 395,
+      "count": 396,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -832,7 +832,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2422,7 +2422,7 @@
       ]
     },
     "write arbitrary files": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-06",
         "2026-01-07",
@@ -2431,7 +2431,8 @@
         "2026-05-16",
         "2026-05-17",
         "2026-05-18",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-20"
       ]
     },
     "supply chain risks": {
@@ -4121,7 +4122,7 @@
       ]
     },
     "run arbitrary code": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-19",
         "2026-01-20",
@@ -6367,7 +6368,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6383,7 +6384,8 @@
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-20"
       ]
     },
     "memory spain's ministry": {
@@ -13536,7 +13538,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13858,7 +13860,7 @@
       ]
     },
     "related software including": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14975,7 +14977,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15490,7 +15492,7 @@
       ]
     },
     "company's public image": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15748,7 +15750,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16700,7 +16702,7 @@
       ]
     },
     "abb coresense hm": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16714,7 +16716,7 @@
       ]
     },
     "multi stage fraud": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16762,13 +16764,13 @@
       ]
     },
     "platform's source code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-20"
       ]
     },
     "customer production systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-20"
       ]
@@ -16784,20 +16786,39 @@
       "dates": [
         "2026-05-20"
       ]
+    },
+    "guard securing ai": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "consuming ai bill": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "unseen unmanaged elements": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "windows publicly referred": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "deliver malicious code": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 20:54",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "patient zero webinar",
-        "internal trellix services",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-08 22:52",
       "articles": 56,
@@ -17885,6 +17906,17 @@
         "platform's source code",
         "v12 security team",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-20 14:50",
+      "articles": 56,
+      "top_keywords": [
+        "abb coresense hm",
+        "remote code execution",
+        "platform's source code",
+        "company's public image",
+        "guard securing ai"
       ]
     }
   ]

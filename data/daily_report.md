@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-20 10:45 UTC  
+> **Last Updated:** 2026-05-20 14:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **abb coresense hm** • **platform's source code** • **v12 security team** • **twitter whistleblower complaint** • **normal mfa challenge** • **multi stage fraud** • **customer production systems** • **company's public image** • **azure production environments** • **aggravated identity theft** • **related software including** • **run arbitrary code** • **max severity flaw** • **execute arbitrary code** • **actively exploited flaw** • **unpatched chromadb vulnerability** • **cybercrime group defaced** • **massive ddos attacks** • **fundamental security hygiene**
+**abb coresense hm** • **remote code execution** • **platform's source code** • **company's public image** • **guard securing ai** • **consuming ai bill** • **twitter whistleblower complaint** • **multi stage fraud** • **customer production systems** • **actively exploited flaw** • **unseen unmanaged elements** • **windows publicly referred** • **related software including** • **run arbitrary code** • **execute arbitrary code** • **deliver malicious code** • **massive ddos attacks** • **cybercrime group defaced** • **service ddos attacks** • **write arbitrary files**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
+- [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
+- [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
+- [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
+- [Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
 - [Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit](https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html)
 - [Grafana GitHub Breach Exposes Source Code via TanStack npm Attack](https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html)
-- [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
 - [Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps](https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html)
-- [DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability](https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html)
-- [The New Phishing Click: How OAuth Consent Bypasses MFA](https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html)
-- [Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare](https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html)
-- [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html)
 
 ### BleepingComputer
 
+- [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
+- [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
+- [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
 - [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 - [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
 - [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
 - [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
 - [Cybercrime service disrupted for abusing Microsoft platform to sign malware](https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/)
-- [Discord rolls out end-to-end encryption on voice, video calls](https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/)
-- [FBI: Americans lost over $388 million to scams using crypto ATMs in 2025](https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/)
-- [Microsoft Self-Service Password Reset abused in Azure data theft attacks](https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Infosecurity Europe](https://www.darkreading.com/events/infosecurity-europe)
 - [Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East](https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east)
+- [What It'll Take to Make AI BOMs Usable in a Modern Security Program](https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program)
 - [What Will Make AI BOMs Real?](https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real)
 - [Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut](https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut)
 - [Windows Zero-Day Barrage Continues After Patch Tuesday](https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday)
 - [CISA Exposes Secrets, Credentials in 'Private' Repo](https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo)
 - [Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS](https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos)
-- [Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution](https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution)
-- [Is 2026 the Year AI Bills of Materials Get Real?](https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real)
 
 ### Security Week
 
+- [AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop](https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/)
+- [1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials](https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/)
+- [Anthropic Silently Patches Claude Code Sandbox Bypass](https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/)
+- [Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack](https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/)
+- [Caught Off Guard: Securing AI After It Hits Production](https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/)
 - [Real-World ICS Security Tales From the Trenches](https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/)
 - [Virtual Event Today: Threat Detection & Incident Response Summit](https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/)
 - [GitHub Confirms Hack Impacting 3,800 Internal Repositories](https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/)
-- [Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector](https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/)
-- [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
-- [Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’](https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/)
-- [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
-- [Unpatched ChromaDB Vulnerability Can Lead to Server Takeover](https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/)
 
 ### Threatpost
 

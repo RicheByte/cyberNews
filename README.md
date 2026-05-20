@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-20 10:45 UTC |
+| 🕐 Last Updated | 2026-05-20 14:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `abb coresense hm` • `platform's source code` • `v12 security team` • `twitter whistleblower complaint` • `normal mfa challenge` • `multi stage fraud` • `customer production systems` • `company's public image` • `azure production environments`
+`abb coresense hm` • `remote code execution` • `platform's source code` • `company's public image` • `guard securing ai` • `consuming ai bill` • `twitter whistleblower complaint` • `multi stage fraud` • `customer production systems` • `actively exploited flaw`
 
 ## 📄 Reports
 

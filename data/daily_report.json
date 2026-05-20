@@ -1,72 +1,119 @@
 {
-  "last_updated": "2026-05-20 10:45",
+  "last_updated": "2026-05-20 14:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
     "abb coresense hm",
+    "remote code execution",
     "platform's source code",
-    "v12 security team",
+    "company's public image",
+    "guard securing ai",
+    "consuming ai bill",
     "twitter whistleblower complaint",
-    "normal mfa challenge",
     "multi stage fraud",
     "customer production systems",
-    "company's public image",
-    "azure production environments",
-    "aggravated identity theft",
+    "actively exploited flaw",
+    "unseen unmanaged elements",
+    "windows publicly referred",
     "related software including",
     "run arbitrary code",
-    "max severity flaw",
     "execute arbitrary code",
-    "actively exploited flaw",
-    "unpatched chromadb vulnerability",
-    "cybercrime group defaced",
+    "deliver malicious code",
     "massive ddos attacks",
-    "fundamental security hygiene"
+    "cybercrime group defaced",
+    "service ddos attacks",
+    "write arbitrary files"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 395
-    },
-    {
       "keyword": "abb coresense hm",
-      "mentions": 6
-    },
-    {
-      "keyword": "platform's source code",
-      "mentions": 2
-    },
-    {
-      "keyword": "v12 security team",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1675
-    },
-    {
-      "keyword": "normal mfa challenge",
       "mentions": 7
     },
     {
-      "keyword": "multi stage fraud",
-      "mentions": 6
+      "keyword": "remote code execution",
+      "mentions": 396
     },
     {
-      "keyword": "customer production systems",
-      "mentions": 2
+      "keyword": "platform's source code",
+      "mentions": 3
     },
     {
       "keyword": "company's public image",
-      "mentions": 13
+      "mentions": 14
     },
     {
-      "keyword": "azure production environments",
-      "mentions": 5
+      "keyword": "guard securing ai",
+      "mentions": 1
+    },
+    {
+      "keyword": "consuming ai bill",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1676
+    },
+    {
+      "keyword": "multi stage fraud",
+      "mentions": 7
+    },
+    {
+      "keyword": "customer production systems",
+      "mentions": 3
+    },
+    {
+      "keyword": "actively exploited flaw",
+      "mentions": 101
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
+      "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
+      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
+      "published": "Wed, 20 May 2026 20:06:44 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
+      "link": "https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html",
+      "summary": "Cybersecurity researchers have flagged fresh activity from a China-aligned threat actor known as Webworm in 2025, deploying custom backdoors that employ Discord and Microsoft Graph API for command-and-control (C2 or C&C) communications. Webworm, first publicly documented by Broadcom-owned Symantec in September 2022, is assessed to be active since at least 2022, targeting government agencies",
+      "published": "Wed, 20 May 2026 18:21:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Agent AI is Coming. Are You Ready?",
+      "link": "https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html",
+      "summary": "New Industry Data Just Released Suggests Not. On May 19th, 2026, Orchid Security released the results of our Identity Gap: Snapshot 2026. Among the findings, \"identity dark matter\" (the unseen, unmanaged elements of identity) now overshadows the visible elements 57% vs. 43%. And it couldn't have occurred at a worse time, with enterprises embracing Agent AI with both arms (and unfortunately, as",
+      "published": "Wed, 20 May 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
+      "published": "Wed, 20 May 2026 17:08:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
+      "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
+      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expert Guide to Typosquatting in the AI Era → TL;DR Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.",
+      "published": "Wed, 20 May 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
@@ -94,15 +141,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
-      "published": "Wed, 20 May 2026 09:31:15 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
       "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
       "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud. \"Users",
@@ -111,51 +149,37 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
-      "link": "https://thehackernews.com/2026/05/dirtydecrypt-poc-released-for-linux.html",
-      "summary": "Proof-of-concept (PoC) exploit code has now been released for a recently patched security flaw in the Linux kernel that could allow for local privilege escalation (LPE). Dubbed DirtyDecrypt (aka DirtyCBC), the vulnerability was discovered and reported by the Zellic and V12 security team on May 9, 2026, only to be informed by the maintainers that it was a duplicate of a vulnerability that had",
-      "published": "Tue, 19 May 2026 20:26:26 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "PoC available ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Identity Alone Isn't Enough: Why Device Security Has to Share the Load",
+      "link": "https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/",
+      "summary": "Identity checks alone can't stop attackers using stolen session tokens and compromised devices. Specops Software outlines why Zero Trust strategies increasingly depend on continuous device verification. [...]",
+      "published": "Wed, 20 May 2026 10:02:12 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "The New Phishing Click: How OAuth Consent Bypasses MFA",
-      "link": "https://thehackernews.com/2026/05/the-new-phishing-click-how-oauth.html",
-      "summary": "In February 2026, a phishing-as-a-service (PhaaS) platform called EvilTokens went live. Within five weeks, it had compromised more than 340 Microsoft 365 organizations across five countries. The targets of the platform received a message asking them to enter a short code at microsoft.com/devicelogin and complete their normal MFA challenge, then walked away believing they had verified a",
-      "published": "Tue, 19 May 2026 17:00:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Drupal critical update to fix bug with high exploitation risk",
+      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
+      "summary": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
+      "published": "Wed, 20 May 2026 08:52:29 -0400",
+      "value_score": 40,
       "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Drupal to Release Urgent Core Security Updates on May 20, Sites Told to Prepare",
-      "link": "https://thehackernews.com/2026/05/drupal-to-release-urgent-core-security.html",
-      "summary": "Drupal has issued an alert stating that it intends to release a \"core security release\" for all supported branches on May 20, 2026, from 5-9 p.m. UTC. \"The Drupal Security Team urges you to reserve time for core updates at that time because exploits might be developed within hours or days,\" the maintainers of the PHP-based content management system (CMS) said. \"Not all configurations are",
-      "published": "Tue, 19 May 2026 16:14:45 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
-      "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
-      "summary": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance. \"These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,\"",
-      "published": "Tue, 19 May 2026 14:53:15 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "RCE ×2",
+        "Patch/update ×3",
         "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
+      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
+      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
+      "published": "Wed, 20 May 2026 06:52:31 -0400",
+      "value_score": 38,
+      "value_signals": [
+        "Privilege escalation",
+        "PoC available",
         "Exploit wording"
       ]
     },
@@ -211,33 +235,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Discord rolls out end-to-end encryption on voice, video calls",
-      "link": "https://www.bleepingcomputer.com/news/security/discord-rolls-out-end-to-end-encryption-on-voice-video-calls/",
-      "summary": "Discord announced that all voice and video calls through the communication platform are now protected by default with end-to-end encryption (E2EE). [...]",
-      "published": "Tue, 19 May 2026 16:37:45 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
-      "summary": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
-      "published": "Tue, 19 May 2026 15:45:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
-      "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
-      "published": "Tue, 19 May 2026 15:35:32 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -332,10 +329,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Infosecurity Europe",
+      "link": "https://www.darkreading.com/events/infosecurity-europe",
+      "summary": "",
+      "published": "2026-06-02T13:30:00.000Z",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
       "link": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
       "summary": "While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.",
       "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What It'll Take to Make AI BOMs Usable in a Modern Security Program",
+      "link": "https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program",
+      "summary": "Five ways CISOs can prepare for consuming AI Bill of Materials and influence the direction of how they're generated.",
+      "published": "Wed, 20 May 2026 03:44:40 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -352,7 +367,7 @@
       "source": "Dark Reading",
       "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
       "link": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
-      "summary": "Verizon's \"2026 Data Breach Investigations Report\" (\"DBIR\") finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
+      "summary": "Verizon's 2026 Data Breach Investigations Report (DBIR) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
       "published": "Tue, 19 May 2026 21:55:35 GMT",
       "value_score": 28,
       "value_signals": [
@@ -393,22 +408,47 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Looking Back, Looking Forward: Digesting a Dynamic Bouillabaisse of Cyber Evolution",
-      "link": "https://www.darkreading.com/cybersecurity-operations/looking-back-looking-forward-bouillabaisse-cyber-evolution",
-      "summary": "Dark Reading editors reflect on two decades of dramatic change — from perimeter defense to assume-breach strategies — and warn that while AI, cloud, and COVID-19 have transformed the threat landscape, organizations are still failing at fundamental security hygiene that could stop sophisticated attacks in their tracks.",
-      "published": "Tue, 19 May 2026 13:28:43 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "Security Week",
+      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
+      "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
+      "summary": "Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry. The post AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 14:37:36 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Is 2026 the Year AI Bills of Materials Get Real?",
-      "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
-      "summary": "Understanding AI BOMs and where they fit into risk management for artificial intelligence.",
-      "published": "Mon, 18 May 2026 21:44:53 GMT",
+      "source": "Security Week",
+      "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
+      "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
+      "summary": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context. The post 1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 13:34:54 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
+      "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
+      "summary": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data. The post Anthropic Silently Patches Claude Code Sandbox Bypass appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
+      "link": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
+      "summary": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace. The post Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 11:06:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Caught Off Guard: Securing AI After It Hits Production",
+      "link": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
+      "summary": "As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode. The post Caught Off Guard: Securing AI After It Hits Production appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -438,66 +478,6 @@
       "published": "Wed, 20 May 2026 09:28:53 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
-      "link": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
-      "summary": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 00:04:48 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
-      "link": "https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/",
-      "summary": "Drupal says attackers may develop an exploit for the vulnerability within hours or days. The post Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 16:22:18 +0000",
-      "value_score": 48,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’",
-      "link": "https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/",
-      "summary": "Fox Tempest provides a service that cybercriminals use to distribute ransomware and other malware disguised as legitimate software. The post Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’ appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 16:06:22 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks",
-      "link": "https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/",
-      "summary": "Attackers are increasingly abusing Microsoft’s decades-old MSHTA utility to stealthily deliver stealers, loaders, and persistent malware through phishing, fake software downloads, and LOLBIN-based attack chains. The post Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 13:00:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Unpatched ChromaDB Vulnerability Can Lead to Server Takeover",
-      "link": "https://www.securityweek.com/unpatched-chromadb-vulnerability-can-lead-to-server-takeover/",
-      "summary": "The security defect can be exploited remotely, without authentication, to execute arbitrary code and leak sensitive information. The post Unpatched ChromaDB Vulnerability Can Lead to Server Takeover appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 12:54:21 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

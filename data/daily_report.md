@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-19 22:59 UTC  
+> **Last Updated:** 2026-05-20 02:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **north africa region** • **abb coresense hm** • **v12 security team** • **twitter whistleblower complaint** • **shub reaper stealer** • **normal mfa challenge** • **multi stage fraud** • **company's public image** • **business cannot afford** • **azure production environments** • **aggravated identity theft** • **actively exploited flaw** • **130 companies tangled** • **align security continuity** • **camera account credentials** • **related software including** • **600 malicious packages** • **275 million students** • **microsoft com devicelogin**
+**remote code execution** • **north africa region** • **abb coresense hm** • **v12 security team** • **twitter whistleblower complaint** • **shub reaper stealer** • **overtaken credential abuse** • **normal mfa challenge** • **multi stage fraud** • **company's public image** • **business cannot afford** • **azure production environments** • **aggravated identity theft** • **actively exploited flaw** • **130 companies tangled** • **align security continuity** • **camera account credentials** • **related software including** • **600 malicious packages** • **275 million students**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector](https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/)
 - [Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation](https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/)
 - [Microsoft Disrupts Malware-Signing Service Run by ‘Fox Tempest’](https://www.securityweek.com/microsoft-disrupts-malware-signing-service-run-by-fox-tempest/)
 - [Legacy Windows Tool MSHTA Fuels Surge in Silent Malware Attacks](https://www.securityweek.com/legacy-windows-tool-mshta-fuels-surge-in-silent-malware-attacks/)
@@ -67,7 +68,6 @@
 - [B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards](https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/)
 - [Cyber Resilience is the New Business Continuity Plan](https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/)
 - [201 Arrested in Crackdown on Cybercrime in Middle East, North Africa](https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/)
-- [PoC Released for DirtyDecrypt Linux Kernel Vulnerability](https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/)
 
 ### Threatpost
 

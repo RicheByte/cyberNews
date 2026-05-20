@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-19 22:59",
+  "last_updated": "2026-05-20 02:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,6 +9,7 @@
     "v12 security team",
     "twitter whistleblower complaint",
     "shub reaper stealer",
+    "overtaken credential abuse",
     "normal mfa challenge",
     "multi stage fraud",
     "company's public image",
@@ -21,49 +22,48 @@
     "camera account credentials",
     "related software including",
     "600 malicious packages",
-    "275 million students",
-    "microsoft com devicelogin"
+    "275 million students"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 392
+      "mentions": 393
     },
     {
       "keyword": "north africa region",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "abb coresense hm",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "v12 security team",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1672
+      "mentions": 1673
     },
     {
       "keyword": "shub reaper stealer",
-      "mentions": 2
-    },
-    {
-      "keyword": "normal mfa challenge",
-      "mentions": 4
-    },
-    {
-      "keyword": "multi stage fraud",
       "mentions": 3
     },
     {
-      "keyword": "company's public image",
-      "mentions": 11
+      "keyword": "overtaken credential abuse",
+      "mentions": 1
     },
     {
-      "keyword": "business cannot afford",
+      "keyword": "normal mfa challenge",
+      "mentions": 5
+    },
+    {
+      "keyword": "multi stage fraud",
       "mentions": 4
+    },
+    {
+      "keyword": "company's public image",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -407,6 +407,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
+      "link": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
+      "summary": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 00:04:48 +0000",
+      "value_score": 58,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation",
       "link": "https://www.securityweek.com/drupal-to-patch-highly-critical-vulnerability-at-risk-of-quick-exploitation/",
       "summary": "Drupal says attackers may develop an exploit for the vulnerability within hours or days. The post Drupal to Patch Highly Critical Vulnerability at Risk of Quick Exploitation appeared first on SecurityWeek .",
@@ -478,17 +491,6 @@
       "published": "Tue, 19 May 2026 10:32:14 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
-      "link": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
-      "summary": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 09:42:56 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "PoC available ×2"
-      ]
     },
     {
       "source": "Threatpost",

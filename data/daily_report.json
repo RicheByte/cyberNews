@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-20 18:12",
+  "last_updated": "2026-05-20 21:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "secure ai agents",
     "abb coresense hm",
-    "yellowkey bitlocker bypass",
+    "secure ai agents",
+    "complete system compromise",
     "platform's source code",
+    "finding security vulnerabilities",
     "twitter whistleblower complaint",
     "missed token rotation",
-    "guard securing ai",
     "customer production systems",
-    "consuming ai bill",
     "company's public image",
     "unseen unmanaged elements",
+    "malicious cyber actors",
+    "improve cyber hygiene",
+    "guard securing ai",
+    "consuming ai bill",
     "windows publicly referred",
     "related software including",
     "publicly disclosed weakness",
-    "actively exploited flaw",
-    "aggravated identity theft",
-    "massive ddos attacks",
-    "grafana data breach",
-    "run arbitrary code",
-    "remote code execution"
+    "yellowkey bitlocker bypass",
+    "service ddos attacks",
+    "massive ddos attacks"
   ],
   "trending": [
     {
-      "keyword": "secure ai agents",
-      "mentions": 1
-    },
-    {
       "keyword": "abb coresense hm",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "yellowkey bitlocker bypass",
+      "keyword": "secure ai agents",
+      "mentions": 2
+    },
+    {
+      "keyword": "complete system compromise",
       "mentions": 1
     },
     {
       "keyword": "platform's source code",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "finding security vulnerabilities",
+      "mentions": 43
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1677
+      "mentions": 1678
     },
     {
       "keyword": "missed token rotation",
-      "mentions": 1
-    },
-    {
-      "keyword": "guard securing ai",
       "mentions": 2
     },
     {
       "keyword": "customer production systems",
-      "mentions": 4
-    },
-    {
-      "keyword": "consuming ai bill",
-      "mentions": 2
+      "mentions": 5
     },
     {
       "keyword": "company's public image",
-      "mentions": 15
+      "mentions": 16
+    },
+    {
+      "keyword": "unseen unmanaged elements",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -150,6 +150,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
+      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
+      "published": "Wed, 20 May 2026 17:36:24 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers bypass SonicWall VPN MFA due to incomplete patching",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/",
+      "summary": "Threat actors brute-forced VPN credentials and bypassed multi-factor authentication (MFA) on SonicWall Gen6 SSL-VPN appliances to deploy tools used in ransomware attacks. [...]",
+      "published": "Wed, 20 May 2026 17:19:17 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
       "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
@@ -215,26 +235,6 @@
       "value_signals": [
         "Zero-day ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
-      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
-      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
-      "published": "Wed, 20 May 2026 01:08:42 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
-      "summary": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
-      "published": "Tue, 19 May 2026 18:25:49 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +329,44 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
+      "summary": "There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
+      "published": "Wed, 20 May 2026 20:52:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
+      "link": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
+      "summary": "Open source software giant GitHub confirmed a data breach this week involving the theft of thousands of repos. One threat actor — TeamPCP — took credit.",
+      "published": "Wed, 20 May 2026 20:51:32 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.",
+      "link": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
+      "summary": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
+      "published": "Wed, 20 May 2026 20:35:35 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Processes and Culture Top Reasons Behind Data Breaches",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches",
+      "summary": "Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
+      "published": "Wed, 20 May 2026 17:42:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control",
       "link": "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os",
       "summary": "An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
@@ -366,50 +404,6 @@
       "published": "Wed, 20 May 2026 03:44:40 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "What Will Make AI BOMs Real?",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real",
-      "summary": "A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).",
-      "published": "Tue, 19 May 2026 22:17:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
-      "link": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
-      "summary": "Verizon's 2026 Data Breach Investigations Report (DBIR) finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
-      "published": "Tue, 19 May 2026 21:55:35 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Windows Zero-Day Barrage Continues After Patch Tuesday",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday",
-      "summary": "YellowKey, GreenPlasma, and MiniPlasma add to the growing list of vulnerabilities a security researcher disclosed over the past six weeks.",
-      "published": "Tue, 19 May 2026 21:06:54 GMT",
-      "value_score": 43,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
-      "summary": "The agency's GitHub repository, publicly available since November 2025, was ironically named \"Private-CISA.\"",
-      "published": "Tue, 19 May 2026 19:49:53 GMT",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
-      ]
     },
     {
       "source": "Security Week",
@@ -570,6 +564,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-410",
+      "published": "Wed, 20 May 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Kieback & Peter DDC Building Controllers",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026-4293) DDC4100 <=1.12.14 (CVE-2026-4293) DDC4200 <=1.12.14 (CVE-2026-4293) DDC4200-L <=1.12.14 (CVE-2026-4293) DDC4400 <=1.12.14 (CVE-2026-4293) DDC4002e <=1.23.4 (CVE-2026-4293) DDC4200e <=1.23.4 (CVE-2026-4293) DDC4400e <=1.23.4 (CVE-2026-4293) DDC4020e <=1.23.",
@@ -579,6 +588,20 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×8",
         "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ZKTeco CCTV Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZKTeco CCTV Cameras Authentication Bypass Using an Alternate Path or Channel Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Lo",
+      "published": "Tue, 19 May 26 12:00:00 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Auth bypass",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -626,20 +649,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ZKTeco CCTV Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZKTeco CCTV Cameras Authentication Bypass Using an Alternate Path or Channel Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Lo",
-      "published": "Tue, 19 May 26 12:00:00 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list ",
@@ -654,27 +663,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Siemens Siemens ROS#",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08",
-      "summary": "View CSAF Summary ROS# contains a ROS service file_server, that before version 2.2.2 contains a path traversal vulnerability which could allow an attacker to access, i.e. read and write, arbitrary files, which are accessible with the user rights of the user that runs the service, on the system that hosts service. Siemens has released a new version for ROS# and recommends to update to the latest version. The following versions of Siemens Siemens ROS# are affected: ROS# vers:intdot/<2.2.2 CVSS Ven",
+      "title": "Siemens Solid Edge",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-03",
+      "summary": "View CSAF Summary Solid Edge SE2026 before Update 5 is affected by two file parsing vulnerabilities that could be triggered when the application reads specially crafted files in PAR format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Solid Edge SE2026 and recommends to update to the latest version. The following versions of Siemens Solid Edge are affected: Solid Edge vers:intdot/<226.0.5 CVSS Vendor Equipment Vulnerabili",
       "published": "Thu, 14 May 26 12:00:00 +0000",
-      "value_score": 43,
+      "value_score": 51,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens gWAP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01",
-      "summary": "View CSAF Summary Siemens gPROMS Web Applications Publisher (gWAP) is affected by a remote code execution vulnerability introduced through a third-party component, namely the Axios HTTP client library. The vulnerability stems from a specific \"Gadget\" attack chain that allows prototype pollution in other third-party libraries, potentially allowing an attacker to execute arbitrary code. Siemens has released a new version for gWAP and recommends to update to the latest version. The following versio",
-      "published": "Thu, 14 May 26 12:00:00 +0000",
-      "value_score": 63,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "RCE",
-        "Patch/update"
+        "Patch/update ×2"
       ]
     }
   ],

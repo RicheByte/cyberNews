@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-20 18:12 UTC  
+> **Last Updated:** 2026-05-20 21:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**secure ai agents** • **abb coresense hm** • **yellowkey bitlocker bypass** • **platform's source code** • **twitter whistleblower complaint** • **missed token rotation** • **guard securing ai** • **customer production systems** • **consuming ai bill** • **company's public image** • **unseen unmanaged elements** • **windows publicly referred** • **related software including** • **publicly disclosed weakness** • **actively exploited flaw** • **aggravated identity theft** • **massive ddos attacks** • **grafana data breach** • **run arbitrary code** • **remote code execution**
+**abb coresense hm** • **secure ai agents** • **complete system compromise** • **platform's source code** • **finding security vulnerabilities** • **twitter whistleblower complaint** • **missed token rotation** • **customer production systems** • **company's public image** • **unseen unmanaged elements** • **malicious cyber actors** • **improve cyber hygiene** • **guard securing ai** • **consuming ai bill** • **windows publicly referred** • **related software including** • **publicly disclosed weakness** • **yellowkey bitlocker bypass** • **service ddos attacks** • **massive ddos attacks**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
+- [Hackers bypass SonicWall VPN MFA due to incomplete patching](https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/)
 - [Grafana breach caused by missed token rotation after TanStack attack](https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/)
 - [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
 - [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
 - [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
 - [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 - [Microsoft shares mitigation for YellowKey Windows zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/)
-- [GitHub investigates internal repositories breach claimed by TeamPCP](https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/)
-- [Max-severity flaw in ChromaDB for AI apps allows server hijacking](https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Cyber Pros Can't Decide If AI Is a Good or a Bad Thing](https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai)
+- [GitHub Confirms Breach, 4K Internal Repos Stolen](https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen)
+- [Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.](https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud)
+- [Processes and Culture Top Reasons Behind Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches)
 - [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
 - [Infosecurity Europe](https://www.darkreading.com/events/infosecurity-europe)
 - [Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East](https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east)
 - [What It'll Take to Make AI BOMs Usable in a Modern Security Program](https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program)
-- [What Will Make AI BOMs Real?](https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real)
-- [Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut](https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut)
-- [Windows Zero-Day Barrage Continues After Patch Tuesday](https://www.darkreading.com/cyberattacks-data-breaches/windows-zero-day-barrage-continues-after-patch-tuesday)
-- [CISA Exposes Secrets, Credentials in 'Private' Repo](https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 - [Kieback & Peter DDC Building Controllers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05)
+- [ZKTeco CCTV Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04)
 - [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02)
 - [ABB CoreSense HM and CoreSense M10](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01)
 - [ScadaBR](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03)
-- [ZKTeco CCTV Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens Siemens ROS#](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-08)
-- [Siemens gWAP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-01)
+- [Siemens Solid Edge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-03)
 
 ---
 

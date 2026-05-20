@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-20 18:12 UTC |
+| 🕐 Last Updated | 2026-05-20 21:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`secure ai agents` • `abb coresense hm` • `yellowkey bitlocker bypass` • `platform's source code` • `twitter whistleblower complaint` • `missed token rotation` • `guard securing ai` • `customer production systems` • `consuming ai bill` • `company's public image`
+`abb coresense hm` • `secure ai agents` • `complete system compromise` • `platform's source code` • `finding security vulnerabilities` • `twitter whistleblower complaint` • `missed token rotation` • `customer production systems` • `company's public image` • `unseen unmanaged elements`
 
 ## 📄 Reports
 

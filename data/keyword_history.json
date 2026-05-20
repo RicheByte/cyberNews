@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1674,
+      "count": 1675,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -696,7 +696,7 @@
       ]
     },
     "remote code execution": {
-      "count": 394,
+      "count": 395,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -832,7 +832,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -847,7 +847,8 @@
         "2026-04-01",
         "2026-04-16",
         "2026-04-17",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-05-20"
       ]
     },
     "france arrests latvian": {
@@ -4120,11 +4121,12 @@
       ]
     },
     "run arbitrary code": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-19",
         "2026-01-20",
-        "2026-01-22"
+        "2026-01-22",
+        "2026-05-20"
       ]
     },
     "42 000 impacted": {
@@ -13534,7 +13536,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13856,7 +13858,7 @@
       ]
     },
     "related software including": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13916,7 +13918,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14973,7 +14975,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -14990,7 +14992,8 @@
         "2026-05-12",
         "2026-05-14",
         "2026-05-15",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-20"
       ]
     },
     "abb products support": {
@@ -15487,7 +15490,7 @@
       ]
     },
     "company's public image": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15745,14 +15748,15 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-08",
         "2026-05-09",
         "2026-05-10",
         "2026-05-12",
         "2026-05-13",
-        "2026-05-18"
+        "2026-05-18",
+        "2026-05-20"
       ]
     },
     "qlnx targets developers": {
@@ -16650,9 +16654,10 @@
       ]
     },
     "unpatched chromadb vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-20"
       ]
     },
     "microsoft com devicelogin": {
@@ -16662,7 +16667,7 @@
       ]
     },
     "normal mfa challenge": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16695,21 +16700,21 @@
       ]
     },
     "abb coresense hm": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "v12 security team": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "multi stage fraud": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16744,7 +16749,7 @@
       ]
     },
     "azure production environments": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16757,18 +16762,24 @@
       ]
     },
     "platform's source code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-20"
       ]
     },
     "customer production systems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-20"
       ]
     },
     "max severity flaw": {
+      "count": 2,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "fundamental security hygiene": {
       "count": 1,
       "dates": [
         "2026-05-20"
@@ -16776,17 +16787,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 19:09",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "patient zero webinar",
-        "internal trellix services",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-08 20:54",
       "articles": 56,
@@ -17874,6 +17874,17 @@
         "platform's source code",
         "twitter whistleblower complaint",
         "shub reaper stealer"
+      ]
+    },
+    {
+      "timestamp": "2026-05-20 10:45",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "abb coresense hm",
+        "platform's source code",
+        "v12 security team",
+        "twitter whistleblower complaint"
       ]
     }
   ]

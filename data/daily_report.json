@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-05-20 07:39",
+  "last_updated": "2026-05-20 10:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
     "abb coresense hm",
     "platform's source code",
+    "v12 security team",
     "twitter whistleblower complaint",
-    "shub reaper stealer",
-    "overtaken credential abuse",
-    "north africa region",
     "normal mfa challenge",
     "multi stage fraud",
     "customer production systems",
-    "business cannot afford",
+    "company's public image",
     "azure production environments",
     "aggravated identity theft",
-    "130 companies tangled",
-    "v12 security team",
-    "align security continuity",
-    "max severity flaw",
-    "actively exploited flaw",
     "related software including",
-    "275 million students"
+    "run arbitrary code",
+    "max severity flaw",
+    "execute arbitrary code",
+    "actively exploited flaw",
+    "unpatched chromadb vulnerability",
+    "cybercrime group defaced",
+    "massive ddos attacks",
+    "fundamental security hygiene"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 394
+      "mentions": 395
     },
     {
       "keyword": "abb coresense hm",
-      "mentions": 5
-    },
-    {
-      "keyword": "platform's source code",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1674
-    },
-    {
-      "keyword": "shub reaper stealer",
-      "mentions": 4
-    },
-    {
-      "keyword": "overtaken credential abuse",
-      "mentions": 2
-    },
-    {
-      "keyword": "north africa region",
-      "mentions": 4
-    },
-    {
-      "keyword": "normal mfa challenge",
       "mentions": 6
     },
     {
+      "keyword": "platform's source code",
+      "mentions": 2
+    },
+    {
+      "keyword": "v12 security team",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1675
+    },
+    {
+      "keyword": "normal mfa challenge",
+      "mentions": 7
+    },
+    {
       "keyword": "multi stage fraud",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "customer production systems",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "company's public image",
+      "mentions": 13
+    },
+    {
+      "keyword": "azure production environments",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass. \"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
+      "published": "Wed, 20 May 2026 13:58:26 +0530",
+      "value_score": 85,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
@@ -80,14 +94,12 @@
     },
     {
       "source": "The Hacker News",
-      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
       "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
       "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
       "published": "Wed, 20 May 2026 09:31:15 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -148,13 +160,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
-      "summary": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
-      "published": "Tue, 19 May 2026 13:19:23 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "published": "Wed, 20 May 2026 04:14:08 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -222,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
       "summary": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
       "published": "Tue, 19 May 2026 15:35:32 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
-      "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
-      "published": "Tue, 19 May 2026 12:22:30 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -409,6 +414,33 @@
     },
     {
       "source": "Security Week",
+      "title": "Real-World ICS Security Tales From the Trenches",
+      "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
+      "summary": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field. The post Real-World ICS Security Tales From the Trenches appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 10:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
+      "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
+      "summary": "Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence. The post Virtual Event Today: Threat Detection & Incident Response Summit appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 10:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
+      "link": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
+      "summary": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension. The post GitHub Confirms Hack Impacting 3,800 Internal Repositories appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 09:28:53 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
       "link": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
       "summary": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector appeared first on SecurityWeek .",
@@ -466,33 +498,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards",
-      "link": "https://www.securityweek.com/b1acks-stash-marketplace-gives-away-4-6-million-stolen-credit-cards/",
-      "summary": "The stolen credit card data was released as a free download, allegedly in response to seller misconduct. The post B1ack’s Stash Marketplace Gives Away 4.6 Million Stolen Credit Cards appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 11:59:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyber Resilience is the New Business Continuity Plan",
-      "link": "https://www.securityweek.com/cyber-resilience-is-the-new-business-continuity-plan/",
-      "summary": "The organizations best prepared to face disruption are those that align security, continuity and risk management around what the business cannot afford to lose. The post Cyber Resilience is the New Business Continuity Plan appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 11:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "201 Arrested in Crackdown on Cybercrime in Middle East, North Africa",
-      "link": "https://www.securityweek.com/201-arrested-in-crackdown-on-cybercrime-in-middle-east-north-africa/",
-      "summary": "The 13-country effort, named Operation Ramz, targeted cyber threats in the Middle East and North Africa region. The post 201 Arrested in Crackdown on Cybercrime in Middle East, North Africa appeared first on SecurityWeek .",
-      "published": "Tue, 19 May 2026 10:32:14 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

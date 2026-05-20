@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-20 07:39 UTC |
+| 🕐 Last Updated | 2026-05-20 10:45 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `abb coresense hm` • `platform's source code` • `twitter whistleblower complaint` • `shub reaper stealer` • `overtaken credential abuse` • `north africa region` • `normal mfa challenge` • `multi stage fraud` • `customer production systems`
+`remote code execution` • `abb coresense hm` • `platform's source code` • `v12 security team` • `twitter whistleblower complaint` • `normal mfa challenge` • `multi stage fraud` • `customer production systems` • `company's public image` • `azure production environments`
 
 ## 📄 Reports
 

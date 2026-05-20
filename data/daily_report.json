@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-05-20 02:46",
+  "last_updated": "2026-05-20 07:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "remote code execution",
-    "north africa region",
     "abb coresense hm",
-    "v12 security team",
+    "platform's source code",
     "twitter whistleblower complaint",
     "shub reaper stealer",
     "overtaken credential abuse",
+    "north africa region",
     "normal mfa challenge",
     "multi stage fraud",
-    "company's public image",
+    "customer production systems",
     "business cannot afford",
     "azure production environments",
     "aggravated identity theft",
-    "actively exploited flaw",
     "130 companies tangled",
+    "v12 security team",
     "align security continuity",
-    "camera account credentials",
+    "max severity flaw",
+    "actively exploited flaw",
     "related software including",
-    "600 malicious packages",
     "275 million students"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 393
-    },
-    {
-      "keyword": "north africa region",
-      "mentions": 3
+      "mentions": 394
     },
     {
       "keyword": "abb coresense hm",
-      "mentions": 4
-    },
-    {
-      "keyword": "v12 security team",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1673
-    },
-    {
-      "keyword": "shub reaper stealer",
-      "mentions": 3
-    },
-    {
-      "keyword": "overtaken credential abuse",
-      "mentions": 1
-    },
-    {
-      "keyword": "normal mfa challenge",
       "mentions": 5
     },
     {
-      "keyword": "multi stage fraud",
+      "keyword": "platform's source code",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1674
+    },
+    {
+      "keyword": "shub reaper stealer",
       "mentions": 4
     },
     {
-      "keyword": "company's public image",
-      "mentions": 12
+      "keyword": "overtaken credential abuse",
+      "mentions": 2
+    },
+    {
+      "keyword": "north africa region",
+      "mentions": 4
+    },
+    {
+      "keyword": "normal mfa challenge",
+      "mentions": 6
+    },
+    {
+      "keyword": "multi stage fraud",
+      "mentions": 5
+    },
+    {
+      "keyword": "customer production systems",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories. \"After the initial assessment, we found that in addition to source",
+      "published": "Wed, 20 May 2026 10:42:06 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
+      "published": "Wed, 20 May 2026 09:31:15 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
@@ -135,22 +157,26 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
-      "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
-      "summary": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
-      "published": "Tue, 19 May 2026 10:58:06 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "published": "Wed, 20 May 2026 03:31:15 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account",
-      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html",
-      "summary": "Cybersecurity researchers have discovered a fresh software supply chain attack campaign that has compromised various npm packages associated with the @antv ecosystem as part of the ongoing Mini Shai-Hulud attack wave. \"The attack affects packages tied to the npm maintainer account atool, including echarts-for-react, a widely used React wrapper for Apache ECharts with roughly 1.1 million weekly",
-      "published": "Tue, 19 May 2026 10:24:17 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "summary": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "published": "Wed, 20 May 2026 01:08:42 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -205,26 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
       "summary": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
       "published": "Tue, 19 May 2026 12:22:30 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
-      "summary": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
-      "published": "Tue, 19 May 2026 12:10:47 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Shai-Hulud malware wave compromises 600 npm packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-malware-wave-compromises-600-npm-packages/",
-      "summary": "Threat actors earlier today published more than 600 malicious packages to the Node Package Manager (npm) index as part of a new Shai-Hulud supply-chain campaign. [...]",
-      "published": "Tue, 19 May 2026 10:30:22 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -321,6 +327,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
+      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
+      "summary": "While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.",
+      "published": "Wed, 20 May 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What Will Make AI BOMs Real?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real",
+      "summary": "A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).",
+      "published": "Tue, 19 May 2026 22:17:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
       "link": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
       "summary": "Verizon's \"2026 Data Breach Investigations Report\" (\"DBIR\") finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
@@ -380,28 +404,6 @@
       "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
       "summary": "Understanding AI BOMs and where they fit into risk management for artificial intelligence.",
       "published": "Mon, 18 May 2026 21:44:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Exchange Zero-Day Under Attack, No Patch Available",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-exchange-zero-day-no-patch",
-      "summary": "CVE-2026-42897 stems from a cross-site scripting (XSS) vulnerability and can allow an attacker to compromise Outlook Web Access (OWA) mailboxes.",
-      "published": "Mon, 18 May 2026 21:43:51 GMT",
-      "value_score": 61,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
-      "link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
-      "summary": "The now-patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
-      "published": "Mon, 18 May 2026 21:24:59 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1673,
+      "count": 1674,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -696,7 +696,7 @@
       ]
     },
     "remote code execution": {
-      "count": 393,
+      "count": 394,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2341,7 +2341,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 331,
+      "count": 332,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -13534,7 +13534,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13856,7 +13856,7 @@
       ]
     },
     "related software including": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13916,7 +13916,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15724,7 +15724,7 @@
       ]
     },
     "275 million students": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16662,14 +16662,14 @@
       ]
     },
     "normal mfa challenge": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "align security continuity": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16682,7 +16682,7 @@
       ]
     },
     "business cannot afford": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16695,21 +16695,21 @@
       ]
     },
     "abb coresense hm": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "v12 security team": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "multi stage fraud": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16730,27 +16730,45 @@
       ]
     },
     "north africa region": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "shub reaper stealer": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "azure production environments": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-19",
         "2026-05-20"
       ]
     },
     "overtaken credential abuse": {
+      "count": 2,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "platform's source code": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "customer production systems": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "max severity flaw": {
       "count": 1,
       "dates": [
         "2026-05-20"
@@ -16758,17 +16776,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 17:09",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "patient zero webinar",
-        "sprawling phishing campaign",
-        "actively exploited flaw"
-      ]
-    },
     {
       "timestamp": "2026-05-08 19:09",
       "articles": 56,
@@ -17856,6 +17863,17 @@
         "abb coresense hm",
         "v12 security team",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-20 07:39",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "abb coresense hm",
+        "platform's source code",
+        "twitter whistleblower complaint",
+        "shub reaper stealer"
       ]
     }
   ]

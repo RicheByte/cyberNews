@@ -284,7 +284,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1676,
+      "count": 1677,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -696,7 +696,7 @@
       ]
     },
     "remote code execution": {
-      "count": 396,
+      "count": 397,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -4122,7 +4122,7 @@
       ]
     },
     "run arbitrary code": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-19",
         "2026-01-20",
@@ -13538,7 +13538,7 @@
       ]
     },
     "actively exploited flaw": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-04-16",
         "2026-04-17",
@@ -13717,12 +13717,13 @@
       ]
     },
     "publicly disclosed weakness": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-17",
         "2026-04-18",
         "2026-05-13",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-20"
       ]
     },
     "msps must rethink": {
@@ -13860,7 +13861,7 @@
       ]
     },
     "related software including": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -13920,7 +13921,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14977,7 +14978,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15492,7 +15493,7 @@
       ]
     },
     "company's public image": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -16702,7 +16703,7 @@
       ]
     },
     "abb coresense hm": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-19",
         "2026-05-20"
@@ -16764,13 +16765,13 @@
       ]
     },
     "platform's source code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-20"
       ]
     },
     "customer production systems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-20"
       ]
@@ -16788,25 +16789,25 @@
       ]
     },
     "guard securing ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-20"
       ]
     },
     "consuming ai bill": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-20"
       ]
     },
     "unseen unmanaged elements": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-20"
       ]
     },
     "windows publicly referred": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-20"
       ]
@@ -16816,20 +16817,33 @@
       "dates": [
         "2026-05-20"
       ]
+    },
+    "secure ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "yellowkey bitlocker bypass": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "missed token rotation": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
+    },
+    "grafana data breach": {
+      "count": 1,
+      "dates": [
+        "2026-05-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-08 22:52",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "patient zero webinar",
-        "internal trellix services",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-09 02:28",
       "articles": 56,
@@ -17917,6 +17931,17 @@
         "platform's source code",
         "company's public image",
         "guard securing ai"
+      ]
+    },
+    {
+      "timestamp": "2026-05-20 18:12",
+      "articles": 56,
+      "top_keywords": [
+        "secure ai agents",
+        "abb coresense hm",
+        "yellowkey bitlocker bypass",
+        "platform's source code",
+        "twitter whistleblower complaint"
       ]
     }
   ]

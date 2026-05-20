@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-20 14:50",
+  "last_updated": "2026-05-20 18:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "secure ai agents",
     "abb coresense hm",
-    "remote code execution",
+    "yellowkey bitlocker bypass",
     "platform's source code",
-    "company's public image",
-    "guard securing ai",
-    "consuming ai bill",
     "twitter whistleblower complaint",
-    "multi stage fraud",
+    "missed token rotation",
+    "guard securing ai",
     "customer production systems",
-    "actively exploited flaw",
+    "consuming ai bill",
+    "company's public image",
     "unseen unmanaged elements",
     "windows publicly referred",
     "related software including",
-    "run arbitrary code",
-    "execute arbitrary code",
-    "deliver malicious code",
+    "publicly disclosed weakness",
+    "actively exploited flaw",
+    "aggravated identity theft",
     "massive ddos attacks",
-    "cybercrime group defaced",
-    "service ddos attacks",
-    "write arbitrary files"
+    "grafana data breach",
+    "run arbitrary code",
+    "remote code execution"
   ],
   "trending": [
     {
-      "keyword": "abb coresense hm",
-      "mentions": 7
+      "keyword": "secure ai agents",
+      "mentions": 1
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 396
+      "keyword": "abb coresense hm",
+      "mentions": 8
+    },
+    {
+      "keyword": "yellowkey bitlocker bypass",
+      "mentions": 1
     },
     {
       "keyword": "platform's source code",
-      "mentions": 3
-    },
-    {
-      "keyword": "company's public image",
-      "mentions": 14
-    },
-    {
-      "keyword": "guard securing ai",
-      "mentions": 1
-    },
-    {
-      "keyword": "consuming ai bill",
-      "mentions": 1
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1676
+      "mentions": 1677
     },
     {
-      "keyword": "multi stage fraud",
-      "mentions": 7
+      "keyword": "missed token rotation",
+      "mentions": 1
+    },
+    {
+      "keyword": "guard securing ai",
+      "mentions": 2
     },
     {
       "keyword": "customer production systems",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "actively exploited flaw",
-      "mentions": 101
+      "keyword": "consuming ai bill",
+      "mentions": 2
+    },
+    {
+      "keyword": "company's public image",
+      "mentions": 15
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
+      "published": "Wed, 20 May 2026 22:36:54 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
@@ -140,13 +149,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
-      "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud. \"Users",
-      "published": "Tue, 19 May 2026 22:08:12 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Grafana breach caused by missed token rotation after TanStack attack",
+      "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
+      "summary": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
+      "published": "Wed, 20 May 2026 11:46:37 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -224,17 +235,6 @@
       "published": "Tue, 19 May 2026 18:25:49 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
-      "link": "https://www.bleepingcomputer.com/news/security/cybercrime-service-disrupted-for-abusing-microsoft-platform-to-sign-malware/",
-      "summary": "Microsoft says it has disrupted a malware-signing-as-a-service (MSaaS) operation that abused the company's Artifact Signing service to generate fraudulent code-signing certificates used by ransomware gangs and other cybercriminals. [...]",
-      "published": "Tue, 19 May 2026 17:47:31 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +329,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control",
+      "link": "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os",
+      "summary": "An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
+      "published": "Wed, 20 May 2026 16:12:08 GMT",
+      "value_score": 32,
+      "value_signals": [
+        "Patch/update",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Infosecurity Europe",
       "link": "https://www.darkreading.com/events/infosecurity-europe",
       "summary": "",
@@ -399,13 +412,24 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS",
-      "link": "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos",
-      "summary": "The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.",
-      "published": "Tue, 19 May 2026 19:49:40 GMT",
+      "source": "Security Week",
+      "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
+      "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
+      "summary": "The new Series A funding round brings the total raised by Quantum Bridge to $16 million. The post Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 15:45:07 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass",
+      "link": "https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/",
+      "summary": "The exploitation is mitigated by preventing the FsTx Auto Recovery Utility from starting when the WinRE image launches. The post Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass appeared first on SecurityWeek .",
+      "published": "Wed, 20 May 2026 15:39:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -458,24 +482,6 @@
       "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
       "summary": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field. The post Real-World ICS Security Tales From the Trenches appeared first on SecurityWeek .",
       "published": "Wed, 20 May 2026 10:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
-      "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
-      "summary": "Don't miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence. The post Virtual Event Today: Threat Detection & Incident Response Summit appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
-      "link": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
-      "summary": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension. The post GitHub Confirms Hack Impacting 3,800 Internal Repositories appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 09:28:53 +0000",
       "value_score": 10,
       "value_signals": []
     },

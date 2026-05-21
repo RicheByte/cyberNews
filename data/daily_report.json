@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-05-21 14:54",
+  "last_updated": "2026-05-21 17:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "old tool shows",
     "abb coresense hm",
-    "1 billion valuation",
-    "secure ai agents",
-    "improper link resolution",
+    "potentially fraudulent transactions",
+    "old tool shows",
+    "app store fraud",
     "site admin privileges",
     "cve 2026 41091",
+    "improve cyber hygiene",
+    "1 billion valuation",
+    "google s surge",
     "wednesday officially confirmed",
     "twitter whistleblower complaint",
-    "targeting telecommunications providers",
-    "improve cyber hygiene",
-    "company's public image",
+    "oss component openssl",
+    "improper link resolution",
     "275 million students",
     "130 companies tangled",
-    "improper privilege management",
-    "2 2 billion",
-    "finding security vulnerabilities",
-    "malicious cyber actors",
-    "exploited without authentication",
-    "windows operating systems"
+    "secure ai agents",
+    "complete fraudulent subscriptions",
+    "windows operating systems",
+    "disclose sensitive files",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
-      "keyword": "old tool shows",
+      "keyword": "abb coresense hm",
+      "mentions": 15
+    },
+    {
+      "keyword": "potentially fraudulent transactions",
       "mentions": 1
     },
     {
-      "keyword": "abb coresense hm",
-      "mentions": 14
+      "keyword": "old tool shows",
+      "mentions": 2
     },
     {
-      "keyword": "1 billion valuation",
-      "mentions": 4
-    },
-    {
-      "keyword": "secure ai agents",
-      "mentions": 7
-    },
-    {
-      "keyword": "improper link resolution",
+      "keyword": "app store fraud",
       "mentions": 1
     },
     {
       "keyword": "site admin privileges",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 41091",
-      "mentions": 1
-    },
-    {
-      "keyword": "wednesday officially confirmed",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1683
+      "keyword": "cve 2026 41091",
+      "mentions": 2
     },
     {
-      "keyword": "targeting telecommunications providers",
-      "mentions": 1
+      "keyword": "improve cyber hygiene",
+      "mentions": 7
+    },
+    {
+      "keyword": "1 billion valuation",
+      "mentions": 5
+    },
+    {
+      "keyword": "google s surge",
+      "mentions": 2
+    },
+    {
+      "keyword": "wednesday officially confirmed",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
+      "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
+      "published": "Thu, 21 May 2026 19:47:09 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Backdoor",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories",
@@ -146,15 +158,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks",
-      "link": "https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html",
-      "summary": "Microsoft on Tuesday said it disrupted a malware-signing-as-a-service (MSaaS) operation that weaponized the company's Artifact Signing system to deliver malicious code and conduct ransomware and other attacks, compromising thousands of machines and networks across the world. The tech giant attributed the activity to a threat actor it calls Fox Tempest, which it said offered the MSaaS scheme",
-      "published": "Wed, 20 May 2026 20:06:44 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
+      "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
+      "published": "Thu, 21 May 2026 11:11:08 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,15 +237,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ukraine identifies infostealer operator tied to 28,000 stolen accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/",
-      "summary": "The Ukrainian cyberpolice, working in conjunction with U.S. law enforcement, has identified an 18-year-old man from Odesa suspected of running an infostealer malware operation targeting users of an online store in California. [...]",
-      "published": "Wed, 20 May 2026 17:36:24 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -330,6 +331,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
+      "link": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
+      "summary": "AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different than traditional IAM projects.",
+      "published": "Thu, 21 May 2026 15:43:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
       "link": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
       "summary": "\"Showboat\" doesn't show off, but clearly it doesn't need to, as it's long helped China spy on small market communications providers.",
@@ -400,15 +410,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Infosecurity Europe",
-      "link": "https://www.darkreading.com/events/infosecurity-europe",
-      "summary": "",
-      "published": "2026-06-02T13:30:00.000Z",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -579,6 +580,77 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "ABB Terra AC Wallbox",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the flash memory to alter the firmware behavior. The following versions of ABB Terra AC Wallbox are affected: Terra AC wallbox (JP) <=1.8.33, 1.8.36 (CVE-2025-10504, CVE-2025-12142, CVE-2025-12143) CVSS ",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy GMS600",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01",
+      "summary": "View CSAF Summary Hitachi Energy is aware of the vulnerability, CVE-2022-4304 in the OSS component OpenSSL, that affects the GMS600 versions that are listed below. An attacker successfully exploiting this vulnerability could send trial messages to the server and record the time taken to process them. After a sufficiently large number of messages the attacker could recover the pre-master secret used for the original connection and thus be able to decrypt the application data sent over that connec",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB B&R Automation Studio",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is available that replaces an outdated third-party component. Although no successful exploitation was observed during testing of the affected B&R products, the identified vulnerabilities could present potential attack vectors that might enable unauthorized access, data exposure, or remote code execution. The following versions of ABB B&R Automation Studio are affected: B&R Au",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "value_score": 69,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "RCE",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB B&R Automation Runtime",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited these vulnerabilities could take over a remote session or execute code in the context of the user’s browser session. The following versions of ABB B&R Automation Runtime are affected: Automation Runtime <6.4, 6.4 (CVE-2025-3449, CVE-2025-3448, CVE-2025-11498) CVSS Vendor Equipment V",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "value_score": 97,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB B&R PCs",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02",
+      "summary": "View CSAF Summary ABB became aware of vulnerability in the product versions listed as affected in the advisory. An update is now available that addresses and remediates the vulnerability. A network attacker could exploit the vulnerabilities to execute remote code, initiate DoS attacks, conduct DNS cache poisoning, or extract sensitive information. The following versions of ABB B&R PCs are affected: APC4100 <1.09, 1.09 (CVE-2023-45229, CVE-2023-45230, CVE-2023-45231, CVE-2023-45232, CVE-2023-4523",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "value_score": 97,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×5",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-410",
@@ -589,34 +661,6 @@
         "CVE mentioned ×5",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Kieback & Peter DDC Building Controllers",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to take control of the victim's browser. The following versions of Kieback & Peter DDC Building Controllers are affected: DDC4002 <=1.12.14 (CVE-2026-4293) DDC4100 <=1.12.14 (CVE-2026-4293) DDC4200 <=1.12.14 (CVE-2026-4293) DDC4200-L <=1.12.14 (CVE-2026-4293) DDC4400 <=1.12.14 (CVE-2026-4293) DDC4002e <=1.23.4 (CVE-2026-4293) DDC4200e <=1.23.4 (CVE-2026-4293) DDC4400e <=1.23.4 (CVE-2026-4293) DDC4020e <=1.23.",
-      "published": "Tue, 19 May 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×8",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ZKTeco CCTV Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in information disclosure, including capture of camera account credentials. The following versions of ZKTeco CCTV Cameras are affected: SSC335-GC2063-Face-0b77 Solution CVSS Vendor Equipment Vulnerabilities v3 9.1 ZKTeco ZKTeco CCTV Cameras Authentication Bypass Using an Alternate Path or Channel Background Critical Infrastructure Sectors: Commercial Facilities Countries/Areas Deployed: Worldwide Company Headquarters Lo",
-      "published": "Tue, 19 May 26 12:00:00 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Auth bypass",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -644,48 +688,6 @@
         "CVE mentioned",
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ScadaBR",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to perform unauthenticated remote code execution. The following versions of ScadaBR are affected: ScadaBR 1.2.0 (CVE-2026-8602, CVE-2026-8603, CVE-2026-8604, CVE-2026-8605) CVSS Vendor Equipment Vulnerabilities v3 9.1 ScadaBR ScadaBR Missing Authentication for Critical Function, Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection'), Cross-Site Request Forgery (CSRF), Us",
-      "published": "Tue, 19 May 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "RCE",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42897 Microsoft Exchange Server Cross-Site Scripting Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list ",
-      "published": "Fri, 15 May 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens Solid Edge",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-03",
-      "summary": "View CSAF Summary Solid Edge SE2026 before Update 5 is affected by two file parsing vulnerabilities that could be triggered when the application reads specially crafted files in PAR format. This could allow an attacker to crash the application or execute arbitrary code. Siemens has released a new version for Solid Edge SE2026 and recommends to update to the latest version. The following versions of Siemens Solid Edge are affected: Solid Edge vers:intdot/<226.0.5 CVSS Vendor Equipment Vulnerabili",
-      "published": "Thu, 14 May 26 12:00:00 +0000",
-      "value_score": 51,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update ×2"
       ]
     }
   ],

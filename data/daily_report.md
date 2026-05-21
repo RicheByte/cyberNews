@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-21 14:54 UTC  
+> **Last Updated:** 2026-05-21 17:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**old tool shows** • **abb coresense hm** • **1 billion valuation** • **secure ai agents** • **improper link resolution** • **site admin privileges** • **cve 2026 41091** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **targeting telecommunications providers** • **improve cyber hygiene** • **company's public image** • **275 million students** • **130 companies tangled** • **improper privilege management** • **2 2 billion** • **finding security vulnerabilities** • **malicious cyber actors** • **exploited without authentication** • **windows operating systems**
+**abb coresense hm** • **potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **site admin privileges** • **cve 2026 41091** • **improve cyber hygiene** • **1 billion valuation** • **google s surge** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **oss component openssl** • **improper link resolution** • **275 million students** • **130 companies tangled** • **secure ai agents** • **complete fraudulent subscriptions** • **windows operating systems** • **disclose sensitive files** • **wire fraud conspiracy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 - [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
 - [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
 - [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
@@ -23,10 +24,10 @@
 - [GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
 - [Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks](https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html)
 - [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
-- [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
 
 ### BleepingComputer
 
+- [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
 - [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
 - [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
 - [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
@@ -34,7 +35,6 @@
 - [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
 - [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
 - [GitHub links repo breach to TanStack npm supply-chain attack](https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/)
-- [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Agents Are Shifting Identity Security Budget Dynamics](https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents)
 - [Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks)
 - [Content Delivery Exploit Opens Websites to Brand Hijacking](https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking)
 - [Cyber Pros Can't Decide If AI Is a Good or a Bad Thing](https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai)
@@ -56,7 +57,6 @@
 - [Fake Android Apps Commit Carrier Billing Fraud for Premium Services](https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud)
 - [Processes and Culture Top Reasons Behind Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches)
 - [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
-- [Infosecurity Europe](https://www.darkreading.com/events/infosecurity-europe)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [ABB Terra AC Wallbox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05)
+- [Hitachi Energy GMS600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01)
+- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03)
+- [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04)
+- [ABB B&R PCs](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
-- [Kieback & Peter DDC Building Controllers](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-05)
-- [ZKTeco CCTV Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-04)
 - [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02)
 - [ABB CoreSense HM and CoreSense M10](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01)
-- [ScadaBR](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/15/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Siemens Solid Edge](https://www.cisa.gov/news-events/ics-advisories/icsa-26-134-03)
 
 ---
 

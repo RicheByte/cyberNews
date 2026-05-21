@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-05-21 07:43",
+  "last_updated": "2026-05-21 11:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "improper privilege management",
     "abb coresense hm",
+    "1 billion valuation",
+    "exploited without authentication",
     "secure ai agents",
-    "finding security vulnerabilities",
+    "wednesday officially confirmed",
     "twitter whistleblower complaint",
     "missed token rotation",
     "company's public image",
+    "130 companies tangled",
     "unseen unmanaged elements",
-    "publicly disclosed weakness",
     "improve cyber hygiene",
-    "guard securing ai",
-    "consuming ai bill",
+    "2 2 billion",
     "related software including",
-    "malicious cyber actors",
-    "service ddos attacks",
-    "massive ddos attacks",
+    "finding security vulnerabilities",
+    "google s surge",
+    "consuming ai bill",
+    "cybercrime group defaced",
     "yellowkey bitlocker bypass",
-    "wire fraud conspiracy",
-    "winre image launches",
-    "united states today",
-    "ukrainian cyberpolice working"
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
+      "keyword": "improper privilege management",
+      "mentions": 1
+    },
+    {
       "keyword": "abb coresense hm",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "1 billion valuation",
+      "mentions": 3
+    },
+    {
+      "keyword": "exploited without authentication",
+      "mentions": 2
     },
     {
       "keyword": "secure ai agents",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "finding security vulnerabilities",
-      "mentions": 46
+      "keyword": "wednesday officially confirmed",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1681
+      "mentions": 1682
     },
     {
       "keyword": "missed token rotation",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "company's public image",
-      "mentions": 19
+      "mentions": 20
     },
     {
-      "keyword": "unseen unmanaged elements",
-      "mentions": 6
-    },
-    {
-      "keyword": "publicly disclosed weakness",
-      "mentions": 14
-    },
-    {
-      "keyword": "improve cyber hygiene",
-      "mentions": 4
-    },
-    {
-      "keyword": "guard securing ai",
-      "mentions": 6
+      "keyword": "130 companies tangled",
+      "mentions": 333
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "When Identity is the Attack Path",
+      "link": "https://thehackernews.com/2026/05/when-identity-is-attack-path.html",
+      "summary": "Consider a cached access key on a single Windows machine. It got there the way most cached credentials do - a user logged in, and the key stored itself automatically. Standard AWS behavior. No one misconfigured anything or violated a policy. Yet that single key, which was easily accessible to a minor-league attacker, could have opened a path to some 98% of entities in the company's cloud",
+      "published": "Thu, 21 May 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros",
+      "link": "https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in the Linux kernel that remained undetected for nine years. The vulnerability, tracked as CVE-2026-46333 (CVSS score: 5.5), is a case of improper privilege management that could permit an unprivileged local user to disclose sensitive files and execute arbitrary commands as root on default installations of several major",
+      "published": "Thu, 21 May 2026 13:05:53 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
@@ -132,22 +152,25 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
-      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
-      "summary": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
-      "published": "Wed, 20 May 2026 17:08:43 +0530",
+      "source": "BleepingComputer",
+      "title": "Flipper One project needs community help to build open Linux platform",
+      "link": "https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/",
+      "summary": "Flipper Devices, the maker of the Flipper Zero pentesting tool, is asking the community to help build Flipper One, an open Linux platform for connected devices. [...]",
+      "published": "Thu, 21 May 2026 07:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
-      "link": "https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html",
-      "summary": "AI-generated lookalike domains are now embedded inside the third-party scripts running on your web properties. Here's why your current stack can't see them, and what detection actually requires. Download the CISO Expert Guide to Typosquatting in the AI Era → TL;DR Typosquatting is no longer a user problem. Attackers now embed lookalike domains inside legitimate third-party scripts.",
-      "published": "Wed, 20 May 2026 16:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
+      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
+      "published": "Thu, 21 May 2026 03:49:48 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -211,30 +234,6 @@
         "Patch/update ×3",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Exploit released for new PinTheft Arch Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/",
-      "summary": "PinTheft, a recently patched Linux privilege escalation vulnerability, now has a publicly available proof-of-concept (PoC) exploit that allows local attackers to gain root privileges on Arch Linux systems. [...]",
-      "published": "Wed, 20 May 2026 06:52:31 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Privilege escalation",
-        "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "summary": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-      "published": "Wed, 20 May 2026 04:14:08 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -408,6 +407,70 @@
     },
     {
       "source": "Security Week",
+      "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
+      "link": "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/",
+      "summary": "The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions. The post Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention appeared first on SecurityWeek .",
+      "published": "Thu, 21 May 2026 11:17:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking",
+      "link": "https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/",
+      "summary": "CVE-2026-9082 can be exploited without authentication for information disclosure, privilege escalation, and remote code execution. The post Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking appeared first on SecurityWeek .",
+      "published": "Thu, 21 May 2026 10:58:49 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Privilege escalation",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Socket Raises $60 Million at $1 Billion Valuation",
+      "link": "https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/",
+      "summary": "The company will invest in its firewall, certified patches, protection extensions, new products, and team expansion. The post Socket Raises $60 Million at $1 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Thu, 21 May 2026 10:32:37 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
+      "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
+      "summary": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition. The post Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days appeared first on SecurityWeek .",
+      "published": "Thu, 21 May 2026 09:52:05 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
+      "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
+      "summary": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’. The post Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on SecurityWeek .",
+      "published": "Thu, 21 May 2026 09:37:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
+      "link": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
+      "summary": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking. The post Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility appeared first on SecurityWeek .",
+      "published": "Thu, 21 May 2026 08:14:53 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
       "link": "https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/",
       "summary": "The new Series A funding round brings the total raised by Quantum Bridge to $16 million. The post Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution appeared first on SecurityWeek .",
@@ -425,60 +488,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
-      "link": "https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/",
-      "summary": "Digital.ai’s latest threat report warns that agentic AI has erased the distinction between emerging and primary targets, enabling attackers to strike mobile apps within hours of release across every industry. The post AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 14:37:36 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials",
-      "link": "https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/",
-      "summary": "1Password says AI coding agents should never hold persistent secrets, introducing a just-in-time credential model for OpenAI Codex designed to keep credentials out of prompts, code repositories, and model context. The post 1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 13:34:54 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Silently Patches Claude Code Sandbox Bypass",
-      "link": "https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/",
-      "summary": "The researcher who found it says the vulnerability could have been chained with a prompt injection to exfiltrate data. The post Anthropic Silently Patches Claude Code Sandbox Bypass appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack",
-      "link": "https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/",
-      "summary": "A compromised maintainer account was used to publish malicious package versions across the @antv namespace. The post Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 11:06:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Caught Off Guard: Securing AI After It Hits Production",
-      "link": "https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/",
-      "summary": "As enterprises rush AI projects into production, security teams are increasingly being forced into reactive mode. The post Caught Off Guard: Securing AI After It Hits Production appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Real-World ICS Security Tales From the Trenches",
-      "link": "https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/",
-      "summary": "SecurityWeek spoke with several ICS security experts and companies about their most memorable experiences in the field. The post Real-World ICS Security Tales From the Trenches appeared first on SecurityWeek .",
-      "published": "Wed, 20 May 2026 10:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-21 07:43 UTC  
+> **Last Updated:** 2026-05-21 11:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**abb coresense hm** • **secure ai agents** • **finding security vulnerabilities** • **twitter whistleblower complaint** • **missed token rotation** • **company's public image** • **unseen unmanaged elements** • **publicly disclosed weakness** • **improve cyber hygiene** • **guard securing ai** • **consuming ai bill** • **related software including** • **malicious cyber actors** • **service ddos attacks** • **massive ddos attacks** • **yellowkey bitlocker bypass** • **wire fraud conspiracy** • **winre image launches** • **united states today** • **ukrainian cyberpolice working**
+**improper privilege management** • **abb coresense hm** • **1 billion valuation** • **exploited without authentication** • **secure ai agents** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **missed token rotation** • **company's public image** • **130 companies tangled** • **unseen unmanaged elements** • **improve cyber hygiene** • **2 2 billion** • **related software including** • **finding security vulnerabilities** • **google s surge** • **consuming ai bill** • **cybercrime group defaced** • **yellowkey bitlocker bypass** • **wire fraud conspiracy**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
+- [9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros](https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html)
 - [GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
 - [Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks](https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html)
 - [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
 - [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
 - [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
 - [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
-- [GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos](https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html)
-- [Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem](https://thehackernews.com/2026/05/typosquatting-is-no-longer-user-problem.html)
 
 ### BleepingComputer
 
+- [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
+- [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
 - [GitHub links repo breach to TanStack npm supply-chain attack](https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/)
 - [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
 - [Hackers bypass SonicWall VPN MFA due to incomplete patching](https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/)
 - [Grafana breach caused by missed token rotation after TanStack attack](https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/)
 - [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
 - [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
-- [Exploit released for new PinTheft Arch Linux root escalation flaw](https://www.bleepingcomputer.com/news/linux/exploit-released-for-new-pintheft-arch-linux-root-escalation-flaw/)
-- [GitHub confirms breach of 3,800 repos via malicious VSCode extension](https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
+- [Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking](https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/)
+- [Socket Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/)
+- [Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days](https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/)
+- [Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI](https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/)
+- [Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility](https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/)
 - [Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution](https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/)
 - [Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass](https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/)
-- [AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop](https://www.securityweek.com/ai-powered-app-attacks-are-faster-more-frequent-and-harder-to-stop/)
-- [1Password Teams With OpenAI to Stop AI Coding Agents From Leaking Credentials](https://www.securityweek.com/1password-teams-with-openai-to-stop-ai-coding-agents-from-leaking-credentials/)
-- [Anthropic Silently Patches Claude Code Sandbox Bypass](https://www.securityweek.com/anthropic-silently-patches-claude-code-sandbox-bypass/)
-- [Over 320 NPM Packages Hit by Fresh Mini Shai-Hulud Supply Chain Attack](https://www.securityweek.com/over-320-npm-packages-hit-by-fresh-mini-shai-hulud-supply-chain-attack/)
-- [Caught Off Guard: Securing AI After It Hits Production](https://www.securityweek.com/caught-off-guard-securing-ai-after-it-hits-production/)
-- [Real-World ICS Security Tales From the Trenches](https://www.securityweek.com/real-world-ics-security-tales-from-the-trenches/)
 
 ### Threatpost
 

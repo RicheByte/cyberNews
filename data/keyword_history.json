@@ -286,7 +286,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1681,
+      "count": 1682,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2345,7 +2345,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 332,
+      "count": 333,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2390,7 +2390,8 @@
         "2026-05-17",
         "2026-05-18",
         "2026-05-19",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-05-21"
       ]
     },
     "corporate data stolen": {
@@ -3832,10 +3833,11 @@
       ]
     },
     "1 billion valuation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-15",
-        "2026-02-05"
+        "2026-02-05",
+        "2026-05-21"
       ]
     },
     "legitimate microsoft link": {
@@ -6921,9 +6923,10 @@
       ]
     },
     "exploited without authentication": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-02-11"
+        "2026-02-11",
+        "2026-05-21"
       ]
     },
     "vulnerabilities found recently": {
@@ -8025,7 +8028,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13867,7 +13870,7 @@
       ]
     },
     "related software including": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -15501,7 +15504,7 @@
       ]
     },
     "company's public image": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15760,7 +15763,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15768,7 +15771,8 @@
         "2026-05-12",
         "2026-05-13",
         "2026-05-18",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-05-21"
       ]
     },
     "qlnx targets developers": {
@@ -16102,7 +16106,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16715,7 +16719,7 @@
       ]
     },
     "abb coresense hm": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-19",
         "2026-05-20",
@@ -16811,14 +16815,14 @@
       ]
     },
     "consuming ai bill": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "unseen unmanaged elements": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16838,21 +16842,21 @@
       ]
     },
     "secure ai agents": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "yellowkey bitlocker bypass": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "missed token rotation": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16872,7 +16876,7 @@
       ]
     },
     "improve cyber hygiene": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16889,20 +16893,33 @@
       "dates": [
         "2026-05-21"
       ]
+    },
+    "improper privilege management": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "wednesday officially confirmed": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "2 2 billion": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "google s surge": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-09 13:05",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-09 14:45",
       "articles": 56,
@@ -17990,6 +18007,17 @@
         "finding security vulnerabilities",
         "twitter whistleblower complaint",
         "missed token rotation"
+      ]
+    },
+    {
+      "timestamp": "2026-05-21 11:17",
+      "articles": 56,
+      "top_keywords": [
+        "improper privilege management",
+        "abb coresense hm",
+        "1 billion valuation",
+        "exploited without authentication",
+        "secure ai agents"
       ]
     }
   ]

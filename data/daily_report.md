@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-21 17:53 UTC  
+> **Last Updated:** 2026-05-21 19:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**abb coresense hm** • **potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **site admin privileges** • **cve 2026 41091** • **improve cyber hygiene** • **1 billion valuation** • **google s surge** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **oss component openssl** • **improper link resolution** • **275 million students** • **130 companies tangled** • **secure ai agents** • **complete fraudulent subscriptions** • **windows operating systems** • **disclose sensitive files** • **wire fraud conspiracy**
+**abb coresense hm** • **potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **google s surge** • **site admin privileges** • **cve 2026 41091** • **improve cyber hygiene** • **1 billion valuation** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **oss component openssl** • **improper link resolution** • **275 million students** • **130 companies tangled** • **secure ai agents** • **complete fraudulent subscriptions** • **windows operating systems** • **disclose sensitive files** • **approving malicious transactions**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
 - [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
 - [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
 - [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
@@ -34,7 +35,6 @@
 - [Police seize “First VPN” service used in ransomware, data theft attacks](https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/)
 - [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
 - [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
-- [GitHub links repo breach to TanStack npm supply-chain attack](https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/)
 
 ### Krebs on Security
 

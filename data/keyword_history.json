@@ -194,7 +194,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 607,
+      "count": 608,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -287,7 +287,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1684,
+      "count": 1685,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2346,7 +2346,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 335,
+      "count": 336,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3834,7 +3834,7 @@
       ]
     },
     "1 billion valuation": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-15",
         "2026-02-05",
@@ -15743,7 +15743,7 @@
       ]
     },
     "275 million students": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16721,7 +16721,7 @@
       ]
     },
     "abb coresense hm": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-19",
         "2026-05-20",
@@ -16844,7 +16844,7 @@
       ]
     },
     "secure ai agents": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16878,7 +16878,7 @@
       ]
     },
     "improve cyber hygiene": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16903,7 +16903,7 @@
       ]
     },
     "wednesday officially confirmed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21"
       ]
@@ -16915,31 +16915,31 @@
       ]
     },
     "google s surge": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "old tool shows": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "improper link resolution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "site admin privileges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "cve 2026 41091": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
@@ -16951,30 +16951,36 @@
       ]
     },
     "potentially fraudulent transactions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     },
     "app store fraud": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     },
     "oss component openssl": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     },
     "complete fraudulent subscriptions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     },
     "disclose sensitive files": {
+      "count": 2,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "approving malicious transactions": {
       "count": 1,
       "dates": [
         "2026-05-21"
@@ -16982,17 +16988,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-09 18:53",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-09 20:39",
       "articles": 56,
@@ -18080,6 +18075,17 @@
         "old tool shows",
         "app store fraud",
         "site admin privileges"
+      ]
+    },
+    {
+      "timestamp": "2026-05-21 19:47",
+      "articles": 56,
+      "top_keywords": [
+        "abb coresense hm",
+        "potentially fraudulent transactions",
+        "old tool shows",
+        "app store fraud",
+        "google s surge"
       ]
     }
   ]

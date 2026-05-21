@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-05-21 19:47",
+  "last_updated": "2026-05-21 21:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "abb coresense hm",
     "potentially fraudulent transactions",
     "old tool shows",
     "app store fraud",
     "google s surge",
     "site admin privileges",
     "cve 2026 41091",
-    "improve cyber hygiene",
     "1 billion valuation",
     "wednesday officially confirmed",
     "twitter whistleblower complaint",
-    "oss component openssl",
     "improper link resolution",
+    "disclose sensitive files",
     "275 million students",
     "130 companies tangled",
-    "secure ai agents",
+    "malicious cyber actors",
     "complete fraudulent subscriptions",
+    "secure ai agents",
     "windows operating systems",
-    "disclose sensitive files",
-    "approving malicious transactions"
+    "approving malicious transactions",
+    "gain system privileges",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
-      "keyword": "abb coresense hm",
-      "mentions": 16
-    },
-    {
       "keyword": "potentially fraudulent transactions",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "old tool shows",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "app store fraud",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "google s surge",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "site admin privileges",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cve 2026 41091",
-      "mentions": 3
-    },
-    {
-      "keyword": "improve cyber hygiene",
-      "mentions": 8
+      "mentions": 4
     },
     {
       "keyword": "1 billion valuation",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "wednesday officially confirmed",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1686
+    },
+    {
+      "keyword": "improper link resolution",
       "mentions": 4
     }
   ],
@@ -331,6 +331,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
+      "link": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
+      "summary": "Finding ways to document both component and execution attributes for AI bill of materials (AI BOM).",
+      "published": "Thu, 21 May 2026 21:11:40 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Google API Keys Remain Active After Deletion",
+      "link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
+      "summary": "A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
+      "published": "Thu, 21 May 2026 20:07:47 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
       "link": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
       "summary": "AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different than traditional IAM projects.",
@@ -388,28 +406,6 @@
       "published": "Wed, 20 May 2026 20:35:35 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Processes and Culture Top Reasons Behind Data Breaches",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches",
-      "summary": "Government leaders revealed that, in spite of state laws meant to improve cyber hygiene, an analysis of incidents showed issues persist and visibility falls short.",
-      "published": "Wed, 20 May 2026 17:42:30 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control",
-      "link": "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os",
-      "summary": "An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
-      "published": "Wed, 20 May 2026 16:12:08 GMT",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
@@ -651,6 +647,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2025-34291 Langflow Origin Validation Error Vulnerability CVE-2026-34926 Trend Micro Apex One (On-Premise) Directory Traversal Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kno",
+      "published": "Thu, 21 May 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2008-4250 Microsoft Windows Buffer Overflow Vulnerability CVE-2009-1537 Microsoft DirectX NULL Byte Overwrite Vulnerability CVE-2009-3459 Adobe Acrobat and Reader Heap-Based Buffer Overflow Vulnerability CVE-2010-0249 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2010-0806 Microsoft Internet Explorer Use-After-Free Vulnerability CVE-2026-410",
@@ -674,20 +685,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB CoreSense HM and CoreSense M10",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01",
-      "summary": "View CSAF Summary An update is available that resolves vulnerability in the product versions listed as affected in this advisory. A path traversal vulnerability in these products can allow unauthenticated users to gain access to restricted directories. Exploiting this vulnerability can lead to complete system compromise and exposure of sensitive information. The following versions of ABB CoreSense HM and CoreSense M10 are affected: CoreSense™ HM <=2.3.1, 2.3.4 (CVE-2025-3465) CoreSense™ M10 <=1.",
-      "published": "Tue, 19 May 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Patch/update",
-        "Exploit wording"
       ]
     }
   ],

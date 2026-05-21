@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 490,
+      "count": 491,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -194,7 +194,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 608,
+      "count": 609,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -287,7 +287,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1685,
+      "count": 1686,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2346,7 +2346,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 336,
+      "count": 337,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3834,7 +3834,7 @@
       ]
     },
     "1 billion valuation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-15",
         "2026-02-05",
@@ -8029,7 +8029,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -14327,10 +14327,11 @@
       ]
     },
     "gain system privileges": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-23",
-        "2026-04-24"
+        "2026-04-24",
+        "2026-05-21"
       ]
     },
     "feels familiar like": {
@@ -15743,7 +15744,7 @@
       ]
     },
     "275 million students": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16844,7 +16845,7 @@
       ]
     },
     "secure ai agents": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16903,7 +16904,7 @@
       ]
     },
     "wednesday officially confirmed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-21"
       ]
@@ -16915,31 +16916,31 @@
       ]
     },
     "google s surge": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21"
       ]
     },
     "old tool shows": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21"
       ]
     },
     "improper link resolution": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21"
       ]
     },
     "site admin privileges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21"
       ]
     },
     "cve 2026 41091": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21"
       ]
@@ -16951,13 +16952,13 @@
       ]
     },
     "potentially fraudulent transactions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "app store fraud": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
@@ -16969,36 +16970,25 @@
       ]
     },
     "complete fraudulent subscriptions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "disclose sensitive files": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-21"
       ]
     },
     "approving malicious transactions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-09 20:39",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-09 22:37",
       "articles": 56,
@@ -18086,6 +18076,17 @@
         "old tool shows",
         "app store fraud",
         "google s surge"
+      ]
+    },
+    {
+      "timestamp": "2026-05-21 21:23",
+      "articles": 56,
+      "top_keywords": [
+        "potentially fraudulent transactions",
+        "old tool shows",
+        "app store fraud",
+        "google s surge",
+        "site admin privileges"
       ]
     }
   ]

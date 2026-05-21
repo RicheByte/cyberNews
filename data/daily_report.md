@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-21 19:47 UTC  
+> **Last Updated:** 2026-05-21 21:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**abb coresense hm** • **potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **google s surge** • **site admin privileges** • **cve 2026 41091** • **improve cyber hygiene** • **1 billion valuation** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **oss component openssl** • **improper link resolution** • **275 million students** • **130 companies tangled** • **secure ai agents** • **complete fraudulent subscriptions** • **windows operating systems** • **disclose sensitive files** • **approving malicious transactions**
+**potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **google s surge** • **site admin privileges** • **cve 2026 41091** • **1 billion valuation** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **improper link resolution** • **disclose sensitive files** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **complete fraudulent subscriptions** • **secure ai agents** • **windows operating systems** • **approving malicious transactions** • **gain system privileges** • **wire fraud conspiracy**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [How CISOs Should Prep for Agentic-Ready AI BOMs](https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms)
+- [Google API Keys Remain Active After Deletion](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
 - [AI Agents Are Shifting Identity Security Budget Dynamics](https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents)
 - [Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks)
 - [Content Delivery Exploit Opens Websites to Brand Hijacking](https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking)
 - [Cyber Pros Can't Decide If AI Is a Good or a Bad Thing](https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai)
 - [GitHub Confirms Breach, 4K Internal Repos Stolen](https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen)
 - [Fake Android Apps Commit Carrier Billing Fraud for Premium Services](https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud)
-- [Processes and Culture Top Reasons Behind Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches)
-- [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
 
 ### Security Week
 
@@ -87,9 +87,9 @@
 - [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03)
 - [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04)
 - [ABB B&R PCs](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02)
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 - [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02)
-- [ABB CoreSense HM and CoreSense M10](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-01)
 
 ---
 

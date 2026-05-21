@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-21 21:23 UTC  
+> **Last Updated:** 2026-05-21 22:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **google s surge** • **site admin privileges** • **cve 2026 41091** • **1 billion valuation** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **improper link resolution** • **disclose sensitive files** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **complete fraudulent subscriptions** • **secure ai agents** • **windows operating systems** • **approving malicious transactions** • **gain system privileges** • **wire fraud conspiracy**
+**potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **site admin privileges** • **google s surge** • **1 billion valuation** • **cve 2026 41091** • **twitter whistleblower complaint** • **improper link resolution** • **disclose sensitive files** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **complete fraudulent subscriptions** • **cybercrime group defaced** • **secure ai agents** • **approving malicious transactions** • **gain system privileges** • **wire fraud conspiracy** • **wednesday officially confirmed**
 
 ---
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 - [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
@@ -45,7 +46,6 @@
 - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 - [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/)
-- [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/)
 
 ### Dark Reading
 

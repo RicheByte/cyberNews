@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-21 11:17 UTC |
+| 🕐 Last Updated | 2026-05-21 14:54 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`improper privilege management` • `abb coresense hm` • `1 billion valuation` • `exploited without authentication` • `secure ai agents` • `wednesday officially confirmed` • `twitter whistleblower complaint` • `missed token rotation` • `company's public image` • `130 companies tangled`
+`old tool shows` • `abb coresense hm` • `1 billion valuation` • `secure ai agents` • `improper link resolution` • `site admin privileges` • `cve 2026 41091` • `wednesday officially confirmed` • `twitter whistleblower complaint` • `targeting telecommunications providers`
 
 ## 📄 Reports
 

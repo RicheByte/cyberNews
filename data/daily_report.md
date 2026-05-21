@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-21 11:17 UTC  
+> **Last Updated:** 2026-05-21 14:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**improper privilege management** • **abb coresense hm** • **1 billion valuation** • **exploited without authentication** • **secure ai agents** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **missed token rotation** • **company's public image** • **130 companies tangled** • **unseen unmanaged elements** • **improve cyber hygiene** • **2 2 billion** • **related software including** • **finding security vulnerabilities** • **google s surge** • **consuming ai bill** • **cybercrime group defaced** • **yellowkey bitlocker bypass** • **wire fraud conspiracy**
+**old tool shows** • **abb coresense hm** • **1 billion valuation** • **secure ai agents** • **improper link resolution** • **site admin privileges** • **cve 2026 41091** • **wednesday officially confirmed** • **twitter whistleblower complaint** • **targeting telecommunications providers** • **improve cyber hygiene** • **company's public image** • **275 million students** • **130 companies tangled** • **improper privilege management** • **2 2 billion** • **finding security vulnerabilities** • **malicious cyber actors** • **exploited without authentication** • **windows operating systems**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
+- [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
 - [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
 - [9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros](https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html)
 - [GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
 - [Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks](https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html)
 - [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
 - [Microsoft Takes Down Malware-Signing Service Behind Ransomware Attacks](https://thehackernews.com/2026/05/microsoft-takes-down-malware-signing.html)
-- [Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API](https://thehackernews.com/2026/05/webworm-deploys-echocreep-and-graphworm.html)
-- [Agent AI is Coming. Are You Ready?](https://thehackernews.com/2026/05/agent-ai-is-coming-are-you-ready.html)
 
 ### BleepingComputer
 
+- [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
+- [Chinese hackers target telcos with new Linux, Windows malware](https://www.bleepingcomputer.com/news/security/chinese-hackers-target-telcos-with-new-linux-windows-malware/)
+- [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
+- [Police seize “First VPN” service used in ransomware, data theft attacks](https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/)
 - [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
 - [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
 - [GitHub links repo breach to TanStack npm supply-chain attack](https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/)
 - [Ukraine identifies infostealer operator tied to 28,000 stolen accounts](https://www.bleepingcomputer.com/news/security/ukraine-identifies-infostealer-operator-tied-to-28-000-stolen-accounts/)
-- [Hackers bypass SonicWall VPN MFA due to incomplete patching](https://www.bleepingcomputer.com/news/security/hackers-bypass-sonicwall-vpn-mfa-due-to-incomplete-patching/)
-- [Grafana breach caused by missed token rotation after TanStack attack](https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/)
-- [Identity Alone Isn't Enough: Why Device Security Has to Share the Load](https://www.bleepingcomputer.com/news/security/identity-alone-isnt-enough-why-device-security-has-to-share-the-load/)
-- [Drupal critical update to fix bug with high exploitation risk](https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks)
+- [Content Delivery Exploit Opens Websites to Brand Hijacking](https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking)
 - [Cyber Pros Can't Decide If AI Is a Good or a Bad Thing](https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai)
 - [GitHub Confirms Breach, 4K Internal Repos Stolen](https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen)
-- [Fake Android Apps Commit Carrier Billing Fraud for Premium Svcs.](https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud)
+- [Fake Android Apps Commit Carrier Billing Fraud for Premium Services](https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud)
 - [Processes and Culture Top Reasons Behind Data Breaches](https://www.darkreading.com/cyberattacks-data-breaches/processes-and-culture-top-reasons-behind-data-breaches)
 - [Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control](https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os)
 - [Infosecurity Europe](https://www.darkreading.com/events/infosecurity-europe)
-- [Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East](https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east)
-- [What It'll Take to Make AI BOMs Usable in a Modern Security Program](https://www.darkreading.com/cyber-risk/make-ai-bom-usable-modern-security-program)
 
 ### Security Week
 
+- [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
+- [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
 - [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
 - [Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking](https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/)
 - [Socket Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/)
 - [Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days](https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/)
 - [Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI](https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/)
 - [Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility](https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/)
-- [Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution](https://www.securityweek.com/quantum-bridge-raises-8-million-for-quantum-safe-key-distribution-solution/)
-- [Microsoft Rolls Out Mitigations for ‘YellowKey’ BitLocker Bypass](https://www.securityweek.com/microsoft-rolls-out-mitigations-for-yellowkey-bitlocker-bypass/)
 
 ### Threatpost
 

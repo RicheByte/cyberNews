@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 489,
+      "count": 490,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -194,7 +194,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 605,
+      "count": 606,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -282,11 +282,12 @@
         "2026-04-28",
         "2026-04-29",
         "2026-05-17",
-        "2026-05-18"
+        "2026-05-18",
+        "2026-05-21"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1682,
+      "count": 1683,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2345,7 +2346,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 333,
+      "count": 334,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3833,7 +3834,7 @@
       ]
     },
     "1 billion valuation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-01-15",
         "2026-02-05",
@@ -6923,7 +6924,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-11",
         "2026-05-21"
@@ -15504,7 +15505,7 @@
       ]
     },
     "company's public image": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15742,7 +15743,7 @@
       ]
     },
     "275 million students": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15750,7 +15751,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-05-19",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-05-21"
       ]
     },
     "internal trellix services": {
@@ -16106,7 +16108,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16719,7 +16721,7 @@
       ]
     },
     "abb coresense hm": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-19",
         "2026-05-20",
@@ -16842,7 +16844,7 @@
       ]
     },
     "secure ai agents": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16876,7 +16878,7 @@
       ]
     },
     "improve cyber hygiene": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16895,19 +16897,19 @@
       ]
     },
     "improper privilege management": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     },
     "wednesday officially confirmed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
     },
     "2 2 billion": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-21"
       ]
@@ -16917,20 +16919,39 @@
       "dates": [
         "2026-05-21"
       ]
+    },
+    "old tool shows": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "improper link resolution": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "site admin privileges": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "cve 2026 41091": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "targeting telecommunications providers": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-09 14:45",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-09 16:47",
       "articles": 56,
@@ -18018,6 +18039,17 @@
         "1 billion valuation",
         "exploited without authentication",
         "secure ai agents"
+      ]
+    },
+    {
+      "timestamp": "2026-05-21 14:54",
+      "articles": 56,
+      "top_keywords": [
+        "old tool shows",
+        "abb coresense hm",
+        "1 billion valuation",
+        "secure ai agents",
+        "improper link resolution"
       ]
     }
   ]

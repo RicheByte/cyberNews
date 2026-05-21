@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 488,
+      "count": 489,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -286,7 +286,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1680,
+      "count": 1681,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6371,7 +6371,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8025,7 +8025,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8049,7 +8049,8 @@
         "2026-05-16",
         "2026-05-17",
         "2026-05-18",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ]
     },
     "unfortunately named toolkit": {
@@ -13721,7 +13722,7 @@
       ]
     },
     "publicly disclosed weakness": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-17",
         "2026-04-18",
@@ -13866,7 +13867,7 @@
       ]
     },
     "related software including": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -14984,7 +14985,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15500,7 +15501,7 @@
       ]
     },
     "company's public image": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-06",
         "2026-05-07",
@@ -15804,7 +15805,7 @@
       ]
     },
     "united states today": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -15813,7 +15814,8 @@
         "2026-05-15",
         "2026-05-16",
         "2026-05-18",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-05-21"
       ]
     },
     "provided fake data": {
@@ -16100,7 +16102,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16713,7 +16715,7 @@
       ]
     },
     "abb coresense hm": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-19",
         "2026-05-20",
@@ -16802,21 +16804,21 @@
       ]
     },
     "guard securing ai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "consuming ai bill": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "unseen unmanaged elements": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16836,21 +16838,21 @@
       ]
     },
     "secure ai agents": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "yellowkey bitlocker bypass": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-20",
         "2026-05-21"
       ]
     },
     "missed token rotation": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-20",
         "2026-05-21"
@@ -16870,25 +16872,26 @@
       ]
     },
     "improve cyber hygiene": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-20",
+        "2026-05-21"
+      ]
+    },
+    "winre image launches": {
+      "count": 1,
+      "dates": [
+        "2026-05-21"
+      ]
+    },
+    "ukrainian cyberpolice working": {
+      "count": 1,
+      "dates": [
         "2026-05-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-09 10:53",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-09 13:05",
       "articles": 56,
@@ -17976,6 +17979,17 @@
         "complete system compromise",
         "platform's source code",
         "finding security vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-05-21 07:43",
+      "articles": 56,
+      "top_keywords": [
+        "abb coresense hm",
+        "secure ai agents",
+        "finding security vulnerabilities",
+        "twitter whistleblower complaint",
+        "missed token rotation"
       ]
     }
   ]

@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-05-21 02:49",
+  "last_updated": "2026-05-21 07:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "abb coresense hm",
     "secure ai agents",
-    "complete system compromise",
-    "platform's source code",
     "finding security vulnerabilities",
     "twitter whistleblower complaint",
     "missed token rotation",
-    "customer production systems",
     "company's public image",
     "unseen unmanaged elements",
-    "malicious cyber actors",
+    "publicly disclosed weakness",
     "improve cyber hygiene",
     "guard securing ai",
     "consuming ai bill",
-    "windows publicly referred",
     "related software including",
-    "publicly disclosed weakness",
-    "yellowkey bitlocker bypass",
+    "malicious cyber actors",
     "service ddos attacks",
-    "massive ddos attacks"
+    "massive ddos attacks",
+    "yellowkey bitlocker bypass",
+    "wire fraud conspiracy",
+    "winre image launches",
+    "united states today",
+    "ukrainian cyberpolice working"
   ],
   "trending": [
     {
       "keyword": "abb coresense hm",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "secure ai agents",
-      "mentions": 4
-    },
-    {
-      "keyword": "complete system compromise",
-      "mentions": 3
-    },
-    {
-      "keyword": "platform's source code",
-      "mentions": 7
+      "mentions": 5
     },
     {
       "keyword": "finding security vulnerabilities",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1680
+      "mentions": 1681
     },
     {
       "keyword": "missed token rotation",
-      "mentions": 4
-    },
-    {
-      "keyword": "customer production systems",
-      "mentions": 7
+      "mentions": 5
     },
     {
       "keyword": "company's public image",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "unseen unmanaged elements",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "publicly disclosed weakness",
+      "mentions": 14
+    },
+    {
+      "keyword": "improve cyber hygiene",
+      "mentions": 4
+    },
+    {
+      "keyword": "guard securing ai",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
+      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
+      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
+      "published": "Thu, 21 May 2026 09:57:01 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
+      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
+      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
+      "published": "Thu, 21 May 2026 09:14:11 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "Privilege escalation",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
@@ -124,28 +150,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
-      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
-      "summary": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass. \"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
-      "published": "Wed, 20 May 2026 13:58:26 +0530",
-      "value_score": 85,
+      "source": "BleepingComputer",
+      "title": "GitHub links repo breach to TanStack npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/github-links-repo-breach-to-tanstack-npm-supply-chain-attack/",
+      "summary": "GitHub says the hackers who breached 3,800 internal repositories gained access via a malicious version of the Nx Console VS Code extension, compromised in last week's TanStack npm supply-chain attack. [...]",
+      "published": "Thu, 21 May 2026 02:54:01 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
-      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
-      "summary": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories. \"After the initial assessment, we found that in addition to source",
-      "published": "Wed, 20 May 2026 10:42:06 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
+        "Breach/leak"
       ]
     },
     {
@@ -223,17 +235,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
-      "summary": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
-      "published": "Wed, 20 May 2026 03:31:15 -0400",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
       ]
     },
     {

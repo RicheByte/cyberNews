@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-22 19:27",
+  "last_updated": "2026-05-22 21:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "directory traversal flaw",
-      "mentions": 4
-    },
-    {
-      "keyword": "user mode without",
-      "mentions": 3
-    },
-    {
-      "keyword": "trend micro warns",
-      "mentions": 3
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1693
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 9
-    },
-    {
-      "keyword": "oss component openssl",
       "mentions": 5
     },
     {
+      "keyword": "user mode without",
+      "mentions": 4
+    },
+    {
+      "keyword": "trend micro warns",
+      "mentions": 4
+    },
+    {
+      "keyword": "computer hacking charges",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1694
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 10
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 6
+    },
+    {
       "keyword": "130 companies tangled",
-      "mentions": 344
+      "mentions": 345
     },
     {
       "keyword": "remote code execution",
-      "mentions": 399
+      "mentions": 400
     },
     {
       "keyword": "cybercrime group defaced",
-      "mentions": 29
+      "mentions": 30
     }
   ],
   "articles": [
@@ -350,7 +350,7 @@
       "source": "Dark Reading",
       "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
       "link": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
-      "summary": "Ransomware and vendor breaches persist, but the 2026 Data Breach Investigations Report (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
+      "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
       "published": "Fri, 22 May 2026 13:17:25 GMT",
       "value_score": 40,
       "value_signals": [

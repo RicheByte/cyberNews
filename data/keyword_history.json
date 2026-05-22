@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 493,
+      "count": 494,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1688,
+      "count": 1689,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2348,7 +2348,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 339,
+      "count": 340,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3837,7 +3837,7 @@
       ]
     },
     "1 billion valuation": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-15",
         "2026-02-05",
@@ -6928,10 +6928,11 @@
       ]
     },
     "exploited without authentication": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-02-11",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-05-22"
       ]
     },
     "vulnerabilities found recently": {
@@ -14332,7 +14333,7 @@
       ]
     },
     "gain system privileges": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-23",
         "2026-04-24",
@@ -15750,7 +15751,7 @@
       ]
     },
     "275 million students": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15773,7 +15774,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16430,11 +16431,12 @@
       ]
     },
     "extract sensitive information": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-15",
         "2026-05-16",
-        "2026-05-17"
+        "2026-05-17",
+        "2026-05-22"
       ]
     },
     "avada builder plugin": {
@@ -16926,35 +16928,35 @@
       ]
     },
     "google s surge": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "old tool shows": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "improper link resolution": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "site admin privileges": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "cve 2026 41091": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16967,14 +16969,14 @@
       ]
     },
     "potentially fraudulent transactions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "app store fraud": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16994,32 +16996,33 @@
       ]
     },
     "disclose sensitive files": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "approving malicious transactions": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-21",
+        "2026-05-22"
+      ]
+    },
+    "accidentally leaked details": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "cisa builds tests": {
+      "count": 1,
+      "dates": [
         "2026-05-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-10 06:29",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-10 09:25",
       "articles": 56,
@@ -18107,6 +18110,17 @@
         "app store fraud",
         "site admin privileges",
         "google s surge"
+      ]
+    },
+    {
+      "timestamp": "2026-05-22 07:39",
+      "articles": 56,
+      "top_keywords": [
+        "potentially fraudulent transactions",
+        "old tool shows",
+        "app store fraud",
+        "google s surge",
+        "site admin privileges"
       ]
     }
   ]

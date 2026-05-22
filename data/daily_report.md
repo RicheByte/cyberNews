@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-22 02:50 UTC  
+> **Last Updated:** 2026-05-22 07:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **site admin privileges** • **google s surge** • **1 billion valuation** • **cve 2026 41091** • **twitter whistleblower complaint** • **improper link resolution** • **disclose sensitive files** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **complete fraudulent subscriptions** • **cybercrime group defaced** • **secure ai agents** • **approving malicious transactions** • **gain system privileges** • **wire fraud conspiracy** • **wednesday officially confirmed**
+**potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **google s surge** • **site admin privileges** • **1 billion valuation** • **twitter whistleblower complaint** • **improper link resolution** • **extract sensitive information** • **disclose sensitive files** • **accidentally leaked details** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **cybercrime group defaced** • **cisa builds tests** • **cve 2026 41091** • **approving malicious transactions** • **gain system privileges** • **exploited without authentication**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
+- [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 - [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 - [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
 - [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
 - [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
 - [9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros](https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html)
 - [GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
-- [Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks](https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html)
-- [Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development](https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.](https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs)
 - [How CISOs Should Prep for Agentic-Ready AI BOMs](https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms)
 - [Google API Keys Remain Active After Deletion](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
 - [AI Agents Are Shifting Identity Security Budget Dynamics](https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents)
@@ -56,7 +57,6 @@
 - [Content Delivery Exploit Opens Websites to Brand Hijacking](https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking)
 - [Cyber Pros Can't Decide If AI Is a Good or a Bad Thing](https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai)
 - [GitHub Confirms Breach, 4K Internal Repos Stolen](https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen)
-- [Fake Android Apps Commit Carrier Billing Fraud for Premium Services](https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud)
 
 ### Security Week
 

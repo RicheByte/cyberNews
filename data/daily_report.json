@@ -1,72 +1,97 @@
 {
-  "last_updated": "2026-05-22 02:50",
+  "last_updated": "2026-05-22 07:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "potentially fraudulent transactions",
     "old tool shows",
     "app store fraud",
-    "site admin privileges",
     "google s surge",
+    "site admin privileges",
     "1 billion valuation",
-    "cve 2026 41091",
     "twitter whistleblower complaint",
     "improper link resolution",
+    "extract sensitive information",
     "disclose sensitive files",
+    "accidentally leaked details",
     "275 million students",
     "130 companies tangled",
     "malicious cyber actors",
-    "complete fraudulent subscriptions",
     "cybercrime group defaced",
-    "secure ai agents",
+    "cisa builds tests",
+    "cve 2026 41091",
     "approving malicious transactions",
     "gain system privileges",
-    "wire fraud conspiracy",
-    "wednesday officially confirmed"
+    "exploited without authentication"
   ],
   "trending": [
     {
       "keyword": "potentially fraudulent transactions",
-      "mentions": 5
-    },
-    {
-      "keyword": "old tool shows",
       "mentions": 6
     },
     {
-      "keyword": "app store fraud",
-      "mentions": 5
+      "keyword": "old tool shows",
+      "mentions": 7
     },
     {
-      "keyword": "site admin privileges",
+      "keyword": "app store fraud",
       "mentions": 6
     },
     {
       "keyword": "google s surge",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 7
     },
     {
       "keyword": "1 billion valuation",
-      "mentions": 9
-    },
-    {
-      "keyword": "cve 2026 41091",
-      "mentions": 6
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1688
+      "mentions": 1689
     },
     {
       "keyword": "improper link resolution",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "extract sensitive information",
+      "mentions": 17
     },
     {
       "keyword": "disclose sensitive files",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
+      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
+      "published": "Fri, 22 May 2026 11:17:33 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
+      "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
+      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
+      "published": "Fri, 22 May 2026 11:06:18 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
@@ -132,30 +157,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Highly Critical Drupal Core Flaw Exposes PostgreSQL Sites to RCE Attacks",
-      "link": "https://thehackernews.com/2026/05/highly-critical-drupal-core-flaw.html",
-      "summary": "Drupal has released security updates for a \"highly critical\" security vulnerability in Drupal Core that could be exploited by attackers to achieve remote code execution, privilege escalation, or information disclosure. The vulnerability, now tracked as CVE-2026-9082, carries a CVSS score of 6.5 out of 10.0, per CVE.org. Drupal said the vulnerability resides in a database abstraction API that is",
-      "published": "Thu, 21 May 2026 09:14:11 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "Privilege escalation",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
-      "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
-      "summary": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
-      "published": "Wed, 20 May 2026 22:36:54 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -331,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Govts.",
+      "link": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
+      "summary": "The advanced persistent threat group also relied on SOCKS proxies like SoftEther VPN, tunneling tools that act as a middleman between victim and attacker.",
+      "published": "Fri, 22 May 2026 07:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "How CISOs Should Prep for Agentic-Ready AI BOMs",
       "link": "https://www.darkreading.com/cyber-risk/how-cisos-should-prep-for-agentic-ready-ai-boms",
       "summary": "Finding ways to document both component and execution attributes for AI bill of materials (AI BOM).",
@@ -397,15 +407,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
-      "link": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
-      "summary": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
-      "published": "Wed, 20 May 2026 20:35:35 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

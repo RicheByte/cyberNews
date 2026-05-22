@@ -1,14 +1,17 @@
 {
-  "last_updated": "2026-05-22 07:39",
+  "last_updated": "2026-05-22 10:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "potentially fraudulent transactions",
-    "old tool shows",
-    "app store fraud",
-    "google s surge",
     "site admin privileges",
+    "old tool shows",
+    "directory traversal flaw",
+    "app store fraud",
+    "gain system privileges",
+    "several major us",
     "1 billion valuation",
+    "cve 2026 41091",
     "twitter whistleblower complaint",
     "improper link resolution",
     "extract sensitive information",
@@ -17,56 +20,64 @@
     "275 million students",
     "130 companies tangled",
     "malicious cyber actors",
+    "cvss scoring system",
     "cybercrime group defaced",
-    "cisa builds tests",
-    "cve 2026 41091",
-    "approving malicious transactions",
-    "gain system privileges",
-    "exploited without authentication"
+    "approving malicious transactions"
   ],
   "trending": [
     {
       "keyword": "potentially fraudulent transactions",
-      "mentions": 6
-    },
-    {
-      "keyword": "old tool shows",
-      "mentions": 7
-    },
-    {
-      "keyword": "app store fraud",
-      "mentions": 6
-    },
-    {
-      "keyword": "google s surge",
       "mentions": 7
     },
     {
       "keyword": "site admin privileges",
+      "mentions": 8
+    },
+    {
+      "keyword": "old tool shows",
+      "mentions": 8
+    },
+    {
+      "keyword": "directory traversal flaw",
+      "mentions": 1
+    },
+    {
+      "keyword": "app store fraud",
       "mentions": 7
+    },
+    {
+      "keyword": "gain system privileges",
+      "mentions": 12
+    },
+    {
+      "keyword": "several major us",
+      "mentions": 1
     },
     {
       "keyword": "1 billion valuation",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "cve 2026 41091",
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1689
-    },
-    {
-      "keyword": "improper link resolution",
-      "mentions": 7
-    },
-    {
-      "keyword": "extract sensitive information",
-      "mentions": 17
-    },
-    {
-      "keyword": "disclose sensitive files",
-      "mentions": 6
+      "mentions": 1690
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
+      "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU. \"Kimwolf",
+      "published": "Fri, 22 May 2026 14:20:18 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
@@ -148,14 +159,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
-      "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
-      "summary": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
-      "published": "Thu, 21 May 2026 09:57:01 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "US and Canada arrest and charge suspected Kimwolf botnet admin",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/",
+      "summary": "U.S. and Canadian authorities arrested and charged a Canadian man with operating the KimWolf distributed denial-of-service (DDoS) botnet, which infected nearly two million devices worldwide. [...]",
+      "published": "Fri, 22 May 2026 05:01:20 -0400",
+      "value_score": 30,
       "value_signals": [
-        "Breach/leak"
+        "Botnet ×2"
       ]
     },
     {
@@ -226,18 +237,6 @@
       "published": "Thu, 21 May 2026 07:00:00 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft warns of new Defender zero-days exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
-      "summary": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
-      "published": "Thu, 21 May 2026 03:49:48 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -410,6 +409,40 @@
     },
     {
       "source": "Security Week",
+      "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
+      "link": "https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/",
+      "summary": "The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions. The post ‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested appeared first on SecurityWeek .",
+      "published": "Fri, 22 May 2026 09:24:22 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
+      "link": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
+      "summary": "CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One. The post TrendAI Patches Apex One Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Fri, 22 May 2026 08:19:24 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
+      "link": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
+      "summary": "Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated. The post Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Fri, 22 May 2026 07:49:38 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cisco Patches Critical Vulnerability in Secure Workload",
       "link": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
       "summary": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges. The post Cisco Patches Critical Vulnerability in Secure Workload appeared first on SecurityWeek .",
@@ -460,37 +493,6 @@
       "published": "Thu, 21 May 2026 10:32:37 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days",
-      "link": "https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/",
-      "summary": "The bugs could be exploited to elevate privileges to System or create a denial-of-service (DoS) condition. The post Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days appeared first on SecurityWeek .",
-      "published": "Thu, 21 May 2026 09:52:05 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
-      "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
-      "summary": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’. The post Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on SecurityWeek .",
-      "published": "Thu, 21 May 2026 09:37:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility",
-      "link": "https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/",
-      "summary": "New vulnerabilities are being discovered too fast, the time-to-exploitation is too short, and our visibility into them is largely lacking. The post Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility appeared first on SecurityWeek .",
-      "published": "Thu, 21 May 2026 08:14:53 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

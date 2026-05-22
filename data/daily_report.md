@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-22 07:39 UTC  
+> **Last Updated:** 2026-05-22 10:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**potentially fraudulent transactions** • **old tool shows** • **app store fraud** • **google s surge** • **site admin privileges** • **1 billion valuation** • **twitter whistleblower complaint** • **improper link resolution** • **extract sensitive information** • **disclose sensitive files** • **accidentally leaked details** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **cybercrime group defaced** • **cisa builds tests** • **cve 2026 41091** • **approving malicious transactions** • **gain system privileges** • **exploited without authentication**
+**potentially fraudulent transactions** • **site admin privileges** • **old tool shows** • **directory traversal flaw** • **app store fraud** • **gain system privileges** • **several major us** • **1 billion valuation** • **cve 2026 41091** • **twitter whistleblower complaint** • **improper link resolution** • **extract sensitive information** • **disclose sensitive files** • **accidentally leaked details** • **275 million students** • **130 companies tangled** • **malicious cyber actors** • **cvss scoring system** • **cybercrime group defaced** • **approving malicious transactions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 - [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 - [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 - [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
@@ -23,10 +24,10 @@
 - [Microsoft Warns of Two Actively Exploited Defender Vulnerabilities](https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html)
 - [When Identity is the Attack Path](https://thehackernews.com/2026/05/when-identity-is-attack-path.html)
 - [9-Year-Old Linux Kernel Flaw Enables Root Command Execution on Major Distros](https://thehackernews.com/2026/05/9-year-old-linux-kernel-flaw-enables.html)
-- [GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension](https://thehackernews.com/2026/05/github-internal-repositories-breached.html)
 
 ### BleepingComputer
 
+- [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
 - [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
 - [Apple blocked over $11 billion in App Store fraud in 6 years](https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/)
 - [Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet](https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/)
@@ -34,7 +35,6 @@
 - [Max severity Cisco Secure Workload flaw gives Site Admin privileges](https://www.bleepingcomputer.com/news/security/cisco-max-severity-secure-workload-flaw-gives-hackers-site-admin-privileges/)
 - [Police seize “First VPN” service used in ransomware, data theft attacks](https://www.bleepingcomputer.com/news/security/police-seize-first-vpn-service-used-in-ransomware-data-theft-attacks/)
 - [Flipper One project needs community help to build open Linux platform](https://www.bleepingcomputer.com/news/hardware/flipper-one-project-needs-community-help-to-build-open-linux-platform/)
-- [Microsoft warns of new Defender zero-days exploited in attacks](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
+- [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
+- [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
 - [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
 - [Ocean Emerges From Stealth With $28M for Agentic Email Security Platform](https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/)
 - [Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention](https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/)
 - [Drupal Patches Highly Critical Vulnerability Exposing Websites to Hacking](https://www.securityweek.com/drupal-patches-highly-critical-vulnerability-exposing-websites-to-hacking/)
 - [Socket Raises $60 Million at $1 Billion Valuation](https://www.securityweek.com/socket-raises-60-million-at-1-billion-valuation/)
-- [Microsoft Patches Exploited UnDefend and RedSun Defender Zero-Days](https://www.securityweek.com/microsoft-patches-exploited-undefend-and-redsun-defender-zero-days/)
-- [Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI](https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/)
-- [Supply Chain Security Crisis: Too Many Vulnerabilities, Too Little Visibility](https://www.securityweek.com/supply-chain-security-crisis-too-many-vulnerabilities-too-little-visibility/)
 
 ### Threatpost
 

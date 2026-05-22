@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 494,
+      "count": 495,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1689,
+      "count": 1690,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2070,7 +2070,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2081,7 +2081,8 @@
         "2026-01-15",
         "2026-01-23",
         "2026-02-25",
-        "2026-04-22"
+        "2026-04-22",
+        "2026-05-22"
       ]
     },
     "cybercrime looks like": {
@@ -2348,7 +2349,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 340,
+      "count": 341,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3837,7 +3838,7 @@
       ]
     },
     "1 billion valuation": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-15",
         "2026-02-05",
@@ -14333,7 +14334,7 @@
       ]
     },
     "gain system privileges": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-23",
         "2026-04-24",
@@ -15751,7 +15752,7 @@
       ]
     },
     "275 million students": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15774,7 +15775,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16431,7 +16432,7 @@
       ]
     },
     "extract sensitive information": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -16935,28 +16936,28 @@
       ]
     },
     "old tool shows": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "improper link resolution": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "site admin privileges": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "cve 2026 41091": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16969,14 +16970,14 @@
       ]
     },
     "potentially fraudulent transactions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "app store fraud": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16996,21 +16997,21 @@
       ]
     },
     "disclose sensitive files": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "approving malicious transactions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "accidentally leaked details": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-22"
       ]
@@ -17020,20 +17021,21 @@
       "dates": [
         "2026-05-22"
       ]
+    },
+    "directory traversal flaw": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "several major us": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-10 09:25",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-10 10:57",
       "articles": 56,
@@ -18121,6 +18123,17 @@
         "app store fraud",
         "google s surge",
         "site admin privileges"
+      ]
+    },
+    {
+      "timestamp": "2026-05-22 10:45",
+      "articles": 56,
+      "top_keywords": [
+        "potentially fraudulent transactions",
+        "site admin privileges",
+        "old tool shows",
+        "directory traversal flaw",
+        "app store fraud"
       ]
     }
   ]

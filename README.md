@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-22 14:28 UTC |
+| 🕐 Last Updated | 2026-05-22 17:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`potentially fraudulent transactions` • `user mode without` • `directory traversal flaw` • `app store fraud` • `twitter whistleblower complaint` • `oss component openssl` • `old tool shows` • `improper link resolution` • `computer hacking charges` • `accidentally leaked details`
+`directory traversal flaw` • `user mode without` • `trend micro warns` • `computer hacking charges` • `twitter whistleblower complaint` • `oss component openssl` • `old tool shows` • `malicious cyber actors` • `130 companies tangled` • `remote code execution`
 
 ## 📄 Reports
 

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 496,
+      "count": 497,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1691,
+      "count": 1692,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -702,7 +702,7 @@
       ]
     },
     "remote code execution": {
-      "count": 397,
+      "count": 398,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -765,7 +765,8 @@
         "2026-05-17",
         "2026-05-18",
         "2026-05-19",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-05-22"
       ]
     },
     "attacker remotely control": {
@@ -2349,7 +2350,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 342,
+      "count": 343,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3084,9 +3085,10 @@
       ]
     },
     "trend micro warns": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-09"
+        "2026-01-09",
+        "2026-05-22"
       ]
     },
     "misconfigured proxy servers": {
@@ -8035,7 +8037,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15775,7 +15777,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15822,7 +15824,7 @@
       ]
     },
     "united states today": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -15832,7 +15834,8 @@
         "2026-05-16",
         "2026-05-18",
         "2026-05-19",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-05-22"
       ]
     },
     "provided fake data": {
@@ -16936,7 +16939,7 @@
       ]
     },
     "old tool shows": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16984,7 +16987,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -17024,7 +17027,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-22"
       ]
@@ -17036,19 +17039,19 @@
       ]
     },
     "user mode without": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-22"
       ]
     },
     "computer hacking charges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-22"
       ]
     },
     "linux systems capable": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-22"
       ]
@@ -17058,20 +17061,45 @@
       "dates": [
         "2026-05-22"
       ]
+    },
+    "application data sent": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "victimized individuals worldwide": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "vendors betting big": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "vendor breaches persist": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "traditional iam projects": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "target government organizations": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-10 13:06",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "jdownloader site hacked"
-      ]
-    },
     {
       "timestamp": "2026-05-10 14:47",
       "articles": 56,
@@ -18158,6 +18186,17 @@
         "user mode without",
         "directory traversal flaw",
         "app store fraud",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-22 17:47",
+      "articles": 56,
+      "top_keywords": [
+        "directory traversal flaw",
+        "user mode without",
+        "trend micro warns",
+        "computer hacking charges",
         "twitter whistleblower complaint"
       ]
     }

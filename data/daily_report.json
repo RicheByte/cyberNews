@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-22 14:28",
+  "last_updated": "2026-05-22 17:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "potentially fraudulent transactions",
-    "user mode without",
     "directory traversal flaw",
-    "app store fraud",
+    "user mode without",
+    "trend micro warns",
+    "computer hacking charges",
     "twitter whistleblower complaint",
     "oss component openssl",
     "old tool shows",
-    "improper link resolution",
-    "computer hacking charges",
-    "accidentally leaked details",
-    "130 companies tangled",
-    "gain system privileges",
-    "cvss scoring system",
-    "complete fraudulent subscriptions",
     "malicious cyber actors",
+    "130 companies tangled",
+    "remote code execution",
     "cybercrime group defaced",
     "linux systems capable",
-    "internal cisa systems",
-    "cve 2026 41091",
-    "approving malicious transactions"
+    "application data sent",
+    "wire fraud conspiracy",
+    "victimized individuals worldwide",
+    "vendors betting big",
+    "vendor breaches persist",
+    "united states today",
+    "traditional iam projects",
+    "target government organizations"
   ],
   "trending": [
     {
-      "keyword": "potentially fraudulent transactions",
-      "mentions": 8
+      "keyword": "directory traversal flaw",
+      "mentions": 3
     },
     {
       "keyword": "user mode without",
-      "mentions": 1
-    },
-    {
-      "keyword": "directory traversal flaw",
       "mentions": 2
     },
     {
-      "keyword": "app store fraud",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1691
-    },
-    {
-      "keyword": "oss component openssl",
-      "mentions": 3
-    },
-    {
-      "keyword": "old tool shows",
-      "mentions": 9
-    },
-    {
-      "keyword": "improper link resolution",
-      "mentions": 9
+      "keyword": "trend micro warns",
+      "mentions": 2
     },
     {
       "keyword": "computer hacking charges",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "accidentally leaked details",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1692
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 4
+    },
+    {
+      "keyword": "old tool shows",
+      "mentions": 10
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 497
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 343
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 398
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government",
+      "published": "Fri, 22 May 2026 21:50:32 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
@@ -145,18 +156,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns of Two Actively Exploited Defender Vulnerabilities",
-      "link": "https://thehackernews.com/2026/05/microsoft-warns-of-two-actively.html",
-      "summary": "Microsoft has disclosed that a privilege escalation and a denial-of-service flaw in Defender has come under active exploitation in the wild. The former, tracked as CVE-2026-41091, is rated 7.8 on the CVSS scoring system. Successful exploitation of the flaw could allow an attacker to gain SYSTEM privileges. \"Improper link resolution before file access ('link following') in Microsoft Defender",
-      "published": "Thu, 21 May 2026 16:25:57 +0530",
-      "value_score": 96,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Privilege escalation",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
+      "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
+      "published": "Fri, 22 May 2026 13:24:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Former US execs plead guilty to aiding tech support scammers",
+      "link": "https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/",
+      "summary": "Two former executives of a call-tracking and analytics company pleaded guilty to concealing a years-long tech support fraud scheme that victimized individuals worldwide. [...]",
+      "published": "Fri, 22 May 2026 11:32:18 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,23 +242,15 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Apple blocked over $11 billion in App Store fraud in 6 years",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-blocked-22-billion-in-fraudulent-app-store-transactions-in-2025/",
-      "summary": "Apple revealed that it blocked over $11 billion in fraudulent App Store transactions over the last six years, more than $2.2 billion in potentially fraudulent App Store transactions in 2025 alone. [...]",
-      "published": "Thu, 21 May 2026 11:11:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside a Crypto Drainer: How to Spot it Before it Empties Your Wallet",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-a-crypto-drainer-how-to-spot-it-before-it-empties-your-wallet/",
-      "summary": "Modern crypto drainers don't hack wallets. They trick users into approving malicious transactions. Flare explores how the Lucifer DaaS platform scales wallet theft through phishing and automation. [...]",
-      "published": "Thu, 21 May 2026 10:00:10 -0400",
-      "value_score": 18,
+      "source": "Krebs on Security",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+      "published": "Fri, 22 May 2026 16:34:24 +0000",
+      "value_score": 74,
       "value_signals": [
-        "Phishing"
+        "Breach/leak ×2",
+        "CISA/KEV ×4"
       ]
     },
     {
@@ -329,13 +336,25 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Russia Hacked Routers to Steal Microsoft Office Tokens",
-      "link": "https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/",
-      "summary": "Hackers linked to Russia's military intelligence units are using known flaws in older Internet routers to mass harvest authentication tokens from Microsoft Office users, security experts warned today. The spying campaign allowed state-backed Russian hackers to quietly siphon authentication tokens from users on more than 18,000 networks without deploying any malicious software or code.",
-      "published": "Tue, 07 Apr 2026 17:02:44 +0000",
+      "source": "Dark Reading",
+      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
+      "link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
+      "summary": "When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.",
+      "published": "Fri, 22 May 2026 15:43:50 GMT",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
+      "link": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
+      "summary": "Ransomware and vendor breaches persist, but the 2026 Data Breach Investigations Report (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
+      "published": "Fri, 22 May 2026 13:17:25 GMT",
+      "value_score": 40,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -396,24 +415,16 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "GitHub Confirms Breach, 4K Internal Repos Stolen",
-      "link": "https://www.darkreading.com/application-security/github-confirms-breach-4k-internal-repos-stolen",
-      "summary": "GitHub confirmed a data breach this week involving the theft of thousands of developer code repositories. One threat actor — TeamPCP — took credit.",
-      "published": "Wed, 20 May 2026 20:51:32 GMT",
+      "source": "Security Week",
+      "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
+      "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
+      "summary": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites. The post Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure appeared first on SecurityWeek .",
+      "published": "Fri, 22 May 2026 17:15:26 +0000",
       "value_score": 34,
       "value_signals": [
-        "Breach/leak ×2"
+        "CVE mentioned",
+        "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fake Android Apps Commit Carrier Billing Fraud for Premium Services",
-      "link": "https://www.darkreading.com/mobile-security/fake-android-apps-carrier-billing-fraud",
-      "summary": "The disguised apps use WebView automation, JavaScript injection, and OTP interception to avoid detection and complete fraudulent subscriptions.",
-      "published": "Wed, 20 May 2026 20:35:35 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -489,15 +500,6 @@
       "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
       "summary": "The company has developed a platform that uses specialized AI agents to inspect every incoming message. The post Ocean Emerges From Stealth With $28M for Agentic Email Security Platform appeared first on SecurityWeek .",
       "published": "Thu, 21 May 2026 11:45:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention",
-      "link": "https://www.securityweek.com/apple-rejected-2-million-app-store-submissions-in-2025-for-security-and-fraud-prevention/",
-      "summary": "The company blocked over 1.1 billion accounts and $2.2 billion in potentially fraudulent transactions. The post Apple Rejected 2 Million App Store Submissions in 2025 for Security and Fraud Prevention appeared first on SecurityWeek .",
-      "published": "Thu, 21 May 2026 11:17:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

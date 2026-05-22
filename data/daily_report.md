@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-22 17:47 UTC  
+> **Last Updated:** 2026-05-22 19:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**directory traversal flaw** • **user mode without** • **trend micro warns** • **computer hacking charges** • **twitter whistleblower complaint** • **oss component openssl** • **old tool shows** • **malicious cyber actors** • **130 companies tangled** • **remote code execution** • **cybercrime group defaced** • **linux systems capable** • **application data sent** • **wire fraud conspiracy** • **victimized individuals worldwide** • **vendors betting big** • **vendor breaches persist** • **united states today** • **traditional iam projects** • **target government organizations**
+**directory traversal flaw** • **user mode without** • **trend micro warns** • **computer hacking charges** • **twitter whistleblower complaint** • **site admin privileges** • **oss component openssl** • **130 companies tangled** • **remote code execution** • **cybercrime group defaced** • **linux systems capable** • **application data sent** • **unauthenticated remote attacker** • **finding security vulnerabilities** • **wire fraud conspiracy** • **victimized individuals worldwide** • **vendors betting big** • **vendor breaches persist** • **united states today** • **traditional iam projects**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 - [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 - [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
 - [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
@@ -23,7 +24,6 @@
 - [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
 - [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
 - [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
-- [ThreatsDay Bulletin: Linux Rootkits, Router 0-Day, AI Intrusions, Scam Kits and 25 New Stories](https://thehackernews.com/2026/05/threatsday-bulletin-linux-rootkits.html)
 
 ### BleepingComputer
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [ABB Terra AC Wallbox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05)
-- [Hitachi Energy GMS600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03)
-- [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04)
+- [ABB Terra AC Wallbox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05)
 - [ABB B&R PCs](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)
+- [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04)
+- [Hitachi Energy GMS600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01)
 - [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
-- [Siemens RUGGEDCOM APE1808 Devices](https://www.cisa.gov/news-events/ics-advisories/icsa-26-139-02)
 
 ---
 

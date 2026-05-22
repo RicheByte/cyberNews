@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 495,
+      "count": 496,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1690,
+      "count": 1691,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2070,7 +2070,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2349,7 +2349,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 341,
+      "count": 342,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -14334,7 +14334,7 @@
       ]
     },
     "gain system privileges": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-23",
         "2026-04-24",
@@ -15775,7 +15775,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16936,14 +16936,14 @@
       ]
     },
     "old tool shows": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "improper link resolution": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16957,7 +16957,7 @@
       ]
     },
     "cve 2026 41091": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -16970,27 +16970,28 @@
       ]
     },
     "potentially fraudulent transactions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "app store fraud": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "oss component openssl": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-21"
+        "2026-05-21",
+        "2026-05-22"
       ]
     },
     "complete fraudulent subscriptions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-21",
         "2026-05-22"
@@ -17004,14 +17005,14 @@
       ]
     },
     "approving malicious transactions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-21",
         "2026-05-22"
       ]
     },
     "accidentally leaked details": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-22"
       ]
@@ -17023,7 +17024,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-22"
       ]
@@ -17033,20 +17034,33 @@
       "dates": [
         "2026-05-22"
       ]
+    },
+    "user mode without": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "computer hacking charges": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "linux systems capable": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
+    },
+    "internal cisa systems": {
+      "count": 1,
+      "dates": [
+        "2026-05-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-10 10:57",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "internal trellix services"
-      ]
-    },
     {
       "timestamp": "2026-05-10 13:06",
       "articles": 56,
@@ -18134,6 +18148,17 @@
         "old tool shows",
         "directory traversal flaw",
         "app store fraud"
+      ]
+    },
+    {
+      "timestamp": "2026-05-22 14:28",
+      "articles": 56,
+      "top_keywords": [
+        "potentially fraudulent transactions",
+        "user mode without",
+        "directory traversal flaw",
+        "app store fraud",
+        "twitter whistleblower complaint"
       ]
     }
   ]

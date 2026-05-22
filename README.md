@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-22 10:45 UTC |
+| 🕐 Last Updated | 2026-05-22 14:28 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`potentially fraudulent transactions` • `site admin privileges` • `old tool shows` • `directory traversal flaw` • `app store fraud` • `gain system privileges` • `several major us` • `1 billion valuation` • `cve 2026 41091` • `twitter whistleblower complaint`
+`potentially fraudulent transactions` • `user mode without` • `directory traversal flaw` • `app store fraud` • `twitter whistleblower complaint` • `oss component openssl` • `old tool shows` • `improper link resolution` • `computer hacking charges` • `accidentally leaked details`
 
 ## 📄 Reports
 

@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-23 09:46",
+  "last_updated": "2026-05-23 11:06",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
-    "trend micro warns",
     "directory traversal flaw",
     "user mode without",
+    "web hosting company",
     "computer hacking charges",
     "twitter whistleblower complaint",
     "site admin privileges",
@@ -15,58 +15,67 @@
     "cybercrime group defaced",
     "remote code execution",
     "application data sent",
-    "finding security vulnerabilities",
     "wire fraud conspiracy",
     "victimized individuals worldwide",
-    "vendors betting big",
-    "vendor breaches persist",
     "united states today",
-    "traditional iam projects",
-    "target government organizations"
+    "trend micro warns",
+    "target government organizations",
+    "six hour window",
+    "service's login page",
+    "related software including"
   ],
   "trending": [
     {
-      "keyword": "trend micro warns",
-      "mentions": 8
-    },
-    {
       "keyword": "directory traversal flaw",
-      "mentions": 9
-    },
-    {
-      "keyword": "user mode without",
-      "mentions": 8
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1698
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 14
-    },
-    {
-      "keyword": "oss component openssl",
       "mentions": 10
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 349
+      "keyword": "user mode without",
+      "mentions": 9
     },
     {
-      "keyword": "cpanel user including",
+      "keyword": "web hosting company",
       "mentions": 1
     },
     {
+      "keyword": "computer hacking charges",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1699
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 15
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 11
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 350
+    },
+    {
+      "keyword": "cpanel user including",
+      "mentions": 2
+    },
+    {
       "keyword": "cybercrime group defaced",
-      "mentions": 34
+      "mentions": 35
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
+      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
+      "published": "Sat, 23 May 2026 15:21:13 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
@@ -147,19 +156,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Langflow and Trend Micro Apex One to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities in question are listed below - CVE-2025-34291 (CVSS score: 9.4) - An origin validation error vulnerability in Langflow that could",
-      "published": "Fri, 22 May 2026 11:17:33 +0530",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×5",
-        "Exploit wording"
       ]
     },
     {
@@ -343,83 +339,15 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "summary": "When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.",
-      "published": "Fri, 22 May 2026 15:43:50 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
-      "link": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
-      "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
-      "published": "Fri, 22 May 2026 13:17:25 GMT",
-      "value_score": 40,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments",
-      "link": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
-      "summary": "The advanced persistent threat group also relied on SOCKS proxies like SoftEther VPN, tunneling tools that act as a middleman between victim and attacker.",
-      "published": "Fri, 22 May 2026 07:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Google API Keys Remain Active After Deletion",
-      "link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
-      "summary": "A security researcher discovered the API keys can still be used for up to 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
-      "published": "Thu, 21 May 2026 20:07:47 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "link": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "summary": "AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different than traditional IAM projects.",
-      "published": "Thu, 21 May 2026 15:43:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
-      "summary": "\"Showboat\" doesn't show off, but clearly it doesn't need to, as it's long helped China spy on small market communications providers.",
-      "published": "Thu, 21 May 2026 14:00:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
-      "link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
-      "summary": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
-      "published": "Thu, 21 May 2026 13:05:00 GMT",
+      "source": "Security Week",
+      "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
+      "link": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
+      "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek .",
+      "published": "Sat, 23 May 2026 11:00:00 +0000",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
-      "summary": "There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
-      "published": "Wed, 20 May 2026 20:52:25 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -500,15 +428,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ocean Emerges From Stealth With $28M for Agentic Email Security Platform",
-      "link": "https://www.securityweek.com/ocean-emerges-from-stealth-with-28m-for-agentic-email-security-platform/",
-      "summary": "The company has developed a platform that uses specialized AI agents to inspect every incoming message. The post Ocean Emerges From Stealth With $28M for Agentic Email Security Platform appeared first on SecurityWeek .",
-      "published": "Thu, 21 May 2026 11:45:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

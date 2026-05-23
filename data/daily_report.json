@@ -1,21 +1,21 @@
 {
-  "last_updated": "2026-05-23 16:54",
+  "last_updated": "2026-05-23 19:02",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "related software including",
-    "user mode without",
     "directory traversal flaw",
     "computer hacking charges",
     "twitter whistleblower complaint",
+    "traditional iam projects",
     "site admin privileges",
     "oss component openssl",
     "deploys software internally",
+    "cpanel user including",
     "130 companies tangled",
     "web hosting company",
-    "cpanel user including",
+    "public github account",
     "cybercrime group defaced",
-    "remote code execution",
     "application data sent",
     "finding security vulnerabilities",
     "wire fraud conspiracy",
@@ -27,46 +27,64 @@
   "trending": [
     {
       "keyword": "related software including",
-      "mentions": 28
-    },
-    {
-      "keyword": "user mode without",
-      "mentions": 12
+      "mentions": 29
     },
     {
       "keyword": "directory traversal flaw",
-      "mentions": 13
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1702
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 18
-    },
-    {
-      "keyword": "oss component openssl",
       "mentions": 14
     },
     {
+      "keyword": "computer hacking charges",
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1703
+    },
+    {
+      "keyword": "traditional iam projects",
+      "mentions": 8
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 19
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 15
+    },
+    {
       "keyword": "deploys software internally",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "cpanel user including",
+      "mentions": 6
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 353
-    },
-    {
-      "keyword": "web hosting company",
-      "mentions": 4
+      "mentions": 354
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html",
+      "summary": "GitHub has rolled out new controls for npm to improve the security of the software supply chain, giving maintainers the ability to explicitly approve a release prior to the packages becoming publicly available for installation. Called staged publishing, the feature is now generally available on npm. It mandates that a human maintainer pass a two-factor authentication (2FA) challenge to approve",
+      "published": "Sat, 23 May 2026 22:05:10 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware",
+      "link": "https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html",
+      "summary": "A new \"coordinated\" supply chain attack campaign has impacted eight packages on Packagist including malicious code designed to run a Linux binary retrieved from a GitHub Releases URL. \"Although the affected packages were all Composer packages, the malicious code was not added to composer.json,\" Socket said. \"Instead, it was inserted into package.json, targeting projects that ship JavaScript",
+      "published": "Sat, 23 May 2026 21:37:51 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
@@ -136,26 +154,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows",
-      "link": "https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new automated campaign called Megalodon that has pushed 5,718 malicious commits to 5,561 GitHub repositories within a six-hour window. \"Using throwaway accounts and forged author identities (build-bot, auto-ci, ci-bot, pipeline-bot), the attacker injected GitHub Actions workflows containing base64-encoded bash payloads that exfiltrate CI",
-      "published": "Fri, 22 May 2026 17:25:24 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective",
-      "link": "https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html",
-      "summary": "1 Introduction This article provides a technical analysis of how many Windows kernel mode drivers can be interacted with from user mode without the hardware they were developed for. This work was motivated by driver-oriented vulnerability research and the need to evaluate the exploitability of individual findings, which frequently affect code whose reachability is hardware-gated. The",
-      "published": "Fri, 22 May 2026 17:08:12 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

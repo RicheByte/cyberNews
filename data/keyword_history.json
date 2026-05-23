@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1703,
+      "count": 1704,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2352,7 +2352,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 354,
+      "count": 355,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3090,7 +3090,7 @@
       ]
     },
     "trend micro warns": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-09",
         "2026-05-22",
@@ -8043,7 +8043,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13887,7 +13887,7 @@
       ]
     },
     "related software including": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -15742,7 +15742,7 @@
       ]
     },
     "service's login page": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15786,7 +15786,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15834,7 +15834,7 @@
       ]
     },
     "united states today": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16133,7 +16133,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16966,7 +16966,7 @@
       ]
     },
     "site admin privileges": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17001,7 +17001,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17042,7 +17042,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17062,7 +17062,7 @@
       ]
     },
     "computer hacking charges": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17082,14 +17082,14 @@
       ]
     },
     "application data sent": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "victimized individuals worldwide": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17117,20 +17117,20 @@
       ]
     },
     "target government organizations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "cpanel user including": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-23"
       ]
     },
     "web hosting company": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-23"
       ]
@@ -17142,30 +17142,19 @@
       ]
     },
     "deploys software internally": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-23"
       ]
     },
     "public github account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-11 21:12",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "webhost manager whm",
-        "address three vulnerabilities",
-        "jdownloader site hacked",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-11 22:49",
       "articles": 56,
@@ -18253,6 +18242,17 @@
         "computer hacking charges",
         "twitter whistleblower complaint",
         "traditional iam projects"
+      ]
+    },
+    {
+      "timestamp": "2026-05-23 20:42",
+      "articles": 48,
+      "top_keywords": [
+        "related software including",
+        "web hosting company",
+        "directory traversal flaw",
+        "computer hacking charges",
+        "twitter whistleblower complaint"
       ]
     }
   ]

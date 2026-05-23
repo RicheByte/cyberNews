@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1701,
+      "count": 1702,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -703,7 +703,7 @@
       ]
     },
     "remote code execution": {
-      "count": 407,
+      "count": 408,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2352,7 +2352,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 352,
+      "count": 353,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8043,7 +8043,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13887,7 +13887,7 @@
       ]
     },
     "related software including": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -15786,7 +15786,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15834,7 +15834,7 @@
       ]
     },
     "united states today": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16133,7 +16133,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16966,7 +16966,7 @@
       ]
     },
     "site admin privileges": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17001,7 +17001,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17042,7 +17042,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17055,14 +17055,14 @@
       ]
     },
     "user mode without": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "computer hacking charges": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17082,28 +17082,28 @@
       ]
     },
     "application data sent": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "victimized individuals worldwide": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "vendors betting big": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "vendor breaches persist": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17124,13 +17124,13 @@
       ]
     },
     "cpanel user including": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-23"
       ]
     },
     "web hosting company": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-23"
       ]
@@ -17142,24 +17142,13 @@
       ]
     },
     "deploys software internally": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-11 17:51",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "address three vulnerabilities",
-        "jdownloader site hacked",
-        "sprawling phishing campaign",
-        "cybercrime threat actors"
-      ]
-    },
     {
       "timestamp": "2026-05-11 19:41",
       "articles": 56,
@@ -18240,6 +18229,17 @@
     },
     {
       "timestamp": "2026-05-23 14:56",
+      "articles": 56,
+      "top_keywords": [
+        "related software including",
+        "user mode without",
+        "directory traversal flaw",
+        "computer hacking charges",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-23 16:54",
       "articles": 56,
       "top_keywords": [
         "related software including",

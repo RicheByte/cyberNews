@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 14:56",
+  "last_updated": "2026-05-23 16:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "related software including",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "user mode without",
-      "mentions": 11
-    },
-    {
-      "keyword": "directory traversal flaw",
       "mentions": 12
     },
     {
-      "keyword": "computer hacking charges",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1701
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 17
-    },
-    {
-      "keyword": "oss component openssl",
+      "keyword": "directory traversal flaw",
       "mentions": 13
     },
     {
+      "keyword": "computer hacking charges",
+      "mentions": 12
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1702
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 18
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 14
+    },
+    {
       "keyword": "deploys software internally",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 352
+      "mentions": 353
     },
     {
       "keyword": "web hosting company",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -71,11 +71,11 @@
       "source": "The Hacker News",
       "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
       "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is an effort led by the artificial intelligence (AI) company, as part of which a small set of about 50 partners",
+      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
       "published": "Sat, 23 May 2026 17:25:35 +0530",
-      "value_score": 18,
+      "value_score": 26,
       "value_signals": [
-        "High severity"
+        "High severity ×2"
       ]
     },
     {

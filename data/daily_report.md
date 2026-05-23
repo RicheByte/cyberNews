@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-23 13:14 UTC  
+> **Last Updated:** 2026-05-23 14:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**related software including** • **directory traversal flaw** • **user mode without** • **computer hacking charges** • **twitter whistleblower complaint** • **site admin privileges** • **oss component openssl** • **deploys software internally** • **130 companies tangled** • **web hosting company** • **cpanel user including** • **cybercrime group defaced** • **remote code execution** • **application data sent** • **finding security vulnerabilities** • **wire fraud conspiracy** • **victimized individuals worldwide** • **vendors betting big** • **vendor breaches persist** • **united states today**
+**related software including** • **user mode without** • **directory traversal flaw** • **computer hacking charges** • **twitter whistleblower complaint** • **site admin privileges** • **oss component openssl** • **deploys software internally** • **130 companies tangled** • **web hosting company** • **cpanel user including** • **cybercrime group defaced** • **remote code execution** • **application data sent** • **finding security vulnerabilities** • **wire fraud conspiracy** • **victimized individuals worldwide** • **vendors betting big** • **vendor breaches persist** • **united states today**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
 - [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
 - [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
 - [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
 - [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
 - [US and Canada arrest and charge suspected Kimwolf botnet admin](https://www.bleepingcomputer.com/news/security/us-and-canada-arrest-and-charge-suspected-kimwolf-botnet-admin/)
-- [Google accidentally exposed details of unfixed Chromium flaw](https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/)
 
 ### Krebs on Security
 

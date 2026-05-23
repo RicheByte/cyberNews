@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-23 13:14",
+  "last_updated": "2026-05-23 14:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "related software including",
-    "directory traversal flaw",
     "user mode without",
+    "directory traversal flaw",
     "computer hacking charges",
     "twitter whistleblower complaint",
     "site admin privileges",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "related software including",
-      "mentions": 26
-    },
-    {
-      "keyword": "directory traversal flaw",
-      "mentions": 11
+      "mentions": 27
     },
     {
       "keyword": "user mode without",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "computer hacking charges",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1700
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 16
-    },
-    {
-      "keyword": "oss component openssl",
+      "keyword": "directory traversal flaw",
       "mentions": 12
     },
     {
+      "keyword": "computer hacking charges",
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1701
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 17
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 13
+    },
+    {
       "keyword": "deploys software internally",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 351
+      "mentions": 352
     },
     {
       "keyword": "web hosting company",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -160,6 +160,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes",
+      "link": "https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/",
+      "summary": "Italian authorities have dismantled a piracy ecosystem centered around the CINEMAGOAL app that provided access to various streaming platforms, including Netflix, Disney+, and Spotify. [...]",
+      "published": "Sat, 23 May 2026 10:23:44 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Netherlands seizes 800 servers of hosting firm enabling cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/",
       "summary": "Financial crime investigators in the Netherlands (FIOD) arrested two men and seized 800 servers linked to a web hosting company that enabled cyberattacks, interference operations, and disinformation campaigns. [...]",
@@ -231,17 +240,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google accidentally exposed details of unfixed Chromium flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
-      "summary": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
-      "published": "Thu, 21 May 2026 14:13:50 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {

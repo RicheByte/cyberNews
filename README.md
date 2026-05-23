@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-23 06:30 UTC |
+| 🕐 Last Updated | 2026-05-23 09:46 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`directory traversal flaw` • `user mode without` • `trend micro warns` • `computer hacking charges` • `twitter whistleblower complaint` • `site admin privileges` • `oss component openssl` • `130 companies tangled` • `remote code execution` • `cybercrime group defaced`
+`trend micro warns` • `directory traversal flaw` • `user mode without` • `computer hacking charges` • `twitter whistleblower complaint` • `site admin privileges` • `oss component openssl` • `130 companies tangled` • `cpanel user including` • `cybercrime group defaced`
 
 ## 📄 Reports
 

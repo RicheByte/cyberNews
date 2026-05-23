@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-23 06:30 UTC  
+> **Last Updated:** 2026-05-23 09:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**directory traversal flaw** • **user mode without** • **trend micro warns** • **computer hacking charges** • **twitter whistleblower complaint** • **site admin privileges** • **oss component openssl** • **130 companies tangled** • **remote code execution** • **cybercrime group defaced** • **linux systems capable** • **application data sent** • **unauthenticated remote attacker** • **finding security vulnerabilities** • **wire fraud conspiracy** • **victimized individuals worldwide** • **vendors betting big** • **vendor breaches persist** • **united states today** • **traditional iam projects**
+**trend micro warns** • **directory traversal flaw** • **user mode without** • **computer hacking charges** • **twitter whistleblower complaint** • **site admin privileges** • **oss component openssl** • **130 companies tangled** • **cpanel user including** • **cybercrime group defaced** • **remote code execution** • **application data sent** • **finding security vulnerabilities** • **wire fraud conspiracy** • **victimized individuals worldwide** • **vendors betting big** • **vendor breaches persist** • **united states today** • **traditional iam projects** • **target government organizations**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
+- [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
 - [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 - [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 - [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html)
 - [Making Vulnerable Drivers Exploitable Without Hardware - The BYOVD Perspective](https://thehackernews.com/2026/05/making-vulnerable-drivers-exploitable.html)
 - [Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks](https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html)
 - [CISA Adds Exploited Langflow and Trend Micro Apex One Vulnerabilities to KEV](https://thehackernews.com/2026/05/cisa-adds-exploited-langflow-and-trend.html)
-- [Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access](https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html)
-- [Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor](https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html)
 
 ### BleepingComputer
 

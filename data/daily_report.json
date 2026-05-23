@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-05-23 06:30",
+  "last_updated": "2026-05-23 09:46",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "trend micro warns",
     "directory traversal flaw",
     "user mode without",
-    "trend micro warns",
     "computer hacking charges",
     "twitter whistleblower complaint",
     "site admin privileges",
     "oss component openssl",
     "130 companies tangled",
-    "remote code execution",
+    "cpanel user including",
     "cybercrime group defaced",
-    "linux systems capable",
+    "remote code execution",
     "application data sent",
-    "unauthenticated remote attacker",
     "finding security vulnerabilities",
     "wire fraud conspiracy",
     "victimized individuals worldwide",
     "vendors betting big",
     "vendor breaches persist",
     "united states today",
-    "traditional iam projects"
+    "traditional iam projects",
+    "target government organizations"
   ],
   "trending": [
     {
-      "keyword": "directory traversal flaw",
+      "keyword": "trend micro warns",
       "mentions": 8
     },
     {
-      "keyword": "user mode without",
-      "mentions": 7
-    },
-    {
-      "keyword": "trend micro warns",
-      "mentions": 7
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1697
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 13
-    },
-    {
-      "keyword": "oss component openssl",
+      "keyword": "directory traversal flaw",
       "mentions": 9
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 348
+      "keyword": "user mode without",
+      "mentions": 8
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 403
+      "keyword": "computer hacking charges",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1698
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 14
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 10
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 349
+    },
+    {
+      "keyword": "cpanel user including",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime group defaced",
-      "mentions": 33
+      "mentions": 34
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
+      "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
+      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
+      "published": "Sat, 23 May 2026 13:05:13 +0530",
+      "value_score": 85,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
+      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
+      "published": "Sat, 23 May 2026 12:53:48 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
@@ -82,7 +111,7 @@
       "source": "The Hacker News",
       "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
       "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151Ukraine's National Security and Defense Council) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government",
+      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
       "published": "Fri, 22 May 2026 21:50:32 +0530",
       "value_score": 26,
       "value_signals": [
@@ -130,30 +159,6 @@
       "value_signals": [
         "CVE mentioned",
         "CISA/KEV ×5",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Patches CVSS 10.0 Secure Workload REST API Flaw Enabling Data Access",
-      "link": "https://thehackernews.com/2026/05/cisco-patches-cvss-100-secure-workload.html",
-      "summary": "Cisco has rolled out updates for a maximum-severity security flaw impacting Secure Workload that could allow an unauthenticated, remote attacker to access sensitive data. Tracked as CVE-2026-20223 (CVSS score: 10.0), the vulnerability arises from insufficient validation and authentication when accessing REST API endpoints. \"An attacker could exploit this vulnerability if they are able to send",
-      "published": "Fri, 22 May 2026 11:06:18 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Showboat Linux Malware Hits Middle East Telecom with SOCKS5 Proxy Backdoor",
-      "link": "https://thehackernews.com/2026/05/showboat-linux-malware-hits-middle-east.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new Linux malware dubbed Showboat that has been put to use in a campaign targeting a telecommunications provider in the Middle East since at least mid-2022. \"Showboat is a modular post-exploitation framework designed for Linux systems, capable of spawning a remote shell, transferring files, and functioning as a SOCKS5 proxy,\" Lumen",
-      "published": "Thu, 21 May 2026 19:47:09 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Backdoor",
         "Exploit wording"
       ]
     },

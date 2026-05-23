@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-23 20:42 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-05-23 22:47 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`related software including` • `web hosting company` • `directory traversal flaw` • `computer hacking charges` • `twitter whistleblower complaint` • `site admin privileges` • `oss component openssl` • `deploys software internally` • `cpanel user including` • `130 companies tangled`
+`related software including` • `directory traversal flaw` • `computer hacking charges` • `twitter whistleblower complaint` • `traditional iam projects` • `site admin privileges` • `oss component openssl` • `deploys software internally` • `cpanel user including` • `130 companies tangled`
 
 ## 📄 Reports
 

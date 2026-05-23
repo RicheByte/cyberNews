@@ -195,7 +195,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 609,
+      "count": 610,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -284,11 +284,12 @@
         "2026-04-29",
         "2026-05-17",
         "2026-05-18",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-05-23"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1704,
+      "count": 1705,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -703,7 +704,7 @@
       ]
     },
     "remote code execution": {
-      "count": 408,
+      "count": 409,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2352,7 +2353,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 355,
+      "count": 356,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8043,7 +8044,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13887,7 +13888,7 @@
       ]
     },
     "related software including": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -15786,7 +15787,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16133,7 +16134,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16966,7 +16967,7 @@
       ]
     },
     "site admin privileges": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17001,7 +17002,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17042,7 +17043,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17062,7 +17063,7 @@
       ]
     },
     "computer hacking charges": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17082,7 +17083,7 @@
       ]
     },
     "application data sent": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17110,7 +17111,7 @@
       ]
     },
     "traditional iam projects": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17124,13 +17125,13 @@
       ]
     },
     "cpanel user including": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-23"
       ]
     },
     "web hosting company": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-23"
       ]
@@ -17142,30 +17143,31 @@
       ]
     },
     "deploys software internally": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-23"
       ]
     },
     "public github account": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-05-23"
+      ]
+    },
+    "canadian man arrested": {
+      "count": 1,
+      "dates": [
+        "2026-05-23"
+      ]
+    },
+    "impacted eight packages": {
+      "count": 1,
       "dates": [
         "2026-05-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-11 22:49",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "webhost manager whm",
-        "address three vulnerabilities",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-05-12 02:33",
       "articles": 56,
@@ -18253,6 +18255,17 @@
         "directory traversal flaw",
         "computer hacking charges",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-23 22:47",
+      "articles": 56,
+      "top_keywords": [
+        "related software including",
+        "directory traversal flaw",
+        "computer hacking charges",
+        "twitter whistleblower complaint",
+        "traditional iam projects"
       ]
     }
   ]

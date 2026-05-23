@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1696,
+      "count": 1697,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -703,7 +703,7 @@
       ]
     },
     "remote code execution": {
-      "count": 402,
+      "count": 403,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2352,7 +2352,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 347,
+      "count": 348,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2558,7 +2558,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -3090,7 +3090,7 @@
       ]
     },
     "trend micro warns": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-09",
         "2026-05-22",
@@ -8043,7 +8043,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15784,7 +15784,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15832,7 +15832,7 @@
       ]
     },
     "united states today": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16131,7 +16131,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16964,7 +16964,7 @@
       ]
     },
     "site admin privileges": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -16999,7 +16999,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17040,7 +17040,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17053,21 +17053,21 @@
       ]
     },
     "user mode without": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "computer hacking charges": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "linux systems capable": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17080,35 +17080,35 @@
       ]
     },
     "application data sent": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "victimized individuals worldwide": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "vendors betting big": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "vendor breaches persist": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "traditional iam projects": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17122,17 +17122,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-10 22:40",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "jdownloader site hacked"
-      ]
-    },
     {
       "timestamp": "2026-05-11 02:41",
       "articles": 56,
@@ -18213,6 +18202,17 @@
     },
     {
       "timestamp": "2026-05-23 02:34",
+      "articles": 56,
+      "top_keywords": [
+        "directory traversal flaw",
+        "user mode without",
+        "trend micro warns",
+        "computer hacking charges",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-23 06:30",
       "articles": 56,
       "top_keywords": [
         "directory traversal flaw",

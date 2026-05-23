@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-23 02:34",
+  "last_updated": "2026-05-23 06:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "directory traversal flaw",
-      "mentions": 7
-    },
-    {
-      "keyword": "user mode without",
-      "mentions": 6
-    },
-    {
-      "keyword": "trend micro warns",
-      "mentions": 6
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1696
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 12
-    },
-    {
-      "keyword": "oss component openssl",
       "mentions": 8
     },
     {
+      "keyword": "user mode without",
+      "mentions": 7
+    },
+    {
+      "keyword": "trend micro warns",
+      "mentions": 7
+    },
+    {
+      "keyword": "computer hacking charges",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1697
+    },
+    {
+      "keyword": "site admin privileges",
+      "mentions": 13
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 9
+    },
+    {
       "keyword": "130 companies tangled",
-      "mentions": 347
+      "mentions": 348
     },
     {
       "keyword": "remote code execution",
-      "mentions": 402
+      "mentions": 403
     },
     {
       "keyword": "cybercrime group defaced",
-      "mentions": 32
+      "mentions": 33
     }
   ],
   "articles": [
@@ -71,7 +71,7 @@
       "source": "The Hacker News",
       "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
       "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. The disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the investigation since December",
+      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
       "published": "Fri, 22 May 2026 23:05:02 +0530",
       "value_score": 46,
       "value_signals": [
@@ -113,7 +113,7 @@
       "source": "The Hacker News",
       "title": "Kimwolf DDoS Botnet Operator Arrested in Canada Over DDoS-for-Hire Attacks",
       "link": "https://thehackernews.com/2026/05/kimwolf-ddos-botnet-operator-arrested.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU. \"Kimwolf",
+      "summary": "The U.S. Department of Justice (DoJ) on Thursday announced the arrest of a Canadian man in connection with allegedly operating a distributed denial-of-service (DDoS) botnet known as Kimwolf. In tandem, Jacob Butler (aka Dort), 23, Ottawa, Canada, has been charged with offenses related to the development and operation of the botnet. Kimwolf is assessed to be a variant of AISURU that specifically",
       "published": "Fri, 22 May 2026 14:20:18 +0530",
       "value_score": 30,
       "value_signals": [

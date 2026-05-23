@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-04-23",
     "2026-04-24",
     "2026-04-25",
     "2026-04-26",
@@ -29,7 +28,8 @@
     "2026-05-19",
     "2026-05-20",
     "2026-05-21",
-    "2026-05-22"
+    "2026-05-22",
+    "2026-05-23"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1695,
+      "count": 1696,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -446,7 +446,8 @@
         "2026-05-19",
         "2026-05-20",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "supposed wayward package": {
@@ -702,7 +703,7 @@
       ]
     },
     "remote code execution": {
-      "count": 401,
+      "count": 402,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -766,7 +767,8 @@
         "2026-05-18",
         "2026-05-19",
         "2026-05-20",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "attacker remotely control": {
@@ -2350,7 +2352,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 346,
+      "count": 347,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2397,7 +2399,8 @@
         "2026-05-19",
         "2026-05-20",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "corporate data stolen": {
@@ -2555,13 +2558,14 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-07",
         "2026-01-08",
         "2026-04-03",
         "2026-04-22",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "remote authenticated attacker": {
@@ -3086,10 +3090,11 @@
       ]
     },
     "trend micro warns": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-09",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "misconfigured proxy servers": {
@@ -8038,7 +8043,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8064,7 +8069,8 @@
         "2026-05-18",
         "2026-05-19",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "unfortunately named toolkit": {
@@ -15778,7 +15784,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15788,7 +15794,8 @@
         "2026-05-18",
         "2026-05-20",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "qlnx targets developers": {
@@ -15825,7 +15832,7 @@
       ]
     },
     "united states today": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -15836,7 +15843,8 @@
         "2026-05-18",
         "2026-05-19",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "provided fake data": {
@@ -16123,7 +16131,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16134,7 +16142,8 @@
         "2026-05-19",
         "2026-05-20",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "released security patches": {
@@ -16955,10 +16964,11 @@
       ]
     },
     "site admin privileges": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "cve 2026 41091": {
@@ -16989,10 +16999,11 @@
       ]
     },
     "oss component openssl": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "complete fraudulent subscriptions": {
@@ -17029,9 +17040,10 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "several major us": {
@@ -17041,21 +17053,24 @@
       ]
     },
     "user mode without": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "computer hacking charges": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "linux systems capable": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "internal cisa systems": {
@@ -17065,33 +17080,38 @@
       ]
     },
     "application data sent": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "victimized individuals worldwide": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "vendors betting big": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "vendor breaches persist": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "traditional iam projects": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-23"
       ]
     },
     "target government organizations": {
@@ -17102,17 +17122,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-10 20:41",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "public water supply",
-        "address three vulnerabilities",
-        "patient zero webinar",
-        "jdownloader site hacked"
-      ]
-    },
     {
       "timestamp": "2026-05-10 22:40",
       "articles": 56,
@@ -18193,6 +18202,17 @@
     },
     {
       "timestamp": "2026-05-22 22:52",
+      "articles": 56,
+      "top_keywords": [
+        "directory traversal flaw",
+        "user mode without",
+        "trend micro warns",
+        "computer hacking charges",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-23 02:34",
       "articles": 56,
       "top_keywords": [
         "directory traversal flaw",

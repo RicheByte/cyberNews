@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-23 11:06 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-05-23 13:14 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`directory traversal flaw` • `user mode without` • `web hosting company` • `computer hacking charges` • `twitter whistleblower complaint` • `site admin privileges` • `oss component openssl` • `130 companies tangled` • `cpanel user including` • `cybercrime group defaced`
+`related software including` • `directory traversal flaw` • `user mode without` • `computer hacking charges` • `twitter whistleblower complaint` • `site admin privileges` • `oss component openssl` • `deploys software internally` • `130 companies tangled` • `web hosting company`
 
 ## 📄 Reports
 

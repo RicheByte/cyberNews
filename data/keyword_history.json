@@ -288,7 +288,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1699,
+      "count": 1700,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -703,7 +703,7 @@
       ]
     },
     "remote code execution": {
-      "count": 405,
+      "count": 406,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2352,7 +2352,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 350,
+      "count": 351,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -8043,7 +8043,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13887,7 +13887,7 @@
       ]
     },
     "related software including": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -15786,7 +15786,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15834,7 +15834,7 @@
       ]
     },
     "united states today": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16133,7 +16133,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16966,7 +16966,7 @@
       ]
     },
     "site admin privileges": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17001,7 +17001,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17042,7 +17042,7 @@
       ]
     },
     "directory traversal flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17055,14 +17055,14 @@
       ]
     },
     "user mode without": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "computer hacking charges": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17082,28 +17082,28 @@
       ]
     },
     "application data sent": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "victimized individuals worldwide": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "vendors betting big": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-22",
         "2026-05-23"
       ]
     },
     "vendor breaches persist": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-22",
         "2026-05-23"
@@ -17124,13 +17124,13 @@
       ]
     },
     "cpanel user including": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-23"
       ]
     },
     "web hosting company": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-23"
       ]
@@ -17140,20 +17140,15 @@
       "dates": [
         "2026-05-23"
       ]
+    },
+    "deploys software internally": {
+      "count": 1,
+      "dates": [
+        "2026-05-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-11 10:56",
-      "articles": 56,
-      "top_keywords": [
-        "pvi client application",
-        "patient zero webinar",
-        "criminal marketplace crimenetwork",
-        "address three vulnerabilities",
-        "public water supply"
-      ]
-    },
     {
       "timestamp": "2026-05-11 14:37",
       "articles": 56,
@@ -18239,6 +18234,17 @@
         "directory traversal flaw",
         "user mode without",
         "web hosting company",
+        "computer hacking charges",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-23 13:14",
+      "articles": 56,
+      "top_keywords": [
+        "related software including",
+        "directory traversal flaw",
+        "user mode without",
         "computer hacking charges",
         "twitter whistleblower complaint"
       ]

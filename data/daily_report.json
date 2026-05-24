@@ -1,19 +1,18 @@
 {
-  "last_updated": "2026-05-24 19:09",
+  "last_updated": "2026-05-24 20:49",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "related software including",
+    "web hosting company",
     "directory traversal flaw",
     "computer hacking charges",
     "twitter whistleblower complaint",
-    "traditional iam projects",
     "oss component openssl",
     "large scale campaign",
     "deploys software internally",
     "cpanel user including",
     "130 companies tangled",
-    "web hosting company",
     "windows operating systems",
     "sprawling phishing campaign",
     "canadian man arrested",
@@ -21,49 +20,50 @@
     "cybercrime group defaced",
     "application data sent",
     "impacted eight packages",
-    "finding security vulnerabilities",
-    "wire fraud conspiracy"
+    "wire fraud conspiracy",
+    "victimized individuals worldwide",
+    "united states today"
   ],
   "trending": [
     {
       "keyword": "related software including",
-      "mentions": 39
+      "mentions": 40
     },
     {
-      "keyword": "directory traversal flaw",
-      "mentions": 24
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 23
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1713
-    },
-    {
-      "keyword": "traditional iam projects",
-      "mentions": 17
-    },
-    {
-      "keyword": "oss component openssl",
-      "mentions": 25
-    },
-    {
-      "keyword": "large scale campaign",
-      "mentions": 12
-    },
-    {
-      "keyword": "deploys software internally",
-      "mentions": 14
-    },
-    {
-      "keyword": "cpanel user including",
+      "keyword": "web hosting company",
       "mentions": 16
     },
     {
+      "keyword": "directory traversal flaw",
+      "mentions": 25
+    },
+    {
+      "keyword": "computer hacking charges",
+      "mentions": 24
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1714
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 26
+    },
+    {
+      "keyword": "large scale campaign",
+      "mentions": 13
+    },
+    {
+      "keyword": "deploys software internally",
+      "mentions": 15
+    },
+    {
+      "keyword": "cpanel user including",
+      "mentions": 17
+    },
+    {
       "keyword": "130 companies tangled",
-      "mentions": 364
+      "mentions": 365
     }
   ],
   "articles": [
@@ -332,85 +332,6 @@
         "Patch/update ×4",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "summary": "When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.",
-      "published": "Fri, 22 May 2026 15:43:50 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
-      "link": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
-      "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
-      "published": "Fri, 22 May 2026 13:17:25 GMT",
-      "value_score": 40,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments",
-      "link": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
-      "summary": "The advanced persistent threat group also relied on SOCKS proxies like SoftEther VPN, tunneling tools that act as a middleman between victim and attacker.",
-      "published": "Fri, 22 May 2026 07:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Google API Keys Remain Active After Deletion",
-      "link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
-      "summary": "A security researcher discovered the API keys can still be used for up to 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
-      "published": "Thu, 21 May 2026 20:07:47 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "link": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "summary": "AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different than traditional IAM projects.",
-      "published": "Thu, 21 May 2026 15:43:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
-      "summary": "\"Showboat\" doesn't show off, but clearly it doesn't need to, as it's long helped China spy on small market communications providers.",
-      "published": "Thu, 21 May 2026 14:00:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
-      "link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
-      "summary": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
-      "published": "Thu, 21 May 2026 13:05:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyber Pros Can't Decide If AI Is a Good or a Bad Thing",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai",
-      "summary": "There is nothing cybersecurity professionals are more excited about, and nothing they fear more, than AI.",
-      "published": "Wed, 20 May 2026 20:52:25 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

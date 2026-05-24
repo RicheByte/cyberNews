@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-24 13:14",
+  "last_updated": "2026-05-24 14:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "computer hacking charges",
     "twitter whistleblower complaint",
     "traditional iam projects",
-    "site admin privileges",
     "oss component openssl",
+    "large scale campaign",
     "deploys software internally",
     "cpanel user including",
     "130 companies tangled",
     "web hosting company",
     "windows operating systems",
+    "sprawling phishing campaign",
     "canadian man arrested",
     "public github account",
     "cybercrime group defaced",
     "application data sent",
     "impacted eight packages",
-    "remote code execution",
     "finding security vulnerabilities",
     "wire fraud conspiracy"
   ],
   "trending": [
     {
       "keyword": "related software including",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "directory traversal flaw",
-      "mentions": 21
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 20
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1710
-    },
-    {
-      "keyword": "traditional iam projects",
-      "mentions": 14
-    },
-    {
-      "keyword": "site admin privileges",
-      "mentions": 26
-    },
-    {
-      "keyword": "oss component openssl",
       "mentions": 22
     },
     {
+      "keyword": "computer hacking charges",
+      "mentions": 21
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1711
+    },
+    {
+      "keyword": "traditional iam projects",
+      "mentions": 15
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 23
+    },
+    {
+      "keyword": "large scale campaign",
+      "mentions": 10
+    },
+    {
       "keyword": "deploys software internally",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "cpanel user including",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 361
+      "mentions": 362
     }
   ],
   "articles": [
@@ -158,6 +158,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/",
+      "summary": "A large-scale campaign is exploiting a critical SQL injection vulnerability (CVE-2026-26980) in Ghost CMS to inject malicious JavaScript code that triggers ClickFix attack flows. [...]",
+      "published": "Sun, 24 May 2026 10:12:32 -0400",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Laravel Lang packages hijacked to deploy credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/",
       "summary": "A supply chain attack targeting the Laravel Lang localization packages has exposed developers to a sophisticated credential-stealing malware campaign after attackers abused GitHub version tags to distribute malicious code through Composer packages. [...]",
@@ -225,18 +238,6 @@
       "published": "Fri, 22 May 2026 09:09:18 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
-      "summary": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in UniFi OS that can be exploited by remote attackers without privileges. [...]",
-      "published": "Fri, 22 May 2026 08:00:42 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

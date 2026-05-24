@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-24 13:14 UTC  
+> **Last Updated:** 2026-05-24 14:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**related software including** • **directory traversal flaw** • **computer hacking charges** • **twitter whistleblower complaint** • **traditional iam projects** • **site admin privileges** • **oss component openssl** • **deploys software internally** • **cpanel user including** • **130 companies tangled** • **web hosting company** • **windows operating systems** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **application data sent** • **impacted eight packages** • **remote code execution** • **finding security vulnerabilities** • **wire fraud conspiracy**
+**related software including** • **directory traversal flaw** • **computer hacking charges** • **twitter whistleblower complaint** • **traditional iam projects** • **oss component openssl** • **large scale campaign** • **deploys software internally** • **cpanel user including** • **130 companies tangled** • **web hosting company** • **windows operating systems** • **sprawling phishing campaign** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **application data sent** • **impacted eight packages** • **finding security vulnerabilities** • **wire fraud conspiracy**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
 - [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
 - [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
 - [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
@@ -34,7 +35,6 @@
 - [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
 - [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
 - [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
-- [Ubiquiti patches three max severity UniFi OS vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/)
 
 ### Krebs on Security
 

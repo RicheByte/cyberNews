@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-24 20:49 UTC  
+> **Last Updated:** 2026-05-24 22:53 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**related software including** • **web hosting company** • **directory traversal flaw** • **computer hacking charges** • **twitter whistleblower complaint** • **oss component openssl** • **large scale campaign** • **deploys software internally** • **cpanel user including** • **130 companies tangled** • **windows operating systems** • **sprawling phishing campaign** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **application data sent** • **impacted eight packages** • **wire fraud conspiracy** • **victimized individuals worldwide** • **united states today**
+**related software including** • **directory traversal flaw** • **computer hacking charges** • **twitter whistleblower complaint** • **traditional iam projects** • **oss component openssl** • **large scale campaign** • **deploys software internally** • **cpanel user including** • **130 companies tangled** • **web hosting company** • **windows operating systems** • **sprawling phishing campaign** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **application data sent** • **impacted eight packages** • **finding security vulnerabilities** • **wire fraud conspiracy**
 
 ---
 
@@ -46,6 +46,17 @@
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
 - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
+
+### Dark Reading
+
+- [Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers](https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers)
+- [Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks](https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks)
+- [China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments](https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs)
+- [Google API Keys Remain Active After Deletion](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
+- [AI Agents Are Shifting Identity Security Budget Dynamics](https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents)
+- [Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks)
+- [Content Delivery Exploit Opens Websites to Brand Hijacking](https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking)
+- [Cyber Pros Can't Decide If AI Is a Good or a Bad Thing](https://www.darkreading.com/cybersecurity-analytics/cyber-pros-ai)
 
 ### Security Week
 

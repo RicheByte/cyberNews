@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-25 16:18 UTC |
+| 🕐 Last Updated | 2026-05-25 19:22 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hijack 700 sites` • `malicious cyber actors` • `fuel clickfix attacks` • `cyberattacks influence operations` • `266 000 affected` • `high severity vulnerabilities` • `distribute malicious code` • `large scale campaign` • `leverage trusted websites` • `deploys software internally`
+`hijack 700 sites` • `malicious cyber actors` • `fuel clickfix attacks` • `distribute malicious code` • `cyberattacks influence operations` • `266 000 affected` • `high severity vulnerabilities` • `large scale campaign` • `leverage trusted websites` • `vendor breaches persist`
 
 ## 📄 Reports
 

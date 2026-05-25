@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-25 16:18 UTC  
+> **Last Updated:** 2026-05-25 19:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hijack 700 sites** • **malicious cyber actors** • **fuel clickfix attacks** • **cyberattacks influence operations** • **266 000 affected** • **high severity vulnerabilities** • **distribute malicious code** • **large scale campaign** • **leverage trusted websites** • **deploys software internally** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **oss component openssl** • **old complaint lingers** • **impacted eight packages** • **aiding cyberattacks authorities** • **10 000 high** • **cybercrime group defaced** • **sql injection vulnerability**
+**hijack 700 sites** • **malicious cyber actors** • **fuel clickfix attacks** • **distribute malicious code** • **cyberattacks influence operations** • **266 000 affected** • **high severity vulnerabilities** • **large scale campaign** • **leverage trusted websites** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **poses significant risks** • **oss component openssl** • **old complaint lingers** • **impacted eight packages** • **aiding cyberattacks authorities** • **10 000 high** • **cybercrime group defaced** • **deploys software internally**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic’s restricted Claude Mythos model may be coming to Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/)
 - [FBI warns of Kali365 phishing service targeting Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/)
 - [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
 - [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
@@ -34,7 +35,6 @@
 - [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
 - [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
 - [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
-- [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
 
 ### Krebs on Security
 

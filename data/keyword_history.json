@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 500,
+      "count": 501,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -292,7 +292,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1719,
+      "count": 1720,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3547,14 +3547,15 @@
       ]
     },
     "poses significant risks": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-01-14",
         "2026-03-13",
         "2026-03-14",
         "2026-03-15",
         "2026-03-16",
-        "2026-03-17"
+        "2026-03-17",
+        "2026-05-25"
       ]
     },
     "pose significant risks": {
@@ -11765,7 +11766,7 @@
       ]
     },
     "large scale campaign": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -12219,7 +12220,7 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-02",
         "2026-04-03",
@@ -15807,7 +15808,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17028,7 +17029,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17139,7 +17140,7 @@
       ]
     },
     "vendor breaches persist": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-22",
         "2026-05-23",
@@ -17147,7 +17148,7 @@
       ]
     },
     "traditional iam projects": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-05-22",
         "2026-05-23",
@@ -17185,7 +17186,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17209,7 +17210,7 @@
       ]
     },
     "impacted eight packages": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17217,72 +17218,61 @@
       ]
     },
     "distribute malicious code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-25"
       ]
     },
     "fuel clickfix attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-25"
       ]
     },
     "266 000 affected": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-25"
       ]
     },
     "hijack 700 sites": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-25"
       ]
     },
     "10 000 high": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-25"
       ]
     },
     "cyberattacks influence operations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-25"
       ]
     },
     "leverage trusted websites": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-25"
       ]
     },
     "old complaint lingers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-25"
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-13 21:23",
-      "articles": 56,
-      "top_keywords": [
-        "ai minimum elements",
-        "716 000 impacted",
-        "potential code execution",
-        "privilege escalation flaw",
-        "late december 2025"
-      ]
-    },
     {
       "timestamp": "2026-05-13 23:01",
       "articles": 56,
@@ -18370,6 +18360,17 @@
         "fuel clickfix attacks",
         "cyberattacks influence operations",
         "266 000 affected"
+      ]
+    },
+    {
+      "timestamp": "2026-05-25 19:22",
+      "articles": 56,
+      "top_keywords": [
+        "hijack 700 sites",
+        "malicious cyber actors",
+        "fuel clickfix attacks",
+        "distribute malicious code",
+        "cyberattacks influence operations"
       ]
     }
   ]

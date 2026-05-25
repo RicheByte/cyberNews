@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-25 02:55 UTC  
+> **Last Updated:** 2026-05-25 08:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**related software including** • **directory traversal flaw** • **computer hacking charges** • **twitter whistleblower complaint** • **traditional iam projects** • **oss component openssl** • **large scale campaign** • **deploys software internally** • **cpanel user including** • **130 companies tangled** • **web hosting company** • **windows operating systems** • **sprawling phishing campaign** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **application data sent** • **impacted eight packages** • **finding security vulnerabilities** • **wire fraud conspiracy**
+**sprawling phishing campaign** • **large scale campaign** • **directory traversal flaw** • **distribute malicious code** • **twitter whistleblower complaint** • **traditional iam projects** • **related software including** • **oss component openssl** • **deploys software internally** • **cpanel user including** • **computer hacking charges** • **130 companies tangled** • **web hosting company** • **windows operating systems** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **impacted eight packages** • **application data sent** • **malicious cyber actors**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html)
 - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
 - [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
 - [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
@@ -23,7 +24,6 @@
 - [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
 - [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
 - [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
-- [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack](https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/)
 - [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
 - [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
 - [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
@@ -67,7 +68,6 @@
 - [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
 - [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
 - [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
-- [Cisco Patches Critical Vulnerability in Secure Workload](https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/)
 
 ### Threatpost
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-25 02:55",
+  "last_updated": "2026-05-25 08:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "related software including",
+    "sprawling phishing campaign",
+    "large scale campaign",
     "directory traversal flaw",
-    "computer hacking charges",
+    "distribute malicious code",
     "twitter whistleblower complaint",
     "traditional iam projects",
+    "related software including",
     "oss component openssl",
-    "large scale campaign",
     "deploys software internally",
     "cpanel user including",
+    "computer hacking charges",
     "130 companies tangled",
     "web hosting company",
     "windows operating systems",
-    "sprawling phishing campaign",
     "canadian man arrested",
     "public github account",
     "cybercrime group defaced",
-    "application data sent",
     "impacted eight packages",
-    "finding security vulnerabilities",
-    "wire fraud conspiracy"
+    "application data sent",
+    "malicious cyber actors"
   ],
   "trending": [
     {
-      "keyword": "related software including",
-      "mentions": 42
-    },
-    {
-      "keyword": "directory traversal flaw",
-      "mentions": 27
-    },
-    {
-      "keyword": "computer hacking charges",
-      "mentions": 26
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1716
-    },
-    {
-      "keyword": "traditional iam projects",
-      "mentions": 19
-    },
-    {
-      "keyword": "oss component openssl",
-      "mentions": 28
+      "keyword": "sprawling phishing campaign",
+      "mentions": 392
     },
     {
       "keyword": "large scale campaign",
-      "mentions": 15
+      "mentions": 16
+    },
+    {
+      "keyword": "directory traversal flaw",
+      "mentions": 28
+    },
+    {
+      "keyword": "distribute malicious code",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1717
+    },
+    {
+      "keyword": "traditional iam projects",
+      "mentions": 20
+    },
+    {
+      "keyword": "related software including",
+      "mentions": 43
+    },
+    {
+      "keyword": "oss component openssl",
+      "mentions": 29
     },
     {
       "keyword": "deploys software internally",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "cpanel user including",
-      "mentions": 19
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 367
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
+      "link": "https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html",
+      "summary": "A new coordinated cross-ecosystem software supply chain attack campaign has targeted npm, PyPI, and Crates.io to distribute credential-stealing malware. The campaign, codenamed TrapDoor, spans more than 34 malicious packages across over 384 versions. The earliest activity was recorded on May 22, 2026, at 8:20 p.m. UTC, with new packages published to the ecosystems in waves from a cluster of",
+      "published": "Mon, 25 May 2026 11:29:13 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks",
@@ -143,17 +152,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware",
-      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html",
-      "summary": "The Belarus-aligned threat actor known as Ghostwriter (aka UAC-0057 and UNC1151) has been observed using lures related to Prometheus, a Ukrainian online learning platform, to target government organizations in the country. The activity, per the Computer Emergency Response Team of Ukraine (CERT-UA), involves sending phishing emails to government entities using compromised accounts. It's been",
-      "published": "Fri, 22 May 2026 21:50:32 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -414,6 +412,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
+      "link": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
+      "summary": "Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens. The post Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 07:40:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains",
       "link": "https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/",
       "summary": "The stealthy vulnerability impacts roughly 88 million domains and can be exploited to bypass DNS filtering and hide command-and-control traffic. The post ‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains appeared first on SecurityWeek .",
@@ -491,17 +498,6 @@
       "published": "Fri, 22 May 2026 07:49:38 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Critical Vulnerability in Secure Workload",
-      "link": "https://www.securityweek.com/cisco-patches-critical-vulnerability-in-secure-workload/",
-      "summary": "Insufficient validation and authentication in the Secure Workload’s REST APIs provide remote attackers with Site Admin privileges. The post Cisco Patches Critical Vulnerability in Secure Workload appeared first on SecurityWeek .",
-      "published": "Thu, 21 May 2026 12:04:13 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

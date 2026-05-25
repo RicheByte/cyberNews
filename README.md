@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-25 12:57 UTC |
+| 🕐 Last Updated | 2026-05-25 16:18 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious cyber actors` • `fuel clickfix attacks` • `high severity vulnerabilities` • `266 000 affected` • `distribute malicious code` • `large scale campaign` • `windows operating systems` • `vendor breaches persist` • `twitter whistleblower complaint` • `traditional iam projects`
+`hijack 700 sites` • `malicious cyber actors` • `fuel clickfix attacks` • `cyberattacks influence operations` • `266 000 affected` • `high severity vulnerabilities` • `distribute malicious code` • `large scale campaign` • `leverage trusted websites` • `deploys software internally`
 
 ## 📄 Reports
 

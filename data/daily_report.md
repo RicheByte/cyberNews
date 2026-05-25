@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-25 12:57 UTC  
+> **Last Updated:** 2026-05-25 16:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious cyber actors** • **fuel clickfix attacks** • **high severity vulnerabilities** • **266 000 affected** • **distribute malicious code** • **large scale campaign** • **windows operating systems** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **related software including** • **oss component openssl** • **hijack 700 sites** • **deploys software internally** • **130 companies tangled** • **web hosting company** • **impacted eight packages** • **frequent attack vectors** • **frequent attack vector** • **10 000 high**
+**hijack 700 sites** • **malicious cyber actors** • **fuel clickfix attacks** • **cyberattacks influence operations** • **266 000 affected** • **high severity vulnerabilities** • **distribute malicious code** • **large scale campaign** • **leverage trusted websites** • **deploys software internally** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **oss component openssl** • **old complaint lingers** • **impacted eight packages** • **aiding cyberattacks authorities** • **10 000 high** • **cybercrime group defaced** • **sql injection vulnerability**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos](https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html)
 - [Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks](https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html)
 - [The Alert Firehose Finally Meets Its Match](https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html)
 - [Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms](https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html)
@@ -23,7 +24,6 @@
 - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
 - [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
 - [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
-- [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
 
 ### BleepingComputer
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 - [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
@@ -45,7 +46,6 @@
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 - [‘Scattered Spider’ Member ‘Tylerb’ Pleads Guilty](https://krebsonsecurity.com/2026/04/scattered-spider-member-tylerb-pleads-guilty/)
-- [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/)
 
 ### Dark Reading
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Ghost CMS Vulnerability Exploited to Hack Over 700 Websites](https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/)
 - [Oncology Institute Discloses Data Breach](https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/)
 - [266,000 Affected by Data Breach at Radiology Associates of Richmond](https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/)
 - [Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects](https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/)
@@ -67,7 +68,6 @@
 - [DocketWise Data Breach Impacts 143,000](https://www.securityweek.com/docketwise-data-breach-impacts-143000/)
 - [Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack](https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/)
 - [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
-- [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
 
 ### Threatpost
 

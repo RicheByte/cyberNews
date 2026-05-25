@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-05-25 12:57",
+  "last_updated": "2026-05-25 16:18",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "hijack 700 sites",
     "malicious cyber actors",
     "fuel clickfix attacks",
-    "high severity vulnerabilities",
+    "cyberattacks influence operations",
     "266 000 affected",
+    "high severity vulnerabilities",
     "distribute malicious code",
     "large scale campaign",
-    "windows operating systems",
+    "leverage trusted websites",
+    "deploys software internally",
     "vendor breaches persist",
     "twitter whistleblower complaint",
     "traditional iam projects",
-    "related software including",
     "oss component openssl",
-    "hijack 700 sites",
-    "deploys software internally",
-    "130 companies tangled",
-    "web hosting company",
+    "old complaint lingers",
     "impacted eight packages",
-    "frequent attack vectors",
-    "frequent attack vector",
-    "10 000 high"
+    "aiding cyberattacks authorities",
+    "10 000 high",
+    "cybercrime group defaced",
+    "sql injection vulnerability"
   ],
   "trending": [
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 499
-    },
-    {
-      "keyword": "fuel clickfix attacks",
-      "mentions": 1
-    },
-    {
-      "keyword": "high severity vulnerabilities",
-      "mentions": 12
-    },
-    {
-      "keyword": "266 000 affected",
-      "mentions": 1
-    },
-    {
-      "keyword": "distribute malicious code",
+      "keyword": "hijack 700 sites",
       "mentions": 2
     },
     {
+      "keyword": "malicious cyber actors",
+      "mentions": 500
+    },
+    {
+      "keyword": "fuel clickfix attacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 1
+    },
+    {
+      "keyword": "266 000 affected",
+      "mentions": 2
+    },
+    {
+      "keyword": "high severity vulnerabilities",
+      "mentions": 13
+    },
+    {
+      "keyword": "distribute malicious code",
+      "mentions": 3
+    },
+    {
       "keyword": "large scale campaign",
-      "mentions": 17
+      "mentions": 18
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 623
+      "keyword": "leverage trusted websites",
+      "mentions": 1
     },
     {
-      "keyword": "vendor breaches persist",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1718
-    },
-    {
-      "keyword": "traditional iam projects",
-      "mentions": 21
+      "keyword": "deploys software internally",
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
+      "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times. Phishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
+      "published": "Mon, 25 May 2026 19:43:27 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
@@ -136,15 +147,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html",
-      "summary": "Cybersecurity researchers have flagged a fresh software supply chain attack campaign that has targeted multiple PHP packages belonging to Laravel-Lang to deliver a comprehensive credential-stealing framework. The affected packages include - laravel-lang/lang laravel-lang/http-statuses laravel-lang/attributes laravel-lang/actions \"The timing and pattern of the newly published tags",
-      "published": "Sat, 23 May 2026 15:21:13 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,6 +235,15 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
       "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
       "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
@@ -308,21 +319,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Patch Tuesday, April 2026 Edition",
-      "link": "https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/",
-      "summary": "Microsoft today pushed software updates to fix a staggering 167 security vulnerabilities in its Windows operating systems and related software, including a SharePoint Server zero-day and a publicly disclosed weakness in Windows Defender dubbed \"BlueHammer.\" Separately, Google Chrome fixed its fourth zero-day of 2026, and an emergency update for Adobe Reader nixes an actively exploited flaw that can lead to remote code execution.",
-      "published": "Tue, 14 Apr 2026 21:47:59 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "RCE",
-        "Patch/update ×4",
-        "Exploit wording"
       ]
     },
     {
@@ -406,6 +402,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Ghost CMS Vulnerability Exploited to Hack Over 700 Websites",
+      "link": "https://www.securityweek.com/ghost-cms-vulnerability-exploited-to-hack-over-700-websites/",
+      "summary": "Sites belonging to major universities such as Harvard and Oxford, as well as DuckDuckGo, have been compromised in the attack. The post Ghost CMS Vulnerability Exploited to Hack Over 700 Websites appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 13:27:12 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Oncology Institute Discloses Data Breach",
       "link": "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/",
       "summary": "The affected third-party vendor has not been named, but one possible candidate is TriZetto. The post Oncology Institute Discloses Data Breach appeared first on SecurityWeek .",
@@ -474,18 +481,6 @@
       "published": "Sat, 23 May 2026 11:00:00 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure",
-      "link": "https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/",
-      "summary": "Drupal is warning users that it has already seen attempts to exploit CVE-2026-9082 and security firms are seeing attacks against thousands of websites. The post Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure appeared first on SecurityWeek .",
-      "published": "Fri, 22 May 2026 17:15:26 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
         "Exploit wording"
       ]
     },

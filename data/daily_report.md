@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-25 08:14 UTC  
+> **Last Updated:** 2026-05-25 12:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sprawling phishing campaign** • **large scale campaign** • **directory traversal flaw** • **distribute malicious code** • **twitter whistleblower complaint** • **traditional iam projects** • **related software including** • **oss component openssl** • **deploys software internally** • **cpanel user including** • **computer hacking charges** • **130 companies tangled** • **web hosting company** • **windows operating systems** • **canadian man arrested** • **public github account** • **cybercrime group defaced** • **impacted eight packages** • **application data sent** • **malicious cyber actors**
+**malicious cyber actors** • **fuel clickfix attacks** • **high severity vulnerabilities** • **266 000 affected** • **distribute malicious code** • **large scale campaign** • **windows operating systems** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **related software including** • **oss component openssl** • **hijack 700 sites** • **deploys software internally** • **130 companies tangled** • **web hosting company** • **impacted eight packages** • **frequent attack vectors** • **frequent attack vector** • **10 000 high**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks](https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html)
+- [The Alert Firehose Finally Meets Its Match](https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html)
+- [Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms](https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html)
 - [TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html)
 - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
 - [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
 - [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
 - [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html)
-- [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html)
-- [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html)
-- [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html)
 
 ### BleepingComputer
 
+- [FBI warns of Kali365 phishing service targeting Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/)
 - [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
 - [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/)
 - [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
@@ -34,7 +35,6 @@
 - [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
 - [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
 - [Drupal: Critical SQL injection flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/drupal-critical-sql-injection-flaw-now-targeted-in-attacks/)
-- [Why Chargebacks are Just One Piece of the Fraud Puzzle](https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Oncology Institute Discloses Data Breach](https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/)
+- [266,000 Affected by Data Breach at Radiology Associates of Richmond](https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/)
+- [Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects](https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/)
+- [Laravel-Lang Packages Poisoned for Malware Delivery](https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/)
+- [DocketWise Data Breach Impacts 143,000](https://www.securityweek.com/docketwise-data-breach-impacts-143000/)
 - [Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack](https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/)
 - [‘Underminr’ Vulnerability Lets Attackers Hide Malicious Connections Behind Trusted Domains](https://www.securityweek.com/underminr-vulnerability-lets-attackers-hide-malicious-connections-behind-trusted-domains/)
 - [Drupal Vulnerability in Hacker Crosshairs Shortly After Disclosure](https://www.securityweek.com/drupal-vulnerability-in-hacker-crosshairs-shortly-after-disclosure/)
-- [In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking](https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/)
-- [Canadian Man Arrested for Operating Kimwolf Botnet](https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/)
-- [‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested](https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/)
-- [TrendAI Patches Apex One Zero-Day Exploited in the Wild](https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/)
-- [Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack](https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/)
 
 ### Threatpost
 

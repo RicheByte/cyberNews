@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-25 08:14 UTC |
+| 🕐 Last Updated | 2026-05-25 12:57 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`sprawling phishing campaign` • `large scale campaign` • `directory traversal flaw` • `distribute malicious code` • `twitter whistleblower complaint` • `traditional iam projects` • `related software including` • `oss component openssl` • `deploys software internally` • `cpanel user including`
+`malicious cyber actors` • `fuel clickfix attacks` • `high severity vulnerabilities` • `266 000 affected` • `distribute malicious code` • `large scale campaign` • `windows operating systems` • `vendor breaches persist` • `twitter whistleblower complaint` • `traditional iam projects`
 
 ## 📄 Reports
 

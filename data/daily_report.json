@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-05-25 08:14",
+  "last_updated": "2026-05-25 12:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "sprawling phishing campaign",
-    "large scale campaign",
-    "directory traversal flaw",
+    "malicious cyber actors",
+    "fuel clickfix attacks",
+    "high severity vulnerabilities",
+    "266 000 affected",
     "distribute malicious code",
+    "large scale campaign",
+    "windows operating systems",
+    "vendor breaches persist",
     "twitter whistleblower complaint",
     "traditional iam projects",
     "related software including",
     "oss component openssl",
+    "hijack 700 sites",
     "deploys software internally",
-    "cpanel user including",
-    "computer hacking charges",
     "130 companies tangled",
     "web hosting company",
-    "windows operating systems",
-    "canadian man arrested",
-    "public github account",
-    "cybercrime group defaced",
     "impacted eight packages",
-    "application data sent",
-    "malicious cyber actors"
+    "frequent attack vectors",
+    "frequent attack vector",
+    "10 000 high"
   ],
   "trending": [
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 392
+      "keyword": "malicious cyber actors",
+      "mentions": 499
     },
     {
-      "keyword": "large scale campaign",
-      "mentions": 16
-    },
-    {
-      "keyword": "directory traversal flaw",
-      "mentions": 28
-    },
-    {
-      "keyword": "distribute malicious code",
+      "keyword": "fuel clickfix attacks",
       "mentions": 1
     },
     {
+      "keyword": "high severity vulnerabilities",
+      "mentions": 12
+    },
+    {
+      "keyword": "266 000 affected",
+      "mentions": 1
+    },
+    {
+      "keyword": "distribute malicious code",
+      "mentions": 2
+    },
+    {
+      "keyword": "large scale campaign",
+      "mentions": 17
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 623
+    },
+    {
+      "keyword": "vendor breaches persist",
+      "mentions": 12
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1717
+      "mentions": 1718
     },
     {
       "keyword": "traditional iam projects",
-      "mentions": 20
-    },
-    {
-      "keyword": "related software including",
-      "mentions": 43
-    },
-    {
-      "keyword": "oss component openssl",
-      "mentions": 29
-    },
-    {
-      "keyword": "deploys software internally",
-      "mentions": 18
-    },
-    {
-      "keyword": "cpanel user including",
-      "mentions": 20
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks",
+      "link": "https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html",
+      "summary": "Threat actors are exploiting a recently disclosed critical security flaw in Ghost CMS to inject malicious JavaScript code with an aim to fuel ClickFix attacks. According to QiAnXin XLab, the activity involves the exploitation of CVE-2026-26980 (CVSS score: 9.4), an SQL injection vulnerability in Ghost's Content API that could allow an unauthenticated attacker to read arbitrary data from the",
+      "published": "Mon, 25 May 2026 17:32:46 +0530",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Alert Firehose Finally Meets Its Match",
+      "link": "https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html",
+      "summary": "Ask a cybersecurity pro about Network Detection and Response (NDR) and you might still hear \"Noisy,\" \"Too much data.\" But ask the teams running NDR that includes agentic AI capabilities and you'll hear they're actually using it to catch threats earlier, triage faster, and chase fewer false positives. The old complaint lingers in part because reputations are sticky, and because NDR has evolved",
+      "published": "Mon, 25 May 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms",
+      "link": "https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html",
+      "summary": "Cybersecurity researchers have shed light on a cross-platform malware called RemotePE that has been put to use by the North Korea-linked Lazarus Group in attacks targeting financial and cryptocurrency organizations. RemotePE, per NCC Group subsidiary Fox-IT, is part of a multi-stage attack chain that involves two loaders tracked as DPAPILoader and RemotePELoader. \"DPAPILoader decrypts and",
+      "published": "Mon, 25 May 2026 15:02:54 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO",
@@ -115,43 +147,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root",
-      "link": "https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html",
-      "summary": "A maximum-severity security vulnerability impacting LiteSpeed User-End cPanel Plugin has come under active exploitation in the wild. The flaw, tracked as CVE-2026-48172 (CVSS score: 10.0), relates to an instance of incorrect privilege assignment that an attacker could abuse to run arbitrary scripts with elevated permissions. \"Any cPanel user (including an attacker or a compromised account) may",
-      "published": "Sat, 23 May 2026 13:05:13 +0530",
-      "value_score": 85,
+      "source": "BleepingComputer",
+      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
+      "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authentication (MFA). [...]",
+      "published": "Mon, 25 May 2026 08:45:54 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV",
-      "link": "https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a recently patched critical security flaw impacting Drupal Core to its Known Exploited Vulnerabilities (KEV) catalog, based on evidence of active exploitation. The vulnerability in question is CVE-2026-9082 (CVSS score: 6.5), an SQL injection vulnerability affecting all supported versions of Drupal Core. \"Drupal Core",
-      "published": "Sat, 23 May 2026 12:53:48 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×5",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups",
-      "link": "https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html",
-      "summary": "Authorities in Europe and North America have announced the dismantling of a criminal virtual private network (VPN) service used by criminal actors to obscure the origins of ransomware attacks, data theft, scanning, and denial-of-service attacks. Codenamed Operation Saffron, the disruption of First VPN Service was led by France and the Netherlands, with several other nations supporting the",
-      "published": "Fri, 22 May 2026 23:05:02 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
+        "Phishing ×2"
       ]
     },
     {
@@ -227,15 +230,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why Chargebacks are Just One Piece of the Fraud Puzzle",
-      "link": "https://www.bleepingcomputer.com/news/security/why-chargebacks-are-just-one-piece-of-the-fraud-puzzle/",
-      "summary": "Fraud losses don't stop at chargebacks. False declines, account takeovers, and abuse also damage revenue and trust. IPQS breaks down why fraud teams need broader visibility into risk and customer impact. [...]",
-      "published": "Fri, 22 May 2026 09:09:18 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -412,6 +406,59 @@
     },
     {
       "source": "Security Week",
+      "title": "Oncology Institute Discloses Data Breach",
+      "link": "https://www.securityweek.com/oncology-institute-discloses-third-party-data-breach/",
+      "summary": "The affected third-party vendor has not been named, but one possible candidate is TriZetto. The post Oncology Institute Discloses Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 12:17:02 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "266,000 Affected by Data Breach at Radiology Associates of Richmond",
+      "link": "https://www.securityweek.com/266000-affected-by-data-breach-at-radiology-associates-of-richmond/",
+      "summary": "Threat actors stole files containing names and protected health information from the healthcare organization’s systems. The post 266,000 Affected by Data Breach at Radiology Associates of Richmond appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 11:17:07 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects",
+      "link": "https://www.securityweek.com/anthropic-mythos-detected-23000-potential-vulnerabilities-across-1000-oss-projects/",
+      "summary": "Many findings have been confirmed to be critical or high-severity vulnerabilities and the number will continue to increase. The post Anthropic: Mythos Detected 23,000 Potential Vulnerabilities Across 1,000 OSS Projects appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 10:58:07 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Laravel-Lang Packages Poisoned for Malware Delivery",
+      "link": "https://www.securityweek.com/laravel-lang-packages-poisoned-for-malware-delivery/",
+      "summary": "Published within a 15-minute window, the malicious tags introduced backdoors to exfiltrate CI secrets. The post Laravel-Lang Packages Poisoned for Malware Delivery appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 10:41:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "DocketWise Data Breach Impacts 143,000",
+      "link": "https://www.securityweek.com/docketwise-data-breach-impacts-143000/",
+      "summary": "Hackers accessed names, addresses, Social Security numbers, financial information, and medical data from third-party partner repositories. The post DocketWise Data Breach Impacts 143,000 appeared first on SecurityWeek .",
+      "published": "Mon, 25 May 2026 09:37:27 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack",
       "link": "https://www.securityweek.com/over-5500-github-repositories-infected-in-megalodon-supply-chain-attack/",
       "summary": "Fake automated commits injected GitHub Actions workflows containing payloads to steal credentials, CI secrets, keys, and tokens. The post Over 5,500 GitHub Repositories Infected in ‘Megalodon’ Supply Chain Attack appeared first on SecurityWeek .",
@@ -441,63 +488,6 @@
         "CVE mentioned",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking",
-      "link": "https://www.securityweek.com/in-other-news-industrial-router-exploitation-cisa-kev-nomination-form-gas-station-hacking/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: CISA contractor exposes credentials, Mythos testing and new features, Huawei router flaw triggered telecom blackout. The post In Other News: Industrial Router Exploitation, CISA KEV Nomination Form, Gas Station Hacking appeared first on SecurityWeek .",
-      "published": "Fri, 22 May 2026 14:07:06 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "CISA/KEV ×5",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
-      "link": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
-      "summary": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek .",
-      "published": "Fri, 22 May 2026 12:11:03 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
-      "link": "https://www.securityweek.com/first-vpn-cybercrime-service-disrupted-administrator-arrested/",
-      "summary": "The FBI says First VPN has been used by dozens of ransomware groups for network reconnaissance and intrusions. The post ‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested appeared first on SecurityWeek .",
-      "published": "Fri, 22 May 2026 09:24:22 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "TrendAI Patches Apex One Zero-Day Exploited in the Wild",
-      "link": "https://www.securityweek.com/trendai-patches-apex-one-zero-day-exploited-in-the-wild/",
-      "summary": "CVE-2026-34926 is a directory traversal flaw that can be exploited against the on-premise version of Apex One. The post TrendAI Patches Apex One Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Fri, 22 May 2026 08:19:24 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack",
-      "link": "https://www.securityweek.com/grafana-says-codebase-and-other-data-stolen-via-tanstack-supply-chain-attack/",
-      "summary": "Hackers accessed Grafana’s GitHub repositories after a token compromised in the TanStack attack was not rotated. The post Grafana Says Codebase and Other Data Stolen via TanStack Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Fri, 22 May 2026 07:49:38 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 498,
+      "count": 499,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -196,7 +196,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 622,
+      "count": 623,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -292,7 +292,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1717,
+      "count": 1718,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2361,7 +2361,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 368,
+      "count": 369,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7299,7 +7299,7 @@
       ]
     },
     "frequent attack vectors": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-02-13",
         "2026-02-14",
@@ -7307,7 +7307,8 @@
         "2026-04-21",
         "2026-04-24",
         "2026-04-27",
-        "2026-04-28"
+        "2026-04-28",
+        "2026-05-25"
       ]
     },
     "fake recruiter campaign": {
@@ -11573,7 +11574,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11585,7 +11586,8 @@
         "2026-04-24",
         "2026-04-27",
         "2026-04-28",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-05-25"
       ]
     },
     "things get shaky": {
@@ -11763,7 +11765,7 @@
       ]
     },
     "large scale campaign": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -12217,12 +12219,13 @@
       ]
     },
     "high severity vulnerabilities": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-02",
         "2026-04-03",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-05-25"
       ]
     },
     "teams pull deploy": {
@@ -13902,7 +13905,7 @@
       ]
     },
     "related software including": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-04-20",
         "2026-04-21",
@@ -17024,7 +17027,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17135,14 +17138,15 @@
       ]
     },
     "vendor breaches persist": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-22",
-        "2026-05-23"
+        "2026-05-23",
+        "2026-05-25"
       ]
     },
     "traditional iam projects": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-22",
         "2026-05-23",
@@ -17166,7 +17170,7 @@
       ]
     },
     "web hosting company": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17180,7 +17184,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17204,7 +17208,7 @@
       ]
     },
     "impacted eight packages": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17212,6 +17216,30 @@
       ]
     },
     "distribute malicious code": {
+      "count": 2,
+      "dates": [
+        "2026-05-25"
+      ]
+    },
+    "fuel clickfix attacks": {
+      "count": 1,
+      "dates": [
+        "2026-05-25"
+      ]
+    },
+    "266 000 affected": {
+      "count": 1,
+      "dates": [
+        "2026-05-25"
+      ]
+    },
+    "hijack 700 sites": {
+      "count": 1,
+      "dates": [
+        "2026-05-25"
+      ]
+    },
+    "10 000 high": {
       "count": 1,
       "dates": [
         "2026-05-25"
@@ -17219,17 +17247,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-13 17:57",
-      "articles": 56,
-      "top_keywords": [
-        "ai minimum elements",
-        "716 000 impacted",
-        "remote code execution",
-        "potential code execution",
-        "privilege escalation flaw"
-      ]
-    },
     {
       "timestamp": "2026-05-13 19:55",
       "articles": 56,
@@ -18317,6 +18334,17 @@
         "directory traversal flaw",
         "distribute malicious code",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-25 12:57",
+      "articles": 56,
+      "top_keywords": [
+        "malicious cyber actors",
+        "fuel clickfix attacks",
+        "high severity vulnerabilities",
+        "266 000 affected",
+        "distribute malicious code"
       ]
     }
   ]

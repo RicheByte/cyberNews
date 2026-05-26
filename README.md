@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-26 14:56 UTC |
+| 🕐 Last Updated | 2026-05-26 18:21 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`docker images docksec` • `185 000 people` • `threat actors abuse` • `fuel clickfix attacks` • `twitter whistleblower complaint` • `recommends remediation steps` • `poses significant risks` • `oss component openssl` • `hijack 700 sites` • `malicious cyber actors`
+`remote code execution` • `docker images docksec` • `185 000 people` • `ac500 v2 listed` • `known common vulner` • `abb ac500 v2` • `twitter whistleblower complaint` • `service platform phaas` • `recommends remediation steps` • `poses significant risks`
 
 ## 📄 Reports
 

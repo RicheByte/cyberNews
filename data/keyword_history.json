@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1725,
+      "count": 1726,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,7 @@
       ]
     },
     "remote code execution": {
-      "count": 415,
+      "count": 416,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3550,7 +3550,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -6403,7 +6403,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8061,7 +8061,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8090,7 +8090,8 @@
         "2026-05-22",
         "2026-05-23",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-05-26"
       ]
     },
     "unfortunately named toolkit": {
@@ -15816,7 +15817,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17296,19 +17297,19 @@
       ]
     },
     "service platform phaas": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
     },
     "185 000 people": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
     },
     "docker images docksec": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
@@ -17320,25 +17321,25 @@
       ]
     },
     "recommends remediation steps": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "600 000 entries": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "183 000 people": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "sessions available register": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
@@ -17348,20 +17349,51 @@
       "dates": [
         "2026-05-26"
       ]
+    },
+    "ac500 v2 listed": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "known common vulner": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "abb ac500 v2": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "already gained access": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "latest software version": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "abb terra ac": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "abb lvs mconfig": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-14 16:09",
-      "articles": 56,
-      "top_keywords": [
-        "mythos proves potent",
-        "remote code execution",
-        "aggravated identity theft",
-        "twitter whistleblower complaint",
-        "late december 2025"
-      ]
-    },
     {
       "timestamp": "2026-05-14 19:40",
       "articles": 56,
@@ -18449,6 +18481,17 @@
         "threat actors abuse",
         "fuel clickfix attacks",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-26 18:21",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "docker images docksec",
+        "185 000 people",
+        "ac500 v2 listed",
+        "known common vulner"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-26 14:56 UTC  
+> **Last Updated:** 2026-05-26 18:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**docker images docksec** • **185 000 people** • **threat actors abuse** • **fuel clickfix attacks** • **twitter whistleblower complaint** • **recommends remediation steps** • **poses significant risks** • **oss component openssl** • **hijack 700 sites** • **malicious cyber actors** • **remote code execution** • **service platform phaas** • **cybercrime group defaced** • **600 000 entries** • **183 000 people** • **sessions available register** • **finding security vulnerabilities** • **service ddos attacks** • **massive ddos attacks** • **attacks faster stronger**
+**remote code execution** • **docker images docksec** • **185 000 people** • **ac500 v2 listed** • **known common vulner** • **abb ac500 v2** • **twitter whistleblower complaint** • **service platform phaas** • **recommends remediation steps** • **poses significant risks** • **cybercrime group defaced** • **already gained access** • **latest software version** • **abb terra ac** • **abb lvs mconfig** • **600 000 entries** • **183 000 people** • **sessions available register** • **service ddos attacks** • **wire fraud conspiracy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
 - [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
 - [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
 - [MFA Prompt Bombing: Why Your Second Factor Isn't Saving You](https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html)
@@ -23,7 +24,6 @@
 - [Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning](https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html)
 - [KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike](https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html)
 - [⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos](https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html)
-- [Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks](https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html)
 
 ### BleepingComputer
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [ABB Terra AC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01)
+- [ABB LVS MConfig](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06)
+- [ABB Ability Camera Connect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05)
+- [Eppendorf BioFlo 320](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01)
+- [ABB AbilityTM Zenon Remote Transport Vulnerability](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03)
+- [ABB AC500 V2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02)
+- [ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [ABB B&R Automation Studio](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-03)
-- [ABB Terra AC Wallbox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-05)
-- [ABB B&R PCs](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-02)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/21/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [ABB B&R Automation Runtime](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-04)
-- [Hitachi Energy GMS600](https://www.cisa.gov/news-events/ics-advisories/icsa-26-141-01)
-- [CISA Adds Seven Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/20/cisa-adds-seven-known-exploited-vulnerabilities-catalog)
 
 ---
 

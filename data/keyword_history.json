@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 504,
+      "count": 505,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1723,
+      "count": 1724,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3549,7 +3549,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -6402,7 +6402,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6420,7 +6420,8 @@
         "2026-05-10",
         "2026-05-12",
         "2026-05-20",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-05-26"
       ]
     },
     "memory spain's ministry": {
@@ -11769,7 +11770,7 @@
       ]
     },
     "large scale campaign": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -15813,7 +15814,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17035,7 +17036,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17147,7 +17148,7 @@
       ]
     },
     "vendor breaches persist": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-22",
         "2026-05-23",
@@ -17156,7 +17157,7 @@
       ]
     },
     "traditional iam projects": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-22",
         "2026-05-23",
@@ -17220,7 +17221,7 @@
       ]
     },
     "impacted eight packages": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17229,28 +17230,28 @@
       ]
     },
     "distribute malicious code": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-25",
         "2026-05-26"
       ]
     },
     "fuel clickfix attacks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-25",
         "2026-05-26"
       ]
     },
     "266 000 affected": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-25",
         "2026-05-26"
       ]
     },
     "hijack 700 sites": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-25",
         "2026-05-26"
@@ -17264,46 +17265,47 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-25",
         "2026-05-26"
       ]
     },
     "leverage trusted websites": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-25",
         "2026-05-26"
       ]
     },
     "old complaint lingers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-25",
         "2026-05-26"
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-25",
+        "2026-05-26"
+      ]
+    },
+    "service platform phaas": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "185 000 people": {
+      "count": 1,
+      "dates": [
         "2026-05-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-14 10:10",
-      "articles": 56,
-      "top_keywords": [
-        "ai minimum elements",
-        "remote code execution",
-        "late december 2025",
-        "ctfmon privilege escalation",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-14 13:57",
       "articles": 56,
@@ -18384,6 +18386,17 @@
     },
     {
       "timestamp": "2026-05-26 02:43",
+      "articles": 56,
+      "top_keywords": [
+        "hijack 700 sites",
+        "malicious cyber actors",
+        "fuel clickfix attacks",
+        "distribute malicious code",
+        "cyberattacks influence operations"
+      ]
+    },
+    {
+      "timestamp": "2026-05-26 07:40",
       "articles": 56,
       "top_keywords": [
         "hijack 700 sites",

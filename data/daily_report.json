@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26 02:43",
+  "last_updated": "2026-05-26 07:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,7 +9,6 @@
     "distribute malicious code",
     "cyberattacks influence operations",
     "266 000 affected",
-    "high severity vulnerabilities",
     "large scale campaign",
     "leverage trusted websites",
     "vendor breaches persist",
@@ -18,55 +17,69 @@
     "poses significant risks",
     "oss component openssl",
     "old complaint lingers",
+    "service platform phaas",
     "impacted eight packages",
     "aiding cyberattacks authorities",
-    "10 000 high",
     "cybercrime group defaced",
-    "deploys software internally"
+    "service ddos attacks",
+    "185 000 people"
   ],
   "trending": [
     {
       "keyword": "hijack 700 sites",
-      "mentions": 6
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 504
-    },
-    {
-      "keyword": "fuel clickfix attacks",
-      "mentions": 6
-    },
-    {
-      "keyword": "distribute malicious code",
       "mentions": 7
     },
     {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 5
+      "keyword": "malicious cyber actors",
+      "mentions": 505
     },
     {
-      "keyword": "266 000 affected",
+      "keyword": "fuel clickfix attacks",
+      "mentions": 7
+    },
+    {
+      "keyword": "distribute malicious code",
+      "mentions": 8
+    },
+    {
+      "keyword": "cyberattacks influence operations",
       "mentions": 6
     },
     {
-      "keyword": "high severity vulnerabilities",
-      "mentions": 17
+      "keyword": "266 000 affected",
+      "mentions": 7
     },
     {
       "keyword": "large scale campaign",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "leverage trusted websites",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "vendor breaches persist",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1724
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
+      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
+      "published": "Tue, 26 May 2026 10:49:38 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
@@ -138,14 +151,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software",
-      "link": "https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html",
-      "summary": "Anthropic on Friday disclosed that Project Glasswing has helped uncover more than 10,000 high- or critical-severity vulnerabilities across some of the most \"systemically\" important software across the world since the cybersecurity initiative went live last month. Project Glasswing is a defensive effort launched by the artificial intelligence (AI) company to secure critical global software",
-      "published": "Sat, 23 May 2026 17:25:35 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "7-Eleven data breach exposes personal information of 185,000 people",
+      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
+      "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "Tue, 26 May 2026 03:01:12 -0400",
+      "value_score": 34,
       "value_signals": [
-        "High severity ×2"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -216,19 +229,6 @@
       "published": "Fri, 22 May 2026 11:32:18 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Trend Micro warns of Apex One zero-day exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/",
-      "summary": "Japanese cybersecurity software company Trend Micro has addressed an Apex One zero-day vulnerability exploited in attacks targeting Windows systems. [...]",
-      "published": "Fri, 22 May 2026 09:39:19 -0400",
-      "value_score": 91,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

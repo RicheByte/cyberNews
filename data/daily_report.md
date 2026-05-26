@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-26 02:43 UTC  
+> **Last Updated:** 2026-05-26 07:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hijack 700 sites** • **malicious cyber actors** • **fuel clickfix attacks** • **distribute malicious code** • **cyberattacks influence operations** • **266 000 affected** • **high severity vulnerabilities** • **large scale campaign** • **leverage trusted websites** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **poses significant risks** • **oss component openssl** • **old complaint lingers** • **impacted eight packages** • **aiding cyberattacks authorities** • **10 000 high** • **cybercrime group defaced** • **deploys software internally**
+**hijack 700 sites** • **malicious cyber actors** • **fuel clickfix attacks** • **distribute malicious code** • **cyberattacks influence operations** • **266 000 affected** • **large scale campaign** • **leverage trusted websites** • **vendor breaches persist** • **twitter whistleblower complaint** • **traditional iam projects** • **poses significant risks** • **oss component openssl** • **old complaint lingers** • **service platform phaas** • **impacted eight packages** • **aiding cyberattacks authorities** • **cybercrime group defaced** • **service ddos attacks** • **185 000 people**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike](https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html)
 - [⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos](https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html)
 - [Ghost CMS CVE-2026-26980 Exploited to Hijack 700+ Sites for ClickFix Attacks](https://thehackernews.com/2026/05/ghost-cms-cve-2026-26980-exploited-to.html)
 - [The Alert Firehose Finally Meets Its Match](https://thehackernews.com/2026/05/the-alert-firehose-finally-meets-its.html)
@@ -23,10 +24,10 @@
 - [TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html)
 - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html)
 - [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html)
-- [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html)
 
 ### BleepingComputer
 
+- [7-Eleven data breach exposes personal information of 185,000 people](https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/)
 - [Anthropic’s restricted Claude Mythos model may be coming to Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/)
 - [FBI warns of Kali365 phishing service targeting Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/)
 - [Ghost CMS SQL injection flaw exploited in large-scale ClickFix campaign](https://www.bleepingcomputer.com/news/security/ghost-cms-sql-injection-flaw-exploited-in-large-scale-clickfix-campaign/)
@@ -34,7 +35,6 @@
 - [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/)
 - [Netherlands seizes 800 servers of hosting firm enabling cyberattacks](https://www.bleepingcomputer.com/news/security/netherlands-seizes-800-servers-of-hosting-firm-enabling-cyberattacks/)
 - [Former US execs plead guilty to aiding tech support scammers](https://www.bleepingcomputer.com/news/security/former-us-execs-plead-guilty-to-aiding-tech-support-scammers/)
-- [Trend Micro warns of Apex One zero-day exploited in the wild](https://www.bleepingcomputer.com/news/security/trend-micro-warns-of-apex-one-zero-day-exploited-in-attacks/)
 
 ### Krebs on Security
 

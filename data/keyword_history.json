@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 505,
+      "count": 506,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1724,
+      "count": 1725,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,7 @@
       ]
     },
     "remote code execution": {
-      "count": 414,
+      "count": 415,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -777,7 +777,8 @@
         "2026-05-20",
         "2026-05-22",
         "2026-05-23",
-        "2026-05-24"
+        "2026-05-24",
+        "2026-05-26"
       ]
     },
     "attacker remotely control": {
@@ -3549,7 +3550,7 @@
       ]
     },
     "poses significant risks": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-01-14",
         "2026-03-13",
@@ -6402,7 +6403,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -15036,7 +15037,7 @@
       ]
     },
     "massive ddos attacks": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-04-30",
         "2026-05-01",
@@ -15055,7 +15056,8 @@
         "2026-05-15",
         "2026-05-19",
         "2026-05-20",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-05-26"
       ]
     },
     "abb products support": {
@@ -15814,7 +15816,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -16165,7 +16167,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16179,7 +16181,8 @@
         "2026-05-22",
         "2026-05-23",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-05-26"
       ]
     },
     "released security patches": {
@@ -17036,7 +17039,7 @@
       ]
     },
     "oss component openssl": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-05-21",
         "2026-05-22",
@@ -17237,7 +17240,7 @@
       ]
     },
     "fuel clickfix attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-25",
         "2026-05-26"
@@ -17251,7 +17254,7 @@
       ]
     },
     "hijack 700 sites": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-25",
         "2026-05-26"
@@ -17293,12 +17296,54 @@
       ]
     },
     "service platform phaas": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "185 000 people": {
+      "count": 2,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "docker images docksec": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "threat actors abuse": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "recommends remediation steps": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "600 000 entries": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "183 000 people": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "sessions available register": {
+      "count": 1,
+      "dates": [
+        "2026-05-26"
+      ]
+    },
+    "attacks faster stronger": {
       "count": 1,
       "dates": [
         "2026-05-26"
@@ -17306,17 +17351,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-14 13:57",
-      "articles": 56,
-      "top_keywords": [
-        "mythos proves potent",
-        "remote code execution",
-        "late december 2025",
-        "ai minimum elements",
-        "outlines minimum elements"
-      ]
-    },
     {
       "timestamp": "2026-05-14 16:09",
       "articles": 56,
@@ -18404,6 +18438,17 @@
         "fuel clickfix attacks",
         "distribute malicious code",
         "cyberattacks influence operations"
+      ]
+    },
+    {
+      "timestamp": "2026-05-26 14:56",
+      "articles": 56,
+      "top_keywords": [
+        "docker images docksec",
+        "185 000 people",
+        "threat actors abuse",
+        "fuel clickfix attacks",
+        "twitter whistleblower complaint"
       ]
     }
   ]

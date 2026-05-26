@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-26 07:40 UTC |
+| 🕐 Last Updated | 2026-05-26 14:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hijack 700 sites` • `malicious cyber actors` • `fuel clickfix attacks` • `distribute malicious code` • `cyberattacks influence operations` • `266 000 affected` • `large scale campaign` • `leverage trusted websites` • `vendor breaches persist` • `twitter whistleblower complaint`
+`docker images docksec` • `185 000 people` • `threat actors abuse` • `fuel clickfix attacks` • `twitter whistleblower complaint` • `recommends remediation steps` • `poses significant risks` • `oss component openssl` • `hijack 700 sites` • `malicious cyber actors`
 
 ## 📄 Reports
 

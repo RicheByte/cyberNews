@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26 18:21",
+  "last_updated": "2026-05-26 21:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "docker images docksec",
     "185 000 people",
     "ac500 v2 listed",
-    "known common vulner",
+    "cybercrime group defaced",
     "abb ac500 v2",
     "twitter whistleblower complaint",
-    "service platform phaas",
     "recommends remediation steps",
-    "poses significant risks",
-    "cybercrime group defaced",
-    "already gained access",
     "latest software version",
+    "already gained access",
+    "service ddos attacks",
+    "sprawling phishing campaign",
     "abb terra ac",
     "abb lvs mconfig",
     "600 000 entries",
     "183 000 people",
     "sessions available register",
-    "service ddos attacks",
-    "wire fraud conspiracy"
+    "wire fraud conspiracy",
+    "vendors betting big",
+    "vendor breaches persist"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 416
+      "mentions": 417
     },
     {
       "keyword": "docker images docksec",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "185 000 people",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "ac500 v2 listed",
-      "mentions": 1
-    },
-    {
-      "keyword": "known common vulner",
-      "mentions": 1
-    },
-    {
-      "keyword": "abb ac500 v2",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1726
-    },
-    {
-      "keyword": "service platform phaas",
-      "mentions": 3
-    },
-    {
-      "keyword": "recommends remediation steps",
       "mentions": 2
     },
     {
-      "keyword": "poses significant risks",
-      "mentions": 47
+      "keyword": "cybercrime group defaced",
+      "mentions": 62
+    },
+    {
+      "keyword": "abb ac500 v2",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1727
+    },
+    {
+      "keyword": "recommends remediation steps",
+      "mentions": 3
+    },
+    {
+      "keyword": "latest software version",
+      "mentions": 2
+    },
+    {
+      "keyword": "already gained access",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -160,6 +160,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
+      "link": "https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/",
+      "summary": "Hackers exploited a critical zero-day vulnerability in a server running the KnowledgeDeliver learning management system (LMS) to deploy the Godzilla web shell. [...]",
+      "published": "Tue, 26 May 2026 16:07:31 -0400",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Charter confirms data breach after ShinyHunters extortion threat",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
+      "published": "Tue, 26 May 2026 15:46:01 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
       "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
       "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
@@ -219,26 +243,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "summary": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
-      "published": "Mon, 25 May 2026 13:07:33 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns of Kali365 phishing service targeting Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/",
-      "summary": "The FBI is warning about the Kali365 phishing-as-a-service platform (PhaaS) that is used to hijack Microsoft 365 accounts by abusing OAuth device code authentication to steal session tokens and bypass multi-factor authentication (MFA). [...]",
-      "published": "Mon, 25 May 2026 08:45:54 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -331,9 +335,38 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
+      "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
+      "summary": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
+      "published": "Tue, 26 May 2026 19:47:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
+      "summary": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "published": "Tue, 26 May 2026 19:18:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft Issues Out-of-Band SharePoint Patch",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch",
+      "summary": "SharePoint access often means access to the keys of the kingdom, something attackers and defenders understand all too well.",
+      "published": "Tue, 26 May 2026 18:25:44 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
       "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
-      "summary": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters is third decade, we pause to celebrate and honor Wilson's instrumental role in building and elevating the media site.",
+      "summary": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson's instrumental role in building and elevating the media site.",
       "published": "Tue, 26 May 2026 12:00:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -376,37 +409,6 @@
       "published": "Thu, 21 May 2026 20:07:47 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agents Are Shifting Identity Security Budget Dynamics",
-      "link": "https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents",
-      "summary": "AI agent projects are proliferating throughout the enterprise, and those AI agent identities require management, security, and governance. New Omdia research shows the AI agent identity budget dynamics are very different than traditional IAM projects.",
-      "published": "Thu, 21 May 2026 15:43:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks",
-      "link": "https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks",
-      "summary": "\"Showboat\" doesn't show off, but clearly it doesn't need to, as it's long helped China spy on small market communications providers.",
-      "published": "Thu, 21 May 2026 14:00:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Content Delivery Exploit Opens Websites to Brand Hijacking",
-      "link": "https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking",
-      "summary": "The Underminr domain-fronting attack allows threat actors to modify Web requests and leverage trusted websites to cloak malicious activity.",
-      "published": "Thu, 21 May 2026 13:05:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
@@ -573,26 +575,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB Terra AC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the flash memory to alter the firmware behavior. The following versions of ABB Terra AC are affected: Terra AC wallbox (UL40/80A) <=1.8.32, 1.8.33 Terra AC wallbox (UL32A) <=1.8.2, 1.8.34 Terra AC wallbo",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB LVS MConfig",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
-      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly advises customers to update MConfig with latest software version. The following versions of ABB LVS MConfig are affected: LVS <=1.4.9.21 CVSS Vendor Equipment Vulnerabilities v3 7.4 ABB ABB LVS MConfig ",
+      "title": "Eppendorf BioFlo 320",
+      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppendorf Eppendorf BioFlo 320 Use of Hard-coded Password Background Critical Infrastructure Sectors: Healthcare and Public Health Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany ",
       "published": "Tue, 26 May 26 12:00:00 +0000",
       "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update",
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -611,26 +601,42 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Eppendorf BioFlo 320",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppendorf Eppendorf BioFlo 320 Use of Hard-coded Password Background Critical Infrastructure Sectors: Healthcare and Public Health Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany ",
+      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
+      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM) are affected: Automation Runtime <6.3 Automation Runtime <Q4.93 CVSS Vendor Equipment Vulnerabilities v3 10 B&R ABB B&R Auto",
       "published": "Tue, 26 May 26 12:00:00 +0000",
       "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "High severity",
+        "Patch/update",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB AbilityTM Zenon Remote Transport Vulnerability",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authentication. This functionality initiates a system reboot on the target machine. However, remote exploitation of this vulnerability is not feasible unless the attacker has already gained access to the network ",
+      "title": "ABB LVS MConfig",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
+      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly advises customers to update MConfig with latest software version. The following versions of ABB LVS MConfig are affected: LVS <=1.4.9.21 CVSS Vendor Equipment Vulnerabilities v3 7.4 ABB ABB LVS MConfig ",
       "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 41,
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
+      "published": "Tue, 26 May 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Privilege escalation",
+        "CISA/KEV ×6",
         "Exploit wording"
       ]
     },
@@ -649,28 +655,25 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM) are affected: Automation Runtime <6.3 Automation Runtime <Q4.93 CVSS Vendor Equipment Vulnerabilities v3 10 B&R ABB B&R Auto",
+      "title": "ABB Terra AC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the flash memory to alter the firmware behavior. The following versions of ABB Terra AC are affected: Terra AC wallbox (UL40/80A) <=1.8.32, 1.8.33 Terra AC wallbox (UL32A) <=1.8.2, 1.8.34 Terra AC wallbo",
       "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 49,
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Patch/update",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-9082 Drupal Core SQL Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulner",
-      "published": "Fri, 22 May 26 12:00:00 +0000",
-      "value_score": 99,
+      "title": "ABB AbilityTM Zenon Remote Transport Vulnerability",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authentication. This functionality initiates a system reboot on the target machine. However, remote exploitation of this vulnerability is not feasible unless the attacker has already gained access to the network ",
+      "published": "Tue, 26 May 26 12:00:00 +0000",
+      "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

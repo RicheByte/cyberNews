@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-26 18:21 UTC  
+> **Last Updated:** 2026-05-26 21:38 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **docker images docksec** • **185 000 people** • **ac500 v2 listed** • **known common vulner** • **abb ac500 v2** • **twitter whistleblower complaint** • **service platform phaas** • **recommends remediation steps** • **poses significant risks** • **cybercrime group defaced** • **already gained access** • **latest software version** • **abb terra ac** • **abb lvs mconfig** • **600 000 entries** • **183 000 people** • **sessions available register** • **service ddos attacks** • **wire fraud conspiracy**
+**remote code execution** • **docker images docksec** • **185 000 people** • **ac500 v2 listed** • **cybercrime group defaced** • **abb ac500 v2** • **twitter whistleblower complaint** • **recommends remediation steps** • **latest software version** • **already gained access** • **service ddos attacks** • **sprawling phishing campaign** • **abb terra ac** • **abb lvs mconfig** • **600 000 entries** • **183 000 people** • **sessions available register** • **wire fraud conspiracy** • **vendors betting big** • **vendor breaches persist**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
+- [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
 - [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
 - [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
 - [Webinar: Too many tools are slowing network incident response](https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/)
 - [CISA orders feds to patch actively exploited Drupal vulnerability](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/)
 - [Microsoft: Domain Controller lookup may fail on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/)
 - [7-Eleven data breach exposes personal information of 185,000 people](https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/)
-- [Anthropic’s restricted Claude Mythos model may be coming to Claude Code](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/)
-- [FBI warns of Kali365 phishing service targeting Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/fbi-warns-of-kali365-phishing-service-targeting-microsoft-365-accounts/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos](https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos)
+- [The Hackers Behind Shai-Hulud: Lucky or Skilled?](https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled)
+- [Microsoft Issues Out-of-Band SharePoint Patch](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch)
 - [Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading](https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading)
 - [Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers](https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers)
 - [Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks](https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks)
 - [China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments](https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs)
 - [Google API Keys Remain Active After Deletion](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
-- [AI Agents Are Shifting Identity Security Budget Dynamics](https://www.darkreading.com/identity-access-management-security/shifting-budget-dynamics-identity-security-ai-agents)
-- [Chinese APTs Share Linux Backdoor in Central Asia Telco Attacks](https://www.darkreading.com/threat-intelligence/chinese-apts-linux-backdoor-telco-attacks)
-- [Content Delivery Exploit Opens Websites to Brand Hijacking](https://www.darkreading.com/cyber-risk/content-delivery-exploit-websites-brand-hijacking)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [ABB Terra AC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01)
-- [ABB LVS MConfig](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06)
-- [ABB Ability Camera Connect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05)
 - [Eppendorf BioFlo 320](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01)
-- [ABB AbilityTM Zenon Remote Transport Vulnerability](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03)
-- [ABB AC500 V2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02)
+- [ABB Ability Camera Connect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05)
 - [ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/22/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [ABB LVS MConfig](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [ABB AC500 V2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02)
+- [ABB Terra AC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01)
+- [ABB AbilityTM Zenon Remote Transport Vulnerability](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03)
 
 ---
 

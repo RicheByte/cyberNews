@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-26 18:21 UTC |
+| 🕐 Last Updated | 2026-05-26 21:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `docker images docksec` • `185 000 people` • `ac500 v2 listed` • `known common vulner` • `abb ac500 v2` • `twitter whistleblower complaint` • `service platform phaas` • `recommends remediation steps` • `poses significant risks`
+`remote code execution` • `docker images docksec` • `185 000 people` • `ac500 v2 listed` • `cybercrime group defaced` • `abb ac500 v2` • `twitter whistleblower complaint` • `recommends remediation steps` • `latest software version` • `already gained access`
 
 ## 📄 Reports
 

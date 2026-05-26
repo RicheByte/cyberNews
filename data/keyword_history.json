@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1726,
+      "count": 1727,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -711,7 +711,7 @@
       ]
     },
     "remote code execution": {
-      "count": 416,
+      "count": 417,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1722,7 +1722,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 392,
+      "count": 393,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1789,7 +1789,8 @@
         "2026-05-18",
         "2026-05-19",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-05-26"
       ]
     },
     "model agnostic abstractions": {
@@ -6403,7 +6404,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8061,7 +8062,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15817,7 +15818,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17145,14 +17146,15 @@
       ]
     },
     "vendors betting big": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-22",
-        "2026-05-23"
+        "2026-05-23",
+        "2026-05-26"
       ]
     },
     "vendor breaches persist": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-22",
         "2026-05-23",
@@ -17303,13 +17305,13 @@
       ]
     },
     "185 000 people": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-26"
       ]
     },
     "docker images docksec": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
@@ -17321,25 +17323,25 @@
       ]
     },
     "recommends remediation steps": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
     },
     "600 000 entries": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
     },
     "183 000 people": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
     },
     "sessions available register": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-26"
       ]
@@ -17351,7 +17353,7 @@
       ]
     },
     "ac500 v2 listed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
@@ -17363,48 +17365,37 @@
       ]
     },
     "abb ac500 v2": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "already gained access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "latest software version": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "abb terra ac": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     },
     "abb lvs mconfig": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-14 19:40",
-      "articles": 56,
-      "top_keywords": [
-        "mythos proves potent",
-        "remote code execution",
-        "aggravated identity theft",
-        "twitter whistleblower complaint",
-        "pypi packages causing"
-      ]
-    },
     {
       "timestamp": "2026-05-14 21:05",
       "articles": 56,
@@ -18492,6 +18483,17 @@
         "185 000 people",
         "ac500 v2 listed",
         "known common vulner"
+      ]
+    },
+    {
+      "timestamp": "2026-05-26 21:38",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "docker images docksec",
+        "185 000 people",
+        "ac500 v2 listed",
+        "cybercrime group defaced"
       ]
     }
   ]

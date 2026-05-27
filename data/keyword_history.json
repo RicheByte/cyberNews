@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1731,
+      "count": 1732,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -952,7 +952,7 @@
       ]
     },
     "specops software explains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2025-12-19",
         "2026-02-23",
@@ -1023,7 +1023,7 @@
       ]
     },
     "national security risk": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1055,7 +1055,8 @@
         "2026-04-24",
         "2026-05-13",
         "2026-05-14",
-        "2026-05-15"
+        "2026-05-15",
+        "2026-05-27"
       ]
     },
     "open source millions": {
@@ -1725,7 +1726,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 397,
+      "count": 398,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8067,7 +8068,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13987,7 +13988,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15826,7 +15827,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17213,7 +17214,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17371,7 +17372,7 @@
       ]
     },
     "ac500 v2 listed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17384,7 +17385,7 @@
       ]
     },
     "abb ac500 v2": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17405,14 +17406,14 @@
       ]
     },
     "abb terra ac": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "abb lvs mconfig": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17437,7 +17438,7 @@
       ]
     },
     "romanian hacker sentenced": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-27"
       ]
@@ -17449,7 +17450,7 @@
       ]
     },
     "agentic ai strategy": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-27"
       ]
@@ -17461,7 +17462,7 @@
       ]
     },
     "activity targeted industrial": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-27"
       ]
@@ -17473,7 +17474,7 @@
       ]
     },
     "deploying malicious code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-27"
       ]
@@ -17491,6 +17492,24 @@
       ]
     },
     "ai risk summit": {
+      "count": 2,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "kingdom something attackers": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "information stealing capabilities": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "threat hunter team": {
       "count": 1,
       "dates": [
         "2026-05-27"
@@ -17498,17 +17517,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-15 10:17",
-      "articles": 56,
-      "top_keywords": [
-        "mythos proves potent",
-        "third party ecosystems",
-        "remote code execution",
-        "cve 2026 20182",
-        "aggravated identity theft"
-      ]
-    },
     {
       "timestamp": "2026-05-15 13:54",
       "articles": 56,
@@ -18596,6 +18604,17 @@
         "attacks without requiring",
         "agentic ai strategy",
         "cybercrime group defaced"
+      ]
+    },
+    {
+      "timestamp": "2026-05-27 18:21",
+      "articles": 56,
+      "top_keywords": [
+        "romanian hacker sentenced",
+        "aggravated identity theft",
+        "agentic ai strategy",
+        "cybercrime group defaced",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-05-27 15:25",
+  "last_updated": "2026-05-27 18:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "romanian hacker sentenced",
     "aggravated identity theft",
-    "attacks without requiring",
     "agentic ai strategy",
     "cybercrime group defaced",
-    "system reboot without",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "activity targeted industrial",
+    "kingdom something attackers",
+    "information stealing capabilities",
     "specops software explains",
-    "latest software version",
     "deploys software internally",
-    "self service resets",
     "deploying malicious code",
-    "already gained access",
     "ac500 v2 listed",
-    "performance improvements microsoft",
-    "however remote exploitation",
+    "activity targeted industrial",
     "ai risk summit",
-    "abb terra ac"
+    "abb terra ac",
+    "abb lvs mconfig",
+    "abb ac500 v2",
+    "national security risk",
+    "wire fraud conspiracy",
+    "threat hunter team"
   ],
   "trending": [
     {
       "keyword": "romanian hacker sentenced",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 178
-    },
-    {
-      "keyword": "attacks without requiring",
-      "mentions": 1
+      "mentions": 179
     },
     {
       "keyword": "agentic ai strategy",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group defaced",
-      "mentions": 66
-    },
-    {
-      "keyword": "system reboot without",
-      "mentions": 1
+      "mentions": 67
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1731
+      "mentions": 1732
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 397
+      "mentions": 398
     },
     {
-      "keyword": "activity targeted industrial",
+      "keyword": "kingdom something attackers",
+      "mentions": 1
+    },
+    {
+      "keyword": "information stealing capabilities",
       "mentions": 1
     },
     {
       "keyword": "specops software explains",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "deploys software internally",
+      "mentions": 26
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
+      "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
+      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil. The",
+      "published": "Wed, 27 May 2026 21:40:21 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
+      "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
+      "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The",
+      "published": "Wed, 27 May 2026 21:14:29 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
@@ -122,30 +140,6 @@
       "published": "Tue, 26 May 2026 21:18:41 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back",
-      "link": "https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html",
-      "summary": "Every single day, hackers are finding new ways to crash websites and steal data. But right now, something has changed. Hackers are no longer working alone. They are now using powerful Artificial Intelligence (AI) tools to make their attacks faster, stronger, and much harder to stop. According to recent updates from The Hacker News, bad actors are using AI to find weak spots in systems and",
-      "published": "Tue, 26 May 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions",
-      "link": "https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html",
-      "summary": "Microsoft has rolled out updates to fix a remote code execution vulnerability impacting SharePoint that could be exploited by bad actors in attacks without requiring any specialized conditions to be met. The vulnerability, tracked as CVE-2026-45659, carries a CVSS score of 8.8. It has been assigned an important severity. \"Deserialization of untrusted data in Microsoft Office SharePoint allows",
-      "published": "Tue, 26 May 2026 17:19:53 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -325,6 +319,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Latin American Cybercriminals Hoover Up Government Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data",
+      "summary": "A purported leak exposing 5.8 million records of Uruguayan citizens is the latest incident where cybercriminals targeted government agencies to monetize citizen data.",
+      "published": "Wed, 27 May 2026 16:19:03 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI-Assisted Exploit Development Outpaces Scanner Detection",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection",
+      "summary": "Attackers are using AI to dramatically reduce the time they need to develop a working exploit for a CVE, according to new research.",
+      "published": "Wed, 27 May 2026 16:11:19 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
       "link": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
       "summary": "The cybersecurity industry of 2006 barely resembled today's billion-dollar behemoth. As part of Dark Reading's 20th anniversary celebration, we trace the industry's evolution through a technology lens.",
@@ -382,20 +398,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading",
-      "link": "https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading",
-      "summary": "The co-founder and former editor-in-chief passed away five years ago in November. As Dark Reading enters its third decade, we pause to celebrate and honor Wilson's instrumental role in building and elevating the media site.",
-      "published": "Tue, 26 May 2026 12:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers",
-      "link": "https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers",
-      "summary": "When Akamai announced its LayerX acquisition, the company joined a growing list of vendors adding secure enterprise browsers to their product portfolios.",
-      "published": "Fri, 22 May 2026 15:43:50 GMT",
+      "source": "Security Week",
+      "title": "UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia",
+      "link": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
+      "summary": "The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war. The post UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 17:32:14 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -463,17 +470,6 @@
       "published": "Wed, 27 May 2026 10:15:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "GlassWorm Botnet Disrupted",
-      "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
-      "summary": "Security firms took down all four command-and-control (C&C) channels used by the GlassWorm malware. The post GlassWorm Botnet Disrupted appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 10:10:00 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
     },
     {
       "source": "Threatpost",
@@ -560,6 +556,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspecified Vulnerability CVE-2026-48027 Nx Console Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22",
+      "published": "Wed, 27 May 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Eppendorf BioFlo 320",
       "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppendorf Eppendorf BioFlo 320 Use of Hard-coded Password Background Critical Infrastructure Sectors: Healthcare and Public Health Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany ",
@@ -643,18 +654,6 @@
       "title": "ABB Terra AC",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
       "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the flash memory to alter the firmware behavior. The following versions of ABB Terra AC are affected: Terra AC wallbox (UL40/80A) <=1.8.32, 1.8.33 Terra AC wallbox (UL32A) <=1.8.2, 1.8.34 Terra AC wallbo",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB AbilityTM Zenon Remote Transport Vulnerability",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. The vulnerability enables unauthorized access to the Reboot OS function within the Remote Transport Service, allowing an attacker to trigger a system reboot without the required authentication. This functionality initiates a system reboot on the target machine. However, remote exploitation of this vulnerability is not feasible unless the attacker has already gained access to the network ",
       "published": "Tue, 26 May 26 12:00:00 +0000",
       "value_score": 41,
       "value_signals": [

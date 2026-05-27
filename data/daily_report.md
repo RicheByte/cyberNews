@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-27 02:53 UTC  
+> **Last Updated:** 2026-05-27 07:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **docker images docksec** • **185 000 people** • **ac500 v2 listed** • **cybercrime group defaced** • **abb ac500 v2** • **twitter whistleblower complaint** • **recommends remediation steps** • **latest software version** • **already gained access** • **service ddos attacks** • **sprawling phishing campaign** • **abb terra ac** • **abb lvs mconfig** • **600 000 entries** • **183 000 people** • **sessions available register** • **wire fraud conspiracy** • **vendors betting big** • **vendor breaches persist**
+**185 000 people** • **ac500 v2 listed** • **sprawling phishing campaign** • **cybercrime group defaced** • **abb ac500 v2** • **twitter whistleblower complaint** • **remote code execution** • **recommends remediation steps** • **latest software version** • **find weak spots** • **already gained access** • **183 000 people** • **service ddos attacks** • **abb terra ac** • **abb lvs mconfig** • **sessions available register** • **ai tools interact** • **sql injection vulnerability** • **internally discovered vulnerability** • **wire fraud conspiracy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
 - [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
 - [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
 - [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
@@ -23,7 +24,6 @@
 - [CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks](https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html)
 - [Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning](https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html)
 - [KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike](https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html)
-- [⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos](https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/)
+- [Anthropic Releases New Claude Sandbox, Security Guidance Plugin](https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/)
 - [AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security](https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/)
 - [Iranian APT Targets Aviation, Software Companies With Updated Tools](https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/)
 - [185,000 Likely Impacted by 7-Eleven Data Breach](https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/)
 - [Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations](https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/)
 - [Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment](https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/)
 - [Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available](https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/)
-- [Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images](https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/)
-- [Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries](https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/)
 
 ### Threatpost
 

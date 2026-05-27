@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1729,
+      "count": 1730,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -712,7 +712,7 @@
       ]
     },
     "remote code execution": {
-      "count": 419,
+      "count": 420,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1724,7 +1724,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 395,
+      "count": 396,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6407,7 +6407,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -8066,7 +8066,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -13276,11 +13276,12 @@
       ]
     },
     "sql injection vulnerability": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-14",
         "2026-04-15",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-05-27"
       ]
     },
     "high impact vulnerabilities": {
@@ -15823,7 +15824,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17313,7 +17314,7 @@
       ]
     },
     "185 000 people": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17333,7 +17334,7 @@
       ]
     },
     "recommends remediation steps": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17347,14 +17348,14 @@
       ]
     },
     "183 000 people": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "sessions available register": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17367,7 +17368,7 @@
       ]
     },
     "ac500 v2 listed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17380,53 +17381,60 @@
       ]
     },
     "abb ac500 v2": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "already gained access": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "latest software version": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "abb terra ac": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "abb lvs mconfig": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-26",
+        "2026-05-27"
+      ]
+    },
+    "find weak spots": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "ai tools interact": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "internally discovered vulnerability": {
+      "count": 1,
+      "dates": [
         "2026-05-27"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-15 02:41",
-      "articles": 56,
-      "top_keywords": [
-        "mythos proves potent",
-        "remote code execution",
-        "aggravated identity theft",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-15 06:51",
       "articles": 56,
@@ -18514,6 +18522,17 @@
         "185 000 people",
         "ac500 v2 listed",
         "cybercrime group defaced"
+      ]
+    },
+    {
+      "timestamp": "2026-05-27 07:58",
+      "articles": 56,
+      "top_keywords": [
+        "185 000 people",
+        "ac500 v2 listed",
+        "sprawling phishing campaign",
+        "cybercrime group defaced",
+        "abb ac500 v2"
       ]
     }
   ]

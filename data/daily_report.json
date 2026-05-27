@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-27 02:53",
+  "last_updated": "2026-05-27 07:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
-    "docker images docksec",
     "185 000 people",
     "ac500 v2 listed",
+    "sprawling phishing campaign",
     "cybercrime group defaced",
     "abb ac500 v2",
     "twitter whistleblower complaint",
+    "remote code execution",
     "recommends remediation steps",
     "latest software version",
+    "find weak spots",
     "already gained access",
+    "183 000 people",
     "service ddos attacks",
-    "sprawling phishing campaign",
     "abb terra ac",
     "abb lvs mconfig",
-    "600 000 entries",
-    "183 000 people",
     "sessions available register",
-    "wire fraud conspiracy",
-    "vendors betting big",
-    "vendor breaches persist"
+    "ai tools interact",
+    "sql injection vulnerability",
+    "internally discovered vulnerability",
+    "wire fraud conspiracy"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 419
-    },
-    {
-      "keyword": "docker images docksec",
-      "mentions": 5
-    },
-    {
       "keyword": "185 000 people",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "ac500 v2 listed",
-      "mentions": 4
-    },
-    {
-      "keyword": "cybercrime group defaced",
-      "mentions": 64
-    },
-    {
-      "keyword": "abb ac500 v2",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1729
-    },
-    {
-      "keyword": "recommends remediation steps",
       "mentions": 5
     },
     {
-      "keyword": "latest software version",
-      "mentions": 4
+      "keyword": "sprawling phishing campaign",
+      "mentions": 396
     },
     {
-      "keyword": "already gained access",
-      "mentions": 4
+      "keyword": "cybercrime group defaced",
+      "mentions": 65
+    },
+    {
+      "keyword": "abb ac500 v2",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1730
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 420
+    },
+    {
+      "keyword": "recommends remediation steps",
+      "mentions": 6
+    },
+    {
+      "keyword": "latest software version",
+      "mentions": 5
+    },
+    {
+      "keyword": "find weak spots",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
+      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
+      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
+      "published": "Wed, 27 May 2026 13:15:52 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries",
@@ -145,17 +154,6 @@
         "CVE mentioned",
         "Zero-day",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-flaws-defender-0.html",
-      "summary": "Monday recap. Same mess, new week. A sketchy dev tool got people pwned, old bugs came back from the dead, and security products somehow needed protecting from themselves. A bunch of companies spent the week checking old boxes and forgotten servers they should've patched years ago. Good times. Phishing crews are getting smarter too - less obvious scam junk, more targeted stuff that actually",
-      "published": "Mon, 25 May 2026 19:43:27 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -412,6 +410,29 @@
     },
     {
       "source": "Security Week",
+      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
+      "summary": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges. The post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 06:55:44 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×3",
+        "Active exploitation",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
+      "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
+      "summary": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally. The post Anthropic Releases New Claude Sandbox, Security Guidance Plugin appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 06:43:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
       "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
       "summary": "Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action. The post AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security appeared first on SecurityWeek .",
@@ -469,26 +490,6 @@
       "published": "Tue, 26 May 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images",
-      "link": "https://www.securityweek.com/open-source-docksec-uses-ai-to-cut-through-vulnerability-noise-in-docker-images/",
-      "summary": "DockSec, an OWASP incubator project, correlates findings from multiple container security scanners and uses AI to generate plain-English remediation guidance and exact Dockerfile fixes. The post Open Source DockSec Uses AI to Cut Through Vulnerability Noise in Docker Images appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 10:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries",
-      "link": "https://www.securityweek.com/lithuania-suspects-foreign-involvement-in-data-leak-of-over-600000-national-register-entries/",
-      "summary": "Lithuanian authorities are on high alert after a massive data leak involving more than 600,000 entries from national data registers. The post Lithuania Suspects Foreign Involvement in Data Leak of Over 600,000 National Register Entries appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 10:26:56 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
     },
     {
       "source": "Threatpost",

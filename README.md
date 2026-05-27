@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-27 07:58 UTC |
+| 🕐 Last Updated | 2026-05-27 15:25 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`185 000 people` • `ac500 v2 listed` • `sprawling phishing campaign` • `cybercrime group defaced` • `abb ac500 v2` • `twitter whistleblower complaint` • `remote code execution` • `recommends remediation steps` • `latest software version` • `find weak spots`
+`romanian hacker sentenced` • `aggravated identity theft` • `attacks without requiring` • `agentic ai strategy` • `cybercrime group defaced` • `system reboot without` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `activity targeted industrial` • `specops software explains`
 
 ## 📄 Reports
 

@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1730,
+      "count": 1731,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -952,10 +952,11 @@
       ]
     },
     "specops software explains": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2025-12-19",
-        "2026-02-23"
+        "2026-02-23",
+        "2026-05-27"
       ]
     },
     "software backdoor implanted": {
@@ -1724,7 +1725,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 396,
+      "count": 397,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -13986,7 +13987,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -14012,7 +14013,8 @@
         "2026-05-17",
         "2026-05-18",
         "2026-05-19",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-05-27"
       ]
     },
     "prompts land cleanly": {
@@ -15824,7 +15826,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17211,12 +17213,13 @@
       ]
     },
     "deploys software internally": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-23",
         "2026-05-24",
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-05-27"
       ]
     },
     "public github account": {
@@ -17368,7 +17371,7 @@
       ]
     },
     "ac500 v2 listed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17388,21 +17391,21 @@
       ]
     },
     "already gained access": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "latest software version": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
       ]
     },
     "abb terra ac": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-26",
         "2026-05-27"
@@ -17432,20 +17435,69 @@
       "dates": [
         "2026-05-27"
       ]
+    },
+    "romanian hacker sentenced": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "attacks without requiring": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "agentic ai strategy": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "system reboot without": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "activity targeted industrial": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "self service resets": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "deploying malicious code": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "performance improvements microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "however remote exploitation": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
+    },
+    "ai risk summit": {
+      "count": 1,
+      "dates": [
+        "2026-05-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-15 06:51",
-      "articles": 56,
-      "top_keywords": [
-        "mythos proves potent",
-        "third party ecosystems",
-        "remote code execution",
-        "cve 2026 20182",
-        "aggravated identity theft"
-      ]
-    },
     {
       "timestamp": "2026-05-15 10:17",
       "articles": 56,
@@ -18533,6 +18585,17 @@
         "sprawling phishing campaign",
         "cybercrime group defaced",
         "abb ac500 v2"
+      ]
+    },
+    {
+      "timestamp": "2026-05-27 15:25",
+      "articles": 56,
+      "top_keywords": [
+        "romanian hacker sentenced",
+        "aggravated identity theft",
+        "attacks without requiring",
+        "agentic ai strategy",
+        "cybercrime group defaced"
       ]
     }
   ]

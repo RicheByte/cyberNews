@@ -1,72 +1,110 @@
 {
-  "last_updated": "2026-05-27 07:58",
+  "last_updated": "2026-05-27 15:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "185 000 people",
-    "ac500 v2 listed",
-    "sprawling phishing campaign",
+    "romanian hacker sentenced",
+    "aggravated identity theft",
+    "attacks without requiring",
+    "agentic ai strategy",
     "cybercrime group defaced",
-    "abb ac500 v2",
+    "system reboot without",
     "twitter whistleblower complaint",
-    "remote code execution",
-    "recommends remediation steps",
+    "sprawling phishing campaign",
+    "activity targeted industrial",
+    "specops software explains",
     "latest software version",
-    "find weak spots",
+    "deploys software internally",
+    "self service resets",
+    "deploying malicious code",
     "already gained access",
-    "183 000 people",
-    "service ddos attacks",
-    "abb terra ac",
-    "abb lvs mconfig",
-    "sessions available register",
-    "ai tools interact",
-    "sql injection vulnerability",
-    "internally discovered vulnerability",
-    "wire fraud conspiracy"
+    "ac500 v2 listed",
+    "performance improvements microsoft",
+    "however remote exploitation",
+    "ai risk summit",
+    "abb terra ac"
   ],
   "trending": [
     {
-      "keyword": "185 000 people",
-      "mentions": 7
+      "keyword": "romanian hacker sentenced",
+      "mentions": 1
     },
     {
-      "keyword": "ac500 v2 listed",
-      "mentions": 5
+      "keyword": "aggravated identity theft",
+      "mentions": 178
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 396
+      "keyword": "attacks without requiring",
+      "mentions": 1
+    },
+    {
+      "keyword": "agentic ai strategy",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime group defaced",
-      "mentions": 65
+      "mentions": 66
     },
     {
-      "keyword": "abb ac500 v2",
-      "mentions": 5
+      "keyword": "system reboot without",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1730
+      "mentions": 1731
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 420
+      "keyword": "sprawling phishing campaign",
+      "mentions": 397
     },
     {
-      "keyword": "recommends remediation steps",
-      "mentions": 6
-    },
-    {
-      "keyword": "latest software version",
-      "mentions": 5
-    },
-    {
-      "keyword": "find weak spots",
+      "keyword": "activity targeted industrial",
       "mentions": 1
+    },
+    {
+      "keyword": "specops software explains",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
+      "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
+      "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Across most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects",
+      "published": "Wed, 27 May 2026 18:58:48 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
+      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
+      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
+      "published": "Wed, 27 May 2026 17:18:37 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "3 SOC Steps that Shut Down Incident Risks Early",
+      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
+      "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an \"incident.\" That changes the role of the SOC entirely. The",
+      "published": "Wed, 27 May 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
+      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
+      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2",
+      "published": "Wed, 27 May 2026 15:36:32 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
@@ -110,50 +148,67 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "MFA Prompt Bombing: Why Your Second Factor Isn't Saving You",
-      "link": "https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html",
-      "summary": "Multi-factor authentication (MFA) was supposed to close a critical gap in identity security. It meant that, even if an attacker possessed the account credentials, they couldn't log in without the second factor. While that logic was sound, attackers have now figured out that they don't need to steal the second factor: they just need the user to hand it over. If your workforce authenticates with",
-      "published": "Tue, 26 May 2026 16:00:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
+      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
+      "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
+      "published": "Wed, 27 May 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
+      "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
+      "published": "Wed, 27 May 2026 09:28:42 -0400",
+      "value_score": 30,
       "value_signals": [
-        "High severity"
+        "Botnet ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "summary": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
-      "published": "Tue, 26 May 2026 14:43:02 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI warns of in-person data theft attacks from extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
+      "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
+      "published": "Wed, 27 May 2026 07:51:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
+      "published": "Wed, 27 May 2026 06:06:17 -0400",
+      "value_score": 97,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Dutch police arrests suspect linked to Ajax football club hack",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
+      "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
+      "published": "Wed, 27 May 2026 05:09:03 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5089573 update released with performance improvements",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/",
+      "summary": "Microsoft has released the KB5089573 preview cumulative update for Windows 11 versions 25H2 and 24H2, which comes with 30 changes, including performance and reliability improvements. [...]",
+      "published": "Wed, 27 May 2026 04:33:46 -0400",
       "value_score": 26,
       "value_signals": [
-        "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning",
-      "link": "https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html",
-      "summary": "The Iranian state-sponsored threat actor known as Nimbus Manticore (aka Screening Serpens and UNC1549) has been attributed to a fresh campaign using lures impersonating organizations in the aviation and software sectors across the U.S., Europe, and the Middle East following the joint U.S.-Israeli military campaign against the country in late February 2026. The activity, besides embracing",
-      "published": "Tue, 26 May 2026 12:43:05 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike",
-      "link": "https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html",
-      "summary": "A now-patched high-severity security flaw affecting Digital Knowledge KnowledgeDeliver, a Learning Management System (LMS) popular in Japan, was exploited as a zero-day to deliver the Godzilla web shell and ultimately facilitate the deployment of Cobalt Strike Beacon. The vulnerability, tracked as CVE-2026-5426 (CVSS score: 7.5), stems from the use of hard-coded ASP.NET machine keys, leading to",
-      "published": "Tue, 26 May 2026 10:49:38 +0530",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
+        "Patch/update ×2"
       ]
     },
     {
@@ -178,69 +233,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How Varonis Atlas integrates Claude Compliance API for AI governance",
-      "link": "https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/",
-      "summary": "AI governance requires visibility into how AI tools interact with enterprise data. Varonis explains how its Atlas platform uses Claude Compliance API data to help monitor usage, investigate risk, and support compliance. [...]",
-      "published": "Tue, 26 May 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Defender can now automatically isolate hacked endpoints",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/",
-      "summary": "Microsoft is testing a new Defender for Endpoint capability that will automatically isolate compromised endpoints to thwart attackers' attempts to move laterally across the network. [...]",
-      "published": "Tue, 26 May 2026 08:19:43 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Too many tools are slowing network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/",
-      "summary": "IT teams often need to jump between monitoring dashboards, infrastructure tools, ticketing systems, and communication platforms during network incidents. This webinar explores how automation and AI-assisted workflows can help reduce manual coordination and improve incident response times. [...]",
-      "published": "Tue, 26 May 2026 08:16:24 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch actively exploited Drupal vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/",
-      "summary": "CISA has given U.S. government agencies until Wednesday evening to secure their servers against an SQL injection vulnerability in the Drupal content management system (CMS) that it flagged as actively exploited. [...]",
-      "published": "Tue, 26 May 2026 04:46:45 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Domain Controller lookup may fail on Windows Server 2016",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/",
-      "summary": "Microsoft has confirmed a new known issue affecting Windows Server 2016 systems that causes domain controller lookups to fail after installing the KB5087537 May 2026 security update. [...]",
-      "published": "Tue, 26 May 2026 03:41:25 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "7-Eleven data breach exposes personal information of 185,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/",
-      "summary": "The ShinyHunters extortion gang stole the personal information of over 183,000 people after hacking the systems of convenience store chain giant 7-Eleven in April, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "Tue, 26 May 2026 03:01:12 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -333,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
+      "summary": "The cybersecurity industry of 2006 barely resembled today's billion-dollar behemoth. As part of Dark Reading's 20th anniversary celebration, we trace the industry's evolution through a technology lens.",
+      "published": "Wed, 27 May 2026 12:11:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
       "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
       "summary": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
@@ -342,10 +343,30 @@
     },
     {
       "source": "Dark Reading",
-      "title": "The Hackers Behind Shai-Hulud: Lucky or Skilled?",
+      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
+      "link": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
+      "summary": "A recent congressional hearing highlighted how states are reeling from federal cutbacks to important cyber grants and information sharing initiatives amid damaging attacks to critical infrastructure.",
+      "published": "Tue, 26 May 2026 19:29:56 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Shai-Hulud Hackers TeamPCP: Lucky or Skilled?",
       "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "summary": "TeamPCP, the hackers behind the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
+      "summary": "TeamPCP, the cybercrime group behind later waves of the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
       "published": "Tue, 26 May 2026 19:18:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge",
+      "link": "https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge",
+      "summary": "Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
+      "published": "Tue, 26 May 2026 19:12:52 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -379,117 +400,80 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks",
-      "link": "https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks",
-      "summary": "Ransomware and vendor breaches persist. The \"2026 Data Breach Investigations Report\" (DBIR) highlights how evolving social engineering tactics make the sector more vulnerable.",
-      "published": "Fri, 22 May 2026 13:17:25 GMT",
-      "value_score": 40,
+      "source": "Security Week",
+      "title": "Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate",
+      "link": "https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/",
+      "summary": "Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx. The post Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
+      "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
+      "summary": "Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals. The post SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
+      "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
+      "summary": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries. The post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 11:52:55 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
+      "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
+      "summary": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network. The post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 11:37:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform",
+      "link": "https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/",
+      "summary": "The new funding, led by BDC Capital’s StrongNorth Fund, will accelerate Lastwall’s North American expansion. The post Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 11:01:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "The Credential Crisis: How Stolen Credentials Defeat Modern Security",
+      "link": "https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/",
+      "summary": "As AI accelerates phishing, session hijacking, and credential abuse, security teams are racing to close the gap between attacker speed and defensive response. The post The Credential Crisis: How Stolen Credentials Defeat Modern Security appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 10:30:00 +0000",
+      "value_score": 18,
       "value_signals": [
-        "Ransomware",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments",
-      "link": "https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs",
-      "summary": "The advanced persistent threat group also relied on SOCKS proxies like SoftEther VPN, tunneling tools that act as a middleman between victim and attacker.",
-      "published": "Fri, 22 May 2026 07:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Google API Keys Remain Active After Deletion",
-      "link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
-      "summary": "A security researcher discovered the API keys can still be used for up to 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
-      "published": "Thu, 21 May 2026 20:07:47 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/",
-      "summary": "Resolved last week, the vulnerability was exploited in the wild as a zero-day to execute scripts with root privileges. The post CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 06:55:44 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×3",
-        "Active exploitation",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Releases New Claude Sandbox, Security Guidance Plugin",
-      "link": "https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/",
-      "summary": "The AI giant says the new plugin, which helps developers find vulnerabilities as they write code, has been used extensively internally. The post Anthropic Releases New Claude Sandbox, Security Guidance Plugin appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 06:43:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security",
-      "link": "https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/",
-      "summary": "Marlin AI automatically analyzes SaaS misconfigurations, investigates related activity across enterprise environments, and recommends remediation steps — while stopping short of fully autonomous corrective action. The post AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Iranian APT Targets Aviation, Software Companies With Updated Tools",
-      "link": "https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/",
-      "summary": "Nimbus Manticore has continued its operations during and after the US military campaign against Iran. The post Iranian APT Targets Aviation, Software Companies With Updated Tools appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 13:26:17 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "185,000 Likely Impacted by 7-Eleven Data Breach",
-      "link": "https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/",
-      "summary": "The allegedly stolen information leaked by ShinyHunters contains email addresses, names, addresses, and dates of birth. The post 185,000 Likely Impacted by 7-Eleven Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 11:59:40 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
+        "Phishing"
       ]
     },
     {
       "source": "Security Week",
-      "title": "Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations",
-      "link": "https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/",
-      "summary": "Notable integrations include CrowdStrike, Palo Alto Networks, Microsoft, Okta, Zscaler, Netskope, Cloudflare, Fortinet, and Wiz. The post Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 11:44:53 +0000",
+      "title": "‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems",
+      "link": "https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/",
+      "summary": "Malicious repositories and disguised symlinks can trick AI coding agents into silently installing attacker-controlled MCP servers capable of stealing secrets, compromising CI pipelines, and deploying malicious code. The post ‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 10:15:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment",
-      "link": "https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/",
-      "summary": "Hardcoded machineKey values in a configuration file enabled ViewState deserialization attacks leading to remote code execution. The post Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 11:14:31 +0000",
-      "value_score": 86,
+      "title": "GlassWorm Botnet Disrupted",
+      "link": "https://www.securityweek.com/glassworm-botnet-disrupted/",
+      "summary": "Security firms took down all four command-and-control (C&C) channels used by the GlassWorm malware. The post GlassWorm Botnet Disrupted appeared first on SecurityWeek .",
+      "published": "Wed, 27 May 2026 10:10:00 +0000",
+      "value_score": 30,
       "value_signals": [
-        "Zero-day ×2",
-        "RCE",
-        "Exploit wording"
+        "Botnet ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available",
-      "link": "https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/",
-      "summary": "Register to enjoy free access and explore the tools, strategies, and frameworks needed to build a resilient security program for a world where every minute counts. The post Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available appeared first on SecurityWeek .",
-      "published": "Tue, 26 May 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

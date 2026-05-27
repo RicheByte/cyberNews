@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-27 07:58 UTC  
+> **Last Updated:** 2026-05-27 15:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**185 000 people** • **ac500 v2 listed** • **sprawling phishing campaign** • **cybercrime group defaced** • **abb ac500 v2** • **twitter whistleblower complaint** • **remote code execution** • **recommends remediation steps** • **latest software version** • **find weak spots** • **already gained access** • **183 000 people** • **service ddos attacks** • **abb terra ac** • **abb lvs mconfig** • **sessions available register** • **ai tools interact** • **sql injection vulnerability** • **internally discovered vulnerability** • **wire fraud conspiracy**
+**romanian hacker sentenced** • **aggravated identity theft** • **attacks without requiring** • **agentic ai strategy** • **cybercrime group defaced** • **system reboot without** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **activity targeted industrial** • **specops software explains** • **latest software version** • **deploys software internally** • **self service resets** • **deploying malicious code** • **already gained access** • **ac500 v2 listed** • **performance improvements microsoft** • **however remote exploitation** • **ai risk summit** • **abb terra ac**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
+- [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
+- [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
+- [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
 - [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
 - [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
 - [[THN Webinar] New AI DDoS Attacks Are Smarter. Learn How to Fight Back](https://thehackernews.com/2026/05/new-ai-ddos-attacks-are-smarter-learn.html)
 - [Microsoft Patches SharePoint RCE Flaw CVE-2026-45659 Across Server Versions](https://thehackernews.com/2026/05/microsoft-patches-sharepoint-rce-flaw.html)
-- [MFA Prompt Bombing: Why Your Second Factor Isn't Saving You](https://thehackernews.com/2026/05/mfa-prompt-bombing-why-your-second.html)
-- [CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks](https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html)
-- [Iranian Hackers Deploy MiniFast and MiniJunk V2 via Phishing and SEO Poisoning](https://thehackernews.com/2026/05/iranian-hackers-deploy-minifast-and.html)
-- [KnowledgeDeliver LMS Flaw Exploited to Deploy Godzilla and Cobalt Strike](https://thehackernews.com/2026/05/knowledgedeliver-lms-flaw-exploited-to.html)
 
 ### BleepingComputer
 
+- [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
+- [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
+- [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
+- [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
+- [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
+- [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
 - [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
 - [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
-- [How Varonis Atlas integrates Claude Compliance API for AI governance](https://www.bleepingcomputer.com/news/security/how-varonis-atlas-integrates-claude-compliance-api-for-ai-governance/)
-- [Microsoft Defender can now automatically isolate hacked endpoints](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-can-now-automatically-isolate-hacked-endpoints/)
-- [Webinar: Too many tools are slowing network incident response](https://www.bleepingcomputer.com/news/security/webinar-too-many-tools-are-slowing-network-incident-response/)
-- [CISA orders feds to patch actively exploited Drupal vulnerability](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-drupal-vulnerability/)
-- [Microsoft: Domain Controller lookup may fail on Windows Server 2016](https://www.bleepingcomputer.com/news/microsoft/microsoft-domain-controller-lookup-may-fail-on-windows-server-2016/)
-- [7-Eleven data breach exposes personal information of 185,000 people](https://www.bleepingcomputer.com/news/security/7-eleven-data-breach-exposes-personal-information-of-185-000-people/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security](https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security)
 - [Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos](https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos)
-- [The Hackers Behind Shai-Hulud: Lucky or Skilled?](https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled)
+- [State Cyber Leaders Beg Congress for More Funding, Support](https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding)
+- [Shai-Hulud Hackers TeamPCP: Lucky or Skilled?](https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled)
+- [For Enterprises, Security Remains Agentic AI's Biggest Challenge](https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge)
 - [Microsoft Issues Out-of-Band SharePoint Patch](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch)
 - [Remembering Tim Wilson, Whose Legacy Lives on at Dark Reading](https://www.darkreading.com/cybersecurity-operations/remembering-tim-wilson-legacy-dark-reading)
 - [Akamai Joins Growing Chorus of Vendors Betting Big on Secure Enterprise Browsers](https://www.darkreading.com/remote-workforce/akamai-growing-chorus-betting-on-secure-enterprise-browsers)
-- [Verizon DBIR: Healthcare Fends Off Increased Social Engineering Attacks](https://www.darkreading.com/cyber-risk/verizon-dbir-healthcare-fends-off-increased-social-engineering-attacks)
-- [China's Webworm Uses Discord, Microsoft Graphs to Hack EU Governments](https://www.darkreading.com/endpoint-security/chinas-webworm-discord-microsoft-graphs)
-- [Google API Keys Remain Active After Deletion](https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion)
 
 ### Security Week
 
-- [CISA Urges Immediate Patching of Exploited LiteSpeed cPanel Plugin Zero-Day](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-litespeed-cpanel-plugin-zero-day/)
-- [Anthropic Releases New Claude Sandbox, Security Guidance Plugin](https://www.securityweek.com/anthropic-releases-new-claude-sandbox-security-guidance-plugin/)
-- [AppOmni’s Marlin AI Brings Autonomous Investigation to SaaS Security](https://www.securityweek.com/appomnis-marlin-ai-brings-autonomous-investigation-to-saas-security/)
-- [Iranian APT Targets Aviation, Software Companies With Updated Tools](https://www.securityweek.com/iranian-apt-targets-aviation-software-companies-with-updated-tools/)
-- [185,000 Likely Impacted by 7-Eleven Data Breach](https://www.securityweek.com/185000-likely-impacted-by-7-eleven-data-breach/)
-- [Anthropic Expands Claude’s Enterprise Security Governance With 28 New Integrations](https://www.securityweek.com/anthropic-expands-claudes-enterprise-security-reach-with-28-new-integrations/)
-- [Hackers Exploited KnowledgeDeliver Zero-Day for Web Shell Deployment](https://www.securityweek.com/hackers-exploited-knowledgedeliver-zero-day-for-web-shell-deployment/)
-- [Watch on Demand: Threat Detection & Incident Response Summit – All Sessions Available](https://www.securityweek.com/watch-on-demand-threat-detection-incident-response-summit-all-sessions-available/)
+- [Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate](https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/)
+- [SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay](https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/)
+- [RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries](https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/)
+- [Romanian Hacker Sentenced to Prison in US for Selling Access to State Network](https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/)
+- [Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform](https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/)
+- [The Credential Crisis: How Stolen Credentials Defeat Modern Security](https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/)
+- [‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems](https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/)
+- [GlassWorm Botnet Disrupted](https://www.securityweek.com/glassworm-botnet-disrupted/)
 
 ### Threatpost
 

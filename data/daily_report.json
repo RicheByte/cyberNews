@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-27 18:21",
+  "last_updated": "2026-05-27 21:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "romanian hacker sentenced",
     "aggravated identity theft",
     "agentic ai strategy",
-    "cybercrime group defaced",
-    "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "kingdom something attackers",
+    "twitter whistleblower complaint",
+    "targeting law firms",
     "information stealing capabilities",
+    "cybercrime group defaced",
     "specops software explains",
     "deploys software internally",
     "deploying malicious code",
+    "performance improvements microsoft",
+    "high performance computers",
     "ac500 v2 listed",
     "activity targeted industrial",
     "ai risk summit",
     "abb terra ac",
     "abb lvs mconfig",
     "abb ac500 v2",
-    "national security risk",
-    "wire fraud conspiracy",
-    "threat hunter team"
+    "active cryptojacking campaign"
   ],
   "trending": [
     {
       "keyword": "romanian hacker sentenced",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 179
+      "mentions": 180
     },
     {
       "keyword": "agentic ai strategy",
-      "mentions": 2
-    },
-    {
-      "keyword": "cybercrime group defaced",
-      "mentions": 67
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1732
+      "mentions": 3
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 398
+      "mentions": 399
     },
     {
-      "keyword": "kingdom something attackers",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1733
+    },
+    {
+      "keyword": "targeting law firms",
       "mentions": 1
     },
     {
       "keyword": "information stealing capabilities",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "cybercrime group defaced",
+      "mentions": 68
     },
     {
       "keyword": "specops software explains",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "deploys software internally",
-      "mentions": 26
+      "mentions": 27
     }
   ],
   "articles": [
@@ -143,6 +143,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "summary": "Threat actors are targeting systems with high-performance computers in an ongoing cryptojacking campaign spread through a coordinated SEO poisoning operation that also manipulated AI chatbot recommendations. [...]",
+      "published": "Wed, 27 May 2026 17:31:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Can you enforce strong Active Directory password rules without frustrating users?",
       "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
       "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
@@ -216,17 +225,6 @@
         "Zero-day ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Charter confirms data breach after ShinyHunters extortion threat",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
-      "summary": "U.S. telecommunications giant Charter Communications has confirmed it suffered a data breach after the ShinyHunters extortion group threatened to leak stolen data unless a ransom is paid. [...]",
-      "published": "Tue, 26 May 2026 15:46:01 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {
@@ -319,6 +317,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
+      "summary": "The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and socially engineering its way into servers and databases.",
+      "published": "Wed, 27 May 2026 20:38:01 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Latin American Cybercriminals Hoover Up Government Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data",
       "summary": "A purported leak exposing 5.8 million records of Uruguayan citizens is the latest incident where cybercriminals targeted government agencies to monetize citizen data.",
@@ -385,17 +394,6 @@
       "published": "Tue, 26 May 2026 19:12:52 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Microsoft Issues Out-of-Band SharePoint Patch",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch",
-      "summary": "SharePoint access often means access to the keys of the kingdom, something attackers and defenders understand all too well.",
-      "published": "Tue, 26 May 2026 18:25:44 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",

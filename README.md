@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-27 18:21 UTC |
+| 🕐 Last Updated | 2026-05-27 21:49 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`romanian hacker sentenced` • `aggravated identity theft` • `agentic ai strategy` • `cybercrime group defaced` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `kingdom something attackers` • `information stealing capabilities` • `specops software explains` • `deploys software internally`
+`romanian hacker sentenced` • `aggravated identity theft` • `agentic ai strategy` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `targeting law firms` • `information stealing capabilities` • `cybercrime group defaced` • `specops software explains` • `deploys software internally`
 
 ## 📄 Reports
 

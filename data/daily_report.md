@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-27 18:21 UTC  
+> **Last Updated:** 2026-05-27 21:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**romanian hacker sentenced** • **aggravated identity theft** • **agentic ai strategy** • **cybercrime group defaced** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **kingdom something attackers** • **information stealing capabilities** • **specops software explains** • **deploys software internally** • **deploying malicious code** • **ac500 v2 listed** • **activity targeted industrial** • **ai risk summit** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **national security risk** • **wire fraud conspiracy** • **threat hunter team**
+**romanian hacker sentenced** • **aggravated identity theft** • **agentic ai strategy** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **targeting law firms** • **information stealing capabilities** • **cybercrime group defaced** • **specops software explains** • **deploys software internally** • **deploying malicious code** • **performance improvements microsoft** • **high performance computers** • **ac500 v2 listed** • **activity targeted industrial** • **ai risk summit** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **active cryptojacking campaign**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [GPU mining malware spreads via SEO poisoning, AI chatbots](https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/)
 - [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
 - [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
 - [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
@@ -34,7 +35,6 @@
 - [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
 - [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
 - [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
-- [Charter confirms data breach after ShinyHunters extortion threat](https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Ransomware Actors Show Up In Person to Steal Law Firm Data](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data)
 - [Latin American Cybercriminals Hoover Up Government Data](https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data)
 - [AI-Assisted Exploit Development Outpaces Scanner Detection](https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection)
 - [Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security](https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security)
@@ -56,7 +57,6 @@
 - [State Cyber Leaders Beg Congress for More Funding, Support](https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding)
 - [Shai-Hulud Hackers TeamPCP: Lucky or Skilled?](https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled)
 - [For Enterprises, Security Remains Agentic AI's Biggest Challenge](https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge)
-- [Microsoft Issues Out-of-Band SharePoint Patch](https://www.darkreading.com/vulnerabilities-threats/microsoft-issues-sharepoint-patch)
 
 ### Security Week
 

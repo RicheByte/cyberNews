@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-05-28 18:32",
+  "last_updated": "2026-05-28 21:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai power users",
     "network video recorder",
     "twitter whistleblower complaint",
-    "threat actors disguised",
-    "sprawling phishing campaign",
-    "internet facing instances",
+    "targeting law firms",
     "information stealing capabilities",
-    "fake recruiter lures",
     "credential stealer payload",
     "aggravated identity theft",
     "275 million students",
     "btmob malware respectively",
+    "threat actors disguised",
     "overall system integrity",
     "cvss scoring system",
     "network incidents take",
+    "cyberattacks influence operations",
+    "aiding cyberattacks authorities",
     "fresh box full",
     "cybercrime group defaced",
-    "agentic era cisos",
-    "supply chain attacks",
-    "enterprise ai risk"
+    "urging immediate patching",
+    "united states today",
+    "ten eleven ventures"
   ],
   "trending": [
     {
       "keyword": "ai power users",
-      "mentions": 2
-    },
-    {
-      "keyword": "network video recorder",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1739
-    },
-    {
-      "keyword": "threat actors disguised",
-      "mentions": 1
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 405
-    },
-    {
-      "keyword": "internet facing instances",
-      "mentions": 2
-    },
-    {
-      "keyword": "information stealing capabilities",
-      "mentions": 8
-    },
-    {
-      "keyword": "fake recruiter lures",
       "mentions": 3
     },
     {
+      "keyword": "network video recorder",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1740
+    },
+    {
+      "keyword": "targeting law firms",
+      "mentions": 6
+    },
+    {
+      "keyword": "information stealing capabilities",
+      "mentions": 9
+    },
+    {
       "keyword": "credential stealer payload",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 186
+      "mentions": 187
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 47
+    },
+    {
+      "keyword": "btmob malware respectively",
+      "mentions": 3
+    },
+    {
+      "keyword": "threat actors disguised",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -149,6 +149,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "BTMOB Android malware service generates custom phishing payloads",
+      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
+      "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
+      "published": "Thu, 28 May 2026 17:10:11 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
+      "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
+      "published": "Thu, 28 May 2026 15:08:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
       "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
@@ -209,24 +229,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sextortionist sentenced to 33 years for targeting 145 children",
-      "link": "https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/",
-      "summary": "A Canadian man was sentenced to 33 years in prison after pleading guilty to targeting more than 145 children across the United States, some as young as 6 years old, in an eight-year-long sextortion scheme. [...]",
-      "published": "Thu, 28 May 2026 05:25:59 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
-      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
-      "summary": "Threat actors are targeting systems with high-performance computers in an ongoing cryptojacking campaign spread through a coordinated SEO poisoning operation that also manipulated AI chatbot recommendations. [...]",
-      "published": "Wed, 27 May 2026 17:31:25 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
+      "link": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
+      "summary": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
+      "published": "Thu, 28 May 2026 19:04:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Name That Toon Contest",
+      "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
+      "summary": "",
+      "published": "2026-06-26T11:00:00.000Z",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is",
       "link": "https://www.darkreading.com/application-security/agentic-ai-risky",
       "summary": "AI agents aren't black boxes — they're models interacting with software tools. The risk lies in their overlap.",
@@ -375,22 +395,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI-Assisted Exploit Development Outpaces Scanner Detection",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection",
-      "summary": "Attackers are using AI to dramatically reduce the time they need to develop a working exploit for a CVE, according to new research.",
-      "published": "Wed, 27 May 2026 16:11:19 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security",
-      "summary": "The cybersecurity industry of 2006 barely resembled today's billion-dollar behemoth. As part of Dark Reading's 20th anniversary celebration, we trace the industry's evolution through a technology lens.",
-      "published": "Wed, 27 May 2026 12:11:30 GMT",
+      "source": "Security Week",
+      "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
+      "link": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
+      "summary": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate. The post Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 18:50:49 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -465,15 +474,6 @@
       "link": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
       "summary": "The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure. The post Gitea Vulnerability Exposed 30,000 Deployments to Attacks appeared first on SecurityWeek .",
       "published": "Thu, 28 May 2026 11:24:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Raising the Cybersecurity Stakes: Ante up for the Agentic Era",
-      "link": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
-      "summary": "CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale. The post Raising the Cybersecurity Stakes: Ante up for the Agentic Era appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 11:15:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -634,6 +634,18 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Supply Chain Compromises Impact Nx Console and GitHub Repositories",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories",
+      "summary": "CISA is prioritizing the response to multiple emerging software supply chain intrusion campaigns targeting developer ecosystems Continuous Integration/Continuous Development (CI/CD) pipelines. These recent incidents, including the GitHub compromise via a malicious Nx Console Visual Studio Code (VS Code) extension and the “Megalodon” supply chain intrusion campaign, demonstrate how cyber threat actors are abusing tools and processes that support enterprise, cloud, and DevOps environments—specific",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 55,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "XCharge C6",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-08",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain administrator rights or execute code on the affected device. The following versions of XCharge C6 are affected: C6 CVSS Vendor Equipment Vulnerabilities v3 9.8 XCharge XCharge C6 Download of Code Without Integrity Check, Stack-based Buffer Overflow, Initialization of a Resource with an Insecure Default Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worl",
@@ -642,19 +654,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "KMW CCTV Security Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416 CVSS Vendor Equipment Vulnerabilities v3 9.1 KMW KMW CCTV Security Cameras Unverified Password Change Background Critical Infrastructure Sectors: Commercial Facilities, Government Services and Facilities, Critical Manufacturing, Financial Serv",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
         "Exploit wording"
       ]
     }

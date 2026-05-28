@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1739,
+      "count": 1740,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2095,7 +2095,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -13995,7 +13995,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15812,7 +15812,7 @@
       ]
     },
     "275 million students": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15836,7 +15836,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15889,7 +15889,7 @@
       ]
     },
     "united states today": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -15902,7 +15902,8 @@
         "2026-05-21",
         "2026-05-22",
         "2026-05-23",
-        "2026-05-24"
+        "2026-05-24",
+        "2026-05-28"
       ]
     },
     "provided fake data": {
@@ -17295,10 +17296,11 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-05-28"
       ]
     },
     "leverage trusted websites": {
@@ -17316,10 +17318,11 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-05-28"
       ]
     },
     "service platform phaas": {
@@ -17526,7 +17529,7 @@
       ]
     },
     "information stealing capabilities": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17539,7 +17542,7 @@
       ]
     },
     "targeting law firms": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17590,7 +17593,7 @@
       ]
     },
     "ai power users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
@@ -17602,49 +17605,49 @@
       ]
     },
     "fresh box full": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "network incidents take": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "btmob malware respectively": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "urging immediate patching": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "network video recorder": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "threat actors disguised": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "credential stealer payload": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "overall system integrity": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
@@ -17660,20 +17663,15 @@
       "dates": [
         "2026-05-28"
       ]
+    },
+    "ten eleven ventures": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 09:25",
-      "articles": 56,
-      "top_keywords": [
-        "third party ecosystems",
-        "custom backdoor kazuar",
-        "remote code execution",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-16 10:58",
       "articles": 56,
@@ -18761,6 +18759,17 @@
         "twitter whistleblower complaint",
         "threat actors disguised",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-05-28 21:51",
+      "articles": 56,
+      "top_keywords": [
+        "ai power users",
+        "network video recorder",
+        "twitter whistleblower complaint",
+        "targeting law firms",
+        "information stealing capabilities"
       ]
     }
   ]

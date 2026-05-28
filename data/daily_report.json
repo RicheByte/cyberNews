@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-05-28 11:33",
+  "last_updated": "2026-05-28 15:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "released software binaries",
+    "ai power users",
     "sprawling phishing campaign",
     "twitter whistleblower complaint",
-    "romanian hacker sentenced",
+    "internet facing instances",
     "information stealing capabilities",
     "fake recruiter lures",
     "aggravated identity theft",
-    "specops software explains",
-    "deploys software internally",
     "ac500 v2 listed",
-    "cybercrime group defaced",
+    "fresh box full",
+    "network incidents take",
+    "deploys software internally",
     "abb terra ac",
     "abb lvs mconfig",
     "abb ac500 v2",
-    "active cryptojacking campaign",
-    "national security risk",
+    "cybercrime group defaced",
+    "btmob malware respectively",
+    "supply chain attacks",
+    "latest software version",
     "wire fraud conspiracy",
-    "targeting law firms",
-    "starts summarizing meetings",
-    "stark industries solutions"
+    "urging immediate patching"
   ],
   "trending": [
     {
-      "keyword": "released software binaries",
+      "keyword": "ai power users",
       "mentions": 1
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 403
+      "mentions": 404
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1737
+      "mentions": 1738
     },
     {
-      "keyword": "romanian hacker sentenced",
-      "mentions": 7
-    },
-    {
-      "keyword": "information stealing capabilities",
-      "mentions": 6
-    },
-    {
-      "keyword": "fake recruiter lures",
+      "keyword": "internet facing instances",
       "mentions": 1
     },
     {
+      "keyword": "information stealing capabilities",
+      "mentions": 7
+    },
+    {
+      "keyword": "fake recruiter lures",
+      "mentions": 2
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 184
-    },
-    {
-      "keyword": "specops software explains",
-      "mentions": 9
-    },
-    {
-      "keyword": "deploys software internally",
-      "mentions": 31
+      "mentions": 185
     },
     {
       "keyword": "ac500 v2 listed",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "fresh box full",
+      "mentions": 1
+    },
+    {
+      "keyword": "network incidents take",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
+      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
+      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
+      "published": "Thu, 28 May 2026 19:23:52 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
+      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
+      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
+      "published": "Thu, 28 May 2026 19:03:16 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
+      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
+      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a",
+      "published": "Thu, 28 May 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
@@ -113,31 +142,41 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "3 SOC Steps that Shut Down Incident Risks Early",
-      "link": "https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html",
-      "summary": "Most organizations still picture cyber defense as a fortress problem: build stronger walls, add more guards, buy another detection engine. But modern incidents rarely crash through the front gate. They drift in disguised as routine activity, hide inside legitimate processes, and quietly accumulate risk long before anyone labels them an \"incident.\" That changes the role of the SOC entirely. The",
-      "published": "Wed, 27 May 2026 17:15:00 +0530",
+      "source": "BleepingComputer",
+      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
+      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
+      "published": "Thu, 28 May 2026 10:25:43 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "RCE ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
+      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
+      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
+      "published": "Thu, 28 May 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
-      "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
-      "published": "Wed, 27 May 2026 15:36:32 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
+      "source": "BleepingComputer",
+      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
+      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
+      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
+      "published": "Thu, 28 May 2026 08:43:29 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites",
-      "link": "https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html",
-      "summary": "Microsoft has warned of an active cryptojacking campaign that makes use of artificial intelligence (AI) chatbot interactions as a mechanism for surfacing malicious download sites. \"This emerging delivery technique extends social engineering beyond conventional search results and increases the visibility of malicious software recommendations,\" Microsoft Defender Experts and the Microsoft",
-      "published": "Wed, 27 May 2026 13:15:52 +0530",
+      "source": "BleepingComputer",
+      "title": "Webinar: Why network incidents take too long to resolve",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
+      "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
+      "published": "Thu, 28 May 2026 08:20:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -176,50 +215,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
       "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
       "published": "Wed, 27 May 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Glassworm botnet disrupted after resilient C2 infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/",
-      "summary": "The Glassworm botnet targeting developers in software supply-chain attacks has been disrupted after researchers took down its resilient command-and-control infrastructure relying on Solana blockchain transactions and the BitTorrent DHT network. [...]",
-      "published": "Wed, 27 May 2026 09:28:42 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns of in-person data theft attacks from extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/",
-      "summary": "The FBI warned on Tuesday that the Silent Ransom Group (SRG) extortion gang is now targeting U.S.-based law firms in in-person data theft attacks. [...]",
-      "published": "Wed, 27 May 2026 07:51:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA gives feds 4 days to patch actively exploited cPanel plugin flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. federal agencies four days to secure their servers against a critical vulnerability in the LiteSpeed cPanel user-end plugin, which is actively being exploited in attacks. [...]",
-      "published": "Wed, 27 May 2026 06:06:17 -0400",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch police arrests suspect linked to Ajax football club hack",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/",
-      "summary": "The Dutch National Police arrested a 35-year-old man suspected of hacking the professional football club Ajax Amsterdam (AFC Ajax) earlier this year. [...]",
-      "published": "Wed, 27 May 2026 05:09:03 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -313,6 +308,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security",
+      "link": "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security",
+      "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how cyber insurance is forcing organizations to quantify risk, what's covered (and what's not), and why this could be the best thing to happen to cybersecurity.",
+      "published": "Thu, 28 May 2026 12:29:58 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model",
+      "summary": "An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
+      "published": "Thu, 28 May 2026 09:06:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
       "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
       "summary": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
@@ -324,7 +337,7 @@
       "source": "Dark Reading",
       "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
-      "summary": "The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and socially engineering its way into servers and databases.",
+      "summary": "The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and social-engineering its way into servers and databases.",
       "published": "Wed, 27 May 2026 20:38:01 GMT",
       "value_score": 28,
       "value_signals": [
@@ -372,22 +385,58 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "State Cyber Leaders Beg Congress for More Funding, Support",
-      "link": "https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding",
-      "summary": "A recent congressional hearing highlighted how states are reeling from federal cutbacks to important cyber grants and information sharing initiatives amid damaging attacks to critical infrastructure.",
-      "published": "Tue, 26 May 2026 19:29:56 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "Carnival Data Breach Exposed 6 Million People",
+      "link": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
+      "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 14:45:28 +0000",
+      "value_score": 34,
       "value_signals": [
-        "High severity"
+        "Breach/leak ×3"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Shai-Hulud Hackers TeamPCP: Lucky or Skilled?",
-      "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
-      "summary": "TeamPCP, the cybercrime group behind later waves of the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
-      "published": "Tue, 26 May 2026 19:18:01 GMT",
+      "source": "Security Week",
+      "title": "New BTMOB Android Malware Enables Full Device Takeover",
+      "link": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
+      "summary": "Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access. The post New BTMOB Android Malware Enables Full Device Takeover appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 13:05:04 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
+      "link": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
+      "summary": "Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching. The post Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 12:55:47 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”",
+      "link": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
+      "summary": "Project Lightwell is designed to fix vulnerabilities without breaking what is already in production. The post IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell” appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 12:41:45 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
+      "link": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
+      "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -415,51 +464,6 @@
       "link": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
       "summary": "New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI. The post Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks appeared first on SecurityWeek .",
       "published": "Thu, 28 May 2026 09:55:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia",
-      "link": "https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/",
-      "summary": "The speech is the latest in a string of warnings from intelligence experts that Russia is stepping up hostile activity in a “gray zone” that falls just below the threshold of war. The post UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 17:32:14 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate",
-      "link": "https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/",
-      "summary": "Novee researchers discovered an account takeover vulnerability in the open source CFP management tool Pretalx. The post Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay",
-      "link": "https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/",
-      "summary": "Now in its third year, the AI Risk Summit is the leading conference that brings together CISOs, security leaders, AI researchers, developers, policymakers, and enterprise risk professionals. The post SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries",
-      "link": "https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/",
-      "summary": "Using an AI model called BinNet, RevEng hunts vulnerabilities and backdoors in released software binaries. The post RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 11:52:55 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Romanian Hacker Sentenced to Prison in US for Selling Access to State Network",
-      "link": "https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/",
-      "summary": "Catalin Dragomir previously pleaded guilty to selling access to an Oregon state government office’s network. The post Romanian Hacker Sentenced to Prison in US for Selling Access to State Network appeared first on SecurityWeek .",
-      "published": "Wed, 27 May 2026 11:37:19 +0000",
       "value_score": 10,
       "value_signals": []
     },

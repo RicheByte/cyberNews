@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-28 11:33 UTC |
+| 🕐 Last Updated | 2026-05-28 15:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`released software binaries` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `romanian hacker sentenced` • `information stealing capabilities` • `fake recruiter lures` • `aggravated identity theft` • `specops software explains` • `deploys software internally` • `ac500 v2 listed`
+`ai power users` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `internet facing instances` • `information stealing capabilities` • `fake recruiter lures` • `aggravated identity theft` • `ac500 v2 listed` • `fresh box full` • `network incidents take`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-28 02:41 UTC  
+> **Last Updated:** 2026-05-28 07:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**romanian hacker sentenced** • **aggravated identity theft** • **agentic ai strategy** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **targeting law firms** • **information stealing capabilities** • **cybercrime group defaced** • **specops software explains** • **deploys software internally** • **deploying malicious code** • **performance improvements microsoft** • **high performance computers** • **ac500 v2 listed** • **activity targeted industrial** • **ai risk summit** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **active cryptojacking campaign**
+**romanian hacker sentenced** • **aggravated identity theft** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **targeting law firms** • **information stealing capabilities** • **cybercrime group defaced** • **specops software explains** • **deploys software internally** • **deploying malicious code** • **performance improvements microsoft** • **high performance computers** • **ac500 v2 listed** • **activity targeted industrial** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **five ai tools** • **ai risk summit** • **active cryptojacking campaign**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Nordic CISOs Handle Rising Cyber Threats Remarkably Well](https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats)
 - [Ransomware Actors Show Up In Person to Steal Law Firm Data](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data)
 - [Latin American Cybercriminals Hoover Up Government Data](https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data)
 - [AI-Assisted Exploit Development Outpaces Scanner Detection](https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection)
@@ -56,7 +57,6 @@
 - [Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos](https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos)
 - [State Cyber Leaders Beg Congress for More Funding, Support](https://www.darkreading.com/threat-intelligence/state-leaders-beg-congress-resume-cyber-funding)
 - [Shai-Hulud Hackers TeamPCP: Lucky or Skilled?](https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled)
-- [For Enterprises, Security Remains Agentic AI's Biggest Challenge](https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge)
 
 ### Security Week
 

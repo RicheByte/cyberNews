@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-05-28 02:41",
+  "last_updated": "2026-05-28 07:52",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "romanian hacker sentenced",
     "aggravated identity theft",
-    "agentic ai strategy",
     "sprawling phishing campaign",
     "twitter whistleblower complaint",
     "targeting law firms",
@@ -18,52 +17,53 @@
     "high performance computers",
     "ac500 v2 listed",
     "activity targeted industrial",
-    "ai risk summit",
     "abb terra ac",
     "abb lvs mconfig",
     "abb ac500 v2",
+    "five ai tools",
+    "ai risk summit",
     "active cryptojacking campaign"
   ],
   "trending": [
     {
       "keyword": "romanian hacker sentenced",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "aggravated identity theft",
-      "mentions": 182
-    },
-    {
-      "keyword": "agentic ai strategy",
-      "mentions": 5
+      "mentions": 183
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 401
+      "mentions": 402
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1735
+      "mentions": 1736
     },
     {
       "keyword": "targeting law firms",
-      "mentions": 3
-    },
-    {
-      "keyword": "information stealing capabilities",
       "mentions": 4
     },
     {
+      "keyword": "information stealing capabilities",
+      "mentions": 5
+    },
+    {
       "keyword": "cybercrime group defaced",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "specops software explains",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "deploys software internally",
-      "mentions": 29
+      "mentions": 30
+    },
+    {
+      "keyword": "deploying malicious code",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -116,7 +116,7 @@
       "source": "The Hacker News",
       "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
       "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2",
+      "summary": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
       "published": "Wed, 27 May 2026 15:36:32 +0530",
       "value_score": 28,
       "value_signals": [
@@ -317,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
+      "summary": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
+      "published": "Thu, 28 May 2026 07:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
       "summary": "The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and socially engineering its way into servers and databases.",
@@ -383,15 +392,6 @@
       "link": "https://www.darkreading.com/application-security/shai-hulud-hackers-teampcp-lucky-skilled",
       "summary": "TeamPCP, the cybercrime group behind later waves of the Shai-Hulud worm, has done significant damage to the open source ecosystem. But it's not necessarily due to skill alone.",
       "published": "Tue, 26 May 2026 19:18:01 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "For Enterprises, Security Remains Agentic AI's Biggest Challenge",
-      "link": "https://www.darkreading.com/application-security/enterprises-agentic-ai-security-biggest-challenge",
-      "summary": "Every company needs an agentic AI strategy, but the tools to allow agentic AI frameworks to be safely and securely adopted are just starting to appear.",
-      "published": "Tue, 26 May 2026 19:12:52 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1735,
+      "count": 1736,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -953,7 +953,7 @@
       ]
     },
     "specops software explains": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2025-12-19",
         "2026-02-23",
@@ -1728,7 +1728,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 401,
+      "count": 402,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -13991,7 +13991,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15831,7 +15831,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17219,7 +17219,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17378,7 +17378,7 @@
       ]
     },
     "ac500 v2 listed": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-26",
         "2026-05-27",
@@ -17392,7 +17392,7 @@
       ]
     },
     "abb ac500 v2": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-26",
         "2026-05-27",
@@ -17414,7 +17414,7 @@
       ]
     },
     "abb terra ac": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-26",
         "2026-05-27",
@@ -17422,7 +17422,7 @@
       ]
     },
     "abb lvs mconfig": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-26",
         "2026-05-27",
@@ -17448,7 +17448,7 @@
       ]
     },
     "romanian hacker sentenced": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17474,7 +17474,7 @@
       ]
     },
     "activity targeted industrial": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17487,14 +17487,14 @@
       ]
     },
     "deploying malicious code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-27",
         "2026-05-28"
       ]
     },
     "performance improvements microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17507,7 +17507,7 @@
       ]
     },
     "ai risk summit": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17520,7 +17520,7 @@
       ]
     },
     "information stealing capabilities": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17533,39 +17533,34 @@
       ]
     },
     "targeting law firms": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-27",
         "2026-05-28"
       ]
     },
     "high performance computers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-27",
         "2026-05-28"
       ]
     },
     "active cryptojacking campaign": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-27",
+        "2026-05-28"
+      ]
+    },
+    "five ai tools": {
+      "count": 1,
+      "dates": [
         "2026-05-28"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-15 20:56",
-      "articles": 56,
-      "top_keywords": [
-        "third party ecosystems",
-        "custom backdoor kazuar",
-        "remote code execution",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-15 22:50",
       "articles": 56,
@@ -18653,6 +18648,17 @@
         "agentic ai strategy",
         "sprawling phishing campaign",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-05-28 07:52",
+      "articles": 56,
+      "top_keywords": [
+        "romanian hacker sentenced",
+        "aggravated identity theft",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "targeting law firms"
       ]
     }
   ]

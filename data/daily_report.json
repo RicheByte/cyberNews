@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-05-28 15:38",
+  "last_updated": "2026-05-28 18:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ai power users",
-    "sprawling phishing campaign",
+    "network video recorder",
     "twitter whistleblower complaint",
+    "threat actors disguised",
+    "sprawling phishing campaign",
     "internet facing instances",
     "information stealing capabilities",
     "fake recruiter lures",
+    "credential stealer payload",
     "aggravated identity theft",
-    "ac500 v2 listed",
-    "fresh box full",
-    "network incidents take",
-    "deploys software internally",
-    "abb terra ac",
-    "abb lvs mconfig",
-    "abb ac500 v2",
-    "cybercrime group defaced",
+    "275 million students",
     "btmob malware respectively",
+    "overall system integrity",
+    "cvss scoring system",
+    "network incidents take",
+    "fresh box full",
+    "cybercrime group defaced",
+    "agentic era cisos",
     "supply chain attacks",
-    "latest software version",
-    "wire fraud conspiracy",
-    "urging immediate patching"
+    "enterprise ai risk"
   ],
   "trending": [
     {
       "keyword": "ai power users",
+      "mentions": 2
+    },
+    {
+      "keyword": "network video recorder",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1739
+    },
+    {
+      "keyword": "threat actors disguised",
       "mentions": 1
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 404
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1738
+      "mentions": 405
     },
     {
       "keyword": "internet facing instances",
-      "mentions": 1
-    },
-    {
-      "keyword": "information stealing capabilities",
-      "mentions": 7
-    },
-    {
-      "keyword": "fake recruiter lures",
       "mentions": 2
     },
     {
+      "keyword": "information stealing capabilities",
+      "mentions": 8
+    },
+    {
+      "keyword": "fake recruiter lures",
+      "mentions": 3
+    },
+    {
+      "keyword": "credential stealer payload",
+      "mentions": 1
+    },
+    {
       "keyword": "aggravated identity theft",
-      "mentions": 185
-    },
-    {
-      "keyword": "ac500 v2 listed",
-      "mentions": 13
-    },
-    {
-      "keyword": "fresh box full",
-      "mentions": 1
-    },
-    {
-      "keyword": "network incidents take",
-      "mentions": 1
+      "mentions": 186
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
+      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
+      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier. \"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
+      "published": "Thu, 28 May 2026 22:54:44 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×3",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
+      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+      "published": "Thu, 28 May 2026 20:56:04 +0530",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
@@ -124,22 +148,17 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "link": "https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html",
-      "summary": "When an employee installs an AI writing assistant, connects a coding copilot to their IDE, or starts summarizing meetings with a new browser tool, they are doing exactly what a productive employee should do: finding faster ways to work. Across most organizations today, employees are running three to five AI tools on any given day. Most were never reviewed by IT. A significant portion connects",
-      "published": "Wed, 27 May 2026 18:58:48 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure",
-      "link": "https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html",
-      "summary": "CrowdStrike, in partnership with Google and the Shadowserver Foundation, has announced the simultaneous disruption of all command-and-control (C2) channels associated with GlassWorm, a persistent software chain campaign targeting software developers through malicious packages and extensions. \"Since at least early 2025, GlassWorm operators have systematically targeted software developers, a",
-      "published": "Wed, 27 May 2026 17:18:37 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
+      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
+      "published": "Thu, 28 May 2026 13:25:43 -0400",
+      "value_score": 49,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -206,15 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
       "summary": "Threat actors are targeting systems with high-performance computers in an ongoing cryptojacking campaign spread through a coordinated SEO poisoning operation that also manipulated AI chatbot recommendations. [...]",
       "published": "Wed, 27 May 2026 17:31:25 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Can you enforce strong Active Directory password rules without frustrating users?",
-      "link": "https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/",
-      "summary": "Strong Active Directory passwords don't have to come at the expense of usability. Specops Software explains how passphrases, breached password protection, and self-service resets can improve security without frustrating users. [...]",
-      "published": "Wed, 27 May 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -308,6 +318,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Agentic AI Isn't Risky; the Way Orgs Deploy It Is",
+      "link": "https://www.darkreading.com/application-security/agentic-ai-risky",
+      "summary": "AI agents aren't black boxes — they're models interacting with software tools. The risk lies in their overlap.",
+      "published": "Thu, 28 May 2026 15:36:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security",
       "link": "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security",
       "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how cyber insurance is forcing organizations to quantify risk, what's covered (and what's not), and why this could be the best thing to happen to cybersecurity.",
@@ -376,11 +395,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos",
-      "link": "https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos",
-      "summary": "In just six hours, the campaign quietly pushed thousands of malicious commits to more than 5,500 GitHub repositories, stealing credentials, developer secrets, and more.",
-      "published": "Tue, 26 May 2026 19:47:14 GMT",
+      "source": "Security Week",
+      "title": "Geordie Raises $30 Million for AI Security and Governance Platform",
+      "link": "https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/",
+      "summary": "The funding round was led by Balderton Capital, with additional support from Crosspoint Capital and previous investors General Catalyst and Ten Eleven Ventures. The post Geordie Raises $30 Million for AI Security and Governance Platform appeared first on SecurityWeek .",
+      "published": "Thu, 28 May 2026 17:07:16 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -455,15 +474,6 @@
       "link": "https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/",
       "summary": "CISOs are now facing machine-speed attacks and asking, “How do I agent?” The industry must provide remediation at scale. The post Raising the Cybersecurity Stakes: Ante up for the Agentic Era appeared first on SecurityWeek .",
       "published": "Thu, 28 May 2026 11:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks",
-      "link": "https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/",
-      "summary": "New AI Threat Defense platform combines capabilities from Mandiant, Wiz and Gemini to help customers fight AI with AI. The post Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 09:55:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -552,25 +562,82 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-8398 Daemon Tools Lite Embedded Malicious Code Vulnerability CVE-2026-45321 TanStack Unspecified Vulnerability CVE-2026-48027 Nx Console Embedded Malicious Code Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22",
-      "published": "Wed, 27 May 26 12:00:00 +0000",
-      "value_score": 100,
+      "title": "ABB EIBPORT",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these vulnerabilities could access sensitive information stored inside the device and can change the configuration of the device. The following versions of ABB EIBPORT are affected: EIBPORT V3 KNX (2CLA963",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
+        "Patch/update",
         "Exploit wording"
       ]
     },
     {
       "source": "CISA Alerts",
-      "title": "Eppendorf BioFlo 320",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain full access to functionality and data with the bioreactor. The following versions of Eppendorf BioFlo 320 are affected: BioFlo 320 Bioreactor vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Eppendorf Eppendorf BioFlo 320 Use of Hard-coded Password Background Critical Infrastructure Sectors: Healthcare and Public Health Countries/Areas Deployed: Worldwide Company Headquarters Location: Germany ",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
+      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failure to apply the remediation provided below may risk in revealing sensitive information, which could result in disclosing protected source code, leading to loss of confidentiality. The following version",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet Converter 7.03T.07 CVSS Vendor Equipment Vulnerabilities v3 9.8 Jinan USR IOT Technology Limited (PUSR) Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Ha",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
+      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 Wire Door Opener Actuator are affected: Switch Actuator 4 DU vers:all/* Switch actuator, door/light 4 DU vers:all/* CVSS Vendor Equipment Vulnerabilities v3 6.8 ABB ABB Busch-Welcome 2 Wire Door Opene",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
+      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile Application, Frontier X2 are affected: Frontier X Android application vers<v15.0.0 Frontier X IOS application vers<v25.0.0 Frontier X2 vers:all/* CVSS Vendor Equipment Vulnerabilities v3 8.8 Fourth Front",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CP Plus 8 Ch. Network Video Recorder",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the victim's privileges, exposure or manipulation of sensitive data, and degradation of overall system integrity. The following versions of CP Plus 8 Ch. Network Video Recorder are affected: CP-UNR-108F1 H",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "XCharge C6",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-08",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain administrator rights or execute code on the affected device. The following versions of XCharge C6 are affected: C6 CVSS Vendor Equipment Vulnerabilities v3 9.8 XCharge XCharge C6 Download of Code Without Integrity Check, Stack-based Buffer Overflow, Initialization of a Resource with an Insecure Default Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worl",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
       "value_score": 49,
       "value_signals": [
         "Source boost: CISA Alerts",
@@ -580,80 +647,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "ABB Ability Camera Connect",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05",
-      "summary": "View CSAF Summary ABB is aware of public reports of vulnerabilities in a 3rd party component VLC media player Version 2.2.4 which was delivered together with the installation package of Camera Connect Version 1.5.0.14 and below. An update is available that resolves a privately reported outdated 3rd party component with vulnerabilities in the product versions listed as affected in this advisory. An attacker who successfully exploited any of these vulnerabilities in the 3rd party component could p",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04",
-      "summary": "View CSAF Summary An update is available that resolves a vulnerability identified by B&Rs internal security analysis in the product versions listed as affected in this advisory. An attacker who successfully exploited this vulnerability could cause the product to stop. The following versions of ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM) are affected: Automation Runtime <6.3 Automation Runtime <Q4.93 CVSS Vendor Equipment Vulnerabilities v3 10 B&R ABB B&R Auto",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB LVS MConfig",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06",
-      "summary": "View CSAF Summary ABB became aware of an internally discovered vulnerability in the MConfig product versions listed as affected in the advisory. An attacker with access to local networks who successfully exploits vulnerability could have access to application’s sensitive information. ABB strongly advises customers to update MConfig with latest software version. The following versions of ABB LVS MConfig are affected: LVS <=1.4.9.21 CVSS Vendor Equipment Vulnerabilities v3 7.4 ABB ABB LVS MConfig ",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48172 LiteSpeed cPanel Plugin Privilege Escalation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Privilege escalation",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB AC500 V2",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02",
-      "summary": "View CSAF Summary ABB became aware of vulnerabilities in AC500 V2 listed as affected in the advisory. An attacker who successfully exploited this vulnerability could access fragments of Modbus telegrams that have been sent earlier by that PLC The following versions of ABB AC500 V2 are affected: AC500 V2 <=2.5.2, 2.5.3 CVSS Vendor Equipment Vulnerabilities v3 5.8 ABB ABB AC500 V2 Buffer Over-read Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Water and Wastewater Coun",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
+      "title": "KMW CCTV Security Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416 CVSS Vendor Equipment Vulnerabilities v3 9.1 KMW KMW CCTV Security Cameras Unverified Password Change Background Critical Infrastructure Sectors: Commercial Facilities, Government Services and Facilities, Critical Manufacturing, Financial Serv",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
       "value_score": 57,
       "value_signals": [
         "Source boost: CISA Alerts",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Terra AC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could cause the pollution of heap memory which potentially takes remote control of the product and performs a write operation to the flash memory to alter the firmware behavior. The following versions of ABB Terra AC are affected: Terra AC wallbox (UL40/80A) <=1.8.32, 1.8.33 Terra AC wallbox (UL32A) <=1.8.2, 1.8.34 Terra AC wallbo",
-      "published": "Tue, 26 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

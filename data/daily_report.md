@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-28 15:38 UTC  
+> **Last Updated:** 2026-05-28 18:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai power users** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **internet facing instances** • **information stealing capabilities** • **fake recruiter lures** • **aggravated identity theft** • **ac500 v2 listed** • **fresh box full** • **network incidents take** • **deploys software internally** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **cybercrime group defaced** • **btmob malware respectively** • **supply chain attacks** • **latest software version** • **wire fraud conspiracy** • **urging immediate patching**
+**ai power users** • **network video recorder** • **twitter whistleblower complaint** • **threat actors disguised** • **sprawling phishing campaign** • **internet facing instances** • **information stealing capabilities** • **fake recruiter lures** • **credential stealer payload** • **aggravated identity theft** • **275 million students** • **btmob malware respectively** • **overall system integrity** • **cvss scoring system** • **network incidents take** • **fresh box full** • **cybercrime group defaced** • **agentic era cisos** • **supply chain attacks** • **enterprise ai risk**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
+- [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
 - [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
 - [ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More](https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html)
 - [New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"](https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html)
 - [JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware](https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html)
 - [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
 - [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
-- [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
-- [GlassWorm Malware Takedown Disrupts Developer Supply Chain Attack Infrastructure](https://thehackernews.com/2026/05/glassworm-malware-takedown-disrupts.html)
 
 ### BleepingComputer
 
+- [Hackers exploit FortiClient EMS flaw to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/)
 - [New Gogs zero-day flaw lets hackers get remote code execution](https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/)
 - [How SIEM helps MSPs reduce noise and stop threats faster](https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/)
 - [Romanian gets 5 years in prison for hacking Oregon govt network](https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/)
@@ -34,7 +35,6 @@
 - [Carnival Cruise confirms data breach affecting nearly 6 million people](https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/)
 - [Sextortionist sentenced to 33 years for targeting 145 children](https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/)
 - [GPU mining malware spreads via SEO poisoning, AI chatbots](https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/)
-- [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Agentic AI Isn't Risky; the Way Orgs Deploy It Is](https://www.darkreading.com/application-security/agentic-ai-risky)
 - [Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security](https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security)
 - [BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model](https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model)
 - [Nordic CISOs Handle Rising Cyber Threats Remarkably Well](https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats)
@@ -56,10 +57,10 @@
 - [Latin American Cybercriminals Hoover Up Government Data](https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data)
 - [AI-Assisted Exploit Development Outpaces Scanner Detection](https://www.darkreading.com/threat-intelligence/ai-assisted-exploit-development-scanner-detection)
 - [Cybersecurity Evolution: How We Went From Perimeter Defense to AI-Native Security](https://www.darkreading.com/cybersecurity-operations/cybersecurity-evolution-perimeter-defense-to-ai-native-security)
-- [Feeding Frenzy: 'Megalodon' Malware Infects Thousands of GitHub Repos](https://www.darkreading.com/application-security/megalodon-malware-infects-thousands-github-repos)
 
 ### Security Week
 
+- [Geordie Raises $30 Million for AI Security and Governance Platform](https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/)
 - [Carnival Data Breach Exposed 6 Million People](https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/)
 - [New BTMOB Android Malware Enables Full Device Takeover](https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/)
 - [Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks](https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/)
@@ -67,7 +68,6 @@
 - [New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails](https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/)
 - [Gitea Vulnerability Exposed 30,000 Deployments to Attacks](https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/)
 - [Raising the Cybersecurity Stakes: Ante up for the Agentic Era](https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/)
-- [Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks](https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/27/cisa-adds-three-known-exploited-vulnerabilities-catalog)
-- [Eppendorf BioFlo 320](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-146-01)
-- [ABB Ability Camera Connect](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-05)
-- [ABB B&R Automation Runtime DoS Vulnerability in System Diagnostics Manager (SDM)](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-04)
-- [ABB LVS MConfig](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-06)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/26/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [ABB AC500 V2](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-02)
-- [ABB Terra AC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-146-01)
+- [ABB EIBPORT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03)
+- [Schnieider Electric EcoStruxure Machine Expert HVAC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07)
+- [Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02)
+- [ABB Busch-Welcome 2 Wire Door Opener Actuator](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04)
+- [Fourth Frontier Frontier X Mobile Application, Frontier X2](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01)
+- [CP Plus 8 Ch. Network Video Recorder](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05)
+- [XCharge C6](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-08)
+- [KMW CCTV Security Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06)
 
 ---
 

@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1738,
+      "count": 1739,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1729,7 +1729,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 404,
+      "count": 405,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2095,7 +2095,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2107,7 +2107,8 @@
         "2026-01-23",
         "2026-02-25",
         "2026-04-22",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-28"
       ]
     },
     "cybercrime looks like": {
@@ -7367,7 +7368,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13994,7 +13995,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15811,7 +15812,7 @@
       ]
     },
     "275 million students": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15821,7 +15822,8 @@
         "2026-05-19",
         "2026-05-20",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-05-28"
       ]
     },
     "internal trellix services": {
@@ -15834,7 +15836,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17524,7 +17526,7 @@
       ]
     },
     "information stealing capabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17570,7 +17572,7 @@
       ]
     },
     "fake recruiter lures": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
@@ -17588,31 +17590,31 @@
       ]
     },
     "ai power users": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "internet facing instances": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "fresh box full": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "network incidents take": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
     },
     "btmob malware respectively": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-28"
       ]
@@ -17622,20 +17624,45 @@
       "dates": [
         "2026-05-28"
       ]
+    },
+    "network video recorder": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
+    },
+    "threat actors disguised": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
+    },
+    "credential stealer payload": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
+    },
+    "overall system integrity": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
+    },
+    "agentic era cisos": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
+    },
+    "enterprise ai risk": {
+      "count": 1,
+      "dates": [
+        "2026-05-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 06:17",
-      "articles": 56,
-      "top_keywords": [
-        "third party ecosystems",
-        "custom backdoor kazuar",
-        "remote code execution",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-16 09:25",
       "articles": 56,
@@ -18723,6 +18750,17 @@
         "twitter whistleblower complaint",
         "internet facing instances",
         "information stealing capabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-05-28 18:32",
+      "articles": 56,
+      "top_keywords": [
+        "ai power users",
+        "network video recorder",
+        "twitter whistleblower complaint",
+        "threat actors disguised",
+        "sprawling phishing campaign"
       ]
     }
   ]

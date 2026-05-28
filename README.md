@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-28 15:38 UTC |
+| 🕐 Last Updated | 2026-05-28 18:32 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai power users` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `internet facing instances` • `information stealing capabilities` • `fake recruiter lures` • `aggravated identity theft` • `ac500 v2 listed` • `fresh box full` • `network incidents take`
+`ai power users` • `network video recorder` • `twitter whistleblower complaint` • `threat actors disguised` • `sprawling phishing campaign` • `internet facing instances` • `information stealing capabilities` • `fake recruiter lures` • `credential stealer payload` • `aggravated identity theft`
 
 ## 📄 Reports
 

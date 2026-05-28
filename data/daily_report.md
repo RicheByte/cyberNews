@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-28 07:52 UTC  
+> **Last Updated:** 2026-05-28 11:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**romanian hacker sentenced** • **aggravated identity theft** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **targeting law firms** • **information stealing capabilities** • **cybercrime group defaced** • **specops software explains** • **deploys software internally** • **deploying malicious code** • **performance improvements microsoft** • **high performance computers** • **ac500 v2 listed** • **activity targeted industrial** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **five ai tools** • **ai risk summit** • **active cryptojacking campaign**
+**released software binaries** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **romanian hacker sentenced** • **information stealing capabilities** • **fake recruiter lures** • **aggravated identity theft** • **specops software explains** • **deploys software internally** • **ac500 v2 listed** • **cybercrime group defaced** • **abb terra ac** • **abb lvs mconfig** • **abb ac500 v2** • **active cryptojacking campaign** • **national security risk** • **wire fraud conspiracy** • **targeting law firms** • **starts summarizing meetings** • **stark industries solutions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware](https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html)
 - [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
 - [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
 - [5 Steps to Managing Shadow AI Tools Without Slowing Down Employees](https://thehackernews.com/2026/05/5-steps-to-managing-shadow-ai-tools.html)
@@ -23,18 +24,17 @@
 - [3 SOC Steps that Shut Down Incident Risks Early](https://thehackernews.com/2026/05/3-soc-steps-that-shut-down-incident.html)
 - [Gitea Vulnerability Exposes Private Container Images without Authentication](https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html)
 - [AI Chatbot Recommendations Redirect Users to Cryptojacking Malware Sites](https://thehackernews.com/2026/05/ai-chatbot-recommendations-redirect.html)
-- [MuddyWater Uses DLL Side-Loading in Espionage Campaign Targeting 9 Countries](https://thehackernews.com/2026/05/muddywater-uses-dll-side-loading-in.html)
 
 ### BleepingComputer
 
+- [Carnival Cruise confirms data breach affecting nearly 6 million people](https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/)
+- [Sextortionist sentenced to 33 years for targeting 145 children](https://www.bleepingcomputer.com/news/security/sextortionist-sentenced-to-33-years-for-targeting-145-children/)
 - [GPU mining malware spreads via SEO poisoning, AI chatbots](https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/)
 - [Can you enforce strong Active Directory password rules without frustrating users?](https://www.bleepingcomputer.com/news/security/can-you-enforce-strong-active-directory-password-rules-without-frustrating-users/)
 - [Glassworm botnet disrupted after resilient C2 infrastructure takedown](https://www.bleepingcomputer.com/news/security/glassworm-botnet-disrupted-after-resilient-c2-infrastructure-takedown/)
 - [FBI warns of in-person data theft attacks from extortion gang](https://www.bleepingcomputer.com/news/security/fbi-warns-of-silent-ransom-group-in-person-data-theft-attacks/)
 - [CISA gives feds 4 days to patch actively exploited cPanel plugin flaw](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-4-days-to-patch-actively-exploited-cpanel-plugin-flaw/)
 - [Dutch police arrests suspect linked to Ajax football club hack](https://www.bleepingcomputer.com/news/security/dutch-police-arrests-suspect-linked-to-ajax-football-club-hack/)
-- [Windows 11 KB5089573 update released with performance improvements](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089573-update-released-with-performance-improvements/)
-- [KnowledgeDeliver flaw exploited as a zero-day to install web shells](https://www.bleepingcomputer.com/news/security/knowledgedeliver-flaw-exploited-as-a-zero-day-to-install-web-shells/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Gitea Vulnerability Exposed 30,000 Deployments to Attacks](https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/)
+- [Raising the Cybersecurity Stakes: Ante up for the Agentic Era](https://www.securityweek.com/raising-the-cybersecurity-stakes-ante-up-for-the-agentic-era/)
+- [Google Unveils AI Threat Defense Platform to Fight AI-Powered Cyberattacks](https://www.securityweek.com/google-unveils-ai-threat-defense-platform-to-fight-ai-powered-cyberattacks/)
 - [UK Cyberspying Chief Calls AI ‘an Unstoppable Force’ and Warns About Russia](https://www.securityweek.com/uk-cyberspying-chief-calls-ai-an-unstoppable-force-and-warns-about-russia/)
 - [Vulnerability in Popular Conference Software Granted Attackers a 100% Talk Acceptance Rate](https://www.securityweek.com/vulnerability-in-popular-conference-software-granted-attackers-a-100-talk-acceptance-rate/)
 - [SecurityWeek to Host AI Risk Summit August 11-12 at the Ritz-Carlton, Half Moon Bay](https://www.securityweek.com/securityweek-to-host-ai-risk-summit-august-11-12-at-the-ritz-carlton-half-moon-bay/)
 - [RevEng.AI Raises $15 Million to Hunt for Flaws and Backdoors in Software Binaries](https://www.securityweek.com/reveng-ai-raises-15-million-to-hunt-for-flaws-and-backdoors-in-software-binaries/)
 - [Romanian Hacker Sentenced to Prison in US for Selling Access to State Network](https://www.securityweek.com/romanian-hacker-sentenced-to-prison-in-us-for-selling-access-to-state-network/)
-- [Lastwall Raises $11.5 Million for Quantum-Resilient Identity Platform](https://www.securityweek.com/lastwall-raises-11-5-million-for-quantum-resilient-identity-platform/)
-- [The Credential Crisis: How Stolen Credentials Defeat Modern Security](https://www.securityweek.com/the-credential-crisis-how-stolen-credentials-defeat-modern-security/)
-- [‘SymJack’ Attack Turns AI Coding Agents Into Supply Chain Attack Delivery Systems](https://www.securityweek.com/symjack-attack-turns-ai-coding-agents-into-supply-chain-attack-delivery-systems/)
 
 ### Threatpost
 

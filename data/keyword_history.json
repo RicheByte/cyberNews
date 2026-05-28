@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1740,
+      "count": 1741,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2095,7 +2095,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -13995,7 +13995,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15812,7 +15812,7 @@
       ]
     },
     "275 million students": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15836,7 +15836,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15889,7 +15889,7 @@
       ]
     },
     "united states today": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17529,7 +17529,7 @@
       ]
     },
     "information stealing capabilities": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17542,7 +17542,7 @@
       ]
     },
     "targeting law firms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-27",
         "2026-05-28"
@@ -17575,7 +17575,7 @@
       ]
     },
     "fake recruiter lures": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-28"
       ]
@@ -17593,7 +17593,7 @@
       ]
     },
     "ai power users": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-28"
       ]
@@ -17605,49 +17605,49 @@
       ]
     },
     "fresh box full": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-28"
       ]
     },
     "network incidents take": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-28"
       ]
     },
     "btmob malware respectively": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-28"
       ]
     },
     "urging immediate patching": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "network video recorder": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "threat actors disguised": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "credential stealer payload": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
     },
     "overall system integrity": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28"
       ]
@@ -17665,6 +17665,12 @@
       ]
     },
     "ten eleven ventures": {
+      "count": 2,
+      "dates": [
+        "2026-05-28"
+      ]
+    },
+    "teams reduce delays": {
       "count": 1,
       "dates": [
         "2026-05-28"
@@ -17672,17 +17678,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 10:58",
-      "articles": 56,
-      "top_keywords": [
-        "third party ecosystems",
-        "custom backdoor kazuar",
-        "remote code execution",
-        "poc code published",
-        "cve 2026 20182"
-      ]
-    },
     {
       "timestamp": "2026-05-16 13:11",
       "articles": 56,
@@ -18770,6 +18765,17 @@
         "twitter whistleblower complaint",
         "targeting law firms",
         "information stealing capabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-05-28 23:10",
+      "articles": 56,
+      "top_keywords": [
+        "network video recorder",
+        "twitter whistleblower complaint",
+        "targeting law firms",
+        "information stealing capabilities",
+        "credential stealer payload"
       ]
     }
   ]

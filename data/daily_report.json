@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-05-28 21:51",
+  "last_updated": "2026-05-28 23:10",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "ai power users",
     "network video recorder",
     "twitter whistleblower complaint",
     "targeting law firms",
@@ -15,55 +14,56 @@
     "threat actors disguised",
     "overall system integrity",
     "cvss scoring system",
+    "ai power users",
     "network incidents take",
-    "cyberattacks influence operations",
-    "aiding cyberattacks authorities",
     "fresh box full",
+    "fake recruiter lures",
     "cybercrime group defaced",
     "urging immediate patching",
     "united states today",
-    "ten eleven ventures"
+    "ten eleven ventures",
+    "teams reduce delays"
   ],
   "trending": [
     {
-      "keyword": "ai power users",
-      "mentions": 3
-    },
-    {
       "keyword": "network video recorder",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1740
+      "mentions": 1741
     },
     {
       "keyword": "targeting law firms",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "information stealing capabilities",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "credential stealer payload",
-      "mentions": 2
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 187
-    },
-    {
-      "keyword": "275 million students",
-      "mentions": 47
-    },
-    {
-      "keyword": "btmob malware respectively",
       "mentions": 3
     },
     {
+      "keyword": "aggravated identity theft",
+      "mentions": 188
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 48
+    },
+    {
+      "keyword": "btmob malware respectively",
+      "mentions": 4
+    },
+    {
       "keyword": "threat actors disguised",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "overall system integrity",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
+      "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
+      "published": "Thu, 28 May 2026 18:24:49 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "BTMOB Android malware service generates custom phishing payloads",
       "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
       "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
@@ -218,17 +227,6 @@
       "published": "Thu, 28 May 2026 08:20:28 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
-      "summary": "Carnival Corporation, the world's largest cruise line operator, has confirmed a data breach affecting nearly 6 million people claimed by the ShinyHunters extortion gang in April 2026. [...]",
-      "published": "Thu, 28 May 2026 06:49:27 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

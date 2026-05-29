@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-29 11:23 UTC  
+> **Last Updated:** 2026-05-29 14:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**rated 9 4** • **275 million students** • **ai power users** • **twitter whistleblower complaint** • **targeting law firms** • **service's login page** • **service ddos attacks** • **credential stealer payload** • **aggravated identity theft** • **overall system integrity** • **cvss scoring system** • **custom malware tools** • **2 0 4** • **vs code tunnels** • **remote code execution** • **cybercrime group defaced** • **urging immediate patching** • **united states today** • **threat actors disguised** • **ten eleven ventures**
+**remote code execution** • **275 million students** • **twitter whistleblower complaint** • **targeting ukrainian entities** • **service's login page** • **credential stealer payload** • **argument injection flaw** • **overall system integrity** • **cybercrime group defaced** • **popular automation service** • **vs code tunnels** • **ai powered cyberattacks** • **custom malware tools** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today** • **threat actors disguised** • **ten eleven ventures** • **stark industries solutions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
 - [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
 - [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 - [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
@@ -23,18 +24,17 @@
 - [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
 - [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
 - [ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More](https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html)
-- [New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"](https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html)
 
 ### BleepingComputer
 
+- [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
+- [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
+- [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
 - [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
 - [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
 - [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
 - [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
 - [GreyVibe hackers use ChatGPT, Gemini to power cyberattacks](https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/)
-- [BTMOB Android malware service generates custom phishing payloads](https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/)
-- [FBI warns of fake FIFA websites running World Cup fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/)
-- [Hackers exploit FortiClient EMS flaw to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Asia's Cyber Insurance Market Shows Signs of Life](https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life)
+- [With Complex Cloud Integrations, Small Errors Lead to Major Compromises](https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises)
+- ['The Com' Cyberattacks Support Violence &amp; Sexploitation](https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation)
 - [Dutch Raid Fails to Dent Russian Bulletproof Host](https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host)
 - [Name That Toon Contest](https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest)
 - [Agentic AI Isn't Risky; the Way Orgs Deploy It Is](https://www.darkreading.com/application-security/agentic-ai-risky)
 - [Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security](https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security)
 - [BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model](https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model)
-- [Nordic CISOs Handle Rising Cyber Threats Remarkably Well](https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats)
-- [Ransomware Actors Show Up In Person to Steal Law Firm Data](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data)
-- [Latin American Cybercriminals Hoover Up Government Data](https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data)
 
 ### Security Week
 
+- [Charter Communications Data Breach Could Impact Nearly 5 Million](https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/)
+- [MokN Raises $15 Million for Phish-Back Platform](https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/)
+- [Gogs Zero-Day Exposes Servers to Remote Code Execution](https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/)
 - [California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach](https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/)
 - [Chrome 148 Update Patches 151 Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/)
 - [Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks](https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/)
 - [Geordie Raises $30 Million for AI Security and Governance Platform](https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/)
 - [Carnival Data Breach Exposed 6 Million People](https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/)
-- [New BTMOB Android Malware Enables Full Device Takeover](https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/)
-- [Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks](https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/)
-- [IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”](https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/)
 
 ### Threatpost
 

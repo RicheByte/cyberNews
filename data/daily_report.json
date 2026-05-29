@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-05-29 11:23",
+  "last_updated": "2026-05-29 14:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "rated 9 4",
-    "275 million students",
-    "ai power users",
-    "twitter whistleblower complaint",
-    "targeting law firms",
-    "service's login page",
-    "service ddos attacks",
-    "credential stealer payload",
-    "aggravated identity theft",
-    "overall system integrity",
-    "cvss scoring system",
-    "custom malware tools",
-    "2 0 4",
-    "vs code tunnels",
     "remote code execution",
+    "275 million students",
+    "twitter whistleblower complaint",
+    "targeting ukrainian entities",
+    "service's login page",
+    "credential stealer payload",
+    "argument injection flaw",
+    "overall system integrity",
     "cybercrime group defaced",
-    "urging immediate patching",
+    "popular automation service",
+    "vs code tunnels",
+    "ai powered cyberattacks",
+    "custom malware tools",
+    "wire fraud conspiracy",
+    "way orgs deploy",
+    "victim's privileges exposure",
     "united states today",
     "threat actors disguised",
-    "ten eleven ventures"
+    "ten eleven ventures",
+    "stark industries solutions"
   ],
   "trending": [
     {
-      "keyword": "rated 9 4",
-      "mentions": 1
+      "keyword": "remote code execution",
+      "mentions": 422
     },
     {
       "keyword": "275 million students",
-      "mentions": 51
-    },
-    {
-      "keyword": "ai power users",
-      "mentions": 7
+      "mentions": 52
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1744
+      "mentions": 1745
     },
     {
-      "keyword": "targeting law firms",
-      "mentions": 10
+      "keyword": "targeting ukrainian entities",
+      "mentions": 2
     },
     {
       "keyword": "service's login page",
-      "mentions": 40
-    },
-    {
-      "keyword": "service ddos attacks",
-      "mentions": 132
+      "mentions": 41
     },
     {
       "keyword": "credential stealer payload",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "aggravated identity theft",
-      "mentions": 191
+      "keyword": "argument injection flaw",
+      "mentions": 1
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "cybercrime group defaced",
+      "mentions": 80
+    },
+    {
+      "keyword": "popular automation service",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
+      "link": "https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html",
+      "summary": "A previously undocumented threat actor dubbed GREYVIBE has been attributed to ongoing and persistent attacks targeting Ukraine and Ukraine-related entities since at least August 2025. GREYVIBE, per WithSecure, is assessed to be a Russian-speaking group operating broadly in the Russian time zone, with the activities aligning with Kremlin state interests, specifically when it comes to",
+      "published": "Fri, 29 May 2026 17:01:59 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
@@ -139,11 +148,33 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI \"Power users\"",
-      "link": "https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html",
-      "summary": "State of AI Usage Report 2026 (full report here) by LayerX Security reveals the extent of the enterprise AI visibility gap and why most organizations still don't understand where their AI exposure is actually coming from. The research shows that enterprise AI risk is not distributed evenly across users or platforms. Instead, it is heavily concentrated among a small group of AI power users and a",
-      "published": "Thu, 28 May 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market",
+      "link": "https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/",
+      "summary": "DDoS attacks are increasingly being sold like subscription services, complete with pricing tiers, support, and reseller programs. Flare explores how the DDoS-as-a-Service market has evolved from scattered tools into polished attack platforms. [...]",
+      "published": "Fri, 29 May 2026 10:32:02 -0400",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Dutch govt disrupts malware botnet with 17 million infected devices",
+      "link": "https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/",
+      "summary": "Dutch authorities have taken offline a massive botnet of 17 million devices and seized more than 200 servers at a local provider that supported the operation. [...]",
+      "published": "Fri, 29 May 2026 10:26:36 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Google Chrome adds session cookie theft protection for all users",
+      "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
+      "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
+      "published": "Fri, 29 May 2026 08:08:08 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -193,39 +224,6 @@
       "published": "Thu, 28 May 2026 18:24:49 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BTMOB Android malware service generates custom phishing payloads",
-      "link": "https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/",
-      "summary": "An Android remote access trojan named BTMOB is offered to cybercriminals with a builder interface for generating malware payloads tailored to phishing lures. [...]",
-      "published": "Thu, 28 May 2026 17:10:11 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/",
-      "summary": "The FBI is warning of fake websites impersonating FIFA ahead of the 2026 World Cup, to steal personal and financial information, sell fake tickets and hospitality packages, and push other fraud related to the event. [...]",
-      "published": "Thu, 28 May 2026 15:08:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-      "summary": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
-      "published": "Thu, 28 May 2026 13:25:43 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -317,6 +315,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Asia's Cyber Insurance Market Shows Signs of Life",
+      "link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
+      "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
+      "published": "Fri, 29 May 2026 14:35:33 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises",
+      "summary": "Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
+      "published": "Fri, 29 May 2026 13:00:01 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'The Com' Cyberattacks Support Violence &amp; Sexploitation",
+      "link": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
+      "summary": "Your organization's security failures have consequences for everyone else too, since this neo-Nazi-infested criminal gang uses its cyber winnings to support more violent and widespread crimes.",
+      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
       "link": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
       "summary": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
@@ -361,34 +390,37 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
-      "summary": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
-      "published": "Thu, 28 May 2026 07:01:00 GMT",
+      "source": "Security Week",
+      "title": "Charter Communications Data Breach Could Impact Nearly 5 Million",
+      "link": "https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/",
+      "summary": "The notorious ShinyHunters extortion group leaked over 42 million records allegedly stolen from Charter in April. The post Charter Communications Data Breach Could Impact Nearly 5 Million appeared first on SecurityWeek .",
+      "published": "Fri, 29 May 2026 14:49:58 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "MokN Raises $15 Million for Phish-Back Platform",
+      "link": "https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/",
+      "summary": "MokN's platform deploys realistic decoy access points to lure attackers into revealing compromised credentials, enabling organizations to respond before abuse occurs. The post MokN Raises $15 Million for Phish-Back Platform appeared first on SecurityWeek .",
+      "published": "Fri, 29 May 2026 14:34:15 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-actors-steal-law-firm-data",
-      "summary": "The FBI warned that the extortion gang Silent Ransom Group is targeting law firms and social-engineering its way into servers and databases.",
-      "published": "Wed, 27 May 2026 20:38:01 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "Gogs Zero-Day Exposes Servers to Remote Code Execution",
+      "link": "https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/",
+      "summary": "The critical-severity issue, assigned a CVSS score of 9.4, is an argument injection flaw that can be exploited by authenticated attackers via pull requests with malicious branch names. The post Gogs Zero-Day Exposes Servers to Remote Code Execution appeared first on SecurityWeek .",
+      "published": "Fri, 29 May 2026 12:59:37 +0000",
+      "value_score": 100,
       "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Latin American Cybercriminals Hoover Up Government Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-american-cybercriminals-government-data",
-      "summary": "A purported leak exposing 5.8 million records of Uruguayan citizens is the latest incident where cybercriminals targeted government agencies to monetize citizen data.",
-      "published": "Wed, 27 May 2026 16:19:03 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
+        "Zero-day ×2",
+        "RCE ×2",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
@@ -442,42 +474,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New BTMOB Android Malware Enables Full Device Takeover",
-      "link": "https://www.securityweek.com/new-btmob-android-malware-enables-full-device-takeover/",
-      "summary": "Delivered via phishing lures, the malware combines financial theft with data exfiltration and remote access. The post New BTMOB Android Malware Enables Full Device Takeover appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 13:05:04 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks",
-      "link": "https://www.securityweek.com/critical-forticlient-ems-vulnerability-exploited-in-fresh-attacks/",
-      "summary": "Fortinet rolled out hotfixes for the security defect in April, warning that it had been exploited in the wild as a zero-day and urging immediate patching. The post Critical FortiClient EMS Vulnerability Exploited in Fresh Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 12:55:47 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell”",
-      "link": "https://www.securityweek.com/ibm-and-red-hat-commit-5-billion-to-secure-open-source-supply-chains-under-project-lightwell/",
-      "summary": "Project Lightwell is designed to fix vulnerabilities without breaking what is already in production. The post IBM and Red Hat Commit $5 Billion to Secure Open Source Supply Chains Under “Project Lightwell” appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 12:41:45 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

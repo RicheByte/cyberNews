@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1744,
+      "count": 1745,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -714,7 +714,7 @@
       ]
     },
     "remote code execution": {
-      "count": 421,
+      "count": 422,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -8079,7 +8079,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -8111,7 +8111,8 @@
         "2026-05-25",
         "2026-05-26",
         "2026-05-27",
-        "2026-05-28"
+        "2026-05-28",
+        "2026-05-29"
       ]
     },
     "unfortunately named toolkit": {
@@ -15797,7 +15798,7 @@
       ]
     },
     "service's login page": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15819,7 +15820,7 @@
       ]
     },
     "275 million students": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15844,7 +15845,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15898,7 +15899,7 @@
       ]
     },
     "united states today": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17600,7 +17601,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17654,21 +17655,21 @@
       ]
     },
     "threat actors disguised": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "credential stealer payload": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "overall system integrity": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17687,7 +17688,7 @@
       ]
     },
     "ten eleven ventures": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17700,13 +17701,13 @@
       ]
     },
     "targeting ukrainian entities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-29"
       ]
     },
     "vs code tunnels": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-29"
       ]
@@ -17718,7 +17719,7 @@
       ]
     },
     "custom malware tools": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-29"
       ]
@@ -17728,20 +17729,39 @@
       "dates": [
         "2026-05-29"
       ]
+    },
+    "argument injection flaw": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "popular automation service": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "ai powered cyberattacks": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "way orgs deploy": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "victim's privileges exposure": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 18:57",
-      "articles": 56,
-      "top_keywords": [
-        "custom backdoor kazuar",
-        "third party ecosystems",
-        "remote code execution",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-16 20:40",
       "articles": 56,
@@ -18829,6 +18849,17 @@
         "ai power users",
         "twitter whistleblower complaint",
         "targeting law firms"
+      ]
+    },
+    {
+      "timestamp": "2026-05-29 14:51",
+      "articles": 56,
+      "top_keywords": [
+        "remote code execution",
+        "275 million students",
+        "twitter whistleblower complaint",
+        "targeting ukrainian entities",
+        "service's login page"
       ]
     }
   ]

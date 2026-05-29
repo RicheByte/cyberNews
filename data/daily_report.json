@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-05-29 07:50",
+  "last_updated": "2026-05-29 11:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "rated 9 4",
+    "275 million students",
+    "ai power users",
     "twitter whistleblower complaint",
     "targeting law firms",
     "service's login page",
-    "network video recorder",
+    "service ddos attacks",
     "credential stealer payload",
     "aggravated identity theft",
-    "275 million students",
-    "btmob malware respectively",
-    "threat actors disguised",
     "overall system integrity",
     "cvss scoring system",
-    "fake recruiter lures",
-    "ai power users",
+    "custom malware tools",
+    "2 0 4",
     "vs code tunnels",
+    "remote code execution",
     "cybercrime group defaced",
     "urging immediate patching",
     "united states today",
-    "ten eleven ventures",
-    "supply chain attacks",
-    "stark industries solutions"
+    "threat actors disguised",
+    "ten eleven ventures"
   ],
   "trending": [
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1743
-    },
-    {
-      "keyword": "targeting law firms",
-      "mentions": 9
-    },
-    {
-      "keyword": "service's login page",
-      "mentions": 39
-    },
-    {
-      "keyword": "network video recorder",
-      "mentions": 5
-    },
-    {
-      "keyword": "credential stealer payload",
-      "mentions": 5
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 190
+      "keyword": "rated 9 4",
+      "mentions": 1
     },
     {
       "keyword": "275 million students",
-      "mentions": 50
+      "mentions": 51
     },
     {
-      "keyword": "btmob malware respectively",
+      "keyword": "ai power users",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1744
+    },
+    {
+      "keyword": "targeting law firms",
+      "mentions": 10
+    },
+    {
+      "keyword": "service's login page",
+      "mentions": 40
+    },
+    {
+      "keyword": "service ddos attacks",
+      "mentions": 132
+    },
+    {
+      "keyword": "credential stealer payload",
       "mentions": 6
     },
     {
-      "keyword": "threat actors disguised",
-      "mentions": 5
+      "keyword": "aggravated identity theft",
+      "mentions": 191
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks",
+      "link": "https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html",
+      "summary": "Shadow AI used to mean employees pasting things they shouldn't into ChatGPT. It now means something bigger: employees building full applications with AI, wiring them into production systems, and publishing them on the open internet. Without Security or IT in the loop. The artifact moved from a prompt to a product. The risk surface moved with it. In The Shadow Builders report (get it here), a",
+      "published": "Fri, 29 May 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets",
+      "link": "https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html",
+      "summary": "Cybersecurity researchers have discovered a malicious NuGet package that masquerades as a C# software development kit for Sicoob, one of Brazil's largest cooperative financial systems, to siphon client IDs and PFX certificates. According to Socket, versions 2.0.0 through 2.0.4 of \"Sicoob.Sdk\" contain functionality to exfiltrate sensitive information, including PFX certificates that are used to",
+      "published": "Fri, 29 May 2026 14:41:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
@@ -130,22 +148,33 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware",
-      "link": "https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html",
-      "summary": "A new campaign orchestrated by a previously undocumented threat actor has targeted cryptocurrency organizations with an aim to facilitate digital asset theft using recruitment-themed social engineering and bespoke macOS malware. \"These campaigns leveraged sophisticated social engineering techniques, custom macOS malware, and deep targeting of CI/CD infrastructure,\" Wiz researchers Shira Ayal,",
-      "published": "Thu, 28 May 2026 13:24:48 +0530",
+      "source": "BleepingComputer",
+      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
+      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
+      "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
+      "published": "Fri, 29 May 2026 07:07:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users",
-      "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
-      "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil. The",
-      "published": "Wed, 27 May 2026 21:40:21 +0530",
+      "source": "BleepingComputer",
+      "title": "US charges Google security engineer with Polymarket insider trading",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
+      "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
+      "published": "Fri, 29 May 2026 06:11:44 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Charter Communications data breach affects 4.9 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
+      "published": "Fri, 29 May 2026 04:29:40 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -197,36 +226,6 @@
         "Auth bypass",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Gogs zero-day flaw lets hackers get remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/",
-      "summary": "An unpatched zero-day vulnerability in the Gogs self-hosted Git service can allow attackers to gain remote code execution (RCE) on Internet-facing instances. [...]",
-      "published": "Thu, 28 May 2026 10:25:43 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How SIEM helps MSPs reduce noise and stop threats faster",
-      "link": "https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/",
-      "summary": "MSPs don't lack security data. They struggle to separate real threats from alert noise. Kaseya explains how SIEM helps MSPs improve visibility, reduce fatigue, and respond faster. [...]",
-      "published": "Thu, 28 May 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Romanian gets 5 years in prison for hacking Oregon govt network",
-      "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
-      "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
-      "published": "Thu, 28 May 2026 08:43:29 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -394,6 +393,30 @@
     },
     {
       "source": "Security Week",
+      "title": "California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach",
+      "link": "https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/",
+      "summary": "Attorney General Rob Bonta filed the lawsuit against Chrome Holding Co., which 23andMe rebranded under after filing for bankruptcy last March. The post California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach appeared first on SecurityWeek .",
+      "published": "Fri, 29 May 2026 11:12:15 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 148 Update Patches 151 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/",
+      "summary": "The browser update resolves critical-severity security defects that could potentially lead to remote code execution. The post Chrome 148 Update Patches 151 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 29 May 2026 10:17:23 +0000",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×3",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks",
       "link": "https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/",
       "summary": "Researchers warn GreyVibe’s extensive use of ChatGPT, Gemini, and other AI tools offers a glimpse into how future cybercriminal and state-aligned groups will operate. The post Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks appeared first on SecurityWeek .",
@@ -456,24 +479,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails",
-      "link": "https://www.securityweek.com/new-edamame-platform-aims-to-catch-ai-coding-agents-going-off-the-rails/",
-      "summary": "France-based startup Edamame says its runtime verification platform uses host telemetry and AI analysis to detect coding-agent “intent drift,” secret theft and supply-chain attacks in real time. The post New Edamame Platform Aims to Catch AI Coding Agents Going Off the Rails appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Gitea Vulnerability Exposed 30,000 Deployments to Attacks",
-      "link": "https://www.securityweek.com/gitea-vulnerability-exposed-30000-deployments-to-attacks/",
-      "summary": "The security flaw allowed attackers to pull private container images, exposing source code, credentials, and infrastructure. The post Gitea Vulnerability Exposed 30,000 Deployments to Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 11:24:51 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

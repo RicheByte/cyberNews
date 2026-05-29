@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1743,
+      "count": 1744,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -714,7 +714,7 @@
       ]
     },
     "remote code execution": {
-      "count": 420,
+      "count": 421,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -782,7 +782,8 @@
         "2026-05-23",
         "2026-05-24",
         "2026-05-26",
-        "2026-05-27"
+        "2026-05-27",
+        "2026-05-29"
       ]
     },
     "attacker remotely control": {
@@ -2096,7 +2097,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -6416,7 +6417,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6436,7 +6437,8 @@
         "2026-05-20",
         "2026-05-21",
         "2026-05-26",
-        "2026-05-27"
+        "2026-05-27",
+        "2026-05-29"
       ]
     },
     "memory spain's ministry": {
@@ -13998,7 +14000,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15795,7 +15797,7 @@
       ]
     },
     "service's login page": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15817,7 +15819,7 @@
       ]
     },
     "275 million students": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15842,7 +15844,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15896,7 +15898,7 @@
       ]
     },
     "united states today": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17551,7 +17553,7 @@
       ]
     },
     "targeting law firms": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-27",
         "2026-05-28",
@@ -17605,7 +17607,7 @@
       ]
     },
     "ai power users": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17638,7 +17640,7 @@
       ]
     },
     "urging immediate patching": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17652,21 +17654,21 @@
       ]
     },
     "threat actors disguised": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "credential stealer payload": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "overall system integrity": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17685,7 +17687,7 @@
       ]
     },
     "ten eleven ventures": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17704,6 +17706,24 @@
       ]
     },
     "vs code tunnels": {
+      "count": 2,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "rated 9 4": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "custom malware tools": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "2 0 4": {
       "count": 1,
       "dates": [
         "2026-05-29"
@@ -17711,17 +17731,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 16:53",
-      "articles": 56,
-      "top_keywords": [
-        "custom backdoor kazuar",
-        "third party ecosystems",
-        "remote code execution",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-16 18:57",
       "articles": 56,
@@ -18809,6 +18818,17 @@
         "service's login page",
         "network video recorder",
         "credential stealer payload"
+      ]
+    },
+    {
+      "timestamp": "2026-05-29 11:23",
+      "articles": 56,
+      "top_keywords": [
+        "rated 9 4",
+        "275 million students",
+        "ai power users",
+        "twitter whistleblower complaint",
+        "targeting law firms"
       ]
     }
   ]

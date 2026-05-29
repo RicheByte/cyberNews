@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-05-29 14:51",
+  "last_updated": "2026-05-29 18:28",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "remote code execution",
+    "download malware disguised",
     "275 million students",
+    "threat actors disguised",
     "twitter whistleblower complaint",
-    "targeting ukrainian entities",
     "service's login page",
+    "greyvibe per withsecure",
     "credential stealer payload",
     "argument injection flaw",
+    "ai powered cyberattacks",
     "overall system integrity",
     "cybercrime group defaced",
+    "unknown threat actor",
+    "cyberattacks influence operations",
+    "aiding cyberattacks authorities",
     "popular automation service",
-    "vs code tunnels",
-    "ai powered cyberattacks",
-    "custom malware tools",
+    "protect user data",
+    "cyber threat actors",
     "wire fraud conspiracy",
     "way orgs deploy",
-    "victim's privileges exposure",
-    "united states today",
-    "threat actors disguised",
-    "ten eleven ventures",
-    "stark industries solutions"
+    "vs code tunnels"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 422
+      "keyword": "download malware disguised",
+      "mentions": 1
     },
     {
       "keyword": "275 million students",
-      "mentions": 52
+      "mentions": 53
+    },
+    {
+      "keyword": "threat actors disguised",
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1745
-    },
-    {
-      "keyword": "targeting ukrainian entities",
-      "mentions": 2
+      "mentions": 1746
     },
     {
       "keyword": "service's login page",
-      "mentions": 41
+      "mentions": 42
+    },
+    {
+      "keyword": "greyvibe per withsecure",
+      "mentions": 1
     },
     {
       "keyword": "credential stealer payload",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "argument injection flaw",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "ai powered cyberattacks",
+      "mentions": 2
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 7
-    },
-    {
-      "keyword": "cybercrime group defaced",
-      "mentions": 80
-    },
-    {
-      "keyword": "popular automation service",
-      "mentions": 1
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
+      "link": "https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html",
+      "summary": "Cybersecurity researchers have disclosed details of a vulnerability in OpenAI ChatGPT that leverages the artificial intelligence (AI) assistant's implicit trust in Markdown links and images to trigger prompt injections and open the door to phishing attacks. The technique has been codenamed ChatGPhish by Permiso Security. \"The chatgpt.com response renderer trusts Markdown links and Markdown",
+      "published": "Fri, 29 May 2026 23:37:12 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit",
+      "link": "https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html",
+      "summary": "An unknown threat actor has been observed using a large language model (LLM) agent to conduct post-compromise actions after obtaining initial access following the exploitation of a publicly-accessible Marimo network using a recently disclosed vulnerability. \"The attacker compromised an internet-reachable Marimo notebook via CVE-2026-39987, extracted two cloud credentials from the compromised",
+      "published": "Fri, 29 May 2026 20:09:56 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks",
@@ -128,24 +152,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal",
-      "link": "https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html",
-      "summary": "Microsoft has come out strongly in favor of Coordinated Vulnerability Disclosure (CVD), urging the research community to share their findings and give affected vendors an opportunity to better understand the impact and address them before they are publicly disclosed. The development comes after a researcher named Chaotic Eclipse (aka Nightmare-Eclipse) disclosed details of multiple zero-day",
-      "published": "Thu, 28 May 2026 19:23:52 +0530",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html",
-      "summary": "Every time you think the industry has finally stopped doing some reckless, low-effort crap, somebody spins up a fresh box full of sketchy loaders, fake installers, recycled social-engineering bait, and enough exposed infrastructure to make you wonder if prod is just a public beta now - meanwhile some researcher casually drops a technique that turns a \"minor\" foothold into total account",
-      "published": "Thu, 28 May 2026 19:03:16 +0530",
+      "source": "BleepingComputer",
+      "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
+      "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
+      "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
+      "published": "Fri, 29 May 2026 14:21:36 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "California AG sues 23andMe over 2023 breach exposing health data",
+      "link": "https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/",
+      "summary": "California Attorney General Rob Bonta filed a lawsuit against 23andMe, now Chrome Holding Co., over the company's failure to protect sensitive customer genetic and personal information. [...]",
+      "published": "Fri, 29 May 2026 14:08:47 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -206,24 +230,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
-      "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
-      "published": "Thu, 28 May 2026 20:21:03 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
-      "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
-      "published": "Thu, 28 May 2026 18:24:49 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -346,6 +352,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
+      "link": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+      "summary": "The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
+      "published": "Thu, 28 May 2026 23:05:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
       "link": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
       "summary": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
@@ -381,13 +396,17 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model",
-      "summary": "An advanced remote access Trojan is propagating online. Notably, it's delivered via an operator licensing model and features a no-code malware-development interface.",
-      "published": "Thu, 28 May 2026 09:06:11 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks",
+      "link": "https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Trump Mobile exposes customer data, phishers target the 2026 FIFA World Cup, CISA responds to recent supply chain attacks. The post In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks appeared first on SecurityWeek .",
+      "published": "Fri, 29 May 2026 16:20:49 +0000",
+      "value_score": 90,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Phishing ×2",
+        "CISA/KEV ×3"
+      ]
     },
     {
       "source": "Security Week",
@@ -464,17 +483,6 @@
       "published": "Thu, 28 May 2026 17:07:16 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Carnival Data Breach Exposed 6 Million People",
-      "link": "https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/",
-      "summary": "Data breach leaves nearly 6 million Carnival customers navigating identity theft risks. The post Carnival Data Breach Exposed 6 Million People appeared first on SecurityWeek .",
-      "published": "Thu, 28 May 2026 14:45:28 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
     },
     {
       "source": "Threatpost",

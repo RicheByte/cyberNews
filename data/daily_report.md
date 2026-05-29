@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-29 14:51 UTC  
+> **Last Updated:** 2026-05-29 18:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **275 million students** • **twitter whistleblower complaint** • **targeting ukrainian entities** • **service's login page** • **credential stealer payload** • **argument injection flaw** • **overall system integrity** • **cybercrime group defaced** • **popular automation service** • **vs code tunnels** • **ai powered cyberattacks** • **custom malware tools** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today** • **threat actors disguised** • **ten eleven ventures** • **stark industries solutions**
+**download malware disguised** • **275 million students** • **threat actors disguised** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **credential stealer payload** • **argument injection flaw** • **ai powered cyberattacks** • **overall system integrity** • **cybercrime group defaced** • **unknown threat actor** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **popular automation service** • **protect user data** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **vs code tunnels**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
+- [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
 - [New Russian-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
 - [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
 - [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 - [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
 - [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
 - [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
-- [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
-- [ThreatsDay Bulletin: Claude Security Plugin, Azure Priv-Esc, Kali365 MFA Bypass, FIFA Scams +15 More](https://thehackernews.com/2026/05/threatsday-bulletin-claude-security.html)
 
 ### BleepingComputer
 
+- [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
+- [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
 - [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
 - [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
 - [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
 - [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
 - [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
 - [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
-- [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
-- [GreyVibe hackers use ChatGPT, Gemini to power cyberattacks](https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/)
 
 ### Krebs on Security
 
@@ -52,14 +52,15 @@
 - [Asia's Cyber Insurance Market Shows Signs of Life](https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life)
 - [With Complex Cloud Integrations, Small Errors Lead to Major Compromises](https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises)
 - ['The Com' Cyberattacks Support Violence &amp; Sexploitation](https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation)
+- [As Global Powers Explore Humanoid Robots, Cyber-Risk Looms](https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk)
 - [Dutch Raid Fails to Dent Russian Bulletproof Host](https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host)
 - [Name That Toon Contest](https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest)
 - [Agentic AI Isn't Risky; the Way Orgs Deploy It Is](https://www.darkreading.com/application-security/agentic-ai-risky)
 - [Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security](https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security)
-- [BTMOB RAT Spreads Across Brazil, LatAm via MaaS Model](https://www.darkreading.com/cyberattacks-data-breaches/btmob-rat-brazil-latam-maas-model)
 
 ### Security Week
 
+- [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
 - [Charter Communications Data Breach Could Impact Nearly 5 Million](https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/)
 - [MokN Raises $15 Million for Phish-Back Platform](https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/)
 - [Gogs Zero-Day Exposes Servers to Remote Code Execution](https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/)
@@ -67,7 +68,6 @@
 - [Chrome 148 Update Patches 151 Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/)
 - [Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks](https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/)
 - [Geordie Raises $30 Million for AI Security and Governance Platform](https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/)
-- [Carnival Data Breach Exposed 6 Million People](https://www.securityweek.com/carnival-data-breach-exposed-6-million-people/)
 
 ### Threatpost
 

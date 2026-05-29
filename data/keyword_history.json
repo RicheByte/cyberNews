@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1745,
+      "count": 1746,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -8079,7 +8079,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15798,7 +15798,7 @@
       ]
     },
     "service's login page": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15820,7 +15820,7 @@
       ]
     },
     "275 million students": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15845,7 +15845,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17307,11 +17307,12 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-25",
         "2026-05-26",
-        "2026-05-28"
+        "2026-05-28",
+        "2026-05-29"
       ]
     },
     "leverage trusted websites": {
@@ -17329,11 +17330,12 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-25",
         "2026-05-26",
-        "2026-05-28"
+        "2026-05-28",
+        "2026-05-29"
       ]
     },
     "service platform phaas": {
@@ -17655,21 +17657,21 @@
       ]
     },
     "threat actors disguised": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "credential stealer payload": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "overall system integrity": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17707,7 +17709,7 @@
       ]
     },
     "vs code tunnels": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-29"
       ]
@@ -17731,25 +17733,25 @@
       ]
     },
     "argument injection flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-29"
       ]
     },
     "popular automation service": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-29"
       ]
     },
     "ai powered cyberattacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-29"
       ]
     },
     "way orgs deploy": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-05-29"
       ]
@@ -17759,20 +17761,39 @@
       "dates": [
         "2026-05-29"
       ]
+    },
+    "download malware disguised": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "greyvibe per withsecure": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "unknown threat actor": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "protect user data": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
+    },
+    "cyber threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 20:40",
-      "articles": 56,
-      "top_keywords": [
-        "custom backdoor kazuar",
-        "third party ecosystems",
-        "remote code execution",
-        "cve 2026 20182",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-16 22:39",
       "articles": 56,
@@ -18859,6 +18880,17 @@
         "275 million students",
         "twitter whistleblower complaint",
         "targeting ukrainian entities",
+        "service's login page"
+      ]
+    },
+    {
+      "timestamp": "2026-05-29 18:28",
+      "articles": 56,
+      "top_keywords": [
+        "download malware disguised",
+        "275 million students",
+        "threat actors disguised",
+        "twitter whistleblower complaint",
         "service's login page"
       ]
     }

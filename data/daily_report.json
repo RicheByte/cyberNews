@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-29 18:28",
+  "last_updated": "2026-05-29 21:49",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "download malware disguised",
     "275 million students",
-    "threat actors disguised",
     "twitter whistleblower complaint",
+    "threat actors disguised",
     "service's login page",
     "greyvibe per withsecure",
     "credential stealer payload",
@@ -14,56 +14,56 @@
     "ai powered cyberattacks",
     "overall system integrity",
     "cybercrime group defaced",
+    "vs code tunnels",
     "unknown threat actor",
+    "remote code execution",
     "cyberattacks influence operations",
+    "cyber threat actors",
     "aiding cyberattacks authorities",
     "popular automation service",
     "protect user data",
-    "cyber threat actors",
-    "wire fraud conspiracy",
-    "way orgs deploy",
-    "vs code tunnels"
+    "polished attack platforms"
   ],
   "trending": [
     {
       "keyword": "download malware disguised",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "275 million students",
-      "mentions": 53
-    },
-    {
-      "keyword": "threat actors disguised",
-      "mentions": 8
+      "mentions": 54
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1746
+      "mentions": 1747
+    },
+    {
+      "keyword": "threat actors disguised",
+      "mentions": 9
     },
     {
       "keyword": "service's login page",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "greyvibe per withsecure",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "credential stealer payload",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "argument injection flaw",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ai powered cyberattacks",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -321,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Name That Toon: Mark of (Cybersecurity) Progress",
+      "link": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
+      "summary": "As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
+      "published": "Fri, 29 May 2026 20:22:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Asia's Cyber Insurance Market Shows Signs of Life",
       "link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
       "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
@@ -383,15 +392,6 @@
       "link": "https://www.darkreading.com/application-security/agentic-ai-risky",
       "summary": "AI agents aren't black boxes — they're models interacting with software tools. The risk lies in their overlap.",
       "published": "Thu, 28 May 2026 15:36:25 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security",
-      "link": "https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security",
-      "summary": "In this latest installment of the Reporters' Notebook video series, we discuss how cyber insurance is forcing organizations to quantify risk, what's covered (and what's not), and why this could be the best thing to happen to cybersecurity.",
-      "published": "Thu, 28 May 2026 12:29:58 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -569,6 +569,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
+      "published": "Fri, 29 May 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Auth bypass",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "ABB EIBPORT",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
       "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these vulnerabilities could access sensitive information stored inside the device and can change the configuration of the device. The following versions of ABB EIBPORT are affected: EIBPORT V3 KNX (2CLA963",
@@ -578,17 +593,6 @@
         "Source boost: CISA Alerts",
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failure to apply the remediation provided below may risk in revealing sensitive information, which could result in disclosing protected source code, leading to loss of confidentiality. The following version",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     },
     {
@@ -629,6 +633,17 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Schnieider Electric EcoStruxure Machine Expert HVAC",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
+      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failure to apply the remediation provided below may risk in revealing sensitive information, which could result in disclosing protected source code, leading to loss of confidentiality. The following version",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CP Plus 8 Ch. Network Video Recorder",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability allows an attacker's malicious script to execute in the browser of any authenticated user or administrator who accesses the affected interface. This could lead to compromise of user sessions, execution of unauthorized actions with the victim's privileges, exposure or manipulation of sensitive data, and degradation of overall system integrity. The following versions of CP Plus 8 Ch. Network Video Recorder are affected: CP-UNR-108F1 H",
@@ -649,19 +664,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CISA/KEV"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "XCharge C6",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-08",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain administrator rights or execute code on the affected device. The following versions of XCharge C6 are affected: C6 CVSS Vendor Equipment Vulnerabilities v3 9.8 XCharge XCharge C6 Download of Code Without Integrity Check, Stack-based Buffer Overflow, Initialization of a Resource with an Insecure Default Background Critical Infrastructure Sectors: Transportation Systems Countries/Areas Deployed: Worl",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity",
-        "Exploit wording"
       ]
     }
   ],

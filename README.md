@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-29 18:28 UTC |
+| 🕐 Last Updated | 2026-05-29 21:49 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`download malware disguised` • `275 million students` • `threat actors disguised` • `twitter whistleblower complaint` • `service's login page` • `greyvibe per withsecure` • `credential stealer payload` • `argument injection flaw` • `ai powered cyberattacks` • `overall system integrity`
+`download malware disguised` • `275 million students` • `twitter whistleblower complaint` • `threat actors disguised` • `service's login page` • `greyvibe per withsecure` • `credential stealer payload` • `argument injection flaw` • `ai powered cyberattacks` • `overall system integrity`
 
 ## 📄 Reports
 

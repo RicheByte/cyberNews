@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-29 18:28 UTC  
+> **Last Updated:** 2026-05-29 21:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**download malware disguised** • **275 million students** • **threat actors disguised** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **credential stealer payload** • **argument injection flaw** • **ai powered cyberattacks** • **overall system integrity** • **cybercrime group defaced** • **unknown threat actor** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **popular automation service** • **protect user data** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **vs code tunnels**
+**download malware disguised** • **275 million students** • **twitter whistleblower complaint** • **threat actors disguised** • **service's login page** • **greyvibe per withsecure** • **credential stealer payload** • **argument injection flaw** • **ai powered cyberattacks** • **overall system integrity** • **cybercrime group defaced** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **cyberattacks influence operations** • **cyber threat actors** • **aiding cyberattacks authorities** • **popular automation service** • **protect user data** • **polished attack platforms**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Name That Toon: Mark of (Cybersecurity) Progress](https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress)
 - [Asia's Cyber Insurance Market Shows Signs of Life](https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life)
 - [With Complex Cloud Integrations, Small Errors Lead to Major Compromises](https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises)
 - ['The Com' Cyberattacks Support Violence &amp; Sexploitation](https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation)
@@ -56,7 +57,6 @@
 - [Dutch Raid Fails to Dent Russian Bulletproof Host](https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host)
 - [Name That Toon Contest](https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest)
 - [Agentic AI Isn't Risky; the Way Orgs Deploy It Is](https://www.darkreading.com/application-security/agentic-ai-risky)
-- [Focus on Cyber Insurance: How Quantifying Risk Is Reshaping Security](https://www.darkreading.com/cyber-risk/focus-cyber-insurance-quantifying-risk-reshape-security)
 
 ### Security Week
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [ABB EIBPORT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03)
-- [Schnieider Electric EcoStruxure Machine Expert HVAC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07)
 - [Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02)
 - [ABB Busch-Welcome 2 Wire Door Opener Actuator](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04)
 - [Fourth Frontier Frontier X Mobile Application, Frontier X2](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01)
+- [Schnieider Electric EcoStruxure Machine Expert HVAC](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07)
 - [CP Plus 8 Ch. Network Video Recorder](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-05)
 - [Supply Chain Compromises Impact Nx Console and GitHub Repositories](https://www.cisa.gov/news-events/alerts/2026/05/28/supply-chain-compromises-impact-nx-console-and-github-repositories)
-- [XCharge C6](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-08)
 
 ---
 

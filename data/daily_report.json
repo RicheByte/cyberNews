@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-05-28 23:10",
+  "last_updated": "2026-05-29 02:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "network video recorder",
     "twitter whistleblower complaint",
     "targeting law firms",
+    "network video recorder",
     "information stealing capabilities",
     "credential stealer payload",
     "aggravated identity theft",
@@ -15,55 +15,55 @@
     "overall system integrity",
     "cvss scoring system",
     "ai power users",
-    "network incidents take",
     "fresh box full",
     "fake recruiter lures",
     "cybercrime group defaced",
     "urging immediate patching",
     "united states today",
     "ten eleven ventures",
-    "teams reduce delays"
+    "targeting ukrainian entities",
+    "supply chain attacks"
   ],
   "trending": [
     {
-      "keyword": "network video recorder",
-      "mentions": 3
-    },
-    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1741
+      "mentions": 1742
     },
     {
       "keyword": "targeting law firms",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "information stealing capabilities",
-      "mentions": 10
-    },
-    {
-      "keyword": "credential stealer payload",
-      "mentions": 3
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 188
-    },
-    {
-      "keyword": "275 million students",
-      "mentions": 48
-    },
-    {
-      "keyword": "btmob malware respectively",
+      "keyword": "network video recorder",
       "mentions": 4
     },
     {
+      "keyword": "information stealing capabilities",
+      "mentions": 11
+    },
+    {
+      "keyword": "credential stealer payload",
+      "mentions": 4
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 189
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 49
+    },
+    {
+      "keyword": "btmob malware respectively",
+      "mentions": 5
+    },
+    {
       "keyword": "threat actors disguised",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic confirms Claude Mythos-class models will roll out to the public",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/",
+      "summary": "Anthropic has confirmed that it plans to bring Mythos-class models to the general public after delaying the rollout due to security risks to public and private software. [...]",
+      "published": "Thu, 28 May 2026 20:21:03 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "GreyVibe hackers use ChatGPT, Gemini to power cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/",
       "summary": "A likely Russian threat cluster tracked as GreyVibe has been targeting Ukrainian entities with AI-generated lures and a rich set of custom malware tools. [...]",
@@ -216,15 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/",
       "summary": "A Romanian national was sentenced this week to 56 months in federal prison for breaking into an Oregon state government computer network and fr cyberattacks targeting dozens of other U.S. victims. [...]",
       "published": "Thu, 28 May 2026 08:43:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why network incidents take too long to resolve",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/",
-      "summary": "Many organizations can detect network issues quickly, but investigations and coordination often slow incident resolution. This webinar explores how automation and AI-assisted workflows can help IT teams reduce delays and improve response times. [...]",
-      "published": "Thu, 28 May 2026 08:20:28 -0400",
       "value_score": 10,
       "value_signals": []
     },

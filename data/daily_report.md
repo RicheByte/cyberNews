@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-28 23:10 UTC  
+> **Last Updated:** 2026-05-29 02:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**network video recorder** • **twitter whistleblower complaint** • **targeting law firms** • **information stealing capabilities** • **credential stealer payload** • **aggravated identity theft** • **275 million students** • **btmob malware respectively** • **threat actors disguised** • **overall system integrity** • **cvss scoring system** • **ai power users** • **network incidents take** • **fresh box full** • **fake recruiter lures** • **cybercrime group defaced** • **urging immediate patching** • **united states today** • **ten eleven ventures** • **teams reduce delays**
+**twitter whistleblower complaint** • **targeting law firms** • **network video recorder** • **information stealing capabilities** • **credential stealer payload** • **aggravated identity theft** • **275 million students** • **btmob malware respectively** • **threat actors disguised** • **overall system integrity** • **cvss scoring system** • **ai power users** • **fresh box full** • **fake recruiter lures** • **cybercrime group defaced** • **urging immediate patching** • **united states today** • **ten eleven ventures** • **targeting ukrainian entities** • **supply chain attacks**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic confirms Claude Mythos-class models will roll out to the public](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-mythos-class-models-will-roll-out-to-the-public/)
 - [GreyVibe hackers use ChatGPT, Gemini to power cyberattacks](https://www.bleepingcomputer.com/news/security/greyvibe-hackers-use-chatgpt-gemini-to-power-cyberattacks/)
 - [BTMOB Android malware service generates custom phishing payloads](https://www.bleepingcomputer.com/news/security/btmob-android-malware-service-generates-custom-phishing-payloads/)
 - [FBI warns of fake FIFA websites running World Cup fraud schemes](https://www.bleepingcomputer.com/news/security/fbi-warns-of-fake-fifa-websites-running-world-cup-fraud-schemes/)
@@ -34,7 +35,6 @@
 - [New Gogs zero-day flaw lets hackers get remote code execution](https://www.bleepingcomputer.com/news/security/new-gogs-zero-day-flaw-lets-hackers-get-remote-code-execution/)
 - [How SIEM helps MSPs reduce noise and stop threats faster](https://www.bleepingcomputer.com/news/security/how-siem-helps-msps-reduce-noise-and-stop-threats-faster/)
 - [Romanian gets 5 years in prison for hacking Oregon govt network](https://www.bleepingcomputer.com/news/security/romanian-gets-5-years-in-prison-for-hacking-oregon-govt-network/)
-- [Webinar: Why network incidents take too long to resolve](https://www.bleepingcomputer.com/news/security/webinar-why-network-incidents-take-too-long-to-resolve/)
 
 ### Krebs on Security
 

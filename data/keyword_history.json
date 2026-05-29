@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1742,
+      "count": 1743,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2096,7 +2096,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -7370,7 +7370,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -13998,7 +13998,7 @@
       ]
     },
     "aggravated identity theft": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -15795,7 +15795,7 @@
       ]
     },
     "service's login page": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15804,7 +15804,8 @@
         "2026-05-14",
         "2026-05-18",
         "2026-05-19",
-        "2026-05-23"
+        "2026-05-23",
+        "2026-05-29"
       ]
     },
     "claude chrome extension": {
@@ -15816,7 +15817,7 @@
       ]
     },
     "275 million students": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15841,7 +15842,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15895,7 +15896,7 @@
       ]
     },
     "united states today": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17550,7 +17551,7 @@
       ]
     },
     "targeting law firms": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-27",
         "2026-05-28",
@@ -17584,7 +17585,7 @@
       ]
     },
     "fake recruiter lures": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17597,13 +17598,14 @@
       ]
     },
     "stark industries solutions": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-28"
+        "2026-05-28",
+        "2026-05-29"
       ]
     },
     "ai power users": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17629,42 +17631,42 @@
       ]
     },
     "btmob malware respectively": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "urging immediate patching": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "network video recorder": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "threat actors disguised": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "credential stealer payload": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29"
       ]
     },
     "overall system integrity": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17683,7 +17685,7 @@
       ]
     },
     "ten eleven ventures": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-28",
         "2026-05-29"
@@ -17700,20 +17702,15 @@
       "dates": [
         "2026-05-29"
       ]
+    },
+    "vs code tunnels": {
+      "count": 1,
+      "dates": [
+        "2026-05-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-16 14:51",
-      "articles": 56,
-      "top_keywords": [
-        "custom backdoor kazuar",
-        "third party ecosystems",
-        "remote code execution",
-        "poc code published",
-        "cve 2026 20182"
-      ]
-    },
     {
       "timestamp": "2026-05-16 16:53",
       "articles": 56,
@@ -18800,6 +18797,17 @@
         "targeting law firms",
         "network video recorder",
         "information stealing capabilities",
+        "credential stealer payload"
+      ]
+    },
+    {
+      "timestamp": "2026-05-29 07:50",
+      "articles": 56,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "targeting law firms",
+        "service's login page",
+        "network video recorder",
         "credential stealer payload"
       ]
     }

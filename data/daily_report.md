@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-29 02:44 UTC  
+> **Last Updated:** 2026-05-29 07:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**twitter whistleblower complaint** • **targeting law firms** • **network video recorder** • **information stealing capabilities** • **credential stealer payload** • **aggravated identity theft** • **275 million students** • **btmob malware respectively** • **threat actors disguised** • **overall system integrity** • **cvss scoring system** • **ai power users** • **fresh box full** • **fake recruiter lures** • **cybercrime group defaced** • **urging immediate patching** • **united states today** • **ten eleven ventures** • **targeting ukrainian entities** • **supply chain attacks**
+**twitter whistleblower complaint** • **targeting law firms** • **service's login page** • **network video recorder** • **credential stealer payload** • **aggravated identity theft** • **275 million students** • **btmob malware respectively** • **threat actors disguised** • **overall system integrity** • **cvss scoring system** • **fake recruiter lures** • **ai power users** • **vs code tunnels** • **cybercrime group defaced** • **urging immediate patching** • **united states today** • **ten eleven ventures** • **supply chain attacks** • **stark industries solutions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
 - [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
 - [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
 - [Microsoft Slams Public Zero-Day Disclosures Amid GitHub Researcher Account Removal](https://thehackernews.com/2026/05/microsoft-slams-public-zero-day.html)
@@ -23,7 +24,6 @@
 - [New AI Usage Report: Enterprise AI Risk Is Heavily Concentrated Among a Small Group of AI "Power users"](https://thehackernews.com/2026/05/new-ai-usage-report-enterprise-ai-risk.html)
 - [JINX-0164 Targets Cryptocurrency Firms with Fake Recruiter Lures and macOS Malware](https://thehackernews.com/2026/05/jinx-0164-targets-cryptocurrency-firms.html)
 - [Grandoreiro Malware and BTMOB RAT Campaigns Target Windows and Android Users](https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html)
-- [Malicious npm Package Stole Files From Claude AI User Directory via GitHub](https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html)
 
 ### BleepingComputer
 

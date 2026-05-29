@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-05-29 02:44",
+  "last_updated": "2026-05-29 07:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "twitter whistleblower complaint",
     "targeting law firms",
+    "service's login page",
     "network video recorder",
-    "information stealing capabilities",
     "credential stealer payload",
     "aggravated identity theft",
     "275 million students",
@@ -14,59 +14,68 @@
     "threat actors disguised",
     "overall system integrity",
     "cvss scoring system",
-    "ai power users",
-    "fresh box full",
     "fake recruiter lures",
+    "ai power users",
+    "vs code tunnels",
     "cybercrime group defaced",
     "urging immediate patching",
     "united states today",
     "ten eleven ventures",
-    "targeting ukrainian entities",
-    "supply chain attacks"
+    "supply chain attacks",
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1742
+      "mentions": 1743
     },
     {
       "keyword": "targeting law firms",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "service's login page",
+      "mentions": 39
     },
     {
       "keyword": "network video recorder",
-      "mentions": 4
-    },
-    {
-      "keyword": "information stealing capabilities",
-      "mentions": 11
-    },
-    {
-      "keyword": "credential stealer payload",
-      "mentions": 4
-    },
-    {
-      "keyword": "aggravated identity theft",
-      "mentions": 189
-    },
-    {
-      "keyword": "275 million students",
-      "mentions": 49
-    },
-    {
-      "keyword": "btmob malware respectively",
       "mentions": 5
     },
     {
+      "keyword": "credential stealer payload",
+      "mentions": 5
+    },
+    {
+      "keyword": "aggravated identity theft",
+      "mentions": 190
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 50
+    },
+    {
+      "keyword": "btmob malware respectively",
+      "mentions": 6
+    },
+    {
       "keyword": "threat actors disguised",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels",
+      "link": "https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html",
+      "summary": "The North Korean state-sponsored threat actor known as Kimsuky (aka Velvet Chollima) has been attributed to a fresh set of cyber attacks targeting South Korean military and corporate entities through March and April 2026. \"Kimsuky employed a range of tailored social engineering tactics, such as spoofing security software installation pages and crafting a fake Webex meeting page that leveraged",
+      "published": "Fri, 29 May 2026 11:27:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
@@ -135,15 +144,6 @@
       "link": "https://thehackernews.com/2026/05/grandoreiro-malware-and-btmob-rat.html",
       "summary": "Latin America and Europe become the target of two banking trojan campaigns that are designed to infect Windows and Android devices with Grandoreiro and BTMOB malware, respectively. That's according to new findings from WatchGuard and ESET, which have observed the two malware families being used to single out companies in Spain, Portugal, and Mexico, as well as mobile users in Brazil. The",
       "published": "Wed, 27 May 2026 21:40:21 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malicious npm Package Stole Files From Claude AI User Directory via GitHub",
-      "link": "https://thehackernews.com/2026/05/malicious-npm-package-stole-files-from.html",
-      "summary": "Cybersecurity researchers have discovered a new malicious package on the npm registry that comes with information stealing capabilities. According to OX Security, the package, named \"mouse5212-super-formatter,\" is designed to upload files from \"/mnt/user-data,\" a dedicated directory used by Anthropic's Claude artificial intelligence (AI) tool to handle uploads and outputs in the background. The",
-      "published": "Wed, 27 May 2026 21:14:29 +0530",
       "value_score": 10,
       "value_signals": []
     },

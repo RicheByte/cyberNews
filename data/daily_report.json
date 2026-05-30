@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 13:17",
+  "last_updated": "2026-05-30 15:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -17,53 +17,53 @@
     "remote code execution",
     "cyberattacks influence operations",
     "aiding cyberattacks authorities",
-    "popular automation service",
-    "protect user data",
     "polished attack platforms",
     "cyber threat actors",
     "wire fraud conspiracy",
-    "way orgs deploy"
+    "way orgs deploy",
+    "victim's privileges exposure",
+    "united states today"
   ],
   "trending": [
     {
       "keyword": "275 million students",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1753
+      "mentions": 1754
     },
     {
       "keyword": "service's login page",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "greyvibe per withsecure",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "download malware disguised",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "argument injection flaw",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "ai powered cyberattacks",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "cybercrime group defaced",
-      "mentions": 88
+      "mentions": 89
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
+      "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
+      "published": "Sat, 30 May 2026 10:16:08 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Privilege escalation"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ChatGPT share links abused to host fake outage pages to deliver malware",
       "link": "https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/",
       "summary": "Threat actors are abusing ChatGPT's content-sharing feature to display fake OpenAI outage pages that direct users to download malware disguised as the ChatGPT desktop application. [...]",
@@ -222,17 +233,6 @@
       "published": "Fri, 29 May 2026 06:11:44 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Charter Communications data breach affects 4.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/",
-      "summary": "The ShinyHunters extortion gang stole personal information from 4.9 million accounts after hacking the U.S. telecom giant Charter Communications in early April, according to data breach notification service Have I Been Pwned. [...]",
-      "published": "Fri, 29 May 2026 04:29:40 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

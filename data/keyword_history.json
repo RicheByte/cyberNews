@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1753,
+      "count": 1754,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -715,7 +715,7 @@
       ]
     },
     "remote code execution": {
-      "count": 429,
+      "count": 430,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -8081,7 +8081,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15801,7 +15801,7 @@
       ]
     },
     "service's login page": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15824,7 +15824,7 @@
       ]
     },
     "275 million students": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15850,7 +15850,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15905,7 +15905,7 @@
       ]
     },
     "united states today": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -15920,7 +15920,8 @@
         "2026-05-23",
         "2026-05-24",
         "2026-05-28",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-05-30"
       ]
     },
     "provided fake data": {
@@ -17313,7 +17314,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17337,7 +17338,7 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17681,7 +17682,7 @@
       ]
     },
     "overall system integrity": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17720,7 +17721,7 @@
       ]
     },
     "vs code tunnels": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-29",
         "2026-05-30"
@@ -17745,7 +17746,7 @@
       ]
     },
     "argument injection flaw": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-29",
         "2026-05-30"
@@ -17759,41 +17760,42 @@
       ]
     },
     "ai powered cyberattacks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-29",
         "2026-05-30"
       ]
     },
     "way orgs deploy": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-29",
         "2026-05-30"
       ]
     },
     "victim's privileges exposure": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-29"
+        "2026-05-29",
+        "2026-05-30"
       ]
     },
     "download malware disguised": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-29",
         "2026-05-30"
       ]
     },
     "greyvibe per withsecure": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-29",
         "2026-05-30"
       ]
     },
     "unknown threat actor": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-29",
         "2026-05-30"
@@ -17807,14 +17809,14 @@
       ]
     },
     "cyber threat actors": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-29",
         "2026-05-30"
       ]
     },
     "polished attack platforms": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-05-29",
         "2026-05-30"
@@ -17822,17 +17824,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-17 16:52",
-      "articles": 56,
-      "top_keywords": [
-        "custom backdoor kazuar",
-        "remote code execution",
-        "third party ecosystems",
-        "twitter whistleblower complaint",
-        "stop loading passwords"
-      ]
-    },
     {
       "timestamp": "2026-05-17 19:01",
       "articles": 56,
@@ -18913,6 +18904,17 @@
     },
     {
       "timestamp": "2026-05-30 13:17",
+      "articles": 56,
+      "top_keywords": [
+        "275 million students",
+        "twitter whistleblower complaint",
+        "service's login page",
+        "greyvibe per withsecure",
+        "download malware disguised"
+      ]
+    },
+    {
+      "timestamp": "2026-05-30 15:01",
       "articles": 56,
       "top_keywords": [
         "275 million students",

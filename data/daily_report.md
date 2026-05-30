@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-30 13:17 UTC  
+> **Last Updated:** 2026-05-30 15:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**275 million students** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **download malware disguised** • **argument injection flaw** • **ai powered cyberattacks** • **unknown threat actor** • **overall system integrity** • **cybercrime group defaced** • **vs code tunnels** • **remote code execution** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **popular automation service** • **protect user data** • **polished attack platforms** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy**
+**275 million students** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **download malware disguised** • **argument injection flaw** • **ai powered cyberattacks** • **unknown threat actor** • **overall system integrity** • **cybercrime group defaced** • **vs code tunnels** • **remote code execution** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **polished attack platforms** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
 - [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
 - [California AG sues 23andMe over 2023 breach exposing health data](https://www.bleepingcomputer.com/news/security/california-ag-sues-23andme-over-2023-breach-exposing-health-data/)
 - [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
@@ -34,7 +35,6 @@
 - [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
 - [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
 - [US charges Google security engineer with Polymarket insider trading](https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/)
-- [Charter Communications data breach affects 4.9 million accounts](https://www.bleepingcomputer.com/news/security/charter-communications-data-breach-affects-49-million-accounts/)
 
 ### Krebs on Security
 

@@ -1,72 +1,87 @@
 {
-  "last_updated": "2026-05-30 06:42",
+  "last_updated": "2026-05-30 09:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "download malware disguised",
     "275 million students",
     "twitter whistleblower complaint",
-    "threat actors disguised",
     "service's login page",
     "greyvibe per withsecure",
-    "credential stealer payload",
+    "download malware disguised",
     "argument injection flaw",
     "ai powered cyberattacks",
+    "unknown threat actor",
     "overall system integrity",
     "cybercrime group defaced",
     "vs code tunnels",
-    "unknown threat actor",
     "remote code execution",
     "cyberattacks influence operations",
-    "cyber threat actors",
     "aiding cyberattacks authorities",
     "popular automation service",
     "protect user data",
-    "polished attack platforms"
+    "polished attack platforms",
+    "cyber threat actors",
+    "wire fraud conspiracy",
+    "way orgs deploy"
   ],
   "trending": [
     {
-      "keyword": "download malware disguised",
-      "mentions": 5
-    },
-    {
       "keyword": "275 million students",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1750
-    },
-    {
-      "keyword": "threat actors disguised",
-      "mentions": 12
+      "mentions": 1751
     },
     {
       "keyword": "service's login page",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "greyvibe per withsecure",
-      "mentions": 5
-    },
-    {
-      "keyword": "credential stealer payload",
-      "mentions": 12
-    },
-    {
-      "keyword": "argument injection flaw",
       "mentions": 6
     },
     {
+      "keyword": "download malware disguised",
+      "mentions": 6
+    },
+    {
+      "keyword": "argument injection flaw",
+      "mentions": 7
+    },
+    {
       "keyword": "ai powered cyberattacks",
+      "mentions": 7
+    },
+    {
+      "keyword": "unknown threat actor",
       "mentions": 6
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "cybercrime group defaced",
+      "mentions": 86
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
+      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections. \"Authentication bypass vulnerabilities in the",
+      "published": "Sat, 30 May 2026 12:11:26 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "Auth bypass ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface",
@@ -137,18 +152,6 @@
       "value_signals": [
         "RCE ×3",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
-      "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "summary": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
-      "published": "Thu, 28 May 2026 20:56:04 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

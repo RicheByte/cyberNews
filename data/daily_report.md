@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-30 06:42 UTC  
+> **Last Updated:** 2026-05-30 09:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**download malware disguised** • **275 million students** • **twitter whistleblower complaint** • **threat actors disguised** • **service's login page** • **greyvibe per withsecure** • **credential stealer payload** • **argument injection flaw** • **ai powered cyberattacks** • **overall system integrity** • **cybercrime group defaced** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **cyberattacks influence operations** • **cyber threat actors** • **aiding cyberattacks authorities** • **popular automation service** • **protect user data** • **polished attack platforms**
+**275 million students** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **download malware disguised** • **argument injection flaw** • **ai powered cyberattacks** • **unknown threat actor** • **overall system integrity** • **cybercrime group defaced** • **vs code tunnels** • **remote code execution** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **popular automation service** • **protect user data** • **polished attack platforms** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 - [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
 - [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
 - [New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html)
@@ -23,7 +24,6 @@
 - [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 - [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
 - [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
-- [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html)
 
 ### BleepingComputer
 

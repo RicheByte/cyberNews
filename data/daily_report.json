@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-30 16:56",
+  "last_updated": "2026-05-30 19:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "exploit code published",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1755
+      "mentions": 1756
     },
     {
       "keyword": "service's login page",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "greyvibe per withsecure",
-      "mentions": 10
-    },
-    {
-      "keyword": "download malware disguised",
-      "mentions": 10
-    },
-    {
-      "keyword": "argument injection flaw",
       "mentions": 11
     },
     {
+      "keyword": "download malware disguised",
+      "mentions": 11
+    },
+    {
+      "keyword": "argument injection flaw",
+      "mentions": 12
+    },
+    {
       "keyword": "275 million students",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "vs code tunnels",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "remote code execution",
-      "mentions": 431
+      "mentions": 432
     }
   ],
   "articles": [
@@ -156,6 +156,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
+      "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
+      "published": "Sat, 30 May 2026 14:02:51 -0400",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass ×2",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New CIFSwitch Linux flaw gives root on multiple distributions",
       "link": "https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/",
       "summary": "A newly discovered local privilege escalation vulnerability dubbed 'CIFSwitch' in the Linux kernel could allow attackers to forge CIFS authentication key descriptions, abuse the kernel's key request mechanism, and gain root privileges. [...]",
@@ -222,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
       "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
       "published": "Fri, 29 May 2026 07:07:07 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US charges Google security engineer with Polymarket insider trading",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-google-security-engineer-with-polymarket-insider-trading/",
-      "summary": "A Google security engineer was charged with insider trading after winning $1.2 million using confidential company data to place bets on the cryptocurrency-based Polymarket decentralized prediction market. [...]",
-      "published": "Fri, 29 May 2026 06:11:44 -0400",
       "value_score": 10,
       "value_signals": []
     },

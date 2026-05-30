@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-30 15:01 UTC  
+> **Last Updated:** 2026-05-30 16:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**275 million students** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **download malware disguised** • **argument injection flaw** • **ai powered cyberattacks** • **unknown threat actor** • **overall system integrity** • **cybercrime group defaced** • **vs code tunnels** • **remote code execution** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **polished attack platforms** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today**
+**exploit code published** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **download malware disguised** • **argument injection flaw** • **275 million students** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **overall system integrity** • **exploit chain combining** • **cybercrime group defaced** • **polished attack platforms** • **ai powered cyberattacks** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say](https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/)
+- [Exploit Code Published for Critical Flowise RCE Vulnerability](https://www.securityweek.com/exploit-code-published-for-critical-flowise-rce-vulnerability/)
 - [In Other News: Trump Mobile Data Breach, FIFA World Cup Phishing, CISA Responds to Supply Chain Attacks](https://www.securityweek.com/in-other-news-trump-mobile-data-breach-fifa-world-cup-phishing-cisa-responds-to-supply-chain-attacks/)
 - [Charter Communications Data Breach Could Impact Nearly 5 Million](https://www.securityweek.com/charter-communications-data-breach-could-impact-nearly-5-million/)
 - [MokN Raises $15 Million for Phish-Back Platform](https://www.securityweek.com/mokn-raises-15-million-for-phish-back-platform/)
 - [Gogs Zero-Day Exposes Servers to Remote Code Execution](https://www.securityweek.com/gogs-zero-day-exposes-servers-to-remote-code-execution/)
 - [California Sues 23andMe, Alleging It Failed to Protect User Data in 2023 Breach](https://www.securityweek.com/california-sues-23andme-alleging-it-failed-to-protect-user-data-in-2023-breach/)
 - [Chrome 148 Update Patches 151 Vulnerabilities](https://www.securityweek.com/chrome-148-update-patches-151-vulnerabilities/)
-- [Russia-Linked ‘GreyVibe’ Attackers Use AI to Supercharge Cyberattacks](https://www.securityweek.com/russia-linked-greyvibe-attackers-use-ai-to-supercharge-cyberattacks/)
-- [Geordie Raises $30 Million for AI Security and Governance Platform](https://www.securityweek.com/geordie-raises-30-million-for-ai-security-and-governance-platform/)
 
 ### Threatpost
 

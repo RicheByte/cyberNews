@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-05-30 15:01 UTC |
+| 🕐 Last Updated | 2026-05-30 16:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`275 million students` • `twitter whistleblower complaint` • `service's login page` • `greyvibe per withsecure` • `download malware disguised` • `argument injection flaw` • `ai powered cyberattacks` • `unknown threat actor` • `overall system integrity` • `cybercrime group defaced`
+`exploit code published` • `twitter whistleblower complaint` • `service's login page` • `greyvibe per withsecure` • `download malware disguised` • `argument injection flaw` • `275 million students` • `vs code tunnels` • `unknown threat actor` • `remote code execution`
 
 ## 📄 Reports
 

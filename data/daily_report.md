@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-31 13:25 UTC  
+> **Last Updated:** 2026-05-31 15:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exploit code published** • **twitter whistleblower complaint** • **service's login page** • **overall system integrity** • **download malware disguised** • **275 million students** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **exploit chain combining** • **cybercrime group defaced** • **polished attack platforms** • **ai powered cyberattacks** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today** • **stark industries solutions** • **siphon client ids**
+**exploit code published** • **twitter whistleblower complaint** • **service's login page** • **overall system integrity** • **download malware disguised** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **exploit chain combining** • **275 million students** • **cybercrime group defaced** • **polished attack platforms** • **protect user data** • **ai powered cyberattacks** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today** • **stark industries solutions**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [WP Maps Pro bug exploited to create admin accounts on WordPress sites](https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/)
 - [Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/)
 - [New CIFSwitch Linux flaw gives root on multiple distributions](https://www.bleepingcomputer.com/news/security/new-cifswitch-linux-flaw-gives-root-on-multiple-distributions/)
 - [ChatGPT share links abused to host fake outage pages to deliver malware](https://www.bleepingcomputer.com/news/security/chatgpt-share-links-abused-to-host-fake-outage-pages-to-deliver-malware/)
@@ -34,7 +35,6 @@
 - [From $5 Attacks to Botnet-Powered Platforms: Inside the DDoS-as-a- Service Market](https://www.bleepingcomputer.com/news/security/from-5-attacks-to-botnet-powered-platforms-inside-the-ddos-as-a-service-market/)
 - [Dutch govt disrupts malware botnet with 17 million infected devices](https://www.bleepingcomputer.com/news/security/dutch-govt-disrupts-malware-botnet-with-17-million-infected-devices/)
 - [Google Chrome adds session cookie theft protection for all users](https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/)
-- [Man sent to prison for selling data of 7 millions elderly Americans](https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/)
 
 ### Krebs on Security
 

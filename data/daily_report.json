@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-31 13:25",
+  "last_updated": "2026-05-31 15:14",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,62 +8,62 @@
     "service's login page",
     "overall system integrity",
     "download malware disguised",
-    "275 million students",
     "vs code tunnels",
     "unknown threat actor",
     "remote code execution",
     "exploit chain combining",
+    "275 million students",
     "cybercrime group defaced",
     "polished attack platforms",
+    "protect user data",
     "ai powered cyberattacks",
     "cyber threat actors",
     "wire fraud conspiracy",
     "way orgs deploy",
     "victim's privileges exposure",
     "united states today",
-    "stark industries solutions",
-    "siphon client ids"
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "exploit code published",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1762
+      "mentions": 1763
     },
     {
       "keyword": "service's login page",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "download malware disguised",
-      "mentions": 17
-    },
-    {
-      "keyword": "275 million students",
-      "mentions": 69
+      "mentions": 18
     },
     {
       "keyword": "vs code tunnels",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "remote code execution",
-      "mentions": 438
+      "mentions": 439
     },
     {
       "keyword": "exploit chain combining",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 70
     }
   ],
   "articles": [
@@ -155,6 +155,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "summary": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+      "published": "Sun, 31 May 2026 10:06:42 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/palo-alto-globalprotect-vpn-auth-bypass-flaw-now-exploited-in-attacks/",
       "summary": "Palo Alto Networks is warning that hackers are now exploiting a PAN-OS GlobalProtect authentication bypass flaw, tracked as CVE-2026-0257, in attacks attempting to breach corporate networks. [...]",
@@ -226,15 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/google-chrome-adds-session-cookie-theft-protection-for-all-users/",
       "summary": "Google says the Chrome Device Bound Session Credentials (DBSC) security feature is now generally available and is rolling out to all users to prevent account takeovers. [...]",
       "published": "Fri, 29 May 2026 08:08:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man sent to prison for selling data of 7 millions elderly Americans",
-      "link": "https://www.bleepingcomputer.com/news/security/man-sent-to-prison-for-selling-data-of-7-millions-elderly-americans/",
-      "summary": "A North Carolina man was sentenced to more than 10 years in prison for selling the personal information of over 7 million elderly Americans to Jamaican scammers. [...]",
-      "published": "Fri, 29 May 2026 07:07:07 -0400",
       "value_score": 10,
       "value_signals": []
     },

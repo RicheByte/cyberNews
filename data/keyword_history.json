@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1762,
+      "count": 1763,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -716,7 +716,7 @@
       ]
     },
     "remote code execution": {
-      "count": 438,
+      "count": 439,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -8083,7 +8083,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15804,7 +15804,7 @@
       ]
     },
     "service's login page": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15828,7 +15828,7 @@
       ]
     },
     "275 million students": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15855,7 +15855,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15911,7 +15911,7 @@
       ]
     },
     "united states today": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17619,7 +17619,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17690,7 +17690,7 @@
       ]
     },
     "overall system integrity": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17730,7 +17730,7 @@
       ]
     },
     "vs code tunnels": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17771,7 +17771,7 @@
       ]
     },
     "ai powered cyberattacks": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17779,7 +17779,7 @@
       ]
     },
     "way orgs deploy": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17787,7 +17787,7 @@
       ]
     },
     "victim's privileges exposure": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17795,7 +17795,7 @@
       ]
     },
     "download malware disguised": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17811,7 +17811,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17819,14 +17819,15 @@
       ]
     },
     "protect user data": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-05-31"
       ]
     },
     "cyber threat actors": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17834,7 +17835,7 @@
       ]
     },
     "polished attack platforms": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17842,14 +17843,14 @@
       ]
     },
     "exploit code published": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-30",
         "2026-05-31"
       ]
     },
     "exploit chain combining": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-30",
         "2026-05-31"
@@ -17863,17 +17864,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-18 19:39",
-      "articles": 56,
-      "top_keywords": [
-        "nuclear weapons simulations",
-        "third party ecosystems",
-        "remote code execution",
-        "shinyhunters scattered spider",
-        "grafana confirms breach"
-      ]
-    },
     {
       "timestamp": "2026-05-18 21:06",
       "articles": 56,
@@ -18954,6 +18944,17 @@
     },
     {
       "timestamp": "2026-05-31 13:25",
+      "articles": 56,
+      "top_keywords": [
+        "exploit code published",
+        "twitter whistleblower complaint",
+        "service's login page",
+        "overall system integrity",
+        "download malware disguised"
+      ]
+    },
+    {
+      "timestamp": "2026-05-31 15:14",
       "articles": 56,
       "top_keywords": [
         "exploit code published",

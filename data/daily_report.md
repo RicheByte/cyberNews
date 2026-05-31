@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-05-31 10:10 UTC  
+> **Last Updated:** 2026-05-31 13:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exploit code published** • **twitter whistleblower complaint** • **service's login page** • **greyvibe per withsecure** • **download malware disguised** • **argument injection flaw** • **275 million students** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **overall system integrity** • **exploit chain combining** • **cybercrime group defaced** • **polished attack platforms** • **ai powered cyberattacks** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today**
+**exploit code published** • **twitter whistleblower complaint** • **service's login page** • **overall system integrity** • **download malware disguised** • **275 million students** • **vs code tunnels** • **unknown threat actor** • **remote code execution** • **exploit chain combining** • **cybercrime group defaced** • **polished attack platforms** • **ai powered cyberattacks** • **cyber threat actors** • **wire fraud conspiracy** • **way orgs deploy** • **victim's privileges exposure** • **united states today** • **stark industries solutions** • **siphon client ids**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
 - [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 - [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html)
 - [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html)
@@ -23,7 +24,6 @@
 - [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html)
 - [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html)
 - [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html)
-- [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html)
 
 ### BleepingComputer
 

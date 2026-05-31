@@ -1,19 +1,17 @@
 {
-  "last_updated": "2026-05-31 10:10",
+  "last_updated": "2026-05-31 13:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "exploit code published",
     "twitter whistleblower complaint",
     "service's login page",
-    "greyvibe per withsecure",
+    "overall system integrity",
     "download malware disguised",
-    "argument injection flaw",
     "275 million students",
     "vs code tunnels",
     "unknown threat actor",
     "remote code execution",
-    "overall system integrity",
     "exploit chain combining",
     "cybercrime group defaced",
     "polished attack platforms",
@@ -22,51 +20,64 @@
     "wire fraud conspiracy",
     "way orgs deploy",
     "victim's privileges exposure",
-    "united states today"
+    "united states today",
+    "stark industries solutions",
+    "siphon client ids"
   ],
   "trending": [
     {
       "keyword": "exploit code published",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1761
+      "mentions": 1762
     },
     {
       "keyword": "service's login page",
-      "mentions": 57
+      "mentions": 58
     },
     {
-      "keyword": "greyvibe per withsecure",
-      "mentions": 16
+      "keyword": "overall system integrity",
+      "mentions": 24
     },
     {
       "keyword": "download malware disguised",
-      "mentions": 16
-    },
-    {
-      "keyword": "argument injection flaw",
       "mentions": 17
     },
     {
       "keyword": "275 million students",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "vs code tunnels",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "remote code execution",
-      "mentions": 437
+      "mentions": 438
+    },
+    {
+      "keyword": "exploit chain combining",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
+      "published": "Sun, 31 May 2026 17:52:12 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
@@ -141,18 +152,6 @@
       "published": "Fri, 29 May 2026 11:27:41 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html",
-      "summary": "A critical security vulnerability has been disclosed in Gogs, a popular open-source self-hosted Git service, that allows an authenticated user to execute arbitrary code under certain conditions. The security flaw, per Rapid7, is rated 9.4 on the CVSS scoring system. It does not have a CVE identifier. \"The vulnerability allows any authenticated user to achieve remote code execution (RCE) on",
-      "published": "Thu, 28 May 2026 22:54:44 +0530",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×3",
-        "High severity ×2"
-      ]
     },
     {
       "source": "BleepingComputer",

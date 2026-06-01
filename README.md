@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-01 09:20 UTC |
+| 🕐 Last Updated | 2026-06-01 15:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`exploit code published` • `twitter whistleblower complaint` • `service's login page` • `overall system integrity` • `download malware disguised` • `vs code tunnels` • `unknown threat actor` • `remote code execution` • `exploit chain combining` • `275 million students`
+`exploit code published` • `create admin accounts` • `twitter whistleblower complaint` • `overall system integrity` • `observed targeting officials` • `cve 2026 0257` • `200 servers located` • `15 000 sales` • `attackers crosshairs organizations` • `teams collaboration platform`
 
 ## 📄 Reports
 

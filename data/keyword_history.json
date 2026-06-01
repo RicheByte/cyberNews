@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1769,
+      "count": 1770,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -862,7 +862,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -878,7 +878,8 @@
         "2026-04-16",
         "2026-04-17",
         "2026-05-14",
-        "2026-05-20"
+        "2026-05-20",
+        "2026-06-01"
       ]
     },
     "france arrests latvian": {
@@ -8085,7 +8086,7 @@
       ]
     },
     "wire fraud conspiracy": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-02-20",
         "2026-02-21",
@@ -15807,7 +15808,7 @@
       ]
     },
     "service's login page": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15860,7 +15861,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15917,7 +15918,7 @@
       ]
     },
     "united states today": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17626,7 +17627,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17698,7 +17699,7 @@
       ]
     },
     "overall system integrity": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17799,7 +17800,7 @@
       ]
     },
     "victim's privileges exposure": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -17861,7 +17862,7 @@
       ]
     },
     "exploit code published": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-30",
         "2026-05-31",
@@ -17869,7 +17870,7 @@
       ]
     },
     "exploit chain combining": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-30",
         "2026-05-31",
@@ -17881,20 +17882,63 @@
       "dates": [
         "2026-05-31"
       ]
+    },
+    "create admin accounts": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "observed targeting officials": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "cve 2026 0257": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "200 servers located": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "15 000 sales": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "attackers crosshairs organizations": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "teams collaboration platform": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "unique american advantage": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "trigger prompt injections": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-19 18:00",
-      "articles": 56,
-      "top_keywords": [
-        "abb coresense hm",
-        "unpatched chromadb vulnerability",
-        "remote code execution",
-        "microsoft com devicelogin",
-        "v12 security team"
-      ]
-    },
     {
       "timestamp": "2026-05-19 21:14",
       "articles": 56,
@@ -18982,6 +19026,17 @@
         "service's login page",
         "overall system integrity",
         "download malware disguised"
+      ]
+    },
+    {
+      "timestamp": "2026-06-01 15:50",
+      "articles": 56,
+      "top_keywords": [
+        "exploit code published",
+        "create admin accounts",
+        "twitter whistleblower complaint",
+        "overall system integrity",
+        "observed targeting officials"
       ]
     }
   ]

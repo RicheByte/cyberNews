@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1770,
+      "count": 1771,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1738,7 +1738,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 405,
+      "count": 406,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1808,7 +1808,8 @@
         "2026-05-25",
         "2026-05-26",
         "2026-05-27",
-        "2026-05-28"
+        "2026-05-28",
+        "2026-06-01"
       ]
     },
     "model agnostic abstractions": {
@@ -15808,7 +15809,7 @@
       ]
     },
     "service's login page": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15918,7 +15919,7 @@
       ]
     },
     "united states today": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17627,7 +17628,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17908,25 +17909,25 @@
       ]
     },
     "15 000 sales": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-01"
       ]
     },
     "attackers crosshairs organizations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-01"
       ]
     },
     "teams collaboration platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-01"
       ]
     },
     "unique american advantage": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-01"
       ]
@@ -17936,20 +17937,75 @@
       "dates": [
         "2026-06-01"
       ]
+    },
+    "improve response times": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "create administrative accounts": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "chief master sergeant": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "vulnerable linux systems": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "seqrite labs targets": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "self propagating worm": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "resetting account passwords": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "remote web ui": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "pro iranian images": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "openai codex attracting": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
+    },
+    "often detected quickly": {
+      "count": 1,
+      "dates": [
+        "2026-06-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-19 21:14",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "north africa region",
-        "abb coresense hm",
-        "unpatched chromadb vulnerability",
-        "v12 security team"
-      ]
-    },
     {
       "timestamp": "2026-05-19 22:59",
       "articles": 56,
@@ -19037,6 +19093,17 @@
         "twitter whistleblower complaint",
         "overall system integrity",
         "observed targeting officials"
+      ]
+    },
+    {
+      "timestamp": "2026-06-01 20:12",
+      "articles": 56,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "improve response times",
+        "create administrative accounts",
+        "chief master sergeant",
+        "15 000 sales"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01 03:32",
+  "last_updated": "2026-06-01 09:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "exploit code published",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1768
+      "mentions": 1769
     },
     {
       "keyword": "service's login page",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "overall system integrity",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "download malware disguised",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "vs code tunnels",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "remote code execution",
-      "mentions": 444
+      "mentions": 445
     },
     {
       "keyword": "exploit chain combining",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "275 million students",
-      "mentions": 75
+      "mentions": 76
     }
   ],
   "articles": [
@@ -339,6 +339,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
+      "link": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
+      "summary": "The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
+      "published": "Fri, 29 May 2026 15:56:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Asia's Cyber Insurance Market Shows Signs of Life",
       "link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
       "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a a variety of factors, but that could be changing.",
@@ -367,15 +376,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
-      "link": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
-      "summary": "The future of cybersecurity is germinating, as nation states vie for dominance in the embodied AI market and its supply chain.",
-      "published": "Thu, 28 May 2026 23:05:23 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",

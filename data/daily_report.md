@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-01 20:12 UTC  
+> **Last Updated:** 2026-06-01 23:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**twitter whistleblower complaint** • **improve response times** • **create administrative accounts** • **chief master sergeant** • **15 000 sales** • **attackers crosshairs organizations** • **teams collaboration platform** • **vulnerable linux systems** • **united states today** • **unique american advantage** • **stark industries solutions** • **sprawling phishing campaign** • **service's login page** • **seqrite labs targets** • **self propagating worm** • **resetting account passwords** • **remote web ui** • **pro iranian images** • **openai codex attracting** • **often detected quickly**
+**twitter whistleblower complaint** • **revealing sensitive information** • **create administrative accounts** • **chief master sergeant** • **15 000 sales** • **attackers crosshairs organizations** • **spanish national police** • **country's national authority** • **vulnerable linux systems** • **united states today** • **unique american advantage** • **strong bilateral cooperation** • **stark industries solutions** • **sprawling phishing campaign** • **service's login page** • **seqrite labs targets** • **self propagating worm** • **resetting account passwords** • **remote web ui** • **pro iranian images**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
+- [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
+- [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
 - [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
 - [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
 - [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
 - [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
 - [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
-- [Webinar tomorrow: From alert to resolution in network incident response](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/)
-- [Microsoft fixes outage affecting MFA setup, MySignIn service](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/)
-- [Microsoft fixes KB5089549 Windows security update install issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Anthropic to Open Mythos AI to EU's ENISA](https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa)
+- [Microsoft's Zero-Day Legal Threats Spark Backlash](https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash)
 - [Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit](https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit)
 - [Name That Toon: Mark of (Cybersecurity) Progress](https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress)
 - [As Global Powers Explore Humanoid Robots, Cyber-Risk Looms](https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk)
 - [Asia's Cyber Insurance Market Shows Signs of Life](https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life)
 - [With Complex Cloud Integrations, Small Errors Lead to Major Compromises](https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises)
 - ['The Com' Cyberattacks Support Violence &amp; Sexploitation](https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation)
-- [Dutch Raid Fails to Dent Russian Bulletproof Host](https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host)
-- [Name That Toon Contest](https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest)
 
 ### Security Week
 

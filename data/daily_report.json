@@ -1,18 +1,20 @@
 {
-  "last_updated": "2026-06-01 20:12",
+  "last_updated": "2026-06-01 23:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "twitter whistleblower complaint",
-    "improve response times",
+    "revealing sensitive information",
     "create administrative accounts",
     "chief master sergeant",
     "15 000 sales",
     "attackers crosshairs organizations",
-    "teams collaboration platform",
+    "spanish national police",
+    "country's national authority",
     "vulnerable linux systems",
     "united states today",
     "unique american advantage",
+    "strong bilateral cooperation",
     "stark industries solutions",
     "sprawling phishing campaign",
     "service's login page",
@@ -20,50 +22,48 @@
     "self propagating worm",
     "resetting account passwords",
     "remote web ui",
-    "pro iranian images",
-    "openai codex attracting",
-    "often detected quickly"
+    "pro iranian images"
   ],
   "trending": [
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1771
+      "mentions": 1772
     },
     {
-      "keyword": "improve response times",
+      "keyword": "revealing sensitive information",
       "mentions": 1
     },
     {
       "keyword": "create administrative accounts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "15 000 sales",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "attackers crosshairs organizations",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "teams collaboration platform",
-      "mentions": 2
-    },
-    {
-      "keyword": "vulnerable linux systems",
+      "keyword": "spanish national police",
       "mentions": 1
     },
     {
-      "keyword": "united states today",
-      "mentions": 64
+      "keyword": "country's national authority",
+      "mentions": 1
     },
     {
-      "keyword": "unique american advantage",
+      "keyword": "vulnerable linux systems",
       "mentions": 2
+    },
+    {
+      "keyword": "united states today",
+      "mentions": 65
     }
   ],
   "articles": [
@@ -159,6 +159,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
+      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
+      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Red Hat npm packages compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
+      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
+      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Spain arrests doxer leaking sensitive data of govt employees",
+      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
+      "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
+      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Dashlane password manager users locked out by brute force attacks",
       "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
       "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
@@ -207,35 +234,6 @@
         "RCE",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar tomorrow: From alert to resolution in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-from-alert-to-resolution-in-network-incident-response/",
-      "summary": "Network incidents are often detected quickly, but investigations and coordination can delay resolution. Join our webinar tomorrow to learn how automation and AI-assisted workflows can help IT teams accelerate incident response. [...]",
-      "published": "Mon, 01 Jun 2026 08:01:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes outage affecting MFA setup, MySignIn service",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-outage-affecting-mfa-setup-mysignin-service/",
-      "summary": "Microsoft is working to address an ongoing incident preventing customers from setting up multi-factor authentication (MFA) or accessing the My Sign-Ins platform. [...]",
-      "published": "Mon, 01 Jun 2026 07:40:16 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes KB5089549 Windows security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-kb5089549-windows-security-update-install-issues/",
-      "summary": "Microsoft has resolved a known issue causing installation failures and 0x800f0922 errors when deploying the May 2026 Windows 11 security update (KB5089549). [...]",
-      "published": "Mon, 01 Jun 2026 06:59:43 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -326,6 +324,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Anthropic to Open Mythos AI to EU's ENISA",
+      "link": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
+      "summary": "The European security agency's entry to Project Glasswing is the result of \"strong bilateral cooperation\" between the European Commission and Anthropic.",
+      "published": "Mon, 01 Jun 2026 21:07:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft's Zero-Day Legal Threats Spark Backlash",
+      "link": "https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash",
+      "summary": "After a disgruntled security researcher published several zero-day exploits in recent weeks, Microsoft seemingly indicated criminal charges were in order.",
+      "published": "Mon, 01 Jun 2026 18:52:26 GMT",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
       "link": "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
       "summary": "Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.",
@@ -385,24 +404,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
-      "link": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
-      "summary": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
-      "published": "Thu, 28 May 2026 19:04:37 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Name That Toon Contest",
-      "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
-      "summary": "",
-      "published": "2026-06-26T11:00:00.000Z",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

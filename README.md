@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-02 08:23 UTC |
+| 🕐 Last Updated | 2026-06-02 13:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`revealing sensitive information` • `create administrative accounts` • `twitter whistleblower complaint` • `threat actor tracked` • `chief master sergeant` • `brute force attack` • `15 000 sales` • `faster vulnerability alerts` • `attackers crosshairs organizations` • `spanish national police`
+`mini shai hulud` • `credential stealing worm` • `threat actor tracked` • `meta ai hands` • `revealing sensitive information` • `ai driven exploitation` • `responsible disclosure ai` • `twitter whistleblower complaint` • `ordered government agencies` • `observed targeting officials`
 
 ## 📄 Reports
 

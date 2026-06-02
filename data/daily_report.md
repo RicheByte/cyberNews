@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-02 08:23 UTC  
+> **Last Updated:** 2026-06-02 13:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**revealing sensitive information** • **create administrative accounts** • **twitter whistleblower complaint** • **threat actor tracked** • **chief master sergeant** • **brute force attack** • **15 000 sales** • **faster vulnerability alerts** • **attackers crosshairs organizations** • **spanish national police** • **country's national authority** • **vulnerable linux systems** • **united states today** • **unique american advantage** • **strong bilateral cooperation** • **stark industries solutions** • **sprawling phishing campaign** • **service's login page** • **seqrite labs targets** • **self propagating worm**
+**mini shai hulud** • **credential stealing worm** • **threat actor tracked** • **meta ai hands** • **revealing sensitive information** • **ai driven exploitation** • **responsible disclosure ai** • **twitter whistleblower complaint** • **ordered government agencies** • **observed targeting officials** • **malicious cyber actors** • **malicious activity resulted** • **chief master sergeant** • **brute force attack** • **spanish national police** • **self propagating worm** • **seize instagram accounts** • **create administrative accounts** • **exploited without authentication** • **cybersecurity related caption**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.](https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html)
+- [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html)
+- [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html)
 - [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
 - [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
 - [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
 - [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
 - [The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools](https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html)
-- [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
-- [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
-- [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
 
 ### BleepingComputer
 
+- [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
+- [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
 - [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
 - [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
 - [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
 - [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
 - [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
 - [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
-- [Race Against Time: Why Faster Vulnerability Alerts Matter](https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/)
-- [Critical Windows Netlogon RCE flaw now exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense](https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense)
 - [Anthropic to Open Mythos AI to EU's ENISA](https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa)
 - [Microsoft's Zero-Day Legal Threats Spark Backlash](https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash)
 - [Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit](https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit)
@@ -56,18 +57,17 @@
 - [As Global Powers Explore Humanoid Robots, Cyber-Risk Looms](https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk)
 - [Asia's Cyber Insurance Market Shows Signs of Life](https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life)
 - [With Complex Cloud Integrations, Small Errors Lead to Major Compromises](https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises)
-- ['The Com' Cyberattacks Support Violence &amp; Sexploitation](https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation)
 
 ### Security Week
 
+- [The Zero-Knowledge Threat Actor and the End of Responsible Disclosure](https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/)
+- [Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches](https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/)
+- [Oracle WebLogic Vulnerability Exploited in the Wild](https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/)
+- [Meta AI Hands Over High-Profile Instagram Accounts to Hackers](https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/)
+- [Supply Chain Attack Hits 32 Red Hat NPM Packages](https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/)
 - [Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads](https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/)
 - [Oracle’s First Monthly Patches Resolve 77 Vulnerabilities](https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/)
 - [WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites](https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/)
-- [Dutch Police Dismantle Massive 17-Million-Device Botnet](https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/)
-- [Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/)
-- [Dragos Acquires xIoT Security Firm Phosphorus](https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/)
-- [As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution](https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/)
-- [19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access](https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/)
 
 ### Threatpost
 

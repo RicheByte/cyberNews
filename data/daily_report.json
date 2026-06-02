@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-06-02 08:23",
+  "last_updated": "2026-06-02 13:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "revealing sensitive information",
-    "create administrative accounts",
-    "twitter whistleblower complaint",
+    "mini shai hulud",
+    "credential stealing worm",
     "threat actor tracked",
+    "meta ai hands",
+    "revealing sensitive information",
+    "ai driven exploitation",
+    "responsible disclosure ai",
+    "twitter whistleblower complaint",
+    "ordered government agencies",
+    "observed targeting officials",
+    "malicious cyber actors",
+    "malicious activity resulted",
     "chief master sergeant",
     "brute force attack",
-    "15 000 sales",
-    "faster vulnerability alerts",
-    "attackers crosshairs organizations",
     "spanish national police",
-    "country's national authority",
-    "vulnerable linux systems",
-    "united states today",
-    "unique american advantage",
-    "strong bilateral cooperation",
-    "stark industries solutions",
-    "sprawling phishing campaign",
-    "service's login page",
-    "seqrite labs targets",
-    "self propagating worm"
+    "self propagating worm",
+    "seize instagram accounts",
+    "create administrative accounts",
+    "exploited without authentication",
+    "cybersecurity related caption"
   ],
   "trending": [
     {
-      "keyword": "revealing sensitive information",
+      "keyword": "mini shai hulud",
       "mentions": 3
     },
     {
-      "keyword": "create administrative accounts",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1774
+      "keyword": "credential stealing worm",
+      "mentions": 1
     },
     {
       "keyword": "threat actor tracked",
-      "mentions": 18
+      "mentions": 19
     },
     {
-      "keyword": "chief master sergeant",
+      "keyword": "meta ai hands",
+      "mentions": 1
+    },
+    {
+      "keyword": "revealing sensitive information",
       "mentions": 4
     },
     {
-      "keyword": "brute force attack",
+      "keyword": "ai driven exploitation",
       "mentions": 1
     },
     {
-      "keyword": "15 000 sales",
-      "mentions": 5
-    },
-    {
-      "keyword": "faster vulnerability alerts",
+      "keyword": "responsible disclosure ai",
       "mentions": 1
     },
     {
-      "keyword": "attackers crosshairs organizations",
-      "mentions": 5
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1775
     },
     {
-      "keyword": "spanish national police",
-      "mentions": 3
+      "keyword": "ordered government agencies",
+      "mentions": 12
+    },
+    {
+      "keyword": "observed targeting officials",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
+      "link": "https://thehackernews.com/2026/06/ai-driven-exploitation-is-destroying.html",
+      "summary": "AI-driven exploitation timelines are rapidly shrinking, and they are not going to stop shrinking. Vulnerabilities are being discovered, reproduced, and weaponized faster than ever in the history of enterprise security. As a result, the window between a vulnerability being disclosed and indiscriminate exploitation observed across the internet is now measured in hours, not days. The industry's",
+      "published": "Tue, 02 Jun 2026 17:28:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
+      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
+      "summary": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment. But owning EDR",
+      "published": "Tue, 02 Jun 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
+      "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
+      "summary": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
+      "published": "Tue, 02 Jun 2026 14:35:40 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
@@ -119,36 +150,29 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new malicious supply chain campaign that's targeting developers using OpenAI Codex through a legitimate-looking remote web UI. The tool, named codexui-android, is advertised on GitHub and npm as a remote web UI for OpenAI Codex, attracting over 29,000 weekly downloads. The package is still available for download from the repository. What",
-      "published": "Mon, 01 Jun 2026 15:01:15 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts",
-      "link": "https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html",
-      "summary": "Threat actors are attempting to actively exploit a critical security flaw impacting WP Maps Pro, a WordPress plugin that has had over 15,000 sales on the Envato Market, to create malicious administrator accounts on susceptible sites. WP Maps Pro allows site owners to embed customizable Google Maps and OpenStreetMap with markers, listings, and advanced location features on WordPress sites. It is",
-      "published": "Mon, 01 Jun 2026 14:15:29 +0530",
-      "value_score": 57,
+      "source": "BleepingComputer",
+      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
+      "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
+      "published": "Tue, 02 Jun 2026 08:40:33 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Active exploitation",
-        "High severity ×2",
+        "Active exploitation ×2",
+        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
-      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
-      "summary": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
-      "published": "Sun, 31 May 2026 17:52:12 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
+      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
+      "published": "Tue, 02 Jun 2026 07:10:15 -0400",
+      "value_score": 91,
       "value_signals": [
-        "Botnet ×2"
+        "Zero-day ×2",
+        "Active exploitation",
+        "Exploit wording"
       ]
     },
     {
@@ -204,31 +228,6 @@
       "published": "Mon, 01 Jun 2026 10:36:46 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Race Against Time: Why Faster Vulnerability Alerts Matter",
-      "link": "https://www.bleepingcomputer.com/news/security/race-against-time-why-faster-vulnerability-alerts-matter/",
-      "summary": "Attackers are exploiting vulnerabilities faster than many organizations can identify and patch them. SecAlerts explains why faster vulnerability alerts can help reduce exposure and improve response times. [...]",
-      "published": "Mon, 01 Jun 2026 10:00:10 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Windows Netlogon RCE flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/critical-windows-netlogon-remote-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "The Centre for Cybersecurity Belgium (CCB), the country's national authority for cybersecurity, warned on Friday that threat actors are now exploiting a recently patched critical Windows Netlogon vulnerability in attacks. [...]",
-      "published": "Mon, 01 Jun 2026 08:30:27 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +317,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
+      "link": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
+      "summary": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewall.",
+      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Anthropic to Open Mythos AI to EU's ENISA",
       "link": "https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa",
       "summary": "The European security agency's entry to Project Glasswing is the result of \"strong bilateral cooperation\" between the European Commission and Anthropic.",
@@ -389,15 +399,59 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "'The Com' Cyberattacks Support Violence &amp; Sexploitation",
-      "link": "https://www.darkreading.com/threat-intelligence/the-com-cyberattacks-violence-sexploitation",
-      "summary": "Your organization's security failures have consequences for everyone else as well since this criminal gang uses its cyber winnings to support more violent and widespread crimes.",
-      "published": "Fri, 29 May 2026 12:00:00 GMT",
+      "source": "Security Week",
+      "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
+      "link": "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/",
+      "summary": "AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code. The post The Zero-Knowledge Threat Actor and the End of Responsible Disclosure appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches",
+      "link": "https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/",
+      "summary": "A stack-based buffer overflow bug can be exploited for remote code execution on a vulnerable device. The post Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 12:25:52 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Oracle WebLogic Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/",
+      "summary": "The vulnerability is CVE-2024-21182 and it can be exploited without authentication to hack affected WebLogic servers. The post Oracle WebLogic Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 11:39:04 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
+      "link": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
+      "summary": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address. The post Meta AI Hands Over High-Profile Instagram Accounts to Hackers appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 10:48:26 +0000",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
+      "link": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
+      "summary": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud. The post Supply Chain Attack Hits 32 Red Hat NPM Packages appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 09:51:19 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -429,61 +483,6 @@
       "value_score": 34,
       "value_signals": [
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dutch Police Dismantle Massive 17-Million-Device Botnet",
-      "link": "https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/",
-      "summary": "Dutch authorities seized command-and-control servers tied to a botnet of infected computers, smartphones, and tablets that was allegedly used to power a residential proxy network and facilitate cybercrime. The post Dutch Police Dismantle Massive 17-Million-Device Botnet appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 17:55:26 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/",
-      "summary": "Organizations are advised to patch CVE-2026-41089 as soon as possible, given its severity, the potential ongoing exploitation. The post Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 15:02:17 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dragos Acquires xIoT Security Firm Phosphorus",
-      "link": "https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/",
-      "summary": "Dragos said customers will soon gain expanded asset visibility and integrated device intelligence, with automated remediation workflows and a unified platform experience to follow. The post Dragos Acquires xIoT Security Firm Phosphorus appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 12:46:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution",
-      "link": "https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/",
-      "summary": "AI’s use in the military is part of the administration’s larger push to grow the capability it sees as a unique American advantage. The post As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 11:48:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access",
-      "link": "https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/",
-      "summary": "Proof-of-concept (PoC) exploit code has been released for the CIFSwitch flaw, which allows low-privileged users to escalate to root on vulnerable Linux systems. The post 19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 11:19:31 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
         "Exploit wording"
       ]
     },

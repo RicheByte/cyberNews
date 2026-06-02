@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 506,
+      "count": 507,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -159,7 +159,8 @@
         "2026-05-21",
         "2026-05-22",
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-06-02"
       ]
     },
     "user named csnemess": {
@@ -293,7 +294,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1774,
+      "count": 1775,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3374,10 +3375,11 @@
       ]
     },
     "ordered government agencies": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-12",
-        "2026-01-13"
+        "2026-01-13",
+        "2026-06-02"
       ]
     },
     "weekend experienced disruptions": {
@@ -6980,11 +6982,12 @@
       ]
     },
     "exploited without authentication": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-02-11",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-06-02"
       ]
     },
     "vulnerabilities found recently": {
@@ -10322,7 +10325,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -15181,9 +15184,10 @@
       ]
     },
     "mini shai hulud": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-01"
+        "2026-05-01",
+        "2026-06-02"
       ]
     },
     "1 800 hit": {
@@ -17897,9 +17901,10 @@
       ]
     },
     "observed targeting officials": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-02"
       ]
     },
     "cve 2026 0257": {
@@ -17954,14 +17959,14 @@
       ]
     },
     "create administrative accounts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "chief master sergeant": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -17982,7 +17987,7 @@
       ]
     },
     "self propagating worm": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -18022,14 +18027,14 @@
       ]
     },
     "revealing sensitive information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "spanish national police": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -18050,7 +18055,7 @@
       ]
     },
     "brute force attack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-02"
       ]
@@ -18060,20 +18065,51 @@
       "dates": [
         "2026-06-02"
       ]
+    },
+    "credential stealing worm": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "meta ai hands": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "ai driven exploitation": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "responsible disclosure ai": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "malicious activity resulted": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "seize instagram accounts": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "cybersecurity related caption": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-20 10:45",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "abb coresense hm",
-        "platform's source code",
-        "v12 security team",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-20 14:50",
       "articles": 56,
@@ -19161,6 +19197,17 @@
         "twitter whistleblower complaint",
         "threat actor tracked",
         "chief master sergeant"
+      ]
+    },
+    {
+      "timestamp": "2026-06-02 13:56",
+      "articles": 56,
+      "top_keywords": [
+        "mini shai hulud",
+        "credential stealing worm",
+        "threat actor tracked",
+        "meta ai hands",
+        "revealing sensitive information"
       ]
     }
   ]

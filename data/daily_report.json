@@ -1,15 +1,13 @@
 {
-  "last_updated": "2026-06-02 13:56",
+  "last_updated": "2026-06-02 18:03",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "mini shai hulud",
-    "credential stealing worm",
-    "threat actor tracked",
-    "meta ai hands",
     "revealing sensitive information",
+    "threat actor tracked",
+    "exploitation researchers disagree",
+    "meta ai hands",
     "ai driven exploitation",
-    "responsible disclosure ai",
     "twitter whistleblower complaint",
     "ordered government agencies",
     "observed targeting officials",
@@ -17,52 +15,54 @@
     "malicious activity resulted",
     "chief master sergeant",
     "brute force attack",
+    "cybersecurity related caption",
     "spanish national police",
-    "self propagating worm",
-    "seize instagram accounts",
-    "create administrative accounts",
+    "popular automation service",
+    "meta ai abused",
     "exploited without authentication",
-    "cybersecurity related caption"
+    "zip archive containing",
+    "united states today",
+    "suspicious activity across"
   ],
   "trending": [
     {
-      "keyword": "mini shai hulud",
-      "mentions": 3
-    },
-    {
-      "keyword": "credential stealing worm",
-      "mentions": 1
+      "keyword": "revealing sensitive information",
+      "mentions": 5
     },
     {
       "keyword": "threat actor tracked",
-      "mentions": 19
+      "mentions": 20
+    },
+    {
+      "keyword": "exploitation researchers disagree",
+      "mentions": 1
     },
     {
       "keyword": "meta ai hands",
-      "mentions": 1
-    },
-    {
-      "keyword": "revealing sensitive information",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "ai driven exploitation",
-      "mentions": 1
-    },
-    {
-      "keyword": "responsible disclosure ai",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1775
+      "mentions": 1776
     },
     {
       "keyword": "ordered government agencies",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "observed targeting officials",
+      "mentions": 3
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 508
+    },
+    {
+      "keyword": "malicious activity resulted",
       "mentions": 2
     }
   ],
@@ -151,6 +151,35 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft Exchange Online outage causes email delays, failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/",
+      "summary": "Microsoft is working to address a widespread service issue affecting the mail flow pipeline for Exchange Online customers across North America and Germany. [...]",
+      "published": "Tue, 02 Jun 2026 13:02:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Instagram users locked out after Meta AI abused to steal accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/",
+      "summary": "Multiple Instagram users had their accounts hijacked after attackers convinced Meta's AI-powered support tools that they were the legitimate owners. [...]",
+      "published": "Tue, 02 Jun 2026 11:47:33 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Why the browser is now the front line for AI security",
+      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
+      "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
+      "published": "Tue, 02 Jun 2026 10:30:40 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
       "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
@@ -199,33 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
       "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
       "published": "Mon, 01 Jun 2026 17:28:41 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dashlane password manager users locked out by brute force attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/",
-      "summary": "Multiple Dashlane users have been locked out of their accounts following brute-force attacks that attempted logins from distant locations and unknown devices. [...]",
-      "published": "Mon, 01 Jun 2026 14:17:13 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress malware campaign hides payloads in Steam profiles",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/",
-      "summary": "Nearly 2,000 WordPress websites were infected with malware that relies on Steam Community profile comments to hide command-and-control (C2) data. [...]",
-      "published": "Mon, 01 Jun 2026 13:04:16 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft investigates Office Apps, Teams file access issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/",
-      "summary": "Microsoft says an ongoing incident is preventing users of its Teams collaboration platform and Office for the web cloud-based productivity suite from opening files. [...]",
-      "published": "Mon, 01 Jun 2026 10:36:46 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -400,6 +402,49 @@
     },
     {
       "source": "Security Week",
+      "title": "Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis",
+      "link": "https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/",
+      "summary": "As AI shortens the path from vulnerability disclosure to exploitation, researchers disagree on whether the problem is inadequate security tools or inadequate operational control. The post Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 16:35:38 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk",
+      "link": "https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/",
+      "summary": "A simple development setting bypassed protections designed to prevent unauthorized Android apps from accessing Microsoft account tokens, exposing billions of installations. The post Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 15:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities",
+      "link": "https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/",
+      "summary": "Google says the Android vulnerability CVE-2025-48595 has been exploited in limited, targeted attacks. The post Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 14:36:33 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Expanding Mythos Access to 150 New Organizations",
+      "link": "https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/",
+      "summary": "Only approximately 50 companies have had access to Mythos until now and they have found thousands of vulnerabilities in their products. The post Anthropic Expanding Mythos Access to 150 New Organizations appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 13:58:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "The Zero-Knowledge Threat Actor and the End of Responsible Disclosure",
       "link": "https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/",
       "summary": "AI can help attackers generate malware, create malicious payloads, bypass simple security checks, and convert vague malicious intent into functional code. The post The Zero-Knowledge Threat Actor and the End of Responsible Disclosure appeared first on SecurityWeek .",
@@ -441,48 +486,6 @@
       "published": "Tue, 02 Jun 2026 10:48:26 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Supply Chain Attack Hits 32 Red Hat NPM Packages",
-      "link": "https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/",
-      "summary": "Hackers published 96 malicious package versions, injected with a credential-stealing worm similar to Mini Shai-Hulud. The post Supply Chain Attack Hits 32 Red Hat NPM Packages appeared first on SecurityWeek .",
-      "published": "Tue, 02 Jun 2026 09:51:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
-      "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
-      "summary": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts. The post Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads appeared first on SecurityWeek .",
-      "published": "Tue, 02 Jun 2026 08:07:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
-      "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
-      "summary": "Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster. The post Oracle’s First Monthly Patches Resolve 77 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 02 Jun 2026 07:20:14 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
-      "link": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
-      "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 18:19:23 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
         "Exploit wording"
       ]
     },

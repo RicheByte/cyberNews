@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 507,
+      "count": 508,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -294,7 +294,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1775,
+      "count": 1776,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3375,7 +3375,7 @@
       ]
     },
     "ordered government agencies": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-12",
         "2026-01-13",
@@ -6982,7 +6982,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -10325,7 +10325,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -15927,7 +15927,7 @@
       ]
     },
     "united states today": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17786,10 +17786,11 @@
       ]
     },
     "popular automation service": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-06-02"
       ]
     },
     "ai powered cyberattacks": {
@@ -17901,7 +17902,7 @@
       ]
     },
     "observed targeting officials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -17966,7 +17967,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -18027,14 +18028,14 @@
       ]
     },
     "revealing sensitive information": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "spanish national police": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -18055,7 +18056,7 @@
       ]
     },
     "brute force attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02"
       ]
@@ -18073,13 +18074,13 @@
       ]
     },
     "meta ai hands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-02"
       ]
     },
     "ai driven exploitation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-02"
       ]
@@ -18091,7 +18092,7 @@
       ]
     },
     "malicious activity resulted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-02"
       ]
@@ -18103,6 +18104,30 @@
       ]
     },
     "cybersecurity related caption": {
+      "count": 2,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "exploitation researchers disagree": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "meta ai abused": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "zip archive containing": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "suspicious activity across": {
       "count": 1,
       "dates": [
         "2026-06-02"
@@ -18110,17 +18135,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-20 14:50",
-      "articles": 56,
-      "top_keywords": [
-        "abb coresense hm",
-        "remote code execution",
-        "platform's source code",
-        "company's public image",
-        "guard securing ai"
-      ]
-    },
     {
       "timestamp": "2026-05-20 18:12",
       "articles": 56,
@@ -19208,6 +19222,17 @@
         "threat actor tracked",
         "meta ai hands",
         "revealing sensitive information"
+      ]
+    },
+    {
+      "timestamp": "2026-06-02 18:03",
+      "articles": 56,
+      "top_keywords": [
+        "revealing sensitive information",
+        "threat actor tracked",
+        "exploitation researchers disagree",
+        "meta ai hands",
+        "ai driven exploitation"
       ]
     }
   ]

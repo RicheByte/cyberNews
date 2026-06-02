@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-02 13:56 UTC  
+> **Last Updated:** 2026-06-02 18:03 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**mini shai hulud** • **credential stealing worm** • **threat actor tracked** • **meta ai hands** • **revealing sensitive information** • **ai driven exploitation** • **responsible disclosure ai** • **twitter whistleblower complaint** • **ordered government agencies** • **observed targeting officials** • **malicious cyber actors** • **malicious activity resulted** • **chief master sergeant** • **brute force attack** • **spanish national police** • **self propagating worm** • **seize instagram accounts** • **create administrative accounts** • **exploited without authentication** • **cybersecurity related caption**
+**revealing sensitive information** • **threat actor tracked** • **exploitation researchers disagree** • **meta ai hands** • **ai driven exploitation** • **twitter whistleblower complaint** • **ordered government agencies** • **observed targeting officials** • **malicious cyber actors** • **malicious activity resulted** • **chief master sergeant** • **brute force attack** • **cybersecurity related caption** • **spanish national police** • **popular automation service** • **meta ai abused** • **exploited without authentication** • **zip archive containing** • **united states today** • **suspicious activity across**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
+- [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
+- [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
 - [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
 - [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
 - [Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks](https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/)
 - [Red Hat npm packages compromised to steal developer credentials](https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/)
 - [Spain arrests doxer leaking sensitive data of govt employees](https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/)
-- [Dashlane password manager users locked out by brute force attacks](https://www.bleepingcomputer.com/news/security/dashlane-password-manager-users-locked-out-by-brute-force-attacks/)
-- [WordPress malware campaign hides payloads in Steam profiles](https://www.bleepingcomputer.com/news/security/wordpress-malware-campaign-hides-payloads-in-steam-profiles/)
-- [Microsoft investigates Office Apps, Teams file access issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-investigates-office-apps-teams-file-access-issues/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Two New Reports Offer Competing Explanations for Cybersecurity’s Growing Crisis](https://www.securityweek.com/two-new-reports-offer-competing-explanations-for-cybersecuritys-growing-crisis/)
+- [Exclusive: How One Line of Code Put Billions of Microsoft Android App Downloads at Risk](https://www.securityweek.com/exclusive-how-one-line-of-code-put-billions-of-microsoft-android-app-downloads-at-risk/)
+- [Android Update Patches Exploited Zero-Day, 123 Other Vulnerabilities](https://www.securityweek.com/android-update-patches-exploited-zero-day-123-other-vulnerabilities/)
+- [Anthropic Expanding Mythos Access to 150 New Organizations](https://www.securityweek.com/anthropic-expanding-mythos-access-to-150-new-organizations/)
 - [The Zero-Knowledge Threat Actor and the End of Responsible Disclosure](https://www.securityweek.com/the-zero-knowledge-threat-actor-and-the-end-of-responsible-disclosure/)
 - [Critical Vulnerability in HP VoIP Phones Enables Enterprise Network Breaches](https://www.securityweek.com/critical-vulnerability-in-hp-voip-phones-enables-enterprise-network-breaches/)
 - [Oracle WebLogic Vulnerability Exploited in the Wild](https://www.securityweek.com/oracle-weblogic-vulnerability-exploited-in-the-wild/)
 - [Meta AI Hands Over High-Profile Instagram Accounts to Hackers](https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/)
-- [Supply Chain Attack Hits 32 Red Hat NPM Packages](https://www.securityweek.com/supply-chain-attack-hits-32-red-hat-npm-packages/)
-- [Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads](https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/)
-- [Oracle’s First Monthly Patches Resolve 77 Vulnerabilities](https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/)
-- [WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites](https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/)
 
 ### Threatpost
 

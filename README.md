@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-02 13:56 UTC |
+| 🕐 Last Updated | 2026-06-02 18:03 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`mini shai hulud` • `credential stealing worm` • `threat actor tracked` • `meta ai hands` • `revealing sensitive information` • `ai driven exploitation` • `responsible disclosure ai` • `twitter whistleblower complaint` • `ordered government agencies` • `observed targeting officials`
+`revealing sensitive information` • `threat actor tracked` • `exploitation researchers disagree` • `meta ai hands` • `ai driven exploitation` • `twitter whistleblower complaint` • `ordered government agencies` • `observed targeting officials` • `malicious cyber actors` • `malicious activity resulted`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-02 03:29 UTC  
+> **Last Updated:** 2026-06-02 08:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**twitter whistleblower complaint** • **revealing sensitive information** • **create administrative accounts** • **chief master sergeant** • **15 000 sales** • **attackers crosshairs organizations** • **spanish national police** • **country's national authority** • **vulnerable linux systems** • **united states today** • **unique american advantage** • **strong bilateral cooperation** • **stark industries solutions** • **sprawling phishing campaign** • **service's login page** • **seqrite labs targets** • **self propagating worm** • **resetting account passwords** • **remote web ui** • **pro iranian images**
+**revealing sensitive information** • **create administrative accounts** • **twitter whistleblower complaint** • **threat actor tracked** • **chief master sergeant** • **brute force attack** • **15 000 sales** • **faster vulnerability alerts** • **attackers crosshairs organizations** • **spanish national police** • **country's national authority** • **vulnerable linux systems** • **united states today** • **unique american advantage** • **strong bilateral cooperation** • **stark industries solutions** • **sprawling phishing campaign** • **service's login page** • **seqrite labs targets** • **self propagating worm**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html)
 - [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html)
 - [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html)
 - [China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan](https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html)
@@ -23,7 +24,6 @@
 - [OpenAI Codex Authentication Tokens Stolen in codexui-android npm Supply Chain Attack](https://thehackernews.com/2026/06/openai-codex-authentication-tokens.html)
 - [Critical WP Maps Pro Flaw Actively Exploited to Create Admin Accounts](https://thehackernews.com/2026/06/critical-wp-maps-pro-flaw-actively.html)
 - [Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices](https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html)
-- [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads](https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/)
+- [Oracle’s First Monthly Patches Resolve 77 Vulnerabilities](https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/)
 - [WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites](https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/)
 - [Dutch Police Dismantle Massive 17-Million-Device Botnet](https://www.securityweek.com/dutch-police-dismantle-massive-17-million-device-botnet/)
 - [Critical Windows Netlogon Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-windows-netlogon-vulnerability-in-attackers-crosshairs/)
 - [Dragos Acquires xIoT Security Firm Phosphorus](https://www.securityweek.com/dragos-acquires-xiot-security-firm-phosphorus/)
 - [As the Pentagon Pushes for Battlefield AI, Some Military Leaders Urge Caution](https://www.securityweek.com/as-the-pentagon-pushes-for-battlefield-ai-some-military-leaders-urge-caution/)
 - [19-Year-Old Linux Kernel Vulnerability Exposes Systems to Root Access](https://www.securityweek.com/19-year-old-linux-kernel-vulnerability-exposes-systems-to-root-access/)
-- [Recent Palo Alto Networks Vulnerability Exploited for Weeks](https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/)
-- [Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say](https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/)
 
 ### Threatpost
 

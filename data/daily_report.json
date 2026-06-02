@@ -1,13 +1,16 @@
 {
-  "last_updated": "2026-06-02 03:29",
+  "last_updated": "2026-06-02 08:23",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "twitter whistleblower complaint",
     "revealing sensitive information",
     "create administrative accounts",
+    "twitter whistleblower complaint",
+    "threat actor tracked",
     "chief master sergeant",
+    "brute force attack",
     "15 000 sales",
+    "faster vulnerability alerts",
     "attackers crosshairs organizations",
     "spanish national police",
     "country's national authority",
@@ -19,54 +22,60 @@
     "sprawling phishing campaign",
     "service's login page",
     "seqrite labs targets",
-    "self propagating worm",
-    "resetting account passwords",
-    "remote web ui",
-    "pro iranian images"
+    "self propagating worm"
   ],
   "trending": [
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1773
-    },
-    {
       "keyword": "revealing sensitive information",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "create administrative accounts",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1774
+    },
+    {
+      "keyword": "threat actor tracked",
+      "mentions": 18
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "brute force attack",
+      "mentions": 1
     },
     {
       "keyword": "15 000 sales",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "faster vulnerability alerts",
+      "mentions": 1
     },
     {
       "keyword": "attackers crosshairs organizations",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "spanish national police",
-      "mentions": 2
-    },
-    {
-      "keyword": "country's national authority",
-      "mentions": 2
-    },
-    {
-      "keyword": "vulnerable linux systems",
       "mentions": 3
-    },
-    {
-      "keyword": "united states today",
-      "mentions": 66
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
+      "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
+      "summary": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
+      "published": "Tue, 02 Jun 2026 09:25:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
@@ -140,21 +149,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html",
-      "summary": "Palo Alto Networks has warned that a recently disclosed medium-severity security flaw impacting PAN-OS and Prisma Access has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-0257 (CVSS score: 7.8), refers to a case of authentication bypass that could be exploited by bad actors to set up VPN connections. \"Authentication bypass vulnerabilities in the",
-      "published": "Sat, 30 May 2026 12:11:26 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "Auth bypass ×3",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {
@@ -407,6 +401,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads",
+      "link": "https://www.securityweek.com/dashlane-brute-force-attack-leads-to-limited-encrypted-vault-downloads/",
+      "summary": "Dashlane’s security systems automatically locked accounts to protect them against the hacking attempts. The post Dashlane Brute-Force Attack Leads to Limited Encrypted Vault Downloads appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 08:07:41 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Oracle’s First Monthly Patches Resolve 77 Vulnerabilities",
+      "link": "https://www.securityweek.com/oracles-first-monthly-patches-resolve-77-vulnerabilities/",
+      "summary": "Oracle’s monthly Critical Security Patch Update (CSPU) rollouts are meant to deliver critical fixes faster. The post Oracle’s First Monthly Patches Resolve 77 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 07:20:14 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites",
       "link": "https://www.securityweek.com/wp-maps-pro-vulnerability-exploited-to-take-over-wordpress-sites/",
       "summary": "The security defect (CVE-2026-8732) allows unauthenticated attackers to create administrative accounts on the affected installations. The post WP Maps Pro Vulnerability Exploited to Take Over WordPress Sites appeared first on SecurityWeek .",
@@ -471,28 +486,6 @@
         "PoC available",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent Palo Alto Networks Vulnerability Exploited for Weeks",
-      "link": "https://www.securityweek.com/recent-palo-alto-networks-vulnerability-exploited-for-weeks/",
-      "summary": "Hackers began exploiting CVE-2026-0257, an authentication bypass in Palo Alto Networks PAN-OS, four days after public disclosure. The post Recent Palo Alto Networks Vulnerability Exploited for Weeks appeared first on SecurityWeek .",
-      "published": "Mon, 01 Jun 2026 10:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say",
-      "link": "https://www.securityweek.com/russian-spies-are-aggressively-seeking-western-technology-as-sanctions-bite-officials-say/",
-      "summary": "Moscow’s agents are building fake companies, recruiting middlemen and deploying cyber spies and hackers who gather information that could be used to attack key infrastructure. The post Russian Spies Are Aggressively Seeking Western Technology as Sanctions Bite, Officials Say appeared first on SecurityWeek .",
-      "published": "Sat, 30 May 2026 16:00:49 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

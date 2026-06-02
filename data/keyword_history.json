@@ -293,7 +293,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1773,
+      "count": 1774,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1739,7 +1739,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 408,
+      "count": 409,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -10322,12 +10322,13 @@
       ]
     },
     "threat actor tracked": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-13",
         "2026-03-14",
         "2026-04-08",
-        "2026-04-09"
+        "2026-04-09",
+        "2026-06-02"
       ]
     },
     "threaten data availability": {
@@ -15811,7 +15812,7 @@
       ]
     },
     "service's login page": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15922,7 +15923,7 @@
       ]
     },
     "united states today": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17632,7 +17633,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17914,14 +17915,14 @@
       ]
     },
     "15 000 sales": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "attackers crosshairs organizations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -17934,7 +17935,7 @@
       ]
     },
     "unique american advantage": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -17953,35 +17954,35 @@
       ]
     },
     "create administrative accounts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "chief master sergeant": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "vulnerable linux systems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "seqrite labs targets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "self propagating worm": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -18021,46 +18022,47 @@
       ]
     },
     "revealing sensitive information": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "spanish national police": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "country's national authority": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "strong bilateral cooperation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-01",
+        "2026-06-02"
+      ]
+    },
+    "brute force attack": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "faster vulnerability alerts": {
+      "count": 1,
+      "dates": [
         "2026-06-02"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-20 07:39",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "abb coresense hm",
-        "platform's source code",
-        "twitter whistleblower complaint",
-        "shub reaper stealer"
-      ]
-    },
     {
       "timestamp": "2026-05-20 10:45",
       "articles": 56,
@@ -19148,6 +19150,17 @@
         "create administrative accounts",
         "chief master sergeant",
         "15 000 sales"
+      ]
+    },
+    {
+      "timestamp": "2026-06-02 08:23",
+      "articles": 56,
+      "top_keywords": [
+        "revealing sensitive information",
+        "create administrative accounts",
+        "twitter whistleblower complaint",
+        "threat actor tracked",
+        "chief master sergeant"
       ]
     }
   ]

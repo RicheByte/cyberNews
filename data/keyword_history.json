@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 508,
+      "count": 509,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -294,7 +294,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1776,
+      "count": 1777,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6982,7 +6982,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -15816,7 +15816,7 @@
       ]
     },
     "service's login page": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15927,7 +15927,7 @@
       ]
     },
     "united states today": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16233,7 +16233,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16248,7 +16248,8 @@
         "2026-05-23",
         "2026-05-24",
         "2026-05-25",
-        "2026-05-26"
+        "2026-05-26",
+        "2026-06-02"
       ]
     },
     "released security patches": {
@@ -17637,7 +17638,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17967,7 +17968,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -17988,7 +17989,7 @@
       ]
     },
     "self propagating worm": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-01",
         "2026-06-02"
@@ -18049,14 +18050,14 @@
       ]
     },
     "strong bilateral cooperation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
         "2026-06-02"
       ]
     },
     "brute force attack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-02"
       ]
@@ -18080,7 +18081,7 @@
       ]
     },
     "ai driven exploitation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02"
       ]
@@ -18092,7 +18093,7 @@
       ]
     },
     "malicious activity resulted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02"
       ]
@@ -18110,7 +18111,7 @@
       ]
     },
     "exploitation researchers disagree": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-02"
       ]
@@ -18122,7 +18123,7 @@
       ]
     },
     "zip archive containing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-02"
       ]
@@ -18132,20 +18133,39 @@
       "dates": [
         "2026-06-02"
       ]
+    },
+    "endpoint protection alone": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "securing ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "national security risks": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "android operating system": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
+    },
+    "user account including": {
+      "count": 1,
+      "dates": [
+        "2026-06-02"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-20 18:12",
-      "articles": 56,
-      "top_keywords": [
-        "secure ai agents",
-        "abb coresense hm",
-        "yellowkey bitlocker bypass",
-        "platform's source code",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-20 21:47",
       "articles": 56,
@@ -19233,6 +19253,17 @@
         "exploitation researchers disagree",
         "meta ai hands",
         "ai driven exploitation"
+      ]
+    },
+    {
+      "timestamp": "2026-06-02 22:19",
+      "articles": 56,
+      "top_keywords": [
+        "exploited without authentication",
+        "twitter whistleblower complaint",
+        "malicious cyber actors",
+        "exploitation researchers disagree",
+        "endpoint protection alone"
       ]
     }
   ]

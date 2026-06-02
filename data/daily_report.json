@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-06-02 18:03",
+  "last_updated": "2026-06-02 22:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "revealing sensitive information",
-    "threat actor tracked",
-    "exploitation researchers disagree",
-    "meta ai hands",
-    "ai driven exploitation",
+    "exploited without authentication",
     "twitter whistleblower complaint",
-    "ordered government agencies",
-    "observed targeting officials",
     "malicious cyber actors",
-    "malicious activity resulted",
+    "exploitation researchers disagree",
+    "endpoint protection alone",
     "chief master sergeant",
     "brute force attack",
-    "cybersecurity related caption",
-    "spanish national police",
-    "popular automation service",
-    "meta ai abused",
-    "exploited without authentication",
+    "securing ai agents",
+    "ai driven exploitation",
+    "national security risks",
+    "malicious activity resulted",
+    "android operating system",
+    "finding security vulnerabilities",
     "zip archive containing",
+    "user account including",
     "united states today",
-    "suspicious activity across"
+    "strong bilateral cooperation",
+    "stark industries solutions",
+    "service's login page",
+    "self propagating worm"
   ],
   "trending": [
     {
-      "keyword": "revealing sensitive information",
-      "mentions": 5
-    },
-    {
-      "keyword": "threat actor tracked",
-      "mentions": 20
-    },
-    {
-      "keyword": "exploitation researchers disagree",
-      "mentions": 1
-    },
-    {
-      "keyword": "meta ai hands",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai driven exploitation",
-      "mentions": 2
+      "keyword": "exploited without authentication",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1776
-    },
-    {
-      "keyword": "ordered government agencies",
-      "mentions": 13
-    },
-    {
-      "keyword": "observed targeting officials",
-      "mentions": 3
+      "mentions": 1777
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 508
+      "mentions": 509
     },
     {
-      "keyword": "malicious activity resulted",
+      "keyword": "exploitation researchers disagree",
       "mentions": 2
+    },
+    {
+      "keyword": "endpoint protection alone",
+      "mentions": 1
+    },
+    {
+      "keyword": "chief master sergeant",
+      "mentions": 7
+    },
+    {
+      "keyword": "brute force attack",
+      "mentions": 4
+    },
+    {
+      "keyword": "securing ai agents",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai driven exploitation",
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risks",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
+      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
+      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The",
+      "published": "Wed, 03 Jun 2026 00:16:00 +0530",
+      "value_score": 79,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Privilege escalation",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
+      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
+      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
+      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Oracle WebLogic CVE-2024-21182 Added to KEV Catalog After Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/oracle-weblogic-cve-2024-21182-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. The vulnerability, CVE-2024-21182 (CVSS score: 7.5), allows an unauthenticated attacker with network access to take control of susceptible servers. It was",
+      "published": "Tue, 02 Jun 2026 23:44:42 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "CISA/KEV ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI-Driven Exploitation is Destroying Vulnerability Management. Here’s How to Handle It.",
@@ -117,37 +158,38 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "summary": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality. The vibe is simple: old",
-      "published": "Mon, 01 Jun 2026 19:29:54 +0530",
-      "value_score": 57,
+      "source": "BleepingComputer",
+      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
+      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
+      "published": "Tue, 02 Jun 2026 18:12:57 -0400",
+      "value_score": 62,
       "value_signals": [
-        "Active exploitation",
-        "Phishing ×2",
+        "CVE mentioned",
+        "Privilege escalation",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-      "summary": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments",
-      "published": "Mon, 01 Jun 2026 17:24:24 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "summary": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor. A Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
-      "published": "Mon, 01 Jun 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
+      "published": "Tue, 02 Jun 2026 17:54:49 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
+      "summary": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
+      "published": "Tue, 02 Jun 2026 16:01:20 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -203,33 +245,6 @@
         "Active exploitation",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack thousands of sites for ClickFix and FakeUpdate attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-thousands-of-sites-for-clickfix-and-fakeupdate-attacks/",
-      "summary": "A threat actor tracked as DriveSurge has been operating large-scale malware distribution campaigns using ClickFix and FakeUpdates techniques on compromised sites. [...]",
-      "published": "Mon, 01 Jun 2026 18:14:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Red Hat npm packages compromised to steal developer credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/red-hat-npm-packages-compromised-to-steal-developer-credentials/",
-      "summary": "More than 30 npm packages under Red Hat's '@redhat-cloud-services' namespace were compromised in a supply-chain attack that distributed a new variant of the Shai-Hulud credential-stealing malware, dubbed \"Miasma.\" [...]",
-      "published": "Mon, 01 Jun 2026 17:38:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spain arrests doxer leaking sensitive data of govt employees",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-doxer-leaking-sensitive-data-of-govt-employees/",
-      "summary": "The Spanish National Police has arrested an individual for leaking sensitive information related to members of various key state organizations, including the National Cybersecurity Institute (INCIBE). [...]",
-      "published": "Mon, 01 Jun 2026 17:28:41 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +334,46 @@
     },
     {
       "source": "Dark Reading",
+      "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach",
+      "link": "https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach",
+      "summary": "Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.",
+      "published": "Tue, 02 Jun 2026 21:32:24 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks",
+      "summary": "A sneaky, wide-scale IAB operation uses a malicious traffic distribution system (TDS) to redirect visitors of trusted websites to ones that deliver malware.",
+      "published": "Tue, 02 Jun 2026 20:11:51 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China Uses Dual-Method Cyberattack on Czech Orgs",
+      "link": "https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs",
+      "summary": "China is stealing data from high-value targets via a sneaky, double-layer spear-phishing campaign that includes the Azureveil malware.",
+      "published": "Tue, 02 Jun 2026 19:50:53 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Securing AI Agents Before They Go Rogue Is Next to Impossible",
+      "link": "https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue",
+      "summary": "High-autonomy agents with broad permissions and unfettered access are a recipe for disaster, and enterprises need to act now before they become the next horror story.",
+      "published": "Tue, 02 Jun 2026 19:10:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
       "link": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
       "summary": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewall.",
@@ -363,42 +418,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Name That Toon: Mark of (Cybersecurity) Progress",
-      "link": "https://www.darkreading.com/cloud-security/name-that-toon-mark-of-cybersecurity-progress",
-      "summary": "As part of Dark Reading's 20th anniversary package, we asked readers for a cybersecurity-related caption that captures their thoughts about the industry's last two decades.",
-      "published": "Fri, 29 May 2026 20:22:04 GMT",
+      "source": "Security Week",
+      "title": "Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks",
+      "link": "https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/",
+      "summary": "The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release. The post Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks appeared first on SecurityWeek .",
+      "published": "Tue, 02 Jun 2026 20:10:49 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
-      "link": "https://www.darkreading.com/cyber-risk/global-powers-explore-humanoids-cyber-risk",
-      "summary": "The future of cybersecurity is germinating, as nation-states vie for dominance in the embodied AI market and its supply chain.",
-      "published": "Fri, 29 May 2026 15:56:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Asia's Cyber Insurance Market Shows Signs of Life",
-      "link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
-      "summary": "The cyber insurance industry has made relatively weak inroads into Asia due to a variety of factors, but that could be changing.",
-      "published": "Fri, 29 May 2026 14:35:33 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "With Complex Cloud Integrations, Small Errors Lead to Major Compromises",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/complex-cloud-integrations-small-errors-compromises",
-      "summary": "Researchers discover an exploit chain combining over-permissioned roles, secrets discovery, and non-human identities that could have compromised a popular automation service.",
-      "published": "Fri, 29 May 2026 13:00:01 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",
@@ -475,17 +501,6 @@
       "value_signals": [
         "CVE mentioned",
         "Active exploitation ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Meta AI Hands Over High-Profile Instagram Accounts to Hackers",
-      "link": "https://www.securityweek.com/meta-ai-hands-over-high-profile-instagram-accounts-to-hackers/",
-      "summary": "Exploiting a confused deputy weakness, the hackers simply asked the chatbot to link the account to a new email address. The post Meta AI Hands Over High-Profile Instagram Accounts to Hackers appeared first on SecurityWeek .",
-      "published": "Tue, 02 Jun 2026 10:48:26 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -574,6 +589,33 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA and Partners Urge Hardening Automatic Tank Gauge Systems",
+      "link": "https://www.cisa.gov/resources-tools/resources/cisa-and-partners-urge-hardening-automatic-tank-gauge-systems",
+      "summary": "CISA and Partners Urge Hardening Automatic Tank Gauge Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), the Department of Energy (DOE), the Environmental Protection Agency (EPA), the Transportation Security Administration (TSA), the Department of Transportation (DOT), and the U.S. Department of Agriculture (USDA)—hereafter referred to as “the authoring organizations”—are aware of malicious ",
+      "published": "Tue, 02 Jun 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV ×3"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2022-0492 Linux Kernel Improper Authentication Vulnerability CVE-2025-48595 Android Framework Integer Overflow Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vu",
+      "published": "Tue, 02 Jun 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Co",
@@ -603,13 +645,14 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "MacGregor Voyage Data Recorder (VDR) G4e",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could result in an attacker gaining administrator access to the device. The following versions of MacGregor Voyage Data Recorder (VDR) G4e are affected: MacGregor Voyage Data Recorder (VDR) G4e <V5.250 CVSS Vendor Equipment Vulnerabilities v3 8.3 Danelec MacGregor Voyage Data Recorder (VDR) G4e Use of Default Credentials, Insufficiently Protected Credentials, Use of Password Hash With Insufficient Computational Effort, Use of Har",
+      "title": "KMW CCTV Security Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416 CVSS Vendor Equipment Vulnerabilities v3 9.1 KMW KMW CCTV Security Cameras Unverified Password Change Background Critical Infrastructure Sectors: Commercial Facilities, Government Services and Facilities, Critical Manufacturing, Financial Serv",
       "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 41,
+      "value_score": 57,
       "value_signals": [
         "Source boost: CISA Alerts",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -648,29 +691,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile Application, Frontier X2 are affected: Frontier X Android application vers<v15.0.0 Frontier X IOS application vers<v25.0.0 Frontier X2 vers:all/* CVSS Vendor Equipment Vulnerabilities v3 8.8 Fourth Front",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric EcoStruxure Machine Expert HVAC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of a vulnerability in its EcostruxureTM Machine Expert HVAC product. The [EcostruxureTM Machine Expert HVAC](https://www.se.com/ww/en/download/document/EcoStruxureME_HVAC/) product is a programming software for Modicon M171-M172 logic controllers. Failure to apply the remediation provided below may risk in revealing sensitive information, which could result in disclosing protected source code, leading to loss of confidentiality. The following version",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
       ]
     }
   ],

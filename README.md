@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-02 18:03 UTC |
+| 🕐 Last Updated | 2026-06-02 22:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`revealing sensitive information` • `threat actor tracked` • `exploitation researchers disagree` • `meta ai hands` • `ai driven exploitation` • `twitter whistleblower complaint` • `ordered government agencies` • `observed targeting officials` • `malicious cyber actors` • `malicious activity resulted`
+`exploited without authentication` • `twitter whistleblower complaint` • `malicious cyber actors` • `exploitation researchers disagree` • `endpoint protection alone` • `chief master sergeant` • `brute force attack` • `securing ai agents` • `ai driven exploitation` • `national security risks`
 
 ## 📄 Reports
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-02 22:19",
+  "last_updated": "2026-06-03 03:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "exploited without authentication",
+    "ai driven exploitation",
+    "united states today",
     "twitter whistleblower complaint",
     "malicious cyber actors",
     "exploitation researchers disagree",
     "endpoint protection alone",
     "chief master sergeant",
     "brute force attack",
-    "securing ai agents",
-    "ai driven exploitation",
     "national security risks",
     "malicious activity resulted",
     "android operating system",
     "finding security vulnerabilities",
+    "zoom ciso ai",
     "zip archive containing",
     "user account including",
-    "united states today",
+    "top ai models",
     "strong bilateral cooperation",
     "stark industries solutions",
-    "service's login page",
-    "self propagating worm"
+    "service's login page"
   ],
   "trending": [
     {
       "keyword": "exploited without authentication",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1777
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 509
-    },
-    {
-      "keyword": "exploitation researchers disagree",
-      "mentions": 2
-    },
-    {
-      "keyword": "endpoint protection alone",
-      "mentions": 1
-    },
-    {
-      "keyword": "chief master sergeant",
-      "mentions": 7
-    },
-    {
-      "keyword": "brute force attack",
-      "mentions": 4
-    },
-    {
-      "keyword": "securing ai agents",
-      "mentions": 1
+      "mentions": 8
     },
     {
       "keyword": "ai driven exploitation",
+      "mentions": 4
+    },
+    {
+      "keyword": "united states today",
+      "mentions": 70
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1778
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 510
+    },
+    {
+      "keyword": "exploitation researchers disagree",
       "mentions": 3
     },
     {
+      "keyword": "endpoint protection alone",
+      "mentions": 2
+    },
+    {
+      "keyword": "chief master sergeant",
+      "mentions": 8
+    },
+    {
+      "keyword": "brute force attack",
+      "mentions": 5
+    },
+    {
       "keyword": "national security risks",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -159,6 +159,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
+      "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
+      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
+      "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
+      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
       "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
       "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
@@ -218,32 +238,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA flags two-year-old Oracle flaw as actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/",
-      "summary": "CISA has ordered government agencies to secure their systems against a high-severity Oracle WebLogic Server vulnerability that was patched two years ago and is now actively exploited in attacks. [...]",
-      "published": "Tue, 02 Jun 2026 08:40:33 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google fixes one actively exploited Android zero-day, 124 flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/",
-      "summary": "Google has released the June 2026 Android security patches to address 124 vulnerabilities, including one zero-day flaw exploited in targeted attacks. [...]",
-      "published": "Tue, 02 Jun 2026 07:10:15 -0400",
-      "value_score": 91,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
       ]
     },
     {
@@ -334,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Zoom CISO: AI as Security Enabler, Not Role-Replacer",
+      "link": "https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer",
+      "summary": "As Zoom's CISO, Sandra McLeod, discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and advice for aspiring cybersecurity leaders.",
+      "published": "Tue, 02 Jun 2026 21:51:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach",
       "link": "https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach",
       "summary": "Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.",
@@ -401,19 +404,6 @@
       "value_score": 66,
       "value_signals": [
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit",
-      "link": "https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit",
-      "summary": "Exploiting the PAN-OS GlobalProtect VPN vulnerability requires certain conditions, but adversaries have done so in two attack waves that started in mid-May.",
-      "published": "Mon, 01 Jun 2026 14:35:51 GMT",
-      "value_score": 39,
-      "value_signals": [
-        "Auth bypass",
-        "Patch/update",
         "Exploit wording"
       ]
     },

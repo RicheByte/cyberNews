@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-02 22:19 UTC  
+> **Last Updated:** 2026-06-03 03:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exploited without authentication** • **twitter whistleblower complaint** • **malicious cyber actors** • **exploitation researchers disagree** • **endpoint protection alone** • **chief master sergeant** • **brute force attack** • **securing ai agents** • **ai driven exploitation** • **national security risks** • **malicious activity resulted** • **android operating system** • **finding security vulnerabilities** • **zip archive containing** • **user account including** • **united states today** • **strong bilateral cooperation** • **stark industries solutions** • **service's login page** • **self propagating worm**
+**exploited without authentication** • **ai driven exploitation** • **united states today** • **twitter whistleblower complaint** • **malicious cyber actors** • **exploitation researchers disagree** • **endpoint protection alone** • **chief master sergeant** • **brute force attack** • **national security risks** • **malicious activity resulted** • **android operating system** • **finding security vulnerabilities** • **zoom ciso ai** • **zip archive containing** • **user account including** • **top ai models** • **strong bilateral cooperation** • **stark industries solutions** • **service's login page**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
+- [OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/)
 - [Critical Kirki flaw exploited to hijack WordPress admin accounts](https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/)
 - [Over 116,000 Mincraft systems infected in WeedHack malware campaign](https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/)
 - [AI-built ransomware toolkit automates EDR evasion, AD discovery](https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/)
 - [Microsoft Exchange Online outage causes email delays, failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-delays-failures/)
 - [Instagram users locked out after Meta AI abused to steal accounts](https://www.bleepingcomputer.com/news/security/instagram-users-locked-out-after-meta-ai-abused-to-steal-accounts/)
 - [Why the browser is now the front line for AI security](https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/)
-- [CISA flags two-year-old Oracle flaw as actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-weblogic-flaw/)
-- [Google fixes one actively exploited Android zero-day, 124 flaws](https://www.bleepingcomputer.com/news/security/google-fixes-one-actively-exploited-android-zero-day-124-flaws/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Zoom CISO: AI as Security Enabler, Not Role-Replacer](https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer)
 - [FBI-Flagged Phishing Kit Kali365 Expands Its Reach](https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach)
 - [DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks](https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks)
 - [China Uses Dual-Method Cyberattack on Czech Orgs](https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs)
@@ -56,7 +57,6 @@
 - [Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense](https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense)
 - [Anthropic to Open Mythos AI to EU's ENISA](https://www.darkreading.com/cyber-risk/anthropic-mythos-ai-eu-enisa)
 - [Microsoft's Zero-Day Legal Threats Spark Backlash](https://www.darkreading.com/application-security/microsoft-zero-day-legal-threats-backlash)
-- [Patch Now: Another Palo Alto Auth Bypass Bug Under Active Exploit](https://www.darkreading.com/threat-intelligence/patch-palo-alto-auth-bypass-bug-exploit)
 
 ### Security Week
 

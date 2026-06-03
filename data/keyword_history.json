@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 510,
+      "count": 511,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -295,7 +295,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1778,
+      "count": 1779,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6984,7 +6984,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -15931,7 +15931,7 @@
       ]
     },
     "united states today": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16238,7 +16238,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -17644,7 +17644,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17975,7 +17975,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18058,7 +18058,7 @@
       ]
     },
     "strong bilateral cooperation": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18066,7 +18066,7 @@
       ]
     },
     "brute force attack": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-02",
         "2026-06-03"
@@ -18091,16 +18091,17 @@
       ]
     },
     "ai driven exploitation": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-02",
         "2026-06-03"
       ]
     },
     "responsible disclosure ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-03"
       ]
     },
     "malicious activity resulted": {
@@ -18123,20 +18124,21 @@
       ]
     },
     "exploitation researchers disagree": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-02",
         "2026-06-03"
       ]
     },
     "meta ai abused": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-03"
       ]
     },
     "zip archive containing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-02",
         "2026-06-03"
@@ -18149,7 +18151,7 @@
       ]
     },
     "endpoint protection alone": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02",
         "2026-06-03"
@@ -18162,51 +18164,40 @@
       ]
     },
     "national security risks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02",
         "2026-06-03"
       ]
     },
     "android operating system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02",
         "2026-06-03"
       ]
     },
     "user account including": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-02",
         "2026-06-03"
       ]
     },
     "zoom ciso ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "top ai models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-20 23:07",
-      "articles": 56,
-      "top_keywords": [
-        "abb coresense hm",
-        "secure ai agents",
-        "complete system compromise",
-        "platform's source code",
-        "finding security vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-05-21 02:49",
       "articles": 56,
@@ -19287,6 +19278,17 @@
     },
     {
       "timestamp": "2026-06-03 03:36",
+      "articles": 56,
+      "top_keywords": [
+        "exploited without authentication",
+        "ai driven exploitation",
+        "united states today",
+        "twitter whistleblower complaint",
+        "malicious cyber actors"
+      ]
+    },
+    {
+      "timestamp": "2026-06-03 08:50",
       "articles": 56,
       "top_keywords": [
         "exploited without authentication",

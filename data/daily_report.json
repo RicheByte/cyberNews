@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03 03:36",
+  "last_updated": "2026-06-03 08:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,60 +13,69 @@
     "chief master sergeant",
     "brute force attack",
     "national security risks",
-    "malicious activity resulted",
     "android operating system",
-    "finding security vulnerabilities",
     "zoom ciso ai",
+    "top ai models",
+    "responsible disclosure ai",
+    "meta ai abused",
+    "finding security vulnerabilities",
     "zip archive containing",
     "user account including",
-    "top ai models",
     "strong bilateral cooperation",
-    "stark industries solutions",
-    "service's login page"
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "exploited without authentication",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "ai driven exploitation",
-      "mentions": 4
-    },
-    {
-      "keyword": "united states today",
-      "mentions": 70
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1778
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 510
-    },
-    {
-      "keyword": "exploitation researchers disagree",
-      "mentions": 3
-    },
-    {
-      "keyword": "endpoint protection alone",
-      "mentions": 2
-    },
-    {
-      "keyword": "chief master sergeant",
-      "mentions": 8
-    },
-    {
-      "keyword": "brute force attack",
       "mentions": 5
     },
     {
+      "keyword": "united states today",
+      "mentions": 71
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1779
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 511
+    },
+    {
+      "keyword": "exploitation researchers disagree",
+      "mentions": 4
+    },
+    {
+      "keyword": "endpoint protection alone",
+      "mentions": 3
+    },
+    {
+      "keyword": "chief master sergeant",
+      "mentions": 9
+    },
+    {
+      "keyword": "brute force attack",
+      "mentions": 6
+    },
+    {
       "keyword": "national security risks",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
+      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
+      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
+      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
@@ -149,13 +158,16 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "summary": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
-      "published": "Mon, 01 Jun 2026 23:10:28 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
+      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
+      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
+      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -193,8 +205,8 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Over 116,000 Mincraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-mincraft-systems-infected-in-weedhack-malware-campaign/",
+      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
       "summary": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
       "published": "Tue, 02 Jun 2026 17:54:49 -0400",
       "value_score": 10,
@@ -228,17 +240,6 @@
       "published": "Tue, 02 Jun 2026 11:47:33 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why the browser is now the front line for AI security",
-      "link": "https://www.bleepingcomputer.com/news/security/why-the-browser-is-now-the-front-line-for-ai-security/",
-      "summary": "AI-powered attacks and shadow AI adoption are creating new security risks inside the browser. Push Security explains why browser visibility is becoming critical for both threat detection and AI governance. [...]",
-      "published": "Tue, 02 Jun 2026 10:30:40 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",

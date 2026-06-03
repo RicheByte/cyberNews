@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-06-03 14:23",
+  "last_updated": "2026-06-03 19:44",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "coralogix raises 200m",
     "cve 2026 33829",
     "illegal streaming operations",
     "threat actor got",
@@ -10,60 +11,59 @@
     "united states today",
     "twitter whistleblower complaint",
     "malicious cyber actors",
+    "major web servers",
+    "global communication platform",
     "chief master sergeant",
-    "zoom ciso ai",
-    "top ai models",
+    "change clinical readings",
     "cve 2025 8088",
-    "national security risks",
+    "zoom ciso ai",
     "android operating system",
-    "finding security vulnerabilities",
     "writing exploits faster",
     "user's ntlmv2 hash",
     "stark industries solutions",
     "slowloris style hold",
-    "service's login page",
-    "securing ai agents"
+    "service's login page"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 33829",
+      "keyword": "coralogix raises 200m",
       "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 33829",
+      "mentions": 2
     },
     {
       "keyword": "illegal streaming operations",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "threat actor got",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "user's personal contacts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "united states today",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1780
+      "mentions": 1781
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 512
+      "mentions": 513
     },
     {
-      "keyword": "chief master sergeant",
-      "mentions": 10
+      "keyword": "major web servers",
+      "mentions": 1
     },
     {
-      "keyword": "zoom ciso ai",
-      "mentions": 3
-    },
-    {
-      "keyword": "top ai models",
-      "mentions": 3
+      "keyword": "global communication platform",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -161,6 +161,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
+      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
+      "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
+      "published": "Wed, 03 Jun 2026 15:08:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
+      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
+      "value_score": 56,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
       "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
       "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
@@ -220,31 +241,6 @@
       "published": "Tue, 02 Jun 2026 18:52:40 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "summary": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-      "published": "Tue, 02 Jun 2026 18:44:50 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "summary": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "published": "Tue, 02 Jun 2026 18:12:57 -0400",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -334,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
+      "summary": "Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
+      "published": "Wed, 03 Jun 2026 19:10:58 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Malicious Notifications Could Trick Google Gemini Users",
       "link": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
       "summary": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
@@ -400,15 +405,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense",
-      "link": "https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense",
-      "summary": "Twenty years after Dark Reading launched, we're looking ahead at what's next for enterprise security. Spoiler: It's hyper-segmented, AI-orchestrated, and way more sophisticated than your dad's firewall.",
-      "published": "Tue, 02 Jun 2026 12:00:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
+      "source": "Security Week",
+      "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
+      "link": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
+      "summary": "Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability. The post Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform appeared first on SecurityWeek .",
+      "published": "Wed, 03 Jun 2026 17:32:57 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -484,15 +487,6 @@
       "value_signals": [
         "Zero-day ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks",
-      "link": "https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/",
-      "summary": "The order establishes a framework for the federal government to vet the national security risks of the most advanced AI systems for up to a month before their public release. The post Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks appeared first on SecurityWeek .",
-      "published": "Tue, 02 Jun 2026 20:10:49 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -579,6 +573,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalo",
+      "published": "Wed, 03 Jun 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×6",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA and Partners Urge Hardening Automatic Tank Gauge Systems",
       "link": "https://www.cisa.gov/resources-tools/resources/cisa-and-partners-urge-hardening-automatic-tank-gauge-systems",
       "summary": "CISA and Partners Urge Hardening Automatic Tank Gauge Systems Overview The Cybersecurity and Infrastructure Security Agency (CISA), the Federal Bureau of Investigation (FBI), the National Security Agency (NSA), the Department of Energy (DOE), the Environmental Protection Agency (EPA), the Transportation Security Administration (TSA), the Department of Transportation (DOT), and the U.S. Department of Agriculture (USDA)—hereafter referred to as “the authoring organizations”—are aware of malicious ",
@@ -635,32 +643,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "KMW CCTV Security Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability may grant full unauthorized access to camera feeds and settings. The following versions of KMW CCTV Security Cameras are affected: KM-IP521 IPCAM_V4.04.91.230307 KM-IP421 IPCAM_V4.04.53.210416 CVSS Vendor Equipment Vulnerabilities v3 9.1 KMW KMW CCTV Security Cameras Unverified Password Change Background Critical Infrastructure Sectors: Commercial Facilities, Government Services and Facilities, Critical Manufacturing, Financial Serv",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 57,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB EIBPORT",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. A firmware update is available that resolves these privately reported vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited these vulnerabilities could access sensitive information stored inside the device and can change the configuration of the device. The following versions of ABB EIBPORT are affected: EIBPORT V3 KNX (2CLA963",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 49,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
       "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet Converter 7.03T.07 CVSS Vendor Equipment Vulnerabilities v3 9.8 Jinan USR IOT Technology Limited (PUSR) Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Ha",
@@ -676,6 +658,18 @@
       "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
       "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 Wire Door Opener Actuator are affected: Switch Actuator 4 DU vers:all/* Switch actuator, door/light 4 DU vers:all/* CVSS Vendor Equipment Vulnerabilities v3 6.8 ABB ABB Busch-Welcome 2 Wire Door Opene",
+      "published": "Thu, 28 May 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
+      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile Application, Frontier X2 are affected: Frontier X Android application vers<v15.0.0 Frontier X IOS application vers<v25.0.0 Frontier X2 vers:all/* CVSS Vendor Equipment Vulnerabilities v3 8.8 Fourth Front",
       "published": "Thu, 28 May 26 12:00:00 +0000",
       "value_score": 41,
       "value_signals": [

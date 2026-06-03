@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-03 14:23 UTC  
+> **Last Updated:** 2026-06-03 19:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 33829** • **illegal streaming operations** • **threat actor got** • **user's personal contacts** • **united states today** • **twitter whistleblower complaint** • **malicious cyber actors** • **chief master sergeant** • **zoom ciso ai** • **top ai models** • **cve 2025 8088** • **national security risks** • **android operating system** • **finding security vulnerabilities** • **writing exploits faster** • **user's ntlmv2 hash** • **stark industries solutions** • **slowloris style hold** • **service's login page** • **securing ai agents**
+**coralogix raises 200m** • **cve 2026 33829** • **illegal streaming operations** • **threat actor got** • **user's personal contacts** • **united states today** • **twitter whistleblower complaint** • **malicious cyber actors** • **major web servers** • **global communication platform** • **chief master sergeant** • **change clinical readings** • **cve 2025 8088** • **zoom ciso ai** • **android operating system** • **writing exploits faster** • **user's ntlmv2 hash** • **stark industries solutions** • **slowloris style hold** • **service's login page**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
+- [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
 - [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
 - [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
 - [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
 - [Google adds Android protection against AI deepfake scam calls](https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/)
 - [VS Code zero-day lets hackers steal GitHub tokens in one click](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
 - [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
-- [OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/)
-- [Critical Kirki flaw exploited to hijack WordPress admin accounts](https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
 - [Malicious Notifications Could Trick Google Gemini Users](https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users)
 - [Global Stock Exchange Hit by Monthslong Email Campaign](https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign)
 - [Zoom CISO: AI as a Security Enabler, Not Role-Replacer](https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer)
@@ -56,10 +57,10 @@
 - [DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks](https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks)
 - [China Uses Dual-Method Cyberattack on Czech Orgs](https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs)
 - [Securing AI Agents Before They Go Rogue Is Next to Impossible](https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue)
-- [Beyond Assume-Breach: How AI-Native Security Will Reshape Enterprise Defense](https://www.darkreading.com/cyber-risk/assume-breach-ai-native-security-reshape-enterprise-defense)
 
 ### Security Week
 
+- [Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform](https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/)
 - [Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs](https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/)
 - [Security of 100 AI Agents Tested and Ranked – What You Need to Know](https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/)
 - [Hackers Target Global Stock Exchange in Espionage Operation](https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/)
@@ -67,7 +68,6 @@
 - [Organizations Warned of Exploited Linux Kernel Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/)
 - [‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds](https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/)
 - [Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash](https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/)
-- [Trump Signs Executive Order That Invites Vetting of Top AI Models for National Security Risks](https://www.securityweek.com/trump-signs-executive-order-that-invites-vetting-of-top-ai-models-for-national-security-risks/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA and Partners Urge Hardening Automatic Tank Gauge Systems](https://www.cisa.gov/resources-tools/resources/cisa-and-partners-urge-hardening-automatic-tank-gauge-systems)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [KMW CCTV Security Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-06)
-- [ABB EIBPORT](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-03)
 - [Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02)
 - [ABB Busch-Welcome 2 Wire Door Opener Actuator](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04)
+- [Fourth Frontier Frontier X Mobile Application, Frontier X2](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01)
 
 ---
 

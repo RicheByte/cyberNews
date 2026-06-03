@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 512,
+      "count": 513,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -295,7 +295,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1780,
+      "count": 1781,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -15819,7 +15819,7 @@
       ]
     },
     "service's login page": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15931,7 +15931,7 @@
       ]
     },
     "united states today": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17644,7 +17644,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17975,7 +17975,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18172,7 +18172,7 @@
       ]
     },
     "android operating system": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-02",
         "2026-06-03"
@@ -18186,7 +18186,7 @@
       ]
     },
     "zoom ciso ai": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-03"
       ]
@@ -18198,48 +18198,72 @@
       ]
     },
     "cve 2026 33829": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "illegal streaming operations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "threat actor got": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "user's personal contacts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "cve 2025 8088": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "writing exploits faster": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "user's ntlmv2 hash": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "slowloris style hold": {
+      "count": 2,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "coralogix raises 200m": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "major web servers": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "global communication platform": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "change clinical readings": {
       "count": 1,
       "dates": [
         "2026-06-03"
@@ -18247,17 +18271,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-21 07:43",
-      "articles": 56,
-      "top_keywords": [
-        "abb coresense hm",
-        "secure ai agents",
-        "finding security vulnerabilities",
-        "twitter whistleblower complaint",
-        "missed token rotation"
-      ]
-    },
     {
       "timestamp": "2026-05-21 11:17",
       "articles": 56,
@@ -19345,6 +19358,17 @@
         "threat actor got",
         "user's personal contacts",
         "united states today"
+      ]
+    },
+    {
+      "timestamp": "2026-06-03 19:44",
+      "articles": 56,
+      "top_keywords": [
+        "coralogix raises 200m",
+        "cve 2026 33829",
+        "illegal streaming operations",
+        "threat actor got",
+        "user's personal contacts"
       ]
     }
   ]

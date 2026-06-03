@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 511,
+      "count": 512,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -295,7 +295,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1779,
+      "count": 1780,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -15819,7 +15819,7 @@
       ]
     },
     "service's login page": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15931,7 +15931,7 @@
       ]
     },
     "united states today": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16238,7 +16238,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -17644,7 +17644,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17975,7 +17975,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18158,20 +18158,21 @@
       ]
     },
     "securing ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-03"
       ]
     },
     "national security risks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-02",
         "2026-06-03"
       ]
     },
     "android operating system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-02",
         "2026-06-03"
@@ -18185,30 +18186,67 @@
       ]
     },
     "zoom ciso ai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-03"
       ]
     },
     "top ai models": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "cve 2026 33829": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "illegal streaming operations": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "threat actor got": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "user's personal contacts": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "cve 2025 8088": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "writing exploits faster": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "user's ntlmv2 hash": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "slowloris style hold": {
+      "count": 1,
       "dates": [
         "2026-06-03"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-21 02:49",
-      "articles": 56,
-      "top_keywords": [
-        "abb coresense hm",
-        "secure ai agents",
-        "complete system compromise",
-        "platform's source code",
-        "finding security vulnerabilities"
-      ]
-    },
     {
       "timestamp": "2026-05-21 07:43",
       "articles": 56,
@@ -19296,6 +19334,17 @@
         "united states today",
         "twitter whistleblower complaint",
         "malicious cyber actors"
+      ]
+    },
+    {
+      "timestamp": "2026-06-03 14:23",
+      "articles": 56,
+      "top_keywords": [
+        "cve 2026 33829",
+        "illegal streaming operations",
+        "threat actor got",
+        "user's personal contacts",
+        "united states today"
       ]
     }
   ]

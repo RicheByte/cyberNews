@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-03 19:44 UTC  
+> **Last Updated:** 2026-06-03 22:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**coralogix raises 200m** • **cve 2026 33829** • **illegal streaming operations** • **threat actor got** • **user's personal contacts** • **united states today** • **twitter whistleblower complaint** • **malicious cyber actors** • **major web servers** • **global communication platform** • **chief master sergeant** • **change clinical readings** • **cve 2025 8088** • **zoom ciso ai** • **android operating system** • **writing exploits faster** • **user's ntlmv2 hash** • **stark industries solutions** • **slowloris style hold** • **service's login page**
+**coralogix raises 200m** • **illegal streaming operations** • **cve 2026 33829** • **threat actor got** • **us government partners** • **twitter whistleblower complaint** • **region gathering information** • **major web servers** • **global communication platform** • **chief master sergeant** • **change clinical readings** • **resetting account passwords** • **cve 2026 23479** • **blocking client code** • **many security tools** • **cybercrime group defaced** • **malicious cyber actors** • **google's doubleclick domain** • **writing exploits faster** • **united states today**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
+- [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)
+- [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
+- [Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag](https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html)
+- [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
 - [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
 - [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
-- [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
 - [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
-- [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html)
-- [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html)
-- [Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited](https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html)
-- [Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine](https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html)
 
 ### BleepingComputer
 
+- [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
+- [The U.S. sanctions Nobitex crypto exchange used by ransomware](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
+- [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
 - [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
 - [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
 - [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
 - [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
 - [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
-- [Google adds Android protection against AI deepfake scam calls](https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/)
-- [VS Code zero-day lets hackers steal GitHub tokens in one click](https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/)
-- [Microsoft's Coreutils project brings Linux commands to Windows](https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
+- [Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america)
 - [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
+- [Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover](https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover)
 - [Malicious Notifications Could Trick Google Gemini Users](https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users)
 - [Global Stock Exchange Hit by Monthslong Email Campaign](https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign)
 - [Zoom CISO: AI as a Security Enabler, Not Role-Replacer](https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer)
 - [FBI-Flagged Phishing Kit Kali365 Expands Its Reach](https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach)
-- [DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks](https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks)
-- [China Uses Dual-Method Cyberattack on Czech Orgs](https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs)
-- [Securing AI Agents Before They Go Rogue Is Next to Impossible](https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue)
 
 ### Security Week
 

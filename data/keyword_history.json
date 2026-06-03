@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 513,
+      "count": 514,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -295,7 +295,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1781,
+      "count": 1782,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -15874,7 +15874,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15894,7 +15894,8 @@
         "2026-05-29",
         "2026-05-30",
         "2026-05-31",
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-03"
       ]
     },
     "qlnx targets developers": {
@@ -15931,7 +15932,7 @@
       ]
     },
     "united states today": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17975,7 +17976,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18004,10 +18005,11 @@
       ]
     },
     "resetting account passwords": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-03"
       ]
     },
     "remote web ui": {
@@ -18198,19 +18200,19 @@
       ]
     },
     "cve 2026 33829": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-03"
       ]
     },
     "illegal streaming operations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-03"
       ]
     },
     "threat actor got": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-03"
       ]
@@ -18228,7 +18230,7 @@
       ]
     },
     "writing exploits faster": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-03"
       ]
@@ -18246,24 +18248,60 @@
       ]
     },
     "coralogix raises 200m": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "major web servers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "global communication platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-03"
       ]
     },
     "change clinical readings": {
+      "count": 2,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "us government partners": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "region gathering information": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "cve 2026 23479": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "blocking client code": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "many security tools": {
+      "count": 1,
+      "dates": [
+        "2026-06-03"
+      ]
+    },
+    "google's doubleclick domain": {
       "count": 1,
       "dates": [
         "2026-06-03"
@@ -18271,17 +18309,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-21 11:17",
-      "articles": 56,
-      "top_keywords": [
-        "improper privilege management",
-        "abb coresense hm",
-        "1 billion valuation",
-        "exploited without authentication",
-        "secure ai agents"
-      ]
-    },
     {
       "timestamp": "2026-05-21 14:54",
       "articles": 56,
@@ -19369,6 +19396,17 @@
         "illegal streaming operations",
         "threat actor got",
         "user's personal contacts"
+      ]
+    },
+    {
+      "timestamp": "2026-06-03 22:25",
+      "articles": 56,
+      "top_keywords": [
+        "coralogix raises 200m",
+        "illegal streaming operations",
+        "cve 2026 33829",
+        "threat actor got",
+        "us government partners"
       ]
     }
   ]

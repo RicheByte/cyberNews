@@ -1,72 +1,126 @@
 {
-  "last_updated": "2026-06-03 19:44",
+  "last_updated": "2026-06-03 22:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "coralogix raises 200m",
-    "cve 2026 33829",
     "illegal streaming operations",
+    "cve 2026 33829",
     "threat actor got",
-    "user's personal contacts",
-    "united states today",
+    "us government partners",
     "twitter whistleblower complaint",
-    "malicious cyber actors",
+    "region gathering information",
     "major web servers",
     "global communication platform",
     "chief master sergeant",
     "change clinical readings",
-    "cve 2025 8088",
-    "zoom ciso ai",
-    "android operating system",
+    "resetting account passwords",
+    "cve 2026 23479",
+    "blocking client code",
+    "many security tools",
+    "cybercrime group defaced",
+    "malicious cyber actors",
+    "google's doubleclick domain",
     "writing exploits faster",
-    "user's ntlmv2 hash",
-    "stark industries solutions",
-    "slowloris style hold",
-    "service's login page"
+    "united states today"
   ],
   "trending": [
     {
       "keyword": "coralogix raises 200m",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 33829",
       "mentions": 2
     },
     {
       "keyword": "illegal streaming operations",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "cve 2026 33829",
+      "mentions": 3
     },
     {
       "keyword": "threat actor got",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "user's personal contacts",
-      "mentions": 2
-    },
-    {
-      "keyword": "united states today",
-      "mentions": 73
+      "keyword": "us government partners",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1781
+      "mentions": 1782
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 513
+      "keyword": "region gathering information",
+      "mentions": 1
     },
     {
       "keyword": "major web servers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "global communication platform",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "chief master sergeant",
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
+      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
+      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the phone into a Zoom call, or quietly poison its long-term memory. No malicious app on the phone is required. The assistant just had to treat a hostile",
+      "published": "Thu, 04 Jun 2026 00:41:15 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
+      "link": "https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html",
+      "summary": "Cybersecurity researchers have flagged a new malspam campaign that makes use of Google's DoubleClick domain as a way to evade detection and ultimately deliver a remote access trojan (RAT) named DesckVB RAT. \"Before the victim ever reaches attacker-controlled infrastructure, the lure routes through DoubleClick, a legitimate Google-owned domain that many security tools are less likely to treat as",
+      "published": "Wed, 03 Jun 2026 21:59:16 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
+      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
+      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
+      "published": "Wed, 03 Jun 2026 20:26:46 +0530",
+      "value_score": 61,
+      "value_signals": [
+        "Zero-day",
+        "Patch/update",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag",
+      "link": "https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html",
+      "summary": "A development flag left switched on in production builds of several Microsoft 365 Android apps disabled the check that limits account-token sharing to trusted Microsoft apps. Any other app on the same phone could ask for the signed-in user's token and get it, then read email, open files, browse the calendar, and send messages as that user. No password, no login screen, no permission prompt.",
+      "published": "Wed, 03 Jun 2026 20:26:35 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
+      "published": "Wed, 03 Jun 2026 19:17:09 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "Multiple CVEs"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
@@ -87,20 +141,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
-      "link": "https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html",
-      "summary": "Assume the breach. Zero-days keep shipping, AI is writing exploits faster than anyone patches, and \"patch everything in time\" stopped working years ago. Stop betting the org on winning that race. You don't control which bug lands. You control what it can reach once it does. That is a question about the shape of your network, and most teams have the shape wrong. HD Moore, creator of Metasploit",
-      "published": "Wed, 03 Jun 2026 16:58:59 +0530",
-      "value_score": 61,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update",
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
       "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
       "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
       "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress. CVE-2026-33829 refers to a spoofing vulnerability that could expose",
@@ -113,50 +153,37 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-      "summary": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. \"The vulnerable behavior exists in each server's default HTTP/2 configuration,\" the company said, adding it was discovered by OpenAI Codex by chaining",
-      "published": "Wed, 03 Jun 2026 14:03:35 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
+      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
+      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Exploit wording"
+        "Backdoor"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
-      "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
-      "summary": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
-      "published": "Wed, 03 Jun 2026 11:46:54 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google June 2026 Android Update Patches 124 Flaws, One Actively Exploited",
-      "link": "https://thehackernews.com/2026/06/google-june-2026-android-update-patches.html",
-      "summary": "Google on Monday released patches for 124 security vulnerabilities impacting its Android operating system for the month of June 2026, including one high-severity flaw in the Framework component that has come under active exploitation. Tracked as CVE-2025-48595 (CVSS score: 8.4), the security flaw has been described as a case of privilege escalation without requiring any user interaction. The",
-      "published": "Wed, 03 Jun 2026 00:16:00 +0530",
-      "value_score": 79,
+      "source": "BleepingComputer",
+      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
+      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
+      "published": "Wed, 03 Jun 2026 16:31:22 -0400",
+      "value_score": 28,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Privilege escalation",
-        "Patch/update",
-        "Exploit wording"
+        "Ransomware"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Gamaredon Exploits WinRAR to Deliver GammaWorm and GammaSteel Against Ukraine",
-      "link": "https://thehackernews.com/2026/06/gamaredon-exploits-winrar-to-deliver.html",
-      "summary": "The Russian hacking group known as Gamaredon has been attributed to the continued exploitation of a WinRAR vulnerability to deliver multiple malware families aimed at data theft and propagation. Per Sekoia, the activity involves the weaponization of CVE-2025-8088, a path traversal flaw in WinRAR, to launch an HTML Application payload dubbed GammaPhish, which is then used to retrieve an",
-      "published": "Tue, 02 Jun 2026 23:51:49 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
+      "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
+      "published": "Wed, 03 Jun 2026 16:21:56 -0400",
+      "value_score": 58,
       "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
+        "CISA/KEV ×2",
+        "High severity"
       ]
     },
     {
@@ -209,36 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/",
       "summary": "European and international law enforcement agencies have dismantled nine organized crime groups and arrested 29 suspects in a major crackdown on illegal streaming operations. [...]",
       "published": "Wed, 03 Jun 2026 06:12:24 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google adds Android protection against AI deepfake scam calls",
-      "link": "https://www.bleepingcomputer.com/news/security/google-adds-android-protection-against-ai-deepfake-scam-calls/",
-      "summary": "Google is introducing a new Android security feature that will detect and flag phone calls in which scammers use artificial intelligence to impersonate a user's personal contacts. [...]",
-      "published": "Wed, 03 Jun 2026 05:02:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "summary": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
-      "published": "Wed, 03 Jun 2026 02:50:30 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "summary": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
-      "published": "Tue, 02 Jun 2026 18:52:40 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -330,10 +327,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers Use AI to Automate EDR Evasion Testing",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
+      "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
+      "published": "Wed, 03 Jun 2026 21:34:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america",
+      "summary": "China-linked espionage groups have attacked at least a dozen nations in the region, gathering information on maritime shipping, oil production, and other geopolitical interests.",
+      "published": "Wed, 03 Jun 2026 19:52:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen",
       "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
       "summary": "Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
       "published": "Wed, 03 Jun 2026 19:10:58 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover",
+      "link": "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover",
+      "summary": "A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.",
+      "published": "Wed, 03 Jun 2026 19:00:41 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -374,35 +398,6 @@
       "value_signals": [
         "Phishing ×3"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DriveSurge Hijacks Thousands of Sites for ClickFix, FakeUpdate Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/drivesurge-hijacks-thousands-sites-clickfix-fakeupdate-attacks",
-      "summary": "A sneaky, wide-scale IAB operation uses a malicious traffic distribution system (TDS) to redirect visitors of trusted websites to ones that deliver malware.",
-      "published": "Tue, 02 Jun 2026 20:11:51 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China Uses Dual-Method Cyberattack on Czech Orgs",
-      "link": "https://www.darkreading.com/threat-intelligence/china-uses-dual-method-attack-czech-taiwan-orgs",
-      "summary": "China is stealing data from high-value targets via a sneaky, double-layer spear-phishing campaign that includes the Azureveil malware.",
-      "published": "Tue, 02 Jun 2026 19:50:53 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Securing AI Agents Before They Go Rogue Is Next to Impossible",
-      "link": "https://www.darkreading.com/cyber-risk/securing-ai-agents-rogue",
-      "summary": "High-autonomy agents with broad permissions and unfettered access are a recipe for disaster, and enterprises need to act now before they become the next horror story.",
-      "published": "Tue, 02 Jun 2026 19:10:14 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

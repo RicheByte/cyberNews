@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-04 03:31",
+  "last_updated": "2026-06-04 08:15",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "coralogix raises 200m",
     "illegal streaming operations",
-    "cve 2026 33829",
-    "threat actor got",
-    "us government partners",
+    "global communication platform",
     "twitter whistleblower complaint",
+    "trusted microsoft apps",
+    "threat actor got",
     "region gathering information",
     "major web servers",
-    "global communication platform",
+    "fast spreading internet",
     "chief master sergeant",
     "change clinical readings",
-    "resetting account passwords",
-    "cve 2026 23479",
     "blocking client code",
+    "resetting account passwords",
+    "iranian ransomware actors",
     "many security tools",
     "cybercrime group defaced",
-    "malicious cyber actors",
     "google's doubleclick domain",
     "writing exploits faster",
+    "us government partners",
     "united states today"
   ],
   "trending": [
     {
       "keyword": "coralogix raises 200m",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "illegal streaming operations",
-      "mentions": 4
-    },
-    {
-      "keyword": "cve 2026 33829",
-      "mentions": 4
-    },
-    {
-      "keyword": "threat actor got",
-      "mentions": 4
-    },
-    {
-      "keyword": "us government partners",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1783
-    },
-    {
-      "keyword": "region gathering information",
-      "mentions": 2
-    },
-    {
-      "keyword": "major web servers",
-      "mentions": 3
+      "mentions": 5
     },
     {
       "keyword": "global communication platform",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1784
+    },
+    {
+      "keyword": "trusted microsoft apps",
+      "mentions": 1
+    },
+    {
+      "keyword": "threat actor got",
+      "mentions": 5
+    },
+    {
+      "keyword": "region gathering information",
       "mentions": 3
     },
     {
+      "keyword": "major web servers",
+      "mentions": 4
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 1
+    },
+    {
       "keyword": "chief master sergeant",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
+      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
+      "published": "Thu, 04 Jun 2026 11:36:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
@@ -140,19 +149,6 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
-      "link": "https://thehackernews.com/2026/06/unpatched-windows-search-uri.html",
-      "summary": "Cybersecurity researchers have disclosed details of an unpatched issue that could be exploited to disclose a user's NTLMv2 hash to the attacker. Like in the case of CVE-2026-33829, which impacted the Windows Snipping Tool's ms-screensketch: URI handler, the newly flagged issue resides in the search: URI handler, per Huntress. CVE-2026-33829 refers to a spoofing vulnerability that could expose",
-      "published": "Wed, 03 Jun 2026 15:48:52 +0530",
-      "value_score": 60,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "BleepingComputer",
       "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
@@ -165,7 +161,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "The U.S. sanctions Nobitex crypto exchange used by ransomware",
+      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
       "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
       "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
       "published": "Wed, 03 Jun 2026 16:31:22 -0400",
@@ -327,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
+      "summary": "Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity.",
+      "published": "Thu, 04 Jun 2026 04:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Use AI to Automate EDR Evasion Testing",
       "link": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
       "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
@@ -389,14 +394,14 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "FBI-Flagged Phishing Kit Kali365 Expands Its Reach",
-      "link": "https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach",
-      "summary": "Once targeting just Microsoft 365, the phishing-as-a-service platform now aims at AWS, Okta, and Russian platforms, while relying on device code phishing.",
-      "published": "Tue, 02 Jun 2026 21:32:24 GMT",
-      "value_score": 26,
+      "source": "Security Week",
+      "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
+      "link": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
+      "summary": "A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance. The post VS Code Vulnerability Allows One-Click GitHub Token Theft appeared first on SecurityWeek .",
+      "published": "Thu, 04 Jun 2026 08:14:52 +0000",
+      "value_score": 20,
       "value_signals": [
-        "Phishing ×3"
+        "PoC available"
       ]
     },
     {
@@ -470,17 +475,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash",
-      "link": "https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/",
-      "summary": "Microsoft responds to backlash over its threats of legal action against researchers who publicly disclose zero-day vulnerabilities. The post Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash appeared first on SecurityWeek .",
-      "published": "Wed, 03 Jun 2026 09:57:40 +0000",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×3"
       ]
     },
     {

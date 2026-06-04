@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-04 03:31 UTC  
+> **Last Updated:** 2026-06-04 08:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**coralogix raises 200m** • **illegal streaming operations** • **cve 2026 33829** • **threat actor got** • **us government partners** • **twitter whistleblower complaint** • **region gathering information** • **major web servers** • **global communication platform** • **chief master sergeant** • **change clinical readings** • **resetting account passwords** • **cve 2026 23479** • **blocking client code** • **many security tools** • **cybercrime group defaced** • **malicious cyber actors** • **google's doubleclick domain** • **writing exploits faster** • **united states today**
+**coralogix raises 200m** • **illegal streaming operations** • **global communication platform** • **twitter whistleblower complaint** • **trusted microsoft apps** • **threat actor got** • **region gathering information** • **major web servers** • **fast spreading internet** • **chief master sergeant** • **change clinical readings** • **blocking client code** • **resetting account passwords** • **iranian ransomware actors** • **many security tools** • **cybercrime group defaced** • **google's doubleclick domain** • **writing exploits faster** • **us government partners** • **united states today**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
 - [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
 - [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)
 - [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
@@ -23,12 +24,11 @@
 - [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
 - [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
 - [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
-- [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html)
 
 ### BleepingComputer
 
 - [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
-- [The U.S. sanctions Nobitex crypto exchange used by ransomware](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
+- [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
 - [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
 - [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
 - [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Pakistan Spies on Afghan Finance Ministry With Xeno RAT](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat)
 - [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
 - [Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america)
 - [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
@@ -56,10 +57,10 @@
 - [Malicious Notifications Could Trick Google Gemini Users](https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users)
 - [Global Stock Exchange Hit by Monthslong Email Campaign](https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign)
 - [Zoom CISO: AI as a Security Enabler, Not Role-Replacer](https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer)
-- [FBI-Flagged Phishing Kit Kali365 Expands Its Reach](https://www.darkreading.com/cyber-risk/fbi-flagged-phishing-kit-kali365-expands-its-reach)
 
 ### Security Week
 
+- [VS Code Vulnerability Allows One-Click GitHub Token Theft](https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/)
 - [Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform](https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/)
 - [Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs](https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/)
 - [Security of 100 AI Agents Tested and Ranked – What You Need to Know](https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/)
@@ -67,7 +68,6 @@
 - [IMA Diligence Services Data Breach Impacts 525,000 People](https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/)
 - [Organizations Warned of Exploited Linux Kernel Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/)
 - [‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds](https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/)
-- [Microsoft Tries to Calm Legal Threat Fears After Zero-Day Disclosure Backlash](https://www.securityweek.com/microsoft-tries-to-calm-legal-threat-fears-after-zero-day-disclosure-backlash/)
 
 ### Threatpost
 

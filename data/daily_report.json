@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-04 19:58",
+  "last_updated": "2026-06-04 21:43",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "supply chain attack",
     "chinese cybercrime group",
-    "cybercrime group behind",
+    "4 critical threats",
     "mirasvit vulnerability exploited",
     "national security risk",
     "known exploited vu",
-    "pushed malicious code",
+    "cybercrime group behind",
     "twitter whistleblower complaint",
     "resources without limits",
     "opc ua server",
     "main contributing factor",
     "hitachi energy rtu500",
     "chief master sergeant",
-    "concept exploit code",
-    "cybercrime group defaced",
-    "unified communications manager",
+    "pushed malicious code",
     "malicious cyber actors",
     "malicious activity resulted",
     "275 million students",
+    "past six months",
     "unauthorized group claimed",
     "hacking group engages"
   ],
   "trending": [
     {
+      "keyword": "supply chain attack",
+      "mentions": 54
+    },
+    {
       "keyword": "chinese cybercrime group",
+      "mentions": 4
+    },
+    {
+      "keyword": "4 critical threats",
+      "mentions": 1
+    },
+    {
+      "keyword": "mirasvit vulnerability exploited",
+      "mentions": 4
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 185
+    },
+    {
+      "keyword": "known exploited vu",
       "mentions": 3
     },
     {
       "keyword": "cybercrime group behind",
-      "mentions": 3
-    },
-    {
-      "keyword": "mirasvit vulnerability exploited",
-      "mentions": 3
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 184
-    },
-    {
-      "keyword": "known exploited vu",
-      "mentions": 2
-    },
-    {
-      "keyword": "pushed malicious code",
-      "mentions": 2
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1787
+      "mentions": 1788
     },
     {
       "keyword": "resources without limits",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "opc ua server",
-      "mentions": 1
-    },
-    {
-      "keyword": "main contributing factor",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -150,6 +150,33 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
+      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
+      "summary": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
+      "published": "Thu, 04 Jun 2026 17:37:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hola Browser for Windows compromised to deliver cryptominer",
+      "link": "https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/",
+      "summary": "The Windows version of the Hola Browser has been compromised in a supply chain attack that delivered an undeclared executable identified by researchers as a cryptocurrency miner. [...]",
+      "published": "Thu, 04 Jun 2026 17:27:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Credit card theft campaign abuses Stripe to host stolen payment info",
+      "link": "https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/",
+      "summary": "A new Magecart campaign is using Stripe's API infrastructure to host the credit card-stealing payload and the data exfiltrated from checkout pages. [...]",
+      "published": "Thu, 04 Jun 2026 16:47:16 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
       "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
       "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
@@ -199,40 +226,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
-      "summary": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
-      "published": "Thu, 04 Jun 2026 08:29:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "summary": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
-      "published": "Thu, 04 Jun 2026 07:09:50 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "PoC available",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese hackers use new Atlas RAT malware in European cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/",
-      "summary": "A Chinese-speaking cybercrime group has expanded its targeting to the European space, deploying previously undocumented malware and the Atlas backdoor. [...]",
-      "published": "Wed, 03 Jun 2026 17:45:27 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {
@@ -323,6 +316,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "4 Critical Threats Where Attackers Have the Advantage",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage",
+      "summary": "Gartner analysts issued a call to action to bolster defenses against several emerging critical threats, such as deepfakes and prompt injections.",
+      "published": "Thu, 04 Jun 2026 21:08:16 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs",
       "link": "https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs",
       "summary": "Organizations are growing serious about what nation’s rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.",
@@ -381,15 +385,6 @@
       "link": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
       "summary": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
       "published": "Wed, 03 Jun 2026 12:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
-      "summary": "A threat actor got a near-continuous view into an influential finance executive's email inbox, thanks to clever use of legitimate, native Windows tools.",
-      "published": "Wed, 03 Jun 2026 10:01:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

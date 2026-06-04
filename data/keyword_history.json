@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 517,
+      "count": 518,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -296,7 +296,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1787,
+      "count": 1788,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1040,7 +1040,7 @@
       ]
     },
     "national security risk": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3505,7 +3505,7 @@
       ]
     },
     "resources without limits": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -11181,7 +11181,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11192,7 +11192,8 @@
         "2026-04-30",
         "2026-05-01",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-06-04"
       ]
     },
     "threat actors known": {
@@ -15854,7 +15855,7 @@
       ]
     },
     "275 million students": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17987,7 +17988,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18120,7 +18121,7 @@
       ]
     },
     "malicious activity resulted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-02",
         "2026-06-03",
@@ -18355,13 +18356,13 @@
       ]
     },
     "chinese cybercrime group": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
     },
     "mirasvit vulnerability exploited": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
@@ -18373,13 +18374,13 @@
       ]
     },
     "cybercrime group behind": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
     },
     "hacking group engages": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
@@ -18391,7 +18392,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
@@ -18403,25 +18404,25 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
     },
     "pushed malicious code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
     },
     "opc ua server": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "main contributing factor": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
@@ -18433,6 +18434,18 @@
       ]
     },
     "unauthorized group claimed": {
+      "count": 2,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "4 critical threats": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "past six months": {
       "count": 1,
       "dates": [
         "2026-06-04"
@@ -18440,17 +18453,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-22 02:50",
-      "articles": 56,
-      "top_keywords": [
-        "potentially fraudulent transactions",
-        "old tool shows",
-        "app store fraud",
-        "site admin privileges",
-        "google s surge"
-      ]
-    },
     {
       "timestamp": "2026-05-22 07:39",
       "articles": 56,
@@ -19538,6 +19540,17 @@
         "mirasvit vulnerability exploited",
         "national security risk",
         "known exploited vu"
+      ]
+    },
+    {
+      "timestamp": "2026-06-04 21:43",
+      "articles": 56,
+      "top_keywords": [
+        "supply chain attack",
+        "chinese cybercrime group",
+        "4 critical threats",
+        "mirasvit vulnerability exploited",
+        "national security risk"
       ]
     }
   ]

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-06-04 12:40",
+  "last_updated": "2026-06-04 16:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "chinese cybercrime group",
-    "coralogix raises 200m",
-    "mirasvit vulnerability exploited",
     "uk germany italy",
-    "global communication platform",
     "cybercrime group behind",
+    "mirasvit vulnerability exploited",
+    "national security risk",
+    "known exploited vu",
+    "zoom ciso ai",
     "twitter whistleblower complaint",
-    "threat actor got",
+    "single poisoned notification",
+    "resources without limits",
+    "hitachi energy rtu500",
+    "global communication platform",
     "fast spreading internet",
     "chief master sergeant",
-    "change clinical readings",
-    "malicious cyber actors",
-    "iranian ransomware actors",
+    "pushed malicious code",
     "cybercrime group defaced",
     "hacking group engages",
-    "blocking client code",
-    "sprawling phishing campaign",
-    "us government partners",
-    "united states today",
-    "sweeping action undertaken"
+    "company's public image",
+    "frequent attack vector",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "chinese cybercrime group",
-      "mentions": 1
-    },
-    {
-      "keyword": "coralogix raises 200m",
-      "mentions": 5
-    },
-    {
-      "keyword": "mirasvit vulnerability exploited",
-      "mentions": 1
-    },
-    {
-      "keyword": "uk germany italy",
-      "mentions": 1
-    },
-    {
-      "keyword": "global communication platform",
-      "mentions": 5
-    },
-    {
-      "keyword": "cybercrime group behind",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1785
-    },
-    {
-      "keyword": "threat actor got",
-      "mentions": 6
-    },
-    {
-      "keyword": "fast spreading internet",
       "mentions": 2
     },
     {
-      "keyword": "chief master sergeant",
-      "mentions": 15
+      "keyword": "uk germany italy",
+      "mentions": 2
+    },
+    {
+      "keyword": "cybercrime group behind",
+      "mentions": 2
+    },
+    {
+      "keyword": "mirasvit vulnerability exploited",
+      "mentions": 2
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 183
+    },
+    {
+      "keyword": "known exploited vu",
+      "mentions": 1
+    },
+    {
+      "keyword": "zoom ciso ai",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1786
+    },
+    {
+      "keyword": "single poisoned notification",
+      "mentions": 1
+    },
+    {
+      "keyword": "resources without limits",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it. RyotaK of GMO",
+      "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
+      "summary": "It got stupid again. The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap hackers get better toys. AI starts breaking real systems. Great. Read the whole thing before it ruins your week anyway. Unauthenticated",
+      "published": "Thu, 04 Jun 2026 19:30:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
@@ -126,25 +144,45 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "summary": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
-      "published": "Wed, 03 Jun 2026 23:28:00 +0530",
+      "source": "BleepingComputer",
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "summary": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+      "published": "Thu, 04 Jun 2026 12:38:49 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "summary": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+      "published": "Thu, 04 Jun 2026 11:25:37 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "summary": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
-      "published": "Wed, 03 Jun 2026 22:10:00 +0530",
-      "value_score": 74,
+      "source": "BleepingComputer",
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "summary": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
+      "published": "Thu, 04 Jun 2026 10:01:11 -0400",
+      "value_score": 16,
       "value_signals": [
-        "CVE mentioned ×2",
-        "RCE",
-        "Multiple CVEs"
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "summary": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
+      "published": "Thu, 04 Jun 2026 09:41:42 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
       ]
     },
     {
@@ -190,50 +228,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of cyberattacks targeting fuel tank monitoring systems",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/",
-      "summary": "CISA, the FBI, the NSA, the Department of Energy, and other US government partners are warning that hackers are targeting internet-exposed automatic tank gauge (ATG) systems used to monitor fuel and liquid storage tanks across various critical infrastructure sectors. [...]",
-      "published": "Wed, 03 Jun 2026 16:21:56 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute",
-      "link": "https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/",
-      "summary": "A new denial-of-service (DoS) attack dubbed HTTP/2 Bomb can be launched from a single machine to take down web servers within seconds. [...]",
-      "published": "Wed, 03 Jun 2026 15:08:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
-      "published": "Wed, 03 Jun 2026 11:36:16 -0400",
-      "value_score": 56,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "What 345 Days of Untested Exposure Looks Like at a Bank",
-      "link": "https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/",
-      "summary": "A two-week penetration test can leave roughly 345 days of real-world exposure unvalidated. Sprocket Security explores why continuous testing is becoming critical as attack surfaces constantly change. [...]",
-      "published": "Wed, 03 Jun 2026 10:02:12 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {
@@ -396,6 +390,42 @@
     },
     {
       "source": "Security Week",
+      "title": "Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk",
+      "link": "https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/",
+      "summary": "As AI agents, machine identities, and third-party applications multiply across enterprises, Offroad is betting autonomous security agents can restore control over an increasingly unmanageable identity landscape. The post Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk appeared first on SecurityWeek .",
+      "published": "Thu, 04 Jun 2026 15:05:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond",
+      "link": "https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/",
+      "summary": "Join this live webinar as we examine the gap between how organizations think their third-party risk programs are performing and what’s actually happening in practice. The post Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond appeared first on SecurityWeek .",
+      "published": "Thu, 04 Jun 2026 14:40:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Willow Raises $7 Million for Securing Autonomous AI Agents",
+      "link": "https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/",
+      "summary": "Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents. The post Willow Raises $7 Million for Securing Autonomous AI Agents appeared first on SecurityWeek .",
+      "published": "Thu, 04 Jun 2026 14:22:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Gemini Voice Assistant Hijacked via Messaging Notifications",
+      "link": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
+      "summary": "Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls. The post Gemini Voice Assistant Hijacked via Messaging Notifications appeared first on SecurityWeek .",
+      "published": "Thu, 04 Jun 2026 12:57:37 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Mirasvit Vulnerability Exploited to Execute Code on Magento Servers",
       "link": "https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/",
       "summary": "A flaw in the Full Page Cache Warmer extension can be exploited without authentication via serialized PHP object payloads. The post Mirasvit Vulnerability Exploited to Execute Code on Magento Servers appeared first on SecurityWeek .",
@@ -436,48 +466,6 @@
         "PoC available ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "VS Code Vulnerability Allows One-Click GitHub Token Theft",
-      "link": "https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/",
-      "summary": "A researcher has disclosed the full details of the vulnerability and released a PoC without notifying Microsoft in advance. The post VS Code Vulnerability Allows One-Click GitHub Token Theft appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 08:14:52 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "PoC available"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
-      "link": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
-      "summary": "Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability. The post Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform appeared first on SecurityWeek .",
-      "published": "Wed, 03 Jun 2026 17:32:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/",
-      "summary": "Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites. The post Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Wed, 03 Jun 2026 13:00:04 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Security of 100 AI Agents Tested and Ranked – What You Need to Know",
-      "link": "https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/",
-      "summary": "The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses. The post Security of 100 AI Agents Tested and Ranked – What You Need to Know appeared first on SecurityWeek .",
-      "published": "Wed, 03 Jun 2026 13:00:00 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -565,6 +553,69 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "NAVTOR NavBox",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavBox 4.16.1.20 (CVE-2026-21404) CVSS Vendor Equipment Vulnerabilities v3 6.3 NAVTOR NAVTOR NavBox Use of Hard-coded Credentials Background Critical Infrastructure Sectors: Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Nor",
+      "published": "Thu, 04 Jun 26 12:00:00 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy MACH HiDraw",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, potentially resulting in application outages (denial of service) and possible arbitrary code execution. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MACH HiDraw are affect",
+      "published": "Thu, 04 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy ITT600 Explorer",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-02",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect ITT600 Explorer product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. The vulnerabilities only affect Hitachi Energy Integrated Testing Tool ITT600 SA Explorer without affecting IEC 61850 system endpoints. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi ",
+      "published": "Thu, 04 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "B&R PPT30 Operating System",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-03",
+      "summary": "View CSAF Summary B&R is aware of a vulnerability in the product versions listed as affected in the advisory. An attacker who successfully exploits this vulnerability could make the OPC-UA server of the product inaccessible. The following versions of B&R PPT30 Operating System are affected: PPT30 Operating System <1.8.0, 1.8.0 (CVE-2025-11482) CVSS Vendor Equipment Vulnerabilities v3 7.5 B&R Industrial Automation GmbH B&R PPT30 Operating System Allocation of Resources Without Limits or Throttlin",
+      "published": "Thu, 04 Jun 26 12:00:00 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Hitachi Energy RTU500",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04",
+      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on confidentiality and integrity. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7",
+      "published": "Thu, 04 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
       "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalo",
@@ -601,71 +652,6 @@
         "CVE mentioned ×2",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-21182 Oracle WebLogic Server Unspecified Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Co",
-      "published": "Mon, 01 Jun 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-0257 Palo Alto Networks PAN-OS Authentication Bypass Vulnerability This type of vulnerability is a frequent attack vectors for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list",
-      "published": "Fri, 29 May 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Auth bypass",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker gaining administrator access to the device. The following versions of Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter are affected: USR-W610 RS232/485 to Wi-Fi/Ethernet Converter 7.03T.07 CVSS Vendor Equipment Vulnerabilities v3 9.8 Jinan USR IOT Technology Limited (PUSR) Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter Use of Ha",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "ABB Busch-Welcome 2 Wire Door Opener Actuator",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04",
-      "summary": "View CSAF Summary ABB is aware of vulnerabilities in the product versions listed as affected in the advisory. An attacker who successfully exploited this vulnerability could gain physical, unauthorized access to a Building where the product is installed The following versions of ABB Busch-Welcome 2 Wire Door Opener Actuator are affected: Switch Actuator 4 DU vers:all/* Switch actuator, door/light 4 DU vers:all/* CVSS Vendor Equipment Vulnerabilities v3 6.8 ABB ABB Busch-Welcome 2 Wire Door Opene",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Fourth Frontier Frontier X Mobile Application, Frontier X2",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to read and write arbitrary handle values and change clinical readings, which could result in taking control of the device and lead to patient harm. The following versions of Fourth Frontier Frontier X Mobile Application, Frontier X2 are affected: Frontier X Android application vers<v15.0.0 Frontier X IOS application vers<v25.0.0 Frontier X2 vers:all/* CVSS Vendor Equipment Vulnerabilities v3 8.8 Fourth Front",
-      "published": "Thu, 28 May 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

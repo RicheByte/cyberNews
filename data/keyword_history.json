@@ -296,7 +296,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1785,
+      "count": 1786,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1040,7 +1040,7 @@
       ]
     },
     "national security risk": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1074,7 +1074,8 @@
         "2026-05-14",
         "2026-05-15",
         "2026-05-27",
-        "2026-05-28"
+        "2026-05-28",
+        "2026-06-04"
       ]
     },
     "open source millions": {
@@ -1744,7 +1745,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 410,
+      "count": 411,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3503,11 +3504,12 @@
       ]
     },
     "resources without limits": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-13",
         "2026-01-14",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-06-04"
       ]
     },
     "420 million news": {
@@ -11625,7 +11627,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -11638,7 +11640,8 @@
         "2026-04-27",
         "2026-04-28",
         "2026-05-12",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-06-04"
       ]
     },
     "things get shaky": {
@@ -15604,13 +15607,14 @@
       ]
     },
     "company's public image": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-06",
         "2026-05-07",
         "2026-05-19",
         "2026-05-20",
-        "2026-05-21"
+        "2026-05-21",
+        "2026-06-04"
       ]
     },
     "romanian man extradited": {
@@ -15877,7 +15881,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17981,7 +17985,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18195,9 +18199,10 @@
       ]
     },
     "zoom ciso ai": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ]
     },
     "top ai models": {
@@ -18273,7 +18278,7 @@
       ]
     },
     "global communication platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-03",
         "2026-06-04"
@@ -18335,7 +18340,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
@@ -18347,31 +18352,31 @@
       ]
     },
     "chinese cybercrime group": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "mirasvit vulnerability exploited": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "uk germany italy": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "cybercrime group behind": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "hacking group engages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
@@ -18381,20 +18386,33 @@
       "dates": [
         "2026-06-04"
       ]
+    },
+    "known exploited vu": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "single poisoned notification": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "hitachi energy rtu500": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "pushed malicious code": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-21 21:23",
-      "articles": 56,
-      "top_keywords": [
-        "potentially fraudulent transactions",
-        "old tool shows",
-        "app store fraud",
-        "google s surge",
-        "site admin privileges"
-      ]
-    },
     {
       "timestamp": "2026-05-21 22:59",
       "articles": 56,
@@ -19482,6 +19500,17 @@
         "mirasvit vulnerability exploited",
         "uk germany italy",
         "global communication platform"
+      ]
+    },
+    {
+      "timestamp": "2026-06-04 16:50",
+      "articles": 56,
+      "top_keywords": [
+        "chinese cybercrime group",
+        "uk germany italy",
+        "cybercrime group behind",
+        "mirasvit vulnerability exploited",
+        "national security risk"
       ]
     }
   ]

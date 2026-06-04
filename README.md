@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-04 12:40 UTC |
+| 🕐 Last Updated | 2026-06-04 16:50 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chinese cybercrime group` • `coralogix raises 200m` • `mirasvit vulnerability exploited` • `uk germany italy` • `global communication platform` • `cybercrime group behind` • `twitter whistleblower complaint` • `threat actor got` • `fast spreading internet` • `chief master sergeant`
+`chinese cybercrime group` • `uk germany italy` • `cybercrime group behind` • `mirasvit vulnerability exploited` • `national security risk` • `known exploited vu` • `zoom ciso ai` • `twitter whistleblower complaint` • `single poisoned notification` • `resources without limits`
 
 ## 📄 Reports
 

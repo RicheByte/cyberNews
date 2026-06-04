@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-04 12:40 UTC  
+> **Last Updated:** 2026-06-04 16:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chinese cybercrime group** • **coralogix raises 200m** • **mirasvit vulnerability exploited** • **uk germany italy** • **global communication platform** • **cybercrime group behind** • **twitter whistleblower complaint** • **threat actor got** • **fast spreading internet** • **chief master sergeant** • **change clinical readings** • **malicious cyber actors** • **iranian ransomware actors** • **cybercrime group defaced** • **hacking group engages** • **blocking client code** • **sprawling phishing campaign** • **us government partners** • **united states today** • **sweeping action undertaken**
+**chinese cybercrime group** • **uk germany italy** • **cybercrime group behind** • **mirasvit vulnerability exploited** • **national security risk** • **known exploited vu** • **zoom ciso ai** • **twitter whistleblower complaint** • **single poisoned notification** • **resources without limits** • **hitachi energy rtu500** • **global communication platform** • **fast spreading internet** • **chief master sergeant** • **pushed malicious code** • **cybercrime group defaced** • **hacking group engages** • **company's public image** • **frequent attack vector** • **sprawling phishing campaign**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
+- [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
 - [China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
 - [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
 - [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
 - [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
 - [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
 - [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
-- [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
-- [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
 
 ### BleepingComputer
 
+- [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
+- [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
+- [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
+- [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
 - [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
 - [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
 - [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
 - [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
-- [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
-- [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
-- [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
-- [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
+- [Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)
+- [Willow Raises $7 Million for Securing Autonomous AI Agents](https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/)
+- [Gemini Voice Assistant Hijacked via Messaging Notifications](https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/)
 - [Mirasvit Vulnerability Exploited to Execute Code on Magento Servers](https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/)
 - [Chinese Cybercrime Group in Spotlight for Record Campaign Pace](https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/)
 - [Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown](https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/)
 - [Cisco Warns of Available PoC for Critical Unified CM Vulnerability](https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/)
-- [VS Code Vulnerability Allows One-Click GitHub Token Theft](https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/)
-- [Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform](https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/)
-- [Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs](https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/)
-- [Security of 100 AI Agents Tested and Ranked – What You Need to Know](https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [NAVTOR NavBox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01)
+- [Hitachi Energy MACH HiDraw](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05)
+- [Hitachi Energy ITT600 Explorer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-02)
+- [B&R PPT30 Operating System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-03)
+- [Hitachi Energy RTU500](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [CISA and Partners Urge Hardening Automatic Tank Gauge Systems](https://www.cisa.gov/resources-tools/resources/cisa-and-partners-urge-hardening-automatic-tank-gauge-systems)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/01/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/05/29/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Jinan USR IOT Technology Limited (PUSR) USR-W610 RS232/485 to Wi-Fi/Ethernet Converter](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-02)
-- [ABB Busch-Welcome 2 Wire Door Opener Actuator](https://www.cisa.gov/news-events/ics-advisories/icsa-26-148-04)
-- [Fourth Frontier Frontier X Mobile Application, Frontier X2](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-148-01)
 
 ---
 

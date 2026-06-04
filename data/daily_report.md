@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-04 21:43 UTC  
+> **Last Updated:** 2026-06-04 23:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**supply chain attack** • **chinese cybercrime group** • **4 critical threats** • **mirasvit vulnerability exploited** • **national security risk** • **known exploited vu** • **cybercrime group behind** • **twitter whistleblower complaint** • **resources without limits** • **opc ua server** • **main contributing factor** • **hitachi energy rtu500** • **chief master sergeant** • **pushed malicious code** • **malicious cyber actors** • **malicious activity resulted** • **275 million students** • **past six months** • **unauthorized group claimed** • **hacking group engages**
+**supply chain attack** • **chinese cybercrime group** • **4 critical threats** • **mirasvit vulnerability exploited** • **national security risk** • **known exploited vu** • **cybercrime group behind** • **twitter whistleblower complaint** • **software supply channel** • **resources without limits** • **opc ua server** • **main contributing factor** • **hitachi energy rtu500** • **chief master sergeant** • **pushed malicious code** • **malicious cyber actors** • **malicious activity resulted** • **275 million students** • **sprawling phishing campaign** • **past six months**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Rust-Written IronWorm Hits NPM Supply Chain](https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain)
+- [China's TA4922 Expands Cybercrime Attacks Globally](https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally)
 - [4 Critical Threats Where Attackers Have the Advantage](https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage)
 - [Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs](https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs)
 - [Pakistan Spies on Afghan Finance Ministry With Xeno RAT](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat)
 - [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
 - [Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america)
 - [Cyber Insurance Rates Are Dropping, but Exclusions Widen](https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen)
-- [Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover](https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover)
-- [Malicious Notifications Could Trick Google Gemini Users](https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users)
 
 ### Security Week
 

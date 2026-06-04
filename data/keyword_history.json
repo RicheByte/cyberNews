@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 518,
+      "count": 519,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -296,7 +296,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1788,
+      "count": 1789,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1040,7 +1040,7 @@
       ]
     },
     "national security risk": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1745,7 +1745,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 411,
+      "count": 412,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3505,7 +3505,7 @@
       ]
     },
     "resources without limits": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -11181,7 +11181,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -15855,7 +15855,7 @@
       ]
     },
     "275 million students": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17988,7 +17988,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18121,7 +18121,7 @@
       ]
     },
     "malicious activity resulted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-02",
         "2026-06-03",
@@ -18356,13 +18356,13 @@
       ]
     },
     "chinese cybercrime group": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-04"
       ]
     },
     "mirasvit vulnerability exploited": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-04"
       ]
@@ -18374,7 +18374,7 @@
       ]
     },
     "cybercrime group behind": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-04"
       ]
@@ -18392,7 +18392,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
@@ -18404,25 +18404,25 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
     },
     "pushed malicious code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04"
       ]
     },
     "opc ua server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
     },
     "main contributing factor": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
@@ -18440,12 +18440,18 @@
       ]
     },
     "4 critical threats": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "past six months": {
+      "count": 2,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "software supply channel": {
       "count": 1,
       "dates": [
         "2026-06-04"
@@ -18453,17 +18459,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-22 07:39",
-      "articles": 56,
-      "top_keywords": [
-        "potentially fraudulent transactions",
-        "old tool shows",
-        "app store fraud",
-        "google s surge",
-        "site admin privileges"
-      ]
-    },
     {
       "timestamp": "2026-05-22 10:45",
       "articles": 56,
@@ -19544,6 +19539,17 @@
     },
     {
       "timestamp": "2026-06-04 21:43",
+      "articles": 56,
+      "top_keywords": [
+        "supply chain attack",
+        "chinese cybercrime group",
+        "4 critical threats",
+        "mirasvit vulnerability exploited",
+        "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-06-04 23:04",
       "articles": 56,
       "top_keywords": [
         "supply chain attack",

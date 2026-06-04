@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 21:43",
+  "last_updated": "2026-06-04 23:04",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -11,6 +11,7 @@
     "known exploited vu",
     "cybercrime group behind",
     "twitter whistleblower complaint",
+    "software supply channel",
     "resources without limits",
     "opc ua server",
     "main contributing factor",
@@ -20,50 +21,49 @@
     "malicious cyber actors",
     "malicious activity resulted",
     "275 million students",
-    "past six months",
-    "unauthorized group claimed",
-    "hacking group engages"
+    "sprawling phishing campaign",
+    "past six months"
   ],
   "trending": [
     {
       "keyword": "supply chain attack",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "chinese cybercrime group",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "4 critical threats",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "mirasvit vulnerability exploited",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "national security risk",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "known exploited vu",
-      "mentions": 3
-    },
-    {
-      "keyword": "cybercrime group behind",
       "mentions": 4
     },
     {
+      "keyword": "cybercrime group behind",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1788
+      "mentions": 1789
+    },
+    {
+      "keyword": "software supply channel",
+      "mentions": 1
     },
     {
       "keyword": "resources without limits",
-      "mentions": 12
-    },
-    {
-      "keyword": "opc ua server",
-      "mentions": 2
+      "mentions": 13
     }
   ],
   "articles": [
@@ -316,6 +316,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Rust-Written IronWorm Hits NPM Supply Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
+      "summary": "Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.",
+      "published": "Thu, 04 Jun 2026 21:47:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "China's TA4922 Expands Cybercrime Attacks Globally",
+      "link": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
+      "summary": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
+      "published": "Thu, 04 Jun 2026 21:23:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "4 Critical Threats Where Attackers Have the Advantage",
       "link": "https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage",
       "summary": "Gartner analysts issued a call to action to bolster defenses against several emerging critical threats, such as deepfakes and prompt injections.",
@@ -367,24 +385,6 @@
       "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
       "summary": "Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
       "published": "Wed, 03 Jun 2026 19:10:58 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover",
-      "link": "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover",
-      "summary": "A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.",
-      "published": "Wed, 03 Jun 2026 19:00:41 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Malicious Notifications Could Trick Google Gemini Users",
-      "link": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
-      "summary": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
-      "published": "Wed, 03 Jun 2026 12:01:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

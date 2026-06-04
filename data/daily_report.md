@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-04 16:50 UTC  
+> **Last Updated:** 2026-06-04 19:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chinese cybercrime group** • **uk germany italy** • **cybercrime group behind** • **mirasvit vulnerability exploited** • **national security risk** • **known exploited vu** • **zoom ciso ai** • **twitter whistleblower complaint** • **single poisoned notification** • **resources without limits** • **hitachi energy rtu500** • **global communication platform** • **fast spreading internet** • **chief master sergeant** • **pushed malicious code** • **cybercrime group defaced** • **hacking group engages** • **company's public image** • **frequent attack vector** • **sprawling phishing campaign**
+**chinese cybercrime group** • **cybercrime group behind** • **mirasvit vulnerability exploited** • **national security risk** • **known exploited vu** • **pushed malicious code** • **twitter whistleblower complaint** • **resources without limits** • **opc ua server** • **main contributing factor** • **hitachi energy rtu500** • **chief master sergeant** • **concept exploit code** • **cybercrime group defaced** • **unified communications manager** • **malicious cyber actors** • **malicious activity resulted** • **275 million students** • **unauthorized group claimed** • **hacking group engages**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 - [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
+- [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
 - [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
-- [China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
+- [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
 - [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
 - [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
 - [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
-- [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
-- [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
 
 ### BleepingComputer
 
+- [DentaQuest data breach  exposed info of 2.6 million accounts](https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/)
 - [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
 - [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
 - [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
@@ -34,7 +35,6 @@
 - [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
 - [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
 - [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
-- [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs](https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs)
 - [Pakistan Spies on Afghan Finance Ministry With Xeno RAT](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat)
 - [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
 - [Tropical Blend: Cyber &amp; Politics Ramp Up Across Latin America](https://www.darkreading.com/cyberattacks-data-breaches/nation-state-cyber-activity-latin-america)
@@ -56,7 +57,6 @@
 - [Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover](https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover)
 - [Malicious Notifications Could Trick Google Gemini Users](https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users)
 - [Global Stock Exchange Hit by Monthslong Email Campaign](https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign)
-- [Zoom CISO: AI as a Security Enabler, Not Role-Replacer](https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer)
 
 ### Security Week
 

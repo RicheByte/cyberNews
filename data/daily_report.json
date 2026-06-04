@@ -1,78 +1,101 @@
 {
-  "last_updated": "2026-06-04 16:50",
+  "last_updated": "2026-06-04 19:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "chinese cybercrime group",
-    "uk germany italy",
     "cybercrime group behind",
     "mirasvit vulnerability exploited",
     "national security risk",
     "known exploited vu",
-    "zoom ciso ai",
-    "twitter whistleblower complaint",
-    "single poisoned notification",
-    "resources without limits",
-    "hitachi energy rtu500",
-    "global communication platform",
-    "fast spreading internet",
-    "chief master sergeant",
     "pushed malicious code",
+    "twitter whistleblower complaint",
+    "resources without limits",
+    "opc ua server",
+    "main contributing factor",
+    "hitachi energy rtu500",
+    "chief master sergeant",
+    "concept exploit code",
     "cybercrime group defaced",
-    "hacking group engages",
-    "company's public image",
-    "frequent attack vector",
-    "sprawling phishing campaign"
+    "unified communications manager",
+    "malicious cyber actors",
+    "malicious activity resulted",
+    "275 million students",
+    "unauthorized group claimed",
+    "hacking group engages"
   ],
   "trending": [
     {
       "keyword": "chinese cybercrime group",
-      "mentions": 2
-    },
-    {
-      "keyword": "uk germany italy",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group behind",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "mirasvit vulnerability exploited",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "national security risk",
-      "mentions": 183
+      "mentions": 184
     },
     {
       "keyword": "known exploited vu",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "zoom ciso ai",
-      "mentions": 5
+      "keyword": "pushed malicious code",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1786
-    },
-    {
-      "keyword": "single poisoned notification",
-      "mentions": 1
+      "mentions": 1787
     },
     {
       "keyword": "resources without limits",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "opc ua server",
+      "mentions": 1
+    },
+    {
+      "keyword": "main contributing factor",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "summary": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is a server-side request forgery.",
+      "published": "Thu, 04 Jun 2026 22:25:51 +0530",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "PoC available",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
       "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
       "summary": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it. RyotaK of GMO",
       "published": "Thu, 04 Jun 2026 20:45:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "summary": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was",
+      "published": "Thu, 04 Jun 2026 20:40:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -87,7 +110,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa",
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
       "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
       "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
       "published": "Thu, 04 Jun 2026 17:52:25 +0530",
@@ -126,22 +149,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
-      "link": "https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Wednesday announced the results of a sweeping action undertaken by government authorities and private sector companies to combat cyber-enabled and cryptocurrency fraud targeting Americans. The \"Disruption Week\" operation began May 18, 2026, leading to the takedown of millions of social media, email, and internet access accounts used by transnational",
-      "published": "Thu, 04 Jun 2026 11:36:25 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "WhatsApp, Slack Notifications Could Hijack Google Gemini on Android",
-      "link": "https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html",
-      "summary": "A single poisoned notification from WhatsApp, Slack, SMS, Signal, Instagram, or Messenger could have hijacked Google Gemini's voice assistant on Android and made it open a victim's connected windows, fake a message from their boss, push the phone into a Zoom call, or quietly poison its long-term memory. No malicious app on the phone is required. The assistant just had to treat a hostile",
-      "published": "Thu, 04 Jun 2026 00:41:15 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/dentaquest-data-breach-exposed-info-of-26-million-accounts/",
+      "summary": "A data breach at the dental benefits administrator DentaQuest has reportedly exposed the sensitive data of 2.6 million accounts. [...]",
+      "published": "Thu, 04 Jun 2026 14:36:27 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -217,17 +233,6 @@
       "value_score": 22,
       "value_signals": [
         "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors",
-      "link": "https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/",
-      "summary": "The U.S. Treasury's Office of Foreign Assets Control (OFAC) has announced sanctions against Nobitex, Iran's largest cryptocurrency exchange, for facilitating payments related to terrorist activities. [...]",
-      "published": "Wed, 03 Jun 2026 16:31:22 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {
@@ -318,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs",
+      "link": "https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs",
+      "summary": "Organizations are growing serious about what nation’s rules apply to their data. Experts point to geopolitical tensions as a main contributing factor.",
+      "published": "Thu, 04 Jun 2026 14:22:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Pakistan Spies on Afghan Finance Ministry With Xeno RAT",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
       "summary": "Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity.",
@@ -376,15 +390,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
       "summary": "A threat actor got a near-continuous view into an influential finance executive's email inbox, thanks to clever use of legitimate, native Windows tools.",
       "published": "Wed, 03 Jun 2026 10:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Zoom CISO: AI as a Security Enabler, Not Role-Replacer",
-      "link": "https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer",
-      "summary": "Zoom CISO Sandra McLeod discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and her advice for aspiring cybersecurity leaders.",
-      "published": "Tue, 02 Jun 2026 21:51:07 GMT",
       "value_score": 10,
       "value_signals": []
     },

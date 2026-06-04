@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 516,
+      "count": 517,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -296,7 +296,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1786,
+      "count": 1787,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1040,7 +1040,7 @@
       ]
     },
     "national security risk": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2746,9 +2746,10 @@
       ]
     },
     "concept exploit code": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-01-08"
+        "2026-01-08",
+        "2026-06-04"
       ]
     },
     "concept poc exploit": {
@@ -3504,7 +3505,7 @@
       ]
     },
     "resources without limits": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -15853,7 +15854,7 @@
       ]
     },
     "275 million students": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15868,7 +15869,8 @@
         "2026-05-29",
         "2026-05-30",
         "2026-05-31",
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-04"
       ]
     },
     "internal trellix services": {
@@ -15881,7 +15883,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -17985,7 +17987,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18118,10 +18120,11 @@
       ]
     },
     "malicious activity resulted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-02",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-04"
       ]
     },
     "seize instagram accounts": {
@@ -18352,13 +18355,13 @@
       ]
     },
     "chinese cybercrime group": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
     },
     "mirasvit vulnerability exploited": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
@@ -18370,13 +18373,13 @@
       ]
     },
     "cybercrime group behind": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
     },
     "hacking group engages": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-04"
       ]
@@ -18388,7 +18391,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
@@ -18400,12 +18403,36 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "pushed malicious code": {
+      "count": 2,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "opc ua server": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "main contributing factor": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "unified communications manager": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "unauthorized group claimed": {
       "count": 1,
       "dates": [
         "2026-06-04"
@@ -18413,17 +18440,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-21 22:59",
-      "articles": 56,
-      "top_keywords": [
-        "potentially fraudulent transactions",
-        "old tool shows",
-        "app store fraud",
-        "site admin privileges",
-        "google s surge"
-      ]
-    },
     {
       "timestamp": "2026-05-22 02:50",
       "articles": 56,
@@ -19511,6 +19527,17 @@
         "cybercrime group behind",
         "mirasvit vulnerability exploited",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-06-04 19:58",
+      "articles": 56,
+      "top_keywords": [
+        "chinese cybercrime group",
+        "cybercrime group behind",
+        "mirasvit vulnerability exploited",
+        "national security risk",
+        "known exploited vu"
       ]
     }
   ]

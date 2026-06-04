@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-04 16:50 UTC |
+| 🕐 Last Updated | 2026-06-04 19:58 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chinese cybercrime group` • `uk germany italy` • `cybercrime group behind` • `mirasvit vulnerability exploited` • `national security risk` • `known exploited vu` • `zoom ciso ai` • `twitter whistleblower complaint` • `single poisoned notification` • `resources without limits`
+`chinese cybercrime group` • `cybercrime group behind` • `mirasvit vulnerability exploited` • `national security risk` • `known exploited vu` • `pushed malicious code` • `twitter whistleblower complaint` • `resources without limits` • `opc ua server` • `main contributing factor`
 
 ## 📄 Reports
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-04 08:15 UTC |
+| 🕐 Last Updated | 2026-06-04 12:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`coralogix raises 200m` • `illegal streaming operations` • `global communication platform` • `twitter whistleblower complaint` • `trusted microsoft apps` • `threat actor got` • `region gathering information` • `major web servers` • `fast spreading internet` • `chief master sergeant`
+`chinese cybercrime group` • `coralogix raises 200m` • `mirasvit vulnerability exploited` • `uk germany italy` • `global communication platform` • `cybercrime group behind` • `twitter whistleblower complaint` • `threat actor got` • `fast spreading internet` • `chief master sergeant`
 
 ## 📄 Reports
 

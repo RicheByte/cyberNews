@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-04 08:15 UTC  
+> **Last Updated:** 2026-06-04 12:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**coralogix raises 200m** • **illegal streaming operations** • **global communication platform** • **twitter whistleblower complaint** • **trusted microsoft apps** • **threat actor got** • **region gathering information** • **major web servers** • **fast spreading internet** • **chief master sergeant** • **change clinical readings** • **blocking client code** • **resetting account passwords** • **iranian ransomware actors** • **many security tools** • **cybercrime group defaced** • **google's doubleclick domain** • **writing exploits faster** • **us government partners** • **united states today**
+**chinese cybercrime group** • **coralogix raises 200m** • **mirasvit vulnerability exploited** • **uk germany italy** • **global communication platform** • **cybercrime group behind** • **twitter whistleblower complaint** • **threat actor got** • **fast spreading internet** • **chief master sergeant** • **change clinical readings** • **malicious cyber actors** • **iranian ransomware actors** • **cybercrime group defaced** • **hacking group engages** • **blocking client code** • **sprawling phishing campaign** • **us government partners** • **united states today** • **sweeping action undertaken**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [China-Linked TA4922 Expands Phishing Attacks to UK, Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
+- [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
+- [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
+- [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
 - [DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets](https://thehackernews.com/2026/06/doj-disrupts-southeast-asia-crypto.html)
 - [WhatsApp, Slack Notifications Could Hijack Google Gemini on Android](https://thehackernews.com/2026/06/whatsapp-slack-notifications-could.html)
-- [Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT](https://thehackernews.com/2026/06/google-doubleclick-abused-in-new.html)
-- [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html)
-- [Microsoft 365 Android Apps Let Any App Steal Account Tokens via Leftover Debug Flag](https://thehackernews.com/2026/06/microsoft-365-android-apps-let-any-app.html)
-- [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
 - [One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens](https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html)
-- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html)
+- [Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)](https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html)
 
 ### BleepingComputer
 
+- [Police dismantles fake ID marketplace used by migrant smugglers](https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/)
+- [Cisco warns of critical Unified CM flaw with PoC exploit code](https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/)
 - [Chinese hackers use new Atlas RAT malware in European cyberattacks](https://www.bleepingcomputer.com/news/security/chinese-hackers-use-new-atlas-rat-malware-in-european-cyberattacks/)
 - [U.S. sanctions Nobitex crypto exchange used by Iranian ransomware actors](https://www.bleepingcomputer.com/news/security/the-us-sanctions-nobitex-crypto-exchange-used-by-ransomware/)
 - [CISA warns of cyberattacks targeting fuel tank monitoring systems](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-targeting-fuel-tank-monitoring-systems/)
 - [New 'HTTP/2 Bomb' DoS attack crashes web servers in under a minute](https://www.bleepingcomputer.com/news/security/new-http-2-bomb-dos-attack-crashes-web-servers-in-under-a-minute/)
 - [CISA warns of active attacks exploiting Android, Linux bugs](https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/)
 - [What 345 Days of Untested Exposure Looks Like at a Bank](https://www.bleepingcomputer.com/news/security/what-345-days-of-untested-exposure-looks-like-at-a-bank/)
-- [Acer working to patch max severity zero-days in Wave 7 routers](https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/)
-- [Police dismantles 9 crime groups in illegal streaming crackdown](https://www.bleepingcomputer.com/news/security/police-dismantles-9-crime-groups-in-illegal-streaming-crackdown/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Mirasvit Vulnerability Exploited to Execute Code on Magento Servers](https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/)
+- [Chinese Cybercrime Group in Spotlight for Record Campaign Pace](https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/)
+- [Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown](https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/)
+- [Cisco Warns of Available PoC for Critical Unified CM Vulnerability](https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/)
 - [VS Code Vulnerability Allows One-Click GitHub Token Theft](https://www.securityweek.com/vs-code-vulnerability-allows-one-click-github-token-theft/)
 - [Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform](https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/)
 - [Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs](https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/)
 - [Security of 100 AI Agents Tested and Ranked – What You Need to Know](https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/)
-- [Hackers Target Global Stock Exchange in Espionage Operation](https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/)
-- [IMA Diligence Services Data Breach Impacts 525,000 People](https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/)
-- [Organizations Warned of Exploited Linux Kernel Vulnerability](https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/)
-- [‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds](https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/)
 
 ### Threatpost
 

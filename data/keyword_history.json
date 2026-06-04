@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 515,
+      "count": 516,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -296,7 +296,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1784,
+      "count": 1785,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1744,7 +1744,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 409,
+      "count": 410,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1816,7 +1816,8 @@
         "2026-05-27",
         "2026-05-28",
         "2026-06-01",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-04"
       ]
     },
     "model agnostic abstractions": {
@@ -15876,7 +15877,7 @@
       ]
     },
     "cybercrime group defaced": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15935,7 +15936,7 @@
       ]
     },
     "united states today": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17980,7 +17981,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18220,7 +18221,7 @@
       ]
     },
     "threat actor got": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-03",
         "2026-06-04"
@@ -18258,7 +18259,7 @@
       ]
     },
     "coralogix raises 200m": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-03",
         "2026-06-04"
@@ -18272,21 +18273,21 @@
       ]
     },
     "global communication platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-03",
         "2026-06-04"
       ]
     },
     "change clinical readings": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-03",
         "2026-06-04"
       ]
     },
     "us government partners": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-03",
         "2026-06-04"
@@ -18307,7 +18308,7 @@
       ]
     },
     "blocking client code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-03",
         "2026-06-04"
@@ -18334,12 +18335,48 @@
       ]
     },
     "fast spreading internet": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-04"
       ]
     },
     "iranian ransomware actors": {
+      "count": 2,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "chinese cybercrime group": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "mirasvit vulnerability exploited": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "uk germany italy": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "cybercrime group behind": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "hacking group engages": {
+      "count": 1,
+      "dates": [
+        "2026-06-04"
+      ]
+    },
+    "sweeping action undertaken": {
       "count": 1,
       "dates": [
         "2026-06-04"
@@ -18347,17 +18384,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-21 19:47",
-      "articles": 56,
-      "top_keywords": [
-        "abb coresense hm",
-        "potentially fraudulent transactions",
-        "old tool shows",
-        "app store fraud",
-        "google s surge"
-      ]
-    },
     {
       "timestamp": "2026-05-21 21:23",
       "articles": 56,
@@ -19445,6 +19471,17 @@
         "global communication platform",
         "twitter whistleblower complaint",
         "trusted microsoft apps"
+      ]
+    },
+    {
+      "timestamp": "2026-06-04 12:40",
+      "articles": 56,
+      "top_keywords": [
+        "chinese cybercrime group",
+        "coralogix raises 200m",
+        "mirasvit vulnerability exploited",
+        "uk germany italy",
+        "global communication platform"
       ]
     }
   ]

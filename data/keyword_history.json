@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1791,
+      "count": 1792,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -566,7 +566,7 @@
       ]
     },
     "threat actor known": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1043,7 +1043,7 @@
       ]
     },
     "national security risk": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2751,10 +2751,11 @@
       ]
     },
     "concept exploit code": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-05"
       ]
     },
     "concept poc exploit": {
@@ -11187,7 +11188,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -17296,7 +17297,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17997,7 +17998,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18419,28 +18420,28 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-04",
         "2026-06-05"
       ]
     },
     "pushed malicious code": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-04",
         "2026-06-05"
       ]
     },
     "opc ua server": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-04",
         "2026-06-05"
       ]
     },
     "main contributing factor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-04",
         "2026-06-05"
@@ -18453,39 +18454,58 @@
       ]
     },
     "unauthorized group claimed": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-05"
       ]
     },
     "4 critical threats": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-04",
         "2026-06-05"
       ]
     },
     "past six months": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04",
         "2026-06-05"
       ]
     },
     "software supply channel": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-04",
         "2026-06-05"
       ]
     },
     "smtp proxies verified": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-05"
       ]
     },
     "mail relay capability": {
+      "count": 2,
+      "dates": [
+        "2026-06-05"
+      ]
+    },
+    "dental benefits administrator": {
+      "count": 1,
+      "dates": [
+        "2026-06-05"
+      ]
+    },
+    "untrusted input flaws": {
+      "count": 1,
+      "dates": [
+        "2026-06-05"
+      ]
+    },
+    "undeclared executable identified": {
       "count": 1,
       "dates": [
         "2026-06-05"
@@ -18493,17 +18513,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-22 17:47",
-      "articles": 56,
-      "top_keywords": [
-        "directory traversal flaw",
-        "user mode without",
-        "trend micro warns",
-        "computer hacking charges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-22 19:27",
       "articles": 56,
@@ -19590,6 +19599,17 @@
         "chinese cybercrime group",
         "4 critical threats",
         "software supply channel",
+        "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-06-05 12:32",
+      "articles": 56,
+      "top_keywords": [
+        "dental benefits administrator",
+        "supply chain attack",
+        "software supply channel",
+        "4 critical threats",
         "national security risk"
       ]
     }

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-05 08:01 UTC  
+> **Last Updated:** 2026-06-05 12:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**supply chain attack** • **chinese cybercrime group** • **4 critical threats** • **software supply channel** • **national security risk** • **twitter whistleblower complaint** • **smtp proxies verified** • **opc ua server** • **mirasvit vulnerability exploited** • **main contributing factor** • **mail relay capability** • **hitachi energy rtu500** • **chief master sergeant** • **pushed malicious code** • **cybercrime group behind** • **threat actor known** • **known exploited vu** • **deploys software internally** • **malicious cyber actors** • **malicious activity resulted**
+**dental benefits administrator** • **supply chain attack** • **software supply channel** • **4 critical threats** • **national security risk** • **pushed malicious code** • **twitter whistleblower complaint** • **smtp proxies verified** • **opc ua server** • **main contributing factor** • **mail relay capability** • **hitachi energy rtu500** • **chief master sergeant** • **threat actor known** • **deploys software internally** • **past six months** • **concept exploit code** • **untrusted input flaws** • **undeclared executable identified** • **unauthorized group claimed**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
+- [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
 - [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
 - [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
 - [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 - [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
 - [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
 - [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
-- [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
-- [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
+- [Chrome 149 Patches 429 Vulnerabilities](https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/)
+- [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
+- [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
 - [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
 - [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
 - [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
 - [Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)
-- [Willow Raises $7 Million for Securing Autonomous AI Agents](https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/)
-- [Gemini Voice Assistant Hijacked via Messaging Notifications](https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/)
-- [Mirasvit Vulnerability Exploited to Execute Code on Magento Servers](https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/)
-- [Chinese Cybercrime Group in Spotlight for Record Campaign Pace](https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/)
 
 ### Threatpost
 

@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-06-05 08:01",
+  "last_updated": "2026-06-05 12:32",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "dental benefits administrator",
     "supply chain attack",
-    "chinese cybercrime group",
-    "4 critical threats",
     "software supply channel",
+    "4 critical threats",
     "national security risk",
+    "pushed malicious code",
     "twitter whistleblower complaint",
     "smtp proxies verified",
     "opc ua server",
-    "mirasvit vulnerability exploited",
     "main contributing factor",
     "mail relay capability",
     "hitachi energy rtu500",
     "chief master sergeant",
-    "pushed malicious code",
-    "cybercrime group behind",
     "threat actor known",
-    "known exploited vu",
     "deploys software internally",
-    "malicious cyber actors",
-    "malicious activity resulted"
+    "past six months",
+    "concept exploit code",
+    "untrusted input flaws",
+    "undeclared executable identified",
+    "unauthorized group claimed"
   ],
   "trending": [
     {
-      "keyword": "supply chain attack",
-      "mentions": 57
-    },
-    {
-      "keyword": "chinese cybercrime group",
-      "mentions": 7
-    },
-    {
-      "keyword": "4 critical threats",
-      "mentions": 4
-    },
-    {
-      "keyword": "software supply channel",
-      "mentions": 3
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 188
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1791
-    },
-    {
-      "keyword": "smtp proxies verified",
+      "keyword": "dental benefits administrator",
       "mentions": 1
     },
     {
-      "keyword": "opc ua server",
+      "keyword": "supply chain attack",
+      "mentions": 58
+    },
+    {
+      "keyword": "software supply channel",
+      "mentions": 4
+    },
+    {
+      "keyword": "4 critical threats",
       "mentions": 5
     },
     {
-      "keyword": "mirasvit vulnerability exploited",
+      "keyword": "national security risk",
+      "mentions": 189
+    },
+    {
+      "keyword": "pushed malicious code",
       "mentions": 7
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1792
+    },
+    {
+      "keyword": "smtp proxies verified",
+      "mentions": 2
+    },
+    {
+      "keyword": "opc ua server",
+      "mentions": 6
+    },
+    {
       "keyword": "main contributing factor",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
+      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
+      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
+      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
+      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise. The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was",
+      "published": "Fri, 05 Jun 2026 14:08:59 +0530",
+      "value_score": 78,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Patch/update",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
@@ -125,28 +149,6 @@
       "published": "Thu, 04 Jun 2026 19:30:49 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
-      "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
-      "summary": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
-      "published": "Thu, 04 Jun 2026 17:52:25 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
-      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
-      "summary": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is",
-      "published": "Thu, 04 Jun 2026 16:49:53 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -394,6 +396,46 @@
     },
     {
       "source": "Security Week",
+      "title": "Hackers Leak DentaQuest Information Impacting 2.6 Million",
+      "link": "https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/",
+      "summary": "The ShinyHunters extortion group leaked roughly 234 GB of data allegedly stolen from the dental benefits administrator. The post Hackers Leak DentaQuest Information Impacting 2.6 Million appeared first on SecurityWeek .",
+      "published": "Fri, 05 Jun 2026 11:33:27 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 149 Patches 429 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
+      "summary": "Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws. The post Chrome 149 Patches 429 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 05 Jun 2026 11:13:57 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday",
+      "link": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
+      "summary": "Experts commented on the EO’s voluntary nature, the balance between innovation and security, and potential implementation gaps. The post Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday appeared first on SecurityWeek .",
+      "published": "Fri, 05 Jun 2026 10:24:56 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities",
+      "link": "https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/",
+      "summary": "Posing as recruiters on online platforms, Chinese intelligence officers target personnel with access to classified or privileged information. The post Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities appeared first on SecurityWeek .",
+      "published": "Fri, 05 Jun 2026 08:46:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
       "link": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
       "summary": "The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack. The post Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals appeared first on SecurityWeek .",
@@ -434,46 +476,6 @@
       "published": "Thu, 04 Jun 2026 14:40:44 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Willow Raises $7 Million for Securing Autonomous AI Agents",
-      "link": "https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/",
-      "summary": "Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents. The post Willow Raises $7 Million for Securing Autonomous AI Agents appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 14:22:43 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Gemini Voice Assistant Hijacked via Messaging Notifications",
-      "link": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
-      "summary": "Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls. The post Gemini Voice Assistant Hijacked via Messaging Notifications appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 12:57:37 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Mirasvit Vulnerability Exploited to Execute Code on Magento Servers",
-      "link": "https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/",
-      "summary": "A flaw in the Full Page Cache Warmer extension can be exploited without authentication via serialized PHP object payloads. The post Mirasvit Vulnerability Exploited to Execute Code on Magento Servers appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 12:10:02 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese Cybercrime Group in Spotlight for Record Campaign Pace",
-      "link": "https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/",
-      "summary": "Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities. The post Chinese Cybercrime Group in Spotlight for Record Campaign Pace appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 11:29:28 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Threatpost",

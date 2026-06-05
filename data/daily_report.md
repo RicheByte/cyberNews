@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-05 21:20 UTC  
+> **Last Updated:** 2026-06-05 23:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hitachi energy rtu500** • **fast spreading internet** • **concept exploit code** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **opc ua server** • **main contributing factor** • **mail relay capability** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **cve 2026 20245** • **cve 2026 20230** • **us threat actors** • **untrusted input flaws**
+**hitachi energy rtu500** • **fast spreading internet** • **concept exploit code** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **paid minimalist version** • **opc ua server** • **main contributing factor** • **mail relay capability** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **cve 2026 20245** • **cve 2026 20230** • **us threat actors**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 - [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
 - [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
 - [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
@@ -34,7 +35,6 @@
 - [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
 - [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
 - [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
-- [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
 
 ### Krebs on Security
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-05 02:54 UTC |
+| 🕐 Last Updated | 2026-06-05 08:01 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`supply chain attack` • `chinese cybercrime group` • `4 critical threats` • `mirasvit vulnerability exploited` • `national security risk` • `known exploited vu` • `cybercrime group behind` • `twitter whistleblower complaint` • `software supply channel` • `resources without limits`
+`supply chain attack` • `chinese cybercrime group` • `4 critical threats` • `software supply channel` • `national security risk` • `twitter whistleblower complaint` • `smtp proxies verified` • `opc ua server` • `mirasvit vulnerability exploited` • `main contributing factor`
 
 ## 📄 Reports
 

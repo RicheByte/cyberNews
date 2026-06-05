@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-05 02:54 UTC  
+> **Last Updated:** 2026-06-05 08:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**supply chain attack** • **chinese cybercrime group** • **4 critical threats** • **mirasvit vulnerability exploited** • **national security risk** • **known exploited vu** • **cybercrime group behind** • **twitter whistleblower complaint** • **software supply channel** • **resources without limits** • **opc ua server** • **main contributing factor** • **hitachi energy rtu500** • **chief master sergeant** • **pushed malicious code** • **malicious cyber actors** • **malicious activity resulted** • **275 million students** • **sprawling phishing campaign** • **past six months**
+**supply chain attack** • **chinese cybercrime group** • **4 critical threats** • **software supply channel** • **national security risk** • **twitter whistleblower complaint** • **smtp proxies verified** • **opc ua server** • **mirasvit vulnerability exploited** • **main contributing factor** • **mail relay capability** • **hitachi energy rtu500** • **chief master sergeant** • **pushed malicious code** • **cybercrime group behind** • **threat actor known** • **known exploited vu** • **deploys software internally** • **malicious cyber actors** • **malicious activity resulted**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
+- [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
 - [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 - [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html)
 - [Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It](https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html)
 - [ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html)
 - [China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa](https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html)
 - [FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads](https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html)
-- [Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS](https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html)
-- [Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months](https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html)
 
 ### BleepingComputer
 
+- [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
 - [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
 - [Hola Browser for Windows compromised to deliver cryptominer](https://www.bleepingcomputer.com/news/security/hola-browser-for-windows-compromised-to-deliver-cryptominer/)
 - [Credit card theft campaign abuses Stripe to host stolen payment info](https://www.bleepingcomputer.com/news/security/credit-card-theft-campaign-abuses-stripe-to-host-stolen-payment-info/)
@@ -34,7 +35,6 @@
 - [UN food agency discloses breach affecting 600,000 Gaza households](https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/)
 - [New IronWorm malware hits 36 packages in npm supply-chain attack](https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/)
 - [Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook](https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/)
-- [Microsoft blames unexpected Windows driver updates on caching issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
+- [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
 - [Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk](https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/)
 - [Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond](https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/)
 - [Willow Raises $7 Million for Securing Autonomous AI Agents](https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/)
 - [Gemini Voice Assistant Hijacked via Messaging Notifications](https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/)
 - [Mirasvit Vulnerability Exploited to Execute Code on Magento Servers](https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/)
 - [Chinese Cybercrime Group in Spotlight for Record Campaign Pace](https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/)
-- [Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown](https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/)
-- [Cisco Warns of Available PoC for Critical Unified CM Vulnerability](https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/)
 
 ### Threatpost
 

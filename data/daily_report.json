@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-06-05 02:54",
+  "last_updated": "2026-06-05 08:01",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "supply chain attack",
     "chinese cybercrime group",
     "4 critical threats",
-    "mirasvit vulnerability exploited",
-    "national security risk",
-    "known exploited vu",
-    "cybercrime group behind",
-    "twitter whistleblower complaint",
     "software supply channel",
-    "resources without limits",
+    "national security risk",
+    "twitter whistleblower complaint",
+    "smtp proxies verified",
     "opc ua server",
+    "mirasvit vulnerability exploited",
     "main contributing factor",
+    "mail relay capability",
     "hitachi energy rtu500",
     "chief master sergeant",
     "pushed malicious code",
+    "cybercrime group behind",
+    "threat actor known",
+    "known exploited vu",
+    "deploys software internally",
     "malicious cyber actors",
-    "malicious activity resulted",
-    "275 million students",
-    "sprawling phishing campaign",
-    "past six months"
+    "malicious activity resulted"
   ],
   "trending": [
     {
       "keyword": "supply chain attack",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "chinese cybercrime group",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "4 critical threats",
-      "mentions": 3
-    },
-    {
-      "keyword": "mirasvit vulnerability exploited",
-      "mentions": 6
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 187
-    },
-    {
-      "keyword": "known exploited vu",
-      "mentions": 5
-    },
-    {
-      "keyword": "cybercrime group behind",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1790
+      "mentions": 4
     },
     {
       "keyword": "software supply channel",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "resources without limits",
-      "mentions": 14
+      "keyword": "national security risk",
+      "mentions": 188
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1791
+    },
+    {
+      "keyword": "smtp proxies verified",
+      "mentions": 1
+    },
+    {
+      "keyword": "opc ua server",
+      "mentions": 5
+    },
+    {
+      "keyword": "mirasvit vulnerability exploited",
+      "mentions": 7
+    },
+    {
+      "keyword": "main contributing factor",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
+      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
+      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts. It is an obvious target. More than",
+      "published": "Fri, 05 Jun 2026 12:31:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
+      "published": "Fri, 05 Jun 2026 11:04:19 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
@@ -131,22 +149,19 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
-      "link": "https://thehackernews.com/2026/06/fake-sites-mimicking-open-source-tools.html",
-      "summary": "Cybersecurity researchers have flagged a large-scale operation that impersonates open-source and freeware projects to funnel unsuspecting users through a Traffic Distribution System (TDS) and deliver malware families like Remus Stealer, AnimateClipper, and the SessionGate framework. \"The sites are well-designed and often look like legitimate project portals at a glance, sometimes referencing",
-      "published": "Thu, 04 Jun 2026 15:21:28 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Spied on a Stock Exchange Executive's Outlook Mailbox for Five Months",
-      "link": "https://thehackernews.com/2026/06/hackers-spied-on-stock-exchange.html",
-      "summary": "Unknown attackers spent at least five months inside the Outlook mailbox of a senior executive at a major global stock exchange, copying the inbox out in small, repeated batches and routing it through Dropbox and OneDrive so the traffic blended into normal cloud activity. Symantec and Carbon Black's Threat Hunter Team reported the campaign this week. This points to espionage, not a money grab:",
-      "published": "Thu, 04 Jun 2026 15:03:57 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
+      "published": "Fri, 05 Jun 2026 02:24:20 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Privilege escalation",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,17 +230,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
-      "summary": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
-      "published": "Thu, 04 Jun 2026 09:41:42 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -390,6 +394,31 @@
     },
     {
       "source": "Security Week",
+      "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
+      "link": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
+      "summary": "The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack. The post Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals appeared first on SecurityWeek .",
+      "published": "Fri, 05 Jun 2026 07:24:08 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
+      "link": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/",
+      "summary": "The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet. The post Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026 appeared first on SecurityWeek .",
+      "published": "Fri, 05 Jun 2026 05:47:09 +0000",
+      "value_score": 92,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk",
       "link": "https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/",
       "summary": "As AI agents, machine identities, and third-party applications multiply across enterprises, Offroad is betting autonomous security agents can restore control over an increasingly unmanageable identity landscape. The post Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk appeared first on SecurityWeek .",
@@ -444,28 +473,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown",
-      "link": "https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/",
-      "summary": "Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia. The post Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 10:44:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Warns of Available PoC for Critical Unified CM Vulnerability",
-      "link": "https://www.securityweek.com/cisco-warns-of-available-poc-for-critical-unified-cm-vulnerability/",
-      "summary": "The high-severity flaw can be exploited remotely, without authentication, in server-side request forgery (SSRF) attacks. The post Cisco Warns of Available PoC for Critical Unified CM Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 04 Jun 2026 08:44:08 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "PoC available ×2",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

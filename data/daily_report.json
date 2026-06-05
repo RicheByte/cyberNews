@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-06-05 19:47",
+  "last_updated": "2026-06-05 21:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "hitachi energy rtu500",
+    "fast spreading internet",
     "concept exploit code",
     "4 critical threats",
     "twitter whistleblower complaint",
@@ -12,7 +13,6 @@
     "opc ua server",
     "main contributing factor",
     "mail relay capability",
-    "fast spreading internet",
     "espionage focused activity",
     "chief master sergeant",
     "afghanistan's porous cybersecurity",
@@ -21,49 +21,49 @@
     "deploys software internally",
     "cve 2026 20245",
     "cve 2026 20230",
-    "untrusted input flaws",
-    "undeclared executable identified"
+    "us threat actors",
+    "untrusted input flaws"
   ],
   "trending": [
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 9
-    },
-    {
-      "keyword": "concept exploit code",
-      "mentions": 11
-    },
-    {
-      "keyword": "4 critical threats",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1794
-    },
-    {
-      "keyword": "smtp proxies verified",
-      "mentions": 4
-    },
-    {
-      "keyword": "potential implementation gaps",
-      "mentions": 2
-    },
-    {
-      "keyword": "opc ua server",
-      "mentions": 8
-    },
-    {
-      "keyword": "main contributing factor",
-      "mentions": 8
-    },
-    {
-      "keyword": "mail relay capability",
-      "mentions": 4
+      "mentions": 10
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "concept exploit code",
+      "mentions": 12
+    },
+    {
+      "keyword": "4 critical threats",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1795
+    },
+    {
+      "keyword": "smtp proxies verified",
+      "mentions": 5
+    },
+    {
+      "keyword": "potential implementation gaps",
+      "mentions": 3
+    },
+    {
+      "keyword": "opc ua server",
+      "mentions": 9
+    },
+    {
+      "keyword": "main contributing factor",
+      "mentions": 9
+    },
+    {
+      "keyword": "mail relay capability",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -325,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Exposed Fuel Tank Gauges Under Attack in the US",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
+      "summary": "Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
+      "published": "Fri, 05 Jun 2026 19:04:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Adaptive, Agentic AI Worms Loom as Next Enterprise Threat",
       "link": "https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat",
       "summary": "AI worms, or \"viruses with wings and brains,\" adapt to new environments, seek out vulnerabilities, and will likely strike within a year, researchers say.",
@@ -385,15 +394,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat",
       "summary": "Despite broadly connected digital infrastructure, standard fare TTPs are enough to cause trouble for Afghanistan's porous cybersecurity.",
       "published": "Thu, 04 Jun 2026 04:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Use AI to Automate EDR Evasion Testing",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing",
-      "summary": "Python scripts were used to test malware against endpoint detection and response agents from Sophos, CrowdStrike, and Windows Defender.",
-      "published": "Wed, 03 Jun 2026 21:34:07 GMT",
       "value_score": 10,
       "value_signals": []
     },

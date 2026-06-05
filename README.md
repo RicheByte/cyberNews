@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-05 19:47 UTC |
+| 🕐 Last Updated | 2026-06-05 21:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hitachi energy rtu500` • `concept exploit code` • `4 critical threats` • `twitter whistleblower complaint` • `smtp proxies verified` • `potential implementation gaps` • `opc ua server` • `main contributing factor` • `mail relay capability` • `fast spreading internet`
+`hitachi energy rtu500` • `fast spreading internet` • `concept exploit code` • `4 critical threats` • `twitter whistleblower complaint` • `smtp proxies verified` • `potential implementation gaps` • `opc ua server` • `main contributing factor` • `mail relay capability`
 
 ## 📄 Reports
 

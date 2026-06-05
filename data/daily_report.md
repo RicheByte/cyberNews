@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-05 19:47 UTC  
+> **Last Updated:** 2026-06-05 21:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hitachi energy rtu500** • **concept exploit code** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **opc ua server** • **main contributing factor** • **mail relay capability** • **fast spreading internet** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **cve 2026 20245** • **cve 2026 20230** • **untrusted input flaws** • **undeclared executable identified**
+**hitachi energy rtu500** • **fast spreading internet** • **concept exploit code** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **opc ua server** • **main contributing factor** • **mail relay capability** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **cve 2026 20245** • **cve 2026 20230** • **us threat actors** • **untrusted input flaws**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Exposed Fuel Tank Gauges Under Attack in the US](https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us)
 - [Adaptive, Agentic AI Worms Loom as Next Enterprise Threat](https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat)
 - [Trump AI Order Seeks Voluntary Frontier Model Testing](https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing)
 - [Rust-Written IronWorm Hits NPM Supply Chain](https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain)
@@ -56,7 +57,6 @@
 - [4 Critical Threats Where Attackers Have the Advantage](https://www.darkreading.com/vulnerabilities-threats/4-critical-threats-attackers-advantage)
 - [Bugcrowd Launches EU Data Residency Option For Evolving Data Sovereignty Needs](https://www.darkreading.com/cyber-risk/bugcrowd-launches-eu-data-residency-option-for-evolving-data-sovereignty-needs)
 - [Pakistan Spies on Afghan Finance Ministry With Xeno RAT](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-spies-afghan-finance-ministry-xeno-rat)
-- [Attackers Use AI to Automate EDR Evasion Testing](https://www.darkreading.com/endpoint-security/attackers-automate-edr-evasion-testing)
 
 ### Security Week
 

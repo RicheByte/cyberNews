@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-06 13:20",
+  "last_updated": "2026-06-06 15:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,65 +8,74 @@
     "fast spreading internet",
     "twitter whistleblower complaint",
     "potential implementation gaps",
-    "paid minimalist version",
     "main contributing factor",
-    "espionage focused activity",
     "chief master sergeant",
-    "software supply channel",
-    "deploys software internally",
     "known exploited vu",
     "4 critical threats",
     "us threat actors",
     "untrusted input flaws",
     "united states today",
     "stark industries solutions",
+    "software supply channel",
     "soap methods resulting",
     "service's login page",
-    "resources without limits"
+    "resources without limits",
+    "resetting account passwords",
+    "recommended immediate actions",
+    "proving remarkably good"
   ],
   "trending": [
     {
       "keyword": "web scraping proxies",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1801
+      "mentions": 1802
     },
     {
       "keyword": "potential implementation gaps",
-      "mentions": 9
-    },
-    {
-      "keyword": "paid minimalist version",
-      "mentions": 6
+      "mentions": 10
     },
     {
       "keyword": "main contributing factor",
-      "mentions": 15
-    },
-    {
-      "keyword": "espionage focused activity",
-      "mentions": 8
+      "mentions": 16
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 31
+      "mentions": 32
     },
     {
-      "keyword": "software supply channel",
-      "mentions": 13
+      "keyword": "known exploited vu",
+      "mentions": 10
+    },
+    {
+      "keyword": "4 critical threats",
+      "mentions": 15
+    },
+    {
+      "keyword": "us threat actors",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
+      "link": "https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html",
+      "summary": "OpenAI has begun rolling out a new Lockdown Mode to ChatGPT for eligible personal accounts to reduce the risk of data exfiltration arising from prompt injection attacks. The feature is primarily designed for people and organizations that handle sensitive data and require stricter protection guarantees. Lockdown Mode is available to logged-in users across Free, Go, Plus, and Pro, and",
+      "published": "Sat, 06 Jun 2026 19:06:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
@@ -142,13 +151,17 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework",
-      "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
-      "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China. \"OP-512 was highly",
-      "published": "Fri, 05 Jun 2026 18:03:38 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
+      "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
+      "published": "Sat, 06 Jun 2026 10:09:26 -0400",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -227,15 +240,6 @@
         "Privilege escalation",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
-      "link": "https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/",
-      "summary": "Brave has announced the public release of Brave Origin, a paid minimalist version of its browser that strips out cryptocurrency, AI, rewards, and other monetization-focused features. [...]",
-      "published": "Thu, 04 Jun 2026 17:37:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

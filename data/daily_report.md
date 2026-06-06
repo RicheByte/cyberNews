@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-06 13:20 UTC  
+> **Last Updated:** 2026-06-06 15:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**web scraping proxies** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **potential implementation gaps** • **paid minimalist version** • **main contributing factor** • **espionage focused activity** • **chief master sergeant** • **software supply channel** • **deploys software internally** • **known exploited vu** • **4 critical threats** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **resources without limits**
+**web scraping proxies** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **potential implementation gaps** • **main contributing factor** • **chief master sergeant** • **known exploited vu** • **4 critical threats** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **software supply channel** • **soap methods resulting** • **service's login page** • **resources without limits** • **resetting account passwords** • **recommended immediate actions** • **proving remarkably good**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
 - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
 - [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
 - [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
@@ -23,10 +24,10 @@
 - [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
 - [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
 - [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
-- [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
 
 ### BleepingComputer
 
+- [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 - [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 - [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
 - [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
@@ -34,7 +35,6 @@
 - [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
 - [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
 - [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
-- [Brave Software releases Origin for a paid, bloat-free browsing experience](https://www.bleepingcomputer.com/news/software/brave-software-releases-origin-for-a-paid-bloat-free-browsing-experience/)
 
 ### Krebs on Security
 

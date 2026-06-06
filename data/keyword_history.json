@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1801,
+      "count": 1802,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2873,7 +2873,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2893,7 +2893,8 @@
         "2026-04-12",
         "2026-04-13",
         "2026-05-11",
-        "2026-05-12"
+        "2026-05-12",
+        "2026-06-06"
       ]
     },
     "next wave hits": {
@@ -3514,7 +3515,7 @@
       ]
     },
     "resources without limits": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -15840,7 +15841,7 @@
       ]
     },
     "service's login page": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15957,7 +15958,7 @@
       ]
     },
     "united states today": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16468,10 +16469,11 @@
       ]
     },
     "proving remarkably good": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-14",
-        "2026-05-19"
+        "2026-05-19",
+        "2026-06-06"
       ]
     },
     "people events ideas": {
@@ -17674,7 +17676,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18006,7 +18008,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18038,12 +18040,13 @@
       ]
     },
     "resetting account passwords": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-01",
         "2026-06-02",
         "2026-06-03",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-06"
       ]
     },
     "remote web ui": {
@@ -18365,7 +18368,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18418,7 +18421,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18432,7 +18435,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18455,7 +18458,7 @@
       ]
     },
     "main contributing factor": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18476,7 +18479,7 @@
       ]
     },
     "4 critical threats": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18491,7 +18494,7 @@
       ]
     },
     "software supply channel": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18519,7 +18522,7 @@
       ]
     },
     "untrusted input flaws": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18532,7 +18535,7 @@
       ]
     },
     "potential implementation gaps": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18579,7 +18582,7 @@
       ]
     },
     "us threat actors": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18593,30 +18596,19 @@
       ]
     },
     "soap methods resulting": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-06"
       ]
     },
     "web scraping proxies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-23 16:54",
-      "articles": 56,
-      "top_keywords": [
-        "related software including",
-        "user mode without",
-        "directory traversal flaw",
-        "computer hacking charges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-23 19:02",
       "articles": 56,
@@ -19697,6 +19689,17 @@
     },
     {
       "timestamp": "2026-06-06 13:20",
+      "articles": 56,
+      "top_keywords": [
+        "web scraping proxies",
+        "hitachi energy rtu500",
+        "fast spreading internet",
+        "twitter whistleblower complaint",
+        "potential implementation gaps"
+      ]
+    },
+    {
+      "timestamp": "2026-06-06 15:09",
       "articles": 56,
       "top_keywords": [
         "web scraping proxies",

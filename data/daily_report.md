@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-06 09:58 UTC  
+> **Last Updated:** 2026-06-06 11:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**web scraping proxies** • **cve 2026 20245** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **potential implementation gaps** • **paid minimalist version** • **main contributing factor** • **espionage focused activity** • **chief master sergeant** • **software supply channel** • **deploys software internally** • **known exploited vu** • **4 critical threats** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page**
+**web scraping proxies** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **potential implementation gaps** • **paid minimalist version** • **main contributing factor** • **espionage focused activity** • **chief master sergeant** • **software supply channel** • **deploys software internally** • **known exploited vu** • **4 critical threats** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **resources without limits**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Opal Security Raises $23 Million for AI-Native Identity Governance](https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/)
 - [OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)
 - [In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)
 - [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
@@ -67,7 +68,6 @@
 - [Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday](https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/)
 - [Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities](https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/)
 - [Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals](https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/)
-- [Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026](https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/)
 
 ### Threatpost
 

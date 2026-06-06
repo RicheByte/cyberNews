@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-06-06 09:58",
+  "last_updated": "2026-06-06 11:36",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "web scraping proxies",
-    "cve 2026 20245",
     "hitachi energy rtu500",
     "fast spreading internet",
     "twitter whistleblower complaint",
@@ -22,48 +21,49 @@
     "united states today",
     "stark industries solutions",
     "soap methods resulting",
-    "service's login page"
+    "service's login page",
+    "resources without limits"
   ],
   "trending": [
     {
       "keyword": "web scraping proxies",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 20245",
-      "mentions": 6
+      "mentions": 2
     },
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1799
+      "mentions": 1800
     },
     {
       "keyword": "potential implementation gaps",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "paid minimalist version",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "main contributing factor",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "espionage focused activity",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 29
+      "mentions": 30
+    },
+    {
+      "keyword": "software supply channel",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -399,6 +399,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Opal Security Raises $23 Million for AI-Native Identity Governance",
+      "link": "https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/",
+      "summary": "Raising $59 million to date, Opal also announced five senior leadership appointments. The post Opal Security Raises $23 Million for AI-Native Identity Governance appeared first on SecurityWeek .",
+      "published": "Sat, 06 Jun 2026 10:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds",
       "link": "https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/",
       "summary": "CVE Lite CLI is a free, open-source command line tool that scans your projects in seconds and tells you exactly which included packages contain a vulnerability. The post OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds appeared first on SecurityWeek .",
@@ -470,20 +479,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
-      "link": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/",
-      "summary": "The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet. The post Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026 appeared first on SecurityWeek .",
-      "published": "Fri, 05 Jun 2026 05:47:09 +0000",
-      "value_score": 92,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Patch/update",
-        "Exploit wording"
       ]
     },
     {

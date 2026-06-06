@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1798,
+      "count": 1799,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -15839,7 +15839,7 @@
       ]
     },
     "service's login page": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15854,7 +15854,8 @@
         "2026-05-31",
         "2026-06-01",
         "2026-06-02",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-06"
       ]
     },
     "claude chrome extension": {
@@ -15955,7 +15956,7 @@
       ]
     },
     "united states today": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -15976,7 +15977,8 @@
         "2026-06-01",
         "2026-06-02",
         "2026-06-03",
-        "2026-06-04"
+        "2026-06-04",
+        "2026-06-06"
       ]
     },
     "provided fake data": {
@@ -17300,7 +17302,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17671,7 +17673,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18003,7 +18005,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18362,7 +18364,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18415,10 +18417,11 @@
       ]
     },
     "known exploited vu": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-06"
       ]
     },
     "single poisoned notification": {
@@ -18428,7 +18431,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18451,7 +18454,7 @@
       ]
     },
     "main contributing factor": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18472,7 +18475,7 @@
       ]
     },
     "4 critical threats": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18487,7 +18490,7 @@
       ]
     },
     "software supply channel": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18515,7 +18518,7 @@
       ]
     },
     "untrusted input flaws": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18528,7 +18531,7 @@
       ]
     },
     "potential implementation gaps": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18547,7 +18550,7 @@
       ]
     },
     "espionage focused activity": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18561,7 +18564,7 @@
       ]
     },
     "cve 2026 20245": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18575,20 +18578,26 @@
       ]
     },
     "us threat actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-05",
         "2026-06-06"
       ]
     },
     "paid minimalist version": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-05",
         "2026-06-06"
       ]
     },
     "soap methods resulting": {
+      "count": 2,
+      "dates": [
+        "2026-06-06"
+      ]
+    },
+    "web scraping proxies": {
       "count": 1,
       "dates": [
         "2026-06-06"
@@ -18596,17 +18605,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-23 11:06",
-      "articles": 48,
-      "top_keywords": [
-        "directory traversal flaw",
-        "user mode without",
-        "web hosting company",
-        "computer hacking charges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-23 13:14",
       "articles": 56,
@@ -19693,6 +19691,17 @@
         "hitachi energy rtu500",
         "fast spreading internet",
         "4 critical threats",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-06 09:58",
+      "articles": 56,
+      "top_keywords": [
+        "web scraping proxies",
+        "cve 2026 20245",
+        "hitachi energy rtu500",
+        "fast spreading internet",
         "twitter whistleblower complaint"
       ]
     }

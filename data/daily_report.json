@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-06-06 06:49",
+  "last_updated": "2026-06-06 09:58",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "web scraping proxies",
     "cve 2026 20245",
     "hitachi energy rtu500",
     "fast spreading internet",
-    "4 critical threats",
     "twitter whistleblower complaint",
-    "smtp proxies verified",
     "potential implementation gaps",
     "paid minimalist version",
     "main contributing factor",
-    "mail relay capability",
     "espionage focused activity",
     "chief master sergeant",
-    "afghanistan's porous cybersecurity",
-    "threat actor known",
     "software supply channel",
     "deploys software internally",
+    "known exploited vu",
+    "4 critical threats",
     "us threat actors",
     "untrusted input flaws",
+    "united states today",
     "stark industries solutions",
-    "soap methods resulting"
+    "soap methods resulting",
+    "service's login page"
   ],
   "trending": [
     {
+      "keyword": "web scraping proxies",
+      "mentions": 1
+    },
+    {
       "keyword": "cve 2026 20245",
-      "mentions": 5
-    },
-    {
-      "keyword": "hitachi energy rtu500",
-      "mentions": 13
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 8
-    },
-    {
-      "keyword": "4 critical threats",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1798
-    },
-    {
-      "keyword": "smtp proxies verified",
-      "mentions": 8
-    },
-    {
-      "keyword": "potential implementation gaps",
       "mentions": 6
     },
     {
+      "keyword": "hitachi energy rtu500",
+      "mentions": 14
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1799
+    },
+    {
+      "keyword": "potential implementation gaps",
+      "mentions": 7
+    },
+    {
       "keyword": "paid minimalist version",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "main contributing factor",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "mail relay capability",
-      "mentions": 8
+      "keyword": "espionage focused activity",
+      "mentions": 6
+    },
+    {
+      "keyword": "chief master sergeant",
+      "mentions": 29
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI",
+      "link": "https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html",
+      "summary": "A researcher has reverse-engineered the iOS SDK that Bright Data embeds in consumer apps and documented how it turns devices, including always-on smart TVs, into exit nodes that relay web-scraping traffic for a data business Bright Data markets heavily to the AI industry. The company, the successor to Luminati, operates what it calls the largest residential proxy network in the world,",
+      "published": "Sat, 06 Jun 2026 13:59:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity security flaw impacting SolarWinds Serv-U multi-protocol file server software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-28318 (CVSS score: 7.5), is a denial-of-service (DoS) bug that causes the service to crash",
+      "published": "Sat, 06 Jun 2026 13:44:31 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs",
+      "link": "https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html",
+      "summary": "Two things landed within days of each other this week. A security startup reported 21 previously unknown vulnerabilities in FFmpeg, the media library inside almost everything that touches video, all of them found by an autonomous AI agent. The same week, Google shipped Chrome 149 with patches for 429 security bugs, the most ever in a single release. Only the FFmpeg bugs were found by AI.",
+      "published": "Sat, 06 Jun 2026 12:58:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html",
+      "summary": "Microsoft's GitHub repositories have become the latest to fall victim to the ongoing Miasma self-replicating supply chain attack campaign. The incident impacted 73 Microsoft repositories across four of its GitHub organizations, including Azure, Azure-Samples, Microsoft, and MicrosoftDocs, per OpenSourceMalware. The development has GitHub to disable access to those repositories. \"Access to this",
+      "published": "Sat, 06 Jun 2026 12:28:04 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available",
@@ -106,48 +147,6 @@
       "link": "https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html",
       "summary": "Cybersecurity researchers have discovered a previously unreported threat cluster dubbed OP-512 (where \"OP\" stands for \"opponent\") that has been observed targeting Microsoft Internet Information Services (IIS) servers to deploy a bespoke web shell framework. ReliaQuest has assessed with moderate to high confidence that the espionage-focused activity is linked to China. \"OP-512 was highly",
       "published": "Fri, 05 Jun 2026 18:03:38 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver",
-      "link": "https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html",
-      "summary": "Eighteen months ago, the AI SOC was a marketing line. Today it's a budget item. The category has crossed over from interesting to inevitable, with billions of dollars now flowing into AI-powered security operations platforms, agentic SOC tools, and AI co-pilots built into every layer of the security stack. The data shows SOCs are buying, deploying, and standing up AI capabilities at the fastest",
-      "published": "Fri, 05 Jun 2026 16:50:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html",
-      "summary": "Threat actors are actively exploiting a critical security flaw in Everest Forms Pro, a WordPress plugin with about 4,000 active installations, to execute arbitrary code, leading to a complete site compromise. The vulnerability in question is CVE-2026-3300 (CVSS score: 9.8), a remote code execution bug impacting all versions of the plugin up to, and including, 1.9.12. A patch for the flaw was",
-      "published": "Fri, 05 Jun 2026 14:08:59 +0530",
-      "value_score": 78,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins",
-      "link": "https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html",
-      "summary": "Security researchers and the FBI are warning that a wave of FIFA-themed fraud is already hitting World Cup 2026 fans, days before the June 11 kickoff. Recent reports describe thousands of lookalike FIFA domains, banking malware hidden inside pirate streaming apps, and at least one operation that copies FIFA's login page well enough to take over real accounts. It is an obvious target. More than",
-      "published": "Fri, 05 Jun 2026 12:31:41 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
-      "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
-      "summary": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
-      "published": "Fri, 05 Jun 2026 11:04:19 +0530",
       "value_score": 10,
       "value_signals": []
     },

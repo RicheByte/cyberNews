@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-06 06:49 UTC  
+> **Last Updated:** 2026-06-06 09:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 20245** • **hitachi energy rtu500** • **fast spreading internet** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **paid minimalist version** • **main contributing factor** • **mail relay capability** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **us threat actors** • **untrusted input flaws** • **stark industries solutions** • **soap methods resulting**
+**web scraping proxies** • **cve 2026 20245** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **potential implementation gaps** • **paid minimalist version** • **main contributing factor** • **espionage focused activity** • **chief master sergeant** • **software supply channel** • **deploys software internally** • **known exploited vu** • **4 critical threats** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
+- [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
+- [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
+- [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
 - [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
 - [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
 - [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 - [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
-- [Only 10% of SOCs Say They’re Getting Excellent Value From AI. Here’s What the Second Wave Has to Deliver](https://thehackernews.com/2026/06/only-10-of-socs-say-theyre-getting.html)
-- [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
-- [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
-- [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
 
 ### BleepingComputer
 

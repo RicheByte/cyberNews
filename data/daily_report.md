@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-06 02:40 UTC  
+> **Last Updated:** 2026-06-06 06:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hitachi energy rtu500** • **fast spreading internet** • **concept exploit code** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **paid minimalist version** • **opc ua server** • **main contributing factor** • **mail relay capability** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **cve 2026 20245** • **cve 2026 20230** • **us threat actors**
+**cve 2026 20245** • **hitachi energy rtu500** • **fast spreading internet** • **4 critical threats** • **twitter whistleblower complaint** • **smtp proxies verified** • **potential implementation gaps** • **paid minimalist version** • **main contributing factor** • **mail relay capability** • **espionage focused activity** • **chief master sergeant** • **afghanistan's porous cybersecurity** • **threat actor known** • **software supply channel** • **deploys software internally** • **us threat actors** • **untrusted input flaws** • **stark industries solutions** • **soap methods resulting**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
 - [IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks](https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html)
 - [Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps](https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html)
 - [New Threat Cluster OP-512 Targets Microsoft IIS Servers with Custom Web Shell Framework](https://thehackernews.com/2026/06/new-threat-cluster-op-512-targets.html)
@@ -23,7 +24,6 @@
 - [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html)
 - [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html)
 - [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html)
-- [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html)
 
 ### BleepingComputer
 

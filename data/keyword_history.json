@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1797,
+      "count": 1798,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -567,7 +567,7 @@
       ]
     },
     "threat actor known": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -17300,7 +17300,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17671,14 +17671,15 @@
       ]
     },
     "stark industries solutions": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-28",
         "2026-05-29",
         "2026-05-31",
         "2026-06-01",
         "2026-06-02",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-06"
       ]
     },
     "ai power users": {
@@ -18002,7 +18003,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18361,7 +18362,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18427,7 +18428,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18450,7 +18451,7 @@
       ]
     },
     "main contributing factor": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18471,7 +18472,7 @@
       ]
     },
     "4 critical threats": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18486,7 +18487,7 @@
       ]
     },
     "software supply channel": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18494,14 +18495,14 @@
       ]
     },
     "smtp proxies verified": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-05",
         "2026-06-06"
       ]
     },
     "mail relay capability": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18514,9 +18515,10 @@
       ]
     },
     "untrusted input flaws": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-06"
       ]
     },
     "undeclared executable identified": {
@@ -18526,7 +18528,7 @@
       ]
     },
     "potential implementation gaps": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18545,21 +18547,21 @@
       ]
     },
     "espionage focused activity": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-05",
         "2026-06-06"
       ]
     },
     "afghanistan's porous cybersecurity": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-05",
         "2026-06-06"
       ]
     },
     "cve 2026 20245": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-05",
         "2026-06-06"
@@ -18573,32 +18575,27 @@
       ]
     },
     "us threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-05",
         "2026-06-06"
       ]
     },
     "paid minimalist version": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-05",
+        "2026-06-06"
+      ]
+    },
+    "soap methods resulting": {
+      "count": 1,
+      "dates": [
         "2026-06-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-23 09:46",
-      "articles": 56,
-      "top_keywords": [
-        "trend micro warns",
-        "directory traversal flaw",
-        "user mode without",
-        "computer hacking charges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-23 11:06",
       "articles": 48,
@@ -19684,6 +19681,17 @@
         "hitachi energy rtu500",
         "fast spreading internet",
         "concept exploit code",
+        "4 critical threats",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-06 06:49",
+      "articles": 56,
+      "top_keywords": [
+        "cve 2026 20245",
+        "hitachi energy rtu500",
+        "fast spreading internet",
         "4 critical threats",
         "twitter whistleblower complaint"
       ]

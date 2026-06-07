@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 10:24",
+  "last_updated": "2026-06-07 13:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -16,54 +16,54 @@
     "untrusted input flaws",
     "united states today",
     "stark industries solutions",
-    "software supply channel",
     "soap methods resulting",
     "service's login page",
     "resources without limits",
     "resetting account passwords",
     "recommended immediate actions",
-    "proving remarkably good"
+    "proving remarkably good",
+    "potential secondary impacts"
   ],
   "trending": [
     {
       "keyword": "web scraping proxies",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1809
+      "mentions": 1810
     },
     {
       "keyword": "potential implementation gaps",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "main contributing factor",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "known exploited vu",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "4 critical threats",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "us threat actors",
-      "mentions": 15
+      "mentions": 16
     }
   ],
   "articles": [
@@ -403,6 +403,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
+      "link": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
+      "summary": "Emphere’s solution delivers AI-driven remediation to software companies to speed up releases. The post Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation appeared first on SecurityWeek .",
+      "published": "Sun, 07 Jun 2026 11:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Opal Security Raises $23 Million for AI-Native Identity Governance",
       "link": "https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/",
       "summary": "Raising $59 million to date, Opal also announced five senior leadership appointments. The post Opal Security Raises $23 Million for AI-Native Identity Governance appeared first on SecurityWeek .",
@@ -473,17 +482,6 @@
       "published": "Fri, 05 Jun 2026 08:46:44 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals",
-      "link": "https://www.securityweek.com/nightclub-giant-rci-says-data-breach-affects-40000-individuals/",
-      "summary": "The company detected a network intrusion in March and an investigation showed that some files were stolen during the attack. The post Nightclub Giant RCI Says Data Breach Affects 40,000 Individuals appeared first on SecurityWeek .",
-      "published": "Fri, 05 Jun 2026 07:24:08 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

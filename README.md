@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-07 13:41 UTC |
+| 🕐 Last Updated | 2026-06-07 15:20 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`web scraping proxies` • `hitachi energy rtu500` • `fast spreading internet` • `twitter whistleblower complaint` • `potential implementation gaps` • `main contributing factor` • `chief master sergeant` • `known exploited vu` • `4 critical threats` • `us threat actors`
+`web scraping proxies` • `hitachi energy rtu500` • `fast spreading internet` • `twitter whistleblower complaint` • `main contributing factor` • `chief master sergeant` • `known exploited vu` • `4 critical threats` • `handle sensitive data` • `data exfiltration arising`
 
 ## 📄 Reports
 

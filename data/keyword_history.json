@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1810,
+      "count": 1811,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3517,7 +3517,7 @@
       ]
     },
     "resources without limits": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -7884,10 +7884,11 @@
       ]
     },
     "data allegedly stolen": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-19",
-        "2026-02-20"
+        "2026-02-20",
+        "2026-06-07"
       ]
     },
     "execute code remotely": {
@@ -15844,7 +15845,7 @@
       ]
     },
     "service's login page": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15962,7 +15963,7 @@
       ]
     },
     "united states today": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17682,7 +17683,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18015,7 +18016,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18377,7 +18378,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18431,7 +18432,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18446,7 +18447,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18470,7 +18471,7 @@
       ]
     },
     "main contributing factor": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18492,7 +18493,7 @@
       ]
     },
     "4 critical threats": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18537,7 +18538,7 @@
       ]
     },
     "untrusted input flaws": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-05",
         "2026-06-06",
@@ -18599,7 +18600,7 @@
       ]
     },
     "us threat actors": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-05",
         "2026-06-06",
@@ -18614,14 +18615,14 @@
       ]
     },
     "soap methods resulting": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-06",
         "2026-06-07"
       ]
     },
     "web scraping proxies": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-06",
         "2026-06-07"
@@ -18632,20 +18633,33 @@
       "dates": [
         "2026-06-07"
       ]
+    },
+    "handle sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-06-07"
+      ]
+    },
+    "data exfiltration arising": {
+      "count": 1,
+      "dates": [
+        "2026-06-07"
+      ]
+    },
+    "bright data embeds": {
+      "count": 1,
+      "dates": [
+        "2026-06-07"
+      ]
+    },
+    "various cpu architectures": {
+      "count": 1,
+      "dates": [
+        "2026-06-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-24 14:58",
-      "articles": 56,
-      "top_keywords": [
-        "related software including",
-        "directory traversal flaw",
-        "computer hacking charges",
-        "twitter whistleblower complaint",
-        "traditional iam projects"
-      ]
-    },
     {
       "timestamp": "2026-05-24 16:55",
       "articles": 56,
@@ -19733,6 +19747,17 @@
         "fast spreading internet",
         "twitter whistleblower complaint",
         "potential implementation gaps"
+      ]
+    },
+    {
+      "timestamp": "2026-06-07 15:20",
+      "articles": 56,
+      "top_keywords": [
+        "web scraping proxies",
+        "hitachi energy rtu500",
+        "fast spreading internet",
+        "twitter whistleblower complaint",
+        "main contributing factor"
       ]
     }
   ]

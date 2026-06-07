@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-07 13:41 UTC  
+> **Last Updated:** 2026-06-07 15:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**web scraping proxies** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **potential implementation gaps** • **main contributing factor** • **chief master sergeant** • **known exploited vu** • **4 critical threats** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **resources without limits** • **resetting account passwords** • **recommended immediate actions** • **proving remarkably good** • **potential secondary impacts**
+**web scraping proxies** • **hitachi energy rtu500** • **fast spreading internet** • **twitter whistleblower complaint** • **main contributing factor** • **chief master sergeant** • **known exploited vu** • **4 critical threats** • **handle sensitive data** • **data exfiltration arising** • **data allegedly stolen** • **bright data embeds** • **various cpu architectures** • **us threat actors** • **untrusted input flaws** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **resources without limits**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
+- [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
 - [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 - [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
 - [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
 - [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
 - [Dark web Nemesis Market vendor gets 26 years for selling drugs](https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/)
 - [Over 900 US gas station tank gauge systems exposed to attacks](https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/)
-- [What 2026 DBIR Confirms: Attacks Are Living in the Browser](https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/)
-- [Cisco warns of unpatched SD-WAN zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/)
 
 ### Krebs on Security
 

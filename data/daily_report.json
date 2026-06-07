@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 13:41",
+  "last_updated": "2026-06-07 15:20",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,63 +7,63 @@
     "hitachi energy rtu500",
     "fast spreading internet",
     "twitter whistleblower complaint",
-    "potential implementation gaps",
     "main contributing factor",
     "chief master sergeant",
     "known exploited vu",
     "4 critical threats",
+    "handle sensitive data",
+    "data exfiltration arising",
+    "data allegedly stolen",
+    "bright data embeds",
+    "various cpu architectures",
     "us threat actors",
     "untrusted input flaws",
     "united states today",
     "stark industries solutions",
     "soap methods resulting",
     "service's login page",
-    "resources without limits",
-    "resetting account passwords",
-    "recommended immediate actions",
-    "proving remarkably good",
-    "potential secondary impacts"
+    "resources without limits"
   ],
   "trending": [
     {
       "keyword": "web scraping proxies",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1810
-    },
-    {
-      "keyword": "potential implementation gaps",
-      "mentions": 18
+      "mentions": 1811
     },
     {
       "keyword": "main contributing factor",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "known exploited vu",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "4 critical threats",
-      "mentions": 23
+      "mentions": 24
     },
     {
-      "keyword": "us threat actors",
-      "mentions": 16
+      "keyword": "handle sensitive data",
+      "mentions": 1
+    },
+    {
+      "keyword": "data exfiltration arising",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -152,6 +152,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
+      "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
+      "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
+      "published": "Sun, 07 Jun 2026 10:17:46 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Silent Ransom Group targets law firms with fake IT support calls",
+      "link": "https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/",
+      "summary": "The Silent Ransom Group extortion gang is actively targeting U.S. law firms and professional services organizations in social engineering attacks that often lead to data theft within hours of initial contact, according to a new report by cybersecurity firm Mandiant. [...]",
+      "published": "Sun, 07 Jun 2026 10:09:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical Everest Forms Pro flaw exploited to take over WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/",
       "summary": "Hackers are actively exploiting a critical vulnerability (CVE-2026-3300) in the Everest Forms Pro plugin, which lets them take complete control of a WordPress website. [...]",
@@ -213,32 +233,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "What 2026 DBIR Confirms: Attacks Are Living in the Browser",
-      "link": "https://www.bleepingcomputer.com/news/security/what-2026-dbir-confirms-attacks-are-living-in-the-browser/",
-      "summary": "Phishing, shadow AI, malicious extensions, and credential theft increasingly happen inside the browser. Keep Aware explains what the 2026 Verizon DBIR reveals about browser-layer security gaps and modern attacks. [...]",
-      "published": "Fri, 05 Jun 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
-      "summary": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
-      "published": "Fri, 05 Jun 2026 02:24:20 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "Privilege escalation",
-        "Exploit wording"
       ]
     },
     {

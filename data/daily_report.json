@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-07 22:59",
+  "last_updated": "2026-06-08 03:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "web scraping proxies",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1815
+      "mentions": 1816
     },
     {
       "keyword": "main contributing factor",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "known exploited vu",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "4 critical threats",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "handle sensitive data",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "data exfiltration arising",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hands on with Intelligent Terminal, an AI-powered Windows Terminal",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/",
+      "summary": "Microsoft has created an open-source fork of Windows Terminal called \"Intelligent Terminal,\" and it allows you to use AI directly inside Terminal without interfering with the regular session. [...]",
+      "published": "Sun, 07 Jun 2026 19:20:02 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "C0XMO botnet spreads via DD-WRT router flaw, kills rival malware",
       "link": "https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/",
       "summary": "A new variant of the Gafgyt botnet called C0XMO is targeting DD-WRT router firmware and can move to other device types with various CPU architectures. [...]",
@@ -223,17 +232,6 @@
       "published": "Fri, 05 Jun 2026 13:50:58 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 900 US gas station tank gauge systems exposed to attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-us-gas-station-tank-gauge-systems-exposed-to-attacks/",
-      "summary": "Over 900 automatic tank gauge (ATG) systems across the United States, used to monitor fuel and chemical storage tanks across various critical infrastructure sectors, have been found exposed online and are vulnerable to ongoing attacks. [...]",
-      "published": "Fri, 05 Jun 2026 10:50:15 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Krebs on Security",

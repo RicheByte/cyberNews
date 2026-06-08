@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-08 21:46 UTC  
+> **Last Updated:** 2026-06-08 23:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**174 000 impacted** • **execute remote code** • **hitachi energy rtu500** • **hacking court order** • **investigating user reports** • **careers platform hack** • **twitter whistleblower complaint** • **opc ua server** • **exodus intelligence released** • **chief master sergeant** • **275 million students** • **hacking groups known** • **fast spreading internet** • **released security updates** • **public security researchers** • **finding security vulnerabilities** • **united states today** • **stark industries solutions** • **sprawling phishing campaign** • **software supply channel**
+**174 000 impacted** • **execute remote code** • **hitachi energy rtu500** • **hacking court order** • **investigating user reports** • **twitter whistleblower complaint** • **opc ua server** • **exodus intelligence released** • **chief master sergeant** • **275 million students** • **hacking groups known** • **fast spreading internet** • **public security researchers** • **finding security vulnerabilities** • **united states today** • **stark industries solutions** • **sprawling phishing campaign** • **software supply channel** • **soap methods resulting** • **service's login page**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [NFCShare Android malware spreads via fake banking app updates on GitHub](https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/)
+- [SoFi confirms third-party data breach at Hong Kong subsidiary](https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/)
 - [New Apple feature automatically changes your compromised passwords](https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/)
 - [New Shai-Hulud attack trojanizes 19 science-focused PyPI packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/)
 - [WhatsApp says it disrupted new NSO spyware phishing attacks](https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/)
 - [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
 - [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
 - [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
-- [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
-- [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
 
 ### Krebs on Security
 

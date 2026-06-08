@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-08 14:01 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-06-08 18:22 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`174 000 impacted` • `web scraping proxies` • `hitachi energy rtu500` • `hacking court order` • `4 critical threats` • `twitter whistleblower complaint` • `main contributing factor` • `chief master sergeant` • `careers platform hack` • `early government access`
+`174 000 impacted` • `execute remote code` • `hitachi energy rtu500` • `hacking court order` • `careers platform hack` • `twitter whistleblower complaint` • `opc ua server` • `chief master sergeant` • `275 million students` • `known exploited vu`
 
 ## 📄 Reports
 

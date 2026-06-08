@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1818,
+      "count": 1819,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1753,7 +1753,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 413,
+      "count": 414,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1827,7 +1827,8 @@
         "2026-06-01",
         "2026-06-02",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-08"
       ]
     },
     "model agnostic abstractions": {
@@ -2875,7 +2876,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -8187,12 +8188,13 @@
       ]
     },
     "untrusted data vulnerability": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-21",
         "2026-02-22",
         "2026-02-23",
-        "2026-03-19"
+        "2026-03-19",
+        "2026-06-08"
       ]
     },
     "ransomware attacks cisa": {
@@ -15849,7 +15851,7 @@
       ]
     },
     "service's login page": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15879,7 +15881,7 @@
       ]
     },
     "275 million students": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15896,7 +15898,8 @@
         "2026-05-31",
         "2026-06-01",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-08"
       ]
     },
     "internal trellix services": {
@@ -15968,7 +15971,7 @@
       ]
     },
     "united states today": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16279,7 +16282,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16296,7 +16299,8 @@
         "2026-05-25",
         "2026-05-26",
         "2026-06-02",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-06-08"
       ]
     },
     "released security patches": {
@@ -17689,7 +17693,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18023,7 +18027,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18442,7 +18446,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18458,7 +18462,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18475,11 +18479,12 @@
       ]
     },
     "opc ua server": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-04",
         "2026-06-05",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-06-08"
       ]
     },
     "main contributing factor": {
@@ -18633,7 +18638,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18676,32 +18681,32 @@
       ]
     },
     "various cpu architectures": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-07",
         "2026-06-08"
       ]
     },
     "174 000 impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-08"
       ]
     },
     "hacking court order": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-08"
       ]
     },
     "careers platform hack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-08"
       ]
     },
     "hacking groups known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-08"
       ]
@@ -18711,20 +18716,15 @@
       "dates": [
         "2026-06-08"
       ]
+    },
+    "execute remote code": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-25 16:18",
-      "articles": 56,
-      "top_keywords": [
-        "hijack 700 sites",
-        "malicious cyber actors",
-        "fuel clickfix attacks",
-        "cyberattacks influence operations",
-        "266 000 affected"
-      ]
-    },
     {
       "timestamp": "2026-05-25 19:22",
       "articles": 56,
@@ -19812,6 +19812,17 @@
         "hitachi energy rtu500",
         "hacking court order",
         "4 critical threats"
+      ]
+    },
+    {
+      "timestamp": "2026-06-08 18:22",
+      "articles": 48,
+      "top_keywords": [
+        "174 000 impacted",
+        "execute remote code",
+        "hitachi energy rtu500",
+        "hacking court order",
+        "careers platform hack"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-08 08:48 UTC  
+> **Last Updated:** 2026-06-08 14:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**web scraping proxies** • **hitachi energy rtu500** • **4 critical threats** • **us threat actors** • **twitter whistleblower complaint** • **main contributing factor** • **fast spreading internet** • **chief master sergeant** • **handle sensitive data** • **data exfiltration arising** • **data allegedly stolen** • **bright data embeds** • **various cpu architectures** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **resources without limits** • **resetting account passwords** • **recommended immediate actions**
+**174 000 impacted** • **web scraping proxies** • **hitachi energy rtu500** • **hacking court order** • **4 critical threats** • **twitter whistleblower complaint** • **main contributing factor** • **chief master sergeant** • **careers platform hack** • **early government access** • **known exploited vu** • **hacking groups known** • **various cpu architectures** • **united states today** • **stark industries solutions** • **something much worse** • **software supply channel** • **soap methods resulting** • **service's login page** • **resources without limits**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
+- [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
+- [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 - [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
 - [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
 - [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html)
 - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html)
 - [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html)
-- [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html)
-- [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html)
-- [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html)
 
 ### BleepingComputer
 
+- [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
+- [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
 - [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
 - [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
 - [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
 - [Silent Ransom Group targets law firms with fake IT support calls](https://www.bleepingcomputer.com/news/security/silent-ransom-group-targets-law-firms-with-fake-it-support-calls/)
 - [Critical Everest Forms Pro flaw exploited to take over WordPress sites](https://www.bleepingcomputer.com/news/security/critical-everest-forms-pro-flaw-exploited-to-take-over-wordpress-sites/)
 - [Suspicious Polyfill login prompts pop up on Toshiba, Muji websites](https://www.bleepingcomputer.com/news/security/suspicious-polyfill-login-prompts-pop-up-on-toshiba-muji-websites/)
-- [CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers](https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/)
-- [Chinese APT deploys new malware to keep access to hacked networks](https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order](https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/)
+- [Cybersecurity M&A Roundup: 26 Deals Announced in May 2026](https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/)
+- [Everest Forms Vulnerability Exploited to Hack WordPress Sites](https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/)
+- [174,000 Impacted by Lansing Community College Data Breach](https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/)
+- [Silent Ransom Group Uses DNS Fast Flux in Attacks](https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/)
 - [OpenAI Rolling Out ChatGPT Account Security Controls](https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/)
+- [Anthropic Urges Industry Coordination to Allow for a ‘Pause’ in AI Development if Risks Grow](https://www.securityweek.com/anthropic-urges-industry-coordination-to-allow-for-a-pause-in-ai-development-if-risks-grow/)
 - [SolarWinds Serv-U Vulnerability Exploited in the Wild](https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/)
-- [Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse](https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/)
-- [Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation](https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/)
-- [Opal Security Raises $23 Million for AI-Native Identity Governance](https://www.securityweek.com/opal-security-raises-23-million-for-ai-native-identity-governance/)
-- [OWASP Incubator Project Helps Developers Find and Fix Vulnerable Dependencies in Seconds](https://www.securityweek.com/owasp-incubator-project-helps-developers-find-and-fix-vulnerable-dependencies-in-seconds/)
-- [In Other News: Anthropic Maps AI Threats, Unpatched Comodo Flaw, Palantir Chief Eyed for CISA](https://www.securityweek.com/in-other-news-anthropic-maps-ai-threats-unpatched-comodo-flaw-palantir-chief-eyed-for-cisa/)
-- [Hackers Leak DentaQuest Information Impacting 2.6 Million](https://www.securityweek.com/hackers-leak-dentaquest-information-impacting-2-6-million/)
 
 ### Threatpost
 

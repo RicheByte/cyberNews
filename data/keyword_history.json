@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1817,
+      "count": 1818,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3519,7 +3519,7 @@
       ]
     },
     "resources without limits": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -15849,7 +15849,7 @@
       ]
     },
     "service's login page": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15968,7 +15968,7 @@
       ]
     },
     "united states today": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17689,7 +17689,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18023,7 +18023,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18442,7 +18442,7 @@
       ]
     },
     "known exploited vu": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18458,7 +18458,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18483,7 +18483,7 @@
       ]
     },
     "main contributing factor": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18506,7 +18506,7 @@
       ]
     },
     "4 critical threats": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18523,12 +18523,13 @@
       ]
     },
     "software supply channel": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-08"
       ]
     },
     "smtp proxies verified": {
@@ -18581,9 +18582,10 @@
       ]
     },
     "early government access": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-08"
       ]
     },
     "espionage focused activity": {
@@ -18631,7 +18633,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18639,7 +18641,7 @@
       ]
     },
     "web scraping proxies": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18674,25 +18676,44 @@
       ]
     },
     "various cpu architectures": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-07",
+        "2026-06-08"
+      ]
+    },
+    "174 000 impacted": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "hacking court order": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "careers platform hack": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "hacking groups known": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "something much worse": {
+      "count": 1,
+      "dates": [
         "2026-06-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-25 12:57",
-      "articles": 56,
-      "top_keywords": [
-        "malicious cyber actors",
-        "fuel clickfix attacks",
-        "high severity vulnerabilities",
-        "266 000 affected",
-        "distribute malicious code"
-      ]
-    },
     {
       "timestamp": "2026-05-25 16:18",
       "articles": 56,
@@ -19780,6 +19801,17 @@
         "4 critical threats",
         "us threat actors",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-08 14:01",
+      "articles": 56,
+      "top_keywords": [
+        "174 000 impacted",
+        "web scraping proxies",
+        "hitachi energy rtu500",
+        "hacking court order",
+        "4 critical threats"
       ]
     }
   ]

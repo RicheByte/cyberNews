@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1816,
+      "count": 1817,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2875,7 +2875,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -2897,7 +2897,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-08"
       ]
     },
     "next wave hits": {
@@ -3518,7 +3519,7 @@
       ]
     },
     "resources without limits": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -7886,7 +7887,7 @@
       ]
     },
     "data allegedly stolen": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-19",
         "2026-02-20",
@@ -15848,7 +15849,7 @@
       ]
     },
     "service's login page": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15967,7 +15968,7 @@
       ]
     },
     "united states today": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17688,7 +17689,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18022,7 +18023,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18056,14 +18057,15 @@
       ]
     },
     "resetting account passwords": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-01",
         "2026-06-02",
         "2026-06-03",
         "2026-06-04",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-08"
       ]
     },
     "remote web ui": {
@@ -18385,7 +18387,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18456,7 +18458,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18481,7 +18483,7 @@
       ]
     },
     "main contributing factor": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18504,7 +18506,7 @@
       ]
     },
     "4 critical threats": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18613,7 +18615,7 @@
       ]
     },
     "us threat actors": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-05",
         "2026-06-06",
@@ -18629,7 +18631,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18637,7 +18639,7 @@
       ]
     },
     "web scraping proxies": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18651,28 +18653,28 @@
       ]
     },
     "handle sensitive data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-07",
         "2026-06-08"
       ]
     },
     "data exfiltration arising": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-07",
         "2026-06-08"
       ]
     },
     "bright data embeds": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-07",
         "2026-06-08"
       ]
     },
     "various cpu architectures": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-07",
         "2026-06-08"
@@ -18680,17 +18682,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-25 08:14",
-      "articles": 56,
-      "top_keywords": [
-        "sprawling phishing campaign",
-        "large scale campaign",
-        "directory traversal flaw",
-        "distribute malicious code",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-25 12:57",
       "articles": 56,
@@ -19778,6 +19769,17 @@
         "fast spreading internet",
         "twitter whistleblower complaint",
         "main contributing factor"
+      ]
+    },
+    {
+      "timestamp": "2026-06-08 08:48",
+      "articles": 56,
+      "top_keywords": [
+        "web scraping proxies",
+        "hitachi energy rtu500",
+        "4 critical threats",
+        "us threat actors",
+        "twitter whistleblower complaint"
       ]
     }
   ]

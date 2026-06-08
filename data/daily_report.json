@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-06-08 03:29",
+  "last_updated": "2026-06-08 08:48",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "web scraping proxies",
     "hitachi energy rtu500",
-    "fast spreading internet",
+    "4 critical threats",
+    "us threat actors",
     "twitter whistleblower complaint",
     "main contributing factor",
+    "fast spreading internet",
     "chief master sergeant",
-    "known exploited vu",
-    "4 critical threats",
     "handle sensitive data",
     "data exfiltration arising",
     "data allegedly stolen",
     "bright data embeds",
     "various cpu architectures",
-    "us threat actors",
-    "untrusted input flaws",
     "united states today",
     "stark industries solutions",
     "soap methods resulting",
     "service's login page",
-    "resources without limits"
+    "resources without limits",
+    "resetting account passwords",
+    "recommended immediate actions"
   ],
   "trending": [
     {
       "keyword": "web scraping proxies",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "hitachi energy rtu500",
+      "mentions": 32
+    },
+    {
+      "keyword": "4 critical threats",
+      "mentions": 30
+    },
+    {
+      "keyword": "us threat actors",
+      "mentions": 23
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1817
+    },
+    {
+      "keyword": "main contributing factor",
       "mentions": 31
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 26
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1816
-    },
-    {
-      "keyword": "main contributing factor",
-      "mentions": 30
+      "mentions": 27
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 46
-    },
-    {
-      "keyword": "known exploited vu",
-      "mentions": 24
-    },
-    {
-      "keyword": "4 critical threats",
-      "mentions": 29
+      "mentions": 47
     },
     {
       "keyword": "handle sensitive data",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "data exfiltration arising",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
+      "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
+      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026. The activity has been attributed by Google Mandiant and Google Threat Intelligence Group (GTIG) to a threat actor dubbed UNC3753, which is also known as",
+      "published": "Mon, 08 Jun 2026 13:09:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html",
+      "summary": "Microsoft has announced that Visual Studio Code (VS Code) will apply a two-hour delay before extensions for the integrated development environment (IDE) are updated automatically to a newer version in an attempt to tackle software supply chain threats. \"When automatic updates are enabled, new versions are auto-updated two hours after they are published, adding an extra layer of protection",
+      "published": "Mon, 08 Jun 2026 11:38:44 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration",
@@ -133,20 +153,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
-      "summary": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
-      "published": "Fri, 05 Jun 2026 23:35:30 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Android Spyware Asin Targets Arabic Users via Fake News, PDF and War Map Apps",
-      "link": "https://thehackernews.com/2026/06/android-spyware-asin-targets-arabic.html",
-      "summary": "Arabic-speaking users have emerged as the target of a new Android spyware codenamed Asin, according to findings from ESET. The Slovakian cybersecurity company said it first detected the malware spread via multiple campaigns in early 2025, with each attack wave making use of distinct websites mimicking utilities, war-related updates, and a government news source: govlens[.]net, which",
-      "published": "Fri, 05 Jun 2026 20:23:40 +0530",
+      "source": "BleepingComputer",
+      "title": "Over 20,000 Instagram accounts stolen in Meta AI support hack",
+      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/",
+      "summary": "Meta has revealed that over 20,000 Instagram users had their accounts hijacked in a recent incident where attackers used Meta's AI-powered support system to reset passwords. [...]",
+      "published": "Mon, 08 Jun 2026 02:00:27 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -223,15 +234,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
-      "link": "https://www.bleepingcomputer.com/news/security/dark-web-nemesis-market-vendor-gets-26-years-for-selling-drugs/",
-      "summary": "A California man was sentenced to more than 26 years in federal prison for trafficking fentanyl and methamphetamine through Nemesis Market, one of the world's largest dark web marketplaces. [...]",
-      "published": "Fri, 05 Jun 2026 13:50:58 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -395,6 +397,36 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI Rolling Out ChatGPT Account Security Controls",
+      "link": "https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/",
+      "summary": "The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant. The post OpenAI Rolling Out ChatGPT Account Security Controls appeared first on SecurityWeek .",
+      "published": "Mon, 08 Jun 2026 08:32:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SolarWinds Serv-U Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/solarwinds-patches-exploited-serv-u-vulnerability/",
+      "summary": "Unauthenticated attackers can exploit the flaw via specially crafted POST requests that crash the Serv-U service. The post SolarWinds Serv-U Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Mon, 08 Jun 2026 07:52:28 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse",
+      "link": "https://www.securityweek.com/meta-says-20000-instagram-accounts-hacked-via-ai-tool-abuse/",
+      "summary": "The social media giant has informed authorities about the impact of the recent attack involving an account recovery support tool. The post Meta Says 20,000 Instagram Accounts Hacked via AI Tool Abuse appeared first on SecurityWeek .",
+      "published": "Mon, 08 Jun 2026 06:41:47 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation",
       "link": "https://www.securityweek.com/emphere-raises-2-1-million-for-ai-powered-vulnerability-remediation/",
       "summary": "Emphere’s solution delivers AI-driven remediation to software companies to speed up releases. The post Emphere Raises $2.1 Million for AI-Powered Vulnerability Remediation appeared first on SecurityWeek .",
@@ -445,35 +477,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 149 Patches 429 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-149-patches-429-vulnerabilities/",
-      "summary": "Over 100 bugs are critical or high-severity, mainly use-after-free and insufficient validation of untrusted input flaws. The post Chrome 149 Patches 429 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 05 Jun 2026 11:13:57 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-new-trump-ai-cybersecurity-executive-order-feedback-friday/",
-      "summary": "Experts commented on the EO’s voluntary nature, the balance between innovation and security, and potential implementation gaps. The post Industry Reactions to New Trump AI Cybersecurity Executive Order: Feedback Friday appeared first on SecurityWeek .",
-      "published": "Fri, 05 Jun 2026 10:24:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities",
-      "link": "https://www.securityweek.com/five-eyes-chinese-spies-target-government-military-staff-with-fake-job-opportunities/",
-      "summary": "Posing as recruiters on online platforms, Chinese intelligence officers target personnel with access to classified or privileged information. The post Five Eyes: Chinese Spies Target Government, Military Staff With Fake Job Opportunities appeared first on SecurityWeek .",
-      "published": "Fri, 05 Jun 2026 08:46:44 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

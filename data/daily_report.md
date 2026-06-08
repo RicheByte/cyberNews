@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-08 18:22 UTC  
+> **Last Updated:** 2026-06-08 21:46 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 56
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**174 000 impacted** • **execute remote code** • **hitachi energy rtu500** • **hacking court order** • **careers platform hack** • **twitter whistleblower complaint** • **opc ua server** • **chief master sergeant** • **275 million students** • **known exploited vu** • **hacking groups known** • **untrusted data vulnerability** • **finding security vulnerabilities** • **various cpu architectures** • **united states today** • **stark industries solutions** • **sprawling phishing campaign** • **soap methods resulting** • **service's login page** • **recommended immediate actions**
+**174 000 impacted** • **execute remote code** • **hitachi energy rtu500** • **hacking court order** • **investigating user reports** • **careers platform hack** • **twitter whistleblower complaint** • **opc ua server** • **exodus intelligence released** • **chief master sergeant** • **275 million students** • **hacking groups known** • **fast spreading internet** • **released security updates** • **public security researchers** • **finding security vulnerabilities** • **united states today** • **stark industries solutions** • **sprawling phishing campaign** • **software supply channel**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html)
 - [Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html)
 - [Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups](https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html)
 - [AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload](https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html)
@@ -23,18 +24,17 @@
 - [The Hardest Fork](https://thehackernews.com/2026/06/the-hardest-fork.html)
 - [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html)
 - [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html)
-- [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html)
 
 ### BleepingComputer
 
+- [New Apple feature automatically changes your compromised passwords](https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/)
+- [New Shai-Hulud attack trojanizes 19 science-focused PyPI packages](https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/)
+- [WhatsApp says it disrupted new NSO spyware phishing attacks](https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/)
 - [Gogs patches critical zero-day enabling remote code execution](https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/)
 - [Critical UniFi OS bug lets hackers gain root without authentication](https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/)
 - [Reducing security operations complexity with Wazuh Cloud](https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/)
 - [Check Point links VPN zero-day attacks to Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/check-point-links-vpn-zero-day-attacks-to-qilin-ransomware-gang/)
 - [Oxford University discloses data breach after careers platform hack](https://www.bleepingcomputer.com/news/security/oxford-university-discloses-data-breach-after-careerconnect-platform-hack/)
-- [Over 20,000 Instagram accounts stolen in Meta AI support hack](https://www.bleepingcomputer.com/news/security/meta-ai-support-data-breach-affects-20-000-instagram-accounts/)
-- [Hands on with Intelligent Terminal, an AI-powered Windows Terminal](https://www.bleepingcomputer.com/news/microsoft/hands-on-with-intelligent-terminal-an-ai-powered-windows-terminal/)
-- [C0XMO botnet spreads via DD-WRT router flaw, kills rival malware](https://www.bleepingcomputer.com/news/security/c0xmo-botnet-spreads-via-dd-wrt-router-flaw-kills-rival-malware/)
 
 ### Krebs on Security
 
@@ -46,6 +46,17 @@
 - [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
+
+### Dark Reading
+
+- [Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks)
+- [Check Point VPN Flaw Exploited Since Early May](https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may)
+- [Iran Signed a Ceasefire — Its Hackers Didn't](https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers)
+- ['Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud](https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud)
+- [Exposed Fuel Tank Gauges Under Attack in the US](https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us)
+- [Adaptive, Agentic AI Worms Loom as Next Enterprise Threat](https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat)
+- [Trump AI Order Seeks Voluntary Frontier Model Testing](https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing)
+- [Rust-Written IronWorm Hits NPM Supply Chain](https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain)
 
 ### Security Week
 
@@ -71,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [NAVTOR NavBox](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01)
 - [Hitachi Energy MACH HiDraw](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05)
@@ -78,7 +90,6 @@
 - [B&R PPT30 Operating System](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-03)
 - [Hitachi Energy ITT600 Explorer](https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-02)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/02/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 
 ---
 

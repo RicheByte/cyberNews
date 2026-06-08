@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1819,
+      "count": 1820,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1753,7 +1753,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 414,
+      "count": 415,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3886,7 +3886,7 @@
       ]
     },
     "released security updates": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3905,7 +3905,8 @@
         "2026-04-17",
         "2026-04-30",
         "2026-05-13",
-        "2026-05-14"
+        "2026-05-14",
+        "2026-06-08"
       ]
     },
     "auditability collide daily": {
@@ -15881,7 +15882,7 @@
       ]
     },
     "275 million students": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15971,7 +15972,7 @@
       ]
     },
     "united states today": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16282,7 +16283,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -17693,7 +17694,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18027,7 +18028,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18391,7 +18392,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18462,7 +18463,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18479,7 +18480,7 @@
       ]
     },
     "opc ua server": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18528,7 +18529,7 @@
       ]
     },
     "software supply channel": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18688,25 +18689,25 @@
       ]
     },
     "174 000 impacted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-08"
       ]
     },
     "hacking court order": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-08"
       ]
     },
     "careers platform hack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-08"
       ]
     },
     "hacking groups known": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-08"
       ]
@@ -18718,6 +18719,24 @@
       ]
     },
     "execute remote code": {
+      "count": 2,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "investigating user reports": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "exodus intelligence released": {
+      "count": 1,
+      "dates": [
+        "2026-06-08"
+      ]
+    },
+    "public security researchers": {
       "count": 1,
       "dates": [
         "2026-06-08"
@@ -18725,17 +18744,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-25 19:22",
-      "articles": 56,
-      "top_keywords": [
-        "hijack 700 sites",
-        "malicious cyber actors",
-        "fuel clickfix attacks",
-        "distribute malicious code",
-        "cyberattacks influence operations"
-      ]
-    },
     {
       "timestamp": "2026-05-25 21:00",
       "articles": 56,
@@ -19823,6 +19831,17 @@
         "hitachi energy rtu500",
         "hacking court order",
         "careers platform hack"
+      ]
+    },
+    {
+      "timestamp": "2026-06-08 21:46",
+      "articles": 56,
+      "top_keywords": [
+        "174 000 impacted",
+        "execute remote code",
+        "hitachi energy rtu500",
+        "hacking court order",
+        "investigating user reports"
       ]
     }
   ]

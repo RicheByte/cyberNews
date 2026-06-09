@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1827,
+      "count": 1828,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -731,7 +731,7 @@
       ]
     },
     "remote code execution": {
-      "count": 446,
+      "count": 447,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -2880,7 +2880,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -5512,10 +5512,11 @@
       ]
     },
     "massive distributed denial": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-29",
-        "2026-01-30"
+        "2026-01-30",
+        "2026-06-09"
       ]
     },
     "december 2025 peaking": {
@@ -15981,7 +15982,7 @@
       ]
     },
     "united states today": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16497,7 +16498,7 @@
       ]
     },
     "proving remarkably good": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-05-14",
         "2026-05-19",
@@ -17707,7 +17708,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18097,10 +18098,11 @@
       ]
     },
     "pro iranian images": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-01",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-06-09"
       ]
     },
     "openai codex attracting": {
@@ -18660,7 +18662,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18796,7 +18798,7 @@
       ]
     },
     "normal system usage": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-09"
       ]
@@ -18820,13 +18822,13 @@
       ]
     },
     "reduce manual effort": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-09"
       ]
     },
     "ecostruxure panel server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-09"
       ]
@@ -18856,7 +18858,7 @@
       ]
     },
     "upgraded mythos 5": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
@@ -18868,18 +18870,42 @@
       ]
     },
     "sap commerce cloud": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
     },
     "qilin ransomware affiliate": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
     },
     "project glasswing partners": {
+      "count": 2,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "openclaw email agent": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "person office intrusions": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "obama white house": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "nearly three dozen": {
       "count": 1,
       "dates": [
         "2026-06-09"
@@ -18887,17 +18913,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-26 23:04",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "docker images docksec",
-        "185 000 people",
-        "ac500 v2 listed",
-        "cybercrime group defaced"
-      ]
-    },
     {
       "timestamp": "2026-05-27 02:53",
       "articles": 56,
@@ -19985,6 +20000,17 @@
         "twitter whistleblower complaint",
         "normal system usage",
         "chief master sergeant"
+      ]
+    },
+    {
+      "timestamp": "2026-06-09 23:14",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "remote code execution",
+        "twitter whistleblower complaint",
+        "openclaw email agent",
+        "normal system usage"
       ]
     }
   ]

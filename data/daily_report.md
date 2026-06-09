@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-09 20:04 UTC  
+> **Last Updated:** 2026-06-09 23:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **normal system usage** • **chief master sergeant** • **deploys software internally** • **backup replication software** • **analyzing source code** • **upgraded mythos 5** • **united states today** • **stark industries solutions** • **soap methods resulting** • **site business data** • **sap commerce cloud** • **resetting account passwords** • **reduce manual effort** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners**
+**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **openclaw email agent** • **normal system usage** • **upgraded mythos 5** • **united states today** • **stark industries solutions** • **soap methods resulting** • **sap commerce cloud** • **reduce manual effort** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners** • **pro iranian images** • **person office intrusions** • **obama white house** • **nearly three dozen** • **massive distributed denial**
 
 ---
 
@@ -27,17 +27,18 @@
 
 ### BleepingComputer
 
+- [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
+- [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
+- [OpenClaw AI agent found falling for phishing attacks, spills user data](https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/)
 - [SAP fixes critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/)
 - [Microsoft releases Windows 10 KB5094127 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/)
 - [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
 - [Windows 11 KB5094126 & KB5093998 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/)
 - [XBOW tests Anthropic's Mythos Preview for offensive security](https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/)
-- [GitHub disables Microsoft repos pushing password-stealing malware](https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/)
-- [New Veeam vulnerability exposes backup servers to RCE attacks](https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/)
-- [French govt messaging service breached in account hijacking attack](https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/)
 
 ### Krebs on Security
 
+- [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/)
 - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
@@ -45,18 +46,17 @@
 - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
 - [Patch Tuesday, May 2026 Edition](https://krebsonsecurity.com/2026/05/patch-tuesday-may-2026-edition/)
 - [Canvas Breach Disrupts Schools & Colleges Nationwide](https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/)
-- [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/)
 
 ### Dark Reading
 
+- [Blame AI: Patch Tuesday Hits Record 206 CVEs](https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves)
+- [Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address](https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address)
 - [Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories](https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories)
 - [Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs](https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs)
 - [Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks)
 - [Check Point VPN Flaw Exploited Since Early May](https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may)
 - [Iran Signed a Ceasefire — Its Hackers Didn't](https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers)
 - ['Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud](https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud)
-- [Exposed Fuel Tank Gauges Under Attack in the US](https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us)
-- [Adaptive, Agentic AI Worms Loom as Next Enterprise Threat](https://www.darkreading.com/cyber-risk/adaptive-agentic-ai-worms-enterprise-cyber-threat)
 
 ### Security Week
 

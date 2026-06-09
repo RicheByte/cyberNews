@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-09 07:41 UTC |
+| 🕐 Last Updated | 2026-06-09 10:55 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`174 000 impacted` • `execute remote code` • `hitachi energy rtu500` • `hacking court order` • `run arbitrary commands` • `hacking groups known` • `twitter whistleblower complaint` • `opc ua server` • `exodus intelligence released` • `chief master sergeant`
+`174 000 impacted` • `hitachi energy rtu500` • `hacking court order` • `run arbitrary commands` • `twitter whistleblower complaint` • `software supply channel` • `resources without limits` • `fast spreading internet` • `exodus intelligence released` • `chief master sergeant`
 
 ## 📄 Reports
 

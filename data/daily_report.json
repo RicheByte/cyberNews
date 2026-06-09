@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-06-09 07:41",
+  "last_updated": "2026-06-09 10:55",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "174 000 impacted",
-    "execute remote code",
     "hitachi energy rtu500",
     "hacking court order",
     "run arbitrary commands",
-    "hacking groups known",
     "twitter whistleblower complaint",
-    "opc ua server",
+    "software supply channel",
+    "resources without limits",
+    "fast spreading internet",
     "exodus intelligence released",
     "chief master sergeant",
     "275 million students",
-    "investigating user reports",
-    "fast spreading internet",
-    "united states today",
-    "stark industries solutions",
+    "hijacked user account",
     "sprawling phishing campaign",
-    "software supply channel",
+    "investigating user reports",
+    "us threat actors",
+    "united states today",
+    "target specific ecosystems",
+    "stark industries solutions",
     "soap methods resulting",
-    "service's login page",
-    "recommended immediate actions"
+    "setup pth file"
   ],
   "trending": [
     {
       "keyword": "174 000 impacted",
-      "mentions": 6
-    },
-    {
-      "keyword": "execute remote code",
-      "mentions": 5
-    },
-    {
-      "keyword": "hitachi energy rtu500",
-      "mentions": 38
-    },
-    {
-      "keyword": "hacking court order",
-      "mentions": 6
-    },
-    {
-      "keyword": "run arbitrary commands",
       "mentions": 7
     },
     {
-      "keyword": "hacking groups known",
-      "mentions": 6
+      "keyword": "hitachi energy rtu500",
+      "mentions": 39
+    },
+    {
+      "keyword": "hacking court order",
+      "mentions": 7
+    },
+    {
+      "keyword": "run arbitrary commands",
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1823
+      "mentions": 1824
     },
     {
-      "keyword": "opc ua server",
-      "mentions": 16
+      "keyword": "software supply channel",
+      "mentions": 27
+    },
+    {
+      "keyword": "resources without limits",
+      "mentions": 34
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 32
     },
     {
       "keyword": "exodus intelligence released",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 53
+      "mentions": 54
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
+      "link": "https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html",
+      "summary": "A malicious website can work out which sites you visit and which apps you open, using nothing but JavaScript and the timing of your SSD. The attack, called FROST, needs no native code, no extension, and no permission prompt. You open the page, leave the tab sitting there, and it watches the drive for contention in the background. Researchers at Graz University of Technology built it and",
+      "published": "Tue, 09 Jun 2026 15:20:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
+      "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems. \"The compromised releases shipped a *-setup.pth file that attempts to execute automatically",
+      "published": "Tue, 09 Jun 2026 14:43:32 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
@@ -142,25 +160,30 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Hardest Fork",
-      "link": "https://thehackernews.com/2026/06/the-hardest-fork.html",
-      "summary": "Mythos is real. I know a big chunk of the industry thinks it's a marketing stunt, and I get why. I get it. But I've seen the findings, and they're bad. These aren't \"whoops, this line right here is wrong, and that's RCE.\" They're novel combinations of a few dozen issues out of thousands of things every SAST scanner already finds, chained together into something much worse. It's real creativity,",
-      "published": "Mon, 08 Jun 2026 17:23:00 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "French govt messaging service breached in account hijacking attack",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-messaging-service-breached-in-account-hijacking-attack/",
+      "summary": "DINUM, the digital affairs directorate of the French government, warned that hackers used a hijacked user account to breach Tchap, the French government's encrypted messaging platform. [...]",
+      "published": "Tue, 09 Jun 2026 06:53:00 -0400",
+      "value_score": 22,
       "value_signals": [
-        "RCE"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances",
-      "link": "https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html",
-      "summary": "A China-nexus cyber espionage group has been observed deploying a BSD variant of a known backdoor called BRICKSTORM, as well as two other malware families codenamed PLENET (aka GRIMBOLT) and AGENTPSD to target Linux systems. The activity has been attributed by Volexity to a threat cluster it tracks as VerdantBamboo, which it said overlaps with hacking groups known as Clay Typhoon (Microsoft),",
-      "published": "Mon, 08 Jun 2026 15:57:32 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
+      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
+      "published": "Tue, 09 Jun 2026 04:18:39 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Backdoor"
+        "Zero-day ×2",
+        "Ransomware",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
@@ -226,31 +249,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Gogs patches critical zero-day enabling remote code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/gogs-patches-critical-zero-day-enabling-remote-code-execution/",
-      "summary": "Gogs has patched a critical security zero-day flaw that can allow attackers to compromise Internet-facing instances and access any repositories (including private ones). [...]",
-      "published": "Mon, 08 Jun 2026 12:18:40 -0400",
-      "value_score": 96,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical UniFi OS bug lets hackers gain root without authentication",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-unifi-os-bug-lets-hackers-gain-root-without-authentication/",
-      "summary": "Attackers can chain three already fixed vulnerabilities in the Ubiquiti UniFi OS server to execute remote code with root privileges and without authentication. [...]",
-      "published": "Mon, 08 Jun 2026 11:51:19 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
       ]
     },
     {
@@ -418,6 +416,20 @@
     },
     {
       "source": "Security Week",
+      "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
+      "link": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
+      "summary": "The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password. The post Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 09:47:10 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "Ransomware ×2",
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
       "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
       "summary": "The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher. The post Google Patches 5th Chrome Zero-Day Exploited in 2026 appeared first on SecurityWeek .",
@@ -486,17 +498,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Silent Ransom Group Uses DNS Fast Flux in Attacks",
-      "link": "https://www.securityweek.com/silent-ransom-group-uses-dns-fast-flux-in-attacks/",
-      "summary": "Focusing on hacking law firms in the US, the ransomware group relies on fast flux to hide its C&C infrastructure. The post Silent Ransom Group Uses DNS Fast Flux in Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 10:31:39 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {

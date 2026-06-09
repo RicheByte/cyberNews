@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-06-09 17:56",
+  "last_updated": "2026-06-09 20:04",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
-    "will ai kill",
+    "remote code execution",
     "twitter whistleblower complaint",
     "normal system usage",
-    "hitachi energy rtu500",
-    "deploys software internally",
     "chief master sergeant",
-    "opc ua server",
-    "resetting account passwords",
-    "microsoft spokesperson told",
-    "command injection vulnerability",
-    "accelerating vulnerability discovery",
-    "without human intervention",
+    "deploys software internally",
+    "backup replication software",
+    "analyzing source code",
+    "upgraded mythos 5",
     "united states today",
     "stark industries solutions",
     "soap methods resulting",
-    "setup pth file",
-    "run arbitrary commands",
-    "resources without limits",
-    "reduce manual effort"
+    "site business data",
+    "sap commerce cloud",
+    "resetting account passwords",
+    "reduce manual effort",
+    "recommended immediate actions",
+    "qilin ransomware affiliate",
+    "proving remarkably good",
+    "project glasswing partners"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "will ai kill",
-      "mentions": 2
+      "keyword": "remote code execution",
+      "mentions": 446
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1826
+      "mentions": 1827
     },
     {
       "keyword": "normal system usage",
-      "mentions": 2
-    },
-    {
-      "keyword": "hitachi energy rtu500",
-      "mentions": 41
-    },
-    {
-      "keyword": "deploys software internally",
-      "mentions": 45
+      "mentions": 3
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 56
+      "mentions": 57
     },
     {
-      "keyword": "opc ua server",
-      "mentions": 17
+      "keyword": "deploys software internally",
+      "mentions": 46
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 17
-    },
-    {
-      "keyword": "microsoft spokesperson told",
+      "keyword": "backup replication software",
       "mentions": 1
+    },
+    {
+      "keyword": "analyzing source code",
+      "mentions": 1
+    },
+    {
+      "keyword": "upgraded mythos 5",
+      "mentions": 1
+    },
+    {
+      "keyword": "united states today",
+      "mentions": 106
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
+      "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
+      "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads. \"Businesses often share information about people's activity on their sites with us to make ads more relevant,\" Meta said in a statement. \"We already use this data - like games you play",
+      "published": "Tue, 09 Jun 2026 22:33:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
+      "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
+      "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0. \"A vulnerability allowing remote code execution (RCE) on the Backup Server by an authenticated domain user,\" Veeam said in a Tuesday advisory. It",
+      "published": "Tue, 09 Jun 2026 22:09:47 +0530",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×4",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
@@ -132,28 +154,38 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer",
-      "link": "https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html",
-      "summary": "The Miasma supply chain campaign has sparked a fresh attack wave called Hades, this time involving 37 malicious wheel artifacts across 19 packages in the Python Package Index (PyPI) registry, as the Mini Shai-Hulud-style attacks continue to be refined and splintered to target specific ecosystems. \"The compromised releases shipped a *-setup.pth file that attempts to execute automatically",
-      "published": "Tue, 09 Jun 2026 14:43:32 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
+      "published": "Tue, 09 Jun 2026 15:36:27 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update",
+        "High severity ×2"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the",
-      "published": "Tue, 09 Jun 2026 11:56:14 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
+      "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]",
+      "published": "Tue, 09 Jun 2026 14:35:00 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "RCE",
-        "CISA/KEV ×3",
-        "Multiple CVEs",
-        "Exploit wording"
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
+      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "Tue, 09 Jun 2026 13:57:59 -0400",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update ×2"
       ]
     },
     {
@@ -211,45 +243,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA gives feds 3 days to patch Check Point VPN bug exploited as zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-check-point-flaw-exploited-by-ransomware-gangs/",
-      "summary": "CISA has ordered U.S. government agencies to secure their Check Point Remote Access VPN and Mobile Access deployments against a critical vulnerability exploited in zero-day attacks by Qilin ransomware affiliates. [...]",
-      "published": "Tue, 09 Jun 2026 04:18:39 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Ransomware",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
-      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
-      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
-      "published": "Tue, 09 Jun 2026 02:56:27 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation ×2",
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NFCShare Android malware spreads via fake banking app updates on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
-      "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
-      "published": "Mon, 08 Jun 2026 18:11:58 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -339,6 +332,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories",
+      "link": "https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories",
+      "summary": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasmi attack on Microsoft last month.",
+      "published": "Tue, 09 Jun 2026 19:33:45 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs",
       "link": "https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs",
       "summary": "Two separate campaigns target CVE-2025-8088, fixed last July, to conduct data theft and cyberespionage against military and government targets in Ukraine.",
@@ -409,13 +411,26 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Trump AI Order Seeks Voluntary Frontier Model Testing",
-      "link": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
-      "summary": "The White House's executive order establishes voluntary framework for early government access to frontier models while investing in federal security.",
-      "published": "Fri, 05 Jun 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Microsoft Patches 200 Vulnerabilities",
+      "link": "https://www.securityweek.com/microsoft-patches-200-vulnerabilities/",
+      "summary": "Three of the vulnerabilities fixed with the latest Patch Tuesday updates were publicly disclosed before Microsoft addressed them. The post Microsoft Patches 200 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 19:04:08 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Adobe Patches 123 Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-patches-123-vulnerabilities/",
+      "summary": "Nearly half of the security holes, most allowing arbitrary code execution, have been fixed in Adobe’s Experience Manager product. The post Adobe Patches 123 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 18:20:54 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "Security Week",
@@ -477,29 +492,6 @@
       "published": "Tue, 09 Jun 2026 11:37:11 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Will AI Kill the Bug Bounty Industry?",
-      "link": "https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/",
-      "summary": "Anthropic's Mythos is accelerating vulnerability discovery to machine speed, forcing the bug bounty industry and offensive security teams to adapt to a future where finding flaws is no longer the hard part. The post Will AI Kill the Bug Bounty Industry? appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
-      "link": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
-      "summary": "The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password. The post Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 09:47:10 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Zero-day ×2",
-        "Ransomware ×2",
-        "Auth bypass",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",
@@ -586,6 +578,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber ",
+      "published": "Tue, 09 Jun 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×3",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Siemens KACO Blueplanet Inverters",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
       "summary": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has released new versions for several affected products and recommends to update to the latest versions. KACO new energy GmbH is preparing further fix versions and recommends countermeasures for products where fixes are not, or not yet available. The following versions o",
@@ -663,26 +670,13 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Hitachi Energy RTU500",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on confidentiality and integrity. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7",
+      "title": "Hitachi Energy MACH HiDraw",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
+      "summary": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, potentially resulting in application outages (denial of service) and possible arbitrary code execution. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MACH HiDraw are affect",
       "published": "Thu, 04 Jun 26 12:00:00 +0000",
       "value_score": 41,
       "value_signals": [
         "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "B&R PPT30 Operating System",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-03",
-      "summary": "View CSAF Summary B&R is aware of a vulnerability in the product versions listed as affected in the advisory. An attacker who successfully exploits this vulnerability could make the OPC-UA server of the product inaccessible. The following versions of B&R PPT30 Operating System are affected: PPT30 Operating System <1.8.0, 1.8.0 (CVE-2025-11482) CVSS Vendor Equipment Vulnerabilities v3 7.5 B&R Industrial Automation GmbH B&R PPT30 Operating System Allocation of Resources Without Limits or Throttlin",
-      "published": "Thu, 04 Jun 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
         "Exploit wording"
       ]
     }

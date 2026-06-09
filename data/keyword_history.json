@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1826,
+      "count": 1827,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -731,7 +731,7 @@
       ]
     },
     "remote code execution": {
-      "count": 445,
+      "count": 446,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -803,7 +803,8 @@
         "2026-05-29",
         "2026-05-30",
         "2026-05-31",
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-09"
       ]
     },
     "attacker remotely control": {
@@ -2879,7 +2880,7 @@
       ]
     },
     "recommended immediate actions": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-01-08",
         "2026-01-11",
@@ -15980,7 +15981,7 @@
       ]
     },
     "united states today": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -16496,12 +16497,13 @@
       ]
     },
     "proving remarkably good": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-14",
         "2026-05-19",
         "2026-06-06",
-        "2026-06-07"
+        "2026-06-07",
+        "2026-06-09"
       ]
     },
     "people events ideas": {
@@ -17333,7 +17335,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17705,7 +17707,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18040,7 +18042,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18075,7 +18077,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18658,7 +18660,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18794,7 +18796,7 @@
       ]
     },
     "normal system usage": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-09"
       ]
@@ -18818,13 +18820,13 @@
       ]
     },
     "reduce manual effort": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-09"
       ]
     },
     "ecostruxure panel server": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
@@ -18840,20 +18842,51 @@
       "dates": [
         "2026-06-09"
       ]
+    },
+    "backup replication software": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "analyzing source code": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "upgraded mythos 5": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "site business data": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "sap commerce cloud": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "qilin ransomware affiliate": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "project glasswing partners": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-26 21:38",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "docker images docksec",
-        "185 000 people",
-        "ac500 v2 listed",
-        "cybercrime group defaced"
-      ]
-    },
     {
       "timestamp": "2026-05-26 23:04",
       "articles": 56,
@@ -19941,6 +19974,17 @@
         "twitter whistleblower complaint",
         "normal system usage",
         "hitachi energy rtu500"
+      ]
+    },
+    {
+      "timestamp": "2026-06-09 20:04",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "remote code execution",
+        "twitter whistleblower complaint",
+        "normal system usage",
+        "chief master sergeant"
       ]
     }
   ]

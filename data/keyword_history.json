@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1825,
+      "count": 1826,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2727,7 +2727,7 @@
       ]
     },
     "run arbitrary commands": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-08",
         "2026-06-09"
@@ -3524,7 +3524,7 @@
       ]
     },
     "resources without limits": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -4423,9 +4423,10 @@
       ]
     },
     "command injection vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-20"
+        "2026-01-20",
+        "2026-06-09"
       ]
     },
     "eu plans phase": {
@@ -15979,7 +15980,7 @@
       ]
     },
     "united states today": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17332,7 +17333,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17704,7 +17705,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18039,7 +18040,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18074,7 +18075,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18082,7 +18083,8 @@
         "2026-06-04",
         "2026-06-06",
         "2026-06-07",
-        "2026-06-08"
+        "2026-06-08",
+        "2026-06-09"
       ]
     },
     "remote web ui": {
@@ -18476,7 +18478,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18494,7 +18496,7 @@
       ]
     },
     "opc ua server": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18656,7 +18658,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18780,19 +18782,19 @@
       ]
     },
     "setup pth file": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-09"
       ]
     },
     "will ai kill": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
     },
     "normal system usage": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
@@ -18810,12 +18812,30 @@
       ]
     },
     "without human intervention": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
     },
     "reduce manual effort": {
+      "count": 2,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "ecostruxure panel server": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "microsoft spokesperson told": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "accelerating vulnerability discovery": {
       "count": 1,
       "dates": [
         "2026-06-09"
@@ -18823,17 +18843,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-26 18:21",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "docker images docksec",
-        "185 000 people",
-        "ac500 v2 listed",
-        "known common vulner"
-      ]
-    },
     {
       "timestamp": "2026-05-26 21:38",
       "articles": 56,
@@ -19921,6 +19930,17 @@
         "software supply channel",
         "twitter whistleblower complaint",
         "run arbitrary commands"
+      ]
+    },
+    {
+      "timestamp": "2026-06-09 17:56",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "will ai kill",
+        "twitter whistleblower complaint",
+        "normal system usage",
+        "hitachi energy rtu500"
       ]
     }
   ]

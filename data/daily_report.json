@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-09 14:38",
+  "last_updated": "2026-06-09 17:56",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "ecostruxure panel server",
     "will ai kill",
-    "hitachi energy rtu500",
-    "software supply channel",
     "twitter whistleblower complaint",
-    "run arbitrary commands",
     "normal system usage",
-    "fast spreading internet",
-    "chief master sergeant",
-    "275 million students",
-    "offensive security teams",
+    "hitachi energy rtu500",
     "deploys software internally",
-    "increasingly adopting ai",
-    "hijacked user account",
+    "chief master sergeant",
+    "opc ua server",
+    "resetting account passwords",
+    "microsoft spokesperson told",
+    "command injection vulnerability",
+    "accelerating vulnerability discovery",
     "without human intervention",
     "united states today",
     "stark industries solutions",
     "soap methods resulting",
     "setup pth file",
+    "run arbitrary commands",
     "resources without limits",
     "reduce manual effort"
   ],
   "trending": [
     {
-      "keyword": "will ai kill",
+      "keyword": "ecostruxure panel server",
       "mentions": 1
     },
     {
-      "keyword": "hitachi energy rtu500",
-      "mentions": 40
-    },
-    {
-      "keyword": "software supply channel",
-      "mentions": 28
+      "keyword": "will ai kill",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1825
-    },
-    {
-      "keyword": "run arbitrary commands",
-      "mentions": 9
+      "mentions": 1826
     },
     {
       "keyword": "normal system usage",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 33
+      "keyword": "hitachi energy rtu500",
+      "mentions": 41
+    },
+    {
+      "keyword": "deploys software internally",
+      "mentions": 45
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 55
+      "mentions": 56
     },
     {
-      "keyword": "275 million students",
-      "mentions": 87
+      "keyword": "opc ua server",
+      "mentions": 17
     },
     {
-      "keyword": "offensive security teams",
+      "keyword": "resetting account passwords",
+      "mentions": 17
+    },
+    {
+      "keyword": "microsoft spokesperson told",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
+      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
+      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our priority is to protect customers and the broader ecosystem,\" a Microsoft spokesperson told The Hacker News via email. \"We temporarily removed some",
+      "published": "Tue, 09 Jun 2026 22:04:52 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
@@ -148,16 +157,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
-      "link": "https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html",
-      "summary": "Security researchers have published a detailed, working exploit for a Linux kernel use-after-free that lets an unprivileged local user escalate to root and break out of a container. The flaw, CVE-2026-23111, sits in the kernel's nf_tables packet-filtering code and was patched upstream on February 5, 2026. Exodus Intelligence released its full technical walkthrough on June 8, and it is not even",
-      "published": "Tue, 09 Jun 2026 01:47:39 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "Tue, 09 Jun 2026 13:32:32 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
+      "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
+      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]",
+      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
+      "value_score": 16,
+      "value_signals": [
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "GitHub disables Microsoft repos pushing password-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/github-disables-microsoft-repos-pushing-password-stealing-malware/",
+      "summary": "Microsoft removed 73 repositories across its Azure, microsoft, Azure-Samples, and MicrosoftDocs organizations on GitHub, disrupting continuous integration pipelines. [...]",
+      "published": "Tue, 09 Jun 2026 11:42:40 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -220,37 +248,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/nfcshare-android-malware-spreads-via-fake-banking-app-updates-on-github/",
       "summary": "New variants of the NFCShare Android malware are being distributed as fake updates for legitimate banking apps hosted on GitHub. [...]",
       "published": "Mon, 08 Jun 2026 18:11:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SoFi confirms third-party data breach at Hong Kong subsidiary",
-      "link": "https://www.bleepingcomputer.com/news/security/sofi-confirms-third-party-data-breach-at-hong-kong-subsidiary/",
-      "summary": "SoFi Hong Kong is warning that it suffered a data breach after hackers gained access to a database at a third-party vendor containing customer information. [...]",
-      "published": "Mon, 08 Jun 2026 17:55:46 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Apple feature automatically changes your compromised passwords",
-      "link": "https://www.bleepingcomputer.com/news/apple/new-apple-feature-automatically-changes-your-compromised-passwords/",
-      "summary": "At WWDC 26, Apple announced an Apple Intelligence-powered feature that can automatically fix weak and compromised passwords. This works in Safari, and it's rolling out with iOS 27. [...]",
-      "published": "Mon, 08 Jun 2026 17:03:40 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Shai-Hulud attack trojanizes 19 science-focused PyPI packages",
-      "link": "https://www.bleepingcomputer.com/news/security/new-shai-hulud-attack-trojanizes-19-science-focused-pypi-packages/",
-      "summary": "Hackers compromised 19 packages on the PyPI, collectively downloaded hundreds of thousands of times, in a new Shai-Hulud supply-chain attack that delivered malware designed to steal developer secrets. [...]",
-      "published": "Mon, 08 Jun 2026 16:41:35 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -342,6 +339,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs",
+      "summary": "Two separate campaigns target CVE-2025-8088, fixed last July, to conduct data theft and cyberespionage against military and government targets in Ukraine.",
+      "published": "Tue, 09 Jun 2026 15:37:02 GMT",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks",
       "summary": "The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.",
@@ -409,13 +418,34 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Rust-Written IronWorm Hits NPM Supply Chain",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
-      "summary": "Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.",
-      "published": "Thu, 04 Jun 2026 21:47:06 GMT",
+      "source": "Security Week",
+      "title": "Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails",
+      "link": "https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/",
+      "summary": "The AI giant also announced that Project Glasswing partners are being given access to the upgraded Mythos 5. The post Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 17:02:08 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenSSL Patches High-Severity Vulnerability Found With AI",
+      "link": "https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/",
+      "summary": "A total of 18 vulnerabilities have been patched in the latest OpenSSL releases, including many that were potentially discovered by AI. The post OpenSSL Patches High-Severity Vulnerability Found With AI appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 16:47:58 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
+      "link": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
+      "summary": "Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks. The post Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 15:03:13 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -470,37 +500,6 @@
         "Auth bypass",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
-      "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
-      "summary": "The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher. The post Google Patches 5th Chrome Zero-Day Exploited in 2026 appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 05:57:40 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
-      "link": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
-      "summary": "The company founded by Yossi Torati, Omer Gull, and Yuval Itzchakov has emerged from stealth mode. The post A Security Raises $37 Million for Autonomous Offensive Security Platform appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 17:19:38 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Everybody Is Vibe Coding But Nobody Told the Security Team",
-      "link": "https://www.securityweek.com/everybody-is-vibe-coding-but-nobody-told-the-security-team/",
-      "summary": "AI-driven development is not something organizations can or should block. But it must be governed. The post Everybody Is Vibe Coding But Nobody Told the Security Team appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 15:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",
@@ -587,6 +586,40 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Siemens KACO Blueplanet Inverters",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
+      "summary": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has released new versions for several affected products and recommends to update to the latest versions. KACO new energy GmbH is preparing further fix versions and recommends countermeasures for products where fixes are not, or not yet available. The following versions o",
+      "published": "Tue, 09 Jun 26 12:00:00 +0000",
+      "value_score": 51,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric EcoStruxure Panel Server",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-03",
+      "summary": "View CSAF Summary Schneider Electric is aware of its vulnerability in its EcoStruxure Panel Server offer. The EcoStruxure Panel Server is a high performance, modular gateway with enhanced cybersecurity that provides easy and fast connections to multiple concurrent edge control or cloud applications. Failure to apply the remediations provided below may risk unauthorized authentication, which could lead to access to sensitive information. The following versions of Schneider Electric EcoStruxure Pa",
+      "published": "Tue, 09 Jun 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric Modicon Network Managed Switches",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-01",
+      "summary": "View CSAF Summary Schneider Electric is aware of a RADIUS protocol vulnerability affecting its Modicon Network Managed Switch product. The Modicon Network Managed Switch product provides connectivity for multiple Ethernet devices, network management, enhanced cyber security and more advanced switching features. Failure to apply the mitigation provided below may risk forgery attacks in RADIUS Protocol, which could result in modification of any valid Response (Access-Accept, Access-Reject, or Acce",
+      "published": "Tue, 09 Jun 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kn",
@@ -630,18 +663,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Hitachi Energy MACH HiDraw",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, potentially resulting in application outages (denial of service) and possible arbitrary code execution. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MACH HiDraw are affect",
-      "published": "Thu, 04 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Hitachi Energy RTU500",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-04",
       "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect RTU500 product versions listed in this document. If exploited, these vulnerabilities primarily impact product availability, with potential secondary impacts on confidentiality and integrity. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy RTU500 are affected: RTU500 series CMU Firmware vers:RTU500_series_CMU_Firmware/>=12.7.1|<=12.7",
@@ -662,32 +683,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy ITT600 Explorer",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-02",
-      "summary": "View CSAF Summary Hitachi Energy is aware of vulnerabilities that affect ITT600 Explorer product versions listed in this document. These vulnerabilities can be exploited to carry out Denial of Service (DoS) attack on the product. The vulnerabilities only affect Hitachi Energy Integrated Testing Tool ITT600 SA Explorer without affecting IEC 61850 system endpoints. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi ",
-      "published": "Thu, 04 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/03/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-45247 Mirasvit Full Page Cache Warmer Deserialization of Untrusted Data Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalo",
-      "published": "Wed, 03 Jun 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
         "Exploit wording"
       ]
     }

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-09 14:38 UTC |
+| 🕐 Last Updated | 2026-06-09 17:56 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`will ai kill` • `hitachi energy rtu500` • `software supply channel` • `twitter whistleblower complaint` • `run arbitrary commands` • `normal system usage` • `fast spreading internet` • `chief master sergeant` • `275 million students` • `offensive security teams`
+`ecostruxure panel server` • `will ai kill` • `twitter whistleblower complaint` • `normal system usage` • `hitachi energy rtu500` • `deploys software internally` • `chief master sergeant` • `opc ua server` • `resetting account passwords` • `microsoft spokesperson told`
 
 ## 📄 Reports
 

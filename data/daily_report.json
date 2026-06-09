@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 02:39",
+  "last_updated": "2026-06-09 07:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -7,66 +7,82 @@
     "execute remote code",
     "hitachi energy rtu500",
     "hacking court order",
-    "investigating user reports",
+    "run arbitrary commands",
+    "hacking groups known",
     "twitter whistleblower complaint",
     "opc ua server",
     "exodus intelligence released",
     "chief master sergeant",
     "275 million students",
-    "hacking groups known",
+    "investigating user reports",
     "fast spreading internet",
-    "public security researchers",
-    "finding security vulnerabilities",
     "united states today",
     "stark industries solutions",
     "sprawling phishing campaign",
     "software supply channel",
     "soap methods resulting",
-    "service's login page"
+    "service's login page",
+    "recommended immediate actions"
   ],
   "trending": [
     {
       "keyword": "174 000 impacted",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "execute remote code",
-      "mentions": 4
-    },
-    {
-      "keyword": "hitachi energy rtu500",
-      "mentions": 37
-    },
-    {
-      "keyword": "hacking court order",
       "mentions": 5
     },
     {
-      "keyword": "investigating user reports",
-      "mentions": 3
+      "keyword": "hitachi energy rtu500",
+      "mentions": 38
+    },
+    {
+      "keyword": "hacking court order",
+      "mentions": 6
+    },
+    {
+      "keyword": "run arbitrary commands",
+      "mentions": 7
+    },
+    {
+      "keyword": "hacking groups known",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1822
+      "mentions": 1823
     },
     {
       "keyword": "opc ua server",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "exodus intelligence released",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 52
-    },
-    {
-      "keyword": "275 million students",
-      "mentions": 84
+      "mentions": 53
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity flaw impacting BerriAI LiteLLM to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-42271 (CVSS score: 8.7), is a command injection vulnerability that could allow any authenticated user to run arbitrary commands on the",
+      "published": "Tue, 09 Jun 2026 11:56:14 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "RCE",
+        "CISA/KEV ×3",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public",
@@ -148,13 +164,18 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign",
-      "link": "https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html",
-      "summary": "Cybersecurity researchers have disclosed details of a financially motivated data theft extortion campaign that has targeted dozens of organizations across professional, legal, and financial services in the U.S. between January and May 2026. The activity has been attributed by Google Mandiant and Google Threat Intelligence Group (GTIG) to a threat actor dubbed UNC3753, which is also known as",
-      "published": "Mon, 08 Jun 2026 13:09:28 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Google patches new Chrome zero-day flaw exploited in the wild",
+      "link": "https://www.bleepingcomputer.com/news/security/google-patches-fifth-chrome-zero-day-bug-exploited-in-attacks-this-year/",
+      "summary": "Google has released emergency updates to patch another Chrome zero-day vulnerability that has been exploited in the wild, the fifth such flaw patched since the start of the year. [...]",
+      "published": "Tue, 09 Jun 2026 02:56:27 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -231,15 +252,6 @@
         "Patch/update",
         "High severity"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Reducing security operations complexity with Wazuh Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/reducing-security-operations-complexity-with-wazuh-cloud/",
-      "summary": "Security teams are increasingly overwhelmed by alert fatigue, infrastructure maintenance, and complex hybrid environments. This article explores how Wazuh Cloud helps simplify SIEM/XDR operations through managed infrastructure, automated scaling, and AI-driven security analysis. [...]",
-      "published": "Mon, 08 Jun 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -406,6 +418,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Patches 5th Chrome Zero-Day Exploited in 2026",
+      "link": "https://www.securityweek.com/google-patches-5th-chrome-zero-day-exploited-in-2026/",
+      "summary": "The vulnerability is tracked as CVE-2026-11645 and it was reported in late April by an anonymous researcher. The post Google Patches 5th Chrome Zero-Day Exploited in 2026 appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 05:57:40 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "A Security Raises $37 Million for Autonomous Offensive Security Platform",
       "link": "https://www.securityweek.com/a-security-raises-37-million-for-autonomous-offensive-security-platform/",
       "summary": "The company founded by Yossi Torati, Omer Gull, and Yuval Itzchakov has emerged from stealth mode. The post A Security Raises $37 Million for Autonomous Offensive Security Platform appeared first on SecurityWeek .",
@@ -473,15 +498,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Rolling Out ChatGPT Account Security Controls",
-      "link": "https://www.securityweek.com/openai-rolling-out-chatgpt-account-security-controls/",
-      "summary": "The Active Sessions and Lockdown Mode features are being made more broadly available by the AI giant. The post OpenAI Rolling Out ChatGPT Account Security Controls appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 08:32:49 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

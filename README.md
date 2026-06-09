@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-09 10:55 UTC |
+| 🕐 Last Updated | 2026-06-09 14:38 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`174 000 impacted` • `hitachi energy rtu500` • `hacking court order` • `run arbitrary commands` • `twitter whistleblower complaint` • `software supply channel` • `resources without limits` • `fast spreading internet` • `exodus intelligence released` • `chief master sergeant`
+`will ai kill` • `hitachi energy rtu500` • `software supply channel` • `twitter whistleblower complaint` • `run arbitrary commands` • `normal system usage` • `fast spreading internet` • `chief master sergeant` • `275 million students` • `offensive security teams`
 
 ## 📄 Reports
 

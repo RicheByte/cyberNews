@@ -297,7 +297,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1824,
+      "count": 1825,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2727,7 +2727,7 @@
       ]
     },
     "run arbitrary commands": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-08",
         "2026-06-09"
@@ -3524,7 +3524,7 @@
       ]
     },
     "resources without limits": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-13",
         "2026-01-14",
@@ -15888,7 +15888,7 @@
       ]
     },
     "275 million students": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-05-08",
         "2026-05-09",
@@ -15979,7 +15979,7 @@
       ]
     },
     "united states today": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-05-08",
         "2026-05-11",
@@ -17332,7 +17332,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17341,7 +17341,8 @@
         "2026-05-27",
         "2026-05-28",
         "2026-06-05",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-06-09"
       ]
     },
     "public github account": {
@@ -17703,7 +17704,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18038,7 +18039,7 @@
       ]
     },
     "chief master sergeant": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18403,7 +18404,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18475,7 +18476,7 @@
       ]
     },
     "hitachi energy rtu500": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18543,7 +18544,7 @@
       ]
     },
     "software supply channel": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18655,7 +18656,7 @@
       ]
     },
     "soap methods resulting": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-06",
         "2026-06-07",
@@ -18767,7 +18768,7 @@
       ]
     },
     "hijacked user account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-09"
       ]
@@ -18779,6 +18780,42 @@
       ]
     },
     "setup pth file": {
+      "count": 2,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "will ai kill": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "normal system usage": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "offensive security teams": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "increasingly adopting ai": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "without human intervention": {
+      "count": 1,
+      "dates": [
+        "2026-06-09"
+      ]
+    },
+    "reduce manual effort": {
       "count": 1,
       "dates": [
         "2026-06-09"
@@ -18786,17 +18823,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-26 14:56",
-      "articles": 56,
-      "top_keywords": [
-        "docker images docksec",
-        "185 000 people",
-        "threat actors abuse",
-        "fuel clickfix attacks",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-26 18:21",
       "articles": 56,
@@ -19884,6 +19910,17 @@
         "hacking court order",
         "run arbitrary commands",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-09 14:38",
+      "articles": 56,
+      "top_keywords": [
+        "will ai kill",
+        "hitachi energy rtu500",
+        "software supply channel",
+        "twitter whistleblower complaint",
+        "run arbitrary commands"
       ]
     }
   ]

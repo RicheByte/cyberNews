@@ -1,72 +1,118 @@
 {
-  "last_updated": "2026-06-09 10:55",
+  "last_updated": "2026-06-09 14:38",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "174 000 impacted",
+    "will ai kill",
     "hitachi energy rtu500",
-    "hacking court order",
-    "run arbitrary commands",
-    "twitter whistleblower complaint",
     "software supply channel",
-    "resources without limits",
+    "twitter whistleblower complaint",
+    "run arbitrary commands",
+    "normal system usage",
     "fast spreading internet",
-    "exodus intelligence released",
     "chief master sergeant",
     "275 million students",
+    "offensive security teams",
+    "deploys software internally",
+    "increasingly adopting ai",
     "hijacked user account",
-    "sprawling phishing campaign",
-    "investigating user reports",
-    "us threat actors",
+    "without human intervention",
     "united states today",
-    "target specific ecosystems",
     "stark industries solutions",
     "soap methods resulting",
-    "setup pth file"
+    "setup pth file",
+    "resources without limits",
+    "reduce manual effort"
   ],
   "trending": [
     {
-      "keyword": "174 000 impacted",
-      "mentions": 7
+      "keyword": "will ai kill",
+      "mentions": 1
     },
     {
       "keyword": "hitachi energy rtu500",
-      "mentions": 39
-    },
-    {
-      "keyword": "hacking court order",
-      "mentions": 7
-    },
-    {
-      "keyword": "run arbitrary commands",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1824
+      "mentions": 40
     },
     {
       "keyword": "software supply channel",
-      "mentions": 27
+      "mentions": 28
     },
     {
-      "keyword": "resources without limits",
-      "mentions": 34
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1825
+    },
+    {
+      "keyword": "run arbitrary commands",
+      "mentions": 9
+    },
+    {
+      "keyword": "normal system usage",
+      "mentions": 1
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 32
-    },
-    {
-      "keyword": "exodus intelligence released",
-      "mentions": 5
+      "mentions": 33
     },
     {
       "keyword": "chief master sergeant",
-      "mentions": 54
+      "mentions": 55
+    },
+    {
+      "keyword": "275 million students",
+      "mentions": 87
+    },
+    {
+      "keyword": "offensive security teams",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
+      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
+      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
+      "published": "Tue, 09 Jun 2026 17:56:10 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
+      "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
+      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service. The preprint, posted to arXiv on",
+      "published": "Tue, 09 Jun 2026 17:29:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
+      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
+      "summary": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103",
+      "published": "Tue, 09 Jun 2026 17:28:49 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day",
+        "Active exploitation ×2",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Hidden Security Risk in Modern Networks: The Work Between Tools",
+      "link": "https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html",
+      "summary": "Organizations have more visibility than ever. Growing tech stacks provide greater coverage, and network security teams are increasingly adopting AI and automation to help with routine tasks and reduce manual effort. But the same challenges persist. Outages still last hours, causing significant financial losses, operational disruption, and reputational impact. Threat response and mean time to",
+      "published": "Tue, 09 Jun 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing",
@@ -114,49 +160,17 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order",
-      "link": "https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html",
-      "summary": "Meta on Monday said it detected and blocked spear-phishing attempts linked to Israeli spyware vendor NSO Group. In addition, the tech giant said it's filing a federal court contempt order against the company for violating a permanent injunction that barred it from targeting WhatsApp and its users. \"They tried to trick people into clicking on malicious links to drive them to external websites",
-      "published": "Mon, 08 Jun 2026 22:38:44 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "New Veeam vulnerability exposes backup servers to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-veeam-vulnerability-exposes-backup-servers-to-rce-attacks/",
+      "summary": "Veeam has released security updates to patch a critical Backup & Replication security flaw that can be exploited to gain remote code execution (RCE) on domain-joined backup servers. [...]",
+      "published": "Tue, 09 Jun 2026 10:27:56 -0400",
+      "value_score": 72,
       "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Check Point VPN Flaw Exploited to Bypass Passwords in IKEv1 Setups",
-      "link": "https://thehackernews.com/2026/06/critical-check-point-vpn-flaw-exploited.html",
-      "summary": "Check Point has warned of active exploitation of a critical vulnerability impacting Remote Access VPN and Mobile Access deployments that are configured to use the deprecated IKEv1 key exchange protocol. The vulnerability, tracked as CVE-2026-50751 (CVSS score: 9.3), is a case of a logic flow weakness in certificate validation that allows an unauthenticated remote attacker to bypass user",
-      "published": "Mon, 08 Jun 2026 19:47:39 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
+        "RCE ×3",
+        "Patch/update",
+        "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Phishing Is Crushing SOCs with Alert Volume: How to Reduce Tier 1 Overload",
-      "link": "https://thehackernews.com/2026/06/ai-phishing-is-crushing-socs-with-alert.html",
-      "summary": "Phishing has always been a numbers game. AI has turned it into a volume machine. Attackers can now create convincing emails, fake login pages, and tailored lures in minutes. Every polished message adds another case for Tier 1 to review, another link to inspect, and another alert that cannot be dismissed at a glance. As the queue grows, a credential theft attempt or malware delivery can easily",
-      "published": "Mon, 08 Jun 2026 18:49:13 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Instagram Account Hacks, Android Zero-Day, GitHub Worm and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-instagram-account-hacks.html",
-      "summary": "Monday again. The weekend was meant to be quiet. It wasn't. Last week had poisoned packages, a broken AI helper, and a worm tearing through repos. The ugly part: basic tricks still worked. A chatbot got fooled. A bot token got leaked inside the malware. The same old mistakes showed up again. And while everyone chased the loud stuff, quieter attackers sat in inboxes for months, reading mail and",
-      "published": "Mon, 08 Jun 2026 18:48:57 +0530",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
       ]
     },
     {
@@ -239,17 +253,6 @@
       "published": "Mon, 08 Jun 2026 16:41:35 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp says it disrupted new NSO spyware phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-says-it-disrupted-new-nso-spyware-phishing-attacks/",
-      "summary": "WhatsApp has detected and stopped spear-phishing campaigns allegedly conducted by the NSO Group after investigating user reports of social engineering attacks. [...]",
-      "published": "Mon, 08 Jun 2026 14:40:53 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -416,6 +419,46 @@
     },
     {
       "source": "Security Week",
+      "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
+      "link": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
+      "summary": "Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible. The post New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 13:00:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "SAP Patches Critical NetWeaver, Commerce Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/",
+      "summary": "The flaws could lead to the disclosure of sensitive information, memory corruption, and disruption of normal system usage. The post SAP Patches Critical NetWeaver, Commerce Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 12:15:30 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks",
+      "link": "https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/",
+      "summary": "The most recent variants of the self-propagating attacks are named Miasma and Hades. The post Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 11:37:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Will AI Kill the Bug Bounty Industry?",
+      "link": "https://www.securityweek.com/will-ai-kill-the-bug-bounty-industry/",
+      "summary": "Anthropic's Mythos is accelerating vulnerability discovery to machine speed, forcing the bug bounty industry and offensive security teams to adapt to a future where finding flaws is no longer the hard part. The post Will AI Kill the Bug Bounty Industry? appeared first on SecurityWeek .",
+      "published": "Tue, 09 Jun 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks",
       "link": "https://www.securityweek.com/check-point-vpn-zero-day-exploited-in-qilin-ransomware-attacks/",
       "summary": "The authentication bypass vulnerability allows attackers to establish VPN connections without a valid password. The post Check Point VPN Zero-Day Exploited in Qilin Ransomware Attacks appeared first on SecurityWeek .",
@@ -458,47 +501,6 @@
       "published": "Mon, 08 Jun 2026 15:30:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order",
-      "link": "https://www.securityweek.com/whatsapp-catches-spyware-firm-nso-defying-no-hacking-court-order/",
-      "summary": "The Meta-owned communications app is filing a federal court contempt order against NSO. The post WhatsApp Catches Spyware Firm NSO Defying No-Hacking Court Order appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 13:23:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity M&A Roundup: 26 Deals Announced in May 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-26-deals-announced-in-may-2026/",
-      "summary": "Significant cybersecurity M&A deals announced by Akamai, Check Point, Cisco, Cyera, Dragos, WatchGuard and Zscaler. The post Cybersecurity M&A Roundup: 26 Deals Announced in May 2026 appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 12:38:45 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Everest Forms Vulnerability Exploited to Hack WordPress Sites",
-      "link": "https://www.securityweek.com/everest-forms-vulnerability-exploited-to-hack-wordpress-sites/",
-      "summary": "The flaw allows attackers to execute arbitrary code remotely and has been exploited in the wild for two months. The post Everest Forms Vulnerability Exploited to Hack WordPress Sites appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 12:16:09 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "174,000 Impacted by Lansing Community College Data Breach",
-      "link": "https://www.securityweek.com/174000-impacted-by-lansing-community-college-data-breach/",
-      "summary": "Hackers accessed personal information stored on certain Lansing Community College systems in February 2025. The post 174,000 Impacted by Lansing Community College Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 08 Jun 2026 11:27:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

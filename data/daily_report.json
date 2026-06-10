@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-09 23:14",
+  "last_updated": "2026-06-10 02:53",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -8,7 +8,7 @@
     "twitter whistleblower complaint",
     "openclaw email agent",
     "normal system usage",
-    "upgraded mythos 5",
+    "claude fable 5",
     "united states today",
     "stark industries solutions",
     "soap methods resulting",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 3
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 447
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1828
-    },
-    {
-      "keyword": "openclaw email agent",
-      "mentions": 1
-    },
-    {
-      "keyword": "normal system usage",
       "mentions": 4
     },
     {
-      "keyword": "upgraded mythos 5",
+      "keyword": "remote code execution",
+      "mentions": 448
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1829
+    },
+    {
+      "keyword": "openclaw email agent",
       "mentions": 2
+    },
+    {
+      "keyword": "normal system usage",
+      "mentions": 5
+    },
+    {
+      "keyword": "claude fable 5",
+      "mentions": 1
     },
     {
       "keyword": "united states today",
-      "mentions": 107
+      "mentions": 108
     },
     {
       "keyword": "stark industries solutions",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "soap methods resulting",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "sap commerce cloud",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic rolls out Claude Fable 5, but it's available for a limited time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/",
+      "summary": "Anthropic has begun rolling out a new model called \"Fable,\" which is based on the same underlying model as Mythos, its most powerful AI model class. [...]",
+      "published": "Tue, 09 Jun 2026 22:03:31 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/",
       "summary": "[...]",
@@ -230,17 +239,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "XBOW tests Anthropic's Mythos Preview for offensive security",
-      "link": "https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/",
-      "summary": "Anthropic's Mythos Preview was highly effective at finding vulnerability candidates, especially when analyzing source code. XBOW explores how the model performed across exploit discovery, reverse engineering, and live-site validation. [...]",
-      "published": "Tue, 09 Jun 2026 12:16:38 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

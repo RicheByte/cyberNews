@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-09 23:14 UTC  
+> **Last Updated:** 2026-06-10 02:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **openclaw email agent** • **normal system usage** • **upgraded mythos 5** • **united states today** • **stark industries solutions** • **soap methods resulting** • **sap commerce cloud** • **reduce manual effort** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners** • **pro iranian images** • **person office intrusions** • **obama white house** • **nearly three dozen** • **massive distributed denial**
+**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **openclaw email agent** • **normal system usage** • **claude fable 5** • **united states today** • **stark industries solutions** • **soap methods resulting** • **sap commerce cloud** • **reduce manual effort** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners** • **pro iranian images** • **person office intrusions** • **obama white house** • **nearly three dozen** • **massive distributed denial**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
 - [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
 - [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
 - [OpenClaw AI agent found falling for phishing attacks, spills user data](https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/)
@@ -34,7 +35,6 @@
 - [Microsoft releases Windows 10 KB5094127 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/)
 - [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
 - [Windows 11 KB5094126 & KB5093998 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/)
-- [XBOW tests Anthropic's Mythos Preview for offensive security](https://www.bleepingcomputer.com/news/security/xbow-tests-anthropics-mythos-preview-for-offensive-security/)
 
 ### Krebs on Security
 

@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-06-10 08:02",
+  "last_updated": "2026-06-10 12:51",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
-    "remote code execution",
-    "twitter whistleblower complaint",
-    "openclaw email agent",
-    "malicious cyber actors",
     "claude fable 5",
-    "dire critical rating",
+    "report looks stable",
+    "arbitrary code execution",
+    "remote code execution",
+    "fable 5 goes",
+    "critical vulnerabilities patched",
+    "twitter whistleblower complaint",
+    "206 flaws 39",
+    "powerful ai yet",
+    "malicious cyber actors",
     "gain unauthorized access",
+    "dire critical rating",
+    "ai personalization meta",
+    "six proto6 vulnerabilities",
     "united states today",
     "stark industries solutions",
+    "sprawling phishing campaign",
     "soap methods resulting",
-    "service's login page",
-    "sap commerce cloud",
-    "recommended immediate actions",
-    "qilin ransomware affiliate",
-    "proving remarkably good",
-    "project glasswing partners",
-    "pro iranian images",
-    "person office intrusions",
-    "open source projects"
+    "since april 7"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 5
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 449
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1830
-    },
-    {
-      "keyword": "openclaw email agent",
-      "mentions": 3
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 522
+      "mentions": 6
     },
     {
       "keyword": "claude fable 5",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 147
+      "keyword": "report looks stable",
+      "mentions": 1
     },
     {
-      "keyword": "gain unauthorized access",
-      "mentions": 57
+      "keyword": "arbitrary code execution",
+      "mentions": 233
     },
     {
-      "keyword": "united states today",
-      "mentions": 109
+      "keyword": "remote code execution",
+      "mentions": 450
     },
     {
-      "keyword": "stark industries solutions",
-      "mentions": 54
+      "keyword": "fable 5 goes",
+      "mentions": 1
+    },
+    {
+      "keyword": "critical vulnerabilities patched",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1831
+    },
+    {
+      "keyword": "206 flaws 39",
+      "mentions": 1
+    },
+    {
+      "keyword": "powerful ai yet",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
+      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
+      "summary": "Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leadership reads \"stable\" as \"secure.\" It usually isn't. The work slows down. The risk does not. That gap is what a The Hacker News webinar with Picus Security sets out to close. Autumn",
+      "published": "Wed, 10 Jun 2026 15:57:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
+      "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
+      "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security",
+      "published": "Wed, 10 Jun 2026 15:08:13 +0530",
+      "value_score": 78,
+      "value_signals": [
+        "RCE ×2",
+        "Privilege escalation",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
+      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
+      "summary": "On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers. Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber",
+      "published": "Wed, 10 Jun 2026 13:07:59 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
@@ -127,34 +158,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues",
-      "link": "https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html",
-      "summary": "Microsoft on Monday confirmed that it temporarily removed some GitHub repositories in response to a recent security incident that led to 73 of its open-source projects being compromised to inject an information stealer into the code. \"Our priority is to protect customers and the broader ecosystem,\" a Microsoft spokesperson told The Hacker News via email. \"We temporarily removed some",
-      "published": "Tue, 09 Jun 2026 22:04:52 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
+      "summary": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
+      "published": "Wed, 10 Jun 2026 07:33:32 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine",
-      "link": "https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html",
-      "summary": "Two Russia-aligned cyber attack campaigns have continued to exploit a security flaw in WinRAR to target Ukrainian organisations, almost a year after patches for the vulnerability were released. The activity has been attributed by Trend Micro to Earth Dahu (aka Gamaredon) and SHADOW-EARTH-066 (aka UAC-0226). It involves the exploitation of CVE-2025-8088, a path traversal flaw that allows an",
-      "published": "Tue, 09 Jun 2026 17:56:10 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/",
+      "summary": "On Tuesday, Microsoft patched two zero-day vulnerabilities that let attackers gain SYSTEM privileges on fully patched Windows systems, and a third one that grants access to BitLocker-protected drives. [...]",
+      "published": "Wed, 10 Jun 2026 05:57:33 -0400",
+      "value_score": 35,
       "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
+        "Zero-day"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models",
-      "link": "https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html",
-      "summary": "University of Toronto researchers have built and tested a proof-of-concept AI-driven computer worm that uses a locally hosted open-weight large language model to reason its way through a network, generate tailored attack strategies for each target it encounters, and replicate itself, all without human intervention and without touching a commercial AI service. The preprint, posted to arXiv on",
-      "published": "Tue, 09 Jun 2026 17:29:03 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,29 +242,6 @@
       "value_signals": [
         "Patch/update",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]",
-      "published": "Tue, 09 Jun 2026 14:35:00 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/",
-      "summary": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws and three publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "Tue, 09 Jun 2026 13:57:59 -0400",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2"
       ]
     },
     {
@@ -335,6 +333,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Invisible Battlefield: How Cyber War Is Reshaping Everyday Life",
+      "link": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
+      "summary": "Former National Cyber Director Chris Inglis warns that cyber attacks threaten hospitals, utilities and essential services.",
+      "published": "Tue, 09 Jun 2026 21:57:11 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
       "link": "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves",
       "summary": "Voluminous patch updates could soon be the norm, as artificial intelligence accelerates the speed and scale of vulnerability discovery.",
@@ -376,6 +383,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Slop Will Kill Cybersecurity Storytelling If We Let It",
+      "link": "https://www.darkreading.com/cyber-risk/ai-slop-kill-cybersecurity-storytelling-we-let-it",
+      "summary": "AI-generated content threatens credibility in cybersecurity. This \"Ask the Expert\" column explores why human oversight matters and how to maintain authentic narratives.",
+      "published": "Mon, 08 Jun 2026 22:05:49 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks",
       "summary": "The financially motivated group is combining vishing, IT impersonation, and in-person office intrusions to steal data and extort victims.",
@@ -398,22 +414,79 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Iran Signed a Ceasefire — Its Hackers Didn't",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers",
-      "summary": "An extension of the Geneva Conventions could impose restrictions on cyberwarfare under ceasefire conditions and close a major loophole in international conflict.",
-      "published": "Mon, 08 Jun 2026 19:07:48 GMT",
+      "source": "Security Week",
+      "title": "Aryon Security Raises $29 Million in Series A Funding",
+      "link": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
+      "summary": "In the post-Mythos era, the company’s platform helps organizations enforce security controls across environments. The post Aryon Security Raises $29 Million in Series A Funding appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 12:24:20 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud",
-      "link": "https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud",
-      "summary": "The latest attacks, which hit 37 PyPI wheels and 19 code packages, show a continued evolution of the persistent software supply chain threat.",
-      "published": "Mon, 08 Jun 2026 16:13:41 GMT",
+      "source": "Security Week",
+      "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
+      "link": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
+      "summary": "Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller. The post Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 12:07:58 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISO Forum Webinar Today: 2026 Mid-Year Review",
+      "link": "https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/",
+      "summary": "Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governance frameworks. The post CISO Forum Webinar Today: 2026 Mid-Year Review appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
+      "link": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
+      "summary": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit ‘RoguePlanet’ Released appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 11:44:39 +0000",
+      "value_score": 78,
+      "value_signals": [
+        "Zero-day ×2",
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "After AI Reaches Production: 12 Ways Security Teams Can Take Control",
+      "link": "https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/",
+      "summary": "Security teams need more than visibility into AI applications, they need a repeatable framework for monitoring, investigating, and defending them in production. The post After AI Reaches Production: 12 Ways Security Teams Can Take Control appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
+      "link": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
+      "summary": "The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7. The post ServiceNow Patches Vulnerability Exploited Against Some Customers appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 09:45:35 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
+      "link": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
+      "summary": "Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution. The post Critical Vulnerabilities Patched in Fortinet, Ivanti Products appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 08:50:12 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -424,81 +497,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "No Patch Planned for Exploited Arista EOS Vulnerability",
-      "link": "https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/",
-      "summary": "Organizations are advised to apply vendor-supplied mitigations or discontinue the vulnerable devices. The post No Patch Planned for Exploited Arista EOS Vulnerability appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 06:38:32 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches 200 Vulnerabilities",
-      "link": "https://www.securityweek.com/microsoft-patches-200-vulnerabilities/",
-      "summary": "Three of the vulnerabilities fixed with the latest Patch Tuesday updates were publicly disclosed before Microsoft addressed them. The post Microsoft Patches 200 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 19:04:08 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches 123 Vulnerabilities",
-      "link": "https://www.securityweek.com/adobe-patches-123-vulnerabilities/",
-      "summary": "Nearly half of the security holes, most allowing arbitrary code execution, have been fixed in Adobe’s Experience Manager product. The post Adobe Patches 123 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 18:20:54 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails",
-      "link": "https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/",
-      "summary": "The AI giant also announced that Project Glasswing partners are being given access to the upgraded Mythos 5. The post Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 17:02:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenSSL Patches High-Severity Vulnerability Found With AI",
-      "link": "https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/",
-      "summary": "A total of 18 vulnerabilities have been patched in the latest OpenSSL releases, including many that were potentially discovered by AI. The post OpenSSL Patches High-Severity Vulnerability Found With AI appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 16:47:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation",
-      "link": "https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/",
-      "summary": "Public LLM models with safeguards turned off can also build working exploits, increasing patch gap risks. The post Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 15:03:13 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications",
-      "link": "https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/",
-      "summary": "Atsign’s AI Architect applies cryptographic protections to agentic software development, aiming to prevent attackers from exploiting vulnerabilities by making application identities effectively invisible. The post New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications appeared first on SecurityWeek .",
-      "published": "Tue, 09 Jun 2026 13:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

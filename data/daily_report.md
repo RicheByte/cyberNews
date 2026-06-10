@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-10 08:02 UTC  
+> **Last Updated:** 2026-06-10 12:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **openclaw email agent** • **malicious cyber actors** • **claude fable 5** • **dire critical rating** • **gain unauthorized access** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **sap commerce cloud** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners** • **pro iranian images** • **person office intrusions** • **open source projects**
+**ecostruxure panel server** • **claude fable 5** • **report looks stable** • **arbitrary code execution** • **remote code execution** • **fable 5 goes** • **critical vulnerabilities patched** • **twitter whistleblower complaint** • **206 flaws 39** • **powerful ai yet** • **malicious cyber actors** • **gain unauthorized access** • **dire critical rating** • **ai personalization meta** • **six proto6 vulnerabilities** • **united states today** • **stark industries solutions** • **sprawling phishing campaign** • **soap methods resulting** • **since april 7**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
+- [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
+- [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
 - [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
 - [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
 - [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
 - [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)
 - [Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code](https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html)
-- [Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues](https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html)
-- [WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)
-- [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)
 
 ### BleepingComputer
 
+- [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
+- [Microsoft patches YellowKey, GreenPlasma, MiniPlasma zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-yellowkey-greenplasma-miniplasma-zero-days/)
 - [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
 - [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
 - [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
 - [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
 - [OpenClaw AI agent found falling for phishing attacks, spills user data](https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/)
 - [SAP fixes critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/)
-- [Microsoft releases Windows 10 KB5094127 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/)
-- [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [The Invisible Battlefield: How Cyber War Is Reshaping Everyday Life](https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life)
 - [Blame AI: Patch Tuesday Hits Record 206 CVEs](https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves)
 - [Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address](https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address)
 - [Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories](https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories)
 - [Russian Attackers Weaponize WinRAR Flaw Against Ukrainian Orgs](https://www.darkreading.com/vulnerabilities-threats/russian-groups-winrar-flaw-ukrainian-orgs)
+- [AI Slop Will Kill Cybersecurity Storytelling If We Let It](https://www.darkreading.com/cyber-risk/ai-slop-kill-cybersecurity-storytelling-we-let-it)
 - [Silent Ransom Group Hits US Law Firms in Escalating Extortion Attacks](https://www.darkreading.com/cyberattacks-data-breaches/silent-ransom-us-law-firms-extortion-attacks)
 - [Check Point VPN Flaw Exploited Since Early May](https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may)
-- [Iran Signed a Ceasefire — Its Hackers Didn't](https://www.darkreading.com/cyberattacks-data-breaches/iran-signed-ceasefire-hackers)
-- ['Hades' Campaign Against PyPI Puts New Spin on Shai-Hulud](https://www.darkreading.com/application-security/hades-campaign-pypi-shai-hulud)
 
 ### Security Week
 
+- [Aryon Security Raises $29 Million in Series A Funding](https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/)
+- [Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers](https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/)
+- [CISO Forum Webinar Today: 2026 Mid-Year Review](https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/)
+- [New Windows Zero-Day Exploit ‘RoguePlanet’ Released](https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/)
+- [After AI Reaches Production: 12 Ways Security Teams Can Take Control](https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/)
+- [ServiceNow Patches Vulnerability Exploited Against Some Customers](https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/)
+- [Critical Vulnerabilities Patched in Fortinet, Ivanti Products](https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/)
 - [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/)
-- [No Patch Planned for Exploited Arista EOS Vulnerability](https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/)
-- [Microsoft Patches 200 Vulnerabilities](https://www.securityweek.com/microsoft-patches-200-vulnerabilities/)
-- [Adobe Patches 123 Vulnerabilities](https://www.securityweek.com/adobe-patches-123-vulnerabilities/)
-- [Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails](https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/)
-- [OpenSSL Patches High-Severity Vulnerability Found With AI](https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/)
-- [Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation](https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/)
-- [New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications](https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/)
 
 ### Threatpost
 

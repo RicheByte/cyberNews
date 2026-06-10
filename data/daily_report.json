@@ -1,72 +1,123 @@
 {
-  "last_updated": "2026-06-10 12:51",
+  "last_updated": "2026-06-10 16:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
-    "claude fable 5",
     "report looks stable",
+    "covert network associated",
+    "claude fable 5",
     "arbitrary code execution",
-    "remote code execution",
+    "stronger identity verification",
     "fable 5 goes",
-    "critical vulnerabilities patched",
     "twitter whistleblower complaint",
-    "206 flaws 39",
     "powerful ai yet",
+    "infostealers turn millions",
+    "enables remote attackers",
+    "real life identity",
     "malicious cyber actors",
+    "customer instances servicenow",
+    "conduct data theft",
+    "5 best practices",
+    "fortisandbox fortisandbox cloud",
     "gain unauthorized access",
-    "dire critical rating",
-    "ai personalization meta",
-    "six proto6 vulnerabilities",
-    "united states today",
-    "stark industries solutions",
-    "sprawling phishing campaign",
-    "soap methods resulting",
-    "since april 7"
+    "windows pcs fail",
+    "windows 11 24h2"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 6
-    },
-    {
-      "keyword": "claude fable 5",
-      "mentions": 3
+      "mentions": 7
     },
     {
       "keyword": "report looks stable",
+      "mentions": 2
+    },
+    {
+      "keyword": "covert network associated",
       "mentions": 1
+    },
+    {
+      "keyword": "claude fable 5",
+      "mentions": 4
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 233
+      "mentions": 234
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 450
+      "keyword": "stronger identity verification",
+      "mentions": 1
     },
     {
       "keyword": "fable 5 goes",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical vulnerabilities patched",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1831
-    },
-    {
-      "keyword": "206 flaws 39",
-      "mentions": 1
+      "mentions": 1832
     },
     {
       "keyword": "powerful ai yet",
+      "mentions": 2
+    },
+    {
+      "keyword": "infostealers turn millions",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
+      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
+      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale,\" Lumen's",
+      "published": "Wed, 10 Jun 2026 21:38:42 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
+      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
+      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1). \"An",
+      "published": "Wed, 10 Jun 2026 20:40:59 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
+      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations. \"The 'POST /",
+      "published": "Wed, 10 Jun 2026 20:30:59 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "RCE",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of vulnerabilities is as follows - CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an",
+      "published": "Wed, 10 Jun 2026 20:14:29 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
@@ -111,50 +162,38 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows",
-      "link": "https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html",
-      "summary": "The anonymous security researcher going by the name Chaotic Eclipse (aka Nightmare-Eclipse) has released a proof-of-concept (PoC) exploit for yet another Microsoft Defender zero-day named RoguePlanet. \"The exploit is a race condition, so it's a hit or miss,\" the researcher, who published the exploit under a new GitHub account, \"MSNightmare\" said. \"I have managed to get a 100% success rate on",
-      "published": "Wed, 10 Jun 2026 10:52:01 +0530",
-      "value_score": 76,
+      "source": "BleepingComputer",
+      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
+      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
+      "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
+      "published": "Wed, 10 Jun 2026 11:00:00 -0400",
+      "value_score": 30,
       "value_signals": [
-        "Zero-day ×2",
-        "PoC available",
-        "Exploit wording"
+        "Botnet ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS",
-      "link": "https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html",
-      "summary": "Cybersecurity researchers have flagged half a dozen vulnerabilities in protobuf.js, a JavaScript and TypeScript implementation of Protocol Buffers (Protobuf), that, if successfully exploited, could result in remote code execution (RCE) and denial-of-service (DoS) attacks. \"In affected environments, a single malicious protobuf schema, descriptor, or crafted payload could be enough to trigger",
-      "published": "Wed, 10 Jun 2026 10:38:35 +0530",
-      "value_score": 56,
+      "source": "BleepingComputer",
+      "title": "The 5 Best Practices for Secure Identity Verification",
+      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
+      "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
+      "published": "Wed, 10 Jun 2026 10:05:15 -0400",
+      "value_score": 18,
       "value_signals": [
-        "RCE ×3",
-        "Exploit wording"
+        "Phishing"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
-      "link": "https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html",
-      "summary": "Meta on Tuesday announced that it will use information shared by other businesses to personalize users' feed and responses from its artificial intelligence (AI) chatbot, expanding its scope beyond targeted ads. \"Businesses often share information about people's activity on their sites with us to make ads more relevant,\" Meta said in a statement. \"We already use this data - like games you play",
-      "published": "Tue, 09 Jun 2026 22:33:58 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code",
-      "link": "https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html",
-      "summary": "Veeam has released security patches to address a critical flaw in its Backup & Replication software that could result in remote code execution. Tracked as CVE-2026-44963, the vulnerability carries a CVSS score of 9.4 out of a maximum of 10.0. \"A vulnerability allowing remote code execution (RCE) on the Backup Server by an authenticated domain user,\" Veeam said in a Tuesday advisory. It",
-      "published": "Tue, 09 Jun 2026 22:09:47 +0530",
-      "value_score": 76,
+      "source": "BleepingComputer",
+      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
+      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
+      "published": "Wed, 10 Jun 2026 09:44:19 -0400",
+      "value_score": 66,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×4",
-        "High severity"
+        "Zero-day",
+        "Active exploitation",
+        "Exploit wording"
       ]
     },
     {
@@ -211,37 +250,14 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "ServiceNow discloses security incident exposing customer data",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/",
-      "summary": "ServiceNow is warning about a security incident after attackers exploited an unauthenticated access flaw through a vulnerable API endpoint, allowing them to query data from customer instances. [...]",
-      "published": "Tue, 09 Jun 2026 17:34:09 -0400",
-      "value_score": 16,
+      "source": "Krebs on Security",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
+      "value_score": 46,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenClaw AI agent found falling for phishing attacks, spills user data",
-      "link": "https://www.bleepingcomputer.com/news/security/openclaw-ai-agent-found-falling-for-phishing-attacks-spills-user-data/",
-      "summary": "Phishing simulation on an OpenClaw email agent with various configuration profiles showed that it was susceptible to tactics commonly used to compromise human users. [...]",
-      "published": "Tue, 09 Jun 2026 17:20:20 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SAP fixes critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "summary": "SAP has released fixes for 15 vulnerabilities as part of its June 2026 Security Patch package, including four critical-severity flaws affecting SAP NetWeaver and SAP Commerce Cloud. [...]",
-      "published": "Tue, 09 Jun 2026 15:36:27 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update",
-        "High severity ×2"
+        "Ransomware ×3"
       ]
     },
     {
@@ -321,14 +337,15 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Canvas Breach Disrupts Schools & Colleges Nationwide",
-      "link": "https://krebsonsecurity.com/2026/05/canvas-breach-disrupts-schools-colleges-nationwide/",
-      "summary": "An ongoing data extortion attack targeting the widely-used education technology platform Canvas disrupted classes and coursework at school districts and universities across the United States today, after a cybercrime group defaced the service's login page with a ransom demand that threatened to leak data from 275 million students and faculty across nearly 9,000 educational institutions.",
-      "published": "Fri, 08 May 2026 02:58:46 +0000",
-      "value_score": 34,
+      "source": "Dark Reading",
+      "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
+      "summary": "The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
+      "published": "Wed, 10 Jun 2026 16:31:02 GMT",
+      "value_score": 26,
       "value_signals": [
-        "Breach/leak ×2"
+        "PoC available",
+        "Exploit wording"
       ]
     },
     {
@@ -355,10 +372,12 @@
       "source": "Dark Reading",
       "title": "Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address",
       "link": "https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address",
-      "summary": "\"Ghost-Sender\" uses Exchange Online or on-premises in hybrid mode with a third-party mail server or spam filter to achieve this level of spoofing.",
+      "summary": "“Ghost-Sender\" is the result of a widespread misconfiguration, according to researchers, and evidence indicates it's being actively abused in the wild.",
       "published": "Tue, 09 Jun 2026 20:20:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "value_score": 35,
+      "value_signals": [
+        "Active exploitation"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -400,18 +419,25 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Check Point VPN Flaw Exploited Since Early May",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/check-point-vpn-flaw-exploited-early-may",
-      "summary": "A newly discovered, critical zero-day vulnerability is under attack; a Qilin ransomware affiliate has been blamed for at least one incident.",
-      "published": "Mon, 08 Jun 2026 20:28:35 GMT",
-      "value_score": 67,
+      "source": "Security Week",
+      "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
+      "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
+      "summary": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations. The post Infostealers Turn Millions of Devices Into Credential Theft Machines appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 14:00:00 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Zero-day",
         "Ransomware",
-        "High severity",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cyera Raises $600 Million at $12 Billion Valuation",
+      "link": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
+      "summary": "Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion. The post Cyera Raises $600 Million at $12 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Wed, 10 Jun 2026 13:48:36 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -474,29 +500,6 @@
       "value_signals": [
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerabilities Patched in Fortinet, Ivanti Products",
-      "link": "https://www.securityweek.com/critical-vulnerabilities-patched-in-fortinet-ivanti-products/",
-      "summary": "Two OS command injection flaws can be exploited remotely, without authentication, for arbitrary code execution. The post Critical Vulnerabilities Patched in Fortinet, Ivanti Products appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 08:50:12 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/",
-      "summary": "In addition, Rockwell Automation announced some enhancements to its SecureOT cybersecurity solution for OT. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 07:38:41 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×4"
       ]
     },
     {

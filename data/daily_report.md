@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-10 02:53 UTC  
+> **Last Updated:** 2026-06-10 08:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **openclaw email agent** • **normal system usage** • **claude fable 5** • **united states today** • **stark industries solutions** • **soap methods resulting** • **sap commerce cloud** • **reduce manual effort** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners** • **pro iranian images** • **person office intrusions** • **obama white house** • **nearly three dozen** • **massive distributed denial**
+**ecostruxure panel server** • **remote code execution** • **twitter whistleblower complaint** • **openclaw email agent** • **malicious cyber actors** • **claude fable 5** • **dire critical rating** • **gain unauthorized access** • **united states today** • **stark industries solutions** • **soap methods resulting** • **service's login page** • **sap commerce cloud** • **recommended immediate actions** • **qilin ransomware affiliate** • **proving remarkably good** • **project glasswing partners** • **pro iranian images** • **person office intrusions** • **open source projects**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
+- [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html)
+- [Six Proto6 Vulnerabilities in protobuf.js Expose Node.js Apps to RCE and DoS](https://thehackernews.com/2026/06/six-proto6-vulnerabilities-in.html)
 - [Meta to Use Off-Site Business Data for Feed and AI Personalization](https://thehackernews.com/2026/06/meta-to-use-off-site-business-data-for.html)
 - [Veeam Backup & Replication RCE Flaw Lets Domain Users Run Remote Code](https://thehackernews.com/2026/06/veeam-backup-replication-rce-flaw-lets.html)
 - [Microsoft Restores Some GitHub Repos, Keeps Others Offline as Miasma Probe Continues](https://thehackernews.com/2026/06/microsoft-restores-some-github-repos.html)
 - [WinRAR Flaw Exploited by Russia-Aligned Groups to Deploy Stealers in Ukraine](https://thehackernews.com/2026/06/winrar-flaw-exploited-by-russia-aligned.html)
 - [Researchers Build Self-Replicating AI Worm That Operates Entirely on Local, Open-Weight Models](https://thehackernews.com/2026/06/researchers-build-self-replicating-ai.html)
-- [Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now](https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html)
-- [The Hidden Security Risk in Modern Networks: The Work Between Tools](https://thehackernews.com/2026/06/the-hidden-security-risk-in-modern.html)
-- [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html)
 
 ### BleepingComputer
 
+- [Ivanti: Max severity Sentry flaw allows code execution as root](https://www.bleepingcomputer.com/news/security/new-max-severity-ivanti-sentry-flaw-allows-code-execution-as-root/)
 - [Anthropic rolls out Claude Fable 5, but it's available for a limited time](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-claude-fable-5-but-its-available-for-a-limited-time/)
 - [Microsoft Defender 'RoguePlanet' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/microsoft/microsoft-defender-rogueplanet-zero-day-grants-system-privileges/)
 - [ServiceNow discloses security incident exposing customer data](https://www.bleepingcomputer.com/news/security/servicenow-discloses-security-incident-exposing-customer-data/)
@@ -34,7 +35,6 @@
 - [SAP fixes critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-fixes-critical-flaws-in-netweaver-and-commerce-cloud/)
 - [Microsoft releases Windows 10 KB5094127 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/)
 - [Microsoft June 2026 Patch Tuesday fixes 3 zero-day, 200 flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-3-zero-day-200-flaws/)
-- [Windows 11 KB5094126 & KB5093998 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact/)
+- [No Patch Planned for Exploited Arista EOS Vulnerability](https://www.securityweek.com/no-patch-planned-for-exploited-arista-eos-vulnerability/)
 - [Microsoft Patches 200 Vulnerabilities](https://www.securityweek.com/microsoft-patches-200-vulnerabilities/)
 - [Adobe Patches 123 Vulnerabilities](https://www.securityweek.com/adobe-patches-123-vulnerabilities/)
 - [Anthropic Launches Claude Fable 5: Mythos-Class AI With Cybersecurity Guardrails](https://www.securityweek.com/anthropic-launches-claude-fable-5-mythos-class-ai-with-cybersecurity-guardrails/)
 - [OpenSSL Patches High-Severity Vulnerability Found With AI](https://www.securityweek.com/openssl-patches-high-severity-vulnerability-found-with-ai/)
 - [Claude Mythos Turns N-Days Into N-Hours With Rapid Exploit Creation](https://www.securityweek.com/claude-mythos-turns-n-days-into-n-hours-with-rapid-exploit-creation/)
 - [New Platform Uses Cryptographic Invisibility to Protect AI-Built Applications](https://www.securityweek.com/new-platform-uses-cryptographic-invisibility-to-protect-ai-built-applications/)
-- [SAP Patches Critical NetWeaver, Commerce Vulnerabilities](https://www.securityweek.com/sap-patches-critical-netweaver-commerce-vulnerabilities/)
-- [Over 100 NPM, PyPI Packages Hit in New Shai-Hulud Supply Chain Attacks](https://www.securityweek.com/over-100-npm-pypi-packages-hit-in-new-shai-hulud-supply-chain-attacks/)
 
 ### Threatpost
 

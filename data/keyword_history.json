@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 525,
+      "count": 526,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -298,7 +298,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1833,
+      "count": 1834,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -511,7 +511,7 @@
       ]
     },
     "real life identity": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1759,7 +1759,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 420,
+      "count": 421,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3028,7 +3028,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 235,
+      "count": 236,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -8878,7 +8878,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -17449,13 +17449,14 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-25",
         "2026-05-26",
         "2026-05-28",
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-06-10"
       ]
     },
     "service platform phaas": {
@@ -17723,7 +17724,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18848,7 +18849,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-09",
         "2026-06-10"
@@ -18952,13 +18953,13 @@
       ]
     },
     "report looks stable": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-10"
       ]
     },
     "fable 5 goes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-10"
       ]
@@ -18976,7 +18977,7 @@
       ]
     },
     "powerful ai yet": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10"
       ]
@@ -19000,19 +19001,19 @@
       ]
     },
     "covert network associated": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10"
       ]
     },
     "stronger identity verification": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10"
       ]
     },
     "infostealers turn millions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10"
       ]
@@ -19036,24 +19037,30 @@
       ]
     },
     "5 best practices": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10"
       ]
     },
     "fortisandbox fortisandbox cloud": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10"
       ]
     },
     "post mythos era": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-10"
       ]
     },
     "credential theft machines": {
+      "count": 2,
+      "dates": [
+        "2026-06-10"
+      ]
+    },
+    "ai threat era": {
       "count": 1,
       "dates": [
         "2026-06-10"
@@ -19061,17 +19068,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-27 23:12",
-      "articles": 56,
-      "top_keywords": [
-        "romanian hacker sentenced",
-        "aggravated identity theft",
-        "agentic ai strategy",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-05-28 02:41",
       "articles": 56,
@@ -20159,6 +20155,17 @@
         "covert network associated",
         "arbitrary code execution",
         "stronger identity verification"
+      ]
+    },
+    {
+      "timestamp": "2026-06-10 23:22",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "report looks stable",
+        "covert network associated",
+        "arbitrary code execution",
+        "ai threat era"
       ]
     }
   ]

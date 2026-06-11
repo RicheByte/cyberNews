@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-10 23:22",
+  "last_updated": "2026-06-11 03:26",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "report looks stable",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "covert network associated",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 236
+      "mentions": 237
     },
     {
       "keyword": "ai threat era",
-      "mentions": 1
-    },
-    {
-      "keyword": "stronger identity verification",
-      "mentions": 3
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 526
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1834
-    },
-    {
-      "keyword": "post mythos era",
       "mentions": 2
     },
     {
-      "keyword": "infostealers turn millions",
+      "keyword": "stronger identity verification",
+      "mentions": 4
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 527
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1835
+    },
+    {
+      "keyword": "post mythos era",
       "mentions": 3
+    },
+    {
+      "keyword": "infostealers turn millions",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -333,6 +333,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
+      "summary": "North Korea's gross domestic product (GDP) has grown, in part because of the cybercrime gains of groups linked to the nation, which target business and financial firms.",
+      "published": "Thu, 11 Jun 2026 00:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
       "link": "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era",
       "summary": "The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred.",
@@ -403,15 +412,6 @@
       "value_signals": [
         "Active exploitation"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories",
-      "link": "https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories",
-      "summary": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasmi attack on Microsoft last month.",
-      "published": "Tue, 09 Jun 2026 19:33:45 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

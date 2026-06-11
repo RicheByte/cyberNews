@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-10 23:22 UTC  
+> **Last Updated:** 2026-06-11 03:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Chinese, N. Korean Threat Groups Build on Asia-Pacific Success](https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success)
 - [CISA Rewrites Federal Patching Requirements for AI Threat Era](https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era)
 - [Bug Bounty Research Triggers ServiceNow Security Alert](https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert)
 - [AI Risk Worries Insurers and Businesses Alike](https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike)
@@ -56,7 +57,6 @@
 - [The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life](https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life)
 - [Blame AI: Patch Tuesday Hits Record 206 CVEs](https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves)
 - [Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address](https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address)
-- [Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories](https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories)
 
 ### Security Week
 

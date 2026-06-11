@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 527,
+      "count": 528,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1836,
+      "count": 1837,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -513,7 +513,7 @@
       ]
     },
     "real life identity": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3032,7 +3032,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3643,7 +3643,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3668,7 +3668,8 @@
         "2026-03-06",
         "2026-03-07",
         "2026-03-08",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-06-11"
       ]
     },
     "bugs fixed today": {
@@ -4438,10 +4439,11 @@
       ]
     },
     "command injection vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-20",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-06-11"
       ]
     },
     "eu plans phase": {
@@ -5526,12 +5528,13 @@
       ]
     },
     "massive distributed denial": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-01-29",
         "2026-01-30",
         "2026-06-09",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-06-11"
       ]
     },
     "december 2025 peaking": {
@@ -7437,7 +7440,7 @@
       ]
     },
     "supply chain attacks": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-02-16",
         "2026-04-30",
@@ -17456,7 +17459,7 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -18858,7 +18861,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19060,7 +19063,7 @@
       ]
     },
     "fortisandbox fortisandbox cloud": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-10",
         "2026-06-11"
@@ -19081,14 +19084,14 @@
       ]
     },
     "ai threat era": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-10",
         "2026-06-11"
       ]
     },
     "ivanti sentry enabling": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-11"
       ]
@@ -19098,20 +19101,51 @@
       "dates": [
         "2026-06-11"
       ]
+    },
+    "13 websites purported": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "ai didn't make": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "post coupang hit": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "2025 krebsonsecurity story": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "multiple security engines": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "separate real threats": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "windows defender bug": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-28 11:33",
-      "articles": 56,
-      "top_keywords": [
-        "released software binaries",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "romanian hacker sentenced",
-        "information stealing capabilities"
-      ]
-    },
     {
       "timestamp": "2026-05-28 15:38",
       "articles": 56,
@@ -20199,6 +20233,17 @@
         "report looks stable",
         "covert network associated",
         "stronger identity verification"
+      ]
+    },
+    {
+      "timestamp": "2026-06-11 13:54",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "supply chain attacks",
+        "13 websites purported",
+        "twitter whistleblower complaint",
+        "massive distributed denial"
       ]
     }
   ]

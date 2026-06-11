@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-11 08:39 UTC  
+> **Last Updated:** 2026-06-11 13:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **ai threat era** • **report looks stable** • **covert network associated** • **stronger identity verification** • **post mythos era** • **twitter whistleblower complaint** • **ivanti sentry enabling** • **infostealers turn millions** • **credential theft machines** • **450 000 students** • **real life identity** • **fable 5 goes** • **aiding cyberattacks authorities** • **5 best practices** • **powerful ai yet** • **fortisandbox fortisandbox cloud** • **supply chain attacks** • **stark industries solutions** • **sprawling phishing campaign**
+**ecostruxure panel server** • **supply chain attacks** • **13 websites purported** • **twitter whistleblower complaint** • **massive distributed denial** • **malicious cyber actors** • **ivanti sentry enabling** • **dire critical rating** • **ai threat era** • **ai didn't make** • **post coupang hit** • **aiding cyberattacks authorities** • **2025 krebsonsecurity story** • **multiple security engines** • **separate real threats** • **real life identity** • **fortisandbox fortisandbox cloud** • **arbitrary code execution** • **command injection vulnerability** • **windows defender bug**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
+- [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
+- [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
+- [OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack](https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html)
 - [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 - [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 - [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
 - [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
-- [CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation](https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html)
-- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
-- [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
-- [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
 
 ### BleepingComputer
 
+- [Coupang hit with record $409 million data breach fine in Korea](https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/)
+- [CISA tells govt agencies to patch critical exploited flaws in 3 days](https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/)
+- [Microsoft fixes BitLocker recovery bug on Windows Server 2025](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/)
 - [Nottingham University data breach affects over 450,000 students](https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/)
 - [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
 - [Path traversal flaw in AI dev platform Langflow exploited in attacks](https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/)
 - [The ‘Miasma’ worm source code briefly leaked on GitHub](https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/)
 - [GitHub announces npm security changes to tackle supply-chain attacks](https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/)
-- [Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/)
-- [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
-- [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
-- [University of Nottingham Confirms Breach After Hackers Leak Data](https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/)
-- [Microsoft Patches Exploited Exchange Server Vulnerability](https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/)
-- [Infostealers Turn Millions of Devices Into Credential Theft Machines](https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/)
-- [Cyera Raises $600 Million at $12 Billion Valuation](https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/)
-- [Aryon Security Raises $29 Million in Series A Funding](https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/)
-- [Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers](https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/)
-- [CISO Forum Webinar Today: 2026 Mid-Year Review](https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/)
-- [New Windows Zero-Day Exploit ‘RoguePlanet’ Released](https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/)
+- [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
+- [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
+- [OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month](https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/)
+- [Hackers Exploit Langflow Vulnerability for Remote Code Execution](https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/)
+- [Siemens Says Desigo CC Files Flagged as Malware by Security Engines](https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/)
+- [FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers](https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/)
+- [Splunk, Palo Alto Networks Patch Severe Vulnerabilities](https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/)
+- [‘GreatXML’ Zero-Day Exploit Bypasses BitLocker](https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/)
 
 ### Threatpost
 

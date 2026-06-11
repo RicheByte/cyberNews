@@ -1,72 +1,114 @@
 {
-  "last_updated": "2026-06-11 08:39",
+  "last_updated": "2026-06-11 13:54",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
-    "ai threat era",
-    "report looks stable",
-    "covert network associated",
-    "stronger identity verification",
-    "post mythos era",
-    "twitter whistleblower complaint",
-    "ivanti sentry enabling",
-    "infostealers turn millions",
-    "credential theft machines",
-    "450 000 students",
-    "real life identity",
-    "fable 5 goes",
-    "aiding cyberattacks authorities",
-    "5 best practices",
-    "powerful ai yet",
-    "fortisandbox fortisandbox cloud",
     "supply chain attacks",
-    "stark industries solutions",
-    "sprawling phishing campaign"
+    "13 websites purported",
+    "twitter whistleblower complaint",
+    "massive distributed denial",
+    "malicious cyber actors",
+    "ivanti sentry enabling",
+    "dire critical rating",
+    "ai threat era",
+    "ai didn't make",
+    "post coupang hit",
+    "aiding cyberattacks authorities",
+    "2025 krebsonsecurity story",
+    "multiple security engines",
+    "separate real threats",
+    "real life identity",
+    "fortisandbox fortisandbox cloud",
+    "arbitrary code execution",
+    "command injection vulnerability",
+    "windows defender bug"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "ai threat era",
-      "mentions": 3
+      "keyword": "supply chain attacks",
+      "mentions": 62
     },
     {
-      "keyword": "report looks stable",
-      "mentions": 6
-    },
-    {
-      "keyword": "covert network associated",
-      "mentions": 5
-    },
-    {
-      "keyword": "stronger identity verification",
-      "mentions": 5
-    },
-    {
-      "keyword": "post mythos era",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1836
-    },
-    {
-      "keyword": "ivanti sentry enabling",
+      "keyword": "13 websites purported",
       "mentions": 1
     },
     {
-      "keyword": "infostealers turn millions",
-      "mentions": 5
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1837
     },
     {
-      "keyword": "credential theft machines",
+      "keyword": "massive distributed denial",
+      "mentions": 12
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 528
+    },
+    {
+      "keyword": "ivanti sentry enabling",
+      "mentions": 2
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 149
+    },
+    {
+      "keyword": "ai threat era",
       "mentions": 4
+    },
+    {
+      "keyword": "ai didn't make",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
+      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
+      "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories. The reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the",
+      "published": "Thu, 11 Jun 2026 18:56:13 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
+      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials. The bigger problem is how polished this all looks now. Mule networks run like SaaS.",
+      "published": "Thu, 11 Jun 2026 18:50:41 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
+      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
+      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work. Today, that buffer is gone. AI didn't make your team slower. It changed the other side of the",
+      "published": "Thu, 11 Jun 2026 17:00:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
+      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
+      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack",
+      "published": "Thu, 11 Jun 2026 15:15:58 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
@@ -115,48 +157,40 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-cisco-chrome-and-arista-flaws.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The list of vulnerabilities is as follows - CVE-2026-20245 (CVSS score: 7.8) - An improper encoding or escaping of output vulnerability in Cisco Catalyst SD-WAN Manager that could allow an",
-      "published": "Wed, 10 Jun 2026 20:14:29 +0530",
-      "value_score": 74,
+      "source": "BleepingComputer",
+      "title": "Coupang hit with record $409 million data breach fine in Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+      "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]",
+      "published": "Thu, 11 Jun 2026 08:52:41 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×5",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
+      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar",
-      "link": "https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html",
-      "summary": "Your pentest report looks clean. That might be the problem. Run automated pentesting long enough, and the new findings start to dry up. By the third or fourth run, fewer issues appear. The report looks stable. Leadership reads \"stable\" as \"secure.\" It usually isn't. The work slows down. The risk does not. That gap is what a The Hacker News webinar with Picus Security sets out to close. Autumn",
-      "published": "Wed, 10 Jun 2026 15:57:49 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs",
-      "link": "https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html",
-      "summary": "Microsoft on Tuesday released fixes for a record 206 security vulnerabilities impacting its software portfolio, including three flaws that have been publicly disclosed at the time of release. Of the 206 flaws, 39 are rated Critical, and 167 are rated Important in severity. This includes 63 privilege escalation, 56 remote code execution, 30 information disclosure, 27 spoofing, 20 security",
-      "published": "Wed, 10 Jun 2026 15:08:13 +0530",
-      "value_score": 78,
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "value_score": 18,
       "value_signals": [
-        "RCE ×2",
-        "Privilege escalation",
-        "High severity ×2"
+        "Patch/update"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
-      "summary": "On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers. Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber",
-      "published": "Wed, 10 Jun 2026 13:07:59 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -209,37 +243,6 @@
       "published": "Wed, 10 Jun 2026 15:41:44 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "summary": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
-      "published": "Wed, 10 Jun 2026 14:31:57 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "summary": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
-      "published": "Wed, 10 Jun 2026 11:00:00 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The 5 Best Practices for Secure Identity Verification",
-      "link": "https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/",
-      "summary": "Attackers are increasingly bypassing weak authentication through phishing, MFA fatigue, and service desk social engineering. Specops Software breaks down five best practices for stronger identity verification and access security. [...]",
-      "published": "Wed, 10 Jun 2026 10:05:15 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -412,88 +415,87 @@
     },
     {
       "source": "Security Week",
-      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-      "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
-      "summary": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information. The post University of Nottingham Confirms Breach After Hackers Leak Data appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 08:30:02 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
-      "link": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/",
-      "summary": "The company warned about zero-day attacks exploiting the Exchange Server vulnerability CVE-2026-42897 on May 14. The post Microsoft Patches Exploited Exchange Server Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 06:52:21 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
-      "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
-      "summary": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations. The post Infostealers Turn Millions of Devices Into Credential Theft Machines appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 14:00:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Ransomware",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyera Raises $600 Million at $12 Billion Valuation",
-      "link": "https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/",
-      "summary": "Cyera is positioned as one of the most valuable privately held cybersecurity firms in the world with total funding topping $2 billion. The post Cyera Raises $600 Million at $12 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 13:48:36 +0000",
+      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
+      "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
+      "summary": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise. The post Alert Fatigue Is Becoming a Security Threat of Its Own appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 13:45:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Aryon Security Raises $29 Million in Series A Funding",
-      "link": "https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/",
-      "summary": "In the post-Mythos era, the company’s platform helps organizations enforce security controls across environments. The post Aryon Security Raises $29 Million in Series A Funding appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 12:24:20 +0000",
+      "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
+      "link": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
+      "summary": "The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries. The post CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 13:01:14 +0000",
+      "value_score": 58,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
+      "link": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
+      "summary": "Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques. The post OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers",
-      "link": "https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/",
-      "summary": "Claroty researchers have analyzed the security of Vertiv UPS network cards and the Trane Tracer SC+ HVAC controller. The post Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 12:07:58 +0000",
+      "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
+      "link": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
+      "summary": "Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system. The post Hackers Exploit Langflow Vulnerability for Remote Code Execution appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 11:52:59 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
+      "link": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
+      "summary": "A PowerShell script included in patch files appears to be triggering false positives by multiple security engines. The post Siemens Says Desigo CC Files Flagged as Malware by Security Engines appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 11:40:27 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
+      "link": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
+      "summary": "The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of security clearances The post FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 11:06:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
+      "link": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
+      "summary": "The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources. The post Splunk, Palo Alto Networks Patch Severe Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 10:47:48 +0000",
       "value_score": 26,
       "value_signals": [
-        "High severity ×2"
+        "Patch/update ×2"
       ]
     },
     {
       "source": "Security Week",
-      "title": "CISO Forum Webinar Today: 2026 Mid-Year Review",
-      "link": "https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/",
-      "summary": "Learn more about protecting against unmonitored use of generative AI (Shadow AI) in business units and building and enforcing AI governance frameworks. The post CISO Forum Webinar Today: 2026 Mid-Year Review appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Windows Zero-Day Exploit ‘RoguePlanet’ Released",
-      "link": "https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/",
-      "summary": "Exploiting a race condition in Microsoft Defender, the exploit leads to local privilege escalation to SYSTEM. The post New Windows Zero-Day Exploit ‘RoguePlanet’ Released appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 11:44:39 +0000",
-      "value_score": 78,
+      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
+      "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
+      "summary": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode. The post ‘GreatXML’ Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 09:56:12 +0000",
+      "value_score": 76,
       "value_signals": [
         "Zero-day ×2",
-        "Privilege escalation",
+        "PoC available",
         "Exploit wording"
       ]
     },

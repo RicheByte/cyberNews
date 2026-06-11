@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-06-11 17:33",
+  "last_updated": "2026-06-11 20:13",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
     "13 websites purported",
     "twitter whistleblower complaint",
-    "malicious cyber actors",
-    "cyberattacks influence operations",
-    "aiding cyberattacks authorities",
-    "ai threat era",
-    "ai didn't make",
+    "massive distributed denial",
+    "dire critical rating",
+    "2025 krebsonsecurity story",
+    "multiple security engines",
     "separate real threats",
     "real life identity",
-    "multiple security engines",
+    "ai threat era",
+    "ai didn't make",
+    "phishing attacks rather",
+    "remote unauthenticated attacker",
     "triggering false positives",
     "transport construction corporation",
     "targeted domestic entities",
     "straightforward enough triage",
     "stark industries solutions",
     "sprawling phishing campaign",
-    "resetting account passwords",
-    "recruit us workers",
-    "proving remarkably good"
+    "slow response workflows"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "13 websites purported",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1838
+      "mentions": 1839
     },
     {
-      "keyword": "malicious cyber actors",
-      "mentions": 529
+      "keyword": "massive distributed denial",
+      "mentions": 13
     },
     {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 17
+      "keyword": "dire critical rating",
+      "mentions": 150
     },
     {
-      "keyword": "aiding cyberattacks authorities",
-      "mentions": 21
-    },
-    {
-      "keyword": "ai threat era",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai didn't make",
+      "keyword": "2025 krebsonsecurity story",
       "mentions": 2
+    },
+    {
+      "keyword": "multiple security engines",
+      "mentions": 3
     },
     {
       "keyword": "separate real threats",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "real life identity",
-      "mentions": 127
+      "mentions": 128
+    },
+    {
+      "keyword": "ai threat era",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
+      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
+      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
+      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
+      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
+      "published": "Thu, 11 Jun 2026 23:13:52 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
@@ -130,26 +150,97 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-      "summary": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale,\" Lumen's",
-      "published": "Wed, 10 Jun 2026 21:38:42 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
+      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
+      "published": "Thu, 11 Jun 2026 15:39:53 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Botnet ×2"
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "RCE",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-      "summary": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1). \"An",
-      "published": "Wed, 10 Jun 2026 20:40:59 +0530",
-      "value_score": 44,
+      "source": "BleepingComputer",
+      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
+      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
+      "summary": "Law enforcement has dismantled the “AudiA6” cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
+      "published": "Thu, 11 Jun 2026 11:55:41 -0400",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
+      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
+      "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
+      "published": "Thu, 11 Jun 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coupang hit with record $409 million data breach fine in Korea",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
+      "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]",
+      "published": "Thu, 11 Jun 2026 08:52:41 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
+      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
+      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
+      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
       ]
     },
     {
@@ -241,6 +332,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
+      "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiplying them.",
+      "published": "Fri, 12 Jun 2026 00:58:07 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
+      "summary": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
+      "published": "Thu, 11 Jun 2026 18:43:57 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Segmentation Works for OT If Operators Are Paying Attention",
       "link": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
       "summary": "Operational technology security remains as difficult as ever, with even the best practice recommendation falling short.",
@@ -297,26 +410,6 @@
       "value_signals": [
         "PoC available",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life",
-      "link": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
-      "summary": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services.",
-      "published": "Tue, 09 Jun 2026 21:57:11 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves",
-      "summary": "Voluminous patch updates could soon be the norm, as artificial intelligence accelerates the speed and scale of vulnerability discovery.",
-      "published": "Tue, 09 Jun 2026 21:42:57 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -526,6 +619,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
+      "published": "Thu, 11 Jun 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber ",
@@ -571,21 +678,6 @@
       "value_score": 35,
       "value_signals": [
         "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/08/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-42271 BerriAI LiteLLM Command Injection Vulnerability CVE-2026-50751 Check Point Security Gateway Improper Authentication Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Kn",
-      "published": "Mon, 08 Jun 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     }
   ],

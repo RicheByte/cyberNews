@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-11 17:33 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-06-11 20:13 UTC |
+| 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `13 websites purported` • `twitter whistleblower complaint` • `malicious cyber actors` • `cyberattacks influence operations` • `aiding cyberattacks authorities` • `ai threat era` • `ai didn't make` • `separate real threats` • `real life identity`
+`ecostruxure panel server` • `13 websites purported` • `twitter whistleblower complaint` • `massive distributed denial` • `dire critical rating` • `2025 krebsonsecurity story` • `multiple security engines` • `separate real threats` • `real life identity` • `ai threat era`
 
 ## 📄 Reports
 

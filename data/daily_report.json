@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-06-11 20:13",
+  "last_updated": "2026-06-11 23:17",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
     "13 websites purported",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "memory execution techniques",
     "massive distributed denial",
     "dire critical rating",
-    "2025 krebsonsecurity story",
+    "phishing attacks rather",
     "multiple security engines",
+    "2025 krebsonsecurity story",
     "separate real threats",
     "real life identity",
     "ai threat era",
     "ai didn't make",
-    "phishing attacks rather",
     "remote unauthenticated attacker",
     "triggering false positives",
     "transport construction corporation",
     "targeted domestic entities",
     "straightforward enough triage",
-    "stark industries solutions",
-    "sprawling phishing campaign",
-    "slow response workflows"
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "13 websites purported",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1839
+      "mentions": 1840
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 426
+    },
+    {
+      "keyword": "memory execution techniques",
+      "mentions": 1
     },
     {
       "keyword": "massive distributed denial",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 150
+      "mentions": 151
     },
     {
-      "keyword": "2025 krebsonsecurity story",
+      "keyword": "phishing attacks rather",
       "mentions": 2
     },
     {
       "keyword": "multiple security engines",
+      "mentions": 4
+    },
+    {
+      "keyword": "2025 krebsonsecurity story",
       "mentions": 3
-    },
-    {
-      "keyword": "separate real threats",
-      "mentions": 3
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 128
-    },
-    {
-      "keyword": "ai threat era",
-      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
+      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
+      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a",
+      "published": "Fri, 12 Jun 2026 01:59:23 +0530",
+      "value_score": 71,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
@@ -141,13 +155,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code using npm lifecycle hooks. \"Npm install\" is used to download and install all the necessary",
-      "published": "Thu, 11 Jun 2026 11:53:03 +0530",
+      "source": "BleepingComputer",
+      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
+      "summary": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
+      "published": "Thu, 11 Jun 2026 19:14:16 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Maine breach portal abused to publish fake data breach disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
+      "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
+      "published": "Thu, 11 Jun 2026 18:44:58 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×4"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -219,28 +244,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -334,7 +337,7 @@
       "source": "Dark Reading",
       "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
       "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiplying them.",
+      "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
       "published": "Fri, 12 Jun 2026 00:58:07 GMT",
       "value_score": 26,
       "value_signals": [

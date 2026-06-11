@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-11 03:26",
+  "last_updated": "2026-06-11 08:39",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
+    "ai threat era",
     "report looks stable",
     "covert network associated",
-    "arbitrary code execution",
-    "ai threat era",
     "stronger identity verification",
-    "malicious cyber actors",
-    "twitter whistleblower complaint",
     "post mythos era",
+    "twitter whistleblower complaint",
+    "ivanti sentry enabling",
     "infostealers turn millions",
     "credential theft machines",
+    "450 000 students",
     "real life identity",
     "fable 5 goes",
     "aiding cyberattacks authorities",
     "5 best practices",
-    "fortisandbox fortisandbox cloud",
-    "gain unauthorized access",
     "powerful ai yet",
+    "fortisandbox fortisandbox cloud",
+    "supply chain attacks",
     "stark industries solutions",
     "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 10
-    },
-    {
-      "keyword": "report looks stable",
-      "mentions": 5
-    },
-    {
-      "keyword": "covert network associated",
-      "mentions": 4
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 237
+      "mentions": 11
     },
     {
       "keyword": "ai threat era",
-      "mentions": 2
-    },
-    {
-      "keyword": "stronger identity verification",
-      "mentions": 4
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 527
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1835
-    },
-    {
-      "keyword": "post mythos era",
       "mentions": 3
     },
     {
+      "keyword": "report looks stable",
+      "mentions": 6
+    },
+    {
+      "keyword": "covert network associated",
+      "mentions": 5
+    },
+    {
+      "keyword": "stronger identity verification",
+      "mentions": 5
+    },
+    {
+      "keyword": "post mythos era",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1836
+    },
+    {
+      "keyword": "ivanti sentry enabling",
+      "mentions": 1
+    },
+    {
       "keyword": "infostealers turn millions",
+      "mentions": 5
+    },
+    {
+      "keyword": "credential theft machines",
       "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
+      "summary": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code using npm lifecycle hooks. \"Npm install\" is used to download and install all the necessary",
+      "published": "Thu, 11 Jun 2026 11:53:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
@@ -150,14 +159,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances",
-      "link": "https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html",
-      "summary": "ServiceNow has warned about a security incident in which unknown threat actors exploited a flaw to obtain deeper unauthorized access to susceptible instances. \"On June 5, 2026, ServiceNow applied a security update to hosted customer instances,\" the company revealed in an advisory that requires customer access. \"The update concerned a security issue that could allow an unauthenticated user, in",
-      "published": "Wed, 10 Jun 2026 12:32:08 +0530",
-      "value_score": 32,
+      "source": "BleepingComputer",
+      "title": "Nottingham University data breach affects over 450,000 students",
+      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
+      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
+      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Patch/update ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
+      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
+      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
+      "value_score": 16,
+      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -221,28 +240,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft patches Exchange Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/",
-      "summary": "Microsoft has patched an actively exploited Exchange Server vulnerability that allows threat actors to execute arbitrary JavaScript code in cross-site scripting (XSS) attacks targeting Outlook Web Access users. [...]",
-      "published": "Wed, 10 Jun 2026 09:44:19 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: Some Windows PCs fail to install latest monthly updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/",
-      "summary": "Microsoft warned customers on Tuesday that they may have issues installing the latest monthly updates on some Windows devices that were upgraded to Windows 11 24H2 or 25H2. [...]",
-      "published": "Wed, 10 Jun 2026 07:33:32 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -415,6 +412,30 @@
     },
     {
       "source": "Security Week",
+      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
+      "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
+      "summary": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information. The post University of Nottingham Confirms Breach After Hackers Leak Data appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 08:30:02 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×4"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft Patches Exploited Exchange Server Vulnerability",
+      "link": "https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/",
+      "summary": "The company warned about zero-day attacks exploiting the Exchange Server vulnerability CVE-2026-42897 on May 14. The post Microsoft Patches Exploited Exchange Server Vulnerability appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 06:52:21 +0000",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Infostealers Turn Millions of Devices Into Credential Theft Machines",
       "link": "https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/",
       "summary": "As attackers increasingly favor stolen credentials over exploits, infostealers have become a primary source of access for ransomware and other cybercrime operations. The post Infostealers Turn Millions of Devices Into Credential Theft Machines appeared first on SecurityWeek .",
@@ -473,27 +494,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Privilege escalation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "After AI Reaches Production: 12 Ways Security Teams Can Take Control",
-      "link": "https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/",
-      "summary": "Security teams need more than visibility into AI applications, they need a repeatable framework for monitoring, investigating, and defending them in production. The post After AI Reaches Production: 12 Ways Security Teams Can Take Control appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ServiceNow Patches Vulnerability Exploited Against Some Customers",
-      "link": "https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/",
-      "summary": "The company updated hosted customer instances to patch a security issue it reportedly had known about since April 7. The post ServiceNow Patches Vulnerability Exploited Against Some Customers appeared first on SecurityWeek .",
-      "published": "Wed, 10 Jun 2026 09:45:35 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
         "Exploit wording"
       ]
     },

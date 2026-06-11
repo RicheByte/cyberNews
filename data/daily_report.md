@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-11 03:26 UTC  
+> **Last Updated:** 2026-06-11 08:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **report looks stable** • **covert network associated** • **arbitrary code execution** • **ai threat era** • **stronger identity verification** • **malicious cyber actors** • **twitter whistleblower complaint** • **post mythos era** • **infostealers turn millions** • **credential theft machines** • **real life identity** • **fable 5 goes** • **aiding cyberattacks authorities** • **5 best practices** • **fortisandbox fortisandbox cloud** • **gain unauthorized access** • **powerful ai yet** • **stark industries solutions** • **sprawling phishing campaign**
+**ecostruxure panel server** • **ai threat era** • **report looks stable** • **covert network associated** • **stronger identity verification** • **post mythos era** • **twitter whistleblower complaint** • **ivanti sentry enabling** • **infostealers turn millions** • **credential theft machines** • **450 000 students** • **real life identity** • **fable 5 goes** • **aiding cyberattacks authorities** • **5 best practices** • **powerful ai yet** • **fortisandbox fortisandbox cloud** • **supply chain attacks** • **stark industries solutions** • **sprawling phishing campaign**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks](https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html)
 - [China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance](https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html)
 - [Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities](https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html)
 - [Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE](https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html)
@@ -23,18 +24,17 @@
 - [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html)
 - [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html)
 - [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html)
-- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html)
 
 ### BleepingComputer
 
+- [Nottingham University data breach affects over 450,000 students](https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/)
+- [Max severity Ivanti Sentry vulnerability now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/)
 - [Path traversal flaw in AI dev platform Langflow exploited in attacks](https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/)
 - [The ‘Miasma’ worm source code briefly leaked on GitHub](https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/)
 - [GitHub announces npm security changes to tackle supply-chain attacks](https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/)
 - [Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/)
 - [China-linked JDY botnet expands targeting of U.S. military networks](https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/)
 - [The 5 Best Practices for Secure Identity Verification](https://www.bleepingcomputer.com/news/security/the-5-best-practices-for-secure-identity-verification/)
-- [Microsoft patches Exchange Server zero-day exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-exchange-server-zero-day-exploited-in-attacks/)
-- [Microsoft: Some Windows PCs fail to install latest monthly updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-upgraded-windows-pcs-fail-to-install-monthly-updates/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [University of Nottingham Confirms Breach After Hackers Leak Data](https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/)
+- [Microsoft Patches Exploited Exchange Server Vulnerability](https://www.securityweek.com/microsoft-patches-exploited-exchange-server-vulnerability/)
 - [Infostealers Turn Millions of Devices Into Credential Theft Machines](https://www.securityweek.com/infostealers-turn-millions-of-devices-into-credential-theft-machines/)
 - [Cyera Raises $600 Million at $12 Billion Valuation](https://www.securityweek.com/cyera-raises-600-million-at-12-billion-valuation/)
 - [Aryon Security Raises $29 Million in Series A Funding](https://www.securityweek.com/aryon-security-raises-29-million-in-series-a-funding/)
 - [Critical HVAC and UPS Vulnerabilities Could Let Hackers Disrupt Data Centers](https://www.securityweek.com/critical-hvac-and-ups-vulnerabilities-could-let-hackers-disrupt-data-centers/)
 - [CISO Forum Webinar Today: 2026 Mid-Year Review](https://www.securityweek.com/ciso-forum-webinar-today-2026-mid-year-review/)
 - [New Windows Zero-Day Exploit ‘RoguePlanet’ Released](https://www.securityweek.com/new-windows-zero-day-exploit-rogueplanet-released/)
-- [After AI Reaches Production: 12 Ways Security Teams Can Take Control](https://www.securityweek.com/after-ai-reaches-production-12-ways-security-teams-can-take-control/)
-- [ServiceNow Patches Vulnerability Exploited Against Some Customers](https://www.securityweek.com/servicenow-patches-vulnerability-exploited-against-some-customers/)
 
 ### Threatpost
 

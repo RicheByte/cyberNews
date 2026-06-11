@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-06-11 13:54",
+  "last_updated": "2026-06-11 17:33",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "ecostruxure panel server",
-    "supply chain attacks",
     "13 websites purported",
     "twitter whistleblower complaint",
-    "massive distributed denial",
     "malicious cyber actors",
-    "ivanti sentry enabling",
-    "dire critical rating",
+    "cyberattacks influence operations",
+    "aiding cyberattacks authorities",
     "ai threat era",
     "ai didn't make",
-    "post coupang hit",
-    "aiding cyberattacks authorities",
-    "2025 krebsonsecurity story",
-    "multiple security engines",
     "separate real threats",
     "real life identity",
-    "fortisandbox fortisandbox cloud",
-    "arbitrary code execution",
-    "command injection vulnerability",
-    "windows defender bug"
+    "multiple security engines",
+    "triggering false positives",
+    "transport construction corporation",
+    "targeted domestic entities",
+    "straightforward enough triage",
+    "stark industries solutions",
+    "sprawling phishing campaign",
+    "resetting account passwords",
+    "recruit us workers",
+    "proving remarkably good"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 12
-    },
-    {
-      "keyword": "supply chain attacks",
-      "mentions": 62
+      "mentions": 13
     },
     {
       "keyword": "13 websites purported",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1837
-    },
-    {
-      "keyword": "massive distributed denial",
-      "mentions": 12
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 528
-    },
-    {
-      "keyword": "ivanti sentry enabling",
       "mentions": 2
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 149
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1838
+    },
+    {
+      "keyword": "malicious cyber actors",
+      "mentions": 529
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 17
+    },
+    {
+      "keyword": "aiding cyberattacks authorities",
+      "mentions": 21
     },
     {
       "keyword": "ai threat era",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ai didn't make",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "separate real threats",
+      "mentions": 2
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 127
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
+      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
+      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis). According to a detailed report",
+      "published": "Thu, 11 Jun 2026 22:20:47 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
@@ -78,7 +89,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Action Patch + 28 New Stories",
+      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
       "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
       "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials. The bigger problem is how polished this all looks now. Mule networks run like SaaS.",
       "published": "Thu, 11 Jun 2026 18:50:41 +0530",
@@ -140,109 +151,6 @@
         "CVE mentioned",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched Langflow Flaw CVE-2026-5027 Exploited for Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/06/unpatched-langflow-flaw-cve-2026-5027.html",
-      "summary": "A high-severity unpatched security flaw in Langflow, an open-source low-code platform to build artificial intelligence (AI) applications, has come under active exploitation in the wild, according to findings from VulnCheck. The vulnerability in question is CVE-2026-5027 (CVSS score: 8.8), a case of path traversal that could allow an attacker to write files to arbitrary locations. \"The 'POST /",
-      "published": "Wed, 10 Jun 2026 20:30:59 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "RCE",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]",
-      "published": "Thu, 11 Jun 2026 08:52:41 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
-      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nottingham University data breach affects over 450,000 students",
-      "link": "https://www.bleepingcomputer.com/news/security/nottingham-university-data-breach-affects-over-450-000-students/",
-      "summary": "The University of Nottingham confirmed on Wednesday that a hacking group gained access to its student records system in a breach affecting both current students and alums. [...]",
-      "published": "Thu, 11 Jun 2026 03:27:53 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Max severity Ivanti Sentry vulnerability now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-ivanti-sentry-vulnerability-now-exploited-in-attacks/",
-      "summary": "Attackers are now targeting a recently patched maximum-severity flaw in Ivanti Sentry, enabling them to execute code with root privileges on Internet-exposed secure mobile gateways. [...]",
-      "published": "Thu, 11 Jun 2026 02:20:22 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
-      "summary": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
-      "published": "Wed, 10 Jun 2026 17:23:44 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
-      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
-      "summary": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
-      "published": "Wed, 10 Jun 2026 16:27:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
-      "summary": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
-      "published": "Wed, 10 Jun 2026 15:41:44 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -333,9 +241,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Segmentation Works for OT If Operators Are Paying Attention",
+      "link": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
+      "summary": "Operational technology security remains as difficult as ever, with even the best practice recommendation falling short.",
+      "published": "Thu, 11 Jun 2026 14:51:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
-      "summary": "North Korea's gross domestic product (GDP) has grown, in part because of the cybercrime gains of groups linked to the nation, which target business and financial firms.",
+      "summary": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
       "published": "Thu, 11 Jun 2026 00:01:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -356,14 +273,14 @@
       "source": "Dark Reading",
       "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
       "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
-      "summary": "Bug bounty research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
+      "summary": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
       "published": "Wed, 10 Jun 2026 20:07:53 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Dark Reading",
-      "title": "AI Risk Worries Insurers and Businesses Alike",
+      "title": "AI Risk Worries Insurers &amp; Businesses Alike",
       "link": "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike",
       "summary": "As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
       "published": "Wed, 10 Jun 2026 19:34:43 GMT",
@@ -403,14 +320,16 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address",
-      "summary": "“Ghost-Sender\" is the result of a widespread misconfiguration, according to researchers, and evidence indicates it's being actively abused in the wild.",
-      "published": "Tue, 09 Jun 2026 20:20:00 GMT",
-      "value_score": 35,
+      "source": "Security Week",
+      "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
+      "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
+      "summary": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks. The post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 11 Jun 2026 13:57:54 +0000",
+      "value_score": 84,
       "value_signals": [
-        "Active exploitation"
+        "CVE mentioned",
+        "Zero-day ×3",
+        "Exploit wording"
       ]
     },
     {
@@ -484,19 +403,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
-      "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-      "summary": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode. The post ‘GreatXML’ Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 09:56:12 +0000",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "PoC available",
-        "Exploit wording"
       ]
     },
     {
@@ -584,6 +490,42 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Yarbo Android/iOS Mobile Application and Cloud Infrastructure",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain hard-coded credentials, gain access to telemetry data, and potentially send operational commands to the robot fleet. The following versions of Yarbo Android/iOS Mobile Application and Cloud Infrastructure are affected: Yarbo Android/IOS mobile application Cloud MQTT infrastructure vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Yarbo Yarbo Android/iOS Mobile Application and Cloud Infrastr",
+      "published": "Thu, 11 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Naxclow IoT Platform",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following versions of Naxclow IoT Platform are affected: Smart Doorbell X3 vers:all/* X Smart Home vers:all/* V720 vers:all/* ix cam vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Naxclow Naxclow IoT Platform Authorization Bypass Through User-Controlled Key, Miss",
+      "published": "Thu, 11 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Brickcom Cameras",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain administrative control of the device. The following versions of Brickcom Cameras are affected: Brickcom Cube 3.2.3.5.6 Brickcom Dome 3.2.3.5.6 Brickcom Bullet 3.2.3.5.6 Brickcom Box 3.2.3.5.6 CVSS Vendor Equipment Vulnerabilities v3 7.7 Brickcom Brickcom Cameras Mi",
+      "published": "Thu, 11 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber ",
@@ -643,46 +585,6 @@
         "CVE mentioned ×2",
         "CISA/KEV ×5",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/05/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-28318 SolarWinds Serv-U Uncontrolled Resource Consumption Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living ",
-      "published": "Fri, 05 Jun 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×6",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "NAVTOR NavBox",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a local attacker to gain unauthorized access to SOAP methods, resulting in a disruption of operations. The following versions of NAVTOR NavBox are affected: NavBox 4.16.1.20 (CVE-2026-21404) CVSS Vendor Equipment Vulnerabilities v3 6.3 NAVTOR NAVTOR NavBox Use of Hard-coded Credentials Background Critical Infrastructure Sectors: Information Technology Countries/Areas Deployed: Worldwide Company Headquarters Location: Nor",
-      "published": "Thu, 04 Jun 26 12:00:00 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Hitachi Energy MACH HiDraw",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-155-05",
-      "summary": "View CSAF Summary Hitachi Energy is aware of a buffer overflow vulnerability that affects MACH HiDraw product versions listed in this document. Successful exploitation of this vulnerability could lead to a buffer overflow condition, potentially resulting in application outages (denial of service) and possible arbitrary code execution. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy MACH HiDraw are affect",
-      "published": "Thu, 04 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

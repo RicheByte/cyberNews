@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-11 13:54 UTC |
-| 📰 Articles Analyzed | 56 |
+| 🕐 Last Updated | 2026-06-11 17:33 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `supply chain attacks` • `13 websites purported` • `twitter whistleblower complaint` • `massive distributed denial` • `malicious cyber actors` • `ivanti sentry enabling` • `dire critical rating` • `ai threat era` • `ai didn't make`
+`ecostruxure panel server` • `13 websites purported` • `twitter whistleblower complaint` • `malicious cyber actors` • `cyberattacks influence operations` • `aiding cyberattacks authorities` • `ai threat era` • `ai didn't make` • `separate real threats` • `real life identity`
 
 ## 📄 Reports
 

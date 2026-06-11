@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 528,
+      "count": 529,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1837,
+      "count": 1838,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -513,7 +513,7 @@
       ]
     },
     "real life identity": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1762,7 +1762,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 423,
+      "count": 424,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -16522,14 +16522,15 @@
       ]
     },
     "proving remarkably good": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-14",
         "2026-05-19",
         "2026-06-06",
         "2026-06-07",
         "2026-06-09",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-06-11"
       ]
     },
     "people events ideas": {
@@ -17435,13 +17436,14 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-25",
         "2026-05-26",
         "2026-05-28",
         "2026-05-29",
-        "2026-05-30"
+        "2026-05-30",
+        "2026-06-11"
       ]
     },
     "leverage trusted websites": {
@@ -17459,7 +17461,7 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17735,7 +17737,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18107,7 +18109,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18116,7 +18118,8 @@
         "2026-06-06",
         "2026-06-07",
         "2026-06-08",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-06-11"
       ]
     },
     "remote web ui": {
@@ -18861,7 +18864,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19084,7 +19087,7 @@
       ]
     },
     "ai threat era": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-10",
         "2026-06-11"
@@ -19103,13 +19106,13 @@
       ]
     },
     "13 websites purported": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-11"
       ]
     },
     "ai didn't make": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-11"
       ]
@@ -19127,13 +19130,13 @@
       ]
     },
     "multiple security engines": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-11"
       ]
     },
     "separate real threats": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-11"
       ]
@@ -19143,20 +19146,39 @@
       "dates": [
         "2026-06-11"
       ]
+    },
+    "triggering false positives": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "transport construction corporation": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "targeted domestic entities": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "straightforward enough triage": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
+    },
+    "recruit us workers": {
+      "count": 1,
+      "dates": [
+        "2026-06-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-28 15:38",
-      "articles": 56,
-      "top_keywords": [
-        "ai power users",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "internet facing instances",
-        "information stealing capabilities"
-      ]
-    },
     {
       "timestamp": "2026-05-28 18:32",
       "articles": 56,
@@ -20244,6 +20266,17 @@
         "13 websites purported",
         "twitter whistleblower complaint",
         "massive distributed denial"
+      ]
+    },
+    {
+      "timestamp": "2026-06-11 17:33",
+      "articles": 48,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "13 websites purported",
+        "twitter whistleblower complaint",
+        "malicious cyber actors",
+        "cyberattacks influence operations"
       ]
     }
   ]

@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-06-12 08:19",
+  "last_updated": "2026-06-12 12:50",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
     "cve 2026 35273",
-    "13 websites purported",
     "google confirms exploitation",
     "twitter whistleblower complaint",
+    "target financial firms",
     "sprawling phishing campaign",
-    "memory execution techniques",
-    "massive distributed denial",
+    "french government revealed",
+    "decade long phishing",
+    "build complex stateful",
     "dire critical rating",
     "phishing attacks rather",
-    "multiple security engines",
-    "separate real threats",
-    "real life identity",
-    "ai threat era",
-    "ai didn't make",
-    "remote unauthenticated attacker",
-    "triggering false positives",
-    "straightforward enough triage",
+    "performance monitoring platform",
+    "national security risk",
+    "world's largest producer",
+    "worked well enough",
+    "victim ever seeing",
+    "system takeover showing",
     "stark industries solutions",
-    "slow response workflows"
+    "resetting account passwords",
+    "remote code execution"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "cve 2026 35273",
-      "mentions": 1
-    },
-    {
-      "keyword": "13 websites purported",
-      "mentions": 6
+      "mentions": 2
     },
     {
       "keyword": "google confirms exploitation",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1842
+      "mentions": 1843
+    },
+    {
+      "keyword": "target financial firms",
+      "mentions": 1
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 428
+      "mentions": 429
     },
     {
-      "keyword": "memory execution techniques",
-      "mentions": 3
+      "keyword": "french government revealed",
+      "mentions": 1
     },
     {
-      "keyword": "massive distributed denial",
-      "mentions": 16
+      "keyword": "decade long phishing",
+      "mentions": 1
+    },
+    {
+      "keyword": "build complex stateful",
+      "mentions": 1
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 153
-    },
-    {
-      "keyword": "phishing attacks rather",
-      "mentions": 4
+      "mentions": 154
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
+      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
+      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
+      "published": "Fri, 12 Jun 2026 17:34:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Rethinking MDR as Attackers and Defenders Embrace AI",
+      "link": "https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html",
+      "summary": "For most of the past decade, managed detection and response was the answer to a real problem. Security teams couldn't staff around the clock, couldn't hire enough analysts, and needed someone else to handle the alert queue. MDR stepped in. It worked well enough. Until now. The threat landscape has changed faster than the MDR model can adapt. Attackers are using AI to move faster, generate more",
+      "published": "Fri, 12 Jun 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
+      "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
+      "summary": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications. \"An SQL injection in LangGraph's function could",
+      "published": "Fri, 12 Jun 2026 15:20:36 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "RCE ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator",
+      "link": "https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html",
+      "summary": "An INTERPOL-led operation last month resulted in the disruption of Sniper Dz, a decade-long phishing-as-a-service (PhaaS) platform, Group-IB said Thursday. The effort, codenamed Operation Ramz, took place between October 2025 and February 2026, and saw authorities from 13 countries in the Middle East and North Africa (MENA) region making 201 arrests. Included among them was Guedz, the primary",
+      "published": "Fri, 12 Jun 2026 14:22:55 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
@@ -113,45 +154,39 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html",
-      "summary": "A new analysis of The Gentlemen operation has revealed that the financially motivated threat group initially operated as an affiliate responsible for conducting double extortion attacks, while leveraging resources from various ransomware-as-a-service (RaaS) schemes like LockBit (aka Tenacious Mantis), Qilin (aka Pestilent Mantis), and Medusa (aka Venomous Mantis). According to a detailed report",
-      "published": "Thu, 11 Jun 2026 22:20:47 +0530",
-      "value_score": 46,
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
+      "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
+      "published": "Fri, 12 Jun 2026 07:44:58 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Ransomware ×2"
+        "Patch/update ×3"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
-      "link": "https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html",
-      "summary": "Most good security work is invisible by design. Today is the exception. The 2026 Cybersecurity Stars Awards winners are announced across 95 subcategories in four main award categories. The reason is simple. Cybersecurity is full of work that deserves recognition and rarely gets it. Products that quietly close real gaps. Teams that stop incidents nobody reads about. Companies that raise the",
-      "published": "Thu, 11 Jun 2026 18:56:13 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html",
-      "summary": "It's been one of those weeks. You expect the usual noise: recycled malware, sloppy attacks, another easy target getting hit. Instead, there's a supply chain attack kit in a public repo, a $5,000-a-month RAT that clones browsers, and research showing AI agents can be tricked into leaking real credentials. The bigger problem is how polished this all looks now. Mule networks run like SaaS.",
-      "published": "Thu, 11 Jun 2026 18:50:41 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
+      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
+      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
+      "published": "Fri, 12 Jun 2026 06:13:19 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Patch/update"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.",
-      "link": "https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html",
-      "summary": "For thirty years, vulnerability management ran on a buffer: the months between when a vulnerability was found and when someone could figure out how to weaponize it. The solution was straightforward enough; triage by severity, schedule the fix, validate, and move on. The buffer was what made that work. Today, that buffer is gone. AI didn't make your team slower. It changed the other side of the",
-      "published": "Thu, 11 Jun 2026 17:00:00 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
+      "published": "Fri, 12 Jun 2026 04:26:55 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Patch/update"
+        "Active exploitation ×2",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -210,40 +245,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "summary": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "published": "Thu, 11 Jun 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coupang hit with record $409 million data breach fine in Korea",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/",
-      "summary": "​​The Personal Information Protection Commission (PIPC), South Korea's data protection regulator, has fined e-commerce giant Coupang a record 624.6 billion won (roughly $409 million) following a massive data breach affecting more than 37 million customers [...]",
-      "published": "Thu, 11 Jun 2026 08:52:41 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA tells govt agencies to patch critical exploited flaws in 3 days",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) announced a new Binding Operational Directive, 26-04, that prioritizes security updates for Federal Civilian Executive Branch (FCEB) agencies. [...]",
-      "published": "Thu, 11 Jun 2026 08:46:44 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -335,7 +336,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
+      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
       "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
       "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
       "published": "Fri, 12 Jun 2026 00:58:07 GMT",
@@ -359,7 +360,7 @@
       "source": "Dark Reading",
       "title": "Segmentation Works for OT If Operators Are Paying Attention",
       "link": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
-      "summary": "Operational technology security remains as difficult as ever, with even the best practice recommendation falling short.",
+      "summary": "Even the best segmentation strategy will fall apart without constant oversight and disciplined operations.",
       "published": "Thu, 11 Jun 2026 14:51:48 GMT",
       "value_score": 10,
       "value_signals": []
@@ -417,6 +418,57 @@
     },
     {
       "source": "Security Week",
+      "title": "Industry Reactions to Claude Fable 5: Feedback Friday",
+      "link": "https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/",
+      "summary": "Industry professionals comment on various aspects of Fable 5, including dual-use capabilities, safeguards, and tiered access. The post Industry Reactions to Claude Fable 5: Feedback Friday appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 12:30:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Iranian Cyber Group Handala Claims Cal Water Hack",
+      "link": "https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/",
+      "summary": "The hackers published 5GB of data, including customer personal information and credentials for the RTKBase platform. The post Iranian Cyber Group Handala Claims Cal Water Hack appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 11:30:23 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
+      "link": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
+      "summary": "The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges. The post Ivanti Sentry Exploitation Attempts Hitting Honeypots appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 09:44:16 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 149 Update Patches 28 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
+      "summary": "The browser refresh resolved critical and high-severity security defects, including a dozen use-after-free bugs. The post Chrome 149 Update Patches 28 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 09:27:08 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic Disputes Fable 5 AI Jailbreak",
+      "link": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
+      "summary": "An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5’s launch, but Anthropic says it’s not a real jailbreak. The post Anthropic Disputes Fable 5 AI Jailbreak appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 08:43:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
       "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/",
       "summary": "Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability’s in-the-wild exploitation. The post Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters appeared first on SecurityWeek .",
@@ -447,59 +499,6 @@
       "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
       "summary": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise. The post Alert Fatigue Is Becoming a Security Threat of Its Own appeared first on SecurityWeek .",
       "published": "Thu, 11 Jun 2026 13:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk",
-      "link": "https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/",
-      "summary": "The new BOD 26-04 requires agencies to review and update vulnerability management policies with a focus on KEV catalog entries. The post CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 13:01:14 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Patch/update",
-        "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month",
-      "link": "https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/",
-      "summary": "Researchers say the OnyxC2 malware targets more than 200 applications and extensions while evading detection through encrypted payloads, DLL sideloading, and in-memory execution techniques. The post OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Exploit Langflow Vulnerability for Remote Code Execution",
-      "link": "https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/",
-      "summary": "Disclosed in March, the security defect enables unauthenticated attackers to write files to arbitrary locations on the system. The post Hackers Exploit Langflow Vulnerability for Remote Code Execution appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 11:52:59 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Siemens Says Desigo CC Files Flagged as Malware by Security Engines",
-      "link": "https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/",
-      "summary": "A PowerShell script included in patch files appears to be triggering false positives by multiple security engines. The post Siemens Says Desigo CC Files Flagged as Malware by Security Engines appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 11:40:27 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
-      "link": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
-      "summary": "The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of security clearances The post FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 11:06:22 +0000",
       "value_score": 10,
       "value_signals": []
     },

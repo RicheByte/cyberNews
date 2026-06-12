@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1842,
+      "count": 1843,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -739,7 +739,7 @@
       ]
     },
     "remote code execution": {
-      "count": 450,
+      "count": 451,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -813,7 +813,8 @@
         "2026-05-31",
         "2026-06-01",
         "2026-06-09",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-06-12"
       ]
     },
     "attacker remotely control": {
@@ -1058,7 +1059,7 @@
       ]
     },
     "national security risk": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1094,7 +1095,8 @@
         "2026-05-27",
         "2026-05-28",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-12"
       ]
     },
     "open source millions": {
@@ -1764,7 +1766,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 428,
+      "count": 429,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3646,7 +3648,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17742,7 +17744,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18115,7 +18117,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18125,7 +18127,8 @@
         "2026-06-07",
         "2026-06-08",
         "2026-06-09",
-        "2026-06-11"
+        "2026-06-11",
+        "2026-06-12"
       ]
     },
     "remote web ui": {
@@ -18870,7 +18873,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19195,7 +19198,7 @@
       ]
     },
     "phishing attacks rather": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-11",
         "2026-06-12"
@@ -19223,12 +19226,66 @@
       ]
     },
     "cve 2026 35273": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-12"
       ]
     },
     "google confirms exploitation": {
+      "count": 2,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "target financial firms": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "french government revealed": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "decade long phishing": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "build complex stateful": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "performance monitoring platform": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "world's largest producer": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "worked well enough": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "victim ever seeing": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "system takeover showing": {
       "count": 1,
       "dates": [
         "2026-06-12"
@@ -19236,17 +19293,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-29 07:50",
-      "articles": 56,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "targeting law firms",
-        "service's login page",
-        "network video recorder",
-        "credential stealer payload"
-      ]
-    },
     {
       "timestamp": "2026-05-29 11:23",
       "articles": 56,
@@ -20334,6 +20380,17 @@
         "13 websites purported",
         "google confirms exploitation",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-12 12:50",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "cve 2026 35273",
+        "google confirms exploitation",
+        "twitter whistleblower complaint",
+        "target financial firms"
       ]
     }
   ]

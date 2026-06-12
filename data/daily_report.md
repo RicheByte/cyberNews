@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-12 08:19 UTC  
+> **Last Updated:** 2026-06-12 12:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **cve 2026 35273** • **13 websites purported** • **google confirms exploitation** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **memory execution techniques** • **massive distributed denial** • **dire critical rating** • **phishing attacks rather** • **multiple security engines** • **separate real threats** • **real life identity** • **ai threat era** • **ai didn't make** • **remote unauthenticated attacker** • **triggering false positives** • **straightforward enough triage** • **stark industries solutions** • **slow response workflows**
+**ecostruxure panel server** • **cve 2026 35273** • **google confirms exploitation** • **twitter whistleblower complaint** • **target financial firms** • **sprawling phishing campaign** • **french government revealed** • **decade long phishing** • **build complex stateful** • **dire critical rating** • **phishing attacks rather** • **performance monitoring platform** • **national security risk** • **world's largest producer** • **worked well enough** • **victim ever seeing** • **system takeover showing** • **stark industries solutions** • **resetting account passwords** • **remote code execution**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
+- [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
+- [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
+- [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 - [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
 - [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
 - [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
 - [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
-- [The Gentlemen Ransomware Claims 478 Victims, Can Spread Like a Worm](https://thehackernews.com/2026/06/the-gentlemen-ransomware-claims-478.html)
-- [Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories](https://thehackernews.com/2026/06/cybersecurity-stars-awards-2026-winners.html)
-- [ThreatsDay Bulletin: Worm Code Leaked, AI Agent Phished, Claude Code Patch + 28 New Stories](https://thehackernews.com/2026/06/threatsday-bulletin-worm-code-leaked-ai.html)
-- [AI Broke Vulnerability Management. That's Why CISOs Are Moving Budget to BAS.](https://thehackernews.com/2026/06/ai-broke-vulnerability-management-thats.html)
 
 ### BleepingComputer
 
+- [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
+- [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
+- [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
 - [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
 - [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
 - [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
 - [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
 - [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
-- [Why AI-driven threats are exposing the limits of MSP security stacks](https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/)
-- [Coupang hit with record $409 million data breach fine in Korea](https://www.bleepingcomputer.com/news/security/south-korea-hits-coupang-with-record-409-million-fine-over-data-breach/)
-- [CISA tells govt agencies to patch critical exploited flaws in 3 days](https://www.bleepingcomputer.com/news/security/cisa-tells-govt-agencies-to-patch-critical-exploited-flaws-in-3-days/)
 
 ### Krebs on Security
 
@@ -49,7 +49,7 @@
 
 ### Dark Reading
 
-- [Phishing Attack Volume Down 20%, but Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
+- [Phishing Attack Volume Down 20%, But Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
 - [Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure](https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours)
 - [Segmentation Works for OT If Operators Are Paying Attention](https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention)
 - [Chinese, N. Korean Threat Groups Build on Asia-Pacific Success](https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
+- [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
+- [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
+- [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
+- [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 - [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 - [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
 - [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
-- [CISA Directs Federal Agencies to Prioritize Security Patches Based on Risk](https://www.securityweek.com/cisa-directs-federal-agencies-to-prioritize-security-patches-based-on-risk/)
-- [OnyxC2 Stealer Offers Cybercriminals Enterprise-Grade Theft for $250 a Month](https://www.securityweek.com/onyxc2-stealer-offers-cybercriminals-enterprise-grade-theft-for-250-a-month/)
-- [Hackers Exploit Langflow Vulnerability for Remote Code Execution](https://www.securityweek.com/hackers-exploit-langflow-vulnerability-for-remote-code-execution/)
-- [Siemens Says Desigo CC Files Flagged as Malware by Security Engines](https://www.securityweek.com/siemens-says-desigo-cc-files-flagged-as-malware-by-security-engines/)
-- [FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers](https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/)
 
 ### Threatpost
 

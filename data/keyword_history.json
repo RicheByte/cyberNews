@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1841,
+      "count": 1842,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -514,7 +514,7 @@
       ]
     },
     "real life identity": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1764,7 +1764,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 427,
+      "count": 428,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3646,7 +3646,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -5532,7 +5532,7 @@
       ]
     },
     "massive distributed denial": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-29",
         "2026-01-30",
@@ -17742,7 +17742,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18870,7 +18870,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19094,7 +19094,7 @@
       ]
     },
     "ai threat era": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -19114,14 +19114,14 @@
       ]
     },
     "13 websites purported": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-11",
         "2026-06-12"
       ]
     },
     "ai didn't make": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-11",
         "2026-06-12"
@@ -19141,14 +19141,14 @@
       ]
     },
     "multiple security engines": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-11",
         "2026-06-12"
       ]
     },
     "separate real threats": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-11",
         "2026-06-12"
@@ -19161,7 +19161,7 @@
       ]
     },
     "triggering false positives": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-11",
         "2026-06-12"
@@ -19182,7 +19182,7 @@
       ]
     },
     "straightforward enough triage": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-11",
         "2026-06-12"
@@ -19195,45 +19195,47 @@
       ]
     },
     "phishing attacks rather": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-11",
         "2026-06-12"
       ]
     },
     "remote unauthenticated attacker": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-11",
         "2026-06-12"
       ]
     },
     "slow response workflows": {
-      "count": 1,
-      "dates": [
-        "2026-06-11"
-      ]
-    },
-    "memory execution techniques": {
       "count": 2,
       "dates": [
         "2026-06-11",
         "2026-06-12"
       ]
+    },
+    "memory execution techniques": {
+      "count": 3,
+      "dates": [
+        "2026-06-11",
+        "2026-06-12"
+      ]
+    },
+    "cve 2026 35273": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "google confirms exploitation": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-29 02:44",
-      "articles": 56,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "targeting law firms",
-        "network video recorder",
-        "information stealing capabilities",
-        "credential stealer payload"
-      ]
-    },
     {
       "timestamp": "2026-05-29 07:50",
       "articles": 56,
@@ -20321,6 +20323,17 @@
         "twitter whistleblower complaint",
         "sprawling phishing campaign",
         "memory execution techniques"
+      ]
+    },
+    {
+      "timestamp": "2026-06-12 08:19",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "cve 2026 35273",
+        "13 websites purported",
+        "google confirms exploitation",
+        "twitter whistleblower complaint"
       ]
     }
   ]

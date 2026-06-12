@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-12 03:26 UTC |
+| 🕐 Last Updated | 2026-06-12 08:19 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `13 websites purported` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `memory execution techniques` • `massive distributed denial` • `dire critical rating` • `phishing attacks rather` • `multiple security engines` • `2025 krebsonsecurity story`
+`ecostruxure panel server` • `cve 2026 35273` • `13 websites purported` • `google confirms exploitation` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `memory execution techniques` • `massive distributed denial` • `dire critical rating` • `phishing attacks rather`
 
 ## 📄 Reports
 

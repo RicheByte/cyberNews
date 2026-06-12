@@ -1,10 +1,12 @@
 {
-  "last_updated": "2026-06-12 03:26",
+  "last_updated": "2026-06-12 08:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
+    "cve 2026 35273",
     "13 websites purported",
+    "google confirms exploitation",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "memory execution techniques",
@@ -12,61 +14,70 @@
     "dire critical rating",
     "phishing attacks rather",
     "multiple security engines",
-    "2025 krebsonsecurity story",
     "separate real threats",
     "real life identity",
     "ai threat era",
     "ai didn't make",
     "remote unauthenticated attacker",
     "triggering false positives",
-    "transport construction corporation",
-    "targeted domestic entities",
     "straightforward enough triage",
-    "stark industries solutions"
+    "stark industries solutions",
+    "slow response workflows"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "cve 2026 35273",
+      "mentions": 1
     },
     {
       "keyword": "13 websites purported",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "google confirms exploitation",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1841
+      "mentions": 1842
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 427
+      "mentions": 428
     },
     {
       "keyword": "memory execution techniques",
-      "mentions": 2
-    },
-    {
-      "keyword": "massive distributed denial",
-      "mentions": 15
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 152
-    },
-    {
-      "keyword": "phishing attacks rather",
       "mentions": 3
     },
     {
-      "keyword": "multiple security engines",
-      "mentions": 5
+      "keyword": "massive distributed denial",
+      "mentions": 16
     },
     {
-      "keyword": "2025 krebsonsecurity story",
+      "keyword": "dire critical rating",
+      "mentions": 153
+    },
+    {
+      "keyword": "phishing attacks rather",
       "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
+      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the",
+      "published": "Fri, 12 Jun 2026 12:08:41 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
@@ -144,14 +155,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "summary": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack",
-      "published": "Thu, 11 Jun 2026 15:15:58 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "summary": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "published": "Fri, 12 Jun 2026 03:09:11 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Backdoor"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -233,17 +244,6 @@
         "CISA/KEV ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes BitLocker recovery bug on Windows Server 2025",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bitlocker-recovery-bug-on-windows-server-2025/",
-      "summary": "Microsoft has resolved a known issue causing some Windows Server 2025 devices to boot into BitLocker recovery after installing the April 2026 security update. [...]",
-      "published": "Thu, 11 Jun 2026 04:44:22 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -417,6 +417,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
+      "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/",
+      "summary": "Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability’s in-the-wild exploitation. The post Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 06:44:36 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
       "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
       "summary": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks. The post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks appeared first on SecurityWeek .",
@@ -489,17 +502,6 @@
       "published": "Thu, 11 Jun 2026 11:06:22 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
-      "link": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
-      "summary": "The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources. The post Splunk, Palo Alto Networks Patch Severe Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 10:47:48 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Threatpost",

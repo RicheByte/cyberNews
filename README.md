@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-12 16:41 UTC |
+| 🕐 Last Updated | 2026-06-12 20:02 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `cve 2026 35273` • `google confirms exploitation` • `critical vulnerability chain` • `twitter whistleblower complaint` • `target financial firms` • `sprawling phishing campaign` • `french government revealed` • `decade long phishing` • `build complex stateful`
+`ecostruxure panel server` • `cve 2026 35273` • `ukrainian national extradited` • `user including administrators` • `twitter whistleblower complaint` • `target financial firms` • `fake disclosures maine` • `critical vulnerability chain` • `national security risk` • `google confirms exploitation`
 
 ## 📄 Reports
 

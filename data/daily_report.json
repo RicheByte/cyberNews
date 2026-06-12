@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-06-12 16:41",
+  "last_updated": "2026-06-12 20:02",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
     "cve 2026 35273",
-    "google confirms exploitation",
-    "critical vulnerability chain",
+    "ukrainian national extradited",
+    "user including administrators",
     "twitter whistleblower complaint",
     "target financial firms",
-    "sprawling phishing campaign",
-    "french government revealed",
-    "decade long phishing",
-    "build complex stateful",
-    "phishing attacks rather",
-    "dire critical rating",
+    "fake disclosures maine",
+    "critical vulnerability chain",
     "national security risk",
+    "google confirms exploitation",
+    "dire critical rating",
+    "deploys software internally",
     "performance monitoring platform",
+    "wusa installer microsoft",
     "world's largest producer",
     "worked well enough",
-    "victim ever seeing",
     "stolen api keys",
+    "state's website prompting",
     "stark industries solutions",
-    "resetting account passwords"
+    "servers defenders watch"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "cve 2026 35273",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "google confirms exploitation",
-      "mentions": 3
+      "keyword": "ukrainian national extradited",
+      "mentions": 1
     },
     {
-      "keyword": "critical vulnerability chain",
+      "keyword": "user including administrators",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1844
+      "mentions": 1845
     },
     {
       "keyword": "target financial firms",
+      "mentions": 3
+    },
+    {
+      "keyword": "fake disclosures maine",
+      "mentions": 1
+    },
+    {
+      "keyword": "critical vulnerability chain",
       "mentions": 2
     },
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 430
+      "keyword": "national security risk",
+      "mentions": 193
     },
     {
-      "keyword": "french government revealed",
-      "mentions": 2
-    },
-    {
-      "keyword": "decade long phishing",
-      "mentions": 2
-    },
-    {
-      "keyword": "build complex stateful",
-      "mentions": 2
+      "keyword": "google confirms exploitation",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
+      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
+      "published": "Sat, 13 Jun 2026 00:54:50 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
+      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
+      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
+      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
+      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
+      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
+      "published": "Fri, 12 Jun 2026 23:47:55 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
@@ -120,38 +149,46 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
-      "link": "https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html",
-      "summary": "The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to keep it private. The campaign hit universities hardest. Google's Mandiant attributes it to the group it tracks as UNC6240, and dates the activity between May 27 and June 9. Oracle did not publish its advisory until June 10, so the bug was a",
-      "published": "Fri, 12 Jun 2026 01:59:23 +0530",
-      "value_score": 71,
+      "source": "BleepingComputer",
+      "title": "Maine disables data breach notification portal after fake disclosures",
+      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
+      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
+      "published": "Fri, 12 Jun 2026 15:33:32 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Breach/leak",
-        "Exploit wording"
+        "Breach/leak ×3"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets",
-      "link": "https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html",
-      "summary": "Two security teams have shown, in separate research published this week, that OpenClaw, the popular self-hosted AI agent, can be driven to run attacker-controlled code or hand over sensitive data through ordinary-looking inputs. Imperva buried instructions inside shared contacts, vCards, and location pins that the agent executed without the victim ever seeing them. Varonis built a test agent on",
-      "published": "Thu, 11 Jun 2026 23:16:32 +0530",
+      "source": "BleepingComputer",
+      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
+      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
+      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
+      "value_score": 40,
+      "value_signals": [
+        "Auth bypass ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
+      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
+      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
+      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
+      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
+      "published": "Fri, 12 Jun 2026 13:03:55 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files",
-      "link": "https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html",
-      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse and MSNightmare) has released a new Windows BitLocker bypass dubbed GreatXML, a day after they published an exploit for Microsoft Defender. \"This was an accidental discovery, it took a total of 4 hours to find this,\" the researcher said in a post on Blogger. \"If you ever attempted to use Windows Defender Offline Scan, you're",
-      "published": "Thu, 11 Jun 2026 23:13:52 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -195,53 +232,6 @@
         "Active exploitation ×2",
         "Patch/update ×2",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "summary": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "published": "Fri, 12 Jun 2026 03:09:11 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "summary": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
-      "published": "Thu, 11 Jun 2026 19:14:16 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "summary": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-      "published": "Thu, 11 Jun 2026 18:44:58 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Oracle mitigates PeopleSoft zero-day exploited in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/",
-      "summary": "Oracle is warning about a critical PeopleSoft Suite zero-day vulnerability tracked as CVE-2026-35273 that allows unauthenticated remote code execution, with the flaw actively exploited in ShinyHunter data theft attacks. [...]",
-      "published": "Thu, 11 Jun 2026 15:39:53 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "RCE",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -582,6 +572,21 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-35273 Oracle PeopleSoft Enterprise PeopleTools Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability m",
+      "published": "Fri, 12 Jun 26 12:00:00 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Yarbo Android/iOS Mobile Application and Cloud Infrastructure",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain hard-coded credentials, gain access to telemetry data, and potentially send operational commands to the robot fleet. The following versions of Yarbo Android/iOS Mobile Application and Cloud Infrastructure are affected: Yarbo Android/IOS mobile application Cloud MQTT infrastructure vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Yarbo Yarbo Android/iOS Mobile Application and Cloud Infrastr",
@@ -662,17 +667,6 @@
       "title": "Schneider Electric EcoStruxure Panel Server",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-03",
       "summary": "View CSAF Summary Schneider Electric is aware of its vulnerability in its EcoStruxure Panel Server offer. The EcoStruxure Panel Server is a high performance, modular gateway with enhanced cybersecurity that provides easy and fast connections to multiple concurrent edge control or cloud applications. Failure to apply the remediations provided below may risk unauthorized authentication, which could lead to access to sensitive information. The following versions of Schneider Electric EcoStruxure Pa",
-      "published": "Tue, 09 Jun 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Modicon Network Managed Switches",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-01",
-      "summary": "View CSAF Summary Schneider Electric is aware of a RADIUS protocol vulnerability affecting its Modicon Network Managed Switch product. The Modicon Network Managed Switch product provides connectivity for multiple Ethernet devices, network management, enhanced cyber security and more advanced switching features. Failure to apply the mitigation provided below may risk forgery attacks in RADIUS Protocol, which could result in modification of any valid Response (Access-Accept, Access-Reject, or Acce",
       "published": "Tue, 09 Jun 26 12:00:00 +0000",
       "value_score": 35,
       "value_signals": [

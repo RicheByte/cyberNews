@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1844,
+      "count": 1845,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1059,7 +1059,7 @@
       ]
     },
     "national security risk": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3648,7 +3648,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17369,7 +17369,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17379,7 +17379,8 @@
         "2026-05-28",
         "2026-06-05",
         "2026-06-06",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-06-12"
       ]
     },
     "public github account": {
@@ -17744,7 +17745,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18873,7 +18874,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19226,19 +19227,19 @@
       ]
     },
     "cve 2026 35273": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-12"
       ]
     },
     "google confirms exploitation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-12"
       ]
     },
     "target financial firms": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-12"
       ]
@@ -19262,19 +19263,19 @@
       ]
     },
     "performance monitoring platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-12"
       ]
     },
     "world's largest producer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-12"
       ]
     },
     "worked well enough": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-12"
       ]
@@ -19292,12 +19293,48 @@
       ]
     },
     "critical vulnerability chain": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-12"
       ]
     },
     "stolen api keys": {
+      "count": 2,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "ukrainian national extradited": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "user including administrators": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "fake disclosures maine": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "wusa installer microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "state's website prompting": {
+      "count": 1,
+      "dates": [
+        "2026-06-12"
+      ]
+    },
+    "servers defenders watch": {
       "count": 1,
       "dates": [
         "2026-06-12"
@@ -19305,17 +19342,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-29 14:51",
-      "articles": 56,
-      "top_keywords": [
-        "remote code execution",
-        "275 million students",
-        "twitter whistleblower complaint",
-        "targeting ukrainian entities",
-        "service's login page"
-      ]
-    },
     {
       "timestamp": "2026-05-29 18:28",
       "articles": 56,
@@ -20402,6 +20428,17 @@
         "cve 2026 35273",
         "google confirms exploitation",
         "critical vulnerability chain",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-12 20:02",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "cve 2026 35273",
+        "ukrainian national extradited",
+        "user including administrators",
         "twitter whistleblower complaint"
       ]
     }

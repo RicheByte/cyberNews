@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-12 16:41 UTC  
+> **Last Updated:** 2026-06-12 20:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **cve 2026 35273** • **google confirms exploitation** • **critical vulnerability chain** • **twitter whistleblower complaint** • **target financial firms** • **sprawling phishing campaign** • **french government revealed** • **decade long phishing** • **build complex stateful** • **phishing attacks rather** • **dire critical rating** • **national security risk** • **performance monitoring platform** • **world's largest producer** • **worked well enough** • **victim ever seeing** • **stolen api keys** • **stark industries solutions** • **resetting account passwords**
+**ecostruxure panel server** • **cve 2026 35273** • **ukrainian national extradited** • **user including administrators** • **twitter whistleblower complaint** • **target financial firms** • **fake disclosures maine** • **critical vulnerability chain** • **national security risk** • **google confirms exploitation** • **dire critical rating** • **deploys software internally** • **performance monitoring platform** • **wusa installer microsoft** • **world's largest producer** • **worked well enough** • **stolen api keys** • **state's website prompting** • **stark industries solutions** • **servers defenders watch**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
+- [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
+- [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 - [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
 - [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
 - [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
 - [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 - [Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs](https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html)
-- [ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities](https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html)
-- [New Attacks Trick OpenClaw AI Agent Into Running Code and Leaking Secrets](https://thehackernews.com/2026/06/new-attacks-trick-openclaw-ai-agent.html)
-- [New GreatXML Exploit Bypasses Windows BitLocker via Recovery Partition XML Files](https://thehackernews.com/2026/06/new-greatxml-exploit-bypasses-windows.html)
 
 ### BleepingComputer
 
+- [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
+- [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
+- [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
+- [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
 - [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 - [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 - [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
 - [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
-- [Over 73,000 French govt employees affected in Tchap messenger breach](https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/)
-- [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
-- [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
-- [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
 
 ### Krebs on Security
 
@@ -82,6 +82,7 @@
 
 ### CISA Alerts
 
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Yarbo Android/iOS Mobile Application and Cloud Infrastructure](https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01)
 - [Naxclow IoT Platform](https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02)
 - [Brickcom Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03)
@@ -89,7 +90,6 @@
 - [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)
 - [Siemens KACO Blueplanet Inverters](https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02)
 - [Schneider Electric EcoStruxure Panel Server](https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-03)
-- [Schneider Electric Modicon Network Managed Switches](https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-01)
 
 ---
 

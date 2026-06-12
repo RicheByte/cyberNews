@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-12 12:50",
+  "last_updated": "2026-06-12 16:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
     "cve 2026 35273",
     "google confirms exploitation",
+    "critical vulnerability chain",
     "twitter whistleblower complaint",
     "target financial firms",
     "sprawling phishing campaign",
     "french government revealed",
     "decade long phishing",
     "build complex stateful",
-    "dire critical rating",
     "phishing attacks rather",
-    "performance monitoring platform",
+    "dire critical rating",
     "national security risk",
+    "performance monitoring platform",
     "world's largest producer",
     "worked well enough",
     "victim ever seeing",
-    "system takeover showing",
+    "stolen api keys",
     "stark industries solutions",
-    "resetting account passwords",
-    "remote code execution"
+    "resetting account passwords"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "cve 2026 35273",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "google confirms exploitation",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "critical vulnerability chain",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1843
+      "mentions": 1844
     },
     {
       "keyword": "target financial firms",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 429
+      "mentions": 430
     },
     {
       "keyword": "french government revealed",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "decade long phishing",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "build complex stateful",
-      "mentions": 1
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 154
+      "mentions": 2
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
+      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
+      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
+      "published": "Fri, 12 Jun 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft fixes Windows update failures linked to WUSA installer",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
       "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
@@ -234,17 +243,6 @@
         "RCE",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Authorities dismantle 'AudiA6' ransomware crypto-laundering service",
-      "link": "https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/",
-      "summary": "Law enforcement has dismantled the “AudiA6” cryptocurrency service allegedly used by ransomware actors and other cybercriminals to launder more than $380 million. [...]",
-      "published": "Thu, 11 Jun 2026 11:55:41 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {
@@ -336,6 +334,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
+      "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explained.",
+      "published": "Fri, 12 Jun 2026 13:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
       "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
       "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
@@ -405,16 +412,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
-      "summary": "The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
-      "published": "Wed, 10 Jun 2026 16:31:02 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
+      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of hack cover-ups. The post In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine appeared first on SecurityWeek .",
+      "published": "Fri, 12 Jun 2026 16:17:26 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -492,15 +496,6 @@
         "Zero-day ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
-      "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
-      "summary": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise. The post Alert Fatigue Is Becoming a Security Threat of Its Own appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 13:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

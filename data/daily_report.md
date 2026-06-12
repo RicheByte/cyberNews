@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-12 12:50 UTC  
+> **Last Updated:** 2026-06-12 16:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **cve 2026 35273** • **google confirms exploitation** • **twitter whistleblower complaint** • **target financial firms** • **sprawling phishing campaign** • **french government revealed** • **decade long phishing** • **build complex stateful** • **dire critical rating** • **phishing attacks rather** • **performance monitoring platform** • **national security risk** • **world's largest producer** • **worked well enough** • **victim ever seeing** • **system takeover showing** • **stark industries solutions** • **resetting account passwords** • **remote code execution**
+**ecostruxure panel server** • **cve 2026 35273** • **google confirms exploitation** • **critical vulnerability chain** • **twitter whistleblower complaint** • **target financial firms** • **sprawling phishing campaign** • **french government revealed** • **decade long phishing** • **build complex stateful** • **phishing attacks rather** • **dire critical rating** • **national security risk** • **performance monitoring platform** • **world's largest producer** • **worked well enough** • **victim ever seeing** • **stolen api keys** • **stark industries solutions** • **resetting account passwords**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 - [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 - [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
 - [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [Japanese energy firm loses drive with data of 10.9 million clients](https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/)
 - [Maine breach portal abused to publish fake data breach disclosures](https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/)
 - [Oracle mitigates PeopleSoft zero-day exploited in data theft attacks](https://www.bleepingcomputer.com/news/security/oracle-mitigates-peoplesoft-zero-day-exploited-in-data-theft-attacks/)
-- [Authorities dismantle 'AudiA6' ransomware crypto-laundering service](https://www.bleepingcomputer.com/news/legal/authorities-dismantle-audia6-ransomware-crypto-laundering-service/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Claude Fable 5 Doesn't Change the Mythos Security Story](https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story)
 - [Phishing Attack Volume Down 20%, But Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
 - [Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure](https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours)
 - [Segmentation Works for OT If Operators Are Paying Attention](https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention)
@@ -56,10 +57,10 @@
 - [CISA Rewrites Federal Patching Requirements for AI Threat Era](https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era)
 - [Bug Bounty Research Triggers ServiceNow Security Alert](https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert)
 - [AI Risk Worries Insurers &amp; Businesses Alike](https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike)
-- [Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet](https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet)
 
 ### Security Week
 
+- [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
 - [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
 - [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
 - [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
@@ -67,7 +68,6 @@
 - [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 - [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 - [Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks](https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/)
-- [Alert Fatigue Is Becoming a Security Threat of Its Own](https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/)
 
 ### Threatpost
 

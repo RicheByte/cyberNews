@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 20:02",
+  "last_updated": "2026-06-12 23:12",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,52 +27,52 @@
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "cve 2026 35273",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ukrainian national extradited",
-      "mentions": 1
-    },
-    {
-      "keyword": "user including administrators",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1845
-    },
-    {
-      "keyword": "target financial firms",
-      "mentions": 3
-    },
-    {
-      "keyword": "fake disclosures maine",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical vulnerability chain",
       "mentions": 2
     },
     {
+      "keyword": "user including administrators",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1846
+    },
+    {
+      "keyword": "target financial firms",
+      "mentions": 4
+    },
+    {
+      "keyword": "fake disclosures maine",
+      "mentions": 2
+    },
+    {
+      "keyword": "critical vulnerability chain",
+      "mentions": 3
+    },
+    {
       "keyword": "national security risk",
-      "mentions": 193
+      "mentions": 194
     },
     {
       "keyword": "google confirms exploitation",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
-      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
       "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
-      "published": "Sat, 13 Jun 2026 00:54:50 +0530",
+      "published": "Sat, 13 Jun 2026 01:03:25 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -324,6 +324,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
+      "summary": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
+      "published": "Fri, 12 Jun 2026 20:26:32 GMT",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
       "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
       "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explained.",
@@ -389,15 +400,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
       "summary": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
       "published": "Wed, 10 Jun 2026 20:07:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Risk Worries Insurers &amp; Businesses Alike",
-      "link": "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike",
-      "summary": "As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
-      "published": "Wed, 10 Jun 2026 19:34:43 GMT",
       "value_score": 10,
       "value_signals": []
     },

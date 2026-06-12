@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-12 20:02 UTC  
+> **Last Updated:** 2026-06-12 23:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -16,7 +16,7 @@
 
 ### The Hacker News
 
-- [400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer](https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html)
+- [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 - [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 - [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 - [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed](https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed)
 - [Claude Fable 5 Doesn't Change the Mythos Security Story](https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story)
 - [Phishing Attack Volume Down 20%, But Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
 - [Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure](https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours)
@@ -56,7 +57,6 @@
 - [Chinese, N. Korean Threat Groups Build on Asia-Pacific Success](https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success)
 - [CISA Rewrites Federal Patching Requirements for AI Threat Era](https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era)
 - [Bug Bounty Research Triggers ServiceNow Security Alert](https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert)
-- [AI Risk Worries Insurers &amp; Businesses Alike](https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike)
 
 ### Security Week
 

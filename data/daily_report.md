@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-13 10:23 UTC  
+> **Last Updated:** 2026-06-13 13:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **ukrainian national extradited** • **national security risk** • **user including administrators** • **twitter whistleblower complaint** • **fake disclosures maine** • **critical vulnerability chain** • **google confirms exploitation** • **dire critical rating** • **deploys software internally** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **wusa installer microsoft** • **world's largest producer** • **worked well enough** • **will abruptly disable** • **target financial firms** • **stolen api keys** • **state's website prompting**
+**ecostruxure panel server** • **ukrainian national extradited** • **remote code execution** • **national security risk** • **user including administrators** • **twitter whistleblower complaint** • **running arbitrary code** • **paying attention even** • **fake disclosures maine** • **execute arbitrary code** • **cve 2026 20253** • **cvss scoring system** • **critical vulnerability chain** • **google confirms exploitation** • **deploys software internally** • **dire critical rating** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **wusa installer microsoft**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
 - [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
 - [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 - [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
@@ -23,7 +24,6 @@
 - [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
 - [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
 - [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
-- [INTERPOL Operation Takes Down Sniper Dz Phishing Platform, Arrests Administrator](https://thehackernews.com/2026/06/interpol-takes-down-sniper-dz-phishing.html)
 
 ### BleepingComputer
 

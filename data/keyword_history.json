@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1849,
+      "count": 1850,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -740,7 +740,7 @@
       ]
     },
     "remote code execution": {
-      "count": 451,
+      "count": 452,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -815,7 +815,8 @@
         "2026-06-01",
         "2026-06-09",
         "2026-06-10",
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-13"
       ]
     },
     "attacker remotely control": {
@@ -888,7 +889,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -905,7 +906,8 @@
         "2026-04-17",
         "2026-05-14",
         "2026-05-20",
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-13"
       ]
     },
     "france arrests latvian": {
@@ -1060,7 +1062,7 @@
       ]
     },
     "national security risk": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2143,7 +2145,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2157,7 +2159,8 @@
         "2026-04-22",
         "2026-05-22",
         "2026-05-28",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-06-13"
       ]
     },
     "cybercrime looks like": {
@@ -3650,7 +3653,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17372,7 +17375,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18879,7 +18882,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19240,7 +19243,7 @@
       ]
     },
     "google confirms exploitation": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19272,7 +19275,7 @@
       ]
     },
     "performance monitoring platform": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19305,7 +19308,7 @@
       ]
     },
     "critical vulnerability chain": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19319,28 +19322,28 @@
       ]
     },
     "ukrainian national extradited": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-12",
         "2026-06-13"
       ]
     },
     "user including administrators": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-12",
         "2026-06-13"
       ]
     },
     "fake disclosures maine": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-12",
         "2026-06-13"
       ]
     },
     "wusa installer microsoft": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19361,13 +19364,13 @@
       ]
     },
     "mythos made safe": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-13"
       ]
     },
     "mythos 5 offline": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-13"
       ]
@@ -19377,20 +19380,27 @@
       "dates": [
         "2026-06-13"
       ]
+    },
+    "running arbitrary code": {
+      "count": 1,
+      "dates": [
+        "2026-06-13"
+      ]
+    },
+    "paying attention even": {
+      "count": 1,
+      "dates": [
+        "2026-06-13"
+      ]
+    },
+    "cve 2026 20253": {
+      "count": 1,
+      "dates": [
+        "2026-06-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-30 06:42",
-      "articles": 56,
-      "top_keywords": [
-        "download malware disguised",
-        "275 million students",
-        "twitter whistleblower complaint",
-        "threat actors disguised",
-        "service's login page"
-      ]
-    },
     {
       "timestamp": "2026-05-30 09:54",
       "articles": 56,
@@ -20478,6 +20488,17 @@
         "national security risk",
         "user including administrators",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-13 13:49",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "ukrainian national extradited",
+        "remote code execution",
+        "national security risk",
+        "user including administrators"
       ]
     }
   ]

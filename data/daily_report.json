@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 13:49",
+  "last_updated": "2026-06-13 15:29",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -9,6 +9,7 @@
     "national security risk",
     "user including administrators",
     "twitter whistleblower complaint",
+    "target financial firms",
     "running arbitrary code",
     "paying attention even",
     "fake disclosures maine",
@@ -21,49 +22,48 @@
     "dire critical rating",
     "performance monitoring platform",
     "mythos made safe",
-    "mythos 5 offline",
-    "wusa installer microsoft"
+    "mythos 5 offline"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "ukrainian national extradited",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "remote code execution",
-      "mentions": 452
+      "mentions": 453
     },
     {
       "keyword": "national security risk",
-      "mentions": 198
+      "mentions": 199
     },
     {
       "keyword": "user including administrators",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1850
+      "mentions": 1851
+    },
+    {
+      "keyword": "target financial firms",
+      "mentions": 8
     },
     {
       "keyword": "running arbitrary code",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "paying attention even",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "fake disclosures maine",
-      "mentions": 6
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 74
+      "mentions": 7
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "published": "Sat, 13 Jun 2026 10:06:42 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
       "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
       "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]",
@@ -218,17 +227,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "summary": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "published": "Fri, 12 Jun 2026 06:13:19 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

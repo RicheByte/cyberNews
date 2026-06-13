@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-13 07:41 UTC |
+| 🕐 Last Updated | 2026-06-13 10:23 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `ukrainian national extradited` • `user including administrators` • `twitter whistleblower complaint` • `fake disclosures maine` • `critical vulnerability chain` • `national security risk` • `google confirms exploitation` • `dire critical rating` • `deploys software internally`
+`ecostruxure panel server` • `ukrainian national extradited` • `national security risk` • `user including administrators` • `twitter whistleblower complaint` • `fake disclosures maine` • `critical vulnerability chain` • `google confirms exploitation` • `dire critical rating` • `deploys software internally`
 
 ## 📄 Reports
 

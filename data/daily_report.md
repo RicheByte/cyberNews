@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-13 07:41 UTC  
+> **Last Updated:** 2026-06-13 10:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **ukrainian national extradited** • **user including administrators** • **twitter whistleblower complaint** • **fake disclosures maine** • **critical vulnerability chain** • **national security risk** • **google confirms exploitation** • **dire critical rating** • **deploys software internally** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **wusa installer microsoft** • **world's largest producer** • **worked well enough** • **will abruptly disable** • **target financial firms** • **stolen api keys** • **state's website prompting**
+**ecostruxure panel server** • **ukrainian national extradited** • **national security risk** • **user including administrators** • **twitter whistleblower complaint** • **fake disclosures maine** • **critical vulnerability chain** • **google confirms exploitation** • **dire critical rating** • **deploys software internally** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **wusa installer microsoft** • **world's largest producer** • **worked well enough** • **will abruptly disable** • **target financial firms** • **stolen api keys** • **state's website prompting**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 - [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
 - [phpBB forum fixes auth bypass bug lurking for a decade](https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/)
 - [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
@@ -34,7 +35,6 @@
 - [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
 - [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 - [Pharma giant Novo Nordisk discloses breach of clinical trials data](https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/)
-- [CISA orders feds to patch actively exploited Ivanti flaw by Sunday](https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/)
 
 ### Krebs on Security
 

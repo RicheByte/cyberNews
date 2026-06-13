@@ -1,14 +1,12 @@
 {
-  "last_updated": "2026-06-13 02:52",
+  "last_updated": "2026-06-13 07:41",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
-    "cve 2026 35273",
     "ukrainian national extradited",
     "user including administrators",
     "twitter whistleblower complaint",
-    "target financial firms",
     "fake disclosures maine",
     "critical vulnerability chain",
     "national security risk",
@@ -16,57 +14,68 @@
     "dire critical rating",
     "deploys software internally",
     "performance monitoring platform",
+    "mythos made safe",
+    "mythos 5 offline",
     "wusa installer microsoft",
     "world's largest producer",
     "worked well enough",
+    "will abruptly disable",
+    "target financial firms",
     "stolen api keys",
-    "state's website prompting",
-    "stark industries solutions",
-    "servers defenders watch"
+    "state's website prompting"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 22
-    },
-    {
-      "keyword": "cve 2026 35273",
-      "mentions": 6
+      "mentions": 23
     },
     {
       "keyword": "ukrainian national extradited",
-      "mentions": 3
-    },
-    {
-      "keyword": "user including administrators",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1847
-    },
-    {
-      "keyword": "target financial firms",
-      "mentions": 5
-    },
-    {
-      "keyword": "fake disclosures maine",
-      "mentions": 3
-    },
-    {
-      "keyword": "critical vulnerability chain",
       "mentions": 4
     },
     {
+      "keyword": "user including administrators",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1848
+    },
+    {
+      "keyword": "fake disclosures maine",
+      "mentions": 4
+    },
+    {
+      "keyword": "critical vulnerability chain",
+      "mentions": 5
+    },
+    {
       "keyword": "national security risk",
-      "mentions": 195
+      "mentions": 196
     },
     {
       "keyword": "google confirms exploitation",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 159
+    },
+    {
+      "keyword": "deploys software internally",
+      "mentions": 50
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
+      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
+      "summary": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns. The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
+      "published": "Sat, 13 Jun 2026 11:12:50 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
@@ -135,17 +144,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
-      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
-      "summary": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the",
-      "published": "Fri, 12 Jun 2026 12:08:41 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {
@@ -405,6 +403,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls",
+      "link": "https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
+      "summary": "Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals. The post Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls appeared first on SecurityWeek .",
+      "published": "Sat, 13 Jun 2026 06:38:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
       "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
       "summary": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of hack cover-ups. The post In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine appeared first on SecurityWeek .",
@@ -473,19 +480,6 @@
       "value_signals": [
         "CVE mentioned",
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
-      "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
-      "summary": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks. The post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 11 Jun 2026 13:57:54 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
         "Exploit wording"
       ]
     },

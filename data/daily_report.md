@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-13 15:29 UTC  
+> **Last Updated:** 2026-06-13 17:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **ukrainian national extradited** • **remote code execution** • **national security risk** • **user including administrators** • **twitter whistleblower complaint** • **target financial firms** • **running arbitrary code** • **paying attention even** • **fake disclosures maine** • **execute arbitrary code** • **cve 2026 20253** • **cvss scoring system** • **critical vulnerability chain** • **google confirms exploitation** • **deploys software internally** • **dire critical rating** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline**
+**ecostruxure panel server** • **ukrainian national extradited** • **remote code execution** • **national security risk** • **user including administrators** • **will abruptly disable** • **twitter whistleblower complaint** • **target financial firms** • **running arbitrary code** • **paying attention even** • **fake disclosures maine** • **execute arbitrary code** • **critical vulnerability chain** • **cvss scoring system** • **deploys software internally** • **dire critical rating** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **wusa installer microsoft**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/)
 - [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
 - [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
 - [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
@@ -67,7 +68,6 @@
 - [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
 - [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
 - [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
-- [Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters](https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/)
 
 ### Threatpost
 

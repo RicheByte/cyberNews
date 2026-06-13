@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1854,
+      "count": 1855,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -740,7 +740,7 @@
       ]
     },
     "remote code execution": {
-      "count": 456,
+      "count": 457,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -889,7 +889,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1062,7 +1062,7 @@
       ]
     },
     "national security risk": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2145,7 +2145,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -3653,7 +3653,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17375,7 +17375,7 @@
       ]
     },
     "deploys software internally": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18882,7 +18882,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19250,7 +19250,7 @@
       ]
     },
     "target financial firms": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19275,7 +19275,7 @@
       ]
     },
     "performance monitoring platform": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19289,7 +19289,7 @@
       ]
     },
     "worked well enough": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19308,7 +19308,7 @@
       ]
     },
     "critical vulnerability chain": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19322,21 +19322,21 @@
       ]
     },
     "ukrainian national extradited": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-12",
         "2026-06-13"
       ]
     },
     "user including administrators": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-12",
         "2026-06-13"
       ]
     },
     "fake disclosures maine": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-12",
         "2026-06-13"
@@ -19364,31 +19364,31 @@
       ]
     },
     "mythos made safe": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-13"
       ]
     },
     "mythos 5 offline": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-13"
       ]
     },
     "will abruptly disable": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-13"
       ]
     },
     "running arbitrary code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-13"
       ]
     },
     "paying attention even": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-13"
       ]
@@ -19401,17 +19401,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-30 16:56",
-      "articles": 56,
-      "top_keywords": [
-        "exploit code published",
-        "twitter whistleblower complaint",
-        "service's login page",
-        "greyvibe per withsecure",
-        "download malware disguised"
-      ]
-    },
     {
       "timestamp": "2026-05-30 19:05",
       "articles": 56,
@@ -20492,6 +20481,17 @@
     },
     {
       "timestamp": "2026-06-13 21:09",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "ukrainian national extradited",
+        "remote code execution",
+        "national security risk",
+        "user including administrators"
+      ]
+    },
+    {
+      "timestamp": "2026-06-13 22:59",
       "articles": 56,
       "top_keywords": [
         "ecostruxure panel server",

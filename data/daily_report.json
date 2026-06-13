@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13 19:17",
+  "last_updated": "2026-06-13 21:09",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -22,48 +22,48 @@
     "performance monitoring platform",
     "mythos made safe",
     "mythos 5 offline",
-    "wusa installer microsoft"
+    "worked well enough"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "ukrainian national extradited",
-      "mentions": 9
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 455
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 201
-    },
-    {
-      "keyword": "user including administrators",
-      "mentions": 9
-    },
-    {
-      "keyword": "will abruptly disable",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1853
-    },
-    {
-      "keyword": "target financial firms",
       "mentions": 10
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 456
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 202
+    },
+    {
+      "keyword": "user including administrators",
+      "mentions": 10
+    },
+    {
+      "keyword": "will abruptly disable",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1854
+    },
+    {
+      "keyword": "target financial firms",
+      "mentions": 11
+    },
+    {
       "keyword": "running arbitrary code",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "paying attention even",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ex-school district employee jailed for hacks on former employer",
+      "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
+      "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
+      "published": "Sat, 13 Jun 2026 16:53:13 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
       "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
@@ -217,17 +226,6 @@
       "published": "Fri, 12 Jun 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "summary": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "published": "Fri, 12 Jun 2026 07:44:58 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
     },
     {
       "source": "Krebs on Security",

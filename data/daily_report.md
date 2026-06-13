@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-13 19:17 UTC  
+> **Last Updated:** 2026-06-13 21:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **ukrainian national extradited** • **remote code execution** • **national security risk** • **user including administrators** • **will abruptly disable** • **twitter whistleblower complaint** • **target financial firms** • **running arbitrary code** • **paying attention even** • **fake disclosures maine** • **execute arbitrary code** • **critical vulnerability chain** • **cvss scoring system** • **deploys software internally** • **dire critical rating** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **wusa installer microsoft**
+**ecostruxure panel server** • **ukrainian national extradited** • **remote code execution** • **national security risk** • **user including administrators** • **will abruptly disable** • **twitter whistleblower complaint** • **target financial firms** • **running arbitrary code** • **paying attention even** • **fake disclosures maine** • **execute arbitrary code** • **critical vulnerability chain** • **cvss scoring system** • **deploys software internally** • **dire critical rating** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **worked well enough**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Ex-school district employee jailed for hacks on former employer](https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/)
 - [Chinese hackers hijack auth flow, spy on isolated network for a decade](https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/)
 - [US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos](https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/)
 - [Maine disables data breach notification portal after fake disclosures](https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/)
@@ -34,7 +35,6 @@
 - [Ukrainian national pleads guilty to role in Conti ransomware operation](https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/)
 - [Over 400 Arch Linux packages compromised to push rootkit, infostealer](https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/)
 - [Early Warning Signs of Supply-Chain Attacks Live in the Dark Web](https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/)
-- [Microsoft fixes Windows update failures linked to WUSA installer](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/)
 
 ### Krebs on Security
 

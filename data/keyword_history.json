@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1860,
+      "count": 1861,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -741,7 +741,7 @@
       ]
     },
     "remote code execution": {
-      "count": 462,
+      "count": 463,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -891,7 +891,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1065,7 +1065,7 @@
       ]
     },
     "national security risk": {
-      "count": 208,
+      "count": 209,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2149,7 +2149,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -3658,7 +3658,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -18889,7 +18889,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19258,7 +19258,7 @@
       ]
     },
     "target financial firms": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19284,7 +19284,7 @@
       ]
     },
     "performance monitoring platform": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19299,7 +19299,7 @@
       ]
     },
     "worked well enough": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19319,7 +19319,7 @@
       ]
     },
     "critical vulnerability chain": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19334,7 +19334,7 @@
       ]
     },
     "ukrainian national extradited": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19342,7 +19342,7 @@
       ]
     },
     "user including administrators": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19350,7 +19350,7 @@
       ]
     },
     "fake disclosures maine": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19365,7 +19365,7 @@
       ]
     },
     "state's website prompting": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19380,35 +19380,35 @@
       ]
     },
     "mythos made safe": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-13",
         "2026-06-14"
       ]
     },
     "mythos 5 offline": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-13",
         "2026-06-14"
       ]
     },
     "will abruptly disable": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-13",
         "2026-06-14"
       ]
     },
     "running arbitrary code": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-13",
         "2026-06-14"
       ]
     },
     "paying attention even": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-13",
         "2026-06-14"
@@ -19422,17 +19422,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-31 10:10",
-      "articles": 56,
-      "top_keywords": [
-        "exploit code published",
-        "twitter whistleblower complaint",
-        "service's login page",
-        "greyvibe per withsecure",
-        "download malware disguised"
-      ]
-    },
     {
       "timestamp": "2026-05-31 13:25",
       "articles": 56,
@@ -20513,6 +20502,17 @@
     },
     {
       "timestamp": "2026-06-14 15:45",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "ukrainian national extradited",
+        "remote code execution",
+        "user including administrators",
+        "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-06-14 17:15",
       "articles": 56,
       "top_keywords": [
         "ecostruxure panel server",

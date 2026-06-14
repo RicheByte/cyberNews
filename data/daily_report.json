@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-14 13:50",
+  "last_updated": "2026-06-14 15:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
     "ukrainian national extradited",
     "remote code execution",
-    "national security risk",
     "user including administrators",
+    "national security risk",
     "will abruptly disable",
     "twitter whistleblower complaint",
     "target financial firms",
@@ -15,55 +15,55 @@
     "paying attention even",
     "fake disclosures maine",
     "execute arbitrary code",
-    "critical vulnerability chain",
     "cvss scoring system",
-    "deploys software internally",
     "dire critical rating",
+    "critical vulnerability chain",
     "performance monitoring platform",
     "mythos made safe",
     "mythos 5 offline",
-    "worked well enough"
+    "worked well enough",
+    "state's website prompting"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "ukrainian national extradited",
-      "mentions": 15
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 461
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 207
-    },
-    {
-      "keyword": "user including administrators",
-      "mentions": 15
-    },
-    {
-      "keyword": "will abruptly disable",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1859
-    },
-    {
-      "keyword": "target financial firms",
       "mentions": 16
     },
     {
+      "keyword": "remote code execution",
+      "mentions": 462
+    },
+    {
+      "keyword": "user including administrators",
+      "mentions": 16
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 208
+    },
+    {
+      "keyword": "will abruptly disable",
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1860
+    },
+    {
+      "keyword": "target financial firms",
+      "mentions": 17
+    },
+    {
       "keyword": "running arbitrary code",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "paying attention even",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FBI disrupts massive AI-powered phishing service using a million URLs",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-massive-ai-powered-phishing-service-using-a-million-urls/",
+      "summary": "In a coordinated effort, the FBI, working with Google and Black Lotus Labs, has dismantled a massive Chinese phishing-as-a-service operation called Outsider Enterprise with thousands of phishing websites used to steal credit card data and passwords. [...]",
+      "published": "Sun, 14 Jun 2026 10:36:23 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ex-school district employee jailed for hacks on former employer",
       "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
       "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
@@ -215,15 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
       "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
       "published": "Fri, 12 Jun 2026 13:03:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "summary": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
-      "published": "Fri, 12 Jun 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },

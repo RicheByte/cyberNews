@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1865,
+      "count": 1866,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -517,7 +517,7 @@
       ]
     },
     "real life identity": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -535,7 +535,8 @@
         "2026-01-08",
         "2026-06-10",
         "2026-06-11",
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-15"
       ]
     },
     "got1000 series devices": {
@@ -893,7 +894,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1068,7 +1069,7 @@
       ]
     },
     "national security risk": {
-      "count": 213,
+      "count": 214,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2094,14 +2095,15 @@
       ]
     },
     "rated 9 8": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2025-12-31",
         "2026-01-01",
         "2026-01-02",
         "2026-01-22",
         "2026-01-23",
-        "2026-01-24"
+        "2026-01-24",
+        "2026-06-15"
       ]
     },
     "raspberry pi devices": {
@@ -17765,7 +17767,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17780,7 +17782,8 @@
         "2026-06-10",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-15"
       ]
     },
     "ai power users": {
@@ -17975,12 +17978,13 @@
       ]
     },
     "unknown threat actor": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-05-29",
         "2026-05-30",
         "2026-05-31",
-        "2026-06-01"
+        "2026-06-01",
+        "2026-06-15"
       ]
     },
     "protect user data": {
@@ -18895,7 +18899,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19122,11 +19126,12 @@
       ]
     },
     "ai threat era": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-10",
         "2026-06-11",
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-15"
       ]
     },
     "ivanti sentry enabling": {
@@ -19230,10 +19235,11 @@
       ]
     },
     "remote unauthenticated attacker": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-11",
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-15"
       ]
     },
     "slow response workflows": {
@@ -19265,7 +19271,7 @@
       ]
     },
     "target financial firms": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19345,7 +19351,7 @@
       ]
     },
     "ukrainian national extradited": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19354,7 +19360,7 @@
       ]
     },
     "user including administrators": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19363,7 +19369,7 @@
       ]
     },
     "fake disclosures maine": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -19388,14 +19394,15 @@
       ]
     },
     "servers defenders watch": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-12",
-        "2026-06-13"
+        "2026-06-13",
+        "2026-06-15"
       ]
     },
     "mythos made safe": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-13",
         "2026-06-14",
@@ -19411,7 +19418,7 @@
       ]
     },
     "will abruptly disable": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-13",
         "2026-06-14",
@@ -19419,7 +19426,7 @@
       ]
     },
     "running arbitrary code": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-13",
         "2026-06-14",
@@ -19427,7 +19434,7 @@
       ]
     },
     "paying attention even": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-13",
         "2026-06-14",
@@ -19439,20 +19446,15 @@
       "dates": [
         "2026-06-13"
       ]
+    },
+    "rampage higher ed": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-05-31 20:53",
-      "articles": 56,
-      "top_keywords": [
-        "exploit code published",
-        "twitter whistleblower complaint",
-        "service's login page",
-        "overall system integrity",
-        "download malware disguised"
-      ]
-    },
     {
       "timestamp": "2026-05-31 22:56",
       "articles": 56,
@@ -20540,6 +20542,17 @@
         "remote code execution",
         "user including administrators",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-06-15 09:56",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "ukrainian national extradited",
+        "user including administrators",
+        "national security risk",
+        "running arbitrary code"
       ]
     }
   ]

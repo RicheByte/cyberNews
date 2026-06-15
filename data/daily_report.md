@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-15 03:39 UTC  
+> **Last Updated:** 2026-06-15 09:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ecostruxure panel server** • **ukrainian national extradited** • **remote code execution** • **user including administrators** • **national security risk** • **will abruptly disable** • **twitter whistleblower complaint** • **target financial firms** • **running arbitrary code** • **paying attention even** • **fake disclosures maine** • **execute arbitrary code** • **cvss scoring system** • **dire critical rating** • **critical vulnerability chain** • **performance monitoring platform** • **mythos made safe** • **mythos 5 offline** • **worked well enough** • **state's website prompting**
+**ecostruxure panel server** • **ukrainian national extradited** • **user including administrators** • **national security risk** • **running arbitrary code** • **execute arbitrary code** • **will abruptly disable** • **twitter whistleblower complaint** • **target financial firms** • **paying attention even** • **unknown threat actor** • **ai threat era** • **remote unauthenticated attacker** • **fake disclosures maine** • **mythos made safe** • **stark industries solutions** • **servers defenders watch** • **real life identity** • **rated 9 8** • **rampage higher ed**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts](https://thehackernews.com/2026/06/sniper-dz-scams-target-mena-users-via.html)
+- [Palo Alto Warns of Active Exploitation of PAN-OS GlobalProtect VPN Flaw](https://thehackernews.com/2026/06/palo-alto-warns-of-active-exploitation.html)
 - [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html)
 - [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html)
 - [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html)
 - [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html)
 - [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html)
 - [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html)
-- [Rethinking MDR as Attackers and Defenders Embrace AI](https://thehackernews.com/2026/06/rethinking-mdr-as-attackers-and.html)
-- [LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution](https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service](https://www.securityweek.com/fbi-google-dismantle-outsider-enterprise-phishing-service/)
+- [Maine Disables Data Breach Portal Due to Fake Submissions](https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/)
 - [NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks](https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/)
 - [Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls](https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/)
 - [In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine](https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/)
 - [Industry Reactions to Claude Fable 5: Feedback Friday](https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/)
 - [Iranian Cyber Group Handala Claims Cal Water Hack](https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/)
 - [Ivanti Sentry Exploitation Attempts Hitting Honeypots](https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/)
-- [Chrome 149 Update Patches 28 Vulnerabilities](https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/)
-- [Anthropic Disputes Fable 5 AI Jailbreak](https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/)
 
 ### Threatpost
 

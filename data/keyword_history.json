@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1867,
+      "count": 1868,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -517,7 +517,7 @@
       ]
     },
     "real life identity": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1069,7 +1069,7 @@
       ]
     },
     "national security risk": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -8616,10 +8616,11 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-24",
-        "2026-02-25"
+        "2026-02-25",
+        "2026-06-15"
       ]
     },
     "delivers valuable data": {
@@ -11710,7 +11711,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -17769,7 +17770,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18901,7 +18902,7 @@
       ]
     },
     "ecostruxure panel server": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -18991,10 +18992,11 @@
       ]
     },
     "nearly three dozen": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-09",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-06-15"
       ]
     },
     "claude fable 5": {
@@ -19169,7 +19171,7 @@
       ]
     },
     "2025 krebsonsecurity story": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-11",
         "2026-06-12",
@@ -19469,7 +19471,7 @@
       ]
     },
     "ransomware attack shuts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-15"
       ]
@@ -19487,19 +19489,19 @@
       ]
     },
     "onboarding password mistake": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-15"
       ]
     },
     "leak 297 gb": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-15"
       ]
     },
     "phishing attack volume": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-15"
       ]
@@ -19509,20 +19511,51 @@
       "dates": [
         "2026-06-15"
       ]
+    },
+    "investigation fbi warned": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    "ai gateway servers": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    "usually means sharing": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    "url filtering tools": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    "target's mailbox onedrive": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    "target numerous institutions": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
+    },
+    "specially crafted url": {
+      "count": 1,
+      "dates": [
+        "2026-06-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-01 03:32",
-      "articles": 56,
-      "top_keywords": [
-        "exploit code published",
-        "twitter whistleblower complaint",
-        "service's login page",
-        "overall system integrity",
-        "download malware disguised"
-      ]
-    },
     {
       "timestamp": "2026-06-01 09:20",
       "articles": 56,
@@ -20610,6 +20643,17 @@
         "create operational strain",
         "ransomware attack shuts",
         "threat actor claims"
+      ]
+    },
+    {
+      "timestamp": "2026-06-15 19:43",
+      "articles": 56,
+      "top_keywords": [
+        "ecostruxure panel server",
+        "ransomware attack shuts",
+        "twitter whistleblower complaint",
+        "real life identity",
+        "onboarding password mistake"
       ]
     }
   ]

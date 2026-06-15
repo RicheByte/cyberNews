@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-15 15:45 UTC |
+| 🕐 Last Updated | 2026-06-15 19:43 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `banned foreign nationals` • `create operational strain` • `ransomware attack shuts` • `threat actor claims` • `twitter whistleblower complaint` • `shinyhunters claims council` • `real life identity` • `paying attention even` • `onboarding password mistake`
+`ecostruxure panel server` • `ransomware attack shuts` • `twitter whistleblower complaint` • `real life identity` • `onboarding password mistake` • `leak 297 gb` • `investigation fbi warned` • `national security risk` • `phishing attack volume` • `nearly three dozen`
 
 ## 📄 Reports
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-15 09:56 UTC |
+| 🕐 Last Updated | 2026-06-15 15:45 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `ukrainian national extradited` • `user including administrators` • `national security risk` • `running arbitrary code` • `execute arbitrary code` • `will abruptly disable` • `twitter whistleblower complaint` • `target financial firms` • `paying attention even`
+`ecostruxure panel server` • `banned foreign nationals` • `create operational strain` • `ransomware attack shuts` • `threat actor claims` • `twitter whistleblower complaint` • `shinyhunters claims council` • `real life identity` • `paying attention even` • `onboarding password mistake`
 
 ## 📄 Reports
 

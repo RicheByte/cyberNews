@@ -1,72 +1,111 @@
 {
-  "last_updated": "2026-06-15 09:56",
+  "last_updated": "2026-06-15 15:45",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "ecostruxure panel server",
-    "ukrainian national extradited",
-    "user including administrators",
-    "national security risk",
-    "running arbitrary code",
-    "execute arbitrary code",
-    "will abruptly disable",
+    "banned foreign nationals",
+    "create operational strain",
+    "ransomware attack shuts",
+    "threat actor claims",
     "twitter whistleblower complaint",
-    "target financial firms",
-    "paying attention even",
-    "unknown threat actor",
-    "ai threat era",
-    "remote unauthenticated attacker",
-    "fake disclosures maine",
-    "mythos made safe",
-    "stark industries solutions",
-    "servers defenders watch",
+    "shinyhunters claims council",
     "real life identity",
-    "rated 9 8",
-    "rampage higher ed"
+    "paying attention even",
+    "onboarding password mistake",
+    "leak 297 gb",
+    "cvss scoring system",
+    "phishing attack volume",
+    "sprawling phishing campaign",
+    "massive chinese phishing",
+    "national security risk",
+    "unknown threat actor",
+    "remote unauthenticated attacker",
+    "frequent attack vector",
+    "2025 krebsonsecurity story"
   ],
   "trending": [
     {
       "keyword": "ecostruxure panel server",
-      "mentions": 41
+      "mentions": 42
     },
     {
-      "keyword": "ukrainian national extradited",
-      "mentions": 22
+      "keyword": "banned foreign nationals",
+      "mentions": 1
     },
     {
-      "keyword": "user including administrators",
-      "mentions": 22
+      "keyword": "create operational strain",
+      "mentions": 1
     },
     {
-      "keyword": "national security risk",
-      "mentions": 214
+      "keyword": "ransomware attack shuts",
+      "mentions": 1
     },
     {
-      "keyword": "running arbitrary code",
-      "mentions": 17
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 90
-    },
-    {
-      "keyword": "will abruptly disable",
-      "mentions": 17
+      "keyword": "threat actor claims",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1866
+      "mentions": 1867
     },
     {
-      "keyword": "target financial firms",
-      "mentions": 23
+      "keyword": "shinyhunters claims council",
+      "mentions": 1
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 133
     },
     {
       "keyword": "paying attention even",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "onboarding password mistake",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
+      "published": "Mon, 15 Jun 2026 19:19:29 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
+      "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,",
+      "published": "Mon, 15 Jun 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
+      "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
+      "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family. The cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The",
+      "published": "Mon, 15 Jun 2026 16:37:50 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
+      "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
+      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites. When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it",
+      "published": "Mon, 15 Jun 2026 15:29:38 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Sniper Dz Scams Target MENA Users via Fake Facebook Offers and Browser Alerts",
@@ -113,42 +152,66 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "summary": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
-      "published": "Sat, 13 Jun 2026 01:03:25 +0530",
+      "source": "BleepingComputer",
+      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
+      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
+      "published": "Mon, 15 Jun 2026 11:30:23 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "summary": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
-      "published": "Sat, 13 Jun 2026 00:29:32 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
+      "summary": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
+      "published": "Mon, 15 Jun 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Chinese hackers breach REDCap servers, steal medical research",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
+      "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
+      "published": "Mon, 15 Jun 2026 10:00:00 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Phishing ×3"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-      "summary": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
-      "published": "Fri, 12 Jun 2026 23:47:55 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "summary": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL. [...]",
+      "published": "Mon, 15 Jun 2026 09:00:00 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "summary": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
-      "published": "Fri, 12 Jun 2026 17:34:33 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
+      "summary": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system in March. [...]",
+      "published": "Mon, 15 Jun 2026 08:38:55 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
+      "summary": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response times. [...]",
+      "published": "Mon, 15 Jun 2026 08:12:20 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -167,66 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ex-school-district-employee-jailed-for-hacks-on-former-employer/",
       "summary": "A former IT employee at an Iowa school district was sentenced to 21 months in prison after conducting a prolonged cyberattack against the former employer that disrupted classroom operations, deleted accounts, and caused tens of thousands of dollars in damages. [...]",
       "published": "Sat, 13 Jun 2026 16:53:13 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
-      "summary": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
-      "published": "Sat, 13 Jun 2026 10:06:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
-      "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
-      "summary": "The US government has ordered Anthropic to block all foreign nationals from accessing Fable 5 and Mythos 5, forcing the company to suspend both models worldwide. Anthropic is complying but disputes the basis, calling the cited jailbreak narrow and the capability widely available elsewhere. [...]",
-      "published": "Sat, 13 Jun 2026 06:01:32 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Maine disables data breach notification portal after fake disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-disables-data-breach-notification-portal-after-fake-disclosures/",
-      "summary": "Maine has taken its public data breach reporting portal offline after fraudulent breach disclosures were published on the state's website, prompting a review of procedures to prevent abuse in the future. [...]",
-      "published": "Fri, 12 Jun 2026 15:33:32 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "phpBB forum fixes auth bypass bug lurking for a decade",
-      "link": "https://www.bleepingcomputer.com/news/security/phpbb-forum-fixes-auth-bypass-bug-lurking-for-a-decade/",
-      "summary": "A 10-year-old authentication bypass vulnerability discovered in the phpBB forum software allows an attacker to log in as any user, including administrators. [...]",
-      "published": "Fri, 12 Jun 2026 14:19:34 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "Auth bypass ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ukrainian national pleads guilty to role in Conti ransomware operation",
-      "link": "https://www.bleepingcomputer.com/news/security/ukrainian-national-pleads-guilty-to-role-in-conti-ransomware-operation/",
-      "summary": "A Ukrainian national extradited from Ireland to the United States last year has pleaded guilty to conspiracy charges tied to the Conti ransomware operation. [...]",
-      "published": "Fri, 12 Jun 2026 13:54:28 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "summary": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "published": "Fri, 12 Jun 2026 13:03:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -319,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
+      "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
+      "summary": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
+      "published": "Mon, 15 Jun 2026 12:17:22 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
       "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
       "summary": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
@@ -332,7 +344,7 @@
       "source": "Dark Reading",
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
       "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
-      "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explained.",
+      "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explains.",
       "published": "Fri, 12 Jun 2026 13:01:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -390,13 +402,73 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
-      "summary": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
-      "published": "Wed, 10 Jun 2026 20:07:53 GMT",
+      "source": "Security Week",
+      "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
+      "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
+      "summary": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen. The post Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 15:15:55 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
+      "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
+      "summary": "Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025. The post Chinese Hackers Target Medical, Military, and AI Research in North America appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 14:07:45 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "NewCore Emerges From Stealth Mode With $66 Million in Funding",
+      "link": "https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/",
+      "summary": "The startup has built a security-first identity platform to protect humans, machines, and AI agents. The post NewCore Emerges From Stealth Mode With $66 Million in Funding appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
+      "link": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
+      "summary": "Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang. The post Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 11:33:20 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
+      "link": "https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/",
+      "summary": "The pharmaceutical giant says the attackers gained access to personal data stored on the compromised systems. The post Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 11:17:21 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker",
+      "link": "https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/",
+      "summary": "French officials say roughly 73,000 government accounts were affected, while the threat actor claims to have stolen messages and user data from the sovereign Tchap platform. The post French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 11:09:10 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ShinyHunters Claims Council of Europe Hack",
+      "link": "https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/",
+      "summary": "The extortion group threatens to leak 297 GB of data allegedly stolen from the Council of Europe, including employee personal information. The post ShinyHunters Claims Council of Europe Hack appeared first on SecurityWeek .",
+      "published": "Mon, 15 Jun 2026 10:44:29 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "Security Week",
@@ -407,74 +479,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Maine Disables Data Breach Portal Due to Fake Submissions",
-      "link": "https://www.securityweek.com/maine-disables-data-breach-portal-due-to-fake-submissions/",
-      "summary": "Someone posted fake VRChat and Discord data breach reports on the system, prompting the Maine AG to take action. The post Maine Disables Data Breach Portal Due to Fake Submissions appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 08:34:54 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
-      "link": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
-      "summary": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek .",
-      "published": "Sat, 13 Jun 2026 15:52:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls",
-      "link": "https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
-      "summary": "Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals. The post Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls appeared first on SecurityWeek .",
-      "published": "Sat, 13 Jun 2026 06:38:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
-      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of hack cover-ups. The post In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine appeared first on SecurityWeek .",
-      "published": "Fri, 12 Jun 2026 16:17:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Industry Reactions to Claude Fable 5: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/",
-      "summary": "Industry professionals comment on various aspects of Fable 5, including dual-use capabilities, safeguards, and tiered access. The post Industry Reactions to Claude Fable 5: Feedback Friday appeared first on SecurityWeek .",
-      "published": "Fri, 12 Jun 2026 12:30:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Iranian Cyber Group Handala Claims Cal Water Hack",
-      "link": "https://www.securityweek.com/iranian-cyber-group-handala-claims-cal-water-hack/",
-      "summary": "The hackers published 5GB of data, including customer personal information and credentials for the RTKBase platform. The post Iranian Cyber Group Handala Claims Cal Water Hack appeared first on SecurityWeek .",
-      "published": "Fri, 12 Jun 2026 11:30:23 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
-      "link": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
-      "summary": "The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges. The post Ivanti Sentry Exploitation Attempts Hitting Honeypots appeared first on SecurityWeek .",
-      "published": "Fri, 12 Jun 2026 09:44:16 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
       ]
     },
     {

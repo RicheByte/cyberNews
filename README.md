@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-15 19:43 UTC |
+| 🕐 Last Updated | 2026-06-15 22:13 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ecostruxure panel server` • `ransomware attack shuts` • `twitter whistleblower complaint` • `real life identity` • `onboarding password mistake` • `leak 297 gb` • `investigation fbi warned` • `national security risk` • `phishing attack volume` • `nearly three dozen`
+`ransomware attack shuts` • `twitter whistleblower complaint` • `real life identity` • `onboarding password mistake` • `leak 297 gb` • `investigation fbi warned` • `phishing attack volume` • `nearly three dozen` • `google workspace rules` • `dire critical rating`
 
 ## 📄 Reports
 

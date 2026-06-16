@@ -1,72 +1,110 @@
 {
-  "last_updated": "2026-06-16 03:34",
+  "last_updated": "2026-06-16 09:21",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "sprysocks linux malware",
+    "cve 2026 20262",
     "ransomware attack shuts",
-    "twitter whistleblower complaint",
-    "real life identity",
-    "onboarding password mistake",
-    "leak 297 gb",
-    "investigation fbi warned",
-    "phishing attack volume",
-    "nearly three dozen",
-    "google workspace rules",
-    "dire critical rating",
     "national security risk",
-    "frequent attack vector",
-    "2025 krebsonsecurity story",
-    "shinyhunters extortion group",
-    "usually means sharing",
-    "url filtering tools",
-    "target numerous institutions",
-    "stark industries solutions",
+    "twitter whistleblower complaint",
+    "resetting account passwords",
+    "real life identity",
+    "leak 297 gb",
+    "dire critical rating",
+    "nearly three dozen",
+    "phishing attack volume",
+    "finding security vulnerabilities",
     "sovereign tchap platform",
-    "shinyhunters claims council"
+    "naxclow iot platform",
+    "personal data stored",
+    "2025 krebsonsecurity story",
+    "frequent attack vector",
+    "released security updates",
+    "shinyhunters extortion group",
+    "url filtering tools"
   ],
   "trending": [
     {
+      "keyword": "sprysocks linux malware",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 20262",
+      "mentions": 1
+    },
+    {
       "keyword": "ransomware attack shuts",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1870
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 136
-    },
-    {
-      "keyword": "onboarding password mistake",
-      "mentions": 4
-    },
-    {
-      "keyword": "leak 297 gb",
-      "mentions": 4
-    },
-    {
-      "keyword": "investigation fbi warned",
-      "mentions": 3
-    },
-    {
-      "keyword": "phishing attack volume",
-      "mentions": 4
-    },
-    {
-      "keyword": "nearly three dozen",
       "mentions": 5
     },
     {
-      "keyword": "google workspace rules",
-      "mentions": 2
+      "keyword": "national security risk",
+      "mentions": 219
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1871
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 22
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 137
+    },
+    {
+      "keyword": "leak 297 gb",
+      "mentions": 5
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 178
+      "mentions": 179
+    },
+    {
+      "keyword": "nearly three dozen",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
+      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
+      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
+      "published": "Tue, 16 Jun 2026 13:44:55 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
+      "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
+      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage, could allow an authenticated, remote attacker to create a file or",
+      "published": "Tue, 16 Jun 2026 11:35:58 +0530",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
+      "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in question is CVE-2026-54420 (CVSS score: 8.5), which has been described as a case of privilege",
+      "published": "Tue, 16 Jun 2026 11:11:52 +0530",
+      "value_score": 86,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
@@ -122,31 +160,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
-      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
-      "summary": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,",
-      "published": "Mon, 15 Jun 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
+      "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
+      "published": "Tue, 16 Jun 2026 05:19:51 -0400",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
+      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
+      "published": "Tue, 16 Jun 2026 05:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "152 Chrome Wallpaper Extensions with 105K Installs Linked to Adware and Fake Traffic",
-      "link": "https://thehackernews.com/2026/06/152-chrome-wallpaper-extensions-with.html",
-      "summary": "Cybersecurity researchers have discovered a network of 152 Google Chrome extensions that act as new tab live wallpaper add-ons to distribute a potentially unwanted program (PUP) family. The cluster spans 38 separate Chrome Web Store publisher accounts and three brand backends: tabplugins[.]com, yowgames[.]com, and chromewallpaper[.]com. They have been collectively installed 105,000 times. The",
-      "published": "Mon, 15 Jun 2026 16:37:50 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Popular WordPress Plugin Scripts Tampered to Plant Hidden Backdoors on Sites",
-      "link": "https://thehackernews.com/2026/06/popular-wordpress-plugin-scripts.html",
-      "summary": "An attacker tampered with trusted JavaScript files used by WordPress sites running PushEngage, OptinMonster, and TrustPulse, turning those files into a way to break into the sites. When a site administrator was logged in as the file loaded, the code created an admin account under the attacker's control and installed a hidden plugin that opened a way back in. Ordinary visitors did not trigger it",
-      "published": "Mon, 15 Jun 2026 15:29:38 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "iRhythm discloses data breach, says hackers stole patient info",
+      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
+      "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
+      "published": "Tue, 16 Jun 2026 02:31:59 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -197,35 +240,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
-      "summary": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
-      "published": "Mon, 15 Jun 2026 11:30:23 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
-      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
-      "summary": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
-      "published": "Mon, 15 Jun 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese hackers breach REDCap servers, steal medical research",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
-      "summary": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
-      "published": "Mon, 15 Jun 2026 10:00:00 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -395,6 +409,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
+      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
+      "summary": "Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write. The post Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 06:20:18 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
       "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
       "summary": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen. The post Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer appeared first on SecurityWeek .",
@@ -460,17 +487,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service",
-      "link": "https://www.securityweek.com/fbi-google-dismantle-outsider-enterprise-phishing-service/",
-      "summary": "The platform used more than 9,000 phishing sites, stealing nearly 4 million credit cards and causing roughly $1.9 billion in losses. The post FBI, Google Dismantle ‘Outsider Enterprise’ Phishing Service appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 09:31:14 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
       ]
     },
     {

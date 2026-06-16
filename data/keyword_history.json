@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1870,
+      "count": 1871,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -518,7 +518,7 @@
       ]
     },
     "real life identity": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1071,7 +1071,7 @@
       ]
     },
     "national security risk": {
-      "count": 218,
+      "count": 219,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3669,7 +3669,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3937,7 +3937,7 @@
       ]
     },
     "released security updates": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -3957,7 +3957,8 @@
         "2026-04-30",
         "2026-05-13",
         "2026-05-14",
-        "2026-06-08"
+        "2026-06-08",
+        "2026-06-16"
       ]
     },
     "auditability collide daily": {
@@ -8620,7 +8621,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -11716,7 +11717,7 @@
       ]
     },
     "frequent attack vector": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-03-26",
         "2026-03-29",
@@ -16354,7 +16355,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -16373,7 +16374,8 @@
         "2026-06-02",
         "2026-06-03",
         "2026-06-08",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-06-16"
       ]
     },
     "released security patches": {
@@ -18153,7 +18155,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18164,7 +18166,8 @@
         "2026-06-08",
         "2026-06-09",
         "2026-06-11",
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-16"
       ]
     },
     "remote web ui": {
@@ -18999,7 +19002,7 @@
       ]
     },
     "nearly three dozen": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19179,7 +19182,7 @@
       ]
     },
     "2025 krebsonsecurity story": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-11",
         "2026-06-12",
@@ -19480,7 +19483,7 @@
       ]
     },
     "ransomware attack shuts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-15",
         "2026-06-16"
@@ -19507,14 +19510,14 @@
       ]
     },
     "leak 297 gb": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-15",
         "2026-06-16"
       ]
     },
     "phishing attack volume": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-15",
         "2026-06-16"
@@ -19547,7 +19550,7 @@
       ]
     },
     "url filtering tools": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-15",
         "2026-06-16"
@@ -19580,25 +19583,38 @@
       ]
     },
     "sovereign tchap platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-15",
+        "2026-06-16"
+      ]
+    },
+    "sprysocks linux malware": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "cve 2026 20262": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "naxclow iot platform": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "personal data stored": {
+      "count": 1,
+      "dates": [
         "2026-06-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-01 20:12",
-      "articles": 56,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "improve response times",
-        "create administrative accounts",
-        "chief master sergeant",
-        "15 000 sales"
-      ]
-    },
     {
       "timestamp": "2026-06-01 23:23",
       "articles": 56,
@@ -20686,6 +20702,17 @@
         "real life identity",
         "onboarding password mistake",
         "leak 297 gb"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16 09:21",
+      "articles": 56,
+      "top_keywords": [
+        "sprysocks linux malware",
+        "cve 2026 20262",
+        "ransomware attack shuts",
+        "national security risk",
+        "twitter whistleblower complaint"
       ]
     }
   ]

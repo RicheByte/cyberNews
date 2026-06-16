@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1871,
+      "count": 1872,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3669,7 +3669,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3937,7 +3937,7 @@
       ]
     },
     "released security updates": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6568,13 +6568,14 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-02-06",
         "2026-02-07",
         "2026-02-08",
         "2026-02-09",
-        "2026-05-04"
+        "2026-05-04",
+        "2026-06-16"
       ]
     },
     "publicly accessible api": {
@@ -16355,7 +16356,7 @@
       ]
     },
     "finding security vulnerabilities": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-05-13",
         "2026-05-14",
@@ -17778,7 +17779,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18155,7 +18156,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18995,14 +18996,15 @@
       ]
     },
     "obama white house": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-09",
-        "2026-06-10"
+        "2026-06-10",
+        "2026-06-16"
       ]
     },
     "nearly three dozen": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19576,7 +19578,7 @@
       ]
     },
     "google workspace rules": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-15",
         "2026-06-16"
@@ -19590,7 +19592,7 @@
       ]
     },
     "sprysocks linux malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-16"
       ]
@@ -19602,7 +19604,7 @@
       ]
     },
     "naxclow iot platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-16"
       ]
@@ -19612,20 +19614,57 @@
       "dates": [
         "2026-06-16"
       ]
+    },
+    "health information stored": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "cve 2026 25089": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "fortisandbox jrpc api": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "security experts warn": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "targets 217 banking": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "stolen 1 3tb": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "sends sms rewrites": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
+    },
+    "scarcruft aka apt37": {
+      "count": 1,
+      "dates": [
+        "2026-06-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-01 23:23",
-      "articles": 56,
-      "top_keywords": [
-        "twitter whistleblower complaint",
-        "revealing sensitive information",
-        "create administrative accounts",
-        "chief master sergeant",
-        "15 000 sales"
-      ]
-    },
     {
       "timestamp": "2026-06-02 03:29",
       "articles": 56,
@@ -20713,6 +20752,17 @@
         "ransomware attack shuts",
         "national security risk",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-16 15:05",
+      "articles": 56,
+      "top_keywords": [
+        "sprysocks linux malware",
+        "dire critical rating",
+        "twitter whistleblower complaint",
+        "resetting account passwords",
+        "naxclow iot platform"
       ]
     }
   ]

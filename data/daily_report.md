@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-16 09:21 UTC  
+> **Last Updated:** 2026-06-16 15:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sprysocks linux malware** • **cve 2026 20262** • **ransomware attack shuts** • **national security risk** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **leak 297 gb** • **dire critical rating** • **nearly three dozen** • **phishing attack volume** • **finding security vulnerabilities** • **sovereign tchap platform** • **naxclow iot platform** • **personal data stored** • **2025 krebsonsecurity story** • **frequent attack vector** • **released security updates** • **shinyhunters extortion group** • **url filtering tools**
+**sprysocks linux malware** • **dire critical rating** • **twitter whistleblower complaint** • **resetting account passwords** • **naxclow iot platform** • **health information stored** • **cve 2026 25089** • **finding security vulnerabilities** • **nearly three dozen** • **google workspace rules** • **fortisandbox jrpc api** • **obama white house** • **security experts warn** • **released security updates** • **critical function vulnerability** • **targets 217 banking** • **stolen 1 3tb** • **stark industries solutions** • **sends sms rewrites** • **scarcruft aka apt37**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
+- [Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
+- [Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
+- [China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth](https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html)
 - [Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware](https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html)
 - [Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw](https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html)
 - [CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation](https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html)
 - [Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails](https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html)
-- [North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels](https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html)
-- [LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers](https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html)
-- [One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes](https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html)
-- [⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More](https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html)
 
 ### BleepingComputer
 
+- [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
+- [GhostTree Attack Abused Recursive Windows Junctions to Hide Malware](https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/)
+- [FTC warns of record $3.5 billion losses to imposter scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/)
+- [CISA warns of another cPanel plugin flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/)
+- [Ransomware gang abuses Microsoft Teams relays to hide malicious traffic](https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/)
 - [Critical Fortinet FortiSandbox flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/)
 - [Windows version of SprySOCKS Linux malware used to attack govt orgs](https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/)
 - [iRhythm discloses data breach, says hackers stole patient info](https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/)
-- [DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act](https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/)
-- [SimpleHelp bug lets hackers create rogue remote support accounts](https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/)
-- [OptinMonster WordPress plugin hacked in CDN supply-chain attack](https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/)
-- [Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/)
-- [Council of Europe investigates ShinyHunters data breach claims](https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- ['Lorem Ipsum' Malware Pivots to ClickFix Delivery](https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery)
 - [Copilot 'SearchLeak' Attack Allows 1-Click Data Theft](https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft)
-- [China-Nexus Actor Spy on US Researchers Undetected for a Year](https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected)
+- [China-Nexus Actor Spies on US Researchers Undetected for a Year](https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected)
 - [Most CISOs Report Pressure to Bury Bad Security News](https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news)
 - [The Beginning of the End of Social Engineering](https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering)
 - [US Cracks Down on Anthropic AI Models Amid Abuse Concerns](https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns)
 - [ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed](https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed)
 - [Claude Fable 5 Doesn't Change the Mythos Security Story](https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story)
-- [Phishing Attack Volume Down 20%, But Risk Still Rising](https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising)
 
 ### Security Week
 
-- [Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks](https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/)
-- [Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer](https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/)
-- [Chinese Hackers Target Medical, Military, and AI Research in North America](https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/)
-- [NewCore Emerges From Stealth Mode With $66 Million in Funding](https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/)
-- [Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges](https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/)
-- [Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems](https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/)
-- [French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker](https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/)
-- [ShinyHunters Claims Council of Europe Hack](https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/)
+- [Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker](https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/)
+- [Magnitude Emerges From Stealth Mode With $10 Million in Funding](https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/)
+- [AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/)
+- [Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round](https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/)
+- [Cybercrime Group Claims Novo Nordisk Hack](https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/)
+- [Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire](https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/)
+- [Cal Water Investigating Iranian Hackers’ Claims](https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/)
+- [White House Issues Memo to Bolster NSS Cybersecurity](https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/)
 
 ### Threatpost
 

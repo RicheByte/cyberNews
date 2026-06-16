@@ -1,72 +1,114 @@
 {
-  "last_updated": "2026-06-16 09:21",
+  "last_updated": "2026-06-16 15:05",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "sprysocks linux malware",
-    "cve 2026 20262",
-    "ransomware attack shuts",
-    "national security risk",
+    "dire critical rating",
     "twitter whistleblower complaint",
     "resetting account passwords",
-    "real life identity",
-    "leak 297 gb",
-    "dire critical rating",
-    "nearly three dozen",
-    "phishing attack volume",
-    "finding security vulnerabilities",
-    "sovereign tchap platform",
     "naxclow iot platform",
-    "personal data stored",
-    "2025 krebsonsecurity story",
-    "frequent attack vector",
+    "health information stored",
+    "cve 2026 25089",
+    "finding security vulnerabilities",
+    "nearly three dozen",
+    "google workspace rules",
+    "fortisandbox jrpc api",
+    "obama white house",
+    "security experts warn",
     "released security updates",
-    "shinyhunters extortion group",
-    "url filtering tools"
+    "critical function vulnerability",
+    "targets 217 banking",
+    "stolen 1 3tb",
+    "stark industries solutions",
+    "sends sms rewrites",
+    "scarcruft aka apt37"
   ],
   "trending": [
     {
       "keyword": "sprysocks linux malware",
-      "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 20262",
-      "mentions": 1
-    },
-    {
-      "keyword": "ransomware attack shuts",
-      "mentions": 5
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 219
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1871
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 22
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 137
-    },
-    {
-      "keyword": "leak 297 gb",
-      "mentions": 5
+      "mentions": 2
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 179
+      "mentions": 180
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1872
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 23
+    },
+    {
+      "keyword": "naxclow iot platform",
+      "mentions": 2
+    },
+    {
+      "keyword": "health information stored",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 25089",
+      "mentions": 1
+    },
+    {
+      "keyword": "finding security vulnerabilities",
+      "mentions": 81
     },
     {
       "keyword": "nearly three dozen",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "google workspace rules",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
+      "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
+      "summary": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
+      "published": "Tue, 16 Jun 2026 18:40:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
+      "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
+      "summary": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and",
+      "published": "Tue, 16 Jun 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html",
+      "summary": "Bad actors are exploiting multiple security vulnerabilities in Fortinet FortiSandbox, according to threat intelligence firm Defused Cyber. In a post shared on X, the company said it has observed exploitation of CVE-2026-39813, CVE-2026-39808, and CVE-2026-25089 over the past 24 hours. CVE-2026-39813 (CVSS score: 9.1) refers to a path traversal vulnerability in FortiSandbox JRPC API that could",
+      "published": "Tue, 16 Jun 2026 16:00:41 +0530",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth",
+      "link": "https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html",
+      "summary": "Cybersecurity researchers have flagged two previously undocumented Windows variants of what was believed to be a Linux-only backdoor called SprySOCKS. \"The Windows variants discovered are internally marked as WIN_DRV and WIN_PLUS,\" ESET said in a report shared with The Hacker News. \"Both come with a hard-coded C&C [command-and-control] configuration and support communication over TCP, UDP,",
+      "published": "Tue, 16 Jun 2026 15:14:34 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
@@ -117,46 +159,58 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "North Korean Hackers Are Turning Developer Tools Into Malware Delivery Channels",
-      "link": "https://thehackernews.com/2026/06/north-korean-hackers-are-turning.html",
-      "summary": "Cybersecurity researchers have flagged two malicious cyber campaigns that exhibit similarities with a persistent North Korean threat cluster known as Contagious Interview (aka Famous Chollima, HexagonalRodent, and Void Dokkaebi). According to a report published by Proofpoint, the threat actor has been found orchestrating phishing campaigns using developer role recruitment or code review themes",
-      "published": "Tue, 16 Jun 2026 01:02:52 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "UK to require ID or face scan before you can make social media accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
+      "summary": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]",
+      "published": "Tue, 16 Jun 2026 10:38:49 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Phishing"
+        "Breach/leak"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
-      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
-      "summary": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface. A server takeover exposes every provider key it holds, the secrets that",
-      "published": "Mon, 15 Jun 2026 22:09:01 +0530",
+      "source": "BleepingComputer",
+      "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
+      "link": "https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/",
+      "summary": "GhostTree uses recursive NTFS junctions to generate vast numbers of valid Windows file paths. Varonis explains how the technique could cause Microsoft Defender folder scans to never complete, leaving malware undetected. [...]",
+      "published": "Tue, 16 Jun 2026 10:17:27 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
-      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
-      "summary": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
-      "published": "Mon, 15 Jun 2026 20:39:05 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "FTC warns of record $3.5 billion losses to imposter scams in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/",
+      "summary": "The U.S. Federal Trade Commission (FTC) warned that Americans lost $3.5 billion to imposter scams in 2025, with reported losses nearly tripling since 2020. [...]",
+      "published": "Tue, 16 Jun 2026 09:42:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
+      "published": "Tue, 16 Jun 2026 06:47:59 -0400",
+      "value_score": 99,
       "value_signals": [
-        "Phishing"
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
-      "summary": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
-      "published": "Mon, 15 Jun 2026 19:19:29 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
+      "summary": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
+      "published": "Tue, 16 Jun 2026 06:18:48 -0400",
+      "value_score": 58,
       "value_signals": [
-        "Phishing",
-        "Exploit wording"
+        "Ransomware ×2",
+        "Backdoor"
       ]
     },
     {
@@ -186,57 +240,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
       "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
       "published": "Tue, 16 Jun 2026 02:31:59 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "summary": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]",
-      "published": "Mon, 15 Jun 2026 17:56:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "summary": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
-      "published": "Mon, 15 Jun 2026 16:06:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "summary": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "published": "Mon, 15 Jun 2026 13:37:07 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "published": "Mon, 15 Jun 2026 13:12:42 -0400",
-      "value_score": 59,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Council of Europe investigates ShinyHunters data breach claims",
-      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
-      "summary": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
-      "published": "Mon, 15 Jun 2026 12:37:11 -0400",
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
@@ -331,6 +334,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery",
+      "summary": "New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
+      "published": "Tue, 16 Jun 2026 15:10:48 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
       "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
       "summary": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
@@ -342,12 +356,14 @@
     },
     {
       "source": "Dark Reading",
-      "title": "China-Nexus Actor Spy on US Researchers Undetected for a Year",
+      "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
       "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-      "summary": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.",
+      "summary": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to breach numerous institutions and exfiltrate sensitive data.",
       "published": "Mon, 15 Jun 2026 17:00:45 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -397,97 +413,78 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "summary": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "published": "Fri, 12 Jun 2026 00:58:07 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
       "source": "Security Week",
-      "title": "Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks",
-      "link": "https://www.securityweek.com/cisco-patches-another-sd-wan-zero-day-exploited-in-attacks/",
-      "summary": "Cisco recently became aware of the exploitation of CVE-2026-20262, a Catalyst SD-WAN Manager zero-day that allows arbitrary file write. The post Cisco Patches Another SD-WAN Zero-Day Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 16 Jun 2026 06:20:18 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
-      "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
-      "summary": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen. The post Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 15:15:55 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
-      "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
-      "summary": "Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025. The post Chinese Hackers Target Medical, Military, and AI Research in North America appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 14:07:45 +0000",
+      "title": "Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker",
+      "link": "https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/",
+      "summary": "From building LED bulbs to graduating college and buying a house with money earned from bug bounties. The post Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 14:27:45 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "NewCore Emerges From Stealth Mode With $66 Million in Funding",
-      "link": "https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/",
-      "summary": "The startup has built a security-first identity platform to protect humans, machines, and AI agents. The post NewCore Emerges From Stealth Mode With $66 Million in Funding appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 13:00:00 +0000",
+      "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
+      "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
+      "summary": "The company is enhancing third-party risk management (TPRM) through autonomous AI agents. The post Magnitude Emerges From Stealth Mode With $10 Million in Funding appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 13:34:57 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
-      "link": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
-      "summary": "Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang. The post Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 11:33:20 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
-      "link": "https://www.securityweek.com/ozempic-maker-novo-nordisk-says-hackers-breached-it-systems/",
-      "summary": "The pharmaceutical giant says the attackers gained access to personal data stored on the compromised systems. The post Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 11:17:21 +0000",
+      "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
+      "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+      "summary": "From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of experts say security leaders need to understand now. The post AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 13:15:34 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker",
-      "link": "https://www.securityweek.com/french-government-messaging-platform-breached-by-mysterious-misere-hacker/",
-      "summary": "French officials say roughly 73,000 government accounts were affected, while the threat actor claims to have stolen messages and user data from the sovereign Tchap platform. The post French Government Messaging Platform Breached by Mysterious ‘Misere’ Hacker appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 11:09:10 +0000",
+      "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
+      "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
+      "summary": "Ent has developed an intent-aware platform designed to interpret user and agent behavior before risky actions are carried out. The post Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 12:53:19 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "Security Week",
-      "title": "ShinyHunters Claims Council of Europe Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-council-of-europe-hack/",
-      "summary": "The extortion group threatens to leak 297 GB of data allegedly stolen from the Council of Europe, including employee personal information. The post ShinyHunters Claims Council of Europe Hack appeared first on SecurityWeek .",
-      "published": "Mon, 15 Jun 2026 10:44:29 +0000",
+      "title": "Cybercrime Group Claims Novo Nordisk Hack",
+      "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
+      "summary": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant. The post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 12:32:27 +0000",
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
+      "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
+      "summary": "By continuously analyzing security, infrastructure, and governance data, TrustCloud aims to give CISOs a real-time view of application risk and board-ready assurance. The post Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 12:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cal Water Investigating Iranian Hackers’ Claims",
+      "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
+      "summary": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. The post Cal Water Investigating Iranian Hackers’ Claims appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 11:53:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "White House Issues Memo to Bolster NSS Cybersecurity",
+      "link": "https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/",
+      "summary": "NSPM-12 establishes a clear structure for NSS cybersecurity governance and accountability and reestablishes CNSS. The post White House Issues Memo to Bolster NSS Cybersecurity appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 11:41:46 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Threatpost",

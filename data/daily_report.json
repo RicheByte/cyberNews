@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-06-16 15:05",
+  "last_updated": "2026-06-16 19:30",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
+    "extensive device surveillance",
     "sprysocks linux malware",
     "dire critical rating",
     "twitter whistleblower complaint",
+    "stolen 1 3tb",
+    "root privilege escalation",
     "resetting account passwords",
-    "naxclow iot platform",
-    "health information stored",
-    "cve 2026 25089",
-    "finding security vulnerabilities",
-    "nearly three dozen",
-    "google workspace rules",
+    "cyberattacks influence operations",
     "fortisandbox jrpc api",
-    "obama white house",
+    "backdoor called sprysocks",
+    "critical function vulnerability",
+    "finding security vulnerabilities",
+    "cve 2026 25089",
+    "nearly three dozen",
+    "sensitive system information",
     "security experts warn",
     "released security updates",
-    "critical function vulnerability",
-    "targets 217 banking",
-    "stolen 1 3tb",
     "stark industries solutions",
     "sends sms rewrites",
     "scarcruft aka apt37"
   ],
   "trending": [
     {
+      "keyword": "extensive device surveillance",
+      "mentions": 1
+    },
+    {
       "keyword": "sprysocks linux malware",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 180
+      "mentions": 181
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1872
+      "mentions": 1873
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 23
-    },
-    {
-      "keyword": "naxclow iot platform",
+      "keyword": "stolen 1 3tb",
       "mentions": 2
     },
     {
-      "keyword": "health information stored",
+      "keyword": "root privilege escalation",
       "mentions": 1
     },
     {
-      "keyword": "cve 2026 25089",
+      "keyword": "resetting account passwords",
+      "mentions": 24
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 18
+    },
+    {
+      "keyword": "fortisandbox jrpc api",
+      "mentions": 2
+    },
+    {
+      "keyword": "backdoor called sprysocks",
       "mentions": 1
-    },
-    {
-      "keyword": "finding security vulnerabilities",
-      "mentions": 81
-    },
-    {
-      "keyword": "nearly three dozen",
-      "mentions": 7
-    },
-    {
-      "keyword": "google workspace rules",
-      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
+      "link": "https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html",
+      "summary": "Cybersecurity researchers have flagged multiple ClickFix campaigns that deliver three malware loaders called BabaDeda Loader, Lorem Ipsum Loader, and Potemkin, per independent reports from Morphisec, BlueVoyant, and Huntress, respectively. Attacks involving BabaDeda Loader, observed in April 2026, have targeted education and financial organizations. \"Earlier BabaDeda activity was known for",
+      "published": "Tue, 16 Jun 2026 23:11:28 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
@@ -148,15 +159,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
-      "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
-      "summary": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
-      "published": "Tue, 16 Jun 2026 01:14:06 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
+      "source": "BleepingComputer",
+      "title": "Steam Workshop abused to spread malware via Wallpaper Engine app",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/",
+      "summary": "Threat actors are abusing Steam Workshop, Valve's community hub for downloading game-related content, to push various malware hidden in wallpaper packages. [...]",
+      "published": "Tue, 16 Jun 2026 14:27:55 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,17 +242,6 @@
       "published": "Tue, 16 Jun 2026 05:00:00 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "summary": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "published": "Tue, 16 Jun 2026 02:31:59 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -334,6 +332,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
+      "link": "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers",
+      "summary": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
+      "published": "Tue, 16 Jun 2026 18:02:57 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Rokarolla Android Trojan Levels Up to Full Device Control, Persistence",
+      "link": "https://www.darkreading.com/endpoint-security/rokarolla-android-trojan",
+      "summary": "The emerging malware, spread via fake TikTok and Chrome downloads, demonstrates an evolution by combining banking fraud with extensive device surveillance and remote control.",
+      "published": "Tue, 16 Jun 2026 17:32:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery",
       "summary": "New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
@@ -393,24 +411,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
-      "summary": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
-      "published": "Fri, 12 Jun 2026 20:26:32 GMT",
-      "value_score": 35,
+      "source": "Security Week",
+      "title": "iRhythm Confirms Data Stolen in Hack",
+      "link": "https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/",
+      "summary": "The digital health company said it learned of the breach on June 8 and the attackers demanded a ransom. The post iRhythm Confirms Data Stolen in Hack appeared first on SecurityWeek .",
+      "published": "Tue, 16 Jun 2026 15:06:24 +0000",
+      "value_score": 22,
       "value_signals": [
-        "Zero-day"
+        "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
-      "summary": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explains.",
-      "published": "Fri, 12 Jun 2026 13:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -474,15 +483,6 @@
       "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
       "summary": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. The post Cal Water Investigating Iranian Hackers’ Claims appeared first on SecurityWeek .",
       "published": "Tue, 16 Jun 2026 11:53:11 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "White House Issues Memo to Bolster NSS Cybersecurity",
-      "link": "https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/",
-      "summary": "NSPM-12 establishes a clear structure for NSS cybersecurity governance and accountability and reestablishes CNSS. The post White House Issues Memo to Bolster NSS Cybersecurity appeared first on SecurityWeek .",
-      "published": "Tue, 16 Jun 2026 11:41:46 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -571,6 +571,74 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could cause a denial-of-service condition that may result in a major nonrecoverable fault (MNRF). The following versions of Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP are affected: CompactLogix 5370 <=34.016 (CVE-2026-11317) Compact GuardLogix 5370 <=35.015 (CVE-2026-11317) ControlLogix 5570 <=35.015 (CVE-2026-11317) GuardLogix 5570 36.012 (CVE-2026-11317) CVSS Vendor Equipment Vulnerab",
+      "published": "Tue, 16 Jun 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation RSLinx",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability can lead to a denial of service, where the application will become unresponsive and will not recover on its own. The following versions of RSLinx Classic Third-Party Vulnerability are affected: RSLinx Classic <=4.50.00 (CVE-2020-13573) CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation RSLinx Classic Third-Party Vulnerability Out-of-bounds Read Background Critical Infrastructure Sectors: Critical Manufacturing, Energy,",
+      "published": "Tue, 16 Jun 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation FLEX I/O EtherNet/IP Adapters",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain unauthorized access, account takeover, and cause loss of availability. The following versions of Rockwell Automation FLEX I/O EtherNet/IP Adapters are affected: 1794-AENTR V2.012 (CVE-2026-0646, CVE-2026-0647) 1794-AENTRXT V2.012 (CVE-2026-0646, CVE-2026-0647) CVSS Vendor Equipment Vulnerabilities v3 9.4 Rockwell Automation Rockwell Automation FLEX I/O EtherNet/IP Adapters Missing Release of Memory",
+      "published": "Tue, 16 Jun 26 12:00:00 +0000",
+      "value_score": 89,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned ×4",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation FactoryTalk Analytics PavilionX",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could result in an attacker executing privileged operations. The following versions of Rockwell Automation FactoryTalk Analytics PavilionX are affected: FactoryTalk Analytics PavilionX <7.01 (CVE-2025-14272) CVSS Vendor Equipment Vulnerabilities v3 7 Rockwell Automation Rockwell Automation FactoryTalk Analytics PavilionX Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed",
+      "published": "Tue, 16 Jun 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Rockwell Automation CompactLogix",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-04",
+      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation CompactLogix are affected: CompactLogix 5370 L1 CompactLogix 5370 L2 CompactLogix 5370 L3 CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation CompactLogix Improper Validation of Integrity Check Value, Exposure of Sensitive System Information to an Unauthorized Control Sphere Background Cri",
+      "published": "Tue, 16 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog",
       "summary": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20262 Cisco Catalyst SD-WAN Manager Directory or Path Traversal Vulnerability CVE-2026-54420 LiteSpeed cPanel Plugin UNIX Symbolic Link (Symlink) Following Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: P",
@@ -609,71 +677,6 @@
       "value_signals": [
         "Source boost: CISA Alerts",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Naxclow IoT Platform",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to impersonate devices, intercept or manipulate communications, harvest sensitive credentials at scale, or gain unauthorized access. The following versions of Naxclow IoT Platform are affected: Smart Doorbell X3 vers:all/* X Smart Home vers:all/* V720 vers:all/* ix cam vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Naxclow Naxclow IoT Platform Authorization Bypass Through User-Controlled Key, Miss",
-      "published": "Thu, 11 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Brickcom Cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a remote unauthenticated attacker to gain unauthorized access to live video feeds, retrieve sensitive visual information from affected premises, and obtain administrative control of the device. The following versions of Brickcom Cameras are affected: Brickcom Cube 3.2.3.5.6 Brickcom Dome 3.2.3.5.6 Brickcom Bullet 3.2.3.5.6 Brickcom Box 3.2.3.5.6 CVSS Vendor Equipment Vulnerabilities v3 7.7 Brickcom Brickcom Cameras Mi",
-      "published": "Thu, 11 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-10520 Ivanti Sentry OS Command Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements for Federal Civilian Executi",
-      "published": "Thu, 11 Jun 26 12:00:00 +0000",
-      "value_score": 99,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog",
-      "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-7473 Arista Extensible Operating System Incomplete Comparison with Missing Factors Vulnerability CVE-2026-11645 Google Chromium V8 Out-of-Bounds Read and Write Vulnerability CVE-2026-20245 Cisco Catalyst SD-WAN Manager Improper Encoding or Escaping of Output Vulnerability These types of vulnerabilities are a frequent attack vector for malicious cyber ",
-      "published": "Tue, 09 Jun 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Siemens KACO Blueplanet Inverters",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02",
-      "summary": "View CSAF Summary KACO blueplanet Inverters contain multiple vulnerabilities that could allow an attacker to derive the credentials from the devices serial number and misuse them to gain unauthorized access. KACO new energy GmbH has released new versions for several affected products and recommends to update to the latest versions. KACO new energy GmbH is preparing further fix versions and recommends countermeasures for products where fixes are not, or not yet available. The following versions o",
-      "published": "Tue, 09 Jun 26 12:00:00 +0000",
-      "value_score": 51,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Patch/update ×2"
       ]
     }
   ],

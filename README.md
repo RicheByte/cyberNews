@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-16 15:05 UTC |
+| 🕐 Last Updated | 2026-06-16 19:30 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`sprysocks linux malware` • `dire critical rating` • `twitter whistleblower complaint` • `resetting account passwords` • `naxclow iot platform` • `health information stored` • `cve 2026 25089` • `finding security vulnerabilities` • `nearly three dozen` • `google workspace rules`
+`extensive device surveillance` • `sprysocks linux malware` • `dire critical rating` • `twitter whistleblower complaint` • `stolen 1 3tb` • `root privilege escalation` • `resetting account passwords` • `cyberattacks influence operations` • `fortisandbox jrpc api` • `backdoor called sprysocks`
 
 ## 📄 Reports
 

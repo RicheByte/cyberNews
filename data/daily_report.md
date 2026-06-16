@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-16 15:05 UTC  
+> **Last Updated:** 2026-06-16 19:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sprysocks linux malware** • **dire critical rating** • **twitter whistleblower complaint** • **resetting account passwords** • **naxclow iot platform** • **health information stored** • **cve 2026 25089** • **finding security vulnerabilities** • **nearly three dozen** • **google workspace rules** • **fortisandbox jrpc api** • **obama white house** • **security experts warn** • **released security updates** • **critical function vulnerability** • **targets 217 banking** • **stolen 1 3tb** • **stark industries solutions** • **sends sms rewrites** • **scarcruft aka apt37**
+**extensive device surveillance** • **sprysocks linux malware** • **dire critical rating** • **twitter whistleblower complaint** • **stolen 1 3tb** • **root privilege escalation** • **resetting account passwords** • **cyberattacks influence operations** • **fortisandbox jrpc api** • **backdoor called sprysocks** • **critical function vulnerability** • **finding security vulnerabilities** • **cve 2026 25089** • **nearly three dozen** • **sensitive system information** • **security experts warn** • **released security updates** • **stark industries solutions** • **sends sms rewrites** • **scarcruft aka apt37**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
 - [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
 - [Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
 - [Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
@@ -23,10 +24,10 @@
 - [Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware](https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html)
 - [Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw](https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html)
 - [CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation](https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html)
-- [Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails](https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html)
 
 ### BleepingComputer
 
+- [Steam Workshop abused to spread malware via Wallpaper Engine app](https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/)
 - [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
 - [GhostTree Attack Abused Recursive Windows Junctions to Hide Malware](https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/)
 - [FTC warns of record $3.5 billion losses to imposter scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/)
@@ -34,7 +35,6 @@
 - [Ransomware gang abuses Microsoft Teams relays to hide malicious traffic](https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/)
 - [Critical Fortinet FortiSandbox flaws now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/)
 - [Windows version of SprySOCKS Linux malware used to attack govt orgs](https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/)
-- [iRhythm discloses data breach, says hackers stole patient info](https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection](https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers)
+- [Rokarolla Android Trojan Levels Up to Full Device Control, Persistence](https://www.darkreading.com/endpoint-security/rokarolla-android-trojan)
 - ['Lorem Ipsum' Malware Pivots to ClickFix Delivery](https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery)
 - [Copilot 'SearchLeak' Attack Allows 1-Click Data Theft](https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft)
 - [China-Nexus Actor Spies on US Researchers Undetected for a Year](https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected)
 - [Most CISOs Report Pressure to Bury Bad Security News](https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news)
 - [The Beginning of the End of Social Engineering](https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering)
 - [US Cracks Down on Anthropic AI Models Amid Abuse Concerns](https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns)
-- [ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed](https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed)
-- [Claude Fable 5 Doesn't Change the Mythos Security Story](https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story)
 
 ### Security Week
 
+- [iRhythm Confirms Data Stolen in Hack](https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/)
 - [Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker](https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/)
 - [Magnitude Emerges From Stealth Mode With $10 Million in Funding](https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/)
 - [AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/)
@@ -67,7 +68,6 @@
 - [Cybercrime Group Claims Novo Nordisk Hack](https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/)
 - [Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire](https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/)
 - [Cal Water Investigating Iranian Hackers’ Claims](https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/)
-- [White House Issues Memo to Bolster NSS Cybersecurity](https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/)
 
 ### Threatpost
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
+- [Rockwell Automation Logix 5370 & 5570 Controllers Vulnerable To Denial of Service Via CIP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-03)
+- [Rockwell Automation RSLinx](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-02)
+- [Rockwell Automation FLEX I/O EtherNet/IP Adapters](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-05)
+- [Rockwell Automation FactoryTalk Analytics PavilionX](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-01)
+- [Rockwell Automation CompactLogix](https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-04)
 - [CISA Adds Two Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/15/cisa-adds-two-known-exploited-vulnerabilities-catalog)
 - [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/12/cisa-adds-one-known-exploited-vulnerability-catalog)
 - [Yarbo Android/iOS Mobile Application and Cloud Infrastructure](https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01)
-- [Naxclow IoT Platform](https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-02)
-- [Brickcom Cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-03)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/11/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [CISA Adds Three Known Exploited Vulnerabilities to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/09/cisa-adds-three-known-exploited-vulnerabilities-catalog)
-- [Siemens KACO Blueplanet Inverters](https://www.cisa.gov/news-events/ics-advisories/icsa-26-160-02)
 
 ---
 

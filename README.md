@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-16 19:30 UTC |
+| 🕐 Last Updated | 2026-06-16 22:07 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`extensive device surveillance` • `sprysocks linux malware` • `dire critical rating` • `twitter whistleblower complaint` • `stolen 1 3tb` • `root privilege escalation` • `resetting account passwords` • `cyberattacks influence operations` • `fortisandbox jrpc api` • `backdoor called sprysocks`
+`sensitive system information` • `twitter whistleblower complaint` • `stolen 1 3tb` • `resetting account passwords` • `fortisandbox jrpc api` • `extensive device surveillance` • `exporting mythos fable` • `cyberattacks influence operations` • `dire critical rating` • `nearly three dozen`
 
 ## 📄 Reports
 

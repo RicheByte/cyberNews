@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-06-16 19:30",
+  "last_updated": "2026-06-16 22:07",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "extensive device surveillance",
-    "sprysocks linux malware",
-    "dire critical rating",
+    "sensitive system information",
     "twitter whistleblower complaint",
     "stolen 1 3tb",
-    "root privilege escalation",
     "resetting account passwords",
-    "cyberattacks influence operations",
     "fortisandbox jrpc api",
-    "backdoor called sprysocks",
-    "critical function vulnerability",
-    "finding security vulnerabilities",
-    "cve 2026 25089",
+    "extensive device surveillance",
+    "exporting mythos fable",
+    "cyberattacks influence operations",
+    "dire critical rating",
     "nearly three dozen",
-    "sensitive system information",
+    "cve 2026 25089",
+    "critical function vulnerability",
+    "exfiltrate sensitive data",
     "security experts warn",
+    "security experts asked",
     "released security updates",
-    "stark industries solutions",
-    "sends sms rewrites",
-    "scarcruft aka apt37"
+    "finding security vulnerabilities",
+    "victim's project hijack",
+    "us researchers undetected",
+    "targeting 217 banking"
   ],
   "trending": [
     {
-      "keyword": "extensive device surveillance",
-      "mentions": 1
-    },
-    {
-      "keyword": "sprysocks linux malware",
-      "mentions": 3
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 181
+      "keyword": "sensitive system information",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1873
+      "mentions": 1874
     },
     {
       "keyword": "stolen 1 3tb",
-      "mentions": 2
-    },
-    {
-      "keyword": "root privilege escalation",
-      "mentions": 1
+      "mentions": 3
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 24
-    },
-    {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 18
+      "mentions": 25
     },
     {
       "keyword": "fortisandbox jrpc api",
+      "mentions": 3
+    },
+    {
+      "keyword": "extensive device surveillance",
       "mentions": 2
     },
     {
-      "keyword": "backdoor called sprysocks",
+      "keyword": "exporting mythos fable",
       "mentions": 1
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 19
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 182
+    },
+    {
+      "keyword": "nearly three dozen",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
+      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
+      "summary": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
+      "published": "Wed, 17 Jun 2026 00:35:41 +0530",
+      "value_score": 41,
+      "value_signals": [
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures",
@@ -145,18 +157,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Flags LiteSpeed cPanel Plugin Flaw Exploited for Root Privilege Escalation",
-      "link": "https://thehackernews.com/2026/06/cisa-flags-litespeed-cpanel-plugin-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw impacting LiteSpeed cPanel Plugin to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 18, 2026. The vulnerability in question is CVE-2026-54420 (CVSS score: 8.5), which has been described as a case of privilege",
-      "published": "Tue, 16 Jun 2026 11:11:52 +0530",
-      "value_score": 86,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "CISA/KEV ×4",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
+      "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
+      "published": "Tue, 16 Jun 2026 17:54:50 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
+      "link": "https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/",
+      "summary": "A new Android banking trojan named Rokarolla is targeting 217 banking and cryptocurrency applications using an extensive set of 137 commands. [...]",
+      "published": "Tue, 16 Jun 2026 16:04:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,27 +237,6 @@
         "Ransomware ×2",
         "Backdoor"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "summary": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "published": "Tue, 16 Jun 2026 05:19:51 -0400",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "summary": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "published": "Tue, 16 Jun 2026 05:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -332,10 +327,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Fileless Phantom Stealer Targets Browser Credentials",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
+      "summary": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to frustrate detection.",
+      "published": "Tue, 16 Jun 2026 22:26:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
+      "summary": "An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.",
+      "published": "Tue, 16 Jun 2026 22:00:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
       "link": "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers",
       "summary": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
-      "published": "Tue, 16 Jun 2026 18:02:57 GMT",
+      "published": "Tue, 16 Jun 2026 20:11:48 GMT",
       "value_score": 22,
       "value_signals": [
         "Backdoor"
@@ -363,6 +376,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare",
+      "summary": "The denial-of-service (DoS) exploit takes advantage of two features in HTTP/2 that were designed to save Internet bandwith, not power massive amplification attacks.",
+      "published": "Mon, 15 Jun 2026 19:31:37 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
       "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
       "summary": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
@@ -382,33 +406,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Most CISOs Report Pressure to Bury Bad Security News",
-      "link": "https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news",
-      "summary": "Executive leaders may not be saying it aloud, but business objectives and priorities don't always promote timely disclosures.",
-      "published": "Mon, 15 Jun 2026 16:45:59 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Beginning of the End of Social Engineering",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
-      "summary": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
-      "published": "Mon, 15 Jun 2026 15:08:32 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
-      "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-      "summary": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-      "published": "Mon, 15 Jun 2026 12:17:22 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -627,6 +624,20 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/16/cisa-adds-one-known-exploited-vulnerability-catalog",
+      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-48907 Widget Factory Joomla Content Editor Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements fo",
+      "published": "Tue, 16 Jun 26 12:00:00 +0000",
+      "value_score": 99,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Rockwell Automation CompactLogix",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-167-04",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to cause a denial-of-service condition. The following versions of Rockwell Automation CompactLogix are affected: CompactLogix 5370 L1 CompactLogix 5370 L2 CompactLogix 5370 L3 CVSS Vendor Equipment Vulnerabilities v3 7.5 Rockwell Automation Rockwell Automation CompactLogix Improper Validation of Integrity Check Value, Exposure of Sensitive System Information to an Unauthorized Control Sphere Background Cri",
@@ -664,18 +675,6 @@
         "CVE mentioned",
         "CISA/KEV ×4",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Yarbo Android/iOS Mobile Application and Cloud Infrastructure",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-162-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain hard-coded credentials, gain access to telemetry data, and potentially send operational commands to the robot fleet. The following versions of Yarbo Android/iOS Mobile Application and Cloud Infrastructure are affected: Yarbo Android/IOS mobile application Cloud MQTT infrastructure vers:all/* CVSS Vendor Equipment Vulnerabilities v3 9.8 Yarbo Yarbo Android/iOS Mobile Application and Cloud Infrastr",
-      "published": "Thu, 11 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

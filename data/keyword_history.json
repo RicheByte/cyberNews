@@ -299,7 +299,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1875,
+      "count": 1876,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -746,7 +746,7 @@
       ]
     },
     "remote code execution": {
-      "count": 467,
+      "count": 468,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -824,7 +824,8 @@
         "2026-06-12",
         "2026-06-13",
         "2026-06-14",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-17"
       ]
     },
     "attacker remotely control": {
@@ -3670,7 +3671,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -6573,7 +6574,7 @@
       ]
     },
     "critical function vulnerability": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-06",
         "2026-02-07",
@@ -17485,7 +17486,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17788,7 +17789,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17805,7 +17806,8 @@
         "2026-06-12",
         "2026-06-13",
         "2026-06-15",
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-17"
       ]
     },
     "ai power users": {
@@ -18165,7 +18167,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19640,7 +19642,7 @@
       ]
     },
     "fortisandbox jrpc api": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19667,9 +19669,10 @@
       ]
     },
     "sends sms rewrites": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-17"
       ]
     },
     "scarcruft aka apt37": {
@@ -19679,7 +19682,7 @@
       ]
     },
     "extensive device surveillance": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19698,14 +19701,14 @@
       ]
     },
     "sensitive system information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-16",
         "2026-06-17"
       ]
     },
     "exporting mythos fable": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19719,7 +19722,7 @@
       ]
     },
     "victim's project hijack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19733,25 +19736,50 @@
       ]
     },
     "targeting 217 banking": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-16",
+        "2026-06-17"
+      ]
+    },
+    "hacker crosshairs socradar": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "open letter signed": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "mythos 5 models": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "steam workshop abused": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "save internet bandwith": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "rockwell automation flex": {
+      "count": 1,
+      "dates": [
         "2026-06-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-02 18:03",
-      "articles": 56,
-      "top_keywords": [
-        "revealing sensitive information",
-        "threat actor tracked",
-        "exploitation researchers disagree",
-        "meta ai hands",
-        "ai driven exploitation"
-      ]
-    },
     {
       "timestamp": "2026-06-02 22:19",
       "articles": 56,
@@ -20839,6 +20867,17 @@
         "stolen 1 3tb",
         "resetting account passwords",
         "fortisandbox jrpc api"
+      ]
+    },
+    {
+      "timestamp": "2026-06-17 08:57",
+      "articles": 56,
+      "top_keywords": [
+        "sensitive system information",
+        "hacker crosshairs socradar",
+        "twitter whistleblower complaint",
+        "open letter signed",
+        "mythos 5 models"
       ]
     }
   ]

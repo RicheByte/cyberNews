@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-06-17 03:33",
+  "last_updated": "2026-06-17 08:57",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "sensitive system information",
+    "hacker crosshairs socradar",
     "twitter whistleblower complaint",
-    "stolen 1 3tb",
-    "resetting account passwords",
+    "open letter signed",
+    "mythos 5 models",
     "fortisandbox jrpc api",
     "extensive device surveillance",
     "exporting mythos fable",
     "cyberattacks influence operations",
+    "resetting account passwords",
     "dire critical rating",
-    "nearly three dozen",
-    "cve 2026 25089",
+    "remote code execution",
     "critical function vulnerability",
-    "exfiltrate sensitive data",
-    "security experts warn",
-    "security experts asked",
-    "released security updates",
-    "finding security vulnerabilities",
     "victim's project hijack",
-    "us researchers undetected",
-    "targeting 217 banking"
+    "targeting 217 banking",
+    "steam workshop abused",
+    "stark industries solutions",
+    "sends sms rewrites",
+    "save internet bandwith",
+    "rockwell automation flex"
   ],
   "trending": [
     {
       "keyword": "sensitive system information",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "hacker crosshairs socradar",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1875
+      "mentions": 1876
     },
     {
-      "keyword": "stolen 1 3tb",
-      "mentions": 4
+      "keyword": "open letter signed",
+      "mentions": 1
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 26
+      "keyword": "mythos 5 models",
+      "mentions": 1
     },
     {
       "keyword": "fortisandbox jrpc api",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "extensive device surveillance",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "exporting mythos fable",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cyberattacks influence operations",
-      "mentions": 20
+      "mentions": 21
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 183
-    },
-    {
-      "keyword": "nearly three dozen",
-      "mentions": 10
+      "keyword": "resetting account passwords",
+      "mentions": 27
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero) mass-published more",
+      "published": "Wed, 17 Jun 2026 13:08:24 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
+      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×4",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
@@ -133,27 +156,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
-      "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
-      "summary": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
-      "published": "Tue, 16 Jun 2026 13:44:55 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
+      "published": "Wed, 17 Jun 2026 04:32:29 -0400",
+      "value_score": 76,
       "value_signals": [
-        "Phishing"
+        "Zero-day ×2",
+        "Patch/update ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
-      "link": "https://thehackernews.com/2026/06/cisco-releases-security-updates-for.html",
-      "summary": "Cisco has released security updates for a medium-severity security flaw in Catalyst SD-WAN Manager that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-20262, carries a CVSS score of 6.5 out of 10.0. \"A vulnerability in the web UI of Cisco Catalyst SD-WAN Manager, formerly SD-WAN vManage, could allow an authenticated, remote attacker to create a file or",
-      "published": "Tue, 16 Jun 2026 11:35:58 +0530",
-      "value_score": 84,
+      "source": "BleepingComputer",
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
+      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -211,32 +233,6 @@
       "published": "Tue, 16 Jun 2026 09:42:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-another-actively-exploited-cpanel-plugin-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has given U.S. government agencies three days to secure their servers against an actively exploited vulnerability (CVE-2026-54420) in the LiteSpeed cPanel user-end plugin. [...]",
-      "published": "Tue, 16 Jun 2026 06:47:59 -0400",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "summary": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
-      "published": "Tue, 16 Jun 2026 06:18:48 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "UK Social Media Ban for Minors Has Privacy Experts Worried",
+      "link": "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried",
+      "summary": "The UK will ban adolescents under 16 years old from user-to-user social-media platforms, despite age-verification issues and privacy concerns.",
+      "published": "Wed, 17 Jun 2026 08:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Fileless Phantom Stealer Targets Browser Credentials",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
       "summary": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to frustrate detection.",
@@ -397,15 +402,37 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
-      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-      "summary": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to breach numerous institutions and exfiltrate sensitive data.",
-      "published": "Mon, 15 Jun 2026 17:00:45 GMT",
-      "value_score": 22,
+      "source": "Security Week",
+      "title": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
+      "summary": "The browser updates address multiple memory safety bugs that could potentially lead to remote code execution. The post Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 17 Jun 2026 08:21:05 +0000",
+      "value_score": 62,
       "value_signals": [
-        "Breach/leak"
+        "RCE",
+        "Patch/update ×2",
+        "High severity ×2"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Joomla, LiteSpeed Vulnerabilities Exploited in Attacks",
+      "link": "https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/",
+      "summary": "The flaws allow attackers to execute arbitrary PHP code and gain root privileges on shared hosting servers. The post Joomla, LiteSpeed Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 17 Jun 2026 07:28:20 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs",
+      "link": "https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/",
+      "summary": "SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking. The post 3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs appeared first on SecurityWeek .",
+      "published": "Wed, 17 Jun 2026 06:53:58 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -451,35 +478,6 @@
       "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
       "summary": "Ent has developed an intent-aware platform designed to interpret user and agent behavior before risky actions are carried out. The post Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round appeared first on SecurityWeek .",
       "published": "Tue, 16 Jun 2026 12:53:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybercrime Group Claims Novo Nordisk Hack",
-      "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
-      "summary": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant. The post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek .",
-      "published": "Tue, 16 Jun 2026 12:32:27 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
-      "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
-      "summary": "By continuously analyzing security, infrastructure, and governance data, TrustCloud aims to give CISOs a real-time view of application risk and board-ready assurance. The post Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire appeared first on SecurityWeek .",
-      "published": "Tue, 16 Jun 2026 12:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cal Water Investigating Iranian Hackers’ Claims",
-      "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
-      "summary": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. The post Cal Water Investigating Iranian Hackers’ Claims appeared first on SecurityWeek .",
-      "published": "Tue, 16 Jun 2026 11:53:11 +0000",
       "value_score": 10,
       "value_signals": []
     },

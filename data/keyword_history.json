@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 531,
+      "count": 532,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -300,7 +300,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1878,
+      "count": 1879,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -6348,10 +6348,11 @@
       ]
     },
     "check point research": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-04",
-        "2026-02-05"
+        "2026-02-05",
+        "2026-06-17"
       ]
     },
     "alltrue ai valued": {
@@ -17488,7 +17489,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17791,7 +17792,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18004,13 +18005,14 @@
       ]
     },
     "unknown threat actor": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-29",
         "2026-05-30",
         "2026-05-31",
         "2026-06-01",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-17"
       ]
     },
     "protect user data": {
@@ -19685,7 +19687,7 @@
       ]
     },
     "extensive device surveillance": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19711,7 +19713,7 @@
       ]
     },
     "exporting mythos fable": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19752,13 +19754,13 @@
       ]
     },
     "open letter signed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-17"
       ]
     },
     "mythos 5 models": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-17"
       ]
@@ -19770,31 +19772,31 @@
       ]
     },
     "save internet bandwith": {
-      "count": 2,
-      "dates": [
-        "2026-06-17"
-      ]
-    },
-    "rockwell automation flex": {
       "count": 3,
       "dates": [
         "2026-06-17"
       ]
     },
+    "rockwell automation flex": {
+      "count": 4,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
     "1password acquires apono": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-17"
       ]
     },
     "rockwell automation compactlogix": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-17"
       ]
     },
     "tenet security emerges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-17"
       ]
@@ -19806,7 +19808,7 @@
       ]
     },
     "industrial automation giant": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-17"
       ]
@@ -19818,12 +19820,24 @@
       ]
     },
     "c2 went offline": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-17"
       ]
     },
     "reverse export restrictions": {
+      "count": 2,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "public github repository": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "tech giant describing": {
       "count": 1,
       "dates": [
         "2026-06-17"
@@ -19831,17 +19845,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-03 08:50",
-      "articles": 56,
-      "top_keywords": [
-        "exploited without authentication",
-        "ai driven exploitation",
-        "united states today",
-        "twitter whistleblower complaint",
-        "malicious cyber actors"
-      ]
-    },
     {
       "timestamp": "2026-06-03 14:23",
       "articles": 56,
@@ -20922,6 +20925,17 @@
     },
     {
       "timestamp": "2026-06-17 16:51",
+      "articles": 56,
+      "top_keywords": [
+        "1password acquires apono",
+        "rockwell automation flex",
+        "rockwell automation compactlogix",
+        "tenet security emerges",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-17 20:06",
       "articles": 56,
       "top_keywords": [
         "1password acquires apono",

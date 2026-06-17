@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 529,
+      "count": 530,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -165,7 +165,8 @@
         "2026-06-04",
         "2026-06-05",
         "2026-06-10",
-        "2026-06-11"
+        "2026-06-11",
+        "2026-06-17"
       ]
     },
     "user named csnemess": {
@@ -299,7 +300,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1876,
+      "count": 1877,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -746,7 +747,7 @@
       ]
     },
     "remote code execution": {
-      "count": 468,
+      "count": 469,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -17486,7 +17487,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17789,7 +17790,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -19669,7 +19670,7 @@
       ]
     },
     "sends sms rewrites": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19682,7 +19683,7 @@
       ]
     },
     "extensive device surveillance": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19708,7 +19709,7 @@
       ]
     },
     "exporting mythos fable": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19722,7 +19723,7 @@
       ]
     },
     "victim's project hijack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19736,7 +19737,7 @@
       ]
     },
     "targeting 217 banking": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-16",
         "2026-06-17"
@@ -19749,19 +19750,19 @@
       ]
     },
     "open letter signed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-17"
       ]
     },
     "mythos 5 models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-17"
       ]
     },
     "steam workshop abused": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-17"
       ]
@@ -19773,6 +19774,42 @@
       ]
     },
     "rockwell automation flex": {
+      "count": 2,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "1password acquires apono": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "rockwell automation compactlogix": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "tenet security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "earlier babadeda activity": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "industrial automation giant": {
+      "count": 1,
+      "dates": [
+        "2026-06-17"
+      ]
+    },
+    "shared hosting servers": {
       "count": 1,
       "dates": [
         "2026-06-17"
@@ -19780,17 +19817,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-02 22:19",
-      "articles": 56,
-      "top_keywords": [
-        "exploited without authentication",
-        "twitter whistleblower complaint",
-        "malicious cyber actors",
-        "exploitation researchers disagree",
-        "endpoint protection alone"
-      ]
-    },
     {
       "timestamp": "2026-06-03 03:36",
       "articles": 56,
@@ -20878,6 +20904,17 @@
         "twitter whistleblower complaint",
         "open letter signed",
         "mythos 5 models"
+      ]
+    },
+    {
+      "timestamp": "2026-06-17 13:37",
+      "articles": 56,
+      "top_keywords": [
+        "1password acquires apono",
+        "rockwell automation flex",
+        "rockwell automation compactlogix",
+        "tenet security emerges",
+        "twitter whistleblower complaint"
       ]
     }
   ]

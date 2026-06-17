@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-17 08:57 UTC  
+> **Last Updated:** 2026-06-17 13:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sensitive system information** • **hacker crosshairs socradar** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **fortisandbox jrpc api** • **extensive device surveillance** • **exporting mythos fable** • **cyberattacks influence operations** • **resetting account passwords** • **dire critical rating** • **remote code execution** • **critical function vulnerability** • **victim's project hijack** • **targeting 217 banking** • **steam workshop abused** • **stark industries solutions** • **sends sms rewrites** • **save internet bandwith** • **rockwell automation flex**
+**1password acquires apono** • **rockwell automation flex** • **rockwell automation compactlogix** • **tenet security emerges** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **malicious cyber actors** • **extensive device surveillance** • **exporting mythos fable** • **earlier babadeda activity** • **cyberattacks influence operations** • **remote code execution** • **industrial automation giant** • **victim's project hijack** • **targeting 217 banking** • **steam workshop abused** • **stark industries solutions** • **shared hosting servers** • **sends sms rewrites**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
+- [The Top 10 Attack Surface Exposures in 2026](https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html)
+- [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
 - [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
 - [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html)
 - [Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting](https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html)
 - [ClickFix Campaigns Expand Malware Delivery With New Loaders and Fake Update Lures](https://thehackernews.com/2026/06/clickfix-campaigns-expand-malware.html)
 - [New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds](https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html)
-- [Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive](https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html)
-- [Attackers Exploit Three Fortinet FortiSandbox Flaws, One Patched Last Week](https://thehackernews.com/2026/06/attackers-exploit-three-fortinet.html)
-- [China-Linked SprySOCKS Backdoor Expands to Windows with Driver-Based Stealth](https://thehackernews.com/2026/06/china-linked-sprysocks-backdoor-expands.html)
 
 ### BleepingComputer
 
+- [India's Telegram ban hit the UAE too. Here's how to get around it](https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/)
+- [Microsoft confirms Office apps launch issues after June updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/)
+- [CISA orders feds to patch max severity Joomla plugin flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/)
 - [Microsoft working on Defender patch for RoguePlanet zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/)
 - [Kodak confirms data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/)
 - [Malicious JetBrains Marketplace plugins steal AI API keys from developers](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)
 - [New Rokarolla Android malware targets 217 banking, crypto apps](https://www.bleepingcomputer.com/news/security/new-rokarolla-android-malware-targets-217-banking-crypto-apps/)
 - [Steam Workshop abused to spread malware via Wallpaper Engine app](https://www.bleepingcomputer.com/news/security/steam-workshop-abused-to-spread-malware-via-wallpaper-engine-app/)
-- [UK to require ID or face scan before you can make social media accounts](https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/)
-- [GhostTree Attack Abused Recursive Windows Junctions to Hide Malware](https://www.bleepingcomputer.com/news/security/ghosttree-attack-abused-recursive-windows-junctions-to-hide-malware/)
-- [FTC warns of record $3.5 billion losses to imposter scams in 2025](https://www.bleepingcomputer.com/news/security/ftc-warns-of-record-35-billion-losses-to-imposter-scams-in-2025/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Sweeping Credential-Harvesting Heist Compromises +30K Fortinet Devices](https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices)
 - [UK Social Media Ban for Minors Has Privacy Experts Worried](https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried)
 - [Fileless Phantom Stealer Targets Browser Credentials](https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials)
 - [Security Community Slams US Ban on Exporting Mythos, Fable](https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable)
@@ -56,18 +57,17 @@
 - [Rokarolla Android Trojan Levels Up to Full Device Control, Persistence](https://www.darkreading.com/endpoint-security/rokarolla-android-trojan)
 - ['Lorem Ipsum' Malware Pivots to ClickFix Delivery](https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery)
 - [HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk](https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare)
-- [Copilot 'SearchLeak' Attack Allows 1-Click Data Theft](https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft)
 
 ### Security Week
 
+- [1Password Acquires Apono in Reported $250M-$300M Deal](https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/)
+- [Tenet Security Emerges From Stealth With $6 Million Seed Funding](https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/)
+- [Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software](https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/)
+- [Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack](https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/)
+- [Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day](https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/)
+- [Oracle’s Second Monthly Security Updates Deliver 245 Patches](https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/)
 - [Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities](https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/)
 - [Joomla, LiteSpeed Vulnerabilities Exploited in Attacks](https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/)
-- [3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs](https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/)
-- [iRhythm Confirms Data Stolen in Hack](https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/)
-- [Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker](https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/)
-- [Magnitude Emerges From Stealth Mode With $10 Million in Funding](https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/)
-- [AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/)
-- [Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round](https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/)
 
 ### Threatpost
 

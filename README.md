@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-17 08:57 UTC |
+| 🕐 Last Updated | 2026-06-17 13:37 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`sensitive system information` • `hacker crosshairs socradar` • `twitter whistleblower complaint` • `open letter signed` • `mythos 5 models` • `fortisandbox jrpc api` • `extensive device surveillance` • `exporting mythos fable` • `cyberattacks influence operations` • `resetting account passwords`
+`1password acquires apono` • `rockwell automation flex` • `rockwell automation compactlogix` • `tenet security emerges` • `twitter whistleblower complaint` • `open letter signed` • `mythos 5 models` • `malicious cyber actors` • `extensive device surveillance` • `exporting mythos fable`
 
 ## 📄 Reports
 

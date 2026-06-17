@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 20:06",
+  "last_updated": "2026-06-17 23:19",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -21,49 +21,49 @@
     "public github repository",
     "tech giant describing",
     "stark industries solutions",
-    "save internet bandwith",
-    "reverse export restrictions"
+    "reverse export restrictions",
+    "proving remarkably good"
   ],
   "trending": [
     {
       "keyword": "1password acquires apono",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "rockwell automation flex",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "rockwell automation compactlogix",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "tenet security emerges",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1879
+      "mentions": 1880
     },
     {
       "keyword": "open letter signed",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "mythos 5 models",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 532
+      "mentions": 533
     },
     {
       "keyword": "extensive device surveillance",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "exporting mythos fable",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google to use UK and EU user IP addresses for ad personalization",
+      "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
+      "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
+      "published": "Wed, 17 Jun 2026 17:02:42 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
       "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
@@ -230,15 +239,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
-      "summary": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
-      "published": "Tue, 16 Jun 2026 17:54:50 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +329,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "INC Ransomware Thrives by Mastering the Basics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics",
+      "summary": "And one of those basics is focusing on sectors where a ransomware disruption creates immediate pressure to pay up, like with healthcare.",
+      "published": "Wed, 17 Jun 2026 19:46:25 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices",
       "summary": "Attackers are actively targeting various sectors across nearly 200 countries and already have compiled a list of working credentials for tens of thousands of compromised devices.",
@@ -392,17 +403,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare",
-      "summary": "The denial-of-service (DoS) exploit takes advantage of two features in HTTP/2 that were designed to save Internet bandwith, not power massive amplification attacks.",
-      "published": "Mon, 15 Jun 2026 19:31:37 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

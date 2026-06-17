@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-17 20:06 UTC  
+> **Last Updated:** 2026-06-17 23:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1password acquires apono** • **rockwell automation flex** • **rockwell automation compactlogix** • **tenet security emerges** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **malicious cyber actors** • **extensive device surveillance** • **exporting mythos fable** • **cyberattacks influence operations** • **check point research** • **unknown threat actor** • **industrial automation giant** • **c2 went offline** • **public github repository** • **tech giant describing** • **stark industries solutions** • **save internet bandwith** • **reverse export restrictions**
+**1password acquires apono** • **rockwell automation flex** • **rockwell automation compactlogix** • **tenet security emerges** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **malicious cyber actors** • **extensive device surveillance** • **exporting mythos fable** • **cyberattacks influence operations** • **check point research** • **unknown threat actor** • **industrial automation giant** • **c2 went offline** • **public github repository** • **tech giant describing** • **stark industries solutions** • **reverse export restrictions** • **proving remarkably good**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google to use UK and EU user IP addresses for ad personalization](https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/)
 - [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
 - [Why Account Takeovers Are Rising and How to Stop Them](https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/)
 - [India's Telegram ban hit the UAE too. Here's how to get around it](https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/)
@@ -34,7 +35,6 @@
 - [CISA orders feds to patch max severity Joomla plugin flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/)
 - [Microsoft working on Defender patch for RoguePlanet zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/)
 - [Kodak confirms data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/)
-- [Malicious JetBrains Marketplace plugins steal AI API keys from developers](https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [INC Ransomware Thrives by Mastering the Basics](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics)
 - [Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices](https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices)
 - [UK Social Media Ban for Minors Has Privacy Experts Worried](https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried)
 - [Fileless Phantom Stealer Targets Browser Credentials](https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials)
@@ -56,7 +57,6 @@
 - [SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection](https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers)
 - [Rokarolla Android Trojan Levels Up to Full Device Control, Persistence](https://www.darkreading.com/endpoint-security/rokarolla-android-trojan)
 - ['Lorem Ipsum' Malware Pivots to ClickFix Delivery](https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery)
-- [HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk](https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare)
 
 ### Security Week
 

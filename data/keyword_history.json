@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1885,
+      "count": 1886,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1789,7 +1789,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 435,
+      "count": 436,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3066,7 +3066,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -11060,9 +11060,10 @@
       ]
     },
     "response edr killers": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-03-20"
+        "2026-03-20",
+        "2026-06-18"
       ]
     },
     "re already closer": {
@@ -17439,7 +17440,7 @@
       ]
     },
     "public github account": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17500,7 +17501,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -18018,7 +18019,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18185,7 +18186,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19885,7 +19886,7 @@
       ]
     },
     "android malware allows": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-18"
       ]
@@ -19897,7 +19898,7 @@
       ]
     },
     "orphaned ai agents": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-18"
       ]
@@ -19909,13 +19910,13 @@
       ]
     },
     "pci dss problem": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-18"
       ]
     },
     "analysis published tuesday": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-18"
       ]
@@ -19927,13 +19928,13 @@
       ]
     },
     "prolific cybercrime groups": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-18"
       ]
     },
     "malware delivery paths": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-18"
       ]
@@ -19951,54 +19952,43 @@
       ]
     },
     "paying customers via": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "bundled tor proxy": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "atlassian fixed dozens": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "windows script host": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "user input allows": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "tooling problem rather": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-04 16:50",
-      "articles": 56,
-      "top_keywords": [
-        "chinese cybercrime group",
-        "uk germany italy",
-        "cybercrime group behind",
-        "mirasvit vulnerability exploited",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-06-04 19:58",
       "articles": 56,
@@ -21086,6 +21076,17 @@
         "prolific cybercrime groups",
         "paying customers via",
         "cyberattacks influence operations"
+      ]
+    },
+    {
+      "timestamp": "2026-06-18 23:40",
+      "articles": 56,
+      "top_keywords": [
+        "pci dss problem",
+        "twitter whistleblower complaint",
+        "response edr killers",
+        "prolific cybercrime groups",
+        "paying customers via"
       ]
     }
   ]

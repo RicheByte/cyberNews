@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-06-18 20:17",
+  "last_updated": "2026-06-18 23:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
     "pci dss problem",
     "twitter whistleblower complaint",
+    "response edr killers",
     "prolific cybercrime groups",
     "paying customers via",
     "cyberattacks influence operations",
@@ -16,7 +17,6 @@
     "public github account",
     "malware delivery paths",
     "android malware allows",
-    "service raas operation",
     "sprawling phishing campaign",
     "arbitrary code execution",
     "windows script host",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "pci dss problem",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1885
-    },
-    {
-      "keyword": "prolific cybercrime groups",
-      "mentions": 2
-    },
-    {
-      "keyword": "paying customers via",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 28
-    },
-    {
-      "keyword": "bundled tor proxy",
-      "mentions": 1
-    },
-    {
-      "keyword": "atlassian fixed dozens",
-      "mentions": 1
-    },
-    {
-      "keyword": "analysis published tuesday",
-      "mentions": 2
-    },
-    {
-      "keyword": "orphaned ai agents",
       "mentions": 3
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 28
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1886
+    },
+    {
+      "keyword": "response edr killers",
+      "mentions": 3
+    },
+    {
+      "keyword": "prolific cybercrime groups",
+      "mentions": 3
+    },
+    {
+      "keyword": "paying customers via",
+      "mentions": 2
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 29
+    },
+    {
+      "keyword": "bundled tor proxy",
+      "mentions": 2
+    },
+    {
+      "keyword": "atlassian fixed dozens",
+      "mentions": 2
+    },
+    {
+      "keyword": "analysis published tuesday",
+      "mentions": 3
+    },
+    {
+      "keyword": "orphaned ai agents",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -155,6 +155,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
+      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
+      "summary": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
+      "published": "Thu, 18 Jun 2026 18:31:52 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
       "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
@@ -222,17 +233,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
-      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
-      "summary": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
-      "published": "Thu, 18 Jun 2026 08:23:58 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -568,6 +568,32 @@
     },
     {
       "source": "CISA Alerts",
+      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
+      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
+      "summary": "CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private network (VPN) gateways. To defend against this malicious cyber activity, CISA urges impacted Fortinet customers with FortiGate",
+      "published": "Thu, 18 Jun 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CISA/KEV ×3"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "AzeoTech DAQFactory",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory <=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3 7.8 AzeoTech AzeoTech DAQFactory Access of Resource Using Incompatible Type ('Type Confusion') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Comp",
+      "published": "Thu, 18 Jun 26 12:00:00 +0000",
+      "value_score": 75,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
       "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
       "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain sensitive health-related information and prevent legitimate users from establishing a connection with the device. The following versions of Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT are affected: Blood Glucose Monitoring System (Model No. APG-01 BT) 0x0110_v1.1.0 (CVE-2026-50034, CVE-2026-52866) CVSS Vendor Equipment Vulnerabilities v3 6.5 Apollo Pharmacy Apollo Pharmacy Blood Glu",
@@ -578,6 +604,41 @@
         "CVE mentioned ×2",
         "Multiple CVEs",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the product in a short period of time, increasing the processing load of the product, preventing the internal anomaly-detection processing from being performed, and causing the communication function to stop. The following versions of Mitsubishi Ele",
+      "published": "Thu, 18 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Mitsubishi Electric MELSEC iQ-F Series",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
+      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection management process and triggering improper memory access. The following versions of Mitsubishi Electric MELSEC iQ-F Series are affected: MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP <=1.000 (CVE-2",
+      "published": "Thu, 18 Jun 26 12:00:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Source boost: CISA Alerts",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "CISA Alerts",
+      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
+      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
+      "summary": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute™ Serial Shutdown product. The [PowerChute Serial Shutdown](https://www.se.com/ww/en/product-range/137943580-powerchute-serial-shutdown/#products) product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktop, servers and workstations. Failure to apply the remediation provided below may risk improper input validation which could result in disruption of operati",
+      "published": "Thu, 18 Jun 26 12:00:00 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Source boost: CISA Alerts"
       ]
     },
     {
@@ -597,34 +658,6 @@
     },
     {
       "source": "CISA Alerts",
-      "title": "Schneider Electric EasyLogic T150 and Saitel DP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04",
-      "summary": "View CSAF Summary Successful exploitation this vulnerability could allow an attacker to gain unauthorized access to sensitive files The following versions of Schneider Electric EasyLogic T150 and Saitel DP are affected: Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit & Controller Firmware installed on Schneider Electric EasyLogic T150 (formerly Saitel DR) Remote Terminal Unit & Controller (All versions) vers:semver/<=11.06.31 (CVE-2026-6865) Schneider Electric Saitel ",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 59,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AVer PTC cameras",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow arbitrary code execution. The following versions of AVer PTC cameras are affected: PTC500S vers:all/* (CVE-2026-40624) PTC115 vers:all/* (CVE-2026-40624) PTC500+ vers:all/* (CVE-2026-40624) PTC115+ vers:all/* (CVE-2026-40624) CVSS Vendor Equipment Vulnerabilities v3 9.8 AVer AVer PTC cameras Files or Directories Accessible to External Parties Background Critical Infrastructure Sectors: Government Services and Facilities,",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 97,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×4",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
       "title": "Rockwell Automation FactoryTalk Historian Site Edition",
       "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03",
       "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain a valid authentication token, perform a denial of service, or crash the system. The following versions of Rockwell Automation FactoryTalk Historian Site Edition are affected: FactoryTalk Historian SE 11 (CVE-2025-13036) FactoryTalk Historian SE <=11.00 (CVE-2025-44019) FactoryTalk Historian SE <=11.00 (CVE-2025-36539) CVSS Vendor Equipment Vulnerabilities v3 7.7 Rockwell Automation Rockwell Autom",
@@ -634,43 +667,6 @@
         "Source boost: CISA Alerts",
         "CVE mentioned ×3",
         "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AzeoTech DAQFactory",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory <=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3 7.8 AzeoTech AzeoTech DAQFactory Access of Resource Using Incompatible Type ('Type Confusion') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Comp",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute™ Serial Shutdown product. The [PowerChute Serial Shutdown](https://www.se.com/ww/en/product-range/137943580-powerchute-serial-shutdown/#products) product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktop, servers and workstations. Failure to apply the remediation provided below may risk improper input validation which could result in disruption of operati",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric MELSEC iQ-F Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection management process and triggering improper memory access. The following versions of Mitsubishi Electric MELSEC iQ-F Series are affected: MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP <=1.000 (CVE-2",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
         "Exploit wording"
       ]
     }

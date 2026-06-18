@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-18 20:17 UTC |
+| 🕐 Last Updated | 2026-06-18 23:40 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pci dss problem` • `twitter whistleblower complaint` • `prolific cybercrime groups` • `paying customers via` • `cyberattacks influence operations` • `bundled tor proxy` • `atlassian fixed dozens` • `analysis published tuesday` • `orphaned ai agents` • `resetting account passwords`
+`pci dss problem` • `twitter whistleblower complaint` • `response edr killers` • `prolific cybercrime groups` • `paying customers via` • `cyberattacks influence operations` • `bundled tor proxy` • `atlassian fixed dozens` • `analysis published tuesday` • `orphaned ai agents`
 
 ## 📄 Reports
 

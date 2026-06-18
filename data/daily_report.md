@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-18 20:17 UTC  
+> **Last Updated:** 2026-06-18 23:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**pci dss problem** • **twitter whistleblower complaint** • **prolific cybercrime groups** • **paying customers via** • **cyberattacks influence operations** • **bundled tor proxy** • **atlassian fixed dozens** • **analysis published tuesday** • **orphaned ai agents** • **resetting account passwords** • **public github account** • **malware delivery paths** • **android malware allows** • **service raas operation** • **sprawling phishing campaign** • **arbitrary code execution** • **windows script host** • **user input allows** • **unknown threat actor** • **tooling problem rather**
+**pci dss problem** • **twitter whistleblower complaint** • **response edr killers** • **prolific cybercrime groups** • **paying customers via** • **cyberattacks influence operations** • **bundled tor proxy** • **atlassian fixed dozens** • **analysis published tuesday** • **orphaned ai agents** • **resetting account passwords** • **public github account** • **malware delivery paths** • **android malware allows** • **sprawling phishing campaign** • **arbitrary code execution** • **windows script host** • **user input allows** • **unknown threat actor** • **tooling problem rather**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Gentlemen ransomware uses multiple EDR killers to disable defenses](https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/)
 - [Nintendo confirms data stolen in WebMD subsidiary cyberattack](https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/)
 - [USB worm spreads crypto-stealing malware via Windows shortcut files](https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/)
 - [Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/)
@@ -34,7 +35,6 @@
 - [Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp](https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/)
 - [ShapedPlugin update flow hacked to infect WordPress sites](https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/)
 - [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
-- [Apple fixes Beats Studio Buds flaw that let hackers spy on conversations](https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/)
 
 ### Krebs on Security
 
@@ -82,14 +82,14 @@
 
 ### CISA Alerts
 
-- [Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Schneider Electric EasyLogic T150 and Saitel DP](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-04)
-- [AVer PTC cameras](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-01)
-- [Rockwell Automation FactoryTalk Historian Site Edition](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03)
+- [CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure](https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure)
 - [AzeoTech DAQFactory](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02)
-- [Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07)
+- [Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01)
+- [Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06)
 - [Mitsubishi Electric MELSEC iQ-F Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05)
+- [Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07)
+- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog)
+- [Rockwell Automation FactoryTalk Historian Site Edition](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03)
 
 ---
 

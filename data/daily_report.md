@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-18 03:25 UTC  
+> **Last Updated:** 2026-06-18 08:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1password acquires apono** • **rockwell automation flex** • **rockwell automation compactlogix** • **tenet security emerges** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **malicious cyber actors** • **extensive device surveillance** • **exporting mythos fable** • **cyberattacks influence operations** • **check point research** • **unknown threat actor** • **industrial automation giant** • **c2 went offline** • **public github repository** • **tech giant describing** • **stark industries solutions** • **reverse export restrictions** • **proving remarkably good**
+**1password acquires apono** • **rockwell automation flex** • **rockwell automation compactlogix** • **tenet security emerges** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **malicious cyber actors** • **extensive device surveillance** • **exporting mythos fable** • **coordinated malware campaign** • **check point research** • **sprawling phishing campaign** • **industrial automation giant** • **c2 went offline** • **public github repository** • **tech giant describing** • **stark industries solutions** • **reverse export restrictions** • **proving remarkably good**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [EU Gets a Head Start in Developing 6G Network Security](https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security)
 - [INC Ransomware Thrives by Mastering the Basics](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics)
 - [Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices](https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices)
 - [UK Social Media Ban for Minors Has Privacy Experts Worried](https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried)
@@ -56,18 +57,17 @@
 - [Security Community Slams US Ban on Exporting Mythos, Fable](https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable)
 - [SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection](https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers)
 - [Rokarolla Android Trojan Levels Up to Full Device Control, Persistence](https://www.darkreading.com/endpoint-security/rokarolla-android-trojan)
-- ['Lorem Ipsum' Malware Pivots to ClickFix Delivery](https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery)
 
 ### Security Week
 
+- [SailPoint to Acquire Entro in Reported $200 Million Deal](https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/)
+- [Kodak Admits Data Breach After ShinyHunters Hack Claims](https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/)
 - [Webinar Today: How Modern Breaches Bypass MFA and Evade Detection](https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/)
 - [1Password Acquires Apono in Reported $250M-$300M Deal](https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/)
 - [Tenet Security Emerges From Stealth With $6 Million Seed Funding](https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/)
 - [Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software](https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/)
 - [Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack](https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/)
 - [Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day](https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/)
-- [Oracle’s Second Monthly Security Updates Deliver 245 Patches](https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/)
-- [Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities](https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/)
 
 ### Threatpost
 

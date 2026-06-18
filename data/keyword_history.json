@@ -75,7 +75,7 @@
       ]
     },
     "malicious cyber actors": {
-      "count": 534,
+      "count": 535,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1881,
+      "count": 1882,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1787,7 +1787,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 431,
+      "count": 432,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1867,7 +1867,8 @@
         "2026-06-10",
         "2026-06-11",
         "2026-06-12",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-18"
       ]
     },
     "model agnostic abstractions": {
@@ -6350,7 +6351,7 @@
       ]
     },
     "check point research": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-04",
         "2026-02-05",
@@ -16574,7 +16575,7 @@
       ]
     },
     "proving remarkably good": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-14",
         "2026-05-19",
@@ -17797,7 +17798,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -19694,7 +19695,7 @@
       ]
     },
     "extensive device surveillance": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -19721,7 +19722,7 @@
       ]
     },
     "exporting mythos fable": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -19763,14 +19764,14 @@
       ]
     },
     "open letter signed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "mythos 5 models": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19789,28 +19790,28 @@
       ]
     },
     "rockwell automation flex": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "1password acquires apono": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "rockwell automation compactlogix": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "tenet security emerges": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19823,7 +19824,7 @@
       ]
     },
     "industrial automation giant": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19836,46 +19837,41 @@
       ]
     },
     "c2 went offline": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "reverse export restrictions": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "public github repository": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "tech giant describing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-17",
+        "2026-06-18"
+      ]
+    },
+    "coordinated malware campaign": {
+      "count": 1,
+      "dates": [
         "2026-06-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-03 22:25",
-      "articles": 56,
-      "top_keywords": [
-        "coralogix raises 200m",
-        "illegal streaming operations",
-        "cve 2026 33829",
-        "threat actor got",
-        "us government partners"
-      ]
-    },
     {
       "timestamp": "2026-06-04 03:31",
       "articles": 56,
@@ -20956,6 +20952,17 @@
     },
     {
       "timestamp": "2026-06-18 03:25",
+      "articles": 56,
+      "top_keywords": [
+        "1password acquires apono",
+        "rockwell automation flex",
+        "rockwell automation compactlogix",
+        "tenet security emerges",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-18 08:40",
       "articles": 56,
       "top_keywords": [
         "1password acquires apono",

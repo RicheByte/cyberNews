@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 03:25",
+  "last_updated": "2026-06-18 08:40",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -13,9 +13,9 @@
     "malicious cyber actors",
     "extensive device surveillance",
     "exporting mythos fable",
-    "cyberattacks influence operations",
+    "coordinated malware campaign",
     "check point research",
-    "unknown threat actor",
+    "sprawling phishing campaign",
     "industrial automation giant",
     "c2 went offline",
     "public github repository",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "1password acquires apono",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "rockwell automation flex",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "rockwell automation compactlogix",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "tenet security emerges",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1881
+      "mentions": 1882
     },
     {
       "keyword": "open letter signed",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "mythos 5 models",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 534
+      "mentions": 535
     },
     {
       "keyword": "extensive device surveillance",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "exporting mythos fable",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -329,6 +329,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "EU Gets a Head Start in Developing 6G Network Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security",
+      "summary": "\"Shield-6G\" will combine AI threat detection, digital twins, honeypots, and more, to help carriers protect 6G networks against the threats of tomorrow.",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "INC Ransomware Thrives by Mastering the Basics",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics",
       "summary": "And one of those basics is focusing on sectors where a ransomware disruption creates immediate pressure to pay up, like with healthcare.",
@@ -395,14 +404,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery",
-      "summary": "New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
-      "published": "Tue, 16 Jun 2026 15:10:48 GMT",
-      "value_score": 28,
+      "source": "Security Week",
+      "title": "SailPoint to Acquire Entro in Reported $200 Million Deal",
+      "link": "https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/",
+      "summary": "Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its products. The post SailPoint to Acquire Entro in Reported $200 Million Deal appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 08:36:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
+      "link": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
+      "summary": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident. The post Kodak Admits Data Breach After ShinyHunters Hack Claims appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 07:18:51 +0000",
+      "value_score": 34,
       "value_signals": [
-        "Ransomware"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -467,31 +485,6 @@
         "PoC available",
         "Patch/update ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle’s Second Monthly Security Updates Deliver 245 Patches",
-      "link": "https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/",
-      "summary": "Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and other products. The post Oracle’s Second Monthly Security Updates Deliver 245 Patches appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 09:04:43 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
-      "summary": "The browser updates address multiple memory safety bugs that could potentially lead to remote code execution. The post Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 08:21:05 +0000",
-      "value_score": 62,
-      "value_signals": [
-        "RCE",
-        "Patch/update ×2",
-        "High severity ×2"
       ]
     },
     {

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1884,
+      "count": 1885,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1789,7 +1789,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 434,
+      "count": 435,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3066,7 +3066,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3103,7 +3103,8 @@
         "2026-05-13",
         "2026-05-14",
         "2026-06-10",
-        "2026-06-11"
+        "2026-06-11",
+        "2026-06-18"
       ]
     },
     "authenticated remote attacker": {
@@ -12668,9 +12669,10 @@
       ]
     },
     "service raas operation": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-06"
+        "2026-04-06",
+        "2026-06-18"
       ]
     },
     "social engineering campaign": {
@@ -17437,11 +17439,12 @@
       ]
     },
     "public github account": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-05-23",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-06-18"
       ]
     },
     "canadian man arrested": {
@@ -17497,7 +17500,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -18015,7 +18018,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18182,7 +18185,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18195,7 +18198,8 @@
         "2026-06-11",
         "2026-06-12",
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-06-18"
       ]
     },
     "remote web ui": {
@@ -19881,7 +19885,7 @@
       ]
     },
     "android malware allows": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-18"
       ]
@@ -19893,7 +19897,7 @@
       ]
     },
     "orphaned ai agents": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-18"
       ]
@@ -19905,13 +19909,13 @@
       ]
     },
     "pci dss problem": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "analysis published tuesday": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
@@ -19923,13 +19927,13 @@
       ]
     },
     "prolific cybercrime groups": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "malware delivery paths": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
@@ -19945,20 +19949,45 @@
       "dates": [
         "2026-06-18"
       ]
+    },
+    "paying customers via": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "bundled tor proxy": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "atlassian fixed dozens": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "windows script host": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "user input allows": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "tooling problem rather": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-04 12:40",
-      "articles": 56,
-      "top_keywords": [
-        "chinese cybercrime group",
-        "coralogix raises 200m",
-        "mirasvit vulnerability exploited",
-        "uk germany italy",
-        "global communication platform"
-      ]
-    },
     {
       "timestamp": "2026-06-04 16:50",
       "articles": 56,
@@ -21046,6 +21075,17 @@
         "sensitive system information",
         "cyberattacks influence operations",
         "major raas threat"
+      ]
+    },
+    {
+      "timestamp": "2026-06-18 20:17",
+      "articles": 56,
+      "top_keywords": [
+        "pci dss problem",
+        "twitter whistleblower complaint",
+        "prolific cybercrime groups",
+        "paying customers via",
+        "cyberattacks influence operations"
       ]
     }
   ]

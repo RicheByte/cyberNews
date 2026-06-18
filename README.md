@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-18 16:52 UTC |
+| 🕐 Last Updated | 2026-06-18 20:17 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pci dss problem` • `analysis published tuesday` • `sensitive system information` • `cyberattacks influence operations` • `major raas threat` • `twitter whistleblower complaint` • `prolific cybercrime groups` • `mythos 5 models` • `malware delivery paths` • `exporting mythos fable`
+`pci dss problem` • `twitter whistleblower complaint` • `prolific cybercrime groups` • `paying customers via` • `cyberattacks influence operations` • `bundled tor proxy` • `atlassian fixed dozens` • `analysis published tuesday` • `orphaned ai agents` • `resetting account passwords`
 
 ## 📄 Reports
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 23:19",
+  "last_updated": "2026-06-18 03:25",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "1password acquires apono",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "rockwell automation flex",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "rockwell automation compactlogix",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "tenet security emerges",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1880
+      "mentions": 1881
     },
     {
       "keyword": "open letter signed",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "mythos 5 models",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "malicious cyber actors",
-      "mentions": 533
+      "mentions": 534
     },
     {
       "keyword": "extensive device surveillance",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "exporting mythos fable",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Leak confirms OpenAI is testing a ChatGPT for Science subscription",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/",
+      "summary": "OpenAI appears to be testing a new subscription and experience for science use cases, but it's unclear if it'll be available to everyone regardless of their background. [...]",
+      "published": "Wed, 17 Jun 2026 21:30:08 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
       "summary": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
@@ -227,17 +238,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "summary": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
-      "published": "Wed, 17 Jun 2026 03:07:56 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

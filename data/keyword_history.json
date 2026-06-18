@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1882,
+      "count": 1883,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -522,7 +522,7 @@
       ]
     },
     "real life identity": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -542,7 +542,8 @@
         "2026-06-11",
         "2026-06-12",
         "2026-06-15",
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-18"
       ]
     },
     "got1000 series devices": {
@@ -1787,7 +1788,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 432,
+      "count": 433,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6351,7 +6352,7 @@
       ]
     },
     "check point research": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-04",
         "2026-02-05",
@@ -17798,7 +17799,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -19695,7 +19696,7 @@
       ]
     },
     "extensive device surveillance": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -19715,14 +19716,15 @@
       ]
     },
     "sensitive system information": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-06-18"
       ]
     },
     "exporting mythos fable": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -19771,7 +19773,7 @@
       ]
     },
     "mythos 5 models": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19790,7 +19792,7 @@
       ]
     },
     "rockwell automation flex": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19804,7 +19806,7 @@
       ]
     },
     "rockwell automation compactlogix": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19837,14 +19839,14 @@
       ]
     },
     "c2 went offline": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "reverse export restrictions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19858,13 +19860,43 @@
       ]
     },
     "tech giant describing": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-17",
         "2026-06-18"
       ]
     },
     "coordinated malware campaign": {
+      "count": 2,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "leak confirms openai": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "android malware allows": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "delhi high court": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "orphaned ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "third party dependencies": {
       "count": 1,
       "dates": [
         "2026-06-18"
@@ -19872,17 +19904,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-04 03:31",
-      "articles": 56,
-      "top_keywords": [
-        "coralogix raises 200m",
-        "illegal streaming operations",
-        "cve 2026 33829",
-        "threat actor got",
-        "us government partners"
-      ]
-    },
     {
       "timestamp": "2026-06-04 08:15",
       "articles": 56,
@@ -20970,6 +20991,17 @@
         "rockwell automation compactlogix",
         "tenet security emerges",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-18 12:47",
+      "articles": 56,
+      "top_keywords": [
+        "leak confirms openai",
+        "android malware allows",
+        "twitter whistleblower complaint",
+        "mythos 5 models",
+        "extensive device surveillance"
       ]
     }
   ]

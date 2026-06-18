@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-18 08:40 UTC |
+| 🕐 Last Updated | 2026-06-18 12:47 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`1password acquires apono` • `rockwell automation flex` • `rockwell automation compactlogix` • `tenet security emerges` • `twitter whistleblower complaint` • `open letter signed` • `mythos 5 models` • `malicious cyber actors` • `extensive device surveillance` • `exporting mythos fable`
+`leak confirms openai` • `android malware allows` • `twitter whistleblower complaint` • `mythos 5 models` • `extensive device surveillance` • `exporting mythos fable` • `delhi high court` • `check point research` • `orphaned ai agents` • `sprawling phishing campaign`
 
 ## 📄 Reports
 

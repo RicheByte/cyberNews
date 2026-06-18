@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-18 08:40 UTC  
+> **Last Updated:** 2026-06-18 12:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 56
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**1password acquires apono** • **rockwell automation flex** • **rockwell automation compactlogix** • **tenet security emerges** • **twitter whistleblower complaint** • **open letter signed** • **mythos 5 models** • **malicious cyber actors** • **extensive device surveillance** • **exporting mythos fable** • **coordinated malware campaign** • **check point research** • **sprawling phishing campaign** • **industrial automation giant** • **c2 went offline** • **public github repository** • **tech giant describing** • **stark industries solutions** • **reverse export restrictions** • **proving remarkably good**
+**leak confirms openai** • **android malware allows** • **twitter whistleblower complaint** • **mythos 5 models** • **extensive device surveillance** • **exporting mythos fable** • **delhi high court** • **check point research** • **orphaned ai agents** • **sprawling phishing campaign** • **coordinated malware campaign** • **sensitive system information** • **c2 went offline** • **third party dependencies** • **tech giant describing** • **stark industries solutions** • **rockwell automation flex** • **rockwell automation compactlogix** • **reverse export restrictions** • **real life identity**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
+- [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html)
 - [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html)
 - [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html)
 - [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html)
 - [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html)
 - [Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats](https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html)
 - [The Top 10 Attack Surface Exposures in 2026](https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html)
-- [144 Mastra npm Packages Compromised via Hijacked Contributor Account](https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html)
-- [CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution](https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html)
 
 ### BleepingComputer
 
+- [Apple fixes Beats Studio Buds flaw that let hackers spy on conversations](https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/)
+- [Telegram admits it couldn't police exam-leak channels, India tells court](https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/)
+- [F5 issues out-of-band patches for critical NGINX vulnerabilities](https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/)
+- [Microsoft fixes Windows Server 2016 security update failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/)
 - [Leak confirms OpenAI is testing a ChatGPT for Science subscription](https://www.bleepingcomputer.com/news/artificial-intelligence/leak-confirms-openai-is-testing-a-chatgpt-for-science-subscription/)
 - [Google to use UK and EU user IP addresses for ad personalization](https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/)
 - [FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.](https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/)
 - [Why Account Takeovers Are Rising and How to Stop Them](https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/)
-- [India's Telegram ban hit the UAE too. Here's how to get around it](https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/)
-- [Microsoft confirms Office apps launch issues after June updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/)
-- [CISA orders feds to patch max severity Joomla plugin flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/)
-- [Microsoft working on Defender patch for RoguePlanet zero-day](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [No Exploits Required](https://www.securityweek.com/no-exploits-required/)
+- [Dream Raises $260 Million at $3 Billion Valuation](https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/)
+- [Atlassian, Splunk Patch Critical Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/)
+- [Rokarolla Banking Trojan Targets 200 Applications](https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/)
+- [Critical Command Execution Vulnerability Patched in Cisco ISE](https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/)
+- [F5 Patches Critical, High-Severity NGINX Vulnerabilities](https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/)
 - [SailPoint to Acquire Entro in Reported $200 Million Deal](https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/)
 - [Kodak Admits Data Breach After ShinyHunters Hack Claims](https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/)
-- [Webinar Today: How Modern Breaches Bypass MFA and Evade Detection](https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/)
-- [1Password Acquires Apono in Reported $250M-$300M Deal](https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/)
-- [Tenet Security Emerges From Stealth With $6 Million Seed Funding](https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/)
-- [Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software](https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/)
-- [Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack](https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/)
-- [Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day](https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/)
 
 ### Threatpost
 

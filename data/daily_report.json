@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-06-18 08:40",
+  "last_updated": "2026-06-18 12:47",
   "sources_count": 8,
   "articles_count": 56,
   "keywords": [
-    "1password acquires apono",
-    "rockwell automation flex",
-    "rockwell automation compactlogix",
-    "tenet security emerges",
+    "leak confirms openai",
+    "android malware allows",
     "twitter whistleblower complaint",
-    "open letter signed",
     "mythos 5 models",
-    "malicious cyber actors",
     "extensive device surveillance",
     "exporting mythos fable",
-    "coordinated malware campaign",
+    "delhi high court",
     "check point research",
+    "orphaned ai agents",
     "sprawling phishing campaign",
-    "industrial automation giant",
+    "coordinated malware campaign",
+    "sensitive system information",
     "c2 went offline",
-    "public github repository",
+    "third party dependencies",
     "tech giant describing",
     "stark industries solutions",
+    "rockwell automation flex",
+    "rockwell automation compactlogix",
     "reverse export restrictions",
-    "proving remarkably good"
+    "real life identity"
   ],
   "trending": [
     {
-      "keyword": "1password acquires apono",
-      "mentions": 6
+      "keyword": "leak confirms openai",
+      "mentions": 1
     },
     {
-      "keyword": "rockwell automation flex",
-      "mentions": 7
-    },
-    {
-      "keyword": "rockwell automation compactlogix",
-      "mentions": 6
-    },
-    {
-      "keyword": "tenet security emerges",
-      "mentions": 6
+      "keyword": "android malware allows",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1882
-    },
-    {
-      "keyword": "open letter signed",
-      "mentions": 7
+      "mentions": 1883
     },
     {
       "keyword": "mythos 5 models",
-      "mentions": 7
-    },
-    {
-      "keyword": "malicious cyber actors",
-      "mentions": 535
+      "mentions": 8
     },
     {
       "keyword": "extensive device surveillance",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "exporting mythos fable",
-      "mentions": 9
+      "mentions": 10
+    },
+    {
+      "keyword": "delhi high court",
+      "mentions": 1
+    },
+    {
+      "keyword": "check point research",
+      "mentions": 15
+    },
+    {
+      "keyword": "orphaned ai agents",
+      "mentions": 1
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 433
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
+      "link": "https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html",
+      "summary": "If an autonomous AI agent interacts with your company's core intellectual property today, can your security team instantly name the person who authorized it? For most enterprises, the answer is a simple no. The rush to adopt internal AI tools has left a massive trail of administrative debt: orphaned agents (AI tools left running after their creator leaves the company) and standing privileges (",
+      "published": "Thu, 18 Jun 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
+      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
+      "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned",
+      "published": "Thu, 18 Jun 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
@@ -132,26 +150,47 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
-      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "summary": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from Endor Labs, JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero)",
-      "published": "Wed, 17 Jun 2026 13:08:24 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Apple fixes Beats Studio Buds flaw that let hackers spy on conversations",
+      "link": "https://www.bleepingcomputer.com/news/security/apple-fixes-beats-studio-buds-flaw-that-let-hackers-spy-on-conversations/",
+      "summary": "Apple has released security updates to patch a high-severity flaw affecting the Beats Studio Buds wireless earbuds that could allow attackers in Bluetooth range to spy on users' conversations. [...]",
+      "published": "Thu, 18 Jun 2026 08:23:58 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
-      "published": "Wed, 17 Jun 2026 11:20:46 +0530",
-      "value_score": 99,
+      "source": "BleepingComputer",
+      "title": "Telegram admits it couldn't police exam-leak channels, India tells court",
+      "link": "https://www.bleepingcomputer.com/news/security/telegram-admits-it-couldnt-police-exam-leak-channels-india-tells-court/",
+      "summary": "India's government has told the Delhi High Court that Telegram was warned about two weeks before it was blocked, and that the platform admitted it could not proactively detect the channels selling leaked exam papers. Telegram says it cooperated and the ban is unlawful. [...]",
+      "published": "Thu, 18 Jun 2026 08:18:49 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×4",
-        "Exploit wording"
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "F5 issues out-of-band patches for critical NGINX vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-issues-out-of-band-patches-for-critical-nginx-vulnerabilities/",
+      "summary": "Cybersecurity company F5 has released out-of-band security updates to address multiple NGINX web server vulnerabilities, including two critical-severity flaws that could allow attackers to execute code on vulnerable systems. [...]",
+      "published": "Thu, 18 Jun 2026 07:33:00 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes Windows Server 2016 security update failures",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-server-2016-security-update-failures/",
+      "summary": "Microsoft has fixed a known issue causing the June 2026 security updates to fail on Windows Server 2016 systems that weren't up to date. [...]",
+      "published": "Thu, 18 Jun 2026 06:14:20 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
       ]
     },
     {
@@ -194,50 +233,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
-      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
-      "summary": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
-      "published": "Wed, 17 Jun 2026 09:12:45 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms Office apps launch issues after June updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
-      "summary": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
-      "published": "Wed, 17 Jun 2026 07:54:21 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
-      "published": "Wed, 17 Jun 2026 06:09:24 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Patch/update ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
-      "summary": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
-      "published": "Wed, 17 Jun 2026 04:32:29 -0400",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2"
       ]
     },
     {
@@ -405,6 +400,71 @@
     },
     {
       "source": "Security Week",
+      "title": "No Exploits Required",
+      "link": "https://www.securityweek.com/no-exploits-required/",
+      "summary": "Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures. The post No Exploits Required appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 12:30:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Dream Raises $260 Million at $3 Billion Valuation",
+      "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
+      "summary": "The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure. The post Dream Raises $260 Million at $3 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 11:55:07 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
+      "summary": "Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies. The post Atlassian, Splunk Patch Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 10:59:50 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×3",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Rokarolla Banking Trojan Targets 200 Applications",
+      "link": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
+      "summary": "The Android malware allows its operators to take control of infected devices and harvest sensitive information. The post Rokarolla Banking Trojan Targets 200 Applications appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 10:42:21 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
+      "link": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
+      "summary": "Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root. The post Critical Command Execution Vulnerability Patched in Cisco ISE appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 10:27:14 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
+      "summary": "Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code. The post F5 Patches Critical, High-Severity NGINX Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 18 Jun 2026 09:39:24 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "SailPoint to Acquire Entro in Reported $200 Million Deal",
       "link": "https://www.securityweek.com/sailpoint-to-acquire-entro-in-reported-200-million-deal/",
       "summary": "Israel-based Entro specializes in non-human identity and credential security solutions, and it will enable SailPoint to enhance its products. The post SailPoint to Acquire Entro in Reported $200 Million Deal appeared first on SecurityWeek .",
@@ -421,70 +481,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
-      "link": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
-      "summary": "Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses. The post Webinar Today: How Modern Breaches Bypass MFA and Evade Detection appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 14:07:16 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "1Password Acquires Apono in Reported $250M-$300M Deal",
-      "link": "https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/",
-      "summary": "Apono specializes in just-in-time access governance technology for humans, machines, and AI agents. The post 1Password Acquires Apono in Reported $250M-$300M Deal appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 12:36:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Tenet Security Emerges From Stealth With $6 Million Seed Funding",
-      "link": "https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/",
-      "summary": "Tenet aims to detect and stop dangerous AI agentic behavior in real time. The post Tenet Security Emerges From Stealth With $6 Million Seed Funding appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software",
-      "link": "https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/",
-      "summary": "The industrial automation giant has fixed security holes in Logix, CompactLogix, Flex, RSLinx, and FactoryTalk products. The post Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 11:32:44 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
-      "link": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
-      "summary": "The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control. The post Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 10:38:00 +0000",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day",
-      "link": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
-      "summary": "The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges. The post Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day appeared first on SecurityWeek .",
-      "published": "Wed, 17 Jun 2026 09:41:07 +0000",
-      "value_score": 92,
-      "value_signals": [
-        "Zero-day ×2",
-        "PoC available",
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {

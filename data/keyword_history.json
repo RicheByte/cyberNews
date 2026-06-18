@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1883,
+      "count": 1884,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1077,7 +1077,7 @@
       ]
     },
     "national security risk": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1118,7 +1118,8 @@
         "2026-06-13",
         "2026-06-14",
         "2026-06-15",
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-18"
       ]
     },
     "open source millions": {
@@ -1788,7 +1789,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 433,
+      "count": 434,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -6352,7 +6353,7 @@
       ]
     },
     "check point research": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-04",
         "2026-02-05",
@@ -11283,7 +11284,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11296,7 +11297,8 @@
         "2026-05-11",
         "2026-05-12",
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-06-18"
       ]
     },
     "threat actors known": {
@@ -17495,7 +17497,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -18013,7 +18015,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -19716,7 +19718,7 @@
       ]
     },
     "sensitive system information": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -19724,7 +19726,7 @@
       ]
     },
     "exporting mythos fable": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-16",
         "2026-06-17",
@@ -19773,7 +19775,7 @@
       ]
     },
     "mythos 5 models": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-17",
         "2026-06-18"
@@ -19879,19 +19881,19 @@
       ]
     },
     "android malware allows": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "delhi high court": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
     },
     "orphaned ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-18"
       ]
@@ -19901,20 +19903,51 @@
       "dates": [
         "2026-06-18"
       ]
+    },
+    "pci dss problem": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "analysis published tuesday": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "major raas threat": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "prolific cybercrime groups": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "malware delivery paths": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "100 servers linked": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
+    },
+    "icarus threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-06-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-04 08:15",
-      "articles": 56,
-      "top_keywords": [
-        "coralogix raises 200m",
-        "illegal streaming operations",
-        "global communication platform",
-        "twitter whistleblower complaint",
-        "trusted microsoft apps"
-      ]
-    },
     {
       "timestamp": "2026-06-04 12:40",
       "articles": 56,
@@ -21002,6 +21035,17 @@
         "twitter whistleblower complaint",
         "mythos 5 models",
         "extensive device surveillance"
+      ]
+    },
+    {
+      "timestamp": "2026-06-18 16:52",
+      "articles": 56,
+      "top_keywords": [
+        "pci dss problem",
+        "analysis published tuesday",
+        "sensitive system information",
+        "cyberattacks influence operations",
+        "major raas threat"
       ]
     }
   ]

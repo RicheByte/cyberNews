@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-18 12:47 UTC |
+| 🕐 Last Updated | 2026-06-18 16:52 UTC |
 | 📰 Articles Analyzed | 56 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`leak confirms openai` • `android malware allows` • `twitter whistleblower complaint` • `mythos 5 models` • `extensive device surveillance` • `exporting mythos fable` • `delhi high court` • `check point research` • `orphaned ai agents` • `sprawling phishing campaign`
+`pci dss problem` • `analysis published tuesday` • `sensitive system information` • `cyberattacks influence operations` • `major raas threat` • `twitter whistleblower complaint` • `prolific cybercrime groups` • `mythos 5 models` • `malware delivery paths` • `exporting mythos fable`
 
 ## 📄 Reports
 

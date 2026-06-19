@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-06-19 13:31",
+  "last_updated": "2026-06-19 16:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cryptobandits malware doubles",
     "enterprise ai concern",
-    "bundled tor proxy",
     "dire critical rating",
     "cybersecurity firms impacted",
     "twitter whistleblower complaint",
-    "remote unauthenticated attacker",
     "token security breaks",
+    "remote unauthenticated attacker",
+    "local socks5 proxy",
+    "fast spreading internet",
+    "every ai agent",
     "resetting account passwords",
     "remote code execution",
-    "local socks5 proxy",
     "achieve code execution",
+    "internet accessible devices",
     "data leakage concern",
-    "malware delivery paths",
-    "clipboard intercepting malware",
     "public github account",
-    "ai generated nudes",
-    "windows script host",
     "undermine mfa protections",
-    "third integrated application"
+    "third integrated application",
+    "sweeping campaign believed",
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "enterprise ai concern",
-      "mentions": 1
-    },
-    {
-      "keyword": "bundled tor proxy",
-      "mentions": 5
+      "mentions": 2
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "cybersecurity firms impacted",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1889
-    },
-    {
-      "keyword": "remote unauthenticated attacker",
-      "mentions": 8
+      "mentions": 1890
     },
     {
       "keyword": "token security breaks",
+      "mentions": 2
+    },
+    {
+      "keyword": "remote unauthenticated attacker",
+      "mentions": 9
+    },
+    {
+      "keyword": "local socks5 proxy",
+      "mentions": 2
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 34
+    },
+    {
+      "keyword": "every ai agent",
       "mentions": 1
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 32
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 470
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
+      "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
+      "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
+      "published": "Fri, 19 Jun 2026 20:37:54 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices. The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at",
+      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
@@ -133,24 +153,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Claude Chat Abuse, NastyC2 npm Packages, Device-Code Phishing + 25 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-claude-chat-abuse.html",
-      "summary": "The internet did not break this week. It got used exactly as designed, which is worse. Searches were siphoned through shady browser add-ons. AI chat links turned into malware delivery paths. macOS attacks ran in memory and left almost nothing behind. Cloud agents looked like helpers until attackers treated them like open shells. Add exposed edge gear, poisoned packages, cash courier scams,",
-      "published": "Thu, 18 Jun 2026 20:57:54 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
+      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
+      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
+      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Phishing"
+        "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
-      "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2",
-      "published": "Thu, 18 Jun 2026 20:00:42 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -229,15 +240,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-      "summary": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
-      "published": "Thu, 18 Jun 2026 14:31:36 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -404,6 +406,17 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
+      "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 15:23:36 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
       "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
       "summary": "CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution. The post CryptoBandits Malware Doubles as a Backdoor, Abuses Tor appeared first on SecurityWeek .",
@@ -477,15 +490,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push",
-      "link": "https://www.securityweek.com/accenture-to-acquire-majority-stake-in-dragos-all-of-runzero-netrise-in-4-1-billion-ot-cybersecurity-push/",
-      "summary": "The deal values industrial cybersecurity giant Dragos at $3.25 billion, and runZero and NetRise will operate under Dragos. The post Accenture to Acquire Majority Stake in Dragos, All of runZero, NetRise in $4.1 Billion OT Cybersecurity Push appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 13:08:53 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

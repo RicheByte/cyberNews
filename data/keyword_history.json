@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1889,
+      "count": 1890,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -751,7 +751,7 @@
       ]
     },
     "remote code execution": {
-      "count": 470,
+      "count": 471,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3681,7 +3681,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -11277,7 +11277,7 @@
       ]
     },
     "achieve code execution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-21",
         "2026-06-19"
@@ -17447,7 +17447,7 @@
       ]
     },
     "public github account": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17814,7 +17814,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18197,7 +18197,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18537,14 +18537,15 @@
       ]
     },
     "fast spreading internet": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-04",
         "2026-06-05",
         "2026-06-06",
         "2026-06-07",
         "2026-06-08",
-        "2026-06-09"
+        "2026-06-09",
+        "2026-06-19"
       ]
     },
     "iranian ransomware actors": {
@@ -19300,7 +19301,7 @@
       ]
     },
     "remote unauthenticated attacker": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-11",
         "2026-06-12",
@@ -20026,7 +20027,7 @@
       ]
     },
     "third integrated application": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-19"
       ]
@@ -20038,42 +20039,60 @@
       ]
     },
     "cryptobandits malware doubles": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "enterprise ai concern": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "cybersecurity firms impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "token security breaks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "local socks5 proxy": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "data leakage concern": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "undermine mfa protections": {
+      "count": 2,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "every ai agent": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "internet accessible devices": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "sweeping campaign believed": {
       "count": 1,
       "dates": [
         "2026-06-19"
@@ -20081,17 +20100,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-05 02:54",
-      "articles": 56,
-      "top_keywords": [
-        "supply chain attack",
-        "chinese cybercrime group",
-        "4 critical threats",
-        "mirasvit vulnerability exploited",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-06-05 08:01",
       "articles": 56,
@@ -21179,6 +21187,17 @@
         "bundled tor proxy",
         "dire critical rating",
         "cybersecurity firms impacted"
+      ]
+    },
+    {
+      "timestamp": "2026-06-19 16:29",
+      "articles": 48,
+      "top_keywords": [
+        "cryptobandits malware doubles",
+        "enterprise ai concern",
+        "dire critical rating",
+        "cybersecurity firms impacted",
+        "twitter whistleblower complaint"
       ]
     }
   ]

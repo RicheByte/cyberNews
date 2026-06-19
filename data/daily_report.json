@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-19 21:04",
+  "last_updated": "2026-06-19 22:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cryptobandits malware doubles",
-    "dire critical rating",
     "internet accessible devices",
+    "dire critical rating",
     "cybersecurity firms impacted",
     "enterprise ai concern",
     "twitter whistleblower complaint",
@@ -13,57 +13,57 @@
     "local socks5 proxy",
     "fast spreading internet",
     "competitive intelligence company",
-    "100 000 sites",
+    "allowed threat actors",
     "token security breaks",
     "resetting account passwords",
     "impairing system defenses",
-    "krebsonsecurity publicly named",
     "end organizations will",
     "data leakage concern",
     "public github account",
     "undermine mfa protections",
-    "sweeping campaign believed"
+    "sweeping campaign believed",
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
+      "mentions": 5
+    },
+    {
+      "keyword": "internet accessible devices",
       "mentions": 4
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 188
-    },
-    {
-      "keyword": "internet accessible devices",
-      "mentions": 3
+      "mentions": 189
     },
     {
       "keyword": "cybersecurity firms impacted",
-      "mentions": 4
-    },
-    {
-      "keyword": "enterprise ai concern",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1892
-    },
-    {
-      "keyword": "third integrated application",
       "mentions": 5
     },
     {
+      "keyword": "enterprise ai concern",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1893
+    },
+    {
+      "keyword": "third integrated application",
+      "mentions": 6
+    },
+    {
       "keyword": "local socks5 proxy",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "competitive intelligence company",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -153,6 +153,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
+      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
+      "published": "Fri, 19 Jun 2026 18:31:04 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
       "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
@@ -227,18 +238,6 @@
       "published": "Fri, 19 Jun 2026 04:44:08 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
-      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "Breach/leak ×2",
-        "CISA/KEV ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1892,
+      "count": 1893,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3409,9 +3409,10 @@
       ]
     },
     "allowed threat actors": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-01-12"
+        "2026-01-12",
+        "2026-06-19"
       ]
     },
     "stolen code repositories": {
@@ -3681,7 +3682,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17447,7 +17448,7 @@
       ]
     },
     "public github account": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17814,7 +17815,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18197,7 +18198,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18537,7 +18538,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20027,7 +20028,7 @@
       ]
     },
     "third integrated application": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-19"
       ]
@@ -20039,43 +20040,43 @@
       ]
     },
     "cryptobandits malware doubles": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
     },
     "enterprise ai concern": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
     },
     "cybersecurity firms impacted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
     },
     "token security breaks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
     },
     "local socks5 proxy": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
     },
     "data leakage concern": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
     },
     "undermine mfa protections": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19"
       ]
@@ -20087,19 +20088,19 @@
       ]
     },
     "internet accessible devices": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-19"
       ]
     },
     "sweeping campaign believed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-19"
       ]
     },
     "competitive intelligence company": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-19"
       ]
@@ -20111,7 +20112,7 @@
       ]
     },
     "end organizations will": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-19"
       ]
@@ -20123,24 +20124,13 @@
       ]
     },
     "impairing system defenses": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-05 16:27",
-      "articles": 56,
-      "top_keywords": [
-        "dental benefits administrator",
-        "4 critical threats",
-        "pushed malicious code",
-        "concept exploit code",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-05 19:47",
       "articles": 56,
@@ -21226,6 +21216,17 @@
         "cryptobandits malware doubles",
         "dire critical rating",
         "internet accessible devices",
+        "cybersecurity firms impacted",
+        "enterprise ai concern"
+      ]
+    },
+    {
+      "timestamp": "2026-06-19 22:50",
+      "articles": 48,
+      "top_keywords": [
+        "cryptobandits malware doubles",
+        "internet accessible devices",
+        "dire critical rating",
         "cybersecurity firms impacted",
         "enterprise ai concern"
       ]

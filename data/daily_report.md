@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-19 21:04 UTC  
+> **Last Updated:** 2026-06-19 22:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cryptobandits malware doubles** • **dire critical rating** • **internet accessible devices** • **cybersecurity firms impacted** • **enterprise ai concern** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **fast spreading internet** • **competitive intelligence company** • **100 000 sites** • **token security breaks** • **resetting account passwords** • **impairing system defenses** • **krebsonsecurity publicly named** • **end organizations will** • **data leakage concern** • **public github account** • **undermine mfa protections** • **sweeping campaign believed**
+**cryptobandits malware doubles** • **internet accessible devices** • **dire critical rating** • **cybersecurity firms impacted** • **enterprise ai concern** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **fast spreading internet** • **competitive intelligence company** • **allowed threat actors** • **token security breaks** • **resetting account passwords** • **impairing system defenses** • **end organizations will** • **data leakage concern** • **public github account** • **undermine mfa protections** • **sweeping campaign believed** • **stark industries solutions**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
 - [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 - [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 - [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
@@ -34,7 +35,6 @@
 - [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 - [CISA: Splunk Enterprise flaw actively exploited, patch by Sunday](https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/)
 - [NY man charged after harassing college student with AI-generated nudes](https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/)
-- [CISA warns Fortinet users to secure devices after FortiBleed leak](https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/)
 
 ### Krebs on Security
 

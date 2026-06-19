@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1888,
+      "count": 1889,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -751,7 +751,7 @@
       ]
     },
     "remote code execution": {
-      "count": 469,
+      "count": 470,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -830,7 +830,8 @@
         "2026-06-13",
         "2026-06-14",
         "2026-06-15",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-06-19"
       ]
     },
     "attacker remotely control": {
@@ -3680,7 +3681,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3712,7 +3713,8 @@
         "2026-06-14",
         "2026-06-15",
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-06-19"
       ]
     },
     "bugs fixed today": {
@@ -11275,9 +11277,10 @@
       ]
     },
     "achieve code execution": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-21"
+        "2026-03-21",
+        "2026-06-19"
       ]
     },
     "high intelligence value": {
@@ -17444,7 +17447,7 @@
       ]
     },
     "public github account": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18194,7 +18197,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19297,7 +19300,7 @@
       ]
     },
     "remote unauthenticated attacker": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-11",
         "2026-06-12",
@@ -19950,7 +19953,7 @@
       ]
     },
     "malware delivery paths": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-18",
         "2026-06-19"
@@ -19976,7 +19979,7 @@
       ]
     },
     "bundled tor proxy": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-18",
         "2026-06-19"
@@ -19990,7 +19993,7 @@
       ]
     },
     "windows script host": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-18",
         "2026-06-19"
@@ -20011,19 +20014,19 @@
       ]
     },
     "clipboard intercepting malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "ai generated nudes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
     },
     "third integrated application": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-19"
       ]
@@ -20033,20 +20036,51 @@
       "dates": [
         "2026-06-19"
       ]
+    },
+    "cryptobandits malware doubles": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "enterprise ai concern": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "cybersecurity firms impacted": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "token security breaks": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "local socks5 proxy": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "data leakage concern": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "undermine mfa protections": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-04 23:04",
-      "articles": 56,
-      "top_keywords": [
-        "supply chain attack",
-        "chinese cybercrime group",
-        "4 critical threats",
-        "mirasvit vulnerability exploited",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-06-05 02:54",
       "articles": 56,
@@ -21134,6 +21168,17 @@
         "twitter whistleblower complaint",
         "response edr killers",
         "remote unauthenticated attacker"
+      ]
+    },
+    {
+      "timestamp": "2026-06-19 13:31",
+      "articles": 48,
+      "top_keywords": [
+        "cryptobandits malware doubles",
+        "enterprise ai concern",
+        "bundled tor proxy",
+        "dire critical rating",
+        "cybersecurity firms impacted"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-19 09:02 UTC |
+| 🕐 Last Updated | 2026-06-19 13:31 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`pci dss problem` • `clipboard intercepting malware` • `twitter whistleblower complaint` • `response edr killers` • `remote unauthenticated attacker` • `prolific cybercrime groups` • `cyberattacks influence operations` • `bundled tor proxy` • `atlassian fixed dozens` • `resetting account passwords`
+`cryptobandits malware doubles` • `enterprise ai concern` • `bundled tor proxy` • `dire critical rating` • `cybersecurity firms impacted` • `twitter whistleblower complaint` • `remote unauthenticated attacker` • `token security breaks` • `resetting account passwords` • `remote code execution`
 
 ## 📄 Reports
 

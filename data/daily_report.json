@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-06-19 09:02",
+  "last_updated": "2026-06-19 13:31",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "pci dss problem",
-    "clipboard intercepting malware",
-    "twitter whistleblower complaint",
-    "response edr killers",
-    "remote unauthenticated attacker",
-    "prolific cybercrime groups",
-    "cyberattacks influence operations",
+    "cryptobandits malware doubles",
+    "enterprise ai concern",
     "bundled tor proxy",
-    "atlassian fixed dozens",
+    "dire critical rating",
+    "cybersecurity firms impacted",
+    "twitter whistleblower complaint",
+    "remote unauthenticated attacker",
+    "token security breaks",
     "resetting account passwords",
-    "orphaned ai agents",
+    "remote code execution",
+    "local socks5 proxy",
+    "achieve code execution",
+    "data leakage concern",
     "malware delivery paths",
-    "ai generated nudes",
+    "clipboard intercepting malware",
     "public github account",
+    "ai generated nudes",
     "windows script host",
-    "tooling problem rather",
-    "third party dependencies",
-    "third integrated application",
-    "stark industries solutions",
-    "self spreading capabilities"
+    "undermine mfa protections",
+    "third integrated application"
   ],
   "trending": [
     {
-      "keyword": "pci dss problem",
+      "keyword": "cryptobandits malware doubles",
+      "mentions": 1
+    },
+    {
+      "keyword": "enterprise ai concern",
+      "mentions": 1
+    },
+    {
+      "keyword": "bundled tor proxy",
       "mentions": 5
     },
     {
-      "keyword": "clipboard intercepting malware",
+      "keyword": "dire critical rating",
+      "mentions": 185
+    },
+    {
+      "keyword": "cybersecurity firms impacted",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1888
-    },
-    {
-      "keyword": "response edr killers",
-      "mentions": 5
+      "mentions": 1889
     },
     {
       "keyword": "remote unauthenticated attacker",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "prolific cybercrime groups",
-      "mentions": 5
-    },
-    {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 31
-    },
-    {
-      "keyword": "bundled tor proxy",
-      "mentions": 4
-    },
-    {
-      "keyword": "atlassian fixed dozens",
-      "mentions": 4
+      "keyword": "token security breaks",
+      "mentions": 1
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 31
+      "mentions": 32
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 470
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
+      "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
+      "summary": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead",
+      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
+      "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
+      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
+      "published": "Fri, 19 Jun 2026 16:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
+      "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
+      "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week. \"Salesforce took",
+      "published": "Fri, 19 Jun 2026 14:33:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
@@ -124,35 +153,49 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "INC Ransomware Emerges as Major RaaS Threat in 2026 with 830+ Victims Since 2023",
-      "link": "https://thehackernews.com/2026/06/inc-ransomware-claims-830-victims-since.html",
-      "summary": "Cybersecurity researchers have charted the evolution of INC from an nascent ransomware-as-a-service (RaaS) operation to one of the most prolific cybercrime groups in 2026, claiming no less than 830 victims since August 2023. \"The disruption of LockBit and the shutdown of BlackCat created opportunities for INC to expand as affiliates migrated to alternative ransomware operations,\" Acronis",
-      "published": "Thu, 18 Jun 2026 19:42:48 +0530",
-      "value_score": 46,
+      "source": "BleepingComputer",
+      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
+      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
+      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
+      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Ransomware ×3"
+        "High severity"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "summary": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned",
-      "published": "Thu, 18 Jun 2026 19:28:39 +0530",
+      "source": "BleepingComputer",
+      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
+      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
+      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
+      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
+      "published": "Fri, 19 Jun 2026 07:32:34 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "summary": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was",
-      "published": "Thu, 18 Jun 2026 19:00:07 +0530",
-      "value_score": 52,
+      "source": "BleepingComputer",
+      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
+      "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
+      "published": "Fri, 19 Jun 2026 06:39:58 -0400",
+      "value_score": 97,
       "value_signals": [
-        "Ransomware",
-        "Backdoor ×3"
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
@@ -195,46 +238,6 @@
       "published": "Thu, 18 Jun 2026 14:31:36 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "summary": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
-      "published": "Thu, 18 Jun 2026 12:20:06 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Klue OAuth breach linked to 'Icarus' Salesforce data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-linked-to-icarus-salesforce-data-theft-attacks/",
-      "summary": "Market intelligence platform Klue suffered a OAuth breach that enabled the \"Icarus\" threat actors to steal Salesforce CRM data from multiple organizations in an ongoing extortion campaign. [...]",
-      "published": "Thu, 18 Jun 2026 10:19:50 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "5 reasons Microsoft 365 backup isn’t enough for business data protection",
-      "link": "https://www.bleepingcomputer.com/news/security/5-reasons-microsoft-365-backup-isnt-enough-for-business-data-protection/",
-      "summary": "Microsoft 365 helps keep services running, but protecting and recovering business data remains your responsibility. Acronis breaks down five gaps organizations should consider when evaluating Microsoft 365 data protection. [...]",
-      "published": "Thu, 18 Jun 2026 09:48:56 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police cleans nearly 15,000 SocGholish-infected sites tied to Evil Corp",
-      "link": "https://www.bleepingcomputer.com/news/security/law-enforcement-nukes-socgholish-malware-from-nearly-15-000-sites/",
-      "summary": "International law enforcement agencies cleaned nearly 15,000 malware-infected WordPress websites and took down more than 100 servers linked to the SocGholish botnet and the Evil Corp Russian cybercrime group. [...]",
-      "published": "Thu, 18 Jun 2026 09:25:47 -0400",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
+      "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+      "summary": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
+      "published": "Fri, 19 Jun 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Novo Nordisk Breach Exposes Software Development Pipeline Risk",
       "link": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
       "summary": "A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem.",
@@ -391,11 +403,32 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices",
-      "summary": "Attackers are actively targeting various sectors across nearly 200 countries and already have compiled a list of working credentials for tens of thousands of compromised devices.",
-      "published": "Wed, 17 Jun 2026 14:06:34 GMT",
+      "source": "Security Week",
+      "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
+      "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
+      "summary": "CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution. The post CryptoBandits Malware Doubles as a Backdoor, Abuses Tor appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 11:19:41 +0000",
+      "value_score": 54,
+      "value_signals": [
+        "RCE",
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "FortiBleed: 86,000 Fortinet Device Credentials Compromised",
+      "link": "https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/",
+      "summary": "The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs. The post FortiBleed: 86,000 Fortinet Device Credentials Compromised appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 10:48:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
+      "link": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
+      "summary": "The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future. The post Cybersecurity Firms Impacted by Klue Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 09:19:06 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -453,40 +486,6 @@
       "published": "Thu, 18 Jun 2026 13:08:53 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "No Exploits Required",
-      "link": "https://www.securityweek.com/no-exploits-required/",
-      "summary": "Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures. The post No Exploits Required appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 12:30:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dream Raises $260 Million at $3 Billion Valuation",
-      "link": "https://www.securityweek.com/dream-raises-260-million-at-3-billion-valuation/",
-      "summary": "The Israeli startup provides sovereign AI and cyber defenses for governments and critical infrastructure. The post Dream Raises $260 Million at $3 Billion Valuation appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 11:55:07 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Atlassian, Splunk Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/atlassian-splunk-patch-critical-vulnerabilities/",
-      "summary": "Splunk patched an OS command injection in AI Toolkit, while Atlassian fixed dozens of flaws in third-party dependencies. The post Atlassian, Splunk Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 10:59:50 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

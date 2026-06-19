@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-19 16:29 UTC  
+> **Last Updated:** 2026-06-19 19:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cryptobandits malware doubles** • **enterprise ai concern** • **dire critical rating** • **cybersecurity firms impacted** • **twitter whistleblower complaint** • **token security breaks** • **remote unauthenticated attacker** • **local socks5 proxy** • **fast spreading internet** • **every ai agent** • **resetting account passwords** • **remote code execution** • **achieve code execution** • **internet accessible devices** • **data leakage concern** • **public github account** • **undermine mfa protections** • **third integrated application** • **sweeping campaign believed** • **stark industries solutions**
+**cryptobandits malware doubles** • **dire critical rating** • **internet accessible devices** • **cybersecurity firms impacted** • **enterprise ai concern** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **fast spreading internet** • **competitive intelligence company** • **token security breaks** • **resetting account passwords** • **krebsonsecurity publicly named** • **end organizations will** • **data leakage concern** • **public github account** • **undermine mfa protections** • **sweeping campaign believed** • **stark industries solutions** • **sprawling phishing campaign**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
+- [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
+- [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
 - [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
 - [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
 - [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
 - [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
 - [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
-- [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html)
-- [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html)
-- [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html)
 
 ### BleepingComputer
 

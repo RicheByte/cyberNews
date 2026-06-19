@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1887,
+      "count": 1888,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -11062,7 +11062,7 @@
       ]
     },
     "response edr killers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-03-20",
         "2026-06-18",
@@ -17444,7 +17444,7 @@
       ]
     },
     "public github account": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17506,7 +17506,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17811,7 +17811,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17830,7 +17830,8 @@
         "2026-06-15",
         "2026-06-16",
         "2026-06-17",
-        "2026-06-18"
+        "2026-06-18",
+        "2026-06-19"
       ]
     },
     "ai power users": {
@@ -18193,7 +18194,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19296,11 +19297,12 @@
       ]
     },
     "remote unauthenticated attacker": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-11",
         "2026-06-12",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-06-19"
       ]
     },
     "slow response workflows": {
@@ -19907,20 +19909,21 @@
       ]
     },
     "orphaned ai agents": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-18",
         "2026-06-19"
       ]
     },
     "third party dependencies": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-18"
+        "2026-06-18",
+        "2026-06-19"
       ]
     },
     "pci dss problem": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-18",
         "2026-06-19"
@@ -19940,14 +19943,14 @@
       ]
     },
     "prolific cybercrime groups": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-18",
         "2026-06-19"
       ]
     },
     "malware delivery paths": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-18",
         "2026-06-19"
@@ -19973,21 +19976,21 @@
       ]
     },
     "bundled tor proxy": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-18",
         "2026-06-19"
       ]
     },
     "atlassian fixed dozens": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-18",
         "2026-06-19"
       ]
     },
     "windows script host": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-18",
         "2026-06-19"
@@ -20001,25 +20004,38 @@
       ]
     },
     "tooling problem rather": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-18",
+        "2026-06-19"
+      ]
+    },
+    "clipboard intercepting malware": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "ai generated nudes": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "third integrated application": {
+      "count": 1,
+      "dates": [
+        "2026-06-19"
+      ]
+    },
+    "self spreading capabilities": {
+      "count": 1,
+      "dates": [
         "2026-06-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-04 21:43",
-      "articles": 56,
-      "top_keywords": [
-        "supply chain attack",
-        "chinese cybercrime group",
-        "4 critical threats",
-        "mirasvit vulnerability exploited",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-06-04 23:04",
       "articles": 56,
@@ -21107,6 +21123,17 @@
         "response edr killers",
         "prolific cybercrime groups",
         "paying customers via"
+      ]
+    },
+    {
+      "timestamp": "2026-06-19 09:02",
+      "articles": 48,
+      "top_keywords": [
+        "pci dss problem",
+        "clipboard intercepting malware",
+        "twitter whistleblower complaint",
+        "response edr killers",
+        "remote unauthenticated attacker"
       ]
     }
   ]

@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-06-19 03:48",
+  "last_updated": "2026-06-19 09:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "pci dss problem",
+    "clipboard intercepting malware",
     "twitter whistleblower complaint",
     "response edr killers",
+    "remote unauthenticated attacker",
     "prolific cybercrime groups",
-    "paying customers via",
     "cyberattacks influence operations",
     "bundled tor proxy",
     "atlassian fixed dozens",
-    "analysis published tuesday",
-    "orphaned ai agents",
     "resetting account passwords",
-    "public github account",
+    "orphaned ai agents",
     "malware delivery paths",
-    "android malware allows",
-    "sprawling phishing campaign",
-    "service raas operation",
+    "ai generated nudes",
+    "public github account",
     "windows script host",
-    "user input allows",
-    "unknown threat actor",
-    "tooling problem rather"
+    "tooling problem rather",
+    "third party dependencies",
+    "third integrated application",
+    "stark industries solutions",
+    "self spreading capabilities"
   ],
   "trending": [
     {
       "keyword": "pci dss problem",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "clipboard intercepting malware",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1887
+      "mentions": 1888
     },
     {
       "keyword": "response edr killers",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "remote unauthenticated attacker",
+      "mentions": 7
     },
     {
       "keyword": "prolific cybercrime groups",
-      "mentions": 4
-    },
-    {
-      "keyword": "paying customers via",
-      "mentions": 3
+      "mentions": 5
     },
     {
       "keyword": "cyberattacks influence operations",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "bundled tor proxy",
-      "mentions": 3
-    },
-    {
-      "keyword": "atlassian fixed dozens",
-      "mentions": 3
-    },
-    {
-      "keyword": "analysis published tuesday",
       "mentions": 4
     },
     {
-      "keyword": "orphaned ai agents",
-      "mentions": 5
+      "keyword": "atlassian fixed dozens",
+      "mentions": 4
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 31
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone",
+      "link": "https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html",
+      "summary": "Apple has updated its Beats Studio Buds wireless earbuds to patch a high-severity vulnerability that could be exploited by nearby hackers to eavesdrop on users. The vulnerability, tracked as CVE-2025-20701 (CVSS score: 8.8), refers to a case of incorrect authorization impacting the Airoha Bluetooth audio SDK that makes it possible to pair a Bluetooth audio device without user consent.",
+      "published": "Fri, 19 Jun 2026 12:06:09 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution",
@@ -105,7 +118,7 @@
       "source": "The Hacker News",
       "title": "Microsoft Details Windows Clipper Malware Campaign Using USB LNK Worm and Tor-Based C2",
       "link": "https://thehackernews.com/2026/06/microsoft-details-windows-clipper.html",
-      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2 [command-and-control] server,\" the Microsoft Defender Security Research Team said in an analysis published Tuesday. \"It",
+      "summary": "Microsoft has disclosed details of a Windows-based cryptocurrency clipper campaign that has targeted users since February 2026 with clipboard-intercepting malware with self-spreading capabilities and using the Tor anonymity network to hide communication. \"The clipper in this campaign relies on Windows Script Host and ActiveX-driven logic to launch a bundled Tor proxy and poll a hidden-service C2",
       "published": "Thu, 18 Jun 2026 20:00:42 +0530",
       "value_score": 10,
       "value_signals": []
@@ -143,14 +156,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "summary": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a",
-      "published": "Wed, 17 Jun 2026 23:44:24 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "NY man charged after harassing college student with AI-generated nudes",
+      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
+      "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
+      "published": "Fri, 19 Jun 2026 04:44:08 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns Fortinet users to secure devices after FortiBleed leak",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-fortinet-users-to-secure-devices-after-fortibleed-leak/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged Fortinet customers to secure their devices after nearly 74,000 firewall and VPN credentials were exposed in a data leak dubbed \"FortiBleed.\" [...]",
+      "published": "Fri, 19 Jun 2026 02:47:55 -0400",
+      "value_score": 74,
       "value_signals": [
-        "Phishing"
+        "Breach/leak ×2",
+        "CISA/KEV ×2"
       ]
     },
     {
@@ -211,28 +234,6 @@
       "value_score": 20,
       "value_signals": [
         "Botnet"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShapedPlugin update flow hacked to infect WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/shapedplugin-update-flow-hacked-to-infect-wordpress-sites/",
-      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack that distributed infected releases to paying customers via the vendor's official update system. [...]",
-      "published": "Thu, 18 Jun 2026 08:55:36 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
-      "summary": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
-      "published": "Thu, 18 Jun 2026 08:54:39 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -400,6 +401,41 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC",
+      "link": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
+      "summary": "WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius. The post Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 07:22:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown",
+      "link": "https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/",
+      "summary": "Law enforcement and private partners took down 106 SocGholish C&C servers and domains as part of Operation Endgame. The post 15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 06:46:44 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
+      "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
+      "summary": "CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution. The post Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure appeared first on SecurityWeek .",
+      "published": "Fri, 19 Jun 2026 04:10:34 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Patch/update",
+        "CISA/KEV",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Majority of Internet-Accessible REDCap Servers Outdated",
       "link": "https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/",
       "summary": "These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment. The post Majority of Internet-Accessible REDCap Servers Outdated appeared first on SecurityWeek .",
@@ -450,37 +486,6 @@
       "value_signals": [
         "Patch/update ×3",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rokarolla Banking Trojan Targets 200 Applications",
-      "link": "https://www.securityweek.com/rokarolla-banking-trojan-targets-200-applications/",
-      "summary": "The Android malware allows its operators to take control of infected devices and harvest sensitive information. The post Rokarolla Banking Trojan Targets 200 Applications appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 10:42:21 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Command Execution Vulnerability Patched in Cisco ISE",
-      "link": "https://www.securityweek.com/critical-command-execution-vulnerability-patched-in-cisco-ise/",
-      "summary": "Insufficient validation of user input allows an attacker to gain access to the underlying OS and elevate their privileges to root. The post Critical Command Execution Vulnerability Patched in Cisco ISE appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 10:27:14 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "F5 Patches Critical, High-Severity NGINX Vulnerabilities",
-      "link": "https://www.securityweek.com/f5-patches-critical-high-severity-nginx-vulnerabilities/",
-      "summary": "Critical flaws in NGINX could allow remote, unauthenticated attackers to cause a restart and potentially execute arbitrary code. The post F5 Patches Critical, High-Severity NGINX Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 09:39:24 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
       ]
     },
     {

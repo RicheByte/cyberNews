@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-18 23:40 UTC  
+> **Last Updated:** 2026-06-19 03:48 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 56
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**pci dss problem** • **twitter whistleblower complaint** • **response edr killers** • **prolific cybercrime groups** • **paying customers via** • **cyberattacks influence operations** • **bundled tor proxy** • **atlassian fixed dozens** • **analysis published tuesday** • **orphaned ai agents** • **resetting account passwords** • **public github account** • **malware delivery paths** • **android malware allows** • **sprawling phishing campaign** • **arbitrary code execution** • **windows script host** • **user input allows** • **unknown threat actor** • **tooling problem rather**
+**pci dss problem** • **twitter whistleblower complaint** • **response edr killers** • **prolific cybercrime groups** • **paying customers via** • **cyberattacks influence operations** • **bundled tor proxy** • **atlassian fixed dozens** • **analysis published tuesday** • **orphaned ai agents** • **resetting account passwords** • **public github account** • **malware delivery paths** • **android malware allows** • **sprawling phishing campaign** • **service raas operation** • **windows script host** • **user input allows** • **unknown threat actor** • **tooling problem rather**
 
 ---
 
@@ -79,17 +79,6 @@
 - [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
 - [Firewall Bug Under Active Attack Triggers CISA Warning](https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/)
 - [Fake Reservation Links Prey on Weary Travelers](https://threatpost.com/reservation-links-prey-on-travelers/180462/)
-
-### CISA Alerts
-
-- [CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure](https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure)
-- [AzeoTech DAQFactory](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02)
-- [Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01)
-- [Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06)
-- [Mitsubishi Electric MELSEC iQ-F Series](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05)
-- [Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07)
-- [CISA Adds One Known Exploited Vulnerability to Catalog](https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog)
-- [Rockwell Automation FactoryTalk Historian Site Edition](https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03)
 
 ---
 

@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-18 23:40",
+  "last_updated": "2026-06-19 03:48",
   "sources_count": 8,
-  "articles_count": 56,
+  "articles_count": 48,
   "keywords": [
     "pci dss problem",
     "twitter whistleblower complaint",
@@ -18,7 +18,7 @@
     "malware delivery paths",
     "android malware allows",
     "sprawling phishing campaign",
-    "arbitrary code execution",
+    "service raas operation",
     "windows script host",
     "user input allows",
     "unknown threat actor",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "pci dss problem",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1886
+      "mentions": 1887
     },
     {
       "keyword": "response edr killers",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "prolific cybercrime groups",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "paying customers via",
-      "mentions": 2
-    },
-    {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 29
-    },
-    {
-      "keyword": "bundled tor proxy",
-      "mentions": 2
-    },
-    {
-      "keyword": "atlassian fixed dozens",
-      "mentions": 2
-    },
-    {
-      "keyword": "analysis published tuesday",
       "mentions": 3
     },
     {
-      "keyword": "orphaned ai agents",
+      "keyword": "cyberattacks influence operations",
+      "mentions": 30
+    },
+    {
+      "keyword": "bundled tor proxy",
+      "mentions": 3
+    },
+    {
+      "keyword": "atlassian fixed dozens",
+      "mentions": 3
+    },
+    {
+      "keyword": "analysis published tuesday",
       "mentions": 4
+    },
+    {
+      "keyword": "orphaned ai agents",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -565,110 +565,6 @@
       "published": "Mon, 22 Aug 2022 13:59:06 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Urges Hardening Fortinet Devices After Reports of Credential Exposure",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-urges-hardening-fortinet-devices-after-reports-credential-exposure",
-      "summary": "CISA is aware of global reports that malicious cyber actors have targeted internet-accessible Fortinet devices across government and private sector organizations using compromised credentials. This activity, referred to as FortiBleed, involves the exposure of leaked credentials associated with approximately 74,000 Fortinet devices, including firewalls and virtual private network (VPN) gateways. To defend against this malicious cyber activity, CISA urges impacted Fortinet customers with FortiGate",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "AzeoTech DAQFactory",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-02",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to upload malicious .ctl files that may lead to arbitrary code execution. The following versions of AzeoTech DAQFactory are affected: DAQFactory <=21.1 (CVE-2026-12390) CVSS Vendor Equipment Vulnerabilities v3 7.8 AzeoTech AzeoTech DAQFactory Access of Resource Using Incompatible Type ('Type Confusion') Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Comp",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 75,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT",
-      "link": "https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-169-01",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain sensitive health-related information and prevent legitimate users from establishing a connection with the device. The following versions of Apollo Pharmacy Blood Glucose Monitoring System APG-01 BT are affected: Blood Glucose Monitoring System (Model No. APG-01 BT) 0x0110_v1.1.0 (CVE-2026-50034, CVE-2026-52866) CVSS Vendor Equipment Vulnerabilities v3 6.5 Apollo Pharmacy Apollo Pharmacy Blood Glu",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 85,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric Co.'s MELSEC iQ-F Series FX5-ENET/IP Ethernet Module",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-06",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by continuously sending a large number of communication packets to the Ethernet port of the product in a short period of time, increasing the processing load of the product, preventing the internal anomaly-detection processing from being performed, and causing the communication function to stop. The following versions of Mitsubishi Ele",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Mitsubishi Electric MELSEC iQ-F Series",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-05",
-      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial-of-service (DoS) condition in the affected product by rapidly establishing a large number of TCP connections to it, resulting in an inconsistency in the product's internal connection management process and triggering improper memory access. The following versions of Mitsubishi Electric MELSEC iQ-F Series are affected: MELSEC iQ-F Series FX5-EIP EtherNet/IP Module FX5-EIP <=1.000 (CVE-2",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Schneider Electric Easergy, EcoStruxture, PowerLogic, and Saitel Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-07",
-      "summary": "View CSAF Summary Schneider Electric is aware of vulnerabilities in its PowerChute™ Serial Shutdown product. The [PowerChute Serial Shutdown](https://www.se.com/ww/en/product-range/137943580-powerchute-serial-shutdown/#products) product is a UPS management software enabling graceful system shutdown and energy management capabilities for desktop, servers and workstations. Failure to apply the remediation provided below may risk improper input validation which could result in disruption of operati",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 35,
-      "value_signals": [
-        "Source boost: CISA Alerts"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/06/18/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20253 Splunk Enterprise Missing Authentication for Critical Function Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 26-04: Prioritizing Security Updates Based on Risk establishes vulnerability management requirements ",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned",
-        "CISA/KEV ×4",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "CISA Alerts",
-      "title": "Rockwell Automation FactoryTalk Historian Site Edition",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-169-03",
-      "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to obtain a valid authentication token, perform a denial of service, or crash the system. The following versions of Rockwell Automation FactoryTalk Historian Site Edition are affected: FactoryTalk Historian SE 11 (CVE-2025-13036) FactoryTalk Historian SE <=11.00 (CVE-2025-44019) FactoryTalk Historian SE <=11.00 (CVE-2025-36539) CVSS Vendor Equipment Vulnerabilities v3 7.7 Rockwell Automation Rockwell Autom",
-      "published": "Thu, 18 Jun 26 12:00:00 +0000",
-      "value_score": 89,
-      "value_signals": [
-        "Source boost: CISA Alerts",
-        "CVE mentioned ×3",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     }
   ],
   "sources": [

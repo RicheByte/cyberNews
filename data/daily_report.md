@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-20 19:17 UTC  
+> **Last Updated:** 2026-06-20 21:10 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cryptobandits malware doubles** • **internet accessible devices** • **enterprise ai concern** • **allow unauthenticated attackers** • **cybersecurity firms impacted** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **framework that's known** • **fast spreading internet** • **dire critical rating** • **allowed threat actors** • **token security breaks** • **resetting account passwords** • **customers salesforce environments** • **extract sensitive data** • **data leakage concern** • **public github account** • **undermine mfa protections** • **sweeping campaign believed**
+**cryptobandits malware doubles** • **cybersecurity firms impacted** • **internet accessible devices** • **allow unauthenticated attackers** • **enterprise ai concern** • **twitter whistleblower complaint** • **local socks5 proxy** • **framework that's known** • **fast spreading internet** • **dire critical rating** • **allowed threat actors** • **resetting account passwords** • **undermine mfa protections** • **token security breaks** • **sweeping campaign believed** • **stark industries solutions** • **sprawling phishing campaign** • **response made sense** • **response edr killers** • **remote code execution**
 
 ---
 
@@ -46,17 +46,6 @@
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 - [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 - [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/)
-
-### Dark Reading
-
-- [Stressors, AI Forcing Changes to Cybersecurity Teams](https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams)
-- [Novo Nordisk Breach Exposes Software Development Pipeline Risk](https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk)
-- [Operation Escaneo Signals Shift in LatAm Threat Landscape](https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape)
-- [FIFA Bug Exposes World Cup Streams to Remote Takeover](https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover)
-- [Salesforce Data Thefts Continue via Klue App Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise)
-- [Get Out of Security Debt by Tackling the Exposure Problem](https://www.darkreading.com/cyber-risk/security-debt-tackle-exposure-problem)
-- [EU Gets a Head Start in Developing 6G Network Security](https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security)
-- [INC Ransomware Thrives by Mastering the Basics](https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics)
 
 ### Security Week
 

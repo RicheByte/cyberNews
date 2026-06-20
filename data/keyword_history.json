@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1900,
+      "count": 1901,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -752,7 +752,7 @@
       ]
     },
     "remote code execution": {
-      "count": 471,
+      "count": 472,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -832,7 +832,8 @@
         "2026-06-14",
         "2026-06-15",
         "2026-06-17",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ]
     },
     "attacker remotely control": {
@@ -1792,7 +1793,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 438,
+      "count": 439,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1874,7 +1875,8 @@
         "2026-06-12",
         "2026-06-15",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ]
     },
     "model agnostic abstractions": {
@@ -3410,7 +3412,7 @@
       ]
     },
     "allowed threat actors": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-01-12",
         "2026-06-19",
@@ -3684,7 +3686,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 196,
+      "count": 197,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -11068,11 +11070,12 @@
       ]
     },
     "response edr killers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-20",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-20"
       ]
     },
     "re already closer": {
@@ -17819,7 +17822,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18203,7 +18206,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18544,7 +18547,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20048,35 +20051,35 @@
       ]
     },
     "cryptobandits malware doubles": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "enterprise ai concern": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "cybersecurity firms impacted": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "token security breaks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "local socks5 proxy": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-19",
         "2026-06-20"
@@ -20090,7 +20093,7 @@
       ]
     },
     "undermine mfa protections": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-19",
         "2026-06-20"
@@ -20103,14 +20106,14 @@
       ]
     },
     "internet accessible devices": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "sweeping campaign believed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-19",
         "2026-06-20"
@@ -20150,13 +20153,13 @@
       ]
     },
     "allow unauthenticated attackers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-20"
       ]
     },
     "framework that's known": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-20"
       ]
@@ -20178,20 +20181,15 @@
       "dates": [
         "2026-06-20"
       ]
+    },
+    "response made sense": {
+      "count": 1,
+      "dates": [
+        "2026-06-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-06 13:20",
-      "articles": 56,
-      "top_keywords": [
-        "web scraping proxies",
-        "hitachi energy rtu500",
-        "fast spreading internet",
-        "twitter whistleblower complaint",
-        "potential implementation gaps"
-      ]
-    },
     {
       "timestamp": "2026-06-06 15:09",
       "articles": 56,
@@ -21279,6 +21277,17 @@
         "enterprise ai concern",
         "allow unauthenticated attackers",
         "cybersecurity firms impacted"
+      ]
+    },
+    {
+      "timestamp": "2026-06-20 21:10",
+      "articles": 40,
+      "top_keywords": [
+        "cryptobandits malware doubles",
+        "cybersecurity firms impacted",
+        "internet accessible devices",
+        "allow unauthenticated attackers",
+        "enterprise ai concern"
       ]
     }
   ]

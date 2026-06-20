@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-20 21:10",
+  "last_updated": "2026-06-20 23:02",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
     "cryptobandits malware doubles",
-    "cybersecurity firms impacted",
     "internet accessible devices",
-    "allow unauthenticated attackers",
     "enterprise ai concern",
+    "allow unauthenticated attackers",
+    "cybersecurity firms impacted",
     "twitter whistleblower complaint",
+    "third integrated application",
     "local socks5 proxy",
     "framework that's known",
     "fast spreading internet",
     "dire critical rating",
     "allowed threat actors",
-    "resetting account passwords",
-    "undermine mfa protections",
     "token security breaks",
-    "sweeping campaign believed",
-    "stark industries solutions",
-    "sprawling phishing campaign",
-    "response made sense",
-    "response edr killers",
-    "remote code execution"
+    "resetting account passwords",
+    "customers salesforce environments",
+    "extract sensitive data",
+    "data leakage concern",
+    "public github account",
+    "undermine mfa protections",
+    "sweeping campaign believed"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
-      "mentions": 13
-    },
-    {
-      "keyword": "cybersecurity firms impacted",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "internet accessible devices",
-      "mentions": 12
-    },
-    {
-      "keyword": "allow unauthenticated attackers",
-      "mentions": 6
+      "mentions": 13
     },
     {
       "keyword": "enterprise ai concern",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "allow unauthenticated attackers",
+      "mentions": 7
+    },
+    {
+      "keyword": "cybersecurity firms impacted",
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1901
+      "mentions": 1902
+    },
+    {
+      "keyword": "third integrated application",
+      "mentions": 14
     },
     {
       "keyword": "local socks5 proxy",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "framework that's known",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 45
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 197
+      "mentions": 46
     }
   ],
   "articles": [
@@ -323,6 +323,82 @@
       "value_score": 50,
       "value_signals": [
         "CISA/KEV ×4"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
+      "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
+      "summary": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
+      "published": "Fri, 19 Jun 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Novo Nordisk Breach Exposes Software Development Pipeline Risk",
+      "link": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
+      "summary": "A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem.",
+      "published": "Thu, 18 Jun 2026 20:05:47 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Operation Escaneo Signals Shift in LatAm Threat Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape",
+      "summary": "The threat group's curious business model may combine opportunistic monetization alongside intel collection, without much coordination between the two.",
+      "published": "Thu, 18 Jun 2026 19:09:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "FIFA Bug Exposes World Cup Streams to Remote Takeover",
+      "link": "https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover",
+      "summary": "A hacker could have \"Rickrolled\" the World Cup — or worse — thanks to FIFA's unenforced Entra access controls.",
+      "published": "Thu, 18 Jun 2026 18:20:07 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Salesforce Data Thefts Continue via Klue App Compromise",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise",
+      "summary": "Klue's Battlecards is now the third integrated application that has been compromised to steal customers' Salesforce data, and victims include Huntress, the cybersecurity vendor.",
+      "published": "Thu, 18 Jun 2026 16:49:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Get Out of Security Debt by Tackling the Exposure Problem",
+      "link": "https://www.darkreading.com/cyber-risk/security-debt-tackle-exposure-problem",
+      "summary": "Teams digging out of security debt need to answer only two simple questions: Which vulnerabilities in our systems are exposed, and how long should they stay that way?",
+      "published": "Thu, 18 Jun 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "EU Gets a Head Start in Developing 6G Network Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security",
+      "summary": "\"Shield-6G\" will combine AI threat detection, digital twins, honeypots, and more, to help carriers protect 6G networks against the threats of tomorrow.",
+      "published": "Thu, 18 Jun 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "INC Ransomware Thrives by Mastering the Basics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics",
+      "summary": "And one of those basics is focusing on sectors where a ransomware disruption creates immediate pressure to pay up, like with healthcare.",
+      "published": "Wed, 17 Jun 2026 19:46:25 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
       ]
     },
     {

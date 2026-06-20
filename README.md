@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-20 07:45 UTC |
+| 🕐 Last Updated | 2026-06-20 10:28 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cryptobandits malware doubles` • `internet accessible devices` • `dire critical rating` • `cybersecurity firms impacted` • `enterprise ai concern` • `twitter whistleblower complaint` • `third integrated application` • `local socks5 proxy` • `fast spreading internet` • `competitive intelligence company`
+`cryptobandits malware doubles` • `internet accessible devices` • `enterprise ai concern` • `dire critical rating` • `allow unauthenticated attackers` • `cybersecurity firms impacted` • `twitter whistleblower complaint` • `third integrated application` • `local socks5 proxy` • `framework that's known`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-20 07:45 UTC  
+> **Last Updated:** 2026-06-20 10:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cryptobandits malware doubles** • **internet accessible devices** • **dire critical rating** • **cybersecurity firms impacted** • **enterprise ai concern** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **fast spreading internet** • **competitive intelligence company** • **allowed threat actors** • **token security breaks** • **resetting account passwords** • **impairing system defenses** • **end organizations will** • **data leakage concern** • **public github account** • **undermine mfa protections** • **sweeping campaign believed** • **stark industries solutions**
+**cryptobandits malware doubles** • **internet accessible devices** • **enterprise ai concern** • **dire critical rating** • **allow unauthenticated attackers** • **cybersecurity firms impacted** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **framework that's known** • **fast spreading internet** • **allowed threat actors** • **token security breaks** • **resetting account passwords** • **impairing system defenses** • **customers salesforce environments** • **extract sensitive data** • **data leakage concern** • **public github account** • **urged u s**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
 - [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
 - [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
 - [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
@@ -23,7 +24,6 @@
 - [CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices](https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html)
 - [From Assistive to Agentic: The AI Shift That's Redefining Threat Management](https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html)
 - [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html)
-- [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/)
 - [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
 - [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
 - [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
@@ -67,7 +68,6 @@
 - [Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC](https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/)
 - [15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown](https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/)
 - [Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure](https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/)
-- [Majority of Internet-Accessible REDCap Servers Outdated](https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/)
 
 ### Threatpost
 

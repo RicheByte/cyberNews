@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1895,
+      "count": 1896,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3410,7 +3410,7 @@
       ]
     },
     "allowed threat actors": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-01-12",
         "2026-06-19",
@@ -3684,7 +3684,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17451,7 +17451,7 @@
       ]
     },
     "public github account": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18203,7 +18203,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18544,7 +18544,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20035,7 +20035,7 @@
       ]
     },
     "third integrated application": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-19",
         "2026-06-20"
@@ -20048,42 +20048,42 @@
       ]
     },
     "cryptobandits malware doubles": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "enterprise ai concern": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "cybersecurity firms impacted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "token security breaks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "local socks5 proxy": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-20"
       ]
     },
     "data leakage concern": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-20"
@@ -20103,7 +20103,7 @@
       ]
     },
     "internet accessible devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-19",
         "2026-06-20"
@@ -20143,25 +20143,44 @@
       ]
     },
     "impairing system defenses": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-19",
+        "2026-06-20"
+      ]
+    },
+    "allow unauthenticated attackers": {
+      "count": 1,
+      "dates": [
+        "2026-06-20"
+      ]
+    },
+    "framework that's known": {
+      "count": 1,
+      "dates": [
+        "2026-06-20"
+      ]
+    },
+    "customers salesforce environments": {
+      "count": 1,
+      "dates": [
+        "2026-06-20"
+      ]
+    },
+    "extract sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-06-20"
+      ]
+    },
+    "urged u s": {
+      "count": 1,
+      "dates": [
         "2026-06-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-05 23:02",
-      "articles": 56,
-      "top_keywords": [
-        "hitachi energy rtu500",
-        "fast spreading internet",
-        "concept exploit code",
-        "4 critical threats",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-06 02:40",
       "articles": 56,
@@ -21249,6 +21268,17 @@
         "dire critical rating",
         "cybersecurity firms impacted",
         "enterprise ai concern"
+      ]
+    },
+    {
+      "timestamp": "2026-06-20 10:28",
+      "articles": 48,
+      "top_keywords": [
+        "cryptobandits malware doubles",
+        "internet accessible devices",
+        "enterprise ai concern",
+        "dire critical rating",
+        "allow unauthenticated attackers"
       ]
     }
   ]

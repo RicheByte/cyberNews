@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-06-20 07:45",
+  "last_updated": "2026-06-20 10:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cryptobandits malware doubles",
     "internet accessible devices",
-    "dire critical rating",
-    "cybersecurity firms impacted",
     "enterprise ai concern",
+    "dire critical rating",
+    "allow unauthenticated attackers",
+    "cybersecurity firms impacted",
     "twitter whistleblower complaint",
     "third integrated application",
     "local socks5 proxy",
+    "framework that's known",
     "fast spreading internet",
-    "competitive intelligence company",
     "allowed threat actors",
     "token security breaks",
     "resetting account passwords",
     "impairing system defenses",
-    "end organizations will",
+    "customers salesforce environments",
+    "extract sensitive data",
     "data leakage concern",
     "public github account",
-    "undermine mfa protections",
-    "sweeping campaign believed",
-    "stark industries solutions"
+    "urged u s"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "internet accessible devices",
-      "mentions": 6
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 191
-    },
-    {
-      "keyword": "cybersecurity firms impacted",
       "mentions": 7
     },
     {
       "keyword": "enterprise ai concern",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1895
-    },
-    {
-      "keyword": "third integrated application",
       "mentions": 8
     },
     {
+      "keyword": "dire critical rating",
+      "mentions": 192
+    },
+    {
+      "keyword": "allow unauthenticated attackers",
+      "mentions": 1
+    },
+    {
+      "keyword": "cybersecurity firms impacted",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1896
+    },
+    {
+      "keyword": "third integrated application",
+      "mentions": 9
+    },
+    {
       "keyword": "local socks5 proxy",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 39
-    },
-    {
-      "keyword": "competitive intelligence company",
-      "mentions": 5
+      "keyword": "framework that's known",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
+      "published": "Sat, 20 Jun 2026 15:26:04 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
@@ -139,15 +151,6 @@
       "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
       "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
       "published": "Fri, 19 Jun 2026 16:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
-      "link": "https://thehackernews.com/2026/06/salesforce-disables-klue-app.html",
-      "summary": "Salesforce has revealed that it disabled the Klue Battlecards app integration within its platform in response to a security incident impacting the competitive intelligence company on June 11, 2026. To that end, organizations will be unable to connect to Salesforce via the app until further notice, the American cloud-based software company noted in an alert published this week. \"Salesforce took",
-      "published": "Fri, 19 Jun 2026 14:33:57 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -404,6 +407,15 @@
     },
     {
       "source": "Security Week",
+      "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
+      "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
+      "summary": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems. The post French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation appeared first on SecurityWeek .",
+      "published": "Sat, 20 Jun 2026 09:48:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
       "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum appeared first on SecurityWeek .",
@@ -476,17 +488,6 @@
         "Patch/update",
         "CISA/KEV",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Majority of Internet-Accessible REDCap Servers Outdated",
-      "link": "https://www.securityweek.com/majority-of-internet-accessible-redcap-servers-outdated/",
-      "summary": "These servers are regularly targeted by China-linked UNC6508 for initial access and backdoor deployment. The post Majority of Internet-Accessible REDCap Servers Outdated appeared first on SecurityWeek .",
-      "published": "Thu, 18 Jun 2026 17:07:48 +0000",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {

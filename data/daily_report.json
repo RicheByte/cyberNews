@@ -1,12 +1,11 @@
 {
-  "last_updated": "2026-06-20 13:50",
+  "last_updated": "2026-06-20 15:42",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cryptobandits malware doubles",
     "internet accessible devices",
     "enterprise ai concern",
-    "dire critical rating",
     "allow unauthenticated attackers",
     "cybersecurity firms impacted",
     "twitter whistleblower complaint",
@@ -14,56 +13,57 @@
     "local socks5 proxy",
     "framework that's known",
     "fast spreading internet",
+    "dire critical rating",
     "allowed threat actors",
     "token security breaks",
     "resetting account passwords",
-    "impairing system defenses",
     "customers salesforce environments",
     "extract sensitive data",
     "data leakage concern",
     "public github account",
-    "urged u s"
+    "undermine mfa protections",
+    "sweeping campaign believed"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
-      "mentions": 9
-    },
-    {
-      "keyword": "internet accessible devices",
-      "mentions": 8
-    },
-    {
-      "keyword": "enterprise ai concern",
-      "mentions": 9
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 193
-    },
-    {
-      "keyword": "allow unauthenticated attackers",
-      "mentions": 2
-    },
-    {
-      "keyword": "cybersecurity firms impacted",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1897
-    },
-    {
-      "keyword": "third integrated application",
       "mentions": 10
     },
     {
-      "keyword": "local socks5 proxy",
+      "keyword": "internet accessible devices",
       "mentions": 9
     },
     {
+      "keyword": "enterprise ai concern",
+      "mentions": 10
+    },
+    {
+      "keyword": "allow unauthenticated attackers",
+      "mentions": 3
+    },
+    {
+      "keyword": "cybersecurity firms impacted",
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1898
+    },
+    {
+      "keyword": "third integrated application",
+      "mentions": 11
+    },
+    {
+      "keyword": "local socks5 proxy",
+      "mentions": 10
+    },
+    {
       "keyword": "framework that's known",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 42
     }
   ],
   "articles": [
@@ -156,6 +156,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
+      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
+      "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
+      "published": "Sat, 20 Jun 2026 11:23:46 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
+      "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
+      "published": "Sat, 20 Jun 2026 10:09:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
       "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
       "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
@@ -215,30 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
       "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
       "published": "Fri, 19 Jun 2026 07:32:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-splunk-enterprise-flaw-actively-exploited-patch-by-sunday/",
-      "summary": "CISA has urged U.S. federal agencies to secure their systems by Sunday against a critical Splunk Enterprise vulnerability that is being exploited in attacks. [...]",
-      "published": "Fri, 19 Jun 2026 06:39:58 -0400",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NY man charged after harassing college student with AI-generated nudes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-york-man-faces-cyberstalking-charge-after-sharing-ai-generated-nudes-online/",
-      "summary": "A New York man faces cyberstalking charges after allegedly sharing AI-generated nude images and fabricated racist messages using fake social media profiles to harass a Georgia college student. [...]",
-      "published": "Fri, 19 Jun 2026 04:44:08 -0400",
       "value_score": 10,
       "value_signals": []
     },

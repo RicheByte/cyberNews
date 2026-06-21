@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-21 12:07 UTC  
+> **Last Updated:** 2026-06-21 15:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cryptobandits malware doubles** • **internet accessible devices** • **enterprise ai concern** • **allow unauthenticated attackers** • **cybersecurity firms impacted** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **framework that's known** • **fast spreading internet** • **dire critical rating** • **allowed threat actors** • **token security breaks** • **resetting account passwords** • **customers salesforce environments** • **extract sensitive data** • **data leakage concern** • **public github account** • **undermine mfa protections** • **sweeping campaign believed**
+**cryptobandits malware doubles** • **internet accessible devices** • **enterprise ai concern** • **allow unauthenticated attackers** • **cybersecurity firms impacted** • **twitter whistleblower complaint** • **third integrated application** • **local socks5 proxy** • **framework that's known** • **fast spreading internet** • **dire critical rating** • **allowed threat actors** • **100 000 sites** • **token security breaks** • **resetting account passwords** • **customers salesforce environments** • **extract sensitive data** • **data leakage concern** • **public github account** • **undermine mfa protections**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 - [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 - [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
 - [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
@@ -34,7 +35,6 @@
 - [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 - [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
 - [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
-- [Microsoft: June 2026 Windows updates break Recycle Bin prompts](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/)
 
 ### Krebs on Security
 

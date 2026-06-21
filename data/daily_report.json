@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-21 12:07",
+  "last_updated": "2026-06-21 15:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -15,55 +15,55 @@
     "fast spreading internet",
     "dire critical rating",
     "allowed threat actors",
+    "100 000 sites",
     "token security breaks",
     "resetting account passwords",
     "customers salesforce environments",
     "extract sensitive data",
     "data leakage concern",
     "public github account",
-    "undermine mfa protections",
-    "sweeping campaign believed"
+    "undermine mfa protections"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "internet accessible devices",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "enterprise ai concern",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "allow unauthenticated attackers",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cybersecurity firms impacted",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1905
+      "mentions": 1906
     },
     {
       "keyword": "third integrated application",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "local socks5 proxy",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "framework that's known",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 49
+      "mentions": 50
     }
   ],
   "articles": [
@@ -156,6 +156,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/",
+      "summary": "A previously undocumented malware botnet named AryStinger has compromised more than 4,000 outdated routers to turn them into proxies for malicious traffic. [...]",
+      "published": "Sun, 21 Jun 2026 10:14:22 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
       "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
       "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
@@ -228,15 +239,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: June 2026 Windows updates break Recycle Bin prompts",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-recycle-bin-bug-on-all-supported-windows-releases/",
-      "summary": "Microsoft has confirmed a confusing Windows bug that causes different filenames to appear in the confirmation dialog when deleting a file from the Recycle Bin. [...]",
-      "published": "Fri, 19 Jun 2026 07:32:34 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

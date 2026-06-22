@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1914,
+      "count": 1915,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -11306,7 +11306,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11320,7 +11320,8 @@
         "2026-05-12",
         "2026-06-04",
         "2026-06-05",
-        "2026-06-18"
+        "2026-06-18",
+        "2026-06-22"
       ]
     },
     "threat actors known": {
@@ -17527,7 +17528,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17557,7 +17558,7 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17834,7 +17835,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18248,7 +18249,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18563,7 +18564,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20039,7 +20040,7 @@
       ]
     },
     "tooling problem rather": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-18",
         "2026-06-19",
@@ -20059,7 +20060,7 @@
       ]
     },
     "third integrated application": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-19",
         "2026-06-20",
@@ -20245,7 +20246,7 @@
       ]
     },
     "latam threat landscape": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-22"
       ]
@@ -20269,19 +20270,19 @@
       ]
     },
     "anyone already allowed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-22"
       ]
     },
     "android developer verification": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-22"
       ]
     },
     "squid's default configuration": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
@@ -20299,19 +20300,19 @@
       ]
     },
     "hijack ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
     },
     "ai agents earlier": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
     },
     "bugs earned microsoft's": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
@@ -20321,20 +20322,33 @@
       "dates": [
         "2026-06-22"
       ]
+    },
+    "crypto heist fueled": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    "15 million loss": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    "small enablement package": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    "opportunity detection logic": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-07 22:59",
-      "articles": 56,
-      "top_keywords": [
-        "web scraping proxies",
-        "hitachi energy rtu500",
-        "fast spreading internet",
-        "twitter whistleblower complaint",
-        "main contributing factor"
-      ]
-    },
     {
       "timestamp": "2026-06-08 03:29",
       "articles": 56,
@@ -21422,6 +21436,17 @@
         "allowed threat actors",
         "hijack ai agents",
         "ai agents earlier"
+      ]
+    },
+    {
+      "timestamp": "2026-06-22 21:58",
+      "articles": 48,
+      "top_keywords": [
+        "hijack ai agents",
+        "ai agents earlier",
+        "twitter whistleblower complaint",
+        "pro iranian images",
+        "fast spreading internet"
       ]
     }
   ]

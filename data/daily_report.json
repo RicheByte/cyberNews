@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-06-22 19:21",
+  "last_updated": "2026-06-22 21:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "140 npm packages",
-    "customers salesforce environments",
-    "allowed threat actors",
     "hijack ai agents",
     "ai agents earlier",
     "twitter whistleblower complaint",
     "pro iranian images",
-    "massive distributed denial",
     "fast spreading internet",
+    "crypto heist fueled",
     "bugs earned microsoft's",
     "anyone already allowed",
     "android developer verification",
+    "15 million loss",
     "cyberattacks influence operations",
     "aiding cyberattacks authorities",
-    "heartbleed style vulnerability",
     "latam threat landscape",
-    "100 000 sites",
     "tooling problem rather",
     "third integrated application",
-    "stark industries solutions"
+    "supply chain attack",
+    "stark industries solutions",
+    "squid's default configuration",
+    "small enablement package",
+    "opportunity detection logic"
   ],
   "trending": [
     {
-      "keyword": "140 npm packages",
+      "keyword": "hijack ai agents",
       "mentions": 2
     },
     {
-      "keyword": "customers salesforce environments",
-      "mentions": 17
-    },
-    {
-      "keyword": "allowed threat actors",
-      "mentions": 22
-    },
-    {
-      "keyword": "hijack ai agents",
-      "mentions": 1
-    },
-    {
       "keyword": "ai agents earlier",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1914
+      "mentions": 1915
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 9
-    },
-    {
-      "keyword": "massive distributed denial",
-      "mentions": 17
+      "mentions": 10
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 58
+      "mentions": 59
+    },
+    {
+      "keyword": "crypto heist fueled",
+      "mentions": 1
     },
     {
       "keyword": "bugs earned microsoft's",
+      "mentions": 2
+    },
+    {
+      "keyword": "anyone already allowed",
+      "mentions": 3
+    },
+    {
+      "keyword": "android developer verification",
+      "mentions": 3
+    },
+    {
+      "keyword": "15 million loss",
       "mentions": 1
     }
   ],
@@ -151,6 +151,36 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
+      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
+      "published": "Mon, 22 Jun 2026 17:52:18 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
+      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
+      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
+      "published": "Mon, 22 Jun 2026 17:05:01 -0400",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
+      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
+      "published": "Mon, 22 Jun 2026 16:01:02 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
       "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
@@ -198,37 +228,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft links Mastra AI supply chain attack to North Korean hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/",
-      "summary": "Microsoft has attributed a recent Mastra AI supply chain attack that compromised more than 140 npm packages to the North Korean hacking group Sapphire Sleet, also known as BlueNoroff. [...]",
-      "published": "Sat, 20 Jun 2026 10:09:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Klue OAuth breach victim list grows as Icarus hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/",
-      "summary": "Market intelligence platform Klue has publicly confirmed a recent security incident that allowed threat actors to steal OAuth tokens used to connect to customers' Salesforce environments, as the new \"Icarus\" extortion group publicly claims the attack. [...]",
-      "published": "Fri, 19 Jun 2026 18:31:04 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/",
-      "summary": "Threat actors are exploiting an unauthenticated information disclosure vulnerability in the WordPress plugin Gravity SMTP, active on 100,000 sites. [...]",
-      "published": "Fri, 19 Jun 2026 16:25:02 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

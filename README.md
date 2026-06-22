@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-22 19:21 UTC |
+| 🕐 Last Updated | 2026-06-22 21:58 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`140 npm packages` • `customers salesforce environments` • `allowed threat actors` • `hijack ai agents` • `ai agents earlier` • `twitter whistleblower complaint` • `pro iranian images` • `massive distributed denial` • `fast spreading internet` • `bugs earned microsoft's`
+`hijack ai agents` • `ai agents earlier` • `twitter whistleblower complaint` • `pro iranian images` • `fast spreading internet` • `crypto heist fueled` • `bugs earned microsoft's` • `anyone already allowed` • `android developer verification` • `15 million loss`
 
 ## 📄 Reports
 

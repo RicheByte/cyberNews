@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-22 19:21 UTC  
+> **Last Updated:** 2026-06-22 21:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**140 npm packages** • **customers salesforce environments** • **allowed threat actors** • **hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **pro iranian images** • **massive distributed denial** • **fast spreading internet** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **heartbleed style vulnerability** • **latam threat landscape** • **100 000 sites** • **tooling problem rather** • **third integrated application** • **stark industries solutions**
+**hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **15 million loss** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **latam threat landscape** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration** • **small enablement package** • **opportunity detection logic**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [JaredFromSubway MEV bot hacked in $15 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
+- [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
+- [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
 - [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
 - [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
 - [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 - [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 - [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
-- [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
-- [Klue OAuth breach victim list grows as Icarus hackers claim attack](https://www.bleepingcomputer.com/news/security/klue-oauth-breach-victim-list-grows-as-icarus-hackers-claim-attack/)
-- [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 
 ### Krebs on Security
 

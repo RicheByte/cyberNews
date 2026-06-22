@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-06-22 03:40",
+  "last_updated": "2026-06-22 09:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cryptobandits malware doubles",
-    "internet accessible devices",
-    "enterprise ai concern",
-    "allow unauthenticated attackers",
     "cybersecurity firms impacted",
+    "service raas operation",
+    "fast spreading internet",
     "twitter whistleblower complaint",
     "third integrated application",
-    "local socks5 proxy",
+    "south pacific fueled",
     "framework that's known",
-    "fast spreading internet",
     "dire critical rating",
-    "allowed threat actors",
+    "allow unauthenticated attackers",
     "100 000 sites",
-    "token security breaks",
-    "resetting account passwords",
-    "customers salesforce environments",
     "extract sensitive data",
-    "data leakage concern",
-    "public github account",
-    "undermine mfa protections"
+    "resetting account passwords",
+    "latam threat landscape",
+    "allowed threat actors",
+    "token security breaks",
+    "privileged local service",
+    "local socks5 proxy",
+    "2025 krebsonsecurity story",
+    "hackers exfiltrated data"
   ],
   "trending": [
     {
       "keyword": "cryptobandits malware doubles",
-      "mentions": 23
-    },
-    {
-      "keyword": "internet accessible devices",
-      "mentions": 22
-    },
-    {
-      "keyword": "enterprise ai concern",
-      "mentions": 23
-    },
-    {
-      "keyword": "allow unauthenticated attackers",
-      "mentions": 16
+      "mentions": 24
     },
     {
       "keyword": "cybersecurity firms impacted",
-      "mentions": 23
+      "mentions": 24
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1911
-    },
-    {
-      "keyword": "third integrated application",
-      "mentions": 23
-    },
-    {
-      "keyword": "local socks5 proxy",
-      "mentions": 23
-    },
-    {
-      "keyword": "framework that's known",
-      "mentions": 16
+      "keyword": "service raas operation",
+      "mentions": 7
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 55
+      "mentions": 56
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1912
+    },
+    {
+      "keyword": "third integrated application",
+      "mentions": 24
+    },
+    {
+      "keyword": "south pacific fueled",
+      "mentions": 1
+    },
+    {
+      "keyword": "framework that's known",
+      "mentions": 17
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 208
+    },
+    {
+      "keyword": "allow unauthenticated attackers",
+      "mentions": 17
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
+      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
+      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way. The warrant let CSIS alter,",
+      "published": "Mon, 22 Jun 2026 14:41:37 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
+      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
+      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising. The distinction matters. AryStinger exists for the stage of an attack that comes before the break-in. Infected",
+      "published": "Mon, 22 Jun 2026 12:27:44 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
+      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
+      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity. According to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and",
+      "published": "Mon, 22 Jun 2026 11:36:53 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "Ransomware",
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
@@ -120,37 +154,6 @@
       "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
       "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
       "published": "Fri, 19 Jun 2026 20:37:54 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Warns Fortinet Customers as FortiBleed Hits 86,644 FortiGate Devices",
-      "link": "https://thehackernews.com/2026/06/cisa-warns-fortinet-customers-as.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday urged Fortinet customers with FortiGate appliances to take steps to secure against ongoing malicious activity aimed at thousands of internet-accessible devices. The sweeping campaign, believed to be the work of Russian-speaking threat actors, has been codenamed FortiBleed. The number of compromised devices stands at",
-      "published": "Fri, 19 Jun 2026 19:30:21 +0530",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-      "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-      "summary": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead",
-      "published": "Fri, 19 Jun 2026 17:28:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Forget Data Leakage: Shadow AI's Real Threat Is Access Control",
-      "link": "https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html",
-      "summary": "The first wave of enterprise AI concern was straightforward. It was simply employees pasting sensitive data into public AI tools. Security teams responded with usage policies, domain blocks, and data loss prevention rules. That response made sense at the time. It doesn't fit the problem anymore. Shadow AI has shifted from a data leakage concern to an access control problem. The threat isn't",
-      "published": "Fri, 19 Jun 2026 16:00:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -405,6 +408,35 @@
     },
     {
       "source": "Security Week",
+      "title": "Fortinet Responds to FortiBleed Campaign",
+      "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
+      "summary": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign. The post Fortinet Responds to FortiBleed Campaign appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 09:34:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
+      "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
+      "summary": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers. The post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 09:03:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
+      "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
+      "summary": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD. The post Texas Parks & Wildlife Data Breach Affects 3 Million Individuals appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 05:33:39 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
       "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
       "summary": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems. The post French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation appeared first on SecurityWeek .",
@@ -452,41 +484,6 @@
       "published": "Fri, 19 Jun 2026 09:19:06 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC",
-      "link": "https://www.securityweek.com/cisco-to-acquire-widefield-security-to-boost-splunks-agentic-soc/",
-      "summary": "WideField will accelerate Agentic SOC capabilities by expanding the lens on threat investigation to include identity, credentials, sessions, and blast radius. The post Cisco to Acquire WideField Security to Boost Splunk’s Agentic SOC appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 07:22:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown",
-      "link": "https://www.securityweek.com/15000-wordpress-websites-cleaned-up-in-socgholish-botnet-takedown/",
-      "summary": "Law enforcement and private partners took down 106 SocGholish C&C servers and domains as part of Operation Endgame. The post 15,000 WordPress Websites Cleaned Up in SocGholish Botnet Takedown appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 06:46:44 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
-      "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
-      "summary": "CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution. The post Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 04:10:34 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "Patch/update",
-        "CISA/KEV",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

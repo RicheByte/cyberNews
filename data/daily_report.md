@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-22 21:58 UTC  
+> **Last Updated:** 2026-06-22 23:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **15 million loss** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **latam threat landscape** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration** • **small enablement package** • **opportunity detection logic**
+**hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **targeting whatsapp users** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **15 million loss** • **host system simply** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **latam threat landscape** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
 - [JaredFromSubway MEV bot hacked in $15 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
 - [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
 - [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
 - [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 - [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
-- [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 
 ### Krebs on Security
 

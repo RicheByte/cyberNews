@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-06-22 21:58",
+  "last_updated": "2026-06-22 23:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "hijack ai agents",
     "ai agents earlier",
     "twitter whistleblower complaint",
+    "targeting whatsapp users",
     "pro iranian images",
     "fast spreading internet",
     "crypto heist fueled",
@@ -13,6 +14,7 @@
     "anyone already allowed",
     "android developer verification",
     "15 million loss",
+    "host system simply",
     "cyberattacks influence operations",
     "aiding cyberattacks authorities",
     "latam threat landscape",
@@ -20,50 +22,48 @@
     "third integrated application",
     "supply chain attack",
     "stark industries solutions",
-    "squid's default configuration",
-    "small enablement package",
-    "opportunity detection logic"
+    "squid's default configuration"
   ],
   "trending": [
     {
       "keyword": "hijack ai agents",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ai agents earlier",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1915
+      "mentions": 1916
+    },
+    {
+      "keyword": "targeting whatsapp users",
+      "mentions": 1
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "crypto heist fueled",
-      "mentions": 1
-    },
-    {
-      "keyword": "bugs earned microsoft's",
       "mentions": 2
     },
     {
-      "keyword": "anyone already allowed",
+      "keyword": "bugs earned microsoft's",
       "mentions": 3
+    },
+    {
+      "keyword": "anyone already allowed",
+      "mentions": 4
     },
     {
       "keyword": "android developer verification",
-      "mentions": 3
-    },
-    {
-      "keyword": "15 million loss",
-      "mentions": 1
+      "mentions": 4
     }
   ],
   "articles": [
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
+      "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
+      "published": "Mon, 22 Jun 2026 18:42:21 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
       "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
       "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
@@ -217,17 +228,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Prinz Eugen ransomware prioritizes recent files for encryption",
-      "link": "https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/",
-      "summary": "A new ransomware operation named 'Prinz Eugen' prioritizes recently modified files for encryption and leaves no ransom note on the system. [...]",
-      "published": "Sat, 20 Jun 2026 11:23:46 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

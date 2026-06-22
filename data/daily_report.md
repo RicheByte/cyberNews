@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-22 09:43 UTC  
+> **Last Updated:** 2026-06-22 15:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cryptobandits malware doubles** • **cybersecurity firms impacted** • **service raas operation** • **fast spreading internet** • **twitter whistleblower complaint** • **third integrated application** • **south pacific fueled** • **framework that's known** • **dire critical rating** • **allow unauthenticated attackers** • **100 000 sites** • **extract sensitive data** • **resetting account passwords** • **latam threat landscape** • **allowed threat actors** • **token security breaks** • **privileged local service** • **local socks5 proxy** • **2025 krebsonsecurity story** • **hackers exfiltrated data**
+**140 npm packages** • **customers salesforce environments** • **twitter whistleblower complaint** • **south pacific fueled** • **fast spreading internet** • **dire critical rating** • **anyone already allowed** • **android developer verification** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **token security breaks** • **2025 krebsonsecurity story** • **tooling problem rather** • **third integrated application** • **stark industries solutions** • **squid's default configuration** • **qianxin's xlab calls** • **pro iranian images** • **obama white house** • **massive credential dumps**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
+- [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
+- [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+- [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
+- [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
 - [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
 - [AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network](https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html)
 - [INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific](https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html)
-- [Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys](https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html)
-- [Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain](https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html)
-- [The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes](https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html)
-- [AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution](https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html)
-- [Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites](https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html)
 
 ### BleepingComputer
 
+- [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
 - [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 - [New Prinz Eugen ransomware prioritizes recent files for encryption](https://www.bleepingcomputer.com/news/security/new-prinz-eugen-ransomware-prioritizes-recent-files-for-encryption/)
 - [Microsoft links Mastra AI supply chain attack to North Korean hackers](https://www.bleepingcomputer.com/news/security/microsoft-links-mastra-ai-supply-chain-attack-to-north-korean-hackers/)
@@ -34,7 +35,6 @@
 - [Hackers exploit info disclosure bug in Gravity SMTP WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-info-disclosure-bug-in-gravity-smtp-wordpress-plugin/)
 - [Texas govt data breach exposes over 3 million driver’s licenses](https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/)
 - [Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way](https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/)
-- [Webinar: How attackers bypass MFA and how defenders can respond](https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/)
 
 ### Krebs on Security
 
@@ -50,7 +50,7 @@
 ### Dark Reading
 
 - [Stressors, AI Forcing Changes to Cybersecurity Teams](https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams)
-- [Novo Nordisk Breach Exposes Software Development Pipeline Risk](https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk)
+- [Novo Nordisk Breach Highlights Software Development Pipeline Risk](https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk)
 - [Operation Escaneo Signals Shift in LatAm Threat Landscape](https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape)
 - [FIFA Bug Exposes World Cup Streams to Remote Takeover](https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover)
 - [Salesforce Data Thefts Continue via Klue App Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise)
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data](https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/)
+- [Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data](https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/)
+- [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/)
+- [What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks](https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/)
+- [New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones](https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/)
 - [Fortinet Responds to FortiBleed Campaign](https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/)
 - [More Cybersecurity Firms Disclose Impact From Klue Hack](https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/)
 - [Texas Parks & Wildlife Data Breach Affects 3 Million Individuals](https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/)
-- [French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation](https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/)
-- [In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum](https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/)
-- [CryptoBandits Malware Doubles as a Backdoor, Abuses Tor](https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/)
-- [FortiBleed: 86,000 Fortinet Device Credentials Compromised](https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/)
-- [Cybersecurity Firms Impacted by Klue Supply Chain Attack](https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/)
 
 ### Threatpost
 

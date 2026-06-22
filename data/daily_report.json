@@ -1,72 +1,122 @@
 {
-  "last_updated": "2026-06-22 09:43",
+  "last_updated": "2026-06-22 15:19",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cryptobandits malware doubles",
-    "cybersecurity firms impacted",
-    "service raas operation",
-    "fast spreading internet",
+    "140 npm packages",
+    "customers salesforce environments",
     "twitter whistleblower complaint",
-    "third integrated application",
     "south pacific fueled",
-    "framework that's known",
+    "fast spreading internet",
     "dire critical rating",
-    "allow unauthenticated attackers",
-    "100 000 sites",
-    "extract sensitive data",
-    "resetting account passwords",
-    "latam threat landscape",
-    "allowed threat actors",
+    "anyone already allowed",
+    "android developer verification",
+    "cyberattacks influence operations",
+    "aiding cyberattacks authorities",
     "token security breaks",
-    "privileged local service",
-    "local socks5 proxy",
     "2025 krebsonsecurity story",
-    "hackers exfiltrated data"
+    "tooling problem rather",
+    "third integrated application",
+    "stark industries solutions",
+    "squid's default configuration",
+    "qianxin's xlab calls",
+    "pro iranian images",
+    "obama white house",
+    "massive credential dumps"
   ],
   "trending": [
     {
-      "keyword": "cryptobandits malware doubles",
-      "mentions": 24
-    },
-    {
-      "keyword": "cybersecurity firms impacted",
-      "mentions": 24
-    },
-    {
-      "keyword": "service raas operation",
-      "mentions": 7
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 56
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1912
-    },
-    {
-      "keyword": "third integrated application",
-      "mentions": 24
-    },
-    {
-      "keyword": "south pacific fueled",
+      "keyword": "140 npm packages",
       "mentions": 1
     },
     {
-      "keyword": "framework that's known",
-      "mentions": 17
+      "keyword": "customers salesforce environments",
+      "mentions": 16
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1913
+    },
+    {
+      "keyword": "south pacific fueled",
+      "mentions": 2
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 57
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 208
+      "mentions": 209
     },
     {
-      "keyword": "allow unauthenticated attackers",
-      "mentions": 17
+      "keyword": "anyone already allowed",
+      "mentions": 1
+    },
+    {
+      "keyword": "android developer verification",
+      "mentions": 1
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 32
+    },
+    {
+      "keyword": "aiding cyberattacks authorities",
+      "mentions": 22
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io disclosed it in June and named it Squidbleed (",
+      "published": "Mon, 22 Jun 2026 19:59:46 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the",
+      "published": "Mon, 22 Jun 2026 18:50:12 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs of apps whose developers have not registered an identity with Google, whether the app",
+      "published": "Mon, 22 Jun 2026 18:15:08 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their",
+      "published": "Mon, 22 Jun 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+      "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
+      "published": "Mon, 22 Jun 2026 16:25:10 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "Ransomware",
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
@@ -102,58 +152,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
-      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
-      "summary": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
-      "published": "Sat, 20 Jun 2026 15:26:04 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatchable 'usbliter8' Exploit Breaks Apple A12 and A13 SecureROM Boot Chain",
-      "link": "https://thehackernews.com/2026/06/unpatchable-usbliter8-exploit-breaks.html",
-      "summary": "Security researchers at Paradigm Shift have published a working exploit, dubbed usbliter8, that achieves arbitrary code execution inside the SecureROM of Apple's A12 and A13 chips. That code is burned into the silicon at manufacture. No software update can reach it. Affected devices will carry this flaw for as long as they stay in use. This is not a remote attack. It requires",
-      "published": "Sat, 20 Jun 2026 00:07:41 +0530",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Gentlemen RaaS Uses GentleKiller EDR Framework Targeting 400 Security Processes",
-      "link": "https://thehackernews.com/2026/06/the-gentlemen-raas-uses-gentlekiller.html",
-      "summary": "The Gentlemen ransomware-as-a-service (RaaS) operation is actively developing and maintaining a suite of endpoint detection and response (EDR) killers that it hands out to affiliates for impairing system defenses before deploying the encryptor. This mature portfolio of EDR-terminating tools is centered around a framework that's known as GentleKiller. \"They also incorporate third-party or",
-      "published": "Sat, 20 Jun 2026 00:03:07 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AutoJack Attack Lets One Web Page Hijack AI Agent for Host Code Execution",
-      "link": "https://thehackernews.com/2026/06/autojack-attack-lets-one-web-page.html",
-      "summary": "Microsoft researchers have detailed an exploit chain, named AutoJack, that turns an AI browsing agent into a delivery vehicle for remote code execution. Steer the agent to load an attacker's web page, and that page's JavaScript can reach a privileged local service on the same machine and spawn a process on the host. No credentials, no sign-in screen, and no further user interaction once",
-      "published": "Fri, 19 Jun 2026 21:00:47 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Operation Endgame Disrupts SocGholish Servers, Cleans 14,971 WordPress Sites",
-      "link": "https://thehackernews.com/2026/06/operation-endgame-disrupts-socgholish.html",
-      "summary": "Dutch law enforcement authorities, along with counterparts from Canada , Germany, and the U.S., have disrupted malicious infrastructure associated with SocGholish and cleaned up nearly 15,000 infected WordPress websites. \"With these actions we deprive cybercriminals of access to infected computer systems,\" Maikel Rollman of the Netherlands National High Tech Crime Unit said. \"This prevents",
-      "published": "Fri, 19 Jun 2026 20:37:54 +0530",
+      "source": "BleepingComputer",
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "summary": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
+      "published": "Mon, 22 Jun 2026 10:05:15 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -230,17 +233,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: How attackers bypass MFA and how defenders can respond",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-attackers-bypass-mfa-and-how-defenders-can-respond/",
-      "summary": "Modern phishing attacks, including Device Code phishing, can undermine MFA protections and grant attackers access to corporate accounts without stealing passwords. This webinar explores how behavioral AI can help security teams detect compromised accounts faster and automate response workflows. [...]",
-      "published": "Fri, 19 Jun 2026 08:12:20 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -341,7 +333,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Novo Nordisk Breach Exposes Software Development Pipeline Risk",
+      "title": "Novo Nordisk Breach Highlights Software Development Pipeline Risk",
       "link": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
       "summary": "A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem.",
       "published": "Thu, 18 Jun 2026 20:05:47 GMT",
@@ -408,6 +400,60 @@
     },
     {
       "source": "Security Week",
+      "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
+      "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
+      "summary": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. The post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 13:22:31 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
+      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
+      "summary": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data. The post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 11:45:43 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
+      "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
+      "summary": "A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions. The post North Korean Hackers Blamed for Mastra NPM Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 11:10:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
+      "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
+      "summary": "Groups like ShinyHunters are demonstrating that attackers do not necessarily need malware or zero-day exploits to cause massive damage. The post What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 10:30:00 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
+      "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
+      "summary": "The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers. The post New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones appeared first on SecurityWeek .",
+      "published": "Mon, 22 Jun 2026 10:03:06 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Fortinet Responds to FortiBleed Campaign",
       "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
       "summary": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign. The post Fortinet Responds to FortiBleed Campaign appeared first on SecurityWeek .",
@@ -434,56 +480,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
-      "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
-      "summary": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems. The post French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation appeared first on SecurityWeek .",
-      "published": "Sat, 20 Jun 2026 09:48:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum",
-      "link": "https://www.securityweek.com/in-other-news-apple-patches-beats-eavesdropping-flaw-dot-closes-delta-crowdstrike-probe-aws-continuum/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Android TV botnet Popa linked to Israeli firm, Velvet Ant maintained decade-long stealth, unpatched GCP Config Connector flaw enables takeover. The post In Other News: Apple Patches Beats Eavesdropping Flaw, DOT Closes Delta CrowdStrike Probe, AWS Continuum appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 15:23:36 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
-      "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
-      "summary": "CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution. The post CryptoBandits Malware Doubles as a Backdoor, Abuses Tor appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 11:19:41 +0000",
-      "value_score": 54,
-      "value_signals": [
-        "RCE",
-        "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "FortiBleed: 86,000 Fortinet Device Credentials Compromised",
-      "link": "https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/",
-      "summary": "The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs. The post FortiBleed: 86,000 Fortinet Device Credentials Compromised appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 10:48:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
-      "link": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
-      "summary": "The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future. The post Cybersecurity Firms Impacted by Klue Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Fri, 19 Jun 2026 09:19:06 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

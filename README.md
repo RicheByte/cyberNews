@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-22 09:43 UTC |
+| 🕐 Last Updated | 2026-06-22 15:19 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cryptobandits malware doubles` • `cybersecurity firms impacted` • `service raas operation` • `fast spreading internet` • `twitter whistleblower complaint` • `third integrated application` • `south pacific fueled` • `framework that's known` • `dire critical rating` • `allow unauthenticated attackers`
+`140 npm packages` • `customers salesforce environments` • `twitter whistleblower complaint` • `south pacific fueled` • `fast spreading internet` • `dire critical rating` • `anyone already allowed` • `android developer verification` • `cyberattacks influence operations` • `aiding cyberattacks authorities`
 
 ## 📄 Reports
 

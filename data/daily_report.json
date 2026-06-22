@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-06-22 15:19",
+  "last_updated": "2026-06-22 19:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "140 npm packages",
     "customers salesforce environments",
+    "allowed threat actors",
+    "hijack ai agents",
+    "ai agents earlier",
     "twitter whistleblower complaint",
-    "south pacific fueled",
+    "pro iranian images",
+    "massive distributed denial",
     "fast spreading internet",
-    "dire critical rating",
+    "bugs earned microsoft's",
     "anyone already allowed",
     "android developer verification",
     "cyberattacks influence operations",
     "aiding cyberattacks authorities",
-    "token security breaks",
-    "2025 krebsonsecurity story",
+    "heartbleed style vulnerability",
+    "latam threat landscape",
+    "100 000 sites",
     "tooling problem rather",
     "third integrated application",
-    "stark industries solutions",
-    "squid's default configuration",
-    "qianxin's xlab calls",
-    "pro iranian images",
-    "obama white house",
-    "massive credential dumps"
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "140 npm packages",
-      "mentions": 1
-    },
-    {
-      "keyword": "customers salesforce environments",
-      "mentions": 16
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1913
-    },
-    {
-      "keyword": "south pacific fueled",
       "mentions": 2
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 57
+      "keyword": "customers salesforce environments",
+      "mentions": 17
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 209
-    },
-    {
-      "keyword": "anyone already allowed",
-      "mentions": 1
-    },
-    {
-      "keyword": "android developer verification",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 32
-    },
-    {
-      "keyword": "aiding cyberattacks authorities",
+      "keyword": "allowed threat actors",
       "mentions": 22
+    },
+    {
+      "keyword": "hijack ai agents",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai agents earlier",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1914
+    },
+    {
+      "keyword": "pro iranian images",
+      "mentions": 9
+    },
+    {
+      "keyword": "massive distributed denial",
+      "mentions": 17
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 58
+    },
+    {
+      "keyword": "bugs earned microsoft's",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis",
+      "published": "Mon, 22 Jun 2026 23:30:48 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update",
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication. The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
+      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
@@ -129,27 +150,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "AryStinger Malware Infects 4,300 Legacy Routers to Build Reconnaissance Proxy Network",
-      "link": "https://thehackernews.com/2026/06/arystinger-malware-infects-4300-legacy.html",
-      "summary": "A new malware family is turning forgotten home routers into a distributed reconnaissance and proxy network, not the DDoS botnet these devices usually end up in. QiAnXin's XLab calls it AryStinger and counts at least 4,300 infected routers, a total it says is still rising. The distinction matters. AryStinger exists for the stage of an attack that comes before the break-in. Infected",
-      "published": "Mon, 22 Jun 2026 12:27:44 +0530",
-      "value_score": 20,
+      "source": "BleepingComputer",
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "published": "Mon, 22 Jun 2026 13:41:31 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Botnet"
+        "Patch/update"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "INTERPOL Warns Phishing, Ransomware, and AI Scams Are Rising Across Asia-Pacific",
-      "link": "https://thehackernews.com/2026/06/interpol-warns-phishing-ransomware-and.html",
-      "summary": "A new report from INTERPOL has revealed a \"dramatic increase\" in cybercrime in Asia and the South Pacific, fueled by rapid digitalization, internet penetration, new technologies, organized criminal networks, and a disparity in cybersecurity maturity. According to INTERPOL's 2025/2026 Asia and South Pacific Cyberthreat Assessment Report, phishing has emerged as the most widespread and",
-      "published": "Mon, 22 Jun 2026 11:36:53 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "Ransomware",
-        "Phishing ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "summary": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      "published": "Mon, 22 Jun 2026 13:28:57 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -211,28 +229,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Texas govt data breach exposes over 3 million driver’s licenses",
-      "link": "https://www.bleepingcomputer.com/news/security/texas-govt-data-breach-exposes-over-3-million-drivers-licenses/",
-      "summary": "The Texas Parks and Wildlife Department (TPWD) disclosed a data breach at its license system vendor that exposed personal information for more than three million individuals. [...]",
-      "published": "Fri, 19 Jun 2026 12:12:41 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Every AI Agent Is an Identity. Most Organizations Don't Treat Them That Way",
-      "link": "https://www.bleepingcomputer.com/news/security/every-ai-agent-is-an-identity-most-organizations-dont-treat-them-that-way/",
-      "summary": "AI agents can access data, trigger workflows, deploy code, and interact with critical business systems, often with little oversight. Token Security breaks down why AI agents are becoming a new identity and governance challenge. [...]",
-      "published": "Fri, 19 Jun 2026 09:10:19 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {
@@ -324,6 +320,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+      "summary": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "published": "Mon, 22 Jun 2026 16:10:10 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Stressors, AI Forcing Changes to Cybersecurity Teams",
       "link": "https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams",
       "summary": "As threats proliferate and AI complicates cybersecurity, CISOs say the job is getting harder, but more companies still want cybersecurity expertise, if even on a part-time basis.",
@@ -386,17 +391,6 @@
       "published": "Thu, 18 Jun 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "INC Ransomware Thrives by Mastering the Basics",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics",
-      "summary": "And one of those basics is focusing on sectors where a ransomware disruption creates immediate pressure to pay up, like with healthcare.",
-      "published": "Wed, 17 Jun 2026 19:46:25 GMT",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Security Week",

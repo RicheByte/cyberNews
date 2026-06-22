@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-22 15:19 UTC |
+| 🕐 Last Updated | 2026-06-22 19:21 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`140 npm packages` • `customers salesforce environments` • `twitter whistleblower complaint` • `south pacific fueled` • `fast spreading internet` • `dire critical rating` • `anyone already allowed` • `android developer verification` • `cyberattacks influence operations` • `aiding cyberattacks authorities`
+`140 npm packages` • `customers salesforce environments` • `allowed threat actors` • `hijack ai agents` • `ai agents earlier` • `twitter whistleblower complaint` • `pro iranian images` • `massive distributed denial` • `fast spreading internet` • `bugs earned microsoft's`
 
 ## 📄 Reports
 

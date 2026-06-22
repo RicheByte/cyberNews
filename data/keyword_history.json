@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1913,
+      "count": 1914,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3414,7 +3414,7 @@
       ]
     },
     "allowed threat actors": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-12",
         "2026-06-19",
@@ -5589,14 +5589,15 @@
       ]
     },
     "massive distributed denial": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-29",
         "2026-01-30",
         "2026-06-09",
         "2026-06-10",
         "2026-06-11",
-        "2026-06-12"
+        "2026-06-12",
+        "2026-06-22"
       ]
     },
     "december 2025 peaking": {
@@ -17526,7 +17527,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17556,7 +17557,7 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17833,7 +17834,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18247,7 +18248,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18562,7 +18563,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20038,7 +20039,7 @@
       ]
     },
     "tooling problem rather": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-18",
         "2026-06-19",
@@ -20058,7 +20059,7 @@
       ]
     },
     "third integrated application": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-06-19",
         "2026-06-20",
@@ -20179,7 +20180,7 @@
       ]
     },
     "100 000 sites": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-19",
         "2026-06-21",
@@ -20210,7 +20211,7 @@
       ]
     },
     "customers salesforce environments": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-20",
         "2026-06-21",
@@ -20244,7 +20245,7 @@
       ]
     },
     "latam threat landscape": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
@@ -20262,19 +20263,19 @@
       ]
     },
     "140 npm packages": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
     },
     "anyone already allowed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
     },
     "android developer verification": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-22"
       ]
@@ -20296,20 +20297,33 @@
       "dates": [
         "2026-06-22"
       ]
+    },
+    "hijack ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    "ai agents earlier": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    "bugs earned microsoft's": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
+    },
+    "heartbleed style vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-06-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-07 21:06",
-      "articles": 56,
-      "top_keywords": [
-        "web scraping proxies",
-        "hitachi energy rtu500",
-        "fast spreading internet",
-        "twitter whistleblower complaint",
-        "main contributing factor"
-      ]
-    },
     {
       "timestamp": "2026-06-07 22:59",
       "articles": 56,
@@ -21397,6 +21411,17 @@
         "twitter whistleblower complaint",
         "south pacific fueled",
         "fast spreading internet"
+      ]
+    },
+    {
+      "timestamp": "2026-06-22 19:21",
+      "articles": 48,
+      "top_keywords": [
+        "140 npm packages",
+        "customers salesforce environments",
+        "allowed threat actors",
+        "hijack ai agents",
+        "ai agents earlier"
       ]
     }
   ]

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-06-23 14:37",
+  "last_updated": "2026-06-23 17:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "algerian man extradited",
     "15 million loss",
-    "exfiltrate sensitive data",
-    "twitter whistleblower complaint",
-    "threat actors engineered",
-    "pro iranian images",
-    "fast spreading internet",
-    "crypto heist fueled",
-    "anyone already allowed",
     "public github account",
-    "high impact systems",
+    "dragos unveils ai",
+    "exfiltrate sensitive data",
+    "post quantum cryptography",
+    "twitter whistleblower complaint",
+    "pro iranian images",
+    "popular skill marketplace",
     "official github action",
+    "fast spreading internet",
+    "cybercrime group known",
+    "crypto heist fueled",
+    "high impact systems",
+    "resetting account passwords",
+    "users must layer",
+    "krebsonsecurity publicly named",
+    "threat actors engineered",
     "push backdoor code",
-    "wound grew wider",
-    "workflow's full privileges",
-    "updating actions checkout",
-    "stark industries solutions",
-    "squid's default configuration",
-    "small enablement package",
-    "resetting account passwords"
+    "wound grew wider"
   ],
   "trending": [
     {
       "keyword": "algerian man extradited",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "15 million loss",
-      "mentions": 6
-    },
-    {
-      "keyword": "exfiltrate sensitive data",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1920
-    },
-    {
-      "keyword": "threat actors engineered",
-      "mentions": 1
-    },
-    {
-      "keyword": "pro iranian images",
-      "mentions": 15
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 64
-    },
-    {
-      "keyword": "crypto heist fueled",
-      "mentions": 6
-    },
-    {
-      "keyword": "anyone already allowed",
-      "mentions": 8
+      "mentions": 7
     },
     {
       "keyword": "public github account",
-      "mentions": 42
+      "mentions": 43
+    },
+    {
+      "keyword": "dragos unveils ai",
+      "mentions": 1
+    },
+    {
+      "keyword": "exfiltrate sensitive data",
+      "mentions": 12
+    },
+    {
+      "keyword": "post quantum cryptography",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1921
+    },
+    {
+      "keyword": "pro iranian images",
+      "mentions": 16
+    },
+    {
+      "keyword": "popular skill marketplace",
+      "mentions": 1
+    },
+    {
+      "keyword": "official github action",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
+      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
+      "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else. The point was to show",
+      "published": "Tue, 23 Jun 2026 20:46:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
+      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
+      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track. The deadlines matter because of a threat that does not",
+      "published": "Tue, 23 Jun 2026 20:46:40 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns",
@@ -129,22 +147,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
-      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
-      "summary": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io disclosed it in June and named it Squidbleed (",
-      "published": "Mon, 22 Jun 2026 21:59:00 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
-      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
-      "summary": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication. The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
-      "published": "Mon, 22 Jun 2026 21:43:28 +0530",
+      "source": "BleepingComputer",
+      "title": "Scattered Spider members plead guilty to hacking Transport for London",
+      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
+      "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
+      "published": "Tue, 23 Jun 2026 11:31:59 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -224,15 +231,13 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
-      "summary": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
-      "published": "Mon, 22 Jun 2026 13:41:31 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
+      "source": "Krebs on Security",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -308,17 +313,6 @@
       "value_score": 20,
       "value_signals": [
         "Botnet"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "CISA Admin Leaked AWS GovCloud Keys on Github",
-      "link": "https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/",
-      "summary": "Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history.",
-      "published": "Mon, 18 May 2026 20:48:21 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×4"
       ]
     },
     {
@@ -399,6 +393,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Dragos Unveils AI for OT Security",
+      "link": "https://www.securityweek.com/dragos-unveils-ai-for-ot-security/",
+      "summary": "Named EmberAI, the new capability is built on Dragos’ massive operational technology cybersecurity dataset. The post Dragos Unveils AI for OT Security appeared first on SecurityWeek .",
+      "published": "Tue, 23 Jun 2026 17:26:07 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps",
+      "link": "https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/",
+      "summary": "Attackers could abuse Dify's multi-tenant cloud service to read private chats, preview other tenants' documents, and reach internal APIs. The post Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps appeared first on SecurityWeek .",
+      "published": "Tue, 23 Jun 2026 15:36:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks",
       "link": "https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/",
       "summary": "The high-severity use-after-free vulnerability in Samsung's KNOX security framework affected Android-powered Galaxy devices from the S9 through S25. The post Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks appeared first on SecurityWeek .",
@@ -450,26 +462,6 @@
       "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
       "summary": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek .",
       "published": "Tue, 23 Jun 2026 10:30:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
-      "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
-      "summary": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information. The post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 23 Jun 2026 09:25:22 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
-      "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
-      "summary": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031. The post Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration appeared first on SecurityWeek .",
-      "published": "Tue, 23 Jun 2026 08:43:05 +0000",
       "value_score": 10,
       "value_signals": []
     },

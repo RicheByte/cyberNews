@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-23 17:47",
+  "last_updated": "2026-06-23 19:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,6 +12,7 @@
     "twitter whistleblower complaint",
     "pro iranian images",
     "popular skill marketplace",
+    "ongoing malware campaign",
     "official github action",
     "fast spreading internet",
     "cybercrime group known",
@@ -20,50 +21,49 @@
     "resetting account passwords",
     "users must layer",
     "krebsonsecurity publicly named",
-    "threat actors engineered",
-    "push backdoor code",
-    "wound grew wider"
+    "wound grew wider",
+    "workflow's full privileges"
   ],
   "trending": [
     {
       "keyword": "algerian man extradited",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "15 million loss",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "public github account",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "dragos unveils ai",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "exfiltrate sensitive data",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "post quantum cryptography",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1921
+      "mentions": 1922
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "popular skill marketplace",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "official github action",
-      "mentions": 2
+      "keyword": "ongoing malware campaign",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -148,6 +148,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New macOS ClickFix attack silently mounts DMGs to push infostealer",
+      "link": "https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/",
+      "summary": "A new macOS ClickFix campaign is using Terminal commands to silently download, mount, and launch info-stealing malware from malicious disk image (DMG) files. [...]",
+      "published": "Tue, 23 Jun 2026 14:30:16 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Scattered Spider members plead guilty to hacking Transport for London",
       "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/",
       "summary": "Two members of the 'Scattered Spider' cybercrime group pleaded guilty to hacking the Transport for London (TfL) systems in 2024. [...]",
@@ -220,15 +229,6 @@
         "RCE",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FortiBleed campaign used custom FortiGate sniffer to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/",
-      "summary": "Security firm SOCRadar says the large-scale FortiBleed campaign targeting Fortinet FortiGate devices used custom sniffers to harvest authentication secrets from compromised firewalls and steal credentials. [...]",
-      "published": "Mon, 22 Jun 2026 16:01:02 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -317,6 +317,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows",
+      "link": "https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows",
+      "summary": "The CI/CD workflow weakness affects Microsoft's Azure Sentinel, Google's AI Agent Development Kit, Apache's Doris analytics database, Cloudflare's Workers SDK, and Python Software Foundation's Black.",
+      "published": "Tue, 23 Jun 2026 19:16:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SocGholish Takedown Highlights Malicious TDS Threats",
       "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
       "summary": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp.",
@@ -381,15 +390,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Operation Escaneo Signals Shift in LatAm Threat Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape",
-      "summary": "The threat group's curious business model may combine opportunistic monetization alongside intel collection, without much coordination between the two.",
-      "published": "Thu, 18 Jun 2026 19:09:21 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1921,
+      "count": 1922,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3826,7 +3826,7 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -17466,7 +17466,7 @@
       ]
     },
     "public github account": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18227,7 +18227,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18257,7 +18257,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18573,7 +18573,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20180,7 +20180,7 @@
       ]
     },
     "krebsonsecurity publicly named": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-19",
         "2026-06-23"
@@ -20345,14 +20345,14 @@
       ]
     },
     "crypto heist fueled": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "15 million loss": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-22",
         "2026-06-23"
@@ -20392,7 +20392,7 @@
       ]
     },
     "algerian man extradited": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-23"
       ]
@@ -20404,25 +20404,25 @@
       ]
     },
     "high impact systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-23"
       ]
     },
     "official github action": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-23"
       ]
     },
     "wound grew wider": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-23"
       ]
     },
     "workflow's full privileges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-23"
       ]
@@ -20434,30 +20434,36 @@
       ]
     },
     "dragos unveils ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-23"
       ]
     },
     "post quantum cryptography": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-23"
       ]
     },
     "popular skill marketplace": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-23"
       ]
     },
     "cybercrime group known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-23"
       ]
     },
     "users must layer": {
+      "count": 2,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "ongoing malware campaign": {
       "count": 1,
       "dates": [
         "2026-06-23"
@@ -20465,17 +20471,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-09 02:39",
-      "articles": 56,
-      "top_keywords": [
-        "174 000 impacted",
-        "execute remote code",
-        "hitachi energy rtu500",
-        "hacking court order",
-        "investigating user reports"
-      ]
-    },
     {
       "timestamp": "2026-06-09 07:41",
       "articles": 56,
@@ -21556,6 +21551,17 @@
     },
     {
       "timestamp": "2026-06-23 17:47",
+      "articles": 48,
+      "top_keywords": [
+        "algerian man extradited",
+        "15 million loss",
+        "public github account",
+        "dragos unveils ai",
+        "exfiltrate sensitive data"
+      ]
+    },
+    {
+      "timestamp": "2026-06-23 19:53",
       "articles": 48,
       "top_keywords": [
         "algerian man extradited",

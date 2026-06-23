@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1919,
+      "count": 1920,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3826,13 +3826,14 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-01-14",
         "2026-01-15",
         "2026-02-04",
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-06-23"
       ]
     },
     "microsoft licensing data": {
@@ -17465,7 +17466,7 @@
       ]
     },
     "public github account": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17474,7 +17475,8 @@
         "2026-06-19",
         "2026-06-20",
         "2026-06-21",
-        "2026-06-22"
+        "2026-06-22",
+        "2026-06-23"
       ]
     },
     "canadian man arrested": {
@@ -17839,7 +17841,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18225,7 +18227,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18255,7 +18257,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18571,7 +18573,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20281,7 +20283,7 @@
       ]
     },
     "anyone already allowed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-22",
         "2026-06-23"
@@ -20295,7 +20297,7 @@
       ]
     },
     "squid's default configuration": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-22",
         "2026-06-23"
@@ -20342,21 +20344,21 @@
       ]
     },
     "crypto heist fueled": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "15 million loss": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "small enablement package": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-22",
         "2026-06-23"
@@ -20383,24 +20385,55 @@
       ]
     },
     "push backdoor code": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "algerian man extradited": {
+      "count": 1,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "threat actors engineered": {
+      "count": 1,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "high impact systems": {
+      "count": 1,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "official github action": {
+      "count": 1,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "wound grew wider": {
+      "count": 1,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "workflow's full privileges": {
+      "count": 1,
+      "dates": [
+        "2026-06-23"
+      ]
+    },
+    "updating actions checkout": {
+      "count": 1,
       "dates": [
         "2026-06-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-08 21:46",
-      "articles": 56,
-      "top_keywords": [
-        "174 000 impacted",
-        "execute remote code",
-        "hitachi energy rtu500",
-        "hacking court order",
-        "investigating user reports"
-      ]
-    },
     {
       "timestamp": "2026-06-08 23:09",
       "articles": 56,
@@ -21488,6 +21521,17 @@
         "pro iranian images",
         "heartbleed style vulnerability",
         "fast spreading internet"
+      ]
+    },
+    {
+      "timestamp": "2026-06-23 14:37",
+      "articles": 48,
+      "top_keywords": [
+        "algerian man extradited",
+        "15 million loss",
+        "exfiltrate sensitive data",
+        "twitter whistleblower complaint",
+        "threat actors engineered"
       ]
     }
   ]

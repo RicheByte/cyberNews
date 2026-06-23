@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-23 10:57 UTC  
+> **Last Updated:** 2026-06-23 14:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**15 million loss** • **twitter whistleblower complaint** • **pro iranian images** • **heartbleed style vulnerability** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **host system simply** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **push backdoor code** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration** • **small enablement package** • **resetting account passwords**
+**algerian man extradited** • **15 million loss** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **threat actors engineered** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **anyone already allowed** • **public github account** • **high impact systems** • **official github action** • **push backdoor code** • **wound grew wider** • **workflow's full privileges** • **updating actions checkout** • **stark industries solutions** • **squid's default configuration** • **small enablement package** • **resetting account passwords**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
+- [Agentic AI: The Weapon That No Longer Needs a Warrior](https://thehackernews.com/2026/06/agentic-ai-weapon-that-no-longer-needs.html)
 - [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
 - [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
 - [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
 - [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
-- [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 - [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
-- [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
-- [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
+- [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 
 ### BleepingComputer
 
+- [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
+- [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
+- [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
 - [WhatsApp phishing attack uses fake business docs to hack PCs](https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/)
 - [JaredFromSubway MEV bot hacked in $15 million crypto theft](https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/)
 - [FFmpeg fixes PixelSmash flaw in widely used video decoder](https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/)
 - [FortiBleed campaign used custom FortiGate sniffer to steal credentials](https://www.bleepingcomputer.com/news/security/fortibleed-campaign-used-custom-fortigate-sniffer-to-steal-credentials/)
 - [Microsoft says Windows 11 26H2 is coming soon, details upgrade process](https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/)
-- [Microsoft fixes AutoGen Studio flaw that enabled code execution](https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/)
-- [A Glimpse into the “Search Your Target” Market for Stolen Credentials](https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/)
-- [AryStinger botnet infected thousands of D-Link routers worldwide](https://www.bleepingcomputer.com/news/security/arystinger-botnet-infected-thousands-of-d-link-routers-worldwide/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [SocGholish Takedown Highlights Malicious TDS Threats](https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats)
+- [FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist](https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers)
+- [DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories](https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories)
 - [Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign](https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign)
+- [He Thought He Was Secure; His Phone Number Got Stolen Anyway](https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover)
 - [Stressors, AI Forcing Changes to Cybersecurity Teams](https://www.darkreading.com/cybersecurity-operations/stressors-ai-changes-cybersecurity-teams)
 - [Novo Nordisk Breach Highlights Software Development Pipeline Risk](https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk)
 - [Operation Escaneo Signals Shift in LatAm Threat Landscape](https://www.darkreading.com/cybersecurity-operations/operation-escaneo-signals-shift-latam-threat-landscape)
-- [FIFA Bug Exposes World Cup Streams to Remote Takeover](https://www.darkreading.com/application-security/fifa-bug-world-cup-streams-remote-takeover)
-- [Salesforce Data Thefts Continue via Klue App Compromise](https://www.darkreading.com/cyberattacks-data-breaches/salesforce-data-thefts-klue-app-compromise)
-- [Get Out of Security Debt by Tackling the Exposure Problem](https://www.darkreading.com/cyber-risk/security-debt-tackle-exposure-problem)
-- [EU Gets a Head Start in Developing 6G Network Security](https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security)
 
 ### Security Week
 
+- [Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks](https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/)
+- [CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct](https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/)
+- [Algerian Man Extradited to US for Running Cybercrime Marketplaces](https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/)
+- [FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances](https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/)
+- [OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery](https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/)
 - [Russian Initial Access Broker Behind FortiBleed Campaign](https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/)
 - [Canadian Electricity Provider London Hydro Discloses Data Breach](https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/)
 - [Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration](https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/)
-- [Xsolis Data Breach Affects 1.4 Million Individuals](https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/)
-- [Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data](https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/)
-- [Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data](https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/)
-- [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/)
-- [What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks](https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/)
 
 ### Threatpost
 

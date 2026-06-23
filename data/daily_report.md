@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-23 02:45 UTC  
+> **Last Updated:** 2026-06-23 07:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **targeting whatsapp users** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **15 million loss** • **host system simply** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **latam threat landscape** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration**
+**15 million loss** • **hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **host system simply** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **push backdoor code** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration** • **small enablement package**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
+- [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
 - [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
 - [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html)
 - [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 - [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
 - [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
 - [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
-- [⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More](https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html)
-- [Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices](https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Xsolis Data Breach Affects 1.4 Million Individuals](https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/)
 - [Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data](https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/)
 - [Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data](https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/)
 - [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/)
@@ -67,7 +68,6 @@
 - [New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones](https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/)
 - [Fortinet Responds to FortiBleed Campaign](https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/)
 - [More Cybersecurity Firms Disclose Impact From Klue Hack](https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/)
-- [Texas Parks & Wildlife Data Breach Affects 3 Million Individuals](https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/)
 
 ### Threatpost
 

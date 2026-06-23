@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-23 02:45 UTC |
+| 🕐 Last Updated | 2026-06-23 07:42 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hijack ai agents` • `ai agents earlier` • `twitter whistleblower complaint` • `targeting whatsapp users` • `pro iranian images` • `fast spreading internet` • `crypto heist fueled` • `bugs earned microsoft's` • `anyone already allowed` • `android developer verification`
+`15 million loss` • `hijack ai agents` • `ai agents earlier` • `twitter whistleblower complaint` • `pro iranian images` • `fast spreading internet` • `crypto heist fueled` • `bugs earned microsoft's` • `anyone already allowed` • `android developer verification`
 
 ## 📄 Reports
 

@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-06-23 02:45",
+  "last_updated": "2026-06-23 07:42",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "15 million loss",
     "hijack ai agents",
     "ai agents earlier",
     "twitter whistleblower complaint",
-    "targeting whatsapp users",
     "pro iranian images",
     "fast spreading internet",
     "crypto heist fueled",
     "bugs earned microsoft's",
     "anyone already allowed",
     "android developer verification",
-    "15 million loss",
     "host system simply",
     "cyberattacks influence operations",
     "aiding cyberattacks authorities",
-    "latam threat landscape",
+    "push backdoor code",
     "tooling problem rather",
     "third integrated application",
     "supply chain attack",
     "stark industries solutions",
-    "squid's default configuration"
+    "squid's default configuration",
+    "small enablement package"
   ],
   "trending": [
     {
-      "keyword": "hijack ai agents",
+      "keyword": "15 million loss",
       "mentions": 4
+    },
+    {
+      "keyword": "hijack ai agents",
+      "mentions": 5
     },
     {
       "keyword": "ai agents earlier",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1917
-    },
-    {
-      "keyword": "targeting whatsapp users",
-      "mentions": 2
+      "mentions": 1918
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 61
+      "mentions": 62
     },
     {
       "keyword": "crypto heist fueled",
-      "mentions": 3
-    },
-    {
-      "keyword": "bugs earned microsoft's",
       "mentions": 4
     },
     {
-      "keyword": "anyone already allowed",
+      "keyword": "bugs earned microsoft's",
       "mentions": 5
     },
     {
+      "keyword": "anyone already allowed",
+      "mentions": 6
+    },
+    {
       "keyword": "android developer verification",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
+      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
+      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,",
+      "published": "Tue, 23 Jun 2026 11:08:40 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
+      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
+      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to",
+      "published": "Tue, 23 Jun 2026 09:26:58 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
@@ -125,29 +145,6 @@
       "published": "Mon, 22 Jun 2026 17:28:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
-      "summary": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
-      "published": "Mon, 22 Jun 2026 16:25:10 +0530",
-      "value_score": 38,
-      "value_signals": [
-        "Ransomware",
-        "Botnet"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Canada’s Spy Agency Used First-of-Its-Kind Warrant to Clean Botnet-Infected Devices",
-      "link": "https://thehackernews.com/2026/06/canadas-spy-agency-used-first-of-its.html",
-      "summary": "Canada's spy service got a judge's permission to reach into infected servers, home routers, and IoT gear sitting on Canadian soil and neutralize two foreign-run botnets. The Federal Court released a public version of the ruling on June 15. It is the first time the Canadian Security Intelligence Service has used its threat reduction warrant powers this way. The warrant let CSIS alter,",
-      "published": "Mon, 22 Jun 2026 14:41:37 +0530",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -393,6 +390,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
+      "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
+      "summary": "Threat actors gained access to personal and protected health information that Xsolis received from its clients. The post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWeek .",
+      "published": "Tue, 23 Jun 2026 06:20:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
       "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
       "summary": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. The post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared first on SecurityWeek .",
@@ -462,17 +470,6 @@
       "published": "Mon, 22 Jun 2026 09:03:08 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Texas Parks & Wildlife Data Breach Affects 3 Million Individuals",
-      "link": "https://www.securityweek.com/texas-parks-wildlife-data-breach-affects-3-million-individuals/",
-      "summary": "Hackers stole personal information after breaching the systems of a third-party license vendor serving TPWD. The post Texas Parks & Wildlife Data Breach Affects 3 Million Individuals appeared first on SecurityWeek .",
-      "published": "Mon, 22 Jun 2026 05:33:39 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

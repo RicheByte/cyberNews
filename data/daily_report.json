@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-23 21:27",
+  "last_updated": "2026-06-23 23:04",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "algerian man extradited",
     "time restore feature",
     "dragos unveils ai",
-    "public github account",
     "post quantum cryptography",
+    "public github account",
     "sensitive data belonging",
     "icarus leaks data",
     "exfiltrate sensitive data",
@@ -18,52 +18,52 @@
     "criminal charges stemming",
     "official github action",
     "high impact systems",
-    "resetting account passwords",
     "krebsonsecurity publicly named",
-    "salesforce attacks expands",
     "wound grew wider",
-    "workflow's full privileges"
+    "workflow's full privileges",
+    "windows 11 24h2",
+    "users must layer"
   ],
   "trending": [
     {
       "keyword": "algerian man extradited",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "time restore feature",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "dragos unveils ai",
-      "mentions": 3
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 45
+      "mentions": 4
     },
     {
       "keyword": "post quantum cryptography",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "public github account",
+      "mentions": 46
     },
     {
       "keyword": "sensitive data belonging",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "exfiltrate sensitive data",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1923
+      "mentions": 1924
     },
     {
       "keyword": "popular skill marketplace",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -145,6 +145,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
+      "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
+      "published": "Tue, 23 Jun 2026 17:48:32 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Tata Electronics confirms cyberattack as hackers leak data",
       "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
       "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
@@ -216,17 +229,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why email security teams are drowning in alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/",
-      "summary": "Phishing, BEC, and account takeover attacks continue to overwhelm security teams with alerts and investigations. This webinar explores how behavioral AI can help automate detection and response workflows, reducing alert fatigue and improving operational efficiency. [...]",
-      "published": "Tue, 23 Jun 2026 08:12:20 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

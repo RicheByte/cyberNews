@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-23 21:27 UTC  
+> **Last Updated:** 2026-06-23 23:04 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**algerian man extradited** • **time restore feature** • **dragos unveils ai** • **public github account** • **post quantum cryptography** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **popular skill marketplace** • **fast spreading internet** • **cybercrime group known** • **criminal charges stemming** • **official github action** • **high impact systems** • **resetting account passwords** • **krebsonsecurity publicly named** • **salesforce attacks expands** • **wound grew wider** • **workflow's full privileges**
+**algerian man extradited** • **time restore feature** • **dragos unveils ai** • **post quantum cryptography** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **popular skill marketplace** • **fast spreading internet** • **cybercrime group known** • **criminal charges stemming** • **official github action** • **high impact systems** • **krebsonsecurity publicly named** • **wound grew wider** • **workflow's full privileges** • **windows 11 24h2** • **users must layer**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
 - [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
 - [Windows 11 KB5095093 update rolls out new Point-in-Time restore feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/)
 - [Healthtech firm Xolis suffers data breach impacting 1.4 million people](https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/)
@@ -34,7 +35,6 @@
 - [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
 - [The Exploit Doesn't Exist. You Can Still Prove It Works Against You](https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/)
 - [LastPass confirms data breach in Klue supply chain attack](https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/)
-- [Webinar: Why email security teams are drowning in alerts](https://www.bleepingcomputer.com/news/security/webinar-why-email-security-teams-are-drowning-in-alerts/)
 
 ### Krebs on Security
 

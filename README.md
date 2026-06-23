@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-23 19:53 UTC |
+| 🕐 Last Updated | 2026-06-23 21:27 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`algerian man extradited` • `15 million loss` • `public github account` • `dragos unveils ai` • `exfiltrate sensitive data` • `post quantum cryptography` • `twitter whistleblower complaint` • `pro iranian images` • `popular skill marketplace` • `ongoing malware campaign`
+`algerian man extradited` • `time restore feature` • `dragos unveils ai` • `public github account` • `post quantum cryptography` • `sensitive data belonging` • `icarus leaks data` • `exfiltrate sensitive data` • `twitter whistleblower complaint` • `popular skill marketplace`
 
 ## 📄 Reports
 

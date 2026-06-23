@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-23 19:53",
+  "last_updated": "2026-06-23 21:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "algerian man extradited",
-    "15 million loss",
-    "public github account",
+    "time restore feature",
     "dragos unveils ai",
-    "exfiltrate sensitive data",
+    "public github account",
     "post quantum cryptography",
+    "sensitive data belonging",
+    "icarus leaks data",
+    "exfiltrate sensitive data",
     "twitter whistleblower complaint",
-    "pro iranian images",
     "popular skill marketplace",
-    "ongoing malware campaign",
-    "official github action",
     "fast spreading internet",
     "cybercrime group known",
-    "crypto heist fueled",
+    "criminal charges stemming",
+    "official github action",
     "high impact systems",
     "resetting account passwords",
-    "users must layer",
     "krebsonsecurity publicly named",
+    "salesforce attacks expands",
     "wound grew wider",
     "workflow's full privileges"
   ],
   "trending": [
     {
       "keyword": "algerian man extradited",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "15 million loss",
-      "mentions": 8
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 44
+      "keyword": "time restore feature",
+      "mentions": 1
     },
     {
       "keyword": "dragos unveils ai",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "exfiltrate sensitive data",
-      "mentions": 13
+      "keyword": "public github account",
+      "mentions": 45
     },
     {
       "keyword": "post quantum cryptography",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "sensitive data belonging",
+      "mentions": 1
+    },
+    {
+      "keyword": "icarus leaks data",
+      "mentions": 1
+    },
+    {
+      "keyword": "exfiltrate sensitive data",
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1922
-    },
-    {
-      "keyword": "pro iranian images",
-      "mentions": 17
+      "mentions": 1923
     },
     {
       "keyword": "popular skill marketplace",
-      "mentions": 2
-    },
-    {
-      "keyword": "ongoing malware campaign",
-      "mentions": 1
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
+      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
+      "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke",
+      "published": "Tue, 23 Jun 2026 23:50:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
@@ -135,15 +144,37 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
-      "summary": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis",
-      "published": "Mon, 22 Jun 2026 23:30:48 +0530",
-      "value_score": 42,
+      "source": "BleepingComputer",
+      "title": "Tata Electronics confirms cyberattack as hackers leak data",
+      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
+      "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
+      "published": "Tue, 23 Jun 2026 17:06:32 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Patch/update",
-        "Backdoor ×2"
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
+      "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
+      "published": "Tue, 23 Jun 2026 16:22:21 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
+      "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
+      "published": "Tue, 23 Jun 2026 15:59:12 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Breach/leak",
+        "Phishing"
       ]
     },
     {
@@ -196,38 +227,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp phishing attack uses fake business docs to hack PCs",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-phishing-attack-uses-fake-business-docs-to-hack-pcs/",
-      "summary": "An ongoing malware campaign is targeting WhatsApp users in multiple countries with deceptive messages that push VBScript files, leading to remote system access. [...]",
-      "published": "Mon, 22 Jun 2026 18:42:21 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JaredFromSubway MEV bot hacked in $15 million crypto theft",
-      "link": "https://www.bleepingcomputer.com/news/security/jaredfromsubway-mev-bot-hacked-in-15-million-crypto-theft/",
-      "summary": "The JaredFromSubway Ethereum MEV (Maximal Extractable Value) bot suffered a $15 million loss after an attacker manipulated the opportunity-detection logic by creating fake cryptocurrency trading opportunities. [...]",
-      "published": "Mon, 22 Jun 2026 17:52:18 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FFmpeg fixes PixelSmash flaw in widely used video decoder",
-      "link": "https://www.bleepingcomputer.com/news/security/ffmpeg-fixes-pixelsmash-flaw-in-widely-used-video-decoder/",
-      "summary": "A newly disclosed FFmpeg flaw dubbed 'PixelSmash' could be exploited for remote code execution on Jellyfin servers under certain conditions, and can also trigger a denial-of-service condition in applications like Kodi, Emby, Nextcloud, PhotoPrism, and OBS Studio. [...]",
-      "published": "Mon, 22 Jun 2026 17:05:01 -0400",
-      "value_score": 36,
-      "value_signals": [
-        "RCE",
-        "Exploit wording"
       ]
     },
     {
@@ -317,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Scope of Salesforce Attacks Expands as Icarus Leaks Data",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data",
+      "summary": "More victims have emerged after attackers breached application vendor Klue and used its OAuth tokens to steal customers' Salesforce data.",
+      "published": "Tue, 23 Jun 2026 20:44:09 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows",
       "link": "https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows",
       "summary": "The CI/CD workflow weakness affects Microsoft's Azure Sentinel, Google's AI Agent Development Kit, Apache's Doris analytics database, Cloudflare's Workers SDK, and Python Software Foundation's Black.",
@@ -379,17 +387,6 @@
       "published": "Fri, 19 Jun 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Novo Nordisk Breach Highlights Software Development Pipeline Risk",
-      "link": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
-      "summary": "A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem.",
-      "published": "Thu, 18 Jun 2026 20:05:47 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",

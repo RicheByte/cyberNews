@@ -1,13 +1,12 @@
 {
-  "last_updated": "2026-06-23 07:42",
+  "last_updated": "2026-06-23 10:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "15 million loss",
-    "hijack ai agents",
-    "ai agents earlier",
     "twitter whistleblower complaint",
     "pro iranian images",
+    "heartbleed style vulnerability",
     "fast spreading internet",
     "crypto heist fueled",
     "bugs earned microsoft's",
@@ -22,51 +21,61 @@
     "supply chain attack",
     "stark industries solutions",
     "squid's default configuration",
-    "small enablement package"
+    "small enablement package",
+    "resetting account passwords"
   ],
   "trending": [
     {
       "keyword": "15 million loss",
-      "mentions": 4
-    },
-    {
-      "keyword": "hijack ai agents",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai agents earlier",
       "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1918
+      "mentions": 1919
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "heartbleed style vulnerability",
+      "mentions": 2
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "crypto heist fueled",
-      "mentions": 4
-    },
-    {
-      "keyword": "bugs earned microsoft's",
       "mentions": 5
     },
     {
-      "keyword": "anyone already allowed",
+      "keyword": "bugs earned microsoft's",
       "mentions": 6
     },
     {
+      "keyword": "anyone already allowed",
+      "mentions": 7
+    },
+    {
       "keyword": "android developer verification",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "host system simply",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
+      "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
+      "summary": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser (615 downloads) All the packages were published over the past month by an npm user named",
+      "published": "Tue, 23 Jun 2026 14:24:32 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
@@ -134,15 +143,6 @@
       "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
       "summary": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs of apps whose developers have not registered an identity with Google, whether the app",
       "published": "Mon, 22 Jun 2026 18:15:08 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
-      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
-      "summary": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their",
-      "published": "Mon, 22 Jun 2026 17:28:00 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -390,6 +390,35 @@
     },
     {
       "source": "Security Week",
+      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
+      "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
+      "summary": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek .",
+      "published": "Tue, 23 Jun 2026 10:30:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
+      "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
+      "summary": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information. The post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 23 Jun 2026 09:25:22 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
+      "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
+      "summary": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031. The post Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration appeared first on SecurityWeek .",
+      "published": "Tue, 23 Jun 2026 08:43:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Xsolis Data Breach Affects 1.4 Million Individuals",
       "link": "https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/",
       "summary": "Threat actors gained access to personal and protected health information that Xsolis received from its clients. The post Xsolis Data Breach Affects 1.4 Million Individuals appeared first on SecurityWeek .",
@@ -440,36 +469,6 @@
         "Zero-day",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones",
-      "link": "https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/",
-      "summary": "The vulnerability exploited by the Usbliter8 exploit cannot be patched and a PoC exploit has been released by researchers. The post New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones appeared first on SecurityWeek .",
-      "published": "Mon, 22 Jun 2026 10:03:06 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Responds to FortiBleed Campaign",
-      "link": "https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/",
-      "summary": "A database of over 86,000 confirmed working credentials was created during the credential-harvesting campaign. The post Fortinet Responds to FortiBleed Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 22 Jun 2026 09:34:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
-      "link": "https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/",
-      "summary": "HackerOne, Huntress, Jamf, OneTrust, Recorded Future, Snyk, and Tanium are among the affected Klue customers. The post More Cybersecurity Firms Disclose Impact From Klue Hack appeared first on SecurityWeek .",
-      "published": "Mon, 22 Jun 2026 09:03:08 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

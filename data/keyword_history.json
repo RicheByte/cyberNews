@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1918,
+      "count": 1919,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -11307,7 +11307,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -17530,7 +17530,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17561,7 +17561,7 @@
       ]
     },
     "aiding cyberattacks authorities": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17839,7 +17839,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18225,7 +18225,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18243,7 +18243,8 @@
         "2026-06-19",
         "2026-06-20",
         "2026-06-21",
-        "2026-06-22"
+        "2026-06-22",
+        "2026-06-23"
       ]
     },
     "remote web ui": {
@@ -18254,7 +18255,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18570,7 +18571,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20047,7 +20048,7 @@
       ]
     },
     "tooling problem rather": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-18",
         "2026-06-19",
@@ -20068,7 +20069,7 @@
       ]
     },
     "third integrated application": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-19",
         "2026-06-20",
@@ -20280,21 +20281,21 @@
       ]
     },
     "anyone already allowed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "android developer verification": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "squid's default configuration": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-22",
         "2026-06-23"
@@ -20327,34 +20328,35 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "heartbleed style vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-22"
+        "2026-06-22",
+        "2026-06-23"
       ]
     },
     "crypto heist fueled": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "15 million loss": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "small enablement package": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-22",
         "2026-06-23"
@@ -20374,31 +20376,20 @@
       ]
     },
     "host system simply": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-22",
         "2026-06-23"
       ]
     },
     "push backdoor code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-08 18:22",
-      "articles": 48,
-      "top_keywords": [
-        "174 000 impacted",
-        "execute remote code",
-        "hitachi energy rtu500",
-        "hacking court order",
-        "careers platform hack"
-      ]
-    },
     {
       "timestamp": "2026-06-08 21:46",
       "articles": 56,
@@ -21486,6 +21477,17 @@
         "ai agents earlier",
         "twitter whistleblower complaint",
         "pro iranian images"
+      ]
+    },
+    {
+      "timestamp": "2026-06-23 10:57",
+      "articles": 48,
+      "top_keywords": [
+        "15 million loss",
+        "twitter whistleblower complaint",
+        "pro iranian images",
+        "heartbleed style vulnerability",
+        "fast spreading internet"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-23 07:42 UTC  
+> **Last Updated:** 2026-06-23 10:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**15 million loss** • **hijack ai agents** • **ai agents earlier** • **twitter whistleblower complaint** • **pro iranian images** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **host system simply** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **push backdoor code** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration** • **small enablement package**
+**15 million loss** • **twitter whistleblower complaint** • **pro iranian images** • **heartbleed style vulnerability** • **fast spreading internet** • **crypto heist fueled** • **bugs earned microsoft's** • **anyone already allowed** • **android developer verification** • **host system simply** • **cyberattacks influence operations** • **aiding cyberattacks authorities** • **push backdoor code** • **tooling problem rather** • **third integrated application** • **supply chain attack** • **stark industries solutions** • **squid's default configuration** • **small enablement package** • **resetting account passwords**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html)
 - [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html)
 - [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html)
 - [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html)
@@ -23,7 +24,6 @@
 - [29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests](https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html)
 - [New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer](https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html)
 - [Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries](https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html)
-- [Stop Your Legacy Infrastructure from Hijacking Your AI Agents](https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Russian Initial Access Broker Behind FortiBleed Campaign](https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/)
+- [Canadian Electricity Provider London Hydro Discloses Data Breach](https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/)
+- [Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration](https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/)
 - [Xsolis Data Breach Affects 1.4 Million Individuals](https://www.securityweek.com/xsolis-data-breach-affects-1-4-million-individuals/)
 - [Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data](https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/)
 - [Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data](https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/)
 - [North Korean Hackers Blamed for Mastra NPM Supply Chain Attack](https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/)
 - [What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks](https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/)
-- [New Exploit Bypasses Apple’s Boot Defenses, Affects Millions of iPhones](https://www.securityweek.com/new-exploit-bypasses-apples-boot-defenses-affects-millions-of-iphones/)
-- [Fortinet Responds to FortiBleed Campaign](https://www.securityweek.com/fortinet-responds-to-fortibleed-campaign/)
-- [More Cybersecurity Firms Disclose Impact From Klue Hack](https://www.securityweek.com/more-cybersecurity-firms-disclose-impact-from-klue-hack/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-24 02:45 UTC  
+> **Last Updated:** 2026-06-24 07:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**algerian man extradited** • **time restore feature** • **dragos unveils ai** • **post quantum cryptography** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **popular skill marketplace** • **fast spreading internet** • **cybercrime group known** • **criminal charges stemming** • **official github action** • **high impact systems** • **krebsonsecurity publicly named** • **wound grew wider** • **workflow's full privileges** • **windows 11 24h2** • **users must layer**
+**algerian man extradited** • **dragos unveils ai** • **time restore feature** • **post quantum cryptography** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **popular skill marketplace** • **fast spreading internet** • **cybercrime group known** • **criminal charges stemming** • **high impact systems** • **krebsonsecurity publicly named** • **wound grew wider** • **workflow's full privileges** • **windows 11 24h2** • **users must layer** • **user's email address**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hackers Exploiting Cisco Unified CM Vulnerability](https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/)
+- [Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says](https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/)
 - [Dragos Unveils AI for OT Security](https://www.securityweek.com/dragos-unveils-ai-for-ot-security/)
 - [Data Exposure Flaws Threaten Dify AI Platform Used by 1 Million Apps](https://www.securityweek.com/data-exposure-flaws-threaten-dify-ai-platform-powering-over-1-million-apps/)
 - [Eight-Year-Old Samsung KNOX Flaw Exposed Millions of Galaxy Devices to Kernel Attacks](https://www.securityweek.com/eight-year-old-samsung-knox-flaw-exposed-millions-of-galaxy-devices-to-kernel-attacks/)
 - [CISO Conversations: Carl Froggett – Combining CISO and CIO at Deep Instinct](https://www.securityweek.com/ciso-conversations-carl-froggett-combining-ciso-and-cio-at-deep-instinct/)
 - [Algerian Man Extradited to US for Running Cybercrime Marketplaces](https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/)
 - [FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances](https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/)
-- [OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery](https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/)
-- [Russian Initial Access Broker Behind FortiBleed Campaign](https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/)
 
 ### Threatpost
 

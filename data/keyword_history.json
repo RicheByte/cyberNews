@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1925,
+      "count": 1926,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3827,7 +3827,7 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -11898,7 +11898,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -17470,7 +17470,7 @@
       ]
     },
     "public github account": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18578,7 +18578,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20186,7 +20186,7 @@
       ]
     },
     "krebsonsecurity publicly named": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-19",
         "2026-06-23",
@@ -20399,7 +20399,7 @@
       ]
     },
     "algerian man extradited": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20412,7 +20412,7 @@
       ]
     },
     "high impact systems": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20426,14 +20426,14 @@
       ]
     },
     "wound grew wider": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "workflow's full privileges": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20446,35 +20446,35 @@
       ]
     },
     "dragos unveils ai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "post quantum cryptography": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "popular skill marketplace": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "cybercrime group known": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "users must layer": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20487,28 +20487,28 @@
       ]
     },
     "time restore feature": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "sensitive data belonging": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "icarus leaks data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "criminal charges stemming": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20519,20 +20519,15 @@
       "dates": [
         "2026-06-23"
       ]
+    },
+    "user's email address": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-09 17:56",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "will ai kill",
-        "twitter whistleblower complaint",
-        "normal system usage",
-        "hitachi energy rtu500"
-      ]
-    },
     {
       "timestamp": "2026-06-09 20:04",
       "articles": 56,
@@ -21618,6 +21613,17 @@
         "algerian man extradited",
         "time restore feature",
         "dragos unveils ai",
+        "post quantum cryptography",
+        "public github account"
+      ]
+    },
+    {
+      "timestamp": "2026-06-24 07:35",
+      "articles": 48,
+      "top_keywords": [
+        "algerian man extradited",
+        "dragos unveils ai",
+        "time restore feature",
         "post quantum cryptography",
         "public github account"
       ]

@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-06-24 02:45",
+  "last_updated": "2026-06-24 07:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "algerian man extradited",
-    "time restore feature",
     "dragos unveils ai",
+    "time restore feature",
     "post quantum cryptography",
     "public github account",
     "sensitive data belonging",
@@ -16,54 +16,54 @@
     "fast spreading internet",
     "cybercrime group known",
     "criminal charges stemming",
-    "official github action",
     "high impact systems",
     "krebsonsecurity publicly named",
     "wound grew wider",
     "workflow's full privileges",
     "windows 11 24h2",
-    "users must layer"
+    "users must layer",
+    "user's email address"
   ],
   "trending": [
     {
       "keyword": "algerian man extradited",
+      "mentions": 7
+    },
+    {
+      "keyword": "dragos unveils ai",
       "mentions": 6
     },
     {
       "keyword": "time restore feature",
-      "mentions": 3
-    },
-    {
-      "keyword": "dragos unveils ai",
-      "mentions": 5
+      "mentions": 4
     },
     {
       "keyword": "post quantum cryptography",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "public github account",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "sensitive data belonging",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "exfiltrate sensitive data",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1925
+      "mentions": 1926
     },
     {
       "keyword": "popular skill marketplace",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -392,6 +392,30 @@
     },
     {
       "source": "Security Week",
+      "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
+      "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
+      "summary": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June. The post Hackers Exploiting Cisco Unified CM Vulnerability appeared first on SecurityWeek .",
+      "published": "Wed, 24 Jun 2026 05:44:15 +0000",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
+      "link": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
+      "summary": "Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said. The post Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says appeared first on SecurityWeek .",
+      "published": "Wed, 24 Jun 2026 03:29:58 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Dragos Unveils AI for OT Security",
       "link": "https://www.securityweek.com/dragos-unveils-ai-for-ot-security/",
       "summary": "Named EmberAI, the new capability is built on Dragos’ massive operational technology cybersecurity dataset. The post Dragos Unveils AI for OT Security appeared first on SecurityWeek .",
@@ -445,24 +469,6 @@
       "value_signals": [
         "RCE ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery",
-      "link": "https://www.securityweek.com/openai-refocuses-cybersecurity-efforts-on-patching-over-discovery/",
-      "summary": "OpenAI has expanded its Daybreak cybersecurity initiative with a new suite of tools and partnerships. The post OpenAI Refocuses Cybersecurity Efforts on Patching Over Discovery appeared first on SecurityWeek .",
-      "published": "Tue, 23 Jun 2026 11:07:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
-      "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
-      "summary": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek .",
-      "published": "Tue, 23 Jun 2026 10:30:46 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

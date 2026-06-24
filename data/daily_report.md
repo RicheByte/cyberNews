@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-24 14:17 UTC  
+> **Last Updated:** 2026-06-24 17:49 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**time restore feature** • **beyondtrust lastpass impacted** • **macos weaknesses chained** • **post quantum cryptography** • **critical ubiquiti vulnerabilities** • **public github account** • **workflow's full privileges** • **users must layer** • **twitter whistleblower complaint** • **popular skill marketplace** • **high impact systems** • **fast spreading internet** • **dozen klue customers** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **cybercrime group known** • **resetting account passwords** • **ongoing global campaign** • **official github action**
+**exclusive meet aivex** • **time restore feature** • **critical ubiquiti vulnerabilities** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **high impact systems** • **fast spreading internet** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **machine speed context** • **faces criminal h** • **criminal charges stemming** • **provide initial access** • **post quantum cryptography**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
 - [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
 - [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
 - [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
@@ -23,18 +24,17 @@
 - [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
 - [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
 - [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html)
-- [GitHub Updates actions/checkout to Block Common Pwn Request Attack Patterns](https://thehackernews.com/2026/06/github-updates-actionscheckout-to-block.html)
 
 ### BleepingComputer
 
+- [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
+- [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
 - [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
 - [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
 - [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
 - [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
 - [Windows 11 KB5095093 update rolls out new Point-in-Time restore feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/)
 - [Healthtech firm Xolis suffers data breach impacting 1.4 million people](https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/)
-- [New macOS ClickFix attack silently mounts DMGs to push infostealer](https://www.bleepingcomputer.com/news/security/new-macos-clickfix-attack-silently-mounts-dmgs-to-push-infostealer/)
-- [Scattered Spider members plead guilty to hacking Transport for London](https://www.bleepingcomputer.com/news/security/scattered-spider-members-plead-guilty-to-hacking-transport-for-london/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [More Malicious OpenClaw Skills Threaten AI Supply Chain](https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain)
 - [Apple's MacOS Gap Lets Users Disable Security Tools](https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools)
 - [Scope of Salesforce Attacks Expands as Icarus Leaks Data](https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data)
 - ['Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows](https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows)
@@ -56,18 +57,17 @@
 - [FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist](https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers)
 - [DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories](https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories)
 - [Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign](https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign)
-- [He Thought He Was Secure; His Phone Number Was Stolen Anyway](https://www.darkreading.com/cyber-risk/how-a-sim-swap-attack-led-to-a-near-account-takeover)
 
 ### Security Week
 
+- [When Information Becomes the Attack Surface – Understanding AI Agent Traps](https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/)
+- [Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware](https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/)
+- [Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk](https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/)
 - [macOS Weaknesses Chained to Silently Disable Endpoint Security Agents](https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/)
 - [Third DraftKings Hacker Sentenced to 18 Months in Prison](https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/)
 - [Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/)
 - [Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed](https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/)
 - [New ‘Mistic’ RAT Opens Door to Several Ransomware Families](https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/)
-- [Exploitable CI/CD Vulnerabilities Expose Millions of Repositories to Hijacking](https://www.securityweek.com/exploitable-ci-cd-vulnerabilities-expose-millions-of-repositories-to-hijacking/)
-- [BeyondTrust, LastPass Impacted by Klue-Salesforce Incident](https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/)
-- [Webinar Today: Modern Exposure Validation in the AI Era](https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/)
 
 ### Threatpost
 

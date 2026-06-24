@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1928,
+      "count": 1929,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3692,7 +3692,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3728,7 +3728,8 @@
         "2026-06-19",
         "2026-06-20",
         "2026-06-21",
-        "2026-06-22"
+        "2026-06-22",
+        "2026-06-24"
       ]
     },
     "bugs fixed today": {
@@ -3827,7 +3828,7 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -17470,7 +17471,7 @@
       ]
     },
     "public github account": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18232,7 +18233,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18579,7 +18580,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20413,7 +20414,7 @@
       ]
     },
     "high impact systems": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20454,7 +20455,7 @@
       ]
     },
     "post quantum cryptography": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20468,7 +20469,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20488,28 +20489,28 @@
       ]
     },
     "time restore feature": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "sensitive data belonging": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "icarus leaks data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "criminal charges stemming": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20546,12 +20547,42 @@
       ]
     },
     "macos weaknesses chained": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-24"
       ]
     },
     "critical ubiquiti vulnerabilities": {
+      "count": 2,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "exclusive meet aivex": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "critical exploitable pattern": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "machine speed context": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "faces criminal h": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "provide initial access": {
       "count": 1,
       "dates": [
         "2026-06-24"
@@ -20559,17 +20590,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-10 02:53",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "remote code execution",
-        "twitter whistleblower complaint",
-        "openclaw email agent",
-        "normal system usage"
-      ]
-    },
     {
       "timestamp": "2026-06-10 08:02",
       "articles": 56,
@@ -21657,6 +21677,17 @@
         "macos weaknesses chained",
         "post quantum cryptography",
         "critical ubiquiti vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-06-24 17:49",
+      "articles": 48,
+      "top_keywords": [
+        "exclusive meet aivex",
+        "time restore feature",
+        "critical ubiquiti vulnerabilities",
+        "macos weaknesses chained",
+        "resetting account passwords"
       ]
     }
   ]

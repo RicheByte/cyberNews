@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-06-24 21:18",
+  "last_updated": "2026-06-24 23:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "exclusive meet aivex",
     "python based backdoor",
     "critical ubiquiti vulnerabilities",
+    "root threat actors",
     "icarus leaks data",
-    "time restore feature",
     "macos weaknesses chained",
     "resetting account passwords",
     "public github account",
@@ -17,53 +17,53 @@
     "dire critical rating",
     "critical exploitable pattern",
     "cybercrime group known",
-    "threat actors engineered",
-    "root threat actors",
-    "machine speed context",
     "provide initial access",
-    "windows 11 24h2",
-    "user's email address"
+    "machine speed context",
+    "hacking draftkings accounts",
+    "root level access",
+    "user's email address",
+    "ubiquity unifi os"
   ],
   "trending": [
     {
       "keyword": "exclusive meet aivex",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "python based backdoor",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "critical ubiquiti vulnerabilities",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "root threat actors",
+      "mentions": 3
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 9
-    },
-    {
-      "keyword": "time restore feature",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "macos weaknesses chained",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "public github account",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1931
+      "mentions": 1932
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 75
+      "mentions": 76
     }
   ],
   "articles": [
@@ -160,6 +160,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
+      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
+      "published": "Wed, 24 Jun 2026 17:55:43 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
+      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
+      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
+      "published": "Wed, 24 Jun 2026 17:29:10 -0400",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
       "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
@@ -225,28 +247,6 @@
         "CVE mentioned ×2",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Tata Electronics confirms cyberattack as hackers leak data",
-      "link": "https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/",
-      "summary": "Tata Electronics has confirmed in a statement to BleepingComputer that it was the target of a cyberattack that impacted parts of its IT infrastructure. [...]",
-      "published": "Tue, 23 Jun 2026 17:06:32 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5095093 update rolls out new Point-in-Time restore feature",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/",
-      "summary": "​​Microsoft has released the KB5095093 preview cumulative update for Windows 11 24H2 and 25H2, which fixes numerous bugs and begins rolling out new features, including the new Point-in-Time restore feature. [...]",
-      "published": "Tue, 23 Jun 2026 16:22:21 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -336,6 +336,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
+      "summary": "Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
+      "published": "Wed, 24 Jun 2026 21:16:41 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "2026 FIFA World Cup Faces Surge in Cyber Threats",
       "link": "https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats",
       "summary": "Persistent cybercrime, social engineering, and infrastructure threats continue to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.",
@@ -347,7 +356,7 @@
       "source": "Dark Reading",
       "title": "Do CISOs Need a Code of Ethics?",
       "link": "https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics",
-      "summary": "Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even national, security.",
+      "summary": "Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even national, security.",
       "published": "Wed, 24 Jun 2026 19:10:17 GMT",
       "value_score": 10,
       "value_signals": []
@@ -396,15 +405,6 @@
       "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
       "summary": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp.",
       "published": "Tue, 23 Jun 2026 13:51:33 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
-      "summary": "The threat actors engineered a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.",
-      "published": "Tue, 23 Jun 2026 12:34:54 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1926,
+      "count": 1927,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3827,7 +3827,7 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -17470,7 +17470,7 @@
       ]
     },
     "public github account": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18232,7 +18232,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18251,7 +18251,8 @@
         "2026-06-20",
         "2026-06-21",
         "2026-06-22",
-        "2026-06-23"
+        "2026-06-23",
+        "2026-06-24"
       ]
     },
     "remote web ui": {
@@ -18578,7 +18579,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20186,7 +20187,7 @@
       ]
     },
     "krebsonsecurity publicly named": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-19",
         "2026-06-23",
@@ -20412,7 +20413,7 @@
       ]
     },
     "high impact systems": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20426,7 +20427,7 @@
       ]
     },
     "wound grew wider": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20446,35 +20447,35 @@
       ]
     },
     "dragos unveils ai": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "post quantum cryptography": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "popular skill marketplace": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "cybercrime group known": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "users must layer": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20487,28 +20488,28 @@
       ]
     },
     "time restore feature": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "sensitive data belonging": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "icarus leaks data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "criminal charges stemming": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20525,20 +20526,27 @@
       "dates": [
         "2026-06-24"
       ]
+    },
+    "beyondtrust lastpass impacted": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "dozen klue customers": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "ongoing global campaign": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-09 20:04",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "remote code execution",
-        "twitter whistleblower complaint",
-        "normal system usage",
-        "chief master sergeant"
-      ]
-    },
     {
       "timestamp": "2026-06-09 23:14",
       "articles": 56,
@@ -21626,6 +21634,17 @@
         "time restore feature",
         "post quantum cryptography",
         "public github account"
+      ]
+    },
+    {
+      "timestamp": "2026-06-24 10:44",
+      "articles": 48,
+      "top_keywords": [
+        "dragos unveils ai",
+        "beyondtrust lastpass impacted",
+        "public github account",
+        "time restore feature",
+        "post quantum cryptography"
       ]
     }
   ]

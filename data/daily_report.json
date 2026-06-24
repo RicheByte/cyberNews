@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-06-24 07:35",
+  "last_updated": "2026-06-24 10:44",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "algerian man extradited",
     "dragos unveils ai",
+    "beyondtrust lastpass impacted",
+    "public github account",
     "time restore feature",
     "post quantum cryptography",
-    "public github account",
-    "sensitive data belonging",
-    "icarus leaks data",
-    "exfiltrate sensitive data",
+    "users must layer",
     "twitter whistleblower complaint",
     "popular skill marketplace",
     "fast spreading internet",
-    "cybercrime group known",
+    "dozen klue customers",
     "criminal charges stemming",
+    "sensitive data belonging",
+    "icarus leaks data",
+    "exfiltrate sensitive data",
+    "cybercrime group known",
+    "ongoing global campaign",
     "high impact systems",
+    "resetting account passwords",
     "krebsonsecurity publicly named",
-    "wound grew wider",
-    "workflow's full privileges",
-    "windows 11 24h2",
-    "users must layer",
-    "user's email address"
+    "wound grew wider"
   ],
   "trending": [
     {
-      "keyword": "algerian man extradited",
+      "keyword": "dragos unveils ai",
       "mentions": 7
     },
     {
-      "keyword": "dragos unveils ai",
-      "mentions": 6
-    },
-    {
-      "keyword": "time restore feature",
-      "mentions": 4
-    },
-    {
-      "keyword": "post quantum cryptography",
-      "mentions": 6
+      "keyword": "beyondtrust lastpass impacted",
+      "mentions": 1
     },
     {
       "keyword": "public github account",
-      "mentions": 48
+      "mentions": 49
     },
     {
-      "keyword": "sensitive data belonging",
-      "mentions": 4
+      "keyword": "time restore feature",
+      "mentions": 5
     },
     {
-      "keyword": "icarus leaks data",
-      "mentions": 4
+      "keyword": "post quantum cryptography",
+      "mentions": 7
     },
     {
-      "keyword": "exfiltrate sensitive data",
-      "mentions": 17
+      "keyword": "users must layer",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1926
+      "mentions": 1927
     },
     {
       "keyword": "popular skill marketplace",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 71
+    },
+    {
+      "keyword": "dozen klue customers",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
+      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group. \"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of",
+      "published": "Wed, 24 Jun 2026 14:25:12 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote",
+      "published": "Wed, 24 Jun 2026 12:20:38 +0530",
+      "value_score": 52,
+      "value_signals": [
+        "CVE mentioned",
+        "PoC available",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
@@ -124,23 +147,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
-      "link": "https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html",
-      "summary": "Direct messages sent via WhatsApp are being used to distribute malicious Visual Basic Script (VBScript) files that lead to the installation of legitimate Remote Monitoring and Management (RMM) software. Per findings from Kaspersky, the active campaign is targeting users of WhatsApp Desktop and WhatsApp Web across Malaysia, Brazil, India, Mexico, Singapore, the U.K., Spain, Taiwan, Australia,",
-      "published": "Tue, 23 Jun 2026 11:08:40 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws",
-      "link": "https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html",
-      "summary": "OpenAI on Monday said it's releasing an improved version of its GPT‑5.5‑Cyber model to trusted defenders as part of the Daybreak initiative the artificial intelligence (AI) company announced last month. Calling GPT‑5.5‑Cyber its \"strongest model yet for finding and helping patch software vulnerabilities,\" OpenAI said the model can \"sustain deeper analysis across large codebases\" to",
-      "published": "Tue, 23 Jun 2026 09:26:58 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
+      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
+      "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
+      "published": "Wed, 24 Jun 2026 06:41:51 -0400",
+      "value_score": 52,
       "value_signals": [
-        "Patch/update ×2"
+        "Ransomware",
+        "Backdoor ×2"
       ]
     },
     {
@@ -218,17 +233,6 @@
       "value_signals": [
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LastPass confirms data breach in Klue supply chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
-      "summary": "LastPass announced that hackers accessed customer data from its Salesforce environment after stealing the company's OAuth tokens in the Klue supply chain attack earlier this month. [...]",
-      "published": "Tue, 23 Jun 2026 09:58:25 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {
@@ -392,6 +396,26 @@
     },
     {
       "source": "Security Week",
+      "title": "BeyondTrust, LastPass Impacted by Klue-Salesforce Incident",
+      "link": "https://www.securityweek.com/beyondtrust-lastpass-impacted-by-klue-salesforce-incident/",
+      "summary": "Over a dozen Klue customers have confirmed that hackers stole data from their Salesforce instances. The post BeyondTrust, LastPass Impacted by Klue-Salesforce Incident appeared first on SecurityWeek .",
+      "published": "Wed, 24 Jun 2026 10:03:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Webinar Today: Modern Exposure Validation in the AI Era",
+      "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
+      "summary": "The exploit timeline collapsed. Make sure your validation didn't. The post Webinar Today: Modern Exposure Validation in the AI Era appeared first on SecurityWeek .",
+      "published": "Wed, 24 Jun 2026 08:04:37 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
       "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
       "summary": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June. The post Hackers Exploiting Cisco Unified CM Vulnerability appeared first on SecurityWeek .",
@@ -449,26 +473,6 @@
       "published": "Tue, 23 Jun 2026 12:50:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Algerian Man Extradited to US for Running Cybercrime Marketplaces",
-      "link": "https://www.securityweek.com/algerian-man-extradited-to-us-for-running-cybercrime-marketplaces/",
-      "summary": "26-year-old Abdellah Belmili faces up to 30 years in prison for allegedly operating the marketplaces Market0Day and Spoxy. The post Algerian Man Extradited to US for Running Cybercrime Marketplaces appeared first on SecurityWeek .",
-      "published": "Tue, 23 Jun 2026 12:06:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances",
-      "link": "https://www.securityweek.com/ffmpeg-pixelsmash-flaw-allows-rce-on-video-players-media-servers-nas-appliances/",
-      "summary": "Attackers can send crafted media files to execute code in any application that uses FFmpeg’s libavcodec library. The post FFmpeg PixelSmash Flaw Allows RCE on Video Players, Media Servers, NAS Appliances appeared first on SecurityWeek .",
-      "published": "Tue, 23 Jun 2026 11:48:06 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "RCE ×2"
-      ]
     },
     {
       "source": "Threatpost",

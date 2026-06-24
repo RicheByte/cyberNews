@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-24 17:49 UTC  
+> **Last Updated:** 2026-06-24 19:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exclusive meet aivex** • **time restore feature** • **critical ubiquiti vulnerabilities** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **high impact systems** • **fast spreading internet** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **machine speed context** • **faces criminal h** • **criminal charges stemming** • **provide initial access** • **post quantum cryptography**
+**exclusive meet aivex** • **time restore feature** • **critical ubiquiti vulnerabilities** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **fast spreading internet** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **threat actors engineered** • **root threat actors** • **machine speed context** • **faces criminal h** • **criminal charges stemming** • **provide initial access**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
 - [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
 - [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
 - [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
@@ -23,7 +24,6 @@
 - [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
 - [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
 - [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html)
-- [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html)
 
 ### BleepingComputer
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 17:49",
+  "last_updated": "2026-06-24 19:39",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -13,60 +13,75 @@
     "icarus leaks data",
     "exfiltrate sensitive data",
     "twitter whistleblower complaint",
-    "high impact systems",
     "fast spreading internet",
     "dire critical rating",
     "critical exploitable pattern",
     "cybercrime group known",
+    "threat actors engineered",
+    "root threat actors",
     "machine speed context",
     "faces criminal h",
     "criminal charges stemming",
-    "provide initial access",
-    "post quantum cryptography"
+    "provide initial access"
   ],
   "trending": [
     {
       "keyword": "exclusive meet aivex",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "time restore feature",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "critical ubiquiti vulnerabilities",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "macos weaknesses chained",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "public github account",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "sensitive data belonging",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "exfiltrate sensitive data",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1929
+      "mentions": 1930
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation of a critical security flaw impacting Lantronix EDS5000 Series devices, urging Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by June 26, 2026. The vulnerability in question is CVE-2025-67038 (CVSS score: 9.8), a code injection flaw that could result in the execution",
+      "published": "Wed, 24 Jun 2026 22:49:18 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered",
@@ -140,15 +155,6 @@
       "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
       "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else. The point was to show",
       "published": "Tue, 23 Jun 2026 20:46:43 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration",
-      "link": "https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html",
-      "summary": "President Trump signed an executive order on June 22 setting hard deadlines for federal agencies to move high-value assets and high-impact systems to post-quantum cryptography. Key establishment must move by December 31, 2030; digital signatures by December 31, 2031. EO 14409 leaves national security systems on a separate track. The deadlines matter because of a threat that does not",
-      "published": "Tue, 23 Jun 2026 20:46:40 +0530",
       "value_score": 10,
       "value_signals": []
     },

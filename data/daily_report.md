@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-24 19:39 UTC  
+> **Last Updated:** 2026-06-24 21:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exclusive meet aivex** • **time restore feature** • **critical ubiquiti vulnerabilities** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **sensitive data belonging** • **icarus leaks data** • **exfiltrate sensitive data** • **twitter whistleblower complaint** • **fast spreading internet** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **threat actors engineered** • **root threat actors** • **machine speed context** • **faces criminal h** • **criminal charges stemming** • **provide initial access**
+**exclusive meet aivex** • **python based backdoor** • **critical ubiquiti vulnerabilities** • **icarus leaks data** • **time restore feature** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **twitter whistleblower complaint** • **fast spreading internet** • **criminal charges stemming** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **threat actors engineered** • **root threat actors** • **machine speed context** • **provide initial access** • **windows 11 24h2** • **user's email address**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Malicious Edge extension abuses Native Messaging as bridge to malware](https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/)
 - [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
 - [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
 - [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
@@ -34,7 +35,6 @@
 - [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
 - [Tata Electronics confirms cyberattack as hackers leak data](https://www.bleepingcomputer.com/news/security/tata-electronics-confirms-cyberattack-as-hackers-leak-data/)
 - [Windows 11 KB5095093 update rolls out new Point-in-Time restore feature](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5095093-update-rolls-out-new-point-in-time-restore-feature/)
-- [Healthtech firm Xolis suffers data breach impacting 1.4 million people](https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [2026 FIFA World Cup Faces Surge in Cyber Threats](https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats)
+- [Do CISOs Need a Code of Ethics?](https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics)
 - [More Malicious OpenClaw Skills Threaten AI Supply Chain](https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain)
 - [Apple's MacOS Gap Lets Users Disable Security Tools](https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools)
 - [Scope of Salesforce Attacks Expands as Icarus Leaks Data](https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data)
 - ['Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows](https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows)
 - [SocGholish Takedown Highlights Malicious TDS Threats](https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats)
 - [FortiBleed Attackers Turn Firewalls Into Credential Stealers as Heists Persist](https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers)
-- [DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories](https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories)
-- [Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign](https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign)
 
 ### Security Week
 

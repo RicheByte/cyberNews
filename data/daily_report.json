@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-24 19:39",
+  "last_updated": "2026-06-24 21:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "exclusive meet aivex",
-    "time restore feature",
+    "python based backdoor",
     "critical ubiquiti vulnerabilities",
+    "icarus leaks data",
+    "time restore feature",
     "macos weaknesses chained",
     "resetting account passwords",
     "public github account",
-    "sensitive data belonging",
-    "icarus leaks data",
-    "exfiltrate sensitive data",
     "twitter whistleblower complaint",
     "fast spreading internet",
+    "criminal charges stemming",
     "dire critical rating",
     "critical exploitable pattern",
     "cybercrime group known",
     "threat actors engineered",
     "root threat actors",
     "machine speed context",
-    "faces criminal h",
-    "criminal charges stemming",
-    "provide initial access"
+    "provide initial access",
+    "windows 11 24h2",
+    "user's email address"
   ],
   "trending": [
     {
       "keyword": "exclusive meet aivex",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "time restore feature",
-      "mentions": 8
+      "keyword": "python based backdoor",
+      "mentions": 1
     },
     {
       "keyword": "critical ubiquiti vulnerabilities",
-      "mentions": 3
-    },
-    {
-      "keyword": "macos weaknesses chained",
-      "mentions": 3
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 64
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 52
-    },
-    {
-      "keyword": "sensitive data belonging",
-      "mentions": 8
+      "mentions": 4
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "exfiltrate sensitive data",
-      "mentions": 21
+      "keyword": "time restore feature",
+      "mentions": 9
+    },
+    {
+      "keyword": "macos weaknesses chained",
+      "mentions": 4
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 65
+    },
+    {
+      "keyword": "public github account",
+      "mentions": 53
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1930
+      "mentions": 1931
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 75
     }
   ],
   "articles": [
@@ -160,6 +160,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious Edge extension abuses Native Messaging as bridge to malware",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/",
+      "summary": "A malicious Microsoft Edge extension dubbed 'Edgecution' has been used in a ransomware attack to escape the browser sandbox and deploy a Python-based backdoor. [...]",
+      "published": "Wed, 24 Jun 2026 16:58:22 -0400",
+      "value_score": 40,
+      "value_signals": [
+        "Ransomware",
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA warns of max severity Ubiquiti flaws exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of hackers actively exploiting flaws in Ubiquity UniFi OS and Lantronix serial-to-ethernet servers. [...]",
@@ -235,18 +247,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Healthtech firm Xolis suffers data breach impacting 1.4 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-xolis-suffers-data-breach-impacting-14-million-people/",
-      "summary": "Healthcare technology company Xsolis says that sensitive data belonging to nearly 1.4 million individuals was compromised in a phishing attack that gave attackers access to its network. [...]",
-      "published": "Tue, 23 Jun 2026 15:59:12 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Breach/leak",
-        "Phishing"
       ]
     },
     {
@@ -336,6 +336,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "2026 FIFA World Cup Faces Surge in Cyber Threats",
+      "link": "https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats",
+      "summary": "Persistent cybercrime, social engineering, and infrastructure threats continue to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.",
+      "published": "Wed, 24 Jun 2026 20:29:08 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Do CISOs Need a Code of Ethics?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics",
+      "summary": "Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks its time for a CISO code of ethics to ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even national, security.",
+      "published": "Wed, 24 Jun 2026 19:10:17 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "More Malicious OpenClaw Skills Threaten AI Supply Chain",
       "link": "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
       "summary": "OpenClaw removed five packages from ClawHub, its skills marketplace, that bypassed security checks even though they included infostealers and other threats.",
@@ -387,26 +405,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/fortibleed-attackers-firewalls-credentials-stealers",
       "summary": "The threat actors engineered a Golang-based sniffer to target 430,000 FortiGate firewalls and identify 110 million credentials in the ongoing global campaign.",
       "published": "Tue, 23 Jun 2026 12:34:54 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DifyTap Bugs Let Attackers 'Wiretap' AI Chat Histories",
-      "link": "https://www.darkreading.com/application-security/difytap-bugs-wiretap-ai-chat-histories",
-      "summary": "Four vulnerabilities allow attackers to exploit Dify, a platform for AI application building and management, to silently access and exfiltrate sensitive data.",
-      "published": "Mon, 22 Jun 2026 21:14:11 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
-      "summary": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
-      "published": "Mon, 22 Jun 2026 16:10:10 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-24 10:44 UTC |
+| 🕐 Last Updated | 2026-06-24 14:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`dragos unveils ai` • `beyondtrust lastpass impacted` • `public github account` • `time restore feature` • `post quantum cryptography` • `users must layer` • `twitter whistleblower complaint` • `popular skill marketplace` • `fast spreading internet` • `dozen klue customers`
+`time restore feature` • `beyondtrust lastpass impacted` • `macos weaknesses chained` • `post quantum cryptography` • `critical ubiquiti vulnerabilities` • `public github account` • `workflow's full privileges` • `users must layer` • `twitter whistleblower complaint` • `popular skill marketplace`
 
 ## 📄 Reports
 

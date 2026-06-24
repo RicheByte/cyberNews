@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1927,
+      "count": 1928,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3827,7 +3827,7 @@
       ]
     },
     "exfiltrate sensitive data": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -17470,7 +17470,7 @@
       ]
     },
     "public github account": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18232,7 +18232,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18579,7 +18579,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20413,14 +20413,14 @@
       ]
     },
     "high impact systems": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "official github action": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20434,7 +20434,7 @@
       ]
     },
     "workflow's full privileges": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20454,28 +20454,28 @@
       ]
     },
     "post quantum cryptography": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "popular skill marketplace": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "cybercrime group known": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "users must layer": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20488,21 +20488,21 @@
       ]
     },
     "time restore feature": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "sensitive data belonging": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
       ]
     },
     "icarus leaks data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-23",
         "2026-06-24"
@@ -20528,18 +20528,30 @@
       ]
     },
     "beyondtrust lastpass impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-24"
       ]
     },
     "dozen klue customers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-24"
       ]
     },
     "ongoing global campaign": {
+      "count": 2,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "macos weaknesses chained": {
+      "count": 1,
+      "dates": [
+        "2026-06-24"
+      ]
+    },
+    "critical ubiquiti vulnerabilities": {
       "count": 1,
       "dates": [
         "2026-06-24"
@@ -20547,17 +20559,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-09 23:14",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "remote code execution",
-        "twitter whistleblower complaint",
-        "openclaw email agent",
-        "normal system usage"
-      ]
-    },
     {
       "timestamp": "2026-06-10 02:53",
       "articles": 56,
@@ -21645,6 +21646,17 @@
         "public github account",
         "time restore feature",
         "post quantum cryptography"
+      ]
+    },
+    {
+      "timestamp": "2026-06-24 14:17",
+      "articles": 48,
+      "top_keywords": [
+        "time restore feature",
+        "beyondtrust lastpass impacted",
+        "macos weaknesses chained",
+        "post quantum cryptography",
+        "critical ubiquiti vulnerabilities"
       ]
     }
   ]

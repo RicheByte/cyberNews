@@ -1,14 +1,17 @@
 {
-  "last_updated": "2026-06-25 18:05",
+  "last_updated": "2026-06-25 21:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "law enforcement efforts",
     "cybercrime group known",
     "execute arbitrary commands",
+    "asian scam centers",
+    "google owned mandiant",
     "code injection flaw",
     "service platform continues",
     "pro iranian images",
-    "icarus leaks data",
+    "providing sensitive data",
     "twitter whistleblower complaint",
     "resetting account passwords",
     "public github account",
@@ -17,53 +20,50 @@
     "dire critical rating",
     "criminal charges stemming",
     "10 million installs",
-    "hacking draftkings accounts",
     "google play giving",
-    "google owned mandiant",
     "improved data theft",
-    "stark industries solutions",
-    "root level access"
+    "targeted 44 domains"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 17
-    },
-    {
-      "keyword": "execute arbitrary commands",
-      "mentions": 24
-    },
-    {
-      "keyword": "code injection flaw",
-      "mentions": 3
-    },
-    {
-      "keyword": "service platform continues",
+      "keyword": "law enforcement efforts",
       "mentions": 1
     },
     {
-      "keyword": "pro iranian images",
-      "mentions": 19
+      "keyword": "cybercrime group known",
+      "mentions": 18
     },
     {
-      "keyword": "icarus leaks data",
-      "mentions": 15
+      "keyword": "execute arbitrary commands",
+      "mentions": 25
+    },
+    {
+      "keyword": "asian scam centers",
+      "mentions": 1
+    },
+    {
+      "keyword": "google owned mandiant",
+      "mentions": 2
+    },
+    {
+      "keyword": "code injection flaw",
+      "mentions": 4
+    },
+    {
+      "keyword": "service platform continues",
+      "mentions": 2
+    },
+    {
+      "keyword": "pro iranian images",
+      "mentions": 20
+    },
+    {
+      "keyword": "providing sensitive data",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1937
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 71
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 59
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 81
+      "mentions": 1938
     }
   ],
   "articles": [
@@ -159,6 +159,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+      "published": "Thu, 25 Jun 2026 15:45:48 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
+      "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]",
+      "published": "Thu, 25 Jun 2026 14:29:20 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
       "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
       "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
@@ -212,28 +232,6 @@
       "published": "Wed, 24 Jun 2026 19:46:17 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
-      "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
-      "published": "Wed, 24 Jun 2026 17:55:43 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access",
-      "link": "https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/",
-      "summary": "New details have been revealed on how hackers exploited a Cisco Catalyst SD-WAN vulnerability tracked as CVE-2026-20245 in zero-day attacks to create rogue root accounts on targeted devices. [...]",
-      "published": "Wed, 24 Jun 2026 17:29:10 -0400",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
+      "summary": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
+      "published": "Thu, 25 Jun 2026 20:34:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers",
+      "link": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
+      "summary": "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
+      "published": "Thu, 25 Jun 2026 19:07:41 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Europe Evolves Into Ransomware's Favorite Region",
       "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
       "summary": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
@@ -377,24 +393,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Scope of Salesforce Attacks Expands as Icarus Leaks Data",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data",
-      "summary": "More victims have emerged after attackers breached application vendor Klue and used its OAuth tokens to steal customers' Salesforce data.",
-      "published": "Tue, 23 Jun 2026 20:44:09 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows",
-      "link": "https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows",
-      "summary": "The CI/CD workflow weakness affects Microsoft's Azure Sentinel, Google's AI Agent Development Kit, Apache's Doris analytics database, Cloudflare's Workers SDK, and Python Software Foundation's Black.",
-      "published": "Tue, 23 Jun 2026 19:16:42 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

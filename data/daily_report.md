@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-25 18:05 UTC  
+> **Last Updated:** 2026-06-25 21:27 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **execute arbitrary commands** • **code injection flaw** • **service platform continues** • **pro iranian images** • **icarus leaks data** • **twitter whistleblower complaint** • **resetting account passwords** • **public github account** • **fast spreading internet** • **enough hell already** • **dire critical rating** • **criminal charges stemming** • **10 million installs** • **hacking draftkings accounts** • **google play giving** • **google owned mandiant** • **improved data theft** • **stark industries solutions** • **root level access**
+**law enforcement efforts** • **cybercrime group known** • **execute arbitrary commands** • **asian scam centers** • **google owned mandiant** • **code injection flaw** • **service platform continues** • **pro iranian images** • **providing sensitive data** • **twitter whistleblower complaint** • **resetting account passwords** • **public github account** • **fast spreading internet** • **enough hell already** • **dire critical rating** • **criminal charges stemming** • **10 million installs** • **google play giving** • **improved data theft** • **targeted 44 domains**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
+- [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
 - [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
 - [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
 - [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
 - [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
 - [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
 - [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
-- [DraftKings hacker 'Snoopy' sentenced to 18 months in prison](https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/)
-- [Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access](https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [EdTech Attackers Shift From Schools to Their Software Suppliers](https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers)
+- [Local Police Collusion Hampers Crackdown on Asian Scam Centers](https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers)
 - [Europe Evolves Into Ransomware's Favorite Region](https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region)
 - [Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure)
 - [2026 FIFA World Cup Faces Surge in Cyber Threats](https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats)
 - [Do CISOs Need a Code of Ethics?](https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics)
 - [More Malicious OpenClaw Skills Threaten AI Supply Chain](https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain)
 - [Apple's MacOS Gap Lets Users Disable Security Tools](https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools)
-- [Scope of Salesforce Attacks Expands as Icarus Leaks Data](https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data)
-- ['Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows](https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows)
 
 ### Security Week
 

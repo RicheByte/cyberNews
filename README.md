@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-25 18:05 UTC |
+| 🕐 Last Updated | 2026-06-25 21:27 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `execute arbitrary commands` • `code injection flaw` • `service platform continues` • `pro iranian images` • `icarus leaks data` • `twitter whistleblower complaint` • `resetting account passwords` • `public github account` • `fast spreading internet`
+`law enforcement efforts` • `cybercrime group known` • `execute arbitrary commands` • `asian scam centers` • `google owned mandiant` • `code injection flaw` • `service platform continues` • `pro iranian images` • `providing sensitive data` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-06-25 10:37",
+  "last_updated": "2026-06-25 14:15",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "exclusive meet aivex",
-    "python based backdoor",
-    "root threat actors",
+    "cal water finds",
     "cybercrime group known",
+    "python based backdoor",
     "icarus leaks data",
-    "macos weaknesses chained",
+    "cve 2026 20245",
+    "twitter whistleblower complaint",
     "resetting account passwords",
     "public github account",
-    "twitter whistleblower complaint",
-    "gain admin privileges",
+    "pro iranian images",
     "fast spreading internet",
+    "enough hell already",
     "criminal charges stemming",
     "authenticated local attacker",
+    "hacking draftkings accounts",
     "google play giving",
     "dire critical rating",
     "critical exploitable pattern",
-    "hacking draftkings accounts",
-    "26 entities linked",
+    "code injection flaw",
     "ubiquity unifi os",
     "stark industries solutions"
   ],
   "trending": [
     {
-      "keyword": "exclusive meet aivex",
-      "mentions": 7
-    },
-    {
-      "keyword": "python based backdoor",
-      "mentions": 5
-    },
-    {
-      "keyword": "root threat actors",
-      "mentions": 6
+      "keyword": "cal water finds",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 15
+      "mentions": 16
+    },
+    {
+      "keyword": "python based backdoor",
+      "mentions": 6
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 13
+      "mentions": 14
     },
     {
-      "keyword": "macos weaknesses chained",
-      "mentions": 8
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 69
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 57
+      "keyword": "cve 2026 20245",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1935
+      "mentions": 1936
     },
     {
-      "keyword": "gain admin privileges",
-      "mentions": 2
+      "keyword": "resetting account passwords",
+      "mentions": 70
+    },
+    {
+      "keyword": "public github account",
+      "mentions": 58
+    },
+    {
+      "keyword": "pro iranian images",
+      "mentions": 18
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 80
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
+      "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already. The worst part is how cheap some of it feels. Not elite. Not cinematic.",
+      "published": "Thu, 25 Jun 2026 17:54:43 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
+      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
+      "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context? Answering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)",
+      "published": "Thu, 25 Jun 2026 16:47:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
+      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
+      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is",
+      "published": "Thu, 25 Jun 2026 14:53:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
@@ -132,38 +161,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Dawn of the Apex Agentic Adversary",
-      "link": "https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html",
-      "summary": "We are standing at the end of an era we never thought to mourn: the era of human-speed threats. For years, cybersecurity moved to a rhythm organizations could follow. A researcher found a bug, a CVE was cataloged, a vendor navigated a patch cycle, and weeks or even months later, a fix was deployed. In this era, dwell time was measured in days, sometimes weeks. We are now approaching an",
-      "published": "Wed, 24 Jun 2026 17:00:00 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
-      "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group. \"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of",
-      "published": "Wed, 24 Jun 2026 14:25:12 +0530",
+      "source": "BleepingComputer",
+      "title": "The Four Elevations of Effective Fraud Prevention",
+      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
+      "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
+      "published": "Thu, 25 Jun 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
-      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
-      "summary": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote",
-      "published": "Wed, 24 Jun 2026 12:20:38 +0530",
-      "value_score": 52,
-      "value_signals": [
-        "CVE mentioned",
-        "PoC available",
-        "High severity",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
+      "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
+      "published": "Thu, 25 Jun 2026 08:12:20 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -229,27 +242,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-      "summary": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
-      "published": "Wed, 24 Jun 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "summary": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-      "published": "Wed, 24 Jun 2026 06:41:51 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Backdoor ×2"
       ]
     },
     {
@@ -379,7 +371,7 @@
       "source": "Dark Reading",
       "title": "More Malicious OpenClaw Skills Threaten AI Supply Chain",
       "link": "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
-      "summary": "OpenClaw removed five packages from ClawHub, its skills marketplace, that bypassed security checks even though they included infostealers and other threats.",
+      "summary": "OpenClaw removed five packages from its ClawHub skills marketplace that bypassed security checks even though they included infostealers and other threats.",
       "published": "Wed, 24 Jun 2026 16:56:49 GMT",
       "value_score": 10,
       "value_signals": []
@@ -410,6 +402,45 @@
       "link": "https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows",
       "summary": "The CI/CD workflow weakness affects Microsoft's Azure Sentinel, Google's AI Agent Development Kit, Apache's Doris analytics database, Cloudflare's Workers SDK, and Python Software Foundation's Black.",
       "published": "Tue, 23 Jun 2026 19:16:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Runlayer Raises $30 Million in Series A Funding",
+      "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
+      "summary": "The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises. The post Runlayer Raises $30 Million in Series A Funding appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 12:39:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply",
+      "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
+      "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 12:07:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
+      "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
+      "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 11:23:40 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "GitLab Patches Code Execution, Information Disclosure Vulnerabilities",
+      "link": "https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/",
+      "summary": "The latest GitLab CE/EE updates address 13 vulnerabilities, including three high-severity defects. The post GitLab Patches Code Execution, Information Disclosure Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 11:10:04 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -453,44 +484,6 @@
       "value_signals": [
         "CVE mentioned",
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
-      "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-      "summary": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface – Understanding AI Agent Traps appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 17:37:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware",
-      "link": "https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/",
-      "summary": "Hundreds of C&C servers were disrupted in an operation involving law enforcement and several cybersecurity companies. The post Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 15:02:07 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk",
-      "link": "https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/",
-      "summary": "The new framework seeks to help security teams identify which software supply chain vulnerabilities pose the greatest operational, safety, and business risks in AI-driven environments. The post Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 14:30:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "macOS Weaknesses Chained to Silently Disable Endpoint Security Agents",
-      "link": "https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/",
-      "summary": "A standard non-admin account is sufficient to conduct an attack that exploits legitimate OS behavior rather than software vulnerabilities. The post macOS Weaknesses Chained to Silently Disable Endpoint Security Agents appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 13:50:53 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

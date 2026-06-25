@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-25 10:37 UTC  
+> **Last Updated:** 2026-06-25 14:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exclusive meet aivex** • **python based backdoor** • **root threat actors** • **cybercrime group known** • **icarus leaks data** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **twitter whistleblower complaint** • **gain admin privileges** • **fast spreading internet** • **criminal charges stemming** • **authenticated local attacker** • **google play giving** • **dire critical rating** • **critical exploitable pattern** • **hacking draftkings accounts** • **26 entities linked** • **ubiquity unifi os** • **stark industries solutions**
+**cal water finds** • **cybercrime group known** • **python based backdoor** • **icarus leaks data** • **cve 2026 20245** • **twitter whistleblower complaint** • **resetting account passwords** • **public github account** • **pro iranian images** • **fast spreading internet** • **enough hell already** • **criminal charges stemming** • **authenticated local attacker** • **hacking draftkings accounts** • **google play giving** • **dire critical rating** • **critical exploitable pattern** • **code injection flaw** • **ubiquity unifi os** • **stark industries solutions**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
+- [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
+- [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
 - [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
 - [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
 - [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
 - [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
 - [Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks](https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html)
-- [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
-- [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
-- [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
 
 ### BleepingComputer
 
+- [The Four Elevations of Effective Fraud Prevention](https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/)
+- [Webinar: Why account takeovers remain one of the hardest threats to stop](https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/)
 - [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
 - [DraftKings hacker 'Snoopy' sentenced to 18 months in prison](https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/)
 - [Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access](https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/)
 - [Malicious Edge extension abuses Native Messaging as bridge to malware](https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/)
 - [CISA warns of max severity Ubiquiti flaws exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-max-severity-ubiquiti-flaws-exploited-in-attacks/)
 - [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
-- [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
-- [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
+- [Cal Water Finds No Evidence of OT Activity After Hackers Claimed They Could Disrupt Water Supply](https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/)
+- [Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning](https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/)
+- [GitLab Patches Code Execution, Information Disclosure Vulnerabilities](https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/)
 - [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
 - [NIST Opens Updated IoT Security Guidance to Public Review](https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/)
 - [Chrome 149 Update Resolves 18 Severe Vulnerabilities](https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/)
 - [Cisco SD-WAN Zero-Day Exploited Months Before Patching](https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/)
-- [When Information Becomes the Attack Surface – Understanding AI Agent Traps](https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/)
-- [Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware](https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/)
-- [Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk](https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/)
-- [macOS Weaknesses Chained to Silently Disable Endpoint Security Agents](https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/)
 
 ### Threatpost
 

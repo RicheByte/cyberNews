@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1935,
+      "count": 1936,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3693,7 +3693,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -15706,9 +15706,10 @@
       ]
     },
     "code injection flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-05-05"
+        "2026-05-05",
+        "2026-06-25"
       ]
     },
     "security product's controls": {
@@ -17473,7 +17474,7 @@
       ]
     },
     "public github account": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17850,7 +17851,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18237,7 +18238,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18269,7 +18270,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18277,7 +18278,8 @@
         "2026-06-10",
         "2026-06-17",
         "2026-06-22",
-        "2026-06-23"
+        "2026-06-23",
+        "2026-06-25"
       ]
     },
     "openai codex attracting": {
@@ -18585,7 +18587,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18813,10 +18815,11 @@
       ]
     },
     "cve 2026 20245": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-05",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-06-25"
       ]
     },
     "cve 2026 20230": {
@@ -20476,7 +20479,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20511,7 +20514,7 @@
       ]
     },
     "icarus leaks data": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20519,7 +20522,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20579,7 +20582,7 @@
       ]
     },
     "critical exploitable pattern": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-24",
         "2026-06-25"
@@ -20613,14 +20616,14 @@
       ]
     },
     "python based backdoor": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-24",
         "2026-06-25"
       ]
     },
     "hacking draftkings accounts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-24",
         "2026-06-25"
@@ -20634,20 +20637,20 @@
       ]
     },
     "ubiquity unifi os": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-24",
         "2026-06-25"
       ]
     },
     "google play giving": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-25"
       ]
     },
     "authenticated local attacker": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-25"
       ]
@@ -20663,20 +20666,21 @@
       "dates": [
         "2026-06-25"
       ]
+    },
+    "cal water finds": {
+      "count": 1,
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    "enough hell already": {
+      "count": 1,
+      "dates": [
+        "2026-06-25"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-11 08:39",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "ai threat era",
-        "report looks stable",
-        "covert network associated",
-        "stronger identity verification"
-      ]
-    },
     {
       "timestamp": "2026-06-11 13:54",
       "articles": 56,
@@ -21764,6 +21768,17 @@
         "root threat actors",
         "cybercrime group known",
         "icarus leaks data"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25 14:15",
+      "articles": 48,
+      "top_keywords": [
+        "cal water finds",
+        "cybercrime group known",
+        "python based backdoor",
+        "icarus leaks data",
+        "cve 2026 20245"
       ]
     }
   ]

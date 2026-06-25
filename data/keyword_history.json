@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1936,
+      "count": 1937,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3693,7 +3693,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 217,
+      "count": 218,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -6522,7 +6522,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6530,7 +6530,8 @@
         "2026-03-31",
         "2026-04-16",
         "2026-04-17",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-06-25"
       ]
     },
     "arbitrary system commands": {
@@ -15706,7 +15707,7 @@
       ]
     },
     "code injection flaw": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-05-05",
         "2026-06-25"
@@ -17474,7 +17475,7 @@
       ]
     },
     "public github account": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17851,7 +17852,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18238,7 +18239,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18270,7 +18271,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18587,7 +18588,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20479,7 +20480,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20514,7 +20515,7 @@
       ]
     },
     "icarus leaks data": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20522,7 +20523,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20623,14 +20624,14 @@
       ]
     },
     "hacking draftkings accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-24",
         "2026-06-25"
       ]
     },
     "root level access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-24",
         "2026-06-25"
@@ -20644,7 +20645,7 @@
       ]
     },
     "google play giving": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-25"
       ]
@@ -20674,6 +20675,30 @@
       ]
     },
     "enough hell already": {
+      "count": 2,
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    "service platform continues": {
+      "count": 1,
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    "10 million installs": {
+      "count": 1,
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    "google owned mandiant": {
+      "count": 1,
+      "dates": [
+        "2026-06-25"
+      ]
+    },
+    "improved data theft": {
       "count": 1,
       "dates": [
         "2026-06-25"
@@ -20681,17 +20706,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-11 13:54",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "supply chain attacks",
-        "13 websites purported",
-        "twitter whistleblower complaint",
-        "massive distributed denial"
-      ]
-    },
     {
       "timestamp": "2026-06-11 17:33",
       "articles": 48,
@@ -21779,6 +21793,17 @@
         "python based backdoor",
         "icarus leaks data",
         "cve 2026 20245"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25 18:05",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "execute arbitrary commands",
+        "code injection flaw",
+        "service platform continues",
+        "pro iranian images"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-24 23:00 UTC  
+> **Last Updated:** 2026-06-25 02:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exclusive meet aivex** • **python based backdoor** • **critical ubiquiti vulnerabilities** • **root threat actors** • **icarus leaks data** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **twitter whistleblower complaint** • **fast spreading internet** • **criminal charges stemming** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **provide initial access** • **machine speed context** • **hacking draftkings accounts** • **root level access** • **user's email address** • **ubiquity unifi os**
+**exclusive meet aivex** • **python based backdoor** • **critical ubiquiti vulnerabilities** • **root threat actors** • **icarus leaks data** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **twitter whistleblower complaint** • **google play giving** • **fast spreading internet** • **criminal charges stemming** • **hacking draftkings accounts** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **provide initial access** • **machine speed context** • **root level access** • **user's email address**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google releases new privacy controls for activity history, personalization](https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/)
 - [DraftKings hacker 'Snoopy' sentenced to 18 months in prison](https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/)
 - [Mandiant reveals how Cisco SD-WAN zero-day attacks gained root access](https://www.bleepingcomputer.com/news/security/mandiant-reveals-how-cisco-sd-wan-zero-day-attacks-gained-root-access/)
 - [Malicious Edge extension abuses Native Messaging as bridge to malware](https://www.bleepingcomputer.com/news/security/malicious-edge-extension-abuses-native-messaging-as-bridge-to-malware/)
@@ -34,7 +35,6 @@
 - [Amadey, StealC malware operations disrupted in Operation Endgame action](https://www.bleepingcomputer.com/news/security/amadey-stealc-malware-operations-disrupted-in-operation-endgame-action/)
 - [Securing the service desk: Why social engineering attacks keep succeeding](https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/)
 - [Stealthy Mistic backdoor linked to ransomware access broker KongTuke](https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/)
-- [Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks](https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/)
 
 ### Krebs on Security
 

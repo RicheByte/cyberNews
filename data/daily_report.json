@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 23:00",
+  "last_updated": "2026-06-25 02:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,58 +12,58 @@
     "resetting account passwords",
     "public github account",
     "twitter whistleblower complaint",
+    "google play giving",
     "fast spreading internet",
     "criminal charges stemming",
+    "hacking draftkings accounts",
     "dire critical rating",
     "critical exploitable pattern",
     "cybercrime group known",
     "provide initial access",
     "machine speed context",
-    "hacking draftkings accounts",
     "root level access",
-    "user's email address",
-    "ubiquity unifi os"
+    "user's email address"
   ],
   "trending": [
     {
       "keyword": "exclusive meet aivex",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "python based backdoor",
-      "mentions": 2
-    },
-    {
-      "keyword": "critical ubiquiti vulnerabilities",
-      "mentions": 5
-    },
-    {
-      "keyword": "root threat actors",
       "mentions": 3
     },
     {
+      "keyword": "critical ubiquiti vulnerabilities",
+      "mentions": 6
+    },
+    {
+      "keyword": "root threat actors",
+      "mentions": 4
+    },
+    {
       "keyword": "icarus leaks data",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "macos weaknesses chained",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "public github account",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1932
+      "mentions": 1933
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 76
+      "keyword": "google play giving",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -160,6 +160,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google releases new privacy controls for activity history, personalization",
+      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
+      "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
+      "published": "Wed, 24 Jun 2026 19:46:17 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DraftKings hacker 'Snoopy' sentenced to 18 months in prison",
       "link": "https://www.bleepingcomputer.com/news/security/draftkings-hacker-snoopy-sentenced-to-18-months-in-prison/",
       "summary": "A 21-year-old using the alias \"Snoopy\" was sentenced to 18 months in prison for his role in hacking DraftKings accounts in the November 2022 cyberattack. [...]",
@@ -234,19 +243,6 @@
       "value_signals": [
         "Ransomware",
         "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "summary": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
-      "published": "Tue, 23 Jun 2026 17:48:32 -0400",
-      "value_score": 60,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
-        "Exploit wording"
       ]
     },
     {

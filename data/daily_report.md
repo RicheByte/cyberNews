@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-25 07:37 UTC  
+> **Last Updated:** 2026-06-25 10:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**exclusive meet aivex** • **python based backdoor** • **root threat actors** • **critical ubiquiti vulnerabilities** • **icarus leaks data** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **twitter whistleblower complaint** • **fast spreading internet** • **criminal charges stemming** • **authenticated local attacker** • **hacking draftkings accounts** • **dire critical rating** • **critical exploitable pattern** • **cybercrime group known** • **machine speed context** • **google play giving** • **gain admin privileges** • **ubiquity unifi os**
+**exclusive meet aivex** • **python based backdoor** • **root threat actors** • **cybercrime group known** • **icarus leaks data** • **macos weaknesses chained** • **resetting account passwords** • **public github account** • **twitter whistleblower complaint** • **gain admin privileges** • **fast spreading internet** • **criminal charges stemming** • **authenticated local attacker** • **google play giving** • **dire critical rating** • **critical exploitable pattern** • **hacking draftkings accounts** • **26 entities linked** • **ubiquity unifi os** • **stark industries solutions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
 - [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
 - [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
 - [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
@@ -23,7 +24,6 @@
 - [Dawn of the Apex Agentic Adversary](https://thehackernews.com/2026/06/dawn-of-apex-agentic-adversary.html)
 - [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html)
 - [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html)
-- [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Europe Evolves Into Ransomware's Favorite Region](https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region)
 - [Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure](https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure)
 - [2026 FIFA World Cup Faces Surge in Cyber Threats](https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats)
 - [Do CISOs Need a Code of Ethics?](https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics)
@@ -56,18 +57,17 @@
 - [Apple's MacOS Gap Lets Users Disable Security Tools](https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools)
 - [Scope of Salesforce Attacks Expands as Icarus Leaks Data](https://www.darkreading.com/cyberattacks-data-breaches/scope-salesforce-attacks-expands-icarus-leaks-data)
 - ['Cordyceps': Mushrooming Malicious Pull Requests Threaten Developer Workflows](https://www.darkreading.com/application-security/cordyceps-malicious-pull-requests-developer-workflows)
-- [SocGholish Takedown Highlights Malicious TDS Threats](https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats)
 
 ### Security Week
 
+- [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
+- [NIST Opens Updated IoT Security Guidance to Public Review](https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/)
+- [Chrome 149 Update Resolves 18 Severe Vulnerabilities](https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/)
 - [Cisco SD-WAN Zero-Day Exploited Months Before Patching](https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/)
 - [When Information Becomes the Attack Surface – Understanding AI Agent Traps](https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/)
 - [Microsoft and Allies Smash Shared Infrastructure of Amadey and StealC Malware](https://www.securityweek.com/microsoft-and-allies-smash-shared-infrastructure-of-amadey-and-stealc-malware/)
 - [Exclusive: Meet AIVEX, a New Triage Model Built to Reduce Supply Chain Threat and Risk](https://www.securityweek.com/exclusive-meet-aivex-a-new-triage-model-built-to-reduce-supply-chain-threat-and-risk/)
 - [macOS Weaknesses Chained to Silently Disable Endpoint Security Agents](https://www.securityweek.com/macos-weaknesses-chained-to-silently-disable-endpoint-security-agents/)
-- [Third DraftKings Hacker Sentenced to 18 Months in Prison](https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/)
-- [Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs](https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/)
-- [Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed](https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/)
 
 ### Threatpost
 

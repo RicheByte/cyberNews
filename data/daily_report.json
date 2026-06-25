@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-06-25 07:37",
+  "last_updated": "2026-06-25 10:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "exclusive meet aivex",
     "python based backdoor",
     "root threat actors",
-    "critical ubiquiti vulnerabilities",
+    "cybercrime group known",
     "icarus leaks data",
     "macos weaknesses chained",
     "resetting account passwords",
     "public github account",
     "twitter whistleblower complaint",
+    "gain admin privileges",
     "fast spreading internet",
     "criminal charges stemming",
     "authenticated local attacker",
-    "hacking draftkings accounts",
+    "google play giving",
     "dire critical rating",
     "critical exploitable pattern",
-    "cybercrime group known",
-    "machine speed context",
-    "google play giving",
-    "gain admin privileges",
-    "ubiquity unifi os"
+    "hacking draftkings accounts",
+    "26 entities linked",
+    "ubiquity unifi os",
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "exclusive meet aivex",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "python based backdoor",
-      "mentions": 4
-    },
-    {
-      "keyword": "root threat actors",
       "mentions": 5
     },
     {
-      "keyword": "critical ubiquiti vulnerabilities",
-      "mentions": 7
+      "keyword": "root threat actors",
+      "mentions": 6
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 15
     },
     {
       "keyword": "icarus leaks data",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "macos weaknesses chained",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "public github account",
-      "mentions": 56
+      "mentions": 57
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1934
+      "mentions": 1935
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 78
+      "keyword": "gain admin privileges",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
+      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
+      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named",
+      "published": "Thu, 25 Jun 2026 14:24:37 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
@@ -153,15 +164,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation",
-      "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
-      "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke",
-      "published": "Tue, 23 Jun 2026 23:50:49 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -337,6 +339,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Europe Evolves Into Ransomware's Favorite Region",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
+      "summary": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
+      "published": "Thu, 25 Jun 2026 10:00:00 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
       "summary": "Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
@@ -401,13 +414,34 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "SocGholish Takedown Highlights Malicious TDS Threats",
-      "link": "https://www.darkreading.com/cyber-risk/socgholish-takedown-malicious-tds-threats",
-      "summary": "SocGholish uses traffic distribution systems (TDSs) to provide initial access into victims' networks for cybercrime groups such as the notorious Evil Corp.",
-      "published": "Tue, 23 Jun 2026 13:51:33 GMT",
+      "source": "Security Week",
+      "title": "25-Year-Old Vulnerability Patched in Curl",
+      "link": "https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/",
+      "summary": "The latest version of the open source data transfer tool resolves 18 medium and low-severity vulnerabilities. The post 25-Year-Old Vulnerability Patched in Curl appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 09:25:02 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "NIST Opens Updated IoT Security Guidance to Public Review",
+      "link": "https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/",
+      "summary": "The guidance aims to establish product cybersecurity requirements for IoT devices integrated into federal agencies’ networks. The post NIST Opens Updated IoT Security Guidance to Public Review appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 08:29:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
+      "summary": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution. The post Chrome 149 Update Resolves 18 Severe Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 07:56:03 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -459,35 +493,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Third DraftKings Hacker Sentenced to 18 Months in Prison",
-      "link": "https://www.securityweek.com/third-draftkings-hacker-sentenced-to-18-months-in-prison/",
-      "summary": "Nathan Austad has been ordered to pay roughly $1.8 million in forfeiture and restitution, and the sentence also includes 3 years of supervised release. The post Third DraftKings Hacker Sentenced to 18 Months in Prison appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 12:52:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/critical-ubiquiti-vulnerabilities-in-attackers-crosshairs/",
-      "summary": "The flaws allow remote, unauthenticated attackers to make system changes, access underlying accounts, and inject commands. The post Critical Ubiquiti Vulnerabilities in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 12:32:17 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed",
-      "link": "https://www.securityweek.com/agentic-ai-security-wrong-context-wrong-decisions-at-machine-speed/",
-      "summary": "Context is the central plank of AI in general, and agentic AI in particular. If an AI system doesn’t have the correct context, it cannot make the correct decisions. The post Agentic AI Security: Wrong Context, Wrong Decisions at Machine Speed appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

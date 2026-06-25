@@ -1,72 +1,86 @@
 {
-  "last_updated": "2026-06-25 02:45",
+  "last_updated": "2026-06-25 07:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "exclusive meet aivex",
     "python based backdoor",
-    "critical ubiquiti vulnerabilities",
     "root threat actors",
+    "critical ubiquiti vulnerabilities",
     "icarus leaks data",
     "macos weaknesses chained",
     "resetting account passwords",
     "public github account",
     "twitter whistleblower complaint",
-    "google play giving",
     "fast spreading internet",
     "criminal charges stemming",
+    "authenticated local attacker",
     "hacking draftkings accounts",
     "dire critical rating",
     "critical exploitable pattern",
     "cybercrime group known",
-    "provide initial access",
     "machine speed context",
-    "root level access",
-    "user's email address"
+    "google play giving",
+    "gain admin privileges",
+    "ubiquity unifi os"
   ],
   "trending": [
     {
       "keyword": "exclusive meet aivex",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "python based backdoor",
-      "mentions": 3
-    },
-    {
-      "keyword": "critical ubiquiti vulnerabilities",
-      "mentions": 6
-    },
-    {
-      "keyword": "root threat actors",
       "mentions": 4
     },
     {
+      "keyword": "root threat actors",
+      "mentions": 5
+    },
+    {
+      "keyword": "critical ubiquiti vulnerabilities",
+      "mentions": 7
+    },
+    {
       "keyword": "icarus leaks data",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "macos weaknesses chained",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "public github account",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1933
+      "mentions": 1934
     },
     {
-      "keyword": "google play giving",
-      "mentions": 1
+      "keyword": "fast spreading internet",
+      "mentions": 78
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
+      "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
+      "summary": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges",
+      "published": "Thu, 25 Jun 2026 11:16:54 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
@@ -146,15 +160,6 @@
       "link": "https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html",
       "summary": "A Russian-speaking initial access broker (IAB) driven by financial gain is assessed to be behind a large-scale credential-harvesting operation known as FortiBleed that has targeted over 430,000 FortiGate firewalls globally. The campaign, active since February 2026, involves collecting credential lists, searching for exposed services, brute-forcing accessible systems, and deploying bespoke",
       "published": "Tue, 23 Jun 2026 23:50:49 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents",
-      "link": "https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html",
-      "summary": "Security firm AIR built a fake AI agent skill, pushed it through a popular skill marketplace and an Instagram ad, and says it reached roughly 26,000 agents, including some on corporate accounts. Every skill security scanner the firm tested it against marked it safe. The payload was harmless by design: it collected the user's email address and did nothing else. The point was to show",
-      "published": "Tue, 23 Jun 2026 20:46:43 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -406,6 +411,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
+      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
+      "summary": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching. The post Cisco SD-WAN Zero-Day Exploited Months Before Patching appeared first on SecurityWeek .",
+      "published": "Thu, 25 Jun 2026 06:08:43 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
       "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
       "summary": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface – Understanding AI Agent Traps appeared first on SecurityWeek .",
@@ -470,17 +488,6 @@
       "published": "Wed, 24 Jun 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New ‘Mistic’ RAT Opens Door to Several Ransomware Families",
-      "link": "https://www.securityweek.com/new-mistic-rat-opens-door-to-several-ransomware-families/",
-      "summary": "Mistic is used by Woodgnat, an initial access broker working with Qilin, Interlock, Rhysida, Akira, 8Base, and Black Basta. The post New ‘Mistic’ RAT Opens Door to Several Ransomware Families appeared first on SecurityWeek .",
-      "published": "Wed, 24 Jun 2026 11:42:38 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Threatpost",

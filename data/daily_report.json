@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 21:27",
+  "last_updated": "2026-06-25 23:12",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "cybercrime group known",
     "execute arbitrary commands",
     "asian scam centers",
-    "google owned mandiant",
+    "infrastructure threats continue",
     "code injection flaw",
     "service platform continues",
     "pro iranian images",
     "providing sensitive data",
     "twitter whistleblower complaint",
-    "resetting account passwords",
-    "public github account",
+    "google owned mandiant",
     "fast spreading internet",
     "enough hell already",
     "dire critical rating",
-    "criminal charges stemming",
     "10 million installs",
-    "google play giving",
-    "improved data theft",
-    "targeted 44 domains"
+    "resetting account passwords",
+    "public github account",
+    "faces criminal h",
+    "criminal charges stemming",
+    "improved data theft"
   ],
   "trending": [
     {
       "keyword": "law enforcement efforts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "execute arbitrary commands",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "asian scam centers",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "google owned mandiant",
-      "mentions": 2
+      "keyword": "infrastructure threats continue",
+      "mentions": 1
     },
     {
       "keyword": "code injection flaw",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "service platform continues",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "providing sensitive data",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1938
+      "mentions": 1939
     }
   ],
   "articles": [
@@ -159,6 +159,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+      "published": "Thu, 25 Jun 2026 18:53:32 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "summary": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+      "published": "Thu, 25 Jun 2026 18:37:42 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Order-tracking app Shop abused to push callback phishing attacks",
       "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
       "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
@@ -212,24 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
       "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
       "published": "Thu, 25 Jun 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why account takeovers remain one of the hardest threats to stop",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-account-takeovers-remain-one-of-the-hardest-threats-to-stop/",
-      "summary": "Account takeover attacks continue to challenge security teams because attackers often operate through legitimate accounts and trusted services. This webinar explores how behavioral AI can help organizations identify compromised accounts faster and automate response workflows. [...]",
-      "published": "Thu, 25 Jun 2026 08:12:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google releases new privacy controls for activity history, personalization",
-      "link": "https://www.bleepingcomputer.com/news/google/google-releases-new-privacy-controls-for-activity-history-personalization/",
-      "summary": "Google is rolling out new privacy controls for Search services and Google Play, giving you more control over saved history and personalized recommendations. [...]",
-      "published": "Wed, 24 Jun 2026 19:46:17 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
+      "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
+      "published": "Thu, 25 Jun 2026 21:54:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses",
+      "link": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
+      "summary": "The FSB state-sponsored operation has gotten a lot better at loading its malware and hiding its servers.",
+      "published": "Thu, 25 Jun 2026 21:12:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
       "summary": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
@@ -373,26 +391,6 @@
       "published": "Wed, 24 Jun 2026 19:10:17 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "More Malicious OpenClaw Skills Threaten AI Supply Chain",
-      "link": "https://www.darkreading.com/cyber-risk/malicious-openclaw-skills-clawhub-threaten-ai-supply-chain",
-      "summary": "OpenClaw removed five packages from its ClawHub skills marketplace that bypassed security checks even though they included infostealers and other threats.",
-      "published": "Wed, 24 Jun 2026 16:56:49 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Apple's MacOS Gap Lets Users Disable Security Tools",
-      "link": "https://www.darkreading.com/application-security/apple-macos-security-gap-users-disable-security-tools",
-      "summary": "Attackers can exploit the issue to disable security and integrated browser tools without needing administrator privileges or kernel exploits.",
-      "published": "Wed, 24 Jun 2026 12:00:00 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

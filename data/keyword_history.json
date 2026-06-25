@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1938,
+      "count": 1939,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3693,7 +3693,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -6522,7 +6522,7 @@
       ]
     },
     "execute arbitrary commands": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -15707,7 +15707,7 @@
       ]
     },
     "code injection flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-05",
         "2026-06-25"
@@ -17475,7 +17475,7 @@
       ]
     },
     "public github account": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18239,7 +18239,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18271,7 +18271,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18588,7 +18588,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20480,7 +20480,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20523,7 +20523,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20597,9 +20597,10 @@
       ]
     },
     "faces criminal h": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-06-24"
+        "2026-06-24",
+        "2026-06-25"
       ]
     },
     "provide initial access": {
@@ -20675,49 +20676,49 @@
       ]
     },
     "enough hell already": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-25"
       ]
     },
     "service platform continues": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-25"
       ]
     },
     "10 million installs": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-25"
       ]
     },
     "google owned mandiant": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-25"
       ]
     },
     "improved data theft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-25"
       ]
     },
     "law enforcement efforts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-25"
       ]
     },
     "asian scam centers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-25"
       ]
     },
     "providing sensitive data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-25"
       ]
@@ -20727,20 +20728,15 @@
       "dates": [
         "2026-06-25"
       ]
+    },
+    "infrastructure threats continue": {
+      "count": 1,
+      "dates": [
+        "2026-06-25"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-11 20:13",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "13 websites purported",
-        "twitter whistleblower complaint",
-        "massive distributed denial",
-        "dire critical rating"
-      ]
-    },
     {
       "timestamp": "2026-06-11 23:17",
       "articles": 56,
@@ -21828,6 +21824,17 @@
         "execute arbitrary commands",
         "asian scam centers",
         "google owned mandiant"
+      ]
+    },
+    {
+      "timestamp": "2026-06-25 23:12",
+      "articles": 48,
+      "top_keywords": [
+        "law enforcement efforts",
+        "cybercrime group known",
+        "execute arbitrary commands",
+        "asian scam centers",
+        "infrastructure threats continue"
       ]
     }
   ]

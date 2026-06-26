@@ -1,72 +1,130 @@
 {
-  "last_updated": "2026-06-26 10:46",
+  "last_updated": "2026-06-26 14:12",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "asian scam centers",
-    "pro iranian images",
-    "10 million installs",
     "providing sensitive data",
     "twitter whistleblower complaint",
+    "october 2027 microsoft",
     "law enforcement efforts",
     "known threat actor",
-    "fast spreading internet",
-    "enough hell already",
     "resetting account passwords",
-    "public github account",
+    "real life identity",
     "past six months",
     "improved data theft",
     "service platform continues",
+    "national security risk",
+    "enterprise security organization",
+    "behavioral security analytics",
+    "identity infrastructure built",
     "ukrainian targets turla",
     "third party vendor",
     "targeted 44 domains",
-    "stark industries solutions",
-    "root level access"
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "asian scam centers",
-      "mentions": 5
-    },
-    {
-      "keyword": "pro iranian images",
-      "mentions": 24
-    },
-    {
-      "keyword": "10 million installs",
       "mentions": 6
     },
     {
       "keyword": "providing sensitive data",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1942
+      "mentions": 1943
     },
     {
-      "keyword": "law enforcement efforts",
-      "mentions": 5
-    },
-    {
-      "keyword": "known threat actor",
+      "keyword": "october 2027 microsoft",
       "mentions": 1
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 86
+      "keyword": "law enforcement efforts",
+      "mentions": 6
     },
     {
-      "keyword": "enough hell already",
+      "keyword": "known threat actor",
+      "mentions": 2
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 77
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 139
+    },
+    {
+      "keyword": "past six months",
       "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
+      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
+      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as",
+      "published": "Fri, 26 Jun 2026 18:30:41 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is",
+      "published": "Fri, 26 Jun 2026 18:01:56 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "RCE ×2",
+        "CISA/KEV ×5",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets",
+      "link": "https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html",
+      "summary": "DirtyClone is a new Linux kernel privilege escalation in the DirtyFrag family. JFrog Security Research published a working exploit walkthrough for the flaw on June 25, the first public demonstration for this variant. Tracked as CVE-2026-43503 (CVSS 8.8), it lets a local user corrupt file-backed memory through a cloned network packet and gain root. The patch landed in",
+      "published": "Fri, 26 Jun 2026 17:21:35 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Guardian Agents: The Next Layer of Identity Governance",
+      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
+      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks",
+      "published": "Fri, 26 Jun 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
+      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
+      "published": "Fri, 26 Jun 2026 16:35:45 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
@@ -99,53 +157,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability",
-      "link": "https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html",
-      "summary": "An analysis of a popular Google Chrome ad block extension for YouTube has uncovered the ability to execute arbitrary JavaScript code. According to Island, the extension, named Adblock for YouTube (ID: cmedhionkhpnakcndndgjdbohmhepckk), has more than 10 million installs and carries a Featured badge on the Chrome Web Store. The extension description states that it allows users to prevent web",
-      "published": "Thu, 25 Jun 2026 19:42:52 +0530",
+      "source": "BleepingComputer",
+      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
+      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
+      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
+      "published": "Fri, 26 Jun 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories",
-      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html",
-      "summary": "It’s dumb out there again. This week has the usual smell of prod on fire and nobody wanting to admit who left the door open — old creds still working, trusted apps doing sketchy crap, browser tricks jumping the fence, and “normal” workflows turning into phishing pipes because apparently email was not enough hell already. The worst part is how cheap some of it feels. Not elite. Not cinematic.",
-      "published": "Thu, 25 Jun 2026 17:54:43 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Surviving the Mythos Era: Richard Bejtlich on the Case for NDR",
-      "link": "https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html",
-      "summary": "Despite the abundance of telemetry at analysts’ disposal, many security operations teams struggle to answer a few basic questions during incident investigation: What happened? What evidence do we have? How do we know we’re seeing it all, in context? Answering these questions requires teams to go beyond alerts, the most common basis for initial triage. But investigations (and their outcomes)",
-      "published": "Thu, 25 Jun 2026 16:47:31 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis",
-      "link": "https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html",
-      "summary": "A previously undocumented Rust-based macOS implant and information stealer has been found to embed a prompt injection payload designed to trick a malware analyst's artificial intelligence (AI) tools and trick it into aborting or refusing an analysis of the artifact. The malware has been codenamed Gaslight owing to this deceptive behavior. It's been assessed with high confidence that the tool is",
-      "published": "Thu, 25 Jun 2026 14:53:03 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns",
-      "link": "https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html",
-      "summary": "A new, stealthy backdoor named Mistic has been deployed as part of suspected financially motivated attacks aimed at multiple organizations spanning insurance, education, IT, and professional services sectors since April 2026. According to Symantec and Carbon Black's Threat Hunter Team, the backdoor, also tracked as MLTBackdoor, is said to be linked to an initial access broker (IAB) named",
-      "published": "Thu, 25 Jun 2026 14:24:37 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×3"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -213,15 +231,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Four Elevations of Effective Fraud Prevention",
-      "link": "https://www.bleepingcomputer.com/news/security/the-four-elevations-of-effective-fraud-prevention/",
-      "summary": "Fraudsters don't attack just one transaction. They target accounts, platforms, and entire ecosystems. IPQS explains the four elevations of fraud prevention and why broader visibility improves fraud detection. [...]",
-      "published": "Thu, 25 Jun 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -310,6 +319,35 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
+      "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
+      "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
+      "published": "Fri, 26 Jun 2026 13:30:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
+      "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
+      "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
+      "published": "Fri, 26 Jun 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
+      "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
+      "summary": "The fintech company's engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
+      "published": "Thu, 25 Jun 2026 22:42:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
       "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
@@ -356,31 +394,24 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Hit Cisco SD-WAN Flaw 2 Months Before Disclosure",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-hit-cisco-sd-wan-flaw-2-months-before-disclosure",
-      "summary": "Researchers believe rogue peering was used to connect to the victim's SD-WAN devices to gain admin privileges and root-level access.",
-      "published": "Wed, 24 Jun 2026 21:16:41 GMT",
+      "source": "Security Week",
+      "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
+      "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
+      "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek .",
+      "published": "Fri, 26 Jun 2026 12:37:13 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "2026 FIFA World Cup Faces Surge in Cyber Threats",
-      "link": "https://www.darkreading.com/cybersecurity-operations/2026-fifa-world-cup-faces-surge-cyber-threats",
-      "summary": "Persistent cybercrime, social engineering, and infrastructure threats continue to plague the FIFA 2026 World Cup across the US, Canada, and Mexico.",
-      "published": "Wed, 24 Jun 2026 20:29:08 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Do CISOs Need a Code of Ethics?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ciso-code-of-ethics",
-      "summary": "Dark Reading Confidential Episode 19: Kickbacks, no-show jobs, \"dirty\" VCs, and shelf ware — industry expert Robert \"RSnake\" Hansen explains why he thinks it's time for a CISO code of ethics. It could ensure cybersecurity bosses aren't engaged in self-dealing that could risk enterprise, and even national, security.",
-      "published": "Wed, 24 Jun 2026 19:10:17 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
+      "link": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
+      "summary": "It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities. The post Linux Foundation Unveils New Open Source Security Project Akrites appeared first on SecurityWeek .",
+      "published": "Fri, 26 Jun 2026 11:28:20 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "Security Week",
@@ -445,27 +476,6 @@
       "published": "Thu, 25 Jun 2026 12:39:50 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack",
-      "link": "https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/",
-      "summary": "Mandiant has helped the California water utility investigate the cyberattack launched by Iranian hacker group Handala. The post Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack appeared first on SecurityWeek .",
-      "published": "Thu, 25 Jun 2026 12:07:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning",
-      "link": "https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/",
-      "summary": "The exploited flaw, CVE-2025-67038, is one of the vulnerabilities disclosed in April as part of the BRIDGE:BREAK research project. The post Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning appeared first on SecurityWeek .",
-      "published": "Thu, 25 Jun 2026 11:23:40 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

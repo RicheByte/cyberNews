@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-26 10:46 UTC |
+| 🕐 Last Updated | 2026-06-26 14:12 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `asian scam centers` • `pro iranian images` • `10 million installs` • `providing sensitive data` • `twitter whistleblower complaint` • `law enforcement efforts` • `known threat actor` • `fast spreading internet` • `enough hell already`
+`cybercrime group known` • `asian scam centers` • `providing sensitive data` • `twitter whistleblower complaint` • `october 2027 microsoft` • `law enforcement efforts` • `known threat actor` • `resetting account passwords` • `real life identity` • `past six months`
 
 ## 📄 Reports
 

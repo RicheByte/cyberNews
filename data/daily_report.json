@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-06-26 19:40",
+  "last_updated": "2026-06-26 21:14",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "cybercrime group known",
     "providing sensitive data",
     "estimated 3 million",
-    "ai won't wipe",
-    "ukrainian targets turla",
     "twitter whistleblower complaint",
-    "automated ai systems",
-    "resetting account passwords",
+    "account's backup read",
     "real life identity",
-    "security platform providers",
+    "ukrainian targets turla",
     "national security risk",
     "behavioral security analytics",
+    "group message history",
     "third party vendor",
     "stark industries solutions",
-    "sim swapping attacks",
     "red hat rates",
     "pro iranian images",
     "poisoning cached binaries",
     "platform's frontend following",
-    "past six months"
+    "past six months",
+    "october 2027 microsoft",
+    "october 12 2027",
+    "obama white house"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "providing sensitive data",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "estimated 3 million",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai won't wipe",
-      "mentions": 1
-    },
-    {
-      "keyword": "ukrainian targets turla",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1945
+      "mentions": 1946
     },
     {
-      "keyword": "automated ai systems",
+      "keyword": "account's backup read",
       "mentions": 1
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 79
-    },
-    {
       "keyword": "real life identity",
-      "mentions": 141
+      "mentions": 142
     },
     {
-      "keyword": "security platform providers",
+      "keyword": "ukrainian targets turla",
+      "mentions": 5
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 224
+    },
+    {
+      "keyword": "behavioral security analytics",
+      "mentions": 4
+    },
+    {
+      "keyword": "group message history",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
+      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
+      "summary": "The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read the private and group message history, and take over the account. Worse, the key keeps working.",
+      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "Phishing",
+        "CISA/KEV"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
@@ -149,13 +161,18 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack",
-      "link": "https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html",
-      "summary": "Cybersecurity researchers have flagged yet another evolution of the supply chain attack linked to the Mini Shai-Hulud, Miasma, and Hades malware family that has compromised a new set of npm packages, even as it has propagated to the Go ecosystem. \"The latest activity includes malicious npm releases affecting LeoPlatform and RStreams packages, GitHub Actions workflow abuse, and a related Go",
-      "published": "Fri, 26 Jun 2026 16:35:45 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
+      "published": "Fri, 26 Jun 2026 15:43:06 -0400",
+      "value_score": 97,
+      "value_signals": [
+        "Active exploitation",
+        "Patch/update ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -221,15 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
       "summary": "Microsoft has quietly extended its free Windows 10 Extended Security Updates (ESU) program for consumers by an additional year, allowing enrolled devices to continue receiving security updates until October 12, 2027. [...]",
       "published": "Thu, 25 Jun 2026 14:29:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New macOS malware embeds fake errors to confuse AI analysis tools",
-      "link": "https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/",
-      "summary": "A newly discovered macOS malware dubbed \"Gaslight\" is designed to confuse AI-assisted malware analysis tools by hiding prompt injection strings and fake debugging data within the executable. [...]",
-      "published": "Thu, 25 Jun 2026 12:23:19 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -317,80 +325,6 @@
       "value_signals": [
         "Botnet"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
-      "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
-      "published": "Fri, 26 Jun 2026 19:11:02 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
-      "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
-      "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
-      "published": "Fri, 26 Jun 2026 17:31:04 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
-      "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
-      "published": "Fri, 26 Jun 2026 16:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
-      "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
-      "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
-      "published": "Fri, 26 Jun 2026 13:30:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
-      "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
-      "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
-      "published": "Fri, 26 Jun 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
-      "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-      "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
-      "published": "Thu, 25 Jun 2026 22:42:36 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
-      "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
-      "published": "Thu, 25 Jun 2026 21:54:34 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses",
-      "link": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
-      "summary": "The FSB state-sponsored operation has gotten a lot better at loading its malware and hiding its servers.",
-      "published": "Thu, 25 Jun 2026 21:12:01 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

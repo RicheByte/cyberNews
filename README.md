@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-26 21:14 UTC |
-| 📰 Articles Analyzed | 40 |
+| 🕐 Last Updated | 2026-06-26 23:01 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `providing sensitive data` • `estimated 3 million` • `twitter whistleblower complaint` • `account's backup read` • `real life identity` • `ukrainian targets turla` • `national security risk` • `behavioral security analytics` • `group message history`
+`cybercrime group known` • `providing sensitive data` • `estimated 3 million` • `real life identity` • `twitter whistleblower complaint` • `cisco adds nhi` • `ai won't wipe` • `account's backup read` • `ukrainian targets turla` • `automated ai systems`
 
 ## 📄 Reports
 

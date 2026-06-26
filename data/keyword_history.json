@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1946,
+      "count": 1947,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -530,7 +530,7 @@
       ]
     },
     "real life identity": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1088,7 +1088,7 @@
       ]
     },
     "national security risk": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -9955,7 +9955,7 @@
       ]
     },
     "third party vendor": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -11255,13 +11255,14 @@
       ]
     },
     "russian intelligence services": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-20",
         "2026-03-21",
         "2026-03-22",
         "2026-03-23",
-        "2026-03-24"
+        "2026-03-24",
+        "2026-06-26"
       ]
     },
     "april 3 2026": {
@@ -17860,7 +17861,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18281,7 +18282,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20494,7 +20495,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20743,7 +20744,7 @@
       ]
     },
     "providing sensitive data": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-25",
         "2026-06-26"
@@ -20770,7 +20771,7 @@
       ]
     },
     "ukrainian targets turla": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-26"
       ]
@@ -20788,7 +20789,7 @@
       ]
     },
     "behavioral security analytics": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-26"
       ]
@@ -20806,31 +20807,31 @@
       ]
     },
     "red hat rates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-26"
       ]
     },
     "estimated 3 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-26"
       ]
     },
     "ai won't wipe": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-26"
       ]
     },
     "automated ai systems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-26"
       ]
     },
     "security platform providers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-26"
       ]
@@ -20848,13 +20849,13 @@
       ]
     },
     "account's backup read": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-26"
       ]
     },
     "group message history": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-26"
       ]
@@ -20864,20 +20865,21 @@
       "dates": [
         "2026-06-26"
       ]
+    },
+    "cisco adds nhi": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "high severity flaw": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-13 02:52",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "cve 2026 35273",
-        "ukrainian national extradited",
-        "user including administrators",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-13 07:41",
       "articles": 56,
@@ -21965,6 +21967,17 @@
         "estimated 3 million",
         "twitter whistleblower complaint",
         "account's backup read"
+      ]
+    },
+    {
+      "timestamp": "2026-06-26 23:01",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "providing sensitive data",
+        "estimated 3 million",
+        "real life identity",
+        "twitter whistleblower complaint"
       ]
     }
   ]

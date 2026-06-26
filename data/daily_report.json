@@ -1,82 +1,105 @@
 {
-  "last_updated": "2026-06-26 14:12",
+  "last_updated": "2026-06-26 17:42",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
+    "ukrainian targets turla",
     "asian scam centers",
     "providing sensitive data",
     "twitter whistleblower complaint",
+    "service platform continues",
     "october 2027 microsoft",
     "law enforcement efforts",
     "known threat actor",
     "resetting account passwords",
     "real life identity",
-    "past six months",
     "improved data theft",
-    "service platform continues",
     "national security risk",
-    "enterprise security organization",
     "behavioral security analytics",
-    "identity infrastructure built",
-    "ukrainian targets turla",
     "third party vendor",
     "targeted 44 domains",
-    "stark industries solutions"
+    "stark industries solutions",
+    "sim swapping attacks",
+    "red hat rates",
+    "pro iranian images"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 23
+      "mentions": 24
+    },
+    {
+      "keyword": "ukrainian targets turla",
+      "mentions": 3
     },
     {
       "keyword": "asian scam centers",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "providing sensitive data",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1943
+      "mentions": 1944
+    },
+    {
+      "keyword": "service platform continues",
+      "mentions": 8
     },
     {
       "keyword": "october 2027 microsoft",
-      "mentions": 1
-    },
-    {
-      "keyword": "law enforcement efforts",
-      "mentions": 6
-    },
-    {
-      "keyword": "known threat actor",
       "mentions": 2
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 77
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 139
-    },
-    {
-      "keyword": "past six months",
+      "keyword": "law enforcement efforts",
       "mentions": 7
+    },
+    {
+      "keyword": "known threat actor",
+      "mentions": 3
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 78
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
+      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
+      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
+      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
+      "published": "Fri, 26 Jun 2026 21:51:25 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "Backdoor ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
       "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
       "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as",
-      "published": "Fri, 26 Jun 2026 18:30:41 +0530",
+      "published": "Fri, 26 Jun 2026 19:27:55 +0530",
       "value_score": 34,
       "value_signals": [
         "CVE mentioned",
         "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
+      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
+      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers. Wiz",
+      "published": "Fri, 26 Jun 2026 19:23:00 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
       ]
     },
     {
@@ -134,26 +157,6 @@
       "value_score": 26,
       "value_signals": [
         "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff",
-      "link": "https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html",
-      "summary": "Russian authorities used Cellebrite's UFED forensic tools to break into the iPhone of detained opposition activist Andrey Pivovarov in June 2021, three months after Cellebrite said it would stop selling its tools and services to Russia and Belarus. The finding, published June 25 by the Citizen Lab, rests on two things that rarely line up: traces on the phone itself and an official Russian",
-      "published": "Fri, 26 Jun 2026 14:19:35 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
-      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
-      "summary": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy. Describing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (",
-      "published": "Fri, 26 Jun 2026 12:45:46 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×3"
       ]
     },
     {
@@ -319,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
+      "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
+      "published": "Fri, 26 Jun 2026 16:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
       "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
       "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
@@ -383,14 +395,35 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Europe Evolves Into Ransomware's Favorite Region",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
-      "summary": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
-      "published": "Thu, 25 Jun 2026 10:00:00 GMT",
+      "source": "Security Week",
+      "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
+      "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
+      "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
+      "published": "Fri, 26 Jun 2026 15:23:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
+      "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
+      "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek .",
+      "published": "Fri, 26 Jun 2026 15:01:33 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
+      "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs appeared first on SecurityWeek .",
+      "published": "Fri, 26 Jun 2026 14:30:00 +0000",
       "value_score": 46,
       "value_signals": [
-        "Ransomware ×2"
+        "Breach/leak ×2",
+        "Backdoor"
       ]
     },
     {
@@ -447,35 +480,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
-      "link": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
-      "summary": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators. The post New Enterprise-Ready MCP Specification Brings New Security Challenges appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 08:00:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Philip Martin Joins Uber as Chief Information Security Officer",
-      "link": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
-      "summary": "Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization. The post Philip Martin Joins Uber as Chief Information Security Officer appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 05:13:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Runlayer Raises $30 Million in Series A Funding",
-      "link": "https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/",
-      "summary": "The startup’s platform functions as a secure control layer, aiming to secure AI tools across enterprises. The post Runlayer Raises $30 Million in Series A Funding appeared first on SecurityWeek .",
-      "published": "Thu, 25 Jun 2026 12:39:50 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-26 14:12 UTC  
+> **Last Updated:** 2026-06-26 17:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **asian scam centers** • **providing sensitive data** • **twitter whistleblower complaint** • **october 2027 microsoft** • **law enforcement efforts** • **known threat actor** • **resetting account passwords** • **real life identity** • **past six months** • **improved data theft** • **service platform continues** • **national security risk** • **enterprise security organization** • **behavioral security analytics** • **identity infrastructure built** • **ukrainian targets turla** • **third party vendor** • **targeted 44 domains** • **stark industries solutions**
+**cybercrime group known** • **ukrainian targets turla** • **asian scam centers** • **providing sensitive data** • **twitter whistleblower complaint** • **service platform continues** • **october 2027 microsoft** • **law enforcement efforts** • **known threat actor** • **resetting account passwords** • **real life identity** • **improved data theft** • **national security risk** • **behavioral security analytics** • **third party vendor** • **targeted 44 domains** • **stark industries solutions** • **sim swapping attacks** • **red hat rates** • **pro iranian images**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
 - [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
+- [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
 - [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
 - [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
 - [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
 - [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
 - [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
-- [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
-- [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Won't Wipe-Out Entry-Level Cybersecurity Jobs](https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs)
 - [Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex](https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex)
 - [Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up](https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder)
 - [Robinhood Cuts Access Approval Time to Support High-Velocity Development](https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development)
@@ -56,18 +57,17 @@
 - [Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses](https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense)
 - [EdTech Attackers Shift From Schools to Their Software Suppliers](https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers)
 - [Local Police Collusion Hampers Crackdown on Asian Scam Centers](https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers)
-- [Europe Evolves Into Ransomware's Favorite Region](https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region)
 
 ### Security Week
 
+- [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
+- [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
+- [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
 - [Nebulock Raises $25 Million for AI-Native Contextual Security](https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/)
 - [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
 - [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
 - [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
 - [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
-- [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
-- [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
-- [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
 
 ### Threatpost
 

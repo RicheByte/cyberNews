@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-26 07:44 UTC  
+> **Last Updated:** 2026-06-26 10:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**law enforcement efforts** • **cybercrime group known** • **execute arbitrary commands** • **asian scam centers** • **infrastructure threats continue** • **service platform continues** • **pro iranian images** • **code injection flaw** • **providing sensitive data** • **twitter whistleblower complaint** • **google owned mandiant** • **fast spreading internet** • **enough hell already** • **dire critical rating** • **10 million installs** • **resetting account passwords** • **public github account** • **faces criminal h** • **criminal charges stemming** • **improved data theft**
+**cybercrime group known** • **asian scam centers** • **pro iranian images** • **10 million installs** • **providing sensitive data** • **twitter whistleblower complaint** • **law enforcement efforts** • **known threat actor** • **fast spreading internet** • **enough hell already** • **resetting account passwords** • **public github account** • **past six months** • **improved data theft** • **service platform continues** • **ukrainian targets turla** • **third party vendor** • **targeted 44 domains** • **stark industries solutions** • **root level access**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
+- [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html)
+- [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html)
 - [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html)
 - [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html)
 - [Surviving the Mythos Era: Richard Bejtlich on the Case for NDR](https://thehackernews.com/2026/06/surviving-mythos-era-richard-bejtlich.html)
 - [New Gaslight macOS Malware Uses Prompt Injection to Disrupt AI-Assisted Analysis](https://thehackernews.com/2026/06/new-gaslight-macos-malware-uses-prompt.html)
 - [New Mistic Backdoor Linked to KongTuke in ClickFix and ModeloRAT Campaigns](https://thehackernews.com/2026/06/new-mistic-backdoor-linked-to-kongtuke.html)
-- [Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html)
-- [CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited](https://thehackernews.com/2026/06/cisa-warns-critical-lantronix-eds5000.html)
-- [Amadey and StealC Malware Network Disrupted, 27M Stolen Credentials Recovered](https://thehackernews.com/2026/06/amadey-and-stealc-malware-network.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
+- [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
+- [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
+- [New Enterprise-Ready MCP Specification Brings New Security Challenges](https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/)
 - [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
 - [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
 - [Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack](https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/)
 - [Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning](https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/)
-- [GitLab Patches Code Execution, Information Disclosure Vulnerabilities](https://www.securityweek.com/gitlab-patches-code-execution-information-disclosure-vulnerabilities/)
-- [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
-- [SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition](https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/)
-- [NIST Opens Updated IoT Security Guidance to Public Review](https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/)
 
 ### Threatpost
 

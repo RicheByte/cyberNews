@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-26 17:42 UTC  
+> **Last Updated:** 2026-06-26 19:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **ukrainian targets turla** • **asian scam centers** • **providing sensitive data** • **twitter whistleblower complaint** • **service platform continues** • **october 2027 microsoft** • **law enforcement efforts** • **known threat actor** • **resetting account passwords** • **real life identity** • **improved data theft** • **national security risk** • **behavioral security analytics** • **third party vendor** • **targeted 44 domains** • **stark industries solutions** • **sim swapping attacks** • **red hat rates** • **pro iranian images**
+**cybercrime group known** • **providing sensitive data** • **estimated 3 million** • **ai won't wipe** • **ukrainian targets turla** • **twitter whistleblower complaint** • **automated ai systems** • **resetting account passwords** • **real life identity** • **security platform providers** • **national security risk** • **behavioral security analytics** • **third party vendor** • **stark industries solutions** • **sim swapping attacks** • **red hat rates** • **pro iranian images** • **poisoning cached binaries** • **platform's frontend following** • **past six months**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
 - [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
 - [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
 - [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
@@ -23,18 +24,17 @@
 - [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
 - [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
 - [Miasma Malware Targets npm Packages and GitHub Actions in Supply Chain Attack](https://thehackernews.com/2026/06/miasma-malware-targets-npm-packages-and.html)
-- [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html)
 
 ### BleepingComputer
 
+- [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
+- [Cybersecurity firms targeted by fraudulent OpenAI organization invites](https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/)
 - [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
 - [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
 - [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
 - [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
 - [Microsoft quietly extends free Windows 10 ESU support to October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/)
 - [New macOS malware embeds fake errors to confuse AI analysis tools](https://www.bleepingcomputer.com/news/security/new-macos-malware-embeds-fake-errors-to-confuse-ai-analysis-tools/)
-- [PirloTV sports piracy network disrupted as 44 domains seized](https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/)
-- [Bluekit phishing kit adopts browser-in-the-middle for login theft](https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
+- [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
 - [AI Won't Wipe-Out Entry-Level Cybersecurity Jobs](https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs)
 - [Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex](https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex)
 - [Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up](https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder)
 - [Robinhood Cuts Access Approval Time to Support High-Velocity Development](https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development)
 - [In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw](https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw)
 - [Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses](https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense)
-- [EdTech Attackers Shift From Schools to Their Software Suppliers](https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers)
-- [Local Police Collusion Hampers Crackdown on Asian Scam Centers](https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers)
 
 ### Security Week
 

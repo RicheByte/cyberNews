@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1944,
+      "count": 1945,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -530,7 +530,7 @@
       ]
     },
     "real life identity": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1088,7 +1088,7 @@
       ]
     },
     "national security risk": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -9955,7 +9955,7 @@
       ]
     },
     "third party vendor": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -17860,7 +17860,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18248,7 +18248,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18281,7 +18281,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18740,7 +18740,7 @@
       ]
     },
     "past six months": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20493,7 +20493,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20742,7 +20742,7 @@
       ]
     },
     "providing sensitive data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-25",
         "2026-06-26"
@@ -20769,7 +20769,7 @@
       ]
     },
     "ukrainian targets turla": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-26"
       ]
@@ -20787,7 +20787,7 @@
       ]
     },
     "behavioral security analytics": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-26"
       ]
@@ -20799,12 +20799,48 @@
       ]
     },
     "sim swapping attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-26"
       ]
     },
     "red hat rates": {
+      "count": 2,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "estimated 3 million": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "ai won't wipe": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "automated ai systems": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "security platform providers": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "poisoning cached binaries": {
+      "count": 1,
+      "dates": [
+        "2026-06-26"
+      ]
+    },
+    "platform's frontend following": {
       "count": 1,
       "dates": [
         "2026-06-26"
@@ -20812,17 +20848,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-12 20:02",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "cve 2026 35273",
-        "ukrainian national extradited",
-        "user including administrators",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-12 23:12",
       "articles": 56,
@@ -21910,6 +21935,17 @@
         "asian scam centers",
         "providing sensitive data",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-26 19:40",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "providing sensitive data",
+        "estimated 3 million",
+        "ai won't wipe",
+        "ukrainian targets turla"
       ]
     }
   ]

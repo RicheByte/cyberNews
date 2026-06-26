@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-26 17:42",
+  "last_updated": "2026-06-26 19:40",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "ukrainian targets turla",
-    "asian scam centers",
     "providing sensitive data",
+    "estimated 3 million",
+    "ai won't wipe",
+    "ukrainian targets turla",
     "twitter whistleblower complaint",
-    "service platform continues",
-    "october 2027 microsoft",
-    "law enforcement efforts",
-    "known threat actor",
+    "automated ai systems",
     "resetting account passwords",
     "real life identity",
-    "improved data theft",
+    "security platform providers",
     "national security risk",
     "behavioral security analytics",
     "third party vendor",
-    "targeted 44 domains",
     "stark industries solutions",
     "sim swapping attacks",
     "red hat rates",
-    "pro iranian images"
+    "pro iranian images",
+    "poisoning cached binaries",
+    "platform's frontend following",
+    "past six months"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 24
-    },
-    {
-      "keyword": "ukrainian targets turla",
-      "mentions": 3
-    },
-    {
-      "keyword": "asian scam centers",
-      "mentions": 7
+      "mentions": 25
     },
     {
       "keyword": "providing sensitive data",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1944
-    },
-    {
-      "keyword": "service platform continues",
       "mentions": 8
     },
     {
-      "keyword": "october 2027 microsoft",
-      "mentions": 2
+      "keyword": "estimated 3 million",
+      "mentions": 1
     },
     {
-      "keyword": "law enforcement efforts",
-      "mentions": 7
+      "keyword": "ai won't wipe",
+      "mentions": 1
     },
     {
-      "keyword": "known threat actor",
-      "mentions": 3
+      "keyword": "ukrainian targets turla",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1945
+    },
+    {
+      "keyword": "automated ai systems",
+      "mentions": 1
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 78
+      "mentions": 79
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 141
+    },
+    {
+      "keyword": "security platform providers",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
+      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
+      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,",
+      "published": "Fri, 26 Jun 2026 23:47:46 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
@@ -149,15 +158,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html",
-      "summary": "An active phishing campaign has been targeting hotel and other hospitality organizations across Europe and Asia since April 2026, using photo-themed ZIP files to drop a Node.js implant and dig into front-desk machines, Microsoft says. The company has not attributed the activity to a known threat actor, and the operators' end goal is still unclear. The lure plays to how hotels work.",
-      "published": "Fri, 26 Jun 2026 14:57:12 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Polymarket customers lose $3 million in supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
+      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
+      "published": "Fri, 26 Jun 2026 14:04:12 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Phishing ×2"
+        "Breach/leak"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
+      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
+      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
+      "published": "Fri, 26 Jun 2026 13:49:07 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -214,26 +232,6 @@
       "published": "Thu, 25 Jun 2026 12:23:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PirloTV sports piracy network disrupted as 44 domains seized",
-      "link": "https://www.bleepingcomputer.com/news/security/pirlotv-sports-piracy-network-disrupted-as-44-domains-seized/",
-      "summary": "A major sports piracy ring linked to the illegal PirloTV streaming platform has been disrupted in an action that targeted 44 domains. [...]",
-      "published": "Thu, 25 Jun 2026 11:36:56 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Bluekit phishing kit adopts browser-in-the-middle for login theft",
-      "link": "https://www.bleepingcomputer.com/news/security/bluekit-phishing-kit-adopts-browser-in-the-middle-for-login-theft/",
-      "summary": "The Bluekit phishing-as-a-service platform continues to evolve with nearly 70 new hostnames identified over the past week and by adding browser-in-the-middle capabilities for improved data theft. [...]",
-      "published": "Thu, 25 Jun 2026 11:00:00 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
+      "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
+      "published": "Fri, 26 Jun 2026 19:11:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
+      "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
+      "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
+      "published": "Fri, 26 Jun 2026 17:31:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
       "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
@@ -353,7 +369,7 @@
       "source": "Dark Reading",
       "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
       "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-      "summary": "The fintech company's engineering-first application security team re-engineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
+      "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
       "published": "Thu, 25 Jun 2026 22:42:36 GMT",
       "value_score": 10,
       "value_signals": []
@@ -373,24 +389,6 @@
       "link": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
       "summary": "The FSB state-sponsored operation has gotten a lot better at loading its malware and hiding its servers.",
       "published": "Thu, 25 Jun 2026 21:12:01 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
-      "summary": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
-      "published": "Thu, 25 Jun 2026 20:34:14 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers",
-      "link": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
-      "summary": "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
-      "published": "Thu, 25 Jun 2026 19:07:41 GMT",
       "value_score": 10,
       "value_signals": []
     },

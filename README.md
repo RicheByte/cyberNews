@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-26 17:42 UTC |
+| 🕐 Last Updated | 2026-06-26 19:40 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `ukrainian targets turla` • `asian scam centers` • `providing sensitive data` • `twitter whistleblower complaint` • `service platform continues` • `october 2027 microsoft` • `law enforcement efforts` • `known threat actor` • `resetting account passwords`
+`cybercrime group known` • `providing sensitive data` • `estimated 3 million` • `ai won't wipe` • `ukrainian targets turla` • `twitter whistleblower complaint` • `automated ai systems` • `resetting account passwords` • `real life identity` • `security platform providers`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-26 02:50 UTC  
+> **Last Updated:** 2026-06-26 07:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**law enforcement efforts** • **cybercrime group known** • **execute arbitrary commands** • **asian scam centers** • **infrastructure threats continue** • **code injection flaw** • **service platform continues** • **pro iranian images** • **providing sensitive data** • **twitter whistleblower complaint** • **google owned mandiant** • **fast spreading internet** • **enough hell already** • **dire critical rating** • **10 million installs** • **resetting account passwords** • **public github account** • **faces criminal h** • **criminal charges stemming** • **improved data theft**
+**law enforcement efforts** • **cybercrime group known** • **execute arbitrary commands** • **asian scam centers** • **infrastructure threats continue** • **service platform continues** • **pro iranian images** • **code injection flaw** • **providing sensitive data** • **twitter whistleblower complaint** • **google owned mandiant** • **fast spreading internet** • **enough hell already** • **dire critical rating** • **10 million installs** • **resetting account passwords** • **public github account** • **faces criminal h** • **criminal charges stemming** • **improved data theft**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Philip Martin Joins Uber as Chief Information Security Officer](https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/)
 - [Runlayer Raises $30 Million in Series A Funding](https://www.securityweek.com/runlayer-raises-30-million-in-series-a-funding/)
 - [Cal Water Says No OT Systems Breached in Iranian Handala Cyberattack](https://www.securityweek.com/cal-water-finds-no-evidence-of-ot-activity-after-hackers-claimed-they-could-disrupt-water-supply/)
 - [Lantronix Serial-to-IP Converter Flaw Exploited in Attacks After OT Threat Warning](https://www.securityweek.com/lantronix-serial-to-ip-converter-flaw-exploited-in-attacks-after-ot-threat-warning/)
@@ -67,7 +68,6 @@
 - [25-Year-Old Vulnerability Patched in Curl](https://www.securityweek.com/25-year-old-vulnerability-patched-in-curl/)
 - [SecurityWeek ICS Cybersecurity Conference Heads to Nashville for Special 25-Year Anniversary Edition](https://www.securityweek.com/securityweek-ics-cybersecurity-conference-heads-to-nashville-for-special-25-year-anniversary-edition/)
 - [NIST Opens Updated IoT Security Guidance to Public Review](https://www.securityweek.com/nist-opens-updated-iot-security-guidance-to-public-review/)
-- [Chrome 149 Update Resolves 18 Severe Vulnerabilities](https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/)
 
 ### Threatpost
 

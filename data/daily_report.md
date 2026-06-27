@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-27 17:04 UTC  
+> **Last Updated:** 2026-06-27 19:12 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 40
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **estimated 3 million** • **twitter whistleblower complaint** • **fast spreading internet** • **creating openai tenants** • **account's backup read** • **ukrainian targets turla** • **national security risk** • **behavioral security analytics** • **cyber attacks aimed** • **group message history** • **third party vendor** • **state owned enterprises** • **stark industries solutions** • **russian intelligence services** • **red hat rates** • **real life identity** • **pro iranian images** • **powerful terra strikes** • **poisoning cached binaries**
+**cybercrime group known** • **estimated 3 million** • **cyber attacks aimed** • **protect student data** • **twitter whistleblower complaint** • **third party vendor** • **real life identity** • **national security risk** • **fast spreading internet** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **ukrainian targets turla** • **ai won't wipe** • **high severity flaw** • **group message history** • **third party actors** • **state owned enterprises** • **stark industries solutions** • **security platform providers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
 - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
 - [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
 - [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
@@ -23,7 +24,6 @@
 - [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
 - [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
 - [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
-- [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
 
 ### BleepingComputer
 
@@ -46,6 +46,17 @@
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 - [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
+
+### Dark Reading
+
+- [Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk](https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk)
+- [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
+- [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
+- [New Initiative Tackles Security for End-of-Life Open Source Software](https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source)
+- [AI Won't Wipe-Out Entry-Level Cybersecurity Jobs](https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs)
+- [Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex](https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex)
+- [Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up](https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder)
+- [Robinhood Cuts Access Approval Time to Support High-Velocity Development](https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development)
 
 ### Security Week
 

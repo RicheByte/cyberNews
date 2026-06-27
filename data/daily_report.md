@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-27 10:00 UTC  
+> **Last Updated:** 2026-06-27 13:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **providing sensitive data** • **estimated 3 million** • **real life identity** • **twitter whistleblower complaint** • **cisco adds nhi** • **ai won't wipe** • **account's backup read** • **ukrainian targets turla** • **automated ai systems** • **high severity flaw** • **group message history** • **security platform providers** • **national security risk** • **behavioral security analytics** • **third party vendor** • **stark industries solutions** • **russian intelligence services** • **red hat rates** • **pro iranian images**
+**cybercrime group known** • **providing sensitive data** • **estimated 3 million** • **twitter whistleblower complaint** • **real life identity** • **fast spreading internet** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **ai won't wipe** • **ukrainian targets turla** • **high severity flaw** • **cyber attacks aimed** • **group message history** • **security platform providers** • **national security risk** • **behavioral security analytics** • **automated ai systems** • **third party vendor** • **state owned enterprises**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
 - [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
 - [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
 - [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
@@ -23,7 +24,6 @@
 - [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
 - [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
 - [New DirtyClone Linux Kernel Flaw Lets Local Users Gain Root via Cloned Packets](https://thehackernews.com/2026/06/new-dirtyclone-linux-kernel-flaw-lets.html)
-- [Guardian Agents: The Next Layer of Identity Governance](https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
 - [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
 - [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
 - [In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs](https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/)
@@ -67,7 +68,6 @@
 - [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
 - [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
 - [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
-- [First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild](https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/)
 
 ### Threatpost
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-27 10:00",
+  "last_updated": "2026-06-27 13:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "providing sensitive data",
     "estimated 3 million",
-    "real life identity",
     "twitter whistleblower complaint",
+    "real life identity",
+    "fast spreading internet",
+    "creating openai tenants",
     "cisco adds nhi",
-    "ai won't wipe",
     "account's backup read",
+    "ai won't wipe",
     "ukrainian targets turla",
-    "automated ai systems",
     "high severity flaw",
+    "cyber attacks aimed",
     "group message history",
     "security platform providers",
     "national security risk",
     "behavioral security analytics",
+    "automated ai systems",
     "third party vendor",
-    "stark industries solutions",
-    "russian intelligence services",
-    "red hat rates",
-    "pro iranian images"
+    "state owned enterprises"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "providing sensitive data",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "estimated 3 million",
-      "mentions": 6
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 146
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1950
+      "mentions": 1951
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 147
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 87
+    },
+    {
+      "keyword": "creating openai tenants",
+      "mentions": 1
     },
     {
       "keyword": "cisco adds nhi",
-      "mentions": 4
-    },
-    {
-      "keyword": "ai won't wipe",
       "mentions": 5
     },
     {
       "keyword": "account's backup read",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "ukrainian targets turla",
-      "mentions": 9
-    },
-    {
-      "keyword": "automated ai systems",
-      "mentions": 5
+      "keyword": "ai won't wipe",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
+      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
+      "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability. \"GPT‑5.6 Sol launches with our most",
+      "published": "Sat, 27 Jun 2026 17:49:37 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
@@ -150,15 +159,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Guardian Agents: The Next Layer of Identity Governance",
-      "link": "https://thehackernews.com/2026/06/guardian-agents-next-layer-of-identity.html",
-      "summary": "AI agents are moving through enterprise environments, inheriting permissions, traversing systems, and executing decisions at machine speed with minimal oversight. The identity infrastructure built to govern human access wasn't designed for autonomous actors, and the gap between what enterprises are deploying and what their governance programs actually cover is widening fast. This guide breaks",
-      "published": "Fri, 26 Jun 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -405,6 +405,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Chinese Framework Powers 200,000 Scam Sites",
+      "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
+      "summary": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit. The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek .",
+      "published": "Sat, 27 Jun 2026 12:13:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
       "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
       "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
@@ -473,21 +482,6 @@
       "value_score": 34,
       "value_signals": [
         "Backdoor ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
-      "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
-      "summary": "CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog. The post First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 08:15:21 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "RCE",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-27 13:22 UTC |
+| 🕐 Last Updated | 2026-06-27 15:12 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `providing sensitive data` • `estimated 3 million` • `twitter whistleblower complaint` • `real life identity` • `fast spreading internet` • `creating openai tenants` • `cisco adds nhi` • `account's backup read` • `ai won't wipe`
+`cybercrime group known` • `estimated 3 million` • `protect student data` • `national security risk` • `twitter whistleblower complaint` • `third party vendor` • `real life identity` • `fast spreading internet` • `creating openai tenants` • `cisco adds nhi`
 
 ## 📄 Reports
 

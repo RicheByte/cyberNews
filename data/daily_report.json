@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-06-27 13:22",
+  "last_updated": "2026-06-27 15:12",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "providing sensitive data",
     "estimated 3 million",
+    "protect student data",
+    "national security risk",
     "twitter whistleblower complaint",
+    "third party vendor",
     "real life identity",
     "fast spreading internet",
     "creating openai tenants",
     "cisco adds nhi",
     "account's backup read",
-    "ai won't wipe",
     "ukrainian targets turla",
+    "ai won't wipe",
     "high severity flaw",
     "cyber attacks aimed",
-    "group message history",
     "security platform providers",
-    "national security risk",
     "behavioral security analytics",
-    "automated ai systems",
-    "third party vendor",
+    "group message history",
+    "third party actors",
     "state owned enterprises"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 31
-    },
-    {
-      "keyword": "providing sensitive data",
-      "mentions": 14
+      "mentions": 32
     },
     {
       "keyword": "estimated 3 million",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1951
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 147
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 87
-    },
-    {
-      "keyword": "creating openai tenants",
+      "keyword": "protect student data",
       "mentions": 1
     },
     {
+      "keyword": "national security risk",
+      "mentions": 230
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1952
+    },
+    {
+      "keyword": "third party vendor",
+      "mentions": 18
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 148
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 88
+    },
+    {
+      "keyword": "creating openai tenants",
+      "mentions": 2
+    },
+    {
       "keyword": "cisco adds nhi",
-      "mentions": 5
-    },
-    {
-      "keyword": "account's backup read",
-      "mentions": 6
-    },
-    {
-      "keyword": "ai won't wipe",
       "mentions": 6
     }
   ],
@@ -162,6 +162,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Clean GitHub repo tricks AI coding agents into running malware",
+      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
+      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
+      "published": "Sat, 27 Jun 2026 10:22:36 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI: Russian hackers now target Signal backup recovery keys",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
       "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
@@ -232,17 +241,6 @@
       "published": "Thu, 25 Jun 2026 18:37:42 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Order-tracking app Shop abused to push callback phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
-      "summary": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
-      "published": "Thu, 25 Jun 2026 15:45:48 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -331,6 +329,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
+      "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
+      "summary": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
+      "published": "Sat, 27 Jun 2026 11:48:05 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
       "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
@@ -391,15 +400,6 @@
       "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
       "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
       "published": "Thu, 25 Jun 2026 22:42:36 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
-      "summary": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
-      "published": "Thu, 25 Jun 2026 21:54:34 GMT",
       "value_score": 10,
       "value_signals": []
     },

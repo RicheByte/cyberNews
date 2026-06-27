@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-27 13:22 UTC  
+> **Last Updated:** 2026-06-27 15:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **providing sensitive data** • **estimated 3 million** • **twitter whistleblower complaint** • **real life identity** • **fast spreading internet** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **ai won't wipe** • **ukrainian targets turla** • **high severity flaw** • **cyber attacks aimed** • **group message history** • **security platform providers** • **national security risk** • **behavioral security analytics** • **automated ai systems** • **third party vendor** • **state owned enterprises**
+**cybercrime group known** • **estimated 3 million** • **protect student data** • **national security risk** • **twitter whistleblower complaint** • **third party vendor** • **real life identity** • **fast spreading internet** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **ukrainian targets turla** • **ai won't wipe** • **high severity flaw** • **cyber attacks aimed** • **security platform providers** • **behavioral security analytics** • **group message history** • **third party actors** • **state owned enterprises**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
 - [FBI: Russian hackers now target Signal backup recovery keys](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/)
 - [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
 - [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
@@ -34,7 +35,6 @@
 - [Your First GRC Agent: A Red Teamer's Walkthrough](https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/)
 - [Anthropic is testing desktop-like Claude Cowork for mobile](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/)
 - [Poland busts SIM-swapping gang tied to millions in crypto theft](https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/)
-- [Order-tracking app Shop abused to push callback phishing attacks](https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk](https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk)
 - [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
 - [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
 - [New Initiative Tackles Security for End-of-Life Open Source Software](https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source)
@@ -56,7 +57,6 @@
 - [Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex](https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex)
 - [Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up](https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder)
 - [Robinhood Cuts Access Approval Time to Support High-Velocity Development](https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development)
-- [In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw](https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw)
 
 ### Security Week
 

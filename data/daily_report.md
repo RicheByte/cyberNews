@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-27 15:12 UTC  
+> **Last Updated:** 2026-06-27 17:04 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **estimated 3 million** • **protect student data** • **national security risk** • **twitter whistleblower complaint** • **third party vendor** • **real life identity** • **fast spreading internet** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **ukrainian targets turla** • **ai won't wipe** • **high severity flaw** • **cyber attacks aimed** • **security platform providers** • **behavioral security analytics** • **group message history** • **third party actors** • **state owned enterprises**
+**cybercrime group known** • **estimated 3 million** • **twitter whistleblower complaint** • **fast spreading internet** • **creating openai tenants** • **account's backup read** • **ukrainian targets turla** • **national security risk** • **behavioral security analytics** • **cyber attacks aimed** • **group message history** • **third party vendor** • **state owned enterprises** • **stark industries solutions** • **russian intelligence services** • **red hat rates** • **real life identity** • **pro iranian images** • **powerful terra strikes** • **poisoning cached binaries**
 
 ---
 
@@ -46,17 +46,6 @@
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
 - [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
-
-### Dark Reading
-
-- [Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk](https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk)
-- [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
-- [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
-- [New Initiative Tackles Security for End-of-Life Open Source Software](https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source)
-- [AI Won't Wipe-Out Entry-Level Cybersecurity Jobs](https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs)
-- [Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex](https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex)
-- [Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up](https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder)
-- [Robinhood Cuts Access Approval Time to Support High-Velocity Development](https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development)
 
 ### Security Week
 

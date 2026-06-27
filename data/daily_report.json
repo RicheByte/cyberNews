@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-27 15:12",
+  "last_updated": "2026-06-27 17:04",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "cybercrime group known",
     "estimated 3 million",
-    "protect student data",
-    "national security risk",
     "twitter whistleblower complaint",
-    "third party vendor",
-    "real life identity",
     "fast spreading internet",
     "creating openai tenants",
-    "cisco adds nhi",
     "account's backup read",
     "ukrainian targets turla",
-    "ai won't wipe",
-    "high severity flaw",
-    "cyber attacks aimed",
-    "security platform providers",
+    "national security risk",
     "behavioral security analytics",
+    "cyber attacks aimed",
     "group message history",
-    "third party actors",
-    "state owned enterprises"
+    "third party vendor",
+    "state owned enterprises",
+    "stark industries solutions",
+    "russian intelligence services",
+    "red hat rates",
+    "real life identity",
+    "pro iranian images",
+    "powerful terra strikes",
+    "poisoning cached binaries"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "estimated 3 million",
-      "mentions": 8
-    },
-    {
-      "keyword": "protect student data",
-      "mentions": 1
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 230
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1952
-    },
-    {
-      "keyword": "third party vendor",
-      "mentions": 18
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 148
+      "mentions": 1953
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 88
+      "mentions": 89
     },
     {
       "keyword": "creating openai tenants",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "cisco adds nhi",
-      "mentions": 6
+      "keyword": "account's backup read",
+      "mentions": 8
+    },
+    {
+      "keyword": "ukrainian targets turla",
+      "mentions": 12
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 231
+    },
+    {
+      "keyword": "behavioral security analytics",
+      "mentions": 11
+    },
+    {
+      "keyword": "cyber attacks aimed",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -326,82 +326,6 @@
       "value_signals": [
         "Botnet"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
-      "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
-      "summary": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
-      "published": "Sat, 27 Jun 2026 11:48:05 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
-      "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
-      "published": "Fri, 26 Jun 2026 19:11:02 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
-      "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
-      "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
-      "published": "Fri, 26 Jun 2026 17:31:04 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "New Initiative Tackles Security for End-of-Life Open Source Software",
-      "link": "https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source",
-      "summary": "The Open Source Sustainability Initiative's goal is to help enterprises manage and secure aging open source projects while maintaining regulatory compliance.",
-      "published": "Fri, 26 Jun 2026 16:32:30 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
-      "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
-      "published": "Fri, 26 Jun 2026 16:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
-      "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
-      "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
-      "published": "Fri, 26 Jun 2026 13:30:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
-      "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
-      "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
-      "published": "Fri, 26 Jun 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
-      "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-      "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
-      "published": "Thu, 25 Jun 2026 22:42:36 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

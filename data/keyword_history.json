@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1952,
+      "count": 1953,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -531,7 +531,7 @@
       ]
     },
     "real life identity": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1090,7 +1090,7 @@
       ]
     },
     "national security risk": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -9958,7 +9958,7 @@
       ]
     },
     "third party vendor": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-03-10",
         "2026-03-11",
@@ -11259,7 +11259,7 @@
       ]
     },
     "russian intelligence services": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -17866,7 +17866,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18288,7 +18288,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18607,7 +18607,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20503,7 +20503,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20781,7 +20781,7 @@
       ]
     },
     "ukrainian targets turla": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-26",
         "2026-06-27"
@@ -20800,7 +20800,7 @@
       ]
     },
     "behavioral security analytics": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-26",
         "2026-06-27"
@@ -20819,14 +20819,14 @@
       ]
     },
     "red hat rates": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-26",
         "2026-06-27"
       ]
     },
     "estimated 3 million": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-26",
         "2026-06-27"
@@ -20854,9 +20854,10 @@
       ]
     },
     "poisoning cached binaries": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-27"
       ]
     },
     "platform's frontend following": {
@@ -20866,14 +20867,14 @@
       ]
     },
     "account's backup read": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-26",
         "2026-06-27"
       ]
     },
     "group message history": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-26",
         "2026-06-27"
@@ -20900,19 +20901,19 @@
       ]
     },
     "creating openai tenants": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-27"
       ]
     },
     "cyber attacks aimed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-27"
       ]
     },
     "state owned enterprises": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-27"
       ]
@@ -20928,20 +20929,15 @@
       "dates": [
         "2026-06-27"
       ]
+    },
+    "powerful terra strikes": {
+      "count": 1,
+      "dates": [
+        "2026-06-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-13 19:17",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "ukrainian national extradited",
-        "remote code execution",
-        "national security risk",
-        "user including administrators"
-      ]
-    },
     {
       "timestamp": "2026-06-13 21:09",
       "articles": 56,
@@ -22029,6 +22025,17 @@
         "protect student data",
         "national security risk",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-27 17:04",
+      "articles": 40,
+      "top_keywords": [
+        "cybercrime group known",
+        "estimated 3 million",
+        "twitter whistleblower complaint",
+        "fast spreading internet",
+        "creating openai tenants"
       ]
     }
   ]

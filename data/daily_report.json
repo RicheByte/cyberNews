@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-28 02:55",
+  "last_updated": "2026-06-28 07:46",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
-    "cybercrime group known",
     "estimated 3 million",
     "cyber attacks aimed",
-    "protect student data",
     "twitter whistleblower complaint",
     "third party vendor",
-    "real life identity",
     "national security risk",
-    "fast spreading internet",
     "creating openai tenants",
     "cisco adds nhi",
     "account's backup read",
     "ukrainian targets turla",
+    "group message history",
     "ai won't wipe",
     "high severity flaw",
-    "group message history",
     "third party actors",
     "state owned enterprises",
-    "stark industries solutions",
-    "security platform providers"
+    "security platform providers",
+    "russian intelligence services",
+    "red hat rates",
+    "protect student data",
+    "primary control plane",
+    "powerful terra strikes"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 37
-    },
-    {
       "keyword": "estimated 3 million",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "cyber attacks aimed",
-      "mentions": 7
-    },
-    {
-      "keyword": "protect student data",
-      "mentions": 5
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1957
+      "mentions": 1958
     },
     {
       "keyword": "third party vendor",
-      "mentions": 23
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 153
+      "mentions": 24
     },
     {
       "keyword": "national security risk",
-      "mentions": 235
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 93
+      "mentions": 236
     },
     {
       "keyword": "creating openai tenants",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "cisco adds nhi",
+      "mentions": 11
+    },
+    {
+      "keyword": "account's backup read",
+      "mentions": 13
+    },
+    {
+      "keyword": "ukrainian targets turla",
+      "mentions": 17
+    },
+    {
+      "keyword": "group message history",
+      "mentions": 13
     }
   ],
   "articles": [
@@ -236,91 +236,6 @@
       "published": "Thu, 25 Jun 2026 18:37:42 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
-      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
-      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
-      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
-      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
-      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
-      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "A Record-Breaking Patch Tuesday for June 2026",
-      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
-      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
-      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
-      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
-      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
-      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Breach/leak ×2",
-        "CISA/KEV ×4"
-      ]
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal h",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
     },
     {
       "source": "Dark Reading",

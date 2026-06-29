@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-29 21:20",
+  "last_updated": "2026-06-29 22:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,13 +8,13 @@
     "resetting account passwords",
     "october 2027 microsoft",
     "public github account",
+    "dire critical rating",
     "ukraine throughout 2025",
     "twitter whistleblower complaint",
     "run ad fraud",
     "fast spreading internet",
-    "dire critical rating",
-    "advanced cybersecurity ai",
     "threat actors exploited",
+    "advanced cybersecurity ai",
     "shinyhunters peoplesoft breach",
     "disinformation campaigns inside",
     "trump approved customers",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "october 2027 microsoft",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "public github account",
-      "mentions": 68
-    },
-    {
-      "keyword": "ukraine throughout 2025",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1971
-    },
-    {
-      "keyword": "run ad fraud",
-      "mentions": 4
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 104
+      "mentions": 69
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 224
+      "mentions": 225
+    },
+    {
+      "keyword": "ukraine throughout 2025",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1972
+    },
+    {
+      "keyword": "run ad fraud",
+      "mentions": 5
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 105
     }
   ],
   "articles": [
@@ -321,6 +321,30 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
+      "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
+      "published": "Mon, 29 Jun 2026 21:29:15 GMT",
+      "value_score": 51,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
+      "summary": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
+      "published": "Mon, 29 Jun 2026 21:05:29 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Can Clothes Make You Invisible to Facial Recognition?",
       "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
       "summary": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
@@ -376,24 +400,6 @@
       "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
       "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
       "published": "Fri, 26 Jun 2026 17:31:04 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "New Initiative Tackles Security for End-of-Life Open Source Software",
-      "link": "https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source",
-      "summary": "The Open Source Sustainability Initiative's goal is to help enterprises manage and secure aging open source projects while maintaining regulatory compliance.",
-      "published": "Fri, 26 Jun 2026 16:32:30 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
-      "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
-      "published": "Fri, 26 Jun 2026 16:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-29 21:20 UTC  
+> **Last Updated:** 2026-06-29 22:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**shinyhunters extortion group** • **cybercrime group known** • **resetting account passwords** • **october 2027 microsoft** • **public github account** • **ukraine throughout 2025** • **twitter whistleblower complaint** • **run ad fraud** • **fast spreading internet** • **dire critical rating** • **advanced cybersecurity ai** • **threat actors exploited** • **shinyhunters peoplesoft breach** • **disinformation campaigns inside** • **trump approved customers** • **ties 119 extensions** • **stark industries solutions** • **sprawling phishing campaign** • **senior administrative staff** • **rsa quantum hardware**
+**shinyhunters extortion group** • **cybercrime group known** • **resetting account passwords** • **october 2027 microsoft** • **public github account** • **dire critical rating** • **ukraine throughout 2025** • **twitter whistleblower complaint** • **run ad fraud** • **fast spreading internet** • **threat actors exploited** • **advanced cybersecurity ai** • **shinyhunters peoplesoft breach** • **disinformation campaigns inside** • **trump approved customers** • **ties 119 extensions** • **stark industries solutions** • **sprawling phishing campaign** • **senior administrative staff** • **rsa quantum hardware**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- ['Djinn' Stealer Targets Cloud, AI Credentials](https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials)
+- [Vulnerabilities Expose Private Data in Indian Government Systems](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems)
 - [Can Clothes Make You Invisible to Facial Recognition?](https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition)
 - [Iran, Russia, China Target Water Systems for Sabotage](https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage)
 - [Amazon Q VS Extension Flaw Leads to Cloud Credential Theft](https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft)
 - [Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk](https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk)
 - [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
 - [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
-- [New Initiative Tackles Security for End-of-Life Open Source Software](https://www.darkreading.com/application-security/initiative-tackles-security-end-of-life-open-source)
-- [AI Won't Wipe-Out Entry-Level Cybersecurity Jobs](https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs)
 
 ### Security Week
 

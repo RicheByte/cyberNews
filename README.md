@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-29 08:53 UTC |
+| 🕐 Last Updated | 2026-06-29 14:00 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`estimated 3 million` • `cybercrime group known` • `fast spreading internet` • `cyber attacks aimed` • `twitter whistleblower complaint` • `security platform providers` • `real life identity` • `national security risk` • `creating openai tenants` • `cisco adds nhi`
+`cybercrime group known` • `single threat actor` • `russian intelligence services` • `fast spreading internet` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `run ad fraud` • `real life identity` • `public poc released` • `latest flagship model`
 
 ## 📄 Reports
 

@@ -1,72 +1,112 @@
 {
-  "last_updated": "2026-06-29 08:53",
+  "last_updated": "2026-06-29 14:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "estimated 3 million",
     "cybercrime group known",
-    "fast spreading internet",
-    "cyber attacks aimed",
-    "twitter whistleblower complaint",
-    "security platform providers",
-    "real life identity",
-    "national security risk",
-    "creating openai tenants",
-    "cisco adds nhi",
-    "account's backup read",
-    "public poc released",
-    "protect student data",
-    "ai won't wipe",
-    "state owned enterprises",
-    "stark industries solutions",
+    "single threat actor",
     "russian intelligence services",
-    "red hat rates",
-    "pro iranian images",
-    "powerful terra strikes"
+    "fast spreading internet",
+    "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "run ad fraud",
+    "real life identity",
+    "public poc released",
+    "latest flagship model",
+    "estimated 3 million",
+    "criminal charges stemming",
+    "cisco adds nhi",
+    "security platform providers",
+    "national security risk",
+    "resetting account passwords",
+    "public github account",
+    "ongoing cyber onslaught",
+    "will inevitably change",
+    "us seizes hundreds"
   ],
   "trending": [
     {
-      "keyword": "estimated 3 million",
-      "mentions": 23
+      "keyword": "cybercrime group known",
+      "mentions": 45
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 44
+      "keyword": "single threat actor",
+      "mentions": 19
+    },
+    {
+      "keyword": "russian intelligence services",
+      "mentions": 46
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 100
-    },
-    {
-      "keyword": "cyber attacks aimed",
-      "mentions": 17
+      "mentions": 101
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1967
+      "mentions": 1968
     },
     {
-      "keyword": "security platform providers",
-      "mentions": 21
+      "keyword": "sprawling phishing campaign",
+      "mentions": 440
+    },
+    {
+      "keyword": "run ad fraud",
+      "mentions": 1
     },
     {
       "keyword": "real life identity",
-      "mentions": 160
+      "mentions": 161
     },
     {
-      "keyword": "national security risk",
-      "mentions": 245
+      "keyword": "public poc released",
+      "mentions": 2
     },
     {
-      "keyword": "creating openai tenants",
-      "mentions": 17
-    },
-    {
-      "keyword": "cisco adds nhi",
-      "mentions": 20
+      "keyword": "latest flagship model",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
+      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
+      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation",
+      "published": "Mon, 29 Jun 2026 17:27:40 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Why Post-Quantum Cryptography Starts With Credentials",
+      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
+      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
+      "published": "Mon, 29 Jun 2026 17:12:16 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
+      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
+      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
+      "published": "Mon, 29 Jun 2026 17:10:24 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
+      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
+      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.",
+      "published": "Mon, 29 Jun 2026 14:02:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
@@ -109,49 +149,35 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys",
-      "link": "https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html",
-      "summary": "The FBI and CISA have updated their March warning about Russian intelligence phishing Signal accounts, and the operators have added a step: they now coax targets into handing over their Signal Backup Recovery Key. Hand it over once, and the attacker can restore the account's backup, read the private and group message history, and take over the account. Worse, the key keeps working.",
-      "published": "Sat, 27 Jun 2026 01:08:29 +0530",
-      "value_score": 38,
+      "source": "BleepingComputer",
+      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
+      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
+      "published": "Mon, 29 Jun 2026 09:46:17 -0400",
+      "value_score": 50,
       "value_signals": [
-        "Phishing",
-        "CISA/KEV"
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks",
-      "link": "https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html",
-      "summary": "A newly discovered cyber attack campaign has been observed delivering a previously undocumented malware family called SharkLoader that acts as a loader for deploying Cobalt Strike Beacon on compromised hosts. Kaspersky, which is tracking the activity under the moniker StrikeShark, said the campaign has targeted a diplomatic organization in Indonesia, government organizations in Taiwan,",
-      "published": "Fri, 26 Jun 2026 23:47:46 +0530",
+      "source": "BleepingComputer",
+      "title": "Webinar: Why business email compromise attacks keep succeeding",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
+      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
+      "published": "Mon, 29 Jun 2026 08:14:22 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign",
-      "link": "https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html",
-      "summary": "A Chinese-speaking advanced persistent threat (APT) actor has been linked to a new custom backdoor called TinyRCT as part of cyber attacks aimed at government entities and critical infrastructure in Southeast Asia. The activity, particularly aimed at state-owned enterprises in the energy and government sectors, has been attributed to a threat actor called CL-STA-1062, which Palo Alto Networks",
-      "published": "Fri, 26 Jun 2026 21:51:25 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "Backdoor ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries",
-      "link": "https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html",
-      "summary": "A flaw in the Linux kernel's traffic-control subsystem can let a local unprivileged user gain root on affected systems. CVE-2026-46331, nicknamed \"pedit COW,\" is an out-of-bounds write in the packet-editing action (act_pedit) that corrupts shared page-cache memory. A public, working exploit appeared within a day of the CVE assignment on June 16. Red Hat rates the flaw as",
-      "published": "Fri, 26 Jun 2026 19:27:55 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
+      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
+      "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
+      "published": "Mon, 29 Jun 2026 07:21:03 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -209,33 +235,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cybersecurity firms targeted by fraudulent OpenAI organization invites",
-      "link": "https://www.bleepingcomputer.com/news/security/cybersecurity-firms-targeted-by-fraudulent-openai-organization-invites/",
-      "summary": "Threat actors are creating OpenAI tenants that impersonate legitimate companies and inviting employees to join them, in what appears to be a ploy to trick targets into submitting sensitive company information in chats and projects. [...]",
-      "published": "Fri, 26 Jun 2026 13:49:07 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your First GRC Agent: A Red Teamer's Walkthrough",
-      "link": "https://www.bleepingcomputer.com/news/security/your-first-grc-agent-a-red-teamers-walkthrough/",
-      "summary": "AI won't replace GRC analysts, but it can eliminate much of the repetitive work they do. Anecdotes walks through building an agent that continuously monitors controls, identifies evidence gaps, and opens remediation tasks. [...]",
-      "published": "Fri, 26 Jun 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
-      "summary": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
-      "published": "Thu, 25 Jun 2026 18:53:32 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -400,6 +399,42 @@
     },
     {
       "source": "Security Week",
+      "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
+      "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
+      "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 13:42:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
+      "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
+      "summary": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges. The post ‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 11:20:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
+      "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
+      "summary": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration. The post OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 10:14:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
+      "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
+      "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 09:29:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
       "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
       "summary": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens. The post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared first on SecurityWeek .",
@@ -435,47 +470,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs",
-      "link": "https://www.securityweek.com/in-other-news-chinese-mythos-like-ai-tata-electronics-breach-snyk-layoffs/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Russia used Cellebrite to hack activist’s phone, Five Eyes issue urgent AI threat warning, macOS Gaslight backdoor, Scattered Spider guilty pleas. The post In Other News: Chinese Mythos-Like AI, Tata Electronics Breach, Snyk Layoffs appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 14:30:00 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nebulock Raises $25 Million for AI-Native Contextual Security",
-      "link": "https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/",
-      "summary": "The cybersecurity startup provides threat hunting, proactive detection, and behavioral security analytics. The post Nebulock Raises $25 Million for AI-Native Contextual Security appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 12:37:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Linux Foundation Unveils New Open Source Security Project Akrites",
-      "link": "https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/",
-      "summary": "It will provide the tools and channels to report, patch, and disclose open source software vulnerabilities. The post Linux Foundation Unveils New Open Source Security Project Akrites appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 11:28:20 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "$3 Million Reportedly Stolen in Polymarket Hack",
-      "link": "https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/",
-      "summary": "The decentralized prediction market said hackers targeted some of its users through a compromise of a third-party vendor. The post $3 Million Reportedly Stolen in Polymarket Hack appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 09:47:35 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1967,
+      "count": 1968,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -533,7 +533,7 @@
       ]
     },
     "real life identity": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1094,7 +1094,7 @@
       ]
     },
     "national security risk": {
-      "count": 245,
+      "count": 246,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1810,7 +1810,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 439,
+      "count": 440,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1893,7 +1893,8 @@
         "2026-06-15",
         "2026-06-18",
         "2026-06-19",
-        "2026-06-20"
+        "2026-06-20",
+        "2026-06-29"
       ]
     },
     "model agnostic abstractions": {
@@ -7507,11 +7508,12 @@
       ]
     },
     "single threat actor": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-14",
         "2026-02-15",
-        "2026-02-16"
+        "2026-02-16",
+        "2026-06-29"
       ]
     },
     "ctm360 lumma stealer": {
@@ -11267,7 +11269,7 @@
       ]
     },
     "russian intelligence services": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -17498,7 +17500,7 @@
       ]
     },
     "public github account": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17511,7 +17513,8 @@
         "2026-06-23",
         "2026-06-24",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-29"
       ]
     },
     "canadian man arrested": {
@@ -18267,7 +18270,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18289,7 +18292,8 @@
         "2026-06-23",
         "2026-06-24",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-29"
       ]
     },
     "remote web ui": {
@@ -18620,7 +18624,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20518,7 +20522,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20565,12 +20569,13 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-23",
         "2026-06-24",
         "2026-06-25",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-29"
       ]
     },
     "salesforce attacks expands": {
@@ -20847,7 +20852,7 @@
       ]
     },
     "estimated 3 million": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20872,7 +20877,7 @@
       ]
     },
     "security platform providers": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20917,7 +20922,7 @@
       ]
     },
     "cisco adds nhi": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20989,6 +20994,36 @@
       ]
     },
     "public poc released": {
+      "count": 2,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "run ad fraud": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "latest flagship model": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "ongoing cyber onslaught": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "will inevitably change": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "us seizes hundreds": {
       "count": 1,
       "dates": [
         "2026-06-29"
@@ -20996,17 +21031,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-15 19:43",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "ransomware attack shuts",
-        "twitter whistleblower complaint",
-        "real life identity",
-        "onboarding password mistake"
-      ]
-    },
     {
       "timestamp": "2026-06-15 22:13",
       "articles": 56,
@@ -22093,6 +22117,17 @@
         "cybercrime group known",
         "fast spreading internet",
         "cyber attacks aimed",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29 14:00",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "single threat actor",
+        "russian intelligence services",
+        "fast spreading internet",
         "twitter whistleblower complaint"
       ]
     }

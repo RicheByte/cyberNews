@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-06-29 16:55",
+  "last_updated": "2026-06-29 19:49",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "fast spreading internet",
+    "resetting account passwords",
+    "october 2027 microsoft",
+    "public github account",
     "ukraine throughout 2025",
     "twitter whistleblower complaint",
     "run ad fraud",
-    "criminal charges stemming",
+    "fast spreading internet",
+    "dire critical rating",
     "automate response workflows",
-    "resetting account passwords",
-    "public github account",
     "national security risk",
+    "faces criminal h",
+    "criminal charges stemming",
     "advanced cybersecurity ai",
     "disinformation campaigns inside",
-    "security platform providers",
     "us seizes hundreds",
     "trump approved customers",
     "traditional email defenses",
     "ties 119 extensions",
-    "stark industries solutions",
-    "sprawling phishing campaign",
-    "single threat actor"
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 46
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 102
-    },
-    {
-      "keyword": "ukraine throughout 2025",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1969
-    },
-    {
-      "keyword": "run ad fraud",
-      "mentions": 2
-    },
-    {
-      "keyword": "criminal charges stemming",
-      "mentions": 20
-    },
-    {
-      "keyword": "automate response workflows",
-      "mentions": 1
+      "mentions": 47
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 81
+      "mentions": 82
+    },
+    {
+      "keyword": "october 2027 microsoft",
+      "mentions": 4
     },
     {
       "keyword": "public github account",
-      "mentions": 66
+      "mentions": 67
     },
     {
-      "keyword": "national security risk",
-      "mentions": 247
+      "keyword": "ukraine throughout 2025",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1970
+    },
+    {
+      "keyword": "run ad fraud",
+      "mentions": 3
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 103
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 223
+    },
+    {
+      "keyword": "automate response workflows",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+      "published": "Tue, 30 Jun 2026 00:10:09 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
@@ -138,18 +147,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
-      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
-      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2. libssh2 is a client-side SSH library, not a server.",
-      "published": "Mon, 29 Jun 2026 12:36:34 +0530",
-      "value_score": 80,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "PoC available",
-        "High severity ×2",
-        "Multiple CVEs"
-      ]
+      "source": "BleepingComputer",
+      "title": "WhatsApp rolls out usernames to help users hide their phone number",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
+      "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
+      "published": "Mon, 29 Jun 2026 13:48:28 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
+      "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
+      "published": "Mon, 29 Jun 2026 13:11:15 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -210,26 +223,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
       "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
       "published": "Mon, 29 Jun 2026 07:21:03 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Data breach exposes up to 14.2 million email logins at six ISPs",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/",
-      "summary": "Japanese telecommunications operator KDDI Corporation disclosed a data breach where threat actors gained access to one of its email systems used by five other internet service providers (ISPs) in the country. [...]",
-      "published": "Sun, 28 Jun 2026 10:13:46 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Clean GitHub repo tricks AI coding agents into running malware",
-      "link": "https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/",
-      "summary": "An agentic coding tool tasked with cloning and setting up a seemingly benign GitHub repository could execute a malicious payload that remains invisible to security scanners, AI agents, and human reviewers. [...]",
-      "published": "Sat, 27 Jun 2026 10:22:36 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,6 +313,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Can Clothes Make You Invisible to Facial Recognition?",
+      "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
+      "summary": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
+      "published": "Mon, 29 Jun 2026 19:38:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Iran, Russia, China Target Water Systems for Sabotage",
+      "link": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
+      "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation — not sophisticated malware.",
+      "published": "Mon, 29 Jun 2026 19:12:08 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
+      "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
+      "summary": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
+      "published": "Mon, 29 Jun 2026 11:44:42 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
       "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
       "summary": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
@@ -362,35 +386,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
       "summary": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
       "published": "Fri, 26 Jun 2026 16:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
-      "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
-      "summary": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
-      "published": "Fri, 26 Jun 2026 13:30:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
-      "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
-      "summary": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
-      "published": "Fri, 26 Jun 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Robinhood Cuts Access Approval Time to Support High-Velocity Development",
-      "link": "https://www.darkreading.com/application-security/robinhood-reengineered-access-approvals-for-high-velocity-development",
-      "summary": "The fintech company's engineering-first application security team reengineered the process for granting system access, making it easier and more secure for developers working on their projects. Here are the lessons learned from Robinhood's experience.",
-      "published": "Thu, 25 Jun 2026 22:42:36 GMT",
       "value_score": 10,
       "value_signals": []
     },

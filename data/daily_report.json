@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-06-29 19:49",
+  "last_updated": "2026-06-29 21:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "shinyhunters extortion group",
     "cybercrime group known",
     "resetting account passwords",
     "october 2027 microsoft",
@@ -12,58 +13,57 @@
     "run ad fraud",
     "fast spreading internet",
     "dire critical rating",
-    "automate response workflows",
-    "national security risk",
-    "faces criminal h",
-    "criminal charges stemming",
     "advanced cybersecurity ai",
+    "threat actors exploited",
+    "shinyhunters peoplesoft breach",
     "disinformation campaigns inside",
-    "us seizes hundreds",
     "trump approved customers",
-    "traditional email defenses",
     "ties 119 extensions",
-    "stark industries solutions"
+    "stark industries solutions",
+    "sprawling phishing campaign",
+    "senior administrative staff",
+    "rsa quantum hardware"
   ],
   "trending": [
     {
+      "keyword": "shinyhunters extortion group",
+      "mentions": 13
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 47
+      "mentions": 48
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "october 2027 microsoft",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "public github account",
-      "mentions": 67
+      "mentions": 68
     },
     {
       "keyword": "ukraine throughout 2025",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1970
-    },
-    {
-      "keyword": "run ad fraud",
       "mentions": 3
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1971
+    },
+    {
+      "keyword": "run ad fraud",
+      "mentions": 4
+    },
+    {
       "keyword": "fast spreading internet",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 223
-    },
-    {
-      "keyword": "automate response workflows",
-      "mentions": 2
+      "mentions": 224
     }
   ],
   "articles": [
@@ -148,6 +148,32 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
+      "summary": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
+      "published": "Mon, 29 Jun 2026 16:40:44 -0400",
+      "value_score": 65,
+      "value_signals": [
+        "Zero-day",
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
+      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
+      "summary": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
+      "published": "Mon, 29 Jun 2026 16:30:28 -0400",
+      "value_score": 53,
+      "value_signals": [
+        "Zero-day",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WhatsApp rolls out usernames to help users hide their phone number",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
       "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
@@ -207,24 +233,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why business email compromise attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/",
-      "summary": "Business email compromise attacks increasingly rely on convincing impersonation rather than malware, making them harder for employees and traditional email defenses to detect. This webinar explores how behavioral AI can help identify sophisticated email threats and automate response workflows. [...]",
-      "published": "Mon, 29 Jun 2026 08:14:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US seizes hundreds of FIFA World Cup illegal streaming domains",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/",
-      "summary": "The U.S. Justice Department's Criminal Division has seized nearly 400 web domains used for illegally streaming matches at the FIFA World Cup. [...]",
-      "published": "Mon, 29 Jun 2026 07:21:03 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

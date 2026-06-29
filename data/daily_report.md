@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-29 19:49 UTC  
+> **Last Updated:** 2026-06-29 21:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **resetting account passwords** • **october 2027 microsoft** • **public github account** • **ukraine throughout 2025** • **twitter whistleblower complaint** • **run ad fraud** • **fast spreading internet** • **dire critical rating** • **automate response workflows** • **national security risk** • **faces criminal h** • **criminal charges stemming** • **advanced cybersecurity ai** • **disinformation campaigns inside** • **us seizes hundreds** • **trump approved customers** • **traditional email defenses** • **ties 119 extensions** • **stark industries solutions**
+**shinyhunters extortion group** • **cybercrime group known** • **resetting account passwords** • **october 2027 microsoft** • **public github account** • **ukraine throughout 2025** • **twitter whistleblower complaint** • **run ad fraud** • **fast spreading internet** • **dire critical rating** • **advanced cybersecurity ai** • **threat actors exploited** • **shinyhunters peoplesoft breach** • **disinformation campaigns inside** • **trump approved customers** • **ties 119 extensions** • **stark industries solutions** • **sprawling phishing campaign** • **senior administrative staff** • **rsa quantum hardware**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
+- [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
 - [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
 - [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
 - [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
 - [Agentic AI Has an Identity Problem and Attackers Know It](https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/)
 - [Critical SimpleHelp flaw exploited to deploy new stealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/)
 - [Hackers now exploit critical Oracle E-Business flaw in attacks](https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/)
-- [Webinar: Why business email compromise attacks keep succeeding](https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/)
-- [US seizes hundreds of FIFA World Cup illegal streaming domains](https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/)
 
 ### Krebs on Security
 

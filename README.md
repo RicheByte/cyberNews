@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-29 19:49 UTC |
+| 🕐 Last Updated | 2026-06-29 21:20 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `resetting account passwords` • `october 2027 microsoft` • `public github account` • `ukraine throughout 2025` • `twitter whistleblower complaint` • `run ad fraud` • `fast spreading internet` • `dire critical rating` • `automate response workflows`
+`shinyhunters extortion group` • `cybercrime group known` • `resetting account passwords` • `october 2027 microsoft` • `public github account` • `ukraine throughout 2025` • `twitter whistleblower complaint` • `run ad fraud` • `fast spreading internet` • `dire critical rating`
 
 ## 📄 Reports
 

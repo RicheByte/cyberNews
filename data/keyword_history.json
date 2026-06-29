@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1970,
+      "count": 1971,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1810,7 +1810,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 441,
+      "count": 442,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3706,7 +3706,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -8680,12 +8680,13 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-24",
         "2026-02-25",
         "2026-06-15",
-        "2026-06-16"
+        "2026-06-16",
+        "2026-06-29"
       ]
     },
     "delivers valuable data": {
@@ -17501,7 +17502,7 @@
       ]
     },
     "public github account": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17880,7 +17881,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18271,7 +18272,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18625,7 +18626,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20523,7 +20524,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20814,7 +20815,7 @@
       ]
     },
     "october 2027 microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-26",
         "2026-06-29"
@@ -21003,7 +21004,7 @@
       ]
     },
     "run ad fraud": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-29"
       ]
@@ -21033,7 +21034,7 @@
       ]
     },
     "ukraine throughout 2025": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-29"
       ]
@@ -21045,19 +21046,19 @@
       ]
     },
     "advanced cybersecurity ai": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-29"
       ]
     },
     "disinformation campaigns inside": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-29"
       ]
     },
     "trump approved customers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-29"
       ]
@@ -21069,24 +21070,37 @@
       ]
     },
     "ties 119 extensions": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "threat actors exploited": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "shinyhunters peoplesoft breach": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "senior administrative staff": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "rsa quantum hardware": {
+      "count": 1,
       "dates": [
         "2026-06-29"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-16 09:21",
-      "articles": 56,
-      "top_keywords": [
-        "sprysocks linux malware",
-        "cve 2026 20262",
-        "ransomware attack shuts",
-        "national security risk",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-16 15:05",
       "articles": 56,
@@ -22174,6 +22188,17 @@
         "october 2027 microsoft",
         "public github account",
         "ukraine throughout 2025"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29 21:20",
+      "articles": 48,
+      "top_keywords": [
+        "shinyhunters extortion group",
+        "cybercrime group known",
+        "resetting account passwords",
+        "october 2027 microsoft",
+        "public github account"
       ]
     }
   ]

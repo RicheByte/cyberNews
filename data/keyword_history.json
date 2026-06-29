@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1966,
+      "count": 1967,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -533,7 +533,7 @@
       ]
     },
     "real life identity": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1094,7 +1094,7 @@
       ]
     },
     "national security risk": {
-      "count": 244,
+      "count": 245,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -11267,7 +11267,7 @@
       ]
     },
     "russian intelligence services": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-03-20",
         "2026-03-21",
@@ -17876,7 +17876,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18300,7 +18300,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18311,7 +18311,8 @@
         "2026-06-23",
         "2026-06-25",
         "2026-06-26",
-        "2026-06-27"
+        "2026-06-27",
+        "2026-06-29"
       ]
     },
     "openai codex attracting": {
@@ -18619,7 +18620,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20517,7 +20518,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20837,15 +20838,16 @@
       ]
     },
     "red hat rates": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-26",
         "2026-06-27",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-29"
       ]
     },
     "estimated 3 million": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20854,7 +20856,7 @@
       ]
     },
     "ai won't wipe": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20870,7 +20872,7 @@
       ]
     },
     "security platform providers": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20892,7 +20894,7 @@
       ]
     },
     "account's backup read": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20915,7 +20917,7 @@
       ]
     },
     "cisco adds nhi": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -20933,7 +20935,7 @@
       ]
     },
     "creating openai tenants": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -20941,7 +20943,7 @@
       ]
     },
     "cyber attacks aimed": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -20949,7 +20951,7 @@
       ]
     },
     "state owned enterprises": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -20957,7 +20959,7 @@
       ]
     },
     "protect student data": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -20973,10 +20975,11 @@
       ]
     },
     "powerful terra strikes": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-27",
-        "2026-06-28"
+        "2026-06-28",
+        "2026-06-29"
       ]
     },
     "primary control plane": {
@@ -20984,20 +20987,15 @@
       "dates": [
         "2026-06-28"
       ]
+    },
+    "public poc released": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-15 15:45",
-      "articles": 56,
-      "top_keywords": [
-        "ecostruxure panel server",
-        "banned foreign nationals",
-        "create operational strain",
-        "ransomware attack shuts",
-        "threat actor claims"
-      ]
-    },
     {
       "timestamp": "2026-06-15 19:43",
       "articles": 56,
@@ -22084,6 +22082,17 @@
         "cybercrime group known",
         "cyber attacks aimed",
         "fast spreading internet",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29 08:53",
+      "articles": 48,
+      "top_keywords": [
+        "estimated 3 million",
+        "cybercrime group known",
+        "fast spreading internet",
+        "cyber attacks aimed",
         "twitter whistleblower complaint"
       ]
     }

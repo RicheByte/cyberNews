@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-06-29 02:56",
+  "last_updated": "2026-06-29 08:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "estimated 3 million",
     "cybercrime group known",
-    "cyber attacks aimed",
     "fast spreading internet",
+    "cyber attacks aimed",
     "twitter whistleblower complaint",
-    "third party vendor",
-    "third party actors",
     "security platform providers",
     "real life identity",
     "national security risk",
     "creating openai tenants",
     "cisco adds nhi",
     "account's backup read",
-    "ukrainian targets turla",
+    "public poc released",
     "protect student data",
     "ai won't wipe",
-    "high severity flaw",
     "state owned enterprises",
     "stark industries solutions",
-    "russian intelligence services"
+    "russian intelligence services",
+    "red hat rates",
+    "pro iranian images",
+    "powerful terra strikes"
   ],
   "trending": [
     {
       "keyword": "estimated 3 million",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 43
-    },
-    {
-      "keyword": "cyber attacks aimed",
-      "mentions": 16
+      "mentions": 44
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 99
+      "mentions": 100
+    },
+    {
+      "keyword": "cyber attacks aimed",
+      "mentions": 17
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1966
-    },
-    {
-      "keyword": "third party vendor",
-      "mentions": 32
-    },
-    {
-      "keyword": "third party actors",
-      "mentions": 14
+      "mentions": 1967
     },
     {
       "keyword": "security platform providers",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "real life identity",
-      "mentions": 159
+      "mentions": 160
     },
     {
       "keyword": "national security risk",
-      "mentions": 244
+      "mentions": 245
+    },
+    {
+      "keyword": "creating openai tenants",
+      "mentions": 17
+    },
+    {
+      "keyword": "cisco adds nhi",
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw",
+      "link": "https://thehackernews.com/2026/06/public-poc-released-for-critical.html",
+      "summary": "A public proof-of-concept is now out for CVE-2026-55200, a critical flaw in libssh2 that lets a malicious or compromised SSH server trigger memory corruption on a connecting client, with possible code execution. No credentials, no user interaction. The bug affects every release up to and including 1.11.1 and carries a CVSS 4.0 score of 9.2. libssh2 is a client-side SSH library, not a server.",
+      "published": "Mon, 29 Jun 2026 12:36:34 +0530",
+      "value_score": 80,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "PoC available",
+        "High severity ×2",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
+      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
+      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings,\" JFrog said in a",
+      "published": "Mon, 29 Jun 2026 11:06:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
@@ -127,31 +150,6 @@
       "value_score": 34,
       "value_signals": [
         "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs",
-      "link": "https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html",
-      "summary": "A high-severity flaw in Amazon Q Developer let a malicious repository run commands and steal a developer's cloud credentials. The path was short: a developer opens the repo, trusts the workspace, and Amazon Q does the rest. Amazon has patched it. Tracked as CVE-2026-12957 (CVSS 8.5), the bug sat in how Amazon's AI coding assistant handled Model Context Protocol (MCP) servers. Wiz",
-      "published": "Fri, 26 Jun 2026 19:23:00 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical remote code execution vulnerability impacting PTC Windchill PDMlink and PTC FlexPLM enterprise Product Data Management (PDM) and Product Lifecycle Management (PLM) software to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability in question is",
-      "published": "Fri, 26 Jun 2026 18:01:56 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "RCE ×2",
-        "CISA/KEV ×5",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -402,6 +400,15 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
+      "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
+      "summary": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens. The post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 07:45:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Chinese Framework Powers 200,000 Scam Sites",
       "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
       "summary": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit. The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek .",
@@ -469,17 +476,6 @@
       "published": "Fri, 26 Jun 2026 09:47:35 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets",
-      "link": "https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/",
-      "summary": "Turla has been using the backdoor against government and military organizations in Ukraine for espionage. The post Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 08:55:08 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×3"
-      ]
     },
     {
       "source": "Threatpost",

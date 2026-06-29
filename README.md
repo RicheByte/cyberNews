@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-29 02:56 UTC |
+| 🕐 Last Updated | 2026-06-29 08:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`estimated 3 million` • `cybercrime group known` • `cyber attacks aimed` • `fast spreading internet` • `twitter whistleblower complaint` • `third party vendor` • `third party actors` • `security platform providers` • `real life identity` • `national security risk`
+`estimated 3 million` • `cybercrime group known` • `fast spreading internet` • `cyber attacks aimed` • `twitter whistleblower complaint` • `security platform providers` • `real life identity` • `national security risk` • `creating openai tenants` • `cisco adds nhi`
 
 ## 📄 Reports
 

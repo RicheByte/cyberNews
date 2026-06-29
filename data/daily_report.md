@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-29 02:56 UTC  
+> **Last Updated:** 2026-06-29 08:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**estimated 3 million** • **cybercrime group known** • **cyber attacks aimed** • **fast spreading internet** • **twitter whistleblower complaint** • **third party vendor** • **third party actors** • **security platform providers** • **real life identity** • **national security risk** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **ukrainian targets turla** • **protect student data** • **ai won't wipe** • **high severity flaw** • **state owned enterprises** • **stark industries solutions** • **russian intelligence services**
+**estimated 3 million** • **cybercrime group known** • **fast spreading internet** • **cyber attacks aimed** • **twitter whistleblower complaint** • **security platform providers** • **real life identity** • **national security risk** • **creating openai tenants** • **cisco adds nhi** • **account's backup read** • **public poc released** • **protect student data** • **ai won't wipe** • **state owned enterprises** • **stark industries solutions** • **russian intelligence services** • **red hat rates** • **pro iranian images** • **powerful terra strikes**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
+- [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
 - [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
 - [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
 - [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html)
 - [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html)
 - [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html)
 - [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html)
-- [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html)
-- [CISA Adds Exploited PTC Windchill RCE Flaw to KEV as Web Shell Attacks Continue](https://thehackernews.com/2026/06/cisa-adds-exploited-ptc-windchill-rce.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI](https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/)
 - [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
 - [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
 - [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
@@ -67,7 +68,6 @@
 - [Nebulock Raises $25 Million for AI-Native Contextual Security](https://www.securityweek.com/nebulock-raises-25-million-for-ai-native-contextual-security/)
 - [Linux Foundation Unveils New Open Source Security Project Akrites](https://www.securityweek.com/linux-foundation-unveils-new-open-source-security-project-akrites/)
 - [$3 Million Reportedly Stolen in Polymarket Hack](https://www.securityweek.com/3-million-reportedly-stolen-in-polymarket-hack/)
-- [Russian APT Deploys ‘StockStay’ Backdoor Against Ukrainian Targets](https://www.securityweek.com/russian-apt-deploys-stockstay-backdoor-against-ukrainian-targets/)
 
 ### Threatpost
 

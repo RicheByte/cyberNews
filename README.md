@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-29 14:00 UTC |
+| 🕐 Last Updated | 2026-06-29 16:55 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `single threat actor` • `russian intelligence services` • `fast spreading internet` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `run ad fraud` • `real life identity` • `public poc released` • `latest flagship model`
+`cybercrime group known` • `fast spreading internet` • `ukraine throughout 2025` • `twitter whistleblower complaint` • `run ad fraud` • `criminal charges stemming` • `automate response workflows` • `resetting account passwords` • `public github account` • `national security risk`
 
 ## 📄 Reports
 

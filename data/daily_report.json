@@ -1,72 +1,102 @@
 {
-  "last_updated": "2026-06-29 14:00",
+  "last_updated": "2026-06-29 16:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "single threat actor",
-    "russian intelligence services",
     "fast spreading internet",
+    "ukraine throughout 2025",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
     "run ad fraud",
-    "real life identity",
-    "public poc released",
-    "latest flagship model",
-    "estimated 3 million",
     "criminal charges stemming",
-    "cisco adds nhi",
-    "security platform providers",
-    "national security risk",
+    "automate response workflows",
     "resetting account passwords",
     "public github account",
-    "ongoing cyber onslaught",
-    "will inevitably change",
-    "us seizes hundreds"
+    "national security risk",
+    "advanced cybersecurity ai",
+    "disinformation campaigns inside",
+    "security platform providers",
+    "us seizes hundreds",
+    "trump approved customers",
+    "traditional email defenses",
+    "ties 119 extensions",
+    "stark industries solutions",
+    "sprawling phishing campaign",
+    "single threat actor"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 45
-    },
-    {
-      "keyword": "single threat actor",
-      "mentions": 19
-    },
-    {
-      "keyword": "russian intelligence services",
       "mentions": 46
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 101
+      "mentions": 102
+    },
+    {
+      "keyword": "ukraine throughout 2025",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1968
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 440
+      "mentions": 1969
     },
     {
       "keyword": "run ad fraud",
-      "mentions": 1
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 161
-    },
-    {
-      "keyword": "public poc released",
       "mentions": 2
     },
     {
-      "keyword": "latest flagship model",
+      "keyword": "criminal charges stemming",
+      "mentions": 20
+    },
+    {
+      "keyword": "automate response workflows",
       "mentions": 1
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 81
+    },
+    {
+      "keyword": "public github account",
+      "mentions": 66
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 247
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
+      "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
+      "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,",
+      "published": "Mon, 29 Jun 2026 21:39:21 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
+      "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
+      "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Unit found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with",
+      "published": "Mon, 29 Jun 2026 20:33:40 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
+      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s the full Monday recap. ⚡ Threat of the Week New DirtyClone Linux Kernel Flaw Lets Local",
+      "published": "Mon, 29 Jun 2026 20:11:07 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
@@ -122,31 +152,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer",
-      "link": "https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html",
-      "summary": "Cybersecurity researchers have uncovered two hijacked npm packages and a cluster of Go packages that are designed to deploy a Python-based information stealer on compromised Windows, Linux, and macOS hosts. \"This attack avoids the most common npm execution paths through lifecycle scripts, perhaps in an attempt to remain 'compatible' with npm v12's security hardenings,\" JFrog said in a",
-      "published": "Mon, 29 Jun 2026 11:06:06 +0530",
+      "source": "BleepingComputer",
+      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
+      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
+      "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]",
+      "published": "Mon, 29 Jun 2026 11:09:43 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials",
-      "link": "https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html",
-      "summary": "The Security Service of Ukraine (SSU) said it, together with the U.S. Federal Bureau of Investigation (FBI), uncovered a long-running campaign orchestrated by Russian intelligence services to break into the messaging accounts of government officials, military personnel, politicians, and activists in Ukraine, Europe, and the U.S. The systematic cyber attacks aimed at stealing sensitive",
-      "published": "Sat, 27 Jun 2026 22:57:11 +0530",
+      "source": "BleepingComputer",
+      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
+      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
+      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
+      "published": "Mon, 29 Jun 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html",
-      "summary": "OpenAI on Friday released three versions of GPT-5.6, called Sol, Terra, and Luna, as a limited preview to a small number of companies as part of an ongoing engagement with the U.S. government. While Sol is the latest flagship model and the most powerful, Terra strikes a balance between efficiency and power, and Luna is fine-tuned for speed and affordability. \"GPT‑5.6 Sol launches with our most",
-      "published": "Sat, 27 Jun 2026 17:49:37 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
+      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
+      "published": "Mon, 29 Jun 2026 10:00:00 -0400",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -198,43 +232,6 @@
       "published": "Sat, 27 Jun 2026 10:22:36 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Russian hackers now target Signal backup recovery keys",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/",
-      "summary": "The FBI and CISA are warning that a phishing campaign targeting Signal users tied to Russian intelligence services has evolved to steal Signal Backup Recovery Keys, allowing attackers to access victims' historical messages. [...]",
-      "published": "Fri, 26 Jun 2026 18:06:17 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "Phishing",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA sets urgent deadline to fix Cisco flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is giving federal agencies until Sunday to patch a vulnerability in Cisco Unified Communications Manager Server that is being actively exploited. [...]",
-      "published": "Fri, 26 Jun 2026 15:43:06 -0400",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Polymarket customers lose $3 million in supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/",
-      "summary": "Polymarket says it will fully reimburse customers who lost an estimated $3 million after hackers injected a malicious script into the platform's frontend following a breach at a third-party vendor. [...]",
-      "published": "Fri, 26 Jun 2026 14:04:12 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -399,6 +396,33 @@
     },
     {
       "source": "Security Week",
+      "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
+      "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
+      "summary": "An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users. The post WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 16:00:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
+      "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
+      "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 14:28:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Straiker Raises $64 Million for AI Security Platform",
+      "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
+      "summary": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks. The post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWeek .",
+      "published": "Mon, 29 Jun 2026 14:07:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
       "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
       "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
@@ -441,35 +465,6 @@
       "published": "Mon, 29 Jun 2026 07:45:57 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chinese Framework Powers 200,000 Scam Sites",
-      "link": "https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/",
-      "summary": "Threat actors are selling investment scam templates created using the legitimate DCloud Uni-App toolkit. The post Chinese Framework Powers 200,000 Scam Sites appeared first on SecurityWeek .",
-      "published": "Sat, 27 Jun 2026 12:13:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories",
-      "link": "https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/",
-      "summary": "AWS has patched the vulnerability and published its own advisory to inform customers about the potential impact. The post Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 15:23:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "More Klue Breach Victims Identified as Hackers Get Hacked",
-      "link": "https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/",
-      "summary": "Roughly two dozen companies have notified their customers of the Klue-Salesforce incident impact. The post More Klue Breach Victims Identified as Hackers Get Hacked appeared first on SecurityWeek .",
-      "published": "Fri, 26 Jun 2026 15:01:33 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1968,
+      "count": 1969,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1094,7 +1094,7 @@
       ]
     },
     "national security risk": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1810,7 +1810,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 440,
+      "count": 441,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -7508,7 +7508,7 @@
       ]
     },
     "single threat actor": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-14",
         "2026-02-15",
@@ -17500,7 +17500,7 @@
       ]
     },
     "public github account": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17879,7 +17879,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18270,7 +18270,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18624,7 +18624,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20522,7 +20522,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20569,7 +20569,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20877,7 +20877,7 @@
       ]
     },
     "security platform providers": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-26",
         "2026-06-27",
@@ -21000,7 +21000,7 @@
       ]
     },
     "run ad fraud": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-29"
       ]
@@ -21024,6 +21024,48 @@
       ]
     },
     "us seizes hundreds": {
+      "count": 2,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "ukraine throughout 2025": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "automate response workflows": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "advanced cybersecurity ai": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "disinformation campaigns inside": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "trump approved customers": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "traditional email defenses": {
+      "count": 1,
+      "dates": [
+        "2026-06-29"
+      ]
+    },
+    "ties 119 extensions": {
       "count": 1,
       "dates": [
         "2026-06-29"
@@ -21031,17 +21073,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-15 22:13",
-      "articles": 56,
-      "top_keywords": [
-        "ransomware attack shuts",
-        "twitter whistleblower complaint",
-        "real life identity",
-        "onboarding password mistake",
-        "leak 297 gb"
-      ]
-    },
     {
       "timestamp": "2026-06-16 03:34",
       "articles": 56,
@@ -22129,6 +22160,17 @@
         "russian intelligence services",
         "fast spreading internet",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-06-29 16:55",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "fast spreading internet",
+        "ukraine throughout 2025",
+        "twitter whistleblower complaint",
+        "run ad fraud"
       ]
     }
   ]

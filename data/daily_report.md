@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-29 14:00 UTC  
+> **Last Updated:** 2026-06-29 16:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **single threat actor** • **russian intelligence services** • **fast spreading internet** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **run ad fraud** • **real life identity** • **public poc released** • **latest flagship model** • **estimated 3 million** • **criminal charges stemming** • **cisco adds nhi** • **security platform providers** • **national security risk** • **resetting account passwords** • **public github account** • **ongoing cyber onslaught** • **will inevitably change** • **us seizes hundreds**
+**cybercrime group known** • **fast spreading internet** • **ukraine throughout 2025** • **twitter whistleblower complaint** • **run ad fraud** • **criminal charges stemming** • **automate response workflows** • **resetting account passwords** • **public github account** • **national security risk** • **advanced cybersecurity ai** • **disinformation campaigns inside** • **security platform providers** • **us seizes hundreds** • **trump approved customers** • **traditional email defenses** • **ties 119 extensions** • **stark industries solutions** • **sprawling phishing campaign** • **single threat actor**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
+- [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
+- [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
 - [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
 - [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
 - [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
 - [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
 - [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html)
-- [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html)
-- [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html)
-- [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html)
 
 ### BleepingComputer
 
+- [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
+- [Agentic AI Has an Identity Problem and Attackers Know It](https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/)
+- [Critical SimpleHelp flaw exploited to deploy new stealer malware](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/)
 - [Hackers now exploit critical Oracle E-Business flaw in attacks](https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/)
 - [Webinar: Why business email compromise attacks keep succeeding](https://www.bleepingcomputer.com/news/security/webinar-why-business-email-compromise-attacks-keep-succeeding/)
 - [US seizes hundreds of FIFA World Cup illegal streaming domains](https://www.bleepingcomputer.com/news/security/us-seizes-hundreds-of-fifa-world-cup-illegal-streaming-domains/)
 - [Data breach exposes up to 14.2 million email logins at six ISPs](https://www.bleepingcomputer.com/news/security/data-breach-exposes-up-to-142-million-email-logins-at-six-isps/)
 - [Clean GitHub repo tricks AI coding agents into running malware](https://www.bleepingcomputer.com/news/security/clean-github-repo-tricks-ai-coding-agents-into-running-malware/)
-- [FBI: Russian hackers now target Signal backup recovery keys](https://www.bleepingcomputer.com/news/security/fbi-russian-hackers-now-target-signal-backup-recovery-keys/)
-- [CISA sets urgent deadline to fix Cisco flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-sets-urgent-deadline-to-fix-cisco-flaw-exploited-in-attacks/)
-- [Polymarket customers lose $3 million in supply-chain attack](https://www.bleepingcomputer.com/news/security/polymarket-customers-lose-3-million-in-supply-chain-attack/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy](https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/)
+- [Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines](https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/)
+- [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/)
 - [Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack](https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/)
 - [‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access](https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/)
 - [OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review](https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/)
 - [US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve](https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/)
 - [OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI](https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/)
-- [Chinese Framework Powers 200,000 Scam Sites](https://www.securityweek.com/chinese-framework-powers-200000-scam-sites/)
-- [Amazon Q Flaw Enabled Cloud Credential Theft via Malicious Repositories](https://www.securityweek.com/amazon-q-flaw-enabled-cloud-credential-theft-via-malicious-repositories/)
-- [More Klue Breach Victims Identified as Hackers Get Hacked](https://www.securityweek.com/more-klue-breach-victims-identified-as-hackers-get-hacked/)
 
 ### Threatpost
 

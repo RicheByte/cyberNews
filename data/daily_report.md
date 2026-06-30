@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-30 17:48 UTC  
+> **Last Updated:** 2026-06-30 19:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party actors** • **teams meetings microsoft** • **real life identity** • **cybercrime group known** • **past six months** • **fake perplexity extension** • **protect student data** • **critical langflow vulnerability** • **unsuspecting users initiate** • **twitter whistleblower complaint** • **resetting account passwords** • **fast spreading internet** • **codenamed silent swap** • **bank account information** • **bluehammer vulnerability exploited** • **national security risk** • **threat actors exploited** • **dire critical rating** • **unknown threat actor** • **langflow rce exploited**
+**third party actors** • **teams meetings microsoft** • **cybercrime group known** • **critical langflow vulnerability** • **unsuspecting users initiate** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **protect student data** • **bank account information** • **bluehammer vulnerability exploited** • **threat actors exploited** • **past six months** • **dire critical rating** • **national security risk** • **unknown threat actor** • **langflow rce exploited** • **wider enterprise systems** • **stark industries solutions** • **shinyhunters extortion group**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data](https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html)
+- [RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS](https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html)
 - [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
 - [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
 - [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
 - [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
 - [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
 - [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
-- [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
-- [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
-- [AI-Generated Workflows Are a Silent Security Disaster](https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster)
-- [NIST Enrichment Reductions Impact CVE Coverage, Accuracy](https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy)
 - ['Djinn' Stealer Targets Cloud, AI Credentials](https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials)
 - [Vulnerabilities Expose Private Data in Indian Government Systems](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems)
 - [Can Clothes Make You Invisible to Facial Recognition?](https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition)
 - [Iran, Russia, China Target Water Systems for Sabotage](https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage)
 - [Amazon Q VS Extension Flaw Leads to Cloud Credential Theft](https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft)
 - [Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk](https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk)
+- [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
+- [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
 
 ### Security Week
 

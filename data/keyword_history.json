@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1977,
+      "count": 1978,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -534,7 +534,7 @@
       ]
     },
     "real life identity": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1096,7 +1096,7 @@
       ]
     },
     "national security risk": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3710,7 +3710,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -8685,7 +8685,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -17889,7 +17889,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18113,7 +18113,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18282,7 +18282,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18783,7 +18783,7 @@
       ]
     },
     "past six months": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20538,7 +20538,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20984,7 +20984,7 @@
       ]
     },
     "protect student data": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -20993,7 +20993,7 @@
       ]
     },
     "third party actors": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -21100,7 +21100,7 @@
       ]
     },
     "threat actors exploited": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-29",
         "2026-06-30"
@@ -21176,13 +21176,13 @@
       ]
     },
     "teams meetings microsoft": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
     },
     "bank account information": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
@@ -21194,7 +21194,7 @@
       ]
     },
     "bluehammer vulnerability exploited": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
@@ -21212,13 +21212,13 @@
       ]
     },
     "critical langflow vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
     },
     "unsuspecting users initiate": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
@@ -21230,6 +21230,12 @@
       ]
     },
     "langflow rce exploited": {
+      "count": 2,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "wider enterprise systems": {
       "count": 1,
       "dates": [
         "2026-06-30"
@@ -21237,17 +21243,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-17 16:51",
-      "articles": 56,
-      "top_keywords": [
-        "1password acquires apono",
-        "rockwell automation flex",
-        "rockwell automation compactlogix",
-        "tenet security emerges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-17 20:06",
       "articles": 56,
@@ -22335,6 +22330,17 @@
         "real life identity",
         "cybercrime group known",
         "past six months"
+      ]
+    },
+    {
+      "timestamp": "2026-06-30 19:47",
+      "articles": 48,
+      "top_keywords": [
+        "third party actors",
+        "teams meetings microsoft",
+        "cybercrime group known",
+        "critical langflow vulnerability",
+        "unsuspecting users initiate"
       ]
     }
   ]

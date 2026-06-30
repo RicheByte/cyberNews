@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-06-30 17:48",
+  "last_updated": "2026-06-30 19:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "third party actors",
     "teams meetings microsoft",
-    "real life identity",
     "cybercrime group known",
-    "past six months",
-    "fake perplexity extension",
-    "protect student data",
     "critical langflow vulnerability",
     "unsuspecting users initiate",
     "twitter whistleblower complaint",
     "resetting account passwords",
-    "fast spreading internet",
-    "codenamed silent swap",
+    "real life identity",
+    "protect student data",
     "bank account information",
     "bluehammer vulnerability exploited",
-    "national security risk",
     "threat actors exploited",
+    "past six months",
     "dire critical rating",
+    "national security risk",
     "unknown threat actor",
-    "langflow rce exploited"
+    "langflow rce exploited",
+    "wider enterprise systems",
+    "stark industries solutions",
+    "shinyhunters extortion group"
   ],
   "trending": [
     {
       "keyword": "third party actors",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "teams meetings microsoft",
-      "mentions": 2
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 163
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 54
-    },
-    {
-      "keyword": "past six months",
-      "mentions": 12
-    },
-    {
-      "keyword": "fake perplexity extension",
-      "mentions": 1
-    },
-    {
-      "keyword": "protect student data",
-      "mentions": 16
+      "mentions": 55
     },
     {
       "keyword": "critical langflow vulnerability",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "unsuspecting users initiate",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1977
+      "mentions": 1978
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 90
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 164
+    },
+    {
+      "keyword": "protect student data",
+      "mentions": 17
+    },
+    {
+      "keyword": "bank account information",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
+      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
+      "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire. The work comes from Microsoft Incident Response and its",
+      "published": "Tue, 30 Jun 2026 23:16:07 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
+      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
+      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing. The end goal is a",
+      "published": "Tue, 30 Jun 2026 23:15:25 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
@@ -133,24 +155,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt. The same research found Quick Share flaws that",
-      "published": "Tue, 30 Jun 2026 14:57:58 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
-      "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
-      "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension. An",
-      "published": "Tue, 30 Jun 2026 14:07:19 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -325,24 +329,6 @@
     },
     {
       "source": "Dark Reading",
-      "title": "AI-Generated Workflows Are a Silent Security Disaster",
-      "link": "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
-      "summary": "Teams are dealing with a truly dangerous problem — automation that works, but that no one understands.",
-      "published": "Tue, 30 Jun 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "NIST Enrichment Reductions Impact CVE Coverage, Accuracy",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
-      "summary": "The National Institute of Standards and Technology (NIST) scaled back the number of CVEs it selects for in-depth analysis, but the move has produced mixed results, according to researchers.",
-      "published": "Mon, 29 Jun 2026 22:46:45 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
       "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
       "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
@@ -406,6 +392,24 @@
       "value_signals": [
         "Ransomware"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
+      "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
+      "published": "Fri, 26 Jun 2026 19:11:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
+      "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
+      "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
+      "published": "Fri, 26 Jun 2026 17:31:04 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",

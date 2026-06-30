@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1979,
+      "count": 1980,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3710,7 +3710,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17889,7 +17889,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18113,7 +18113,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18282,7 +18282,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18317,7 +18317,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18783,7 +18783,7 @@
       ]
     },
     "past six months": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20538,7 +20538,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21176,13 +21176,13 @@
       ]
     },
     "teams meetings microsoft": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30"
       ]
     },
     "bank account information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30"
       ]
@@ -21194,7 +21194,7 @@
       ]
     },
     "bluehammer vulnerability exploited": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30"
       ]
@@ -21206,37 +21206,37 @@
       ]
     },
     "fake perplexity extension": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
     },
     "critical langflow vulnerability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30"
       ]
     },
     "unsuspecting users initiate": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30"
       ]
     },
     "codenamed silent swap": {
-      "count": 2,
-      "dates": [
-        "2026-06-30"
-      ]
-    },
-    "langflow rce exploited": {
       "count": 3,
       "dates": [
         "2026-06-30"
       ]
     },
+    "langflow rce exploited": {
+      "count": 4,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
     "wider enterprise systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
@@ -21254,7 +21254,7 @@
       ]
     },
     "trojanized pyrogram forks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
@@ -21272,13 +21272,13 @@
       ]
     },
     "read arbitrary files": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
     },
     "poisoned tool description": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
@@ -21303,17 +21303,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-17 23:19",
-      "articles": 56,
-      "top_keywords": [
-        "1password acquires apono",
-        "rockwell automation flex",
-        "rockwell automation compactlogix",
-        "tenet security emerges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-18 03:25",
       "articles": 56,
@@ -22401,6 +22390,17 @@
         "unsuspecting users initiate",
         "twitter whistleblower complaint",
         "teams meetings microsoft"
+      ]
+    },
+    {
+      "timestamp": "2026-06-30 23:05",
+      "articles": 48,
+      "top_keywords": [
+        "critical langflow vulnerability",
+        "cybercrime group known",
+        "bluehammer vulnerability exploited",
+        "unsuspecting users initiate",
+        "twitter whistleblower complaint"
       ]
     }
   ]

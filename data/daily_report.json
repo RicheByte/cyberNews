@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-06-30 21:23",
+  "last_updated": "2026-06-30 23:05",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
     "critical langflow vulnerability",
+    "cybercrime group known",
     "bluehammer vulnerability exploited",
     "unsuspecting users initiate",
     "twitter whistleblower complaint",
     "teams meetings microsoft",
-    "since february 2026",
     "fake perplexity extension",
     "codenamed silent swap",
+    "bank account information",
     "unknown threat actor",
-    "blackfield ransomware gang",
+    "past six months",
+    "dire critical rating",
     "langflow rce exploited",
     "wider enterprise systems",
     "trojanized pyrogram forks",
-    "similar campaigns described",
-    "rustduck botnet rebuilds",
+    "stark industries solutions",
+    "resetting account passwords",
     "read arbitrary files",
-    "poisoned tool description",
-    "phishers gain persistence",
-    "online services offline",
-    "large japanese manufacturer"
+    "pro iranian images",
+    "poisoned tool description"
   ],
   "trending": [
     {
       "keyword": "critical langflow vulnerability",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 56
     },
     {
       "keyword": "bluehammer vulnerability exploited",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "unsuspecting users initiate",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1979
-    },
-    {
-      "keyword": "teams meetings microsoft",
       "mentions": 4
     },
     {
-      "keyword": "since february 2026",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1980
+    },
+    {
+      "keyword": "teams meetings microsoft",
+      "mentions": 5
     },
     {
       "keyword": "fake perplexity extension",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "codenamed silent swap",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "bank account information",
+      "mentions": 4
     },
     {
       "keyword": "unknown threat actor",
-      "mentions": 37
-    },
-    {
-      "keyword": "blackfield ransomware gang",
-      "mentions": 1
+      "mentions": 38
     }
   ],
   "articles": [
@@ -158,6 +158,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New BioShocking attack manipulates AI browser into data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
+      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
+      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
       "summary": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]",
@@ -222,15 +231,109 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-      "published": "Tue, 30 Jun 2026 05:41:05 -0400",
+      "source": "Krebs on Security",
+      "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
+      "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
+      "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
+      "published": "Tue, 23 Jun 2026 16:12:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm",
+      "link": "https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/",
+      "summary": "For the past four years, a sprawling Android-based botnet called Popa has forced millions of consumer TV boxes to relay Internet traffic linked to advertising fraud, account takeovers, and mass data-scraping efforts. This week, researchers from multiple security firms concluded that the Popa botnet is linked to NetNut, a \"residential proxy\" provider operated by the publicly-traded Israeli firm Alarum Technologies Ltd [NASDAQ: ALAR].",
+      "published": "Thu, 18 Jun 2026 17:37:58 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
+      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
+      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
+      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
       "value_score": 46,
       "value_signals": [
-        "Ransomware ×2"
+        "Ransomware ×3"
       ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "A Record-Breaking Patch Tuesday for June 2026",
+      "link": "https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/",
+      "summary": "Microsoft today released software updates to plug nearly 200 security holes across its Windows operating systems and supported software, a record number of fixes for the company's monthly Patch Tuesday cycle. Nearly three dozen of those bugs earned Microsoft's most dire \"critical\" rating, and exploit code for at least three of the weaknesses is now publicly available.",
+      "published": "Tue, 09 Jun 2026 22:07:28 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts",
+      "link": "https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/",
+      "summary": "The Instagram accounts for the Obama White House and the Chief Master Sergeant of the U.S. Space Force were briefly defaced with pro-Iranian images and messages over the weekend, after instructions began circulating on Telegram showing how to trick Meta's \"AI support assistant\" bot into resetting account passwords.",
+      "published": "Mon, 01 Jun 2026 17:32:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
+      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
+      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
+      "published": "Mon, 25 May 2026 13:21:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
+      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
+      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
+      "published": "Fri, 22 May 2026 16:34:24 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Breach/leak ×2",
+        "CISA/KEV ×4"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
+      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
+      "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
+      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal h",
+      "published": "Thu, 21 May 2026 21:50:25 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
+      "link": "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents",
+      "summary": "\"Agentjacking\" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions.",
+      "published": "Tue, 30 Jun 2026 21:37:50 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Hijack Exposed AI Endpoints to Power Offensive Ops",
+      "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
+      "summary": "Attackers don't need any special authentication to reach a target endpoint — they just need to know where it is.",
+      "published": "Tue, 30 Jun 2026 21:01:58 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -290,26 +393,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Can Clothes Make You Invisible to Facial Recognition?",
-      "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
-      "summary": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
-      "published": "Mon, 29 Jun 2026 19:38:04 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Iran, Russia, China Target Water Systems for Sabotage",
-      "link": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
-      "summary": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation — not sophisticated malware.",
-      "published": "Mon, 29 Jun 2026 19:12:08 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

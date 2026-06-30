@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-06-30 07:48",
+  "last_updated": "2026-06-30 10:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "shinyhunters extortion group",
-    "cybercrime group known",
     "october 2027 microsoft",
+    "cybercrime group known",
+    "shinyhunters extortion group",
     "resetting account passwords",
-    "public github account",
-    "dire critical rating",
+    "remote hacking cisa",
     "twitter whistleblower complaint",
+    "past six months",
     "fast spreading internet",
-    "monday officially announced",
-    "full monday recap",
-    "threat actors exploited",
-    "shinyhunters peoplesoft breach",
+    "security firm layerx",
+    "public github account",
     "national security risk",
+    "dire critical rating",
+    "cve 2026 43707",
+    "claude code spawning",
     "unc4221 hacker groups",
-    "trump approved customers",
     "third party actors",
     "stark industries solutions",
-    "sprawling phishing campaign",
     "senior administrative staff",
-    "safari web browser"
+    "safari web browser",
+    "routed every query"
   ],
   "trending": [
     {
-      "keyword": "shinyhunters extortion group",
-      "mentions": 16
+      "keyword": "october 2027 microsoft",
+      "mentions": 9
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 51
+      "mentions": 52
     },
     {
-      "keyword": "october 2027 microsoft",
-      "mentions": 8
+      "keyword": "shinyhunters extortion group",
+      "mentions": 17
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 86
+      "mentions": 87
     },
     {
-      "keyword": "public github account",
-      "mentions": 71
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 227
+      "keyword": "remote hacking cisa",
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1974
+      "mentions": 1975
+    },
+    {
+      "keyword": "past six months",
+      "mentions": 10
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 107
+      "mentions": 108
     },
     {
-      "keyword": "monday officially announced",
+      "keyword": "security firm layerx",
       "mentions": 1
     },
     {
-      "keyword": "full monday recap",
-      "mentions": 1
+      "keyword": "public github account",
+      "mentions": 72
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
+      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
+      "summary": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt. The same research found Quick Share flaws that",
+      "published": "Tue, 30 Jun 2026 14:57:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
+      "link": "https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html",
+      "summary": "Convince an AI browser that it is playing a game, and it can hand over your login details. That is the finding behind BioShocking, a technique from security firm LayerX that tricked six AI browsers and assistants into copying a user's credentials and sending them to an attacker. The targets included OpenAI's ChatGPT Atlas, Perplexity's Comet, and Anthropic's Claude browser extension. An",
+      "published": "Tue, 30 Jun 2026 14:07:19 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth",
+      "link": "https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html",
+      "summary": "A critical vulnerability in Progress Kemp LoadMaster can let an unauthenticated attacker execute arbitrary commands as root on the appliance by sending a crafted request to its API. The flaw, tracked as CVE-2026-8037, carries a CVSS score of 9.8 according to ZDI. A patch is available. If you run LoadMaster with the API enabled, update now. Progress published its advisory on June",
+      "published": "Tue, 30 Jun 2026 13:08:07 +0530",
+      "value_score": 52,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
@@ -121,36 +152,39 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "summary": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s the full Monday recap. ⚡ Threat of the Week New DirtyClone Linux Kernel Flaw Lets Local",
-      "published": "Mon, 29 Jun 2026 20:11:07 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Patch/update",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "summary": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation",
-      "published": "Mon, 29 Jun 2026 17:27:40 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
-      "published": "Mon, 29 Jun 2026 17:12:16 +0530",
+      "source": "BleepingComputer",
+      "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
+      "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
+      "summary": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
+      "published": "Tue, 30 Jun 2026 05:46:39 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
+      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
+      "summary": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
+      "published": "Tue, 30 Jun 2026 05:41:05 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
+      "summary": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
+      "published": "Tue, 30 Jun 2026 04:53:13 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Zero-day",
+        "Ransomware ×2",
+        "Privilege escalation",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -204,41 +238,6 @@
       "published": "Mon, 29 Jun 2026 11:09:43 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Agentic AI Has an Identity Problem and Attackers Know It",
-      "link": "https://www.bleepingcomputer.com/news/security/agentic-ai-has-an-identity-problem-and-attackers-know-it/",
-      "summary": "AI agents can access data, trigger workflows, and take action across enterprise systems. Token Security explains why governing these privileged identities is becoming essential for enterprise security. [...]",
-      "published": "Mon, 29 Jun 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical SimpleHelp flaw exploited to deploy new stealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-simplehelp-flaw-deploy-new-djinn-infostealer-taskweaver-malware/",
-      "summary": "Hackers are exploiting a recently disclosed critical vulnerability (CVE-2026-48558) in SimpleHelp to deploy Djinn Stealer, a previously undocumented cross-platform information stealer targeting Windows, macOS, and Linux. [...]",
-      "published": "Mon, 29 Jun 2026 10:00:00 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers now exploit critical Oracle E-Business flaw in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-oracle-e-business-suite-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-46817) in the Oracle E-Business Suite (EBS) financial application, according to threat intelligence company Defused. [...]",
-      "published": "Mon, 29 Jun 2026 09:46:17 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -411,6 +410,36 @@
     },
     {
       "source": "Security Week",
+      "title": "The AI Token Costs That Can Break Cybersecurity",
+      "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
+      "summary": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits. The post The AI Token Costs That Can Break Cybersecurity appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
+      "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
+      "summary": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 09:25:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
+      "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
+      "summary": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling. The post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 08:43:10 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
       "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
       "summary": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities. The post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared first on SecurityWeek .",
@@ -453,33 +482,6 @@
       "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
       "summary": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks. The post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWeek .",
       "published": "Mon, 29 Jun 2026 14:07:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack",
-      "link": "https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/",
-      "summary": "The ShinyHunters extortion group claims to have stolen 3.1 TB of data from the organization. The post Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 13:42:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access",
-      "link": "https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/",
-      "summary": "A variant of DirtyFrag, the flaw allows unprivileged local users to manipulate the Linux page cache and gain root privileges. The post ‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 11:20:13 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review",
-      "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
-      "summary": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration. The post OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 10:14:01 +0000",
       "value_score": 10,
       "value_signals": []
     },

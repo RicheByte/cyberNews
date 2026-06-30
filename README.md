@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-30 07:48 UTC |
+| 🕐 Last Updated | 2026-06-30 10:52 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`shinyhunters extortion group` • `cybercrime group known` • `october 2027 microsoft` • `resetting account passwords` • `public github account` • `dire critical rating` • `twitter whistleblower complaint` • `fast spreading internet` • `monday officially announced` • `full monday recap`
+`october 2027 microsoft` • `cybercrime group known` • `shinyhunters extortion group` • `resetting account passwords` • `remote hacking cisa` • `twitter whistleblower complaint` • `past six months` • `fast spreading internet` • `security firm layerx` • `public github account`
 
 ## 📄 Reports
 

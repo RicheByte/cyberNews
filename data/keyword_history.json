@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1974,
+      "count": 1975,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1095,7 +1095,7 @@
       ]
     },
     "national security risk": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3709,7 +3709,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 227,
+      "count": 228,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -8684,7 +8684,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -9020,9 +9020,10 @@
       ]
     },
     "remote hacking cisa": {
-      "count": 7,
+      "count": 8,
       "dates": [
-        "2026-02-27"
+        "2026-02-27",
+        "2026-06-30"
       ]
     },
     "bypass authentication cause": {
@@ -17507,7 +17508,7 @@
       ]
     },
     "public github account": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17887,7 +17888,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18279,7 +18280,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18634,7 +18635,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18779,11 +18780,12 @@
       ]
     },
     "past six months": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-04",
         "2026-06-05",
-        "2026-06-26"
+        "2026-06-26",
+        "2026-06-30"
       ]
     },
     "software supply channel": {
@@ -20533,7 +20535,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20825,7 +20827,7 @@
       ]
     },
     "october 2027 microsoft": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-26",
         "2026-06-29",
@@ -20987,7 +20989,7 @@
       ]
     },
     "third party actors": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -21108,7 +21110,7 @@
       ]
     },
     "senior administrative staff": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-29",
         "2026-06-30"
@@ -21134,12 +21136,36 @@
       ]
     },
     "unc4221 hacker groups": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
     },
     "safari web browser": {
+      "count": 2,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "security firm layerx": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "cve 2026 43707": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "claude code spawning": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "routed every query": {
       "count": 1,
       "dates": [
         "2026-06-30"
@@ -21147,17 +21173,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-17 03:33",
-      "articles": 56,
-      "top_keywords": [
-        "sensitive system information",
-        "twitter whistleblower complaint",
-        "stolen 1 3tb",
-        "resetting account passwords",
-        "fortisandbox jrpc api"
-      ]
-    },
     {
       "timestamp": "2026-06-17 08:57",
       "articles": 56,
@@ -22245,6 +22260,17 @@
         "october 2027 microsoft",
         "resetting account passwords",
         "public github account"
+      ]
+    },
+    {
+      "timestamp": "2026-06-30 10:52",
+      "articles": 48,
+      "top_keywords": [
+        "october 2027 microsoft",
+        "cybercrime group known",
+        "shinyhunters extortion group",
+        "resetting account passwords",
+        "remote hacking cisa"
       ]
     }
   ]

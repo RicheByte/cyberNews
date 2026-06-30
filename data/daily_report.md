@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-30 14:07 UTC  
+> **Last Updated:** 2026-06-30 17:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**teams meetings microsoft** • **cybercrime group known** • **third party actors** • **shinyhunters extortion group** • **resetting account passwords** • **bank account information** • **twitter whistleblower complaint** • **security firm layerx** • **real life identity** • **past six months** • **help users connect** • **fast spreading internet** • **public github account** • **national security risk** • **bluehammer vulnerability exploited** • **unknown threat actor** • **threat actor activity** • **stark industries solutions** • **routed every query** • **pro iranian images**
+**third party actors** • **teams meetings microsoft** • **real life identity** • **cybercrime group known** • **past six months** • **fake perplexity extension** • **protect student data** • **critical langflow vulnerability** • **unsuspecting users initiate** • **twitter whistleblower complaint** • **resetting account passwords** • **fast spreading internet** • **codenamed silent swap** • **bank account information** • **bluehammer vulnerability exploited** • **national security risk** • **threat actors exploited** • **dire critical rating** • **unknown threat actor** • **langflow rce exploited**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints](https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html)
+- [Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses](https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html)
+- [GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks](https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html)
+- [282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study](https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html)
 - [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
 - [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 - [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
 - [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
-- [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
-- [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
-- [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
-- [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 
 ### BleepingComputer
 
+- [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
 - [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
 - [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
 - [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
@@ -34,7 +35,6 @@
 - [Blackfield ransomware asks Nidec Corporation for $2 million ransom](https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/)
 - [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
 - [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
-- [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
 
 ### Krebs on Security
 

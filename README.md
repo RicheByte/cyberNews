@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-30 14:07 UTC |
+| 🕐 Last Updated | 2026-06-30 17:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`teams meetings microsoft` • `cybercrime group known` • `third party actors` • `shinyhunters extortion group` • `resetting account passwords` • `bank account information` • `twitter whistleblower complaint` • `security firm layerx` • `real life identity` • `past six months`
+`third party actors` • `teams meetings microsoft` • `real life identity` • `cybercrime group known` • `past six months` • `fake perplexity extension` • `protect student data` • `critical langflow vulnerability` • `unsuspecting users initiate` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

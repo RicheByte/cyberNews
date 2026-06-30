@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-06-30 10:52",
+  "last_updated": "2026-06-30 14:07",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "october 2027 microsoft",
+    "teams meetings microsoft",
     "cybercrime group known",
+    "third party actors",
     "shinyhunters extortion group",
     "resetting account passwords",
-    "remote hacking cisa",
+    "bank account information",
     "twitter whistleblower complaint",
-    "past six months",
-    "fast spreading internet",
     "security firm layerx",
+    "real life identity",
+    "past six months",
+    "help users connect",
+    "fast spreading internet",
     "public github account",
     "national security risk",
-    "dire critical rating",
-    "cve 2026 43707",
-    "claude code spawning",
-    "unc4221 hacker groups",
-    "third party actors",
+    "bluehammer vulnerability exploited",
+    "unknown threat actor",
+    "threat actor activity",
     "stark industries solutions",
-    "senior administrative staff",
-    "safari web browser",
-    "routed every query"
+    "routed every query",
+    "pro iranian images"
   ],
   "trending": [
     {
-      "keyword": "october 2027 microsoft",
-      "mentions": 9
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 52
-    },
-    {
-      "keyword": "shinyhunters extortion group",
-      "mentions": 17
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 87
-    },
-    {
-      "keyword": "remote hacking cisa",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1975
-    },
-    {
-      "keyword": "past six months",
-      "mentions": 10
-    },
-    {
-      "keyword": "fast spreading internet",
-      "mentions": 108
-    },
-    {
-      "keyword": "security firm layerx",
+      "keyword": "teams meetings microsoft",
       "mentions": 1
     },
     {
-      "keyword": "public github account",
-      "mentions": 72
+      "keyword": "cybercrime group known",
+      "mentions": 53
+    },
+    {
+      "keyword": "third party actors",
+      "mentions": 17
+    },
+    {
+      "keyword": "shinyhunters extortion group",
+      "mentions": 18
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 88
+    },
+    {
+      "keyword": "bank account information",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1976
+    },
+    {
+      "keyword": "security firm layerx",
+      "mentions": 2
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 162
+    },
+    {
+      "keyword": "past six months",
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
+      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
+      "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages. Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
+      "published": "Tue, 30 Jun 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
+      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
+      "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated",
+      "published": "Tue, 30 Jun 2026 16:48:47 +0530",
+      "value_score": 83,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Auth bypass",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
@@ -100,17 +124,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
-      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
-      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities are listed below - CVE-2026-43707 - A memory corruption issue that could result in an",
-      "published": "Tue, 30 Jun 2026 12:45:07 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
       "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
       "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
       "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances. \"Easily exploitable vulnerability allows",
@@ -126,15 +139,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
-      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
-      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft says Google removed it from the store after responsible disclosure. The extension was called \"",
-      "published": "Tue, 30 Jun 2026 00:10:09 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
       "title": "WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private",
       "link": "https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html",
       "summary": "WhatsApp on Monday officially announced the start of global reservations of usernames with an aim to protect the privacy of more than three billion users on the messaging platform. The optional feature is designed to help users connect with someone on the service through usernames, as opposed to directly sharing their phone numbers. Username reservations will start rolling out starting today,",
@@ -144,10 +148,39 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks",
-      "link": "https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html",
-      "summary": "The China-aligned espionage group Mustang Panda is running two campaigns against the Indian government and hydropower targets, deploying new malware and turning a legitimate cloud service into its command channel. Acronis Threat Research Unit found active compromises inside Indian government networks, including machines used by senior administrative staff, and worked with",
-      "published": "Mon, 29 Jun 2026 20:33:40 +0530",
+      "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
+      "link": "https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html",
+      "summary": "Microsoft has found a malicious Chrome extension that posed as the AI search engine Perplexity and quietly logged what people searched for. It routed every query and every character typed into the address bar through an attacker-controlled server before redirecting users to real results. Microsoft says Google removed it from the store after responsible disclosure. The extension was called \"",
+      "published": "Mon, 29 Jun 2026 21:10:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
+      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
+      "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
+      "published": "Tue, 30 Jun 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
+      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
+      "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
+      "published": "Tue, 30 Jun 2026 07:12:18 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft adds smarter bot protection to Teams meetings",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/",
+      "summary": "Microsoft has introduced a new Teams admin policy that allows organizers to prevent third-party bots from joining meetings without approval. [...]",
+      "published": "Tue, 30 Jun 2026 06:52:26 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -211,33 +244,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp rolls out usernames to help users hide their phone number",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/",
-      "summary": "WhatsApp is finally allowing users to reserve usernames, a privacy feature that lets them hide their phone numbers from people not in their contact list. [...]",
-      "published": "Mon, 29 Jun 2026 13:48:28 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft extends Windows Server 2022 hotpatching until October 2027",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/",
-      "summary": "Microsoft has extended Windows Server 2022 hotpatching until October 2027, one year after the mainstream end date of October 2026. [...]",
-      "published": "Mon, 29 Jun 2026 13:11:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "U.S. offers $10 million for hackers targeting WhatsApp, Signal users",
-      "link": "https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/",
-      "summary": "The U.S. Department of State is offering up to $10 million for information that helps identify or locate members of the UNC5792 and UNC4221 hacker groups, which are linked to Russia's intelligence and military services. [...]",
-      "published": "Mon, 29 Jun 2026 11:09:43 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +332,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI-Generated Workflows Are a Silent Security Disaster",
+      "link": "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
+      "summary": "Teams are dealing with a truly dangerous problem — automation that works, but that no one understands.",
+      "published": "Tue, 30 Jun 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "NIST Enrichment Reductions Impact CVE Coverage, Accuracy",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
+      "summary": "The National Institute of Standards and Technology (NIST) scaled back the number of CVEs it selects for in-depth analysis, but the move has produced mixed results, according to researchers.",
+      "published": "Mon, 29 Jun 2026 22:46:45 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
       "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
@@ -391,22 +415,69 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
-      "summary": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
-      "published": "Fri, 26 Jun 2026 19:11:02 GMT",
+      "source": "Security Week",
+      "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
+      "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
+      "summary": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released. The post BlueHammer Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 13:56:07 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Active exploitation",
+        "Ransomware ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
+      "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
+      "summary": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors. The post Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions",
-      "link": "https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield",
-      "summary": "Cisco joins a growing list of security platform providers that are betting that securing the agentic workforce means turning identity into the primary control plane.",
-      "published": "Fri, 26 Jun 2026 17:31:04 GMT",
+      "source": "Security Week",
+      "title": "Aflac Japan Data Breach Impacts 4.38 Million",
+      "link": "https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/",
+      "summary": "Hackers accessed the insurance giant’s policyholder portal multiple times between June 15 and June 25. The post Aflac Japan Data Breach Impacts 4.38 Million appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 12:52:33 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
+      "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
+      "summary": "Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team. The post Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
+      "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
+      "summary": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant. The post Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 11:48:40 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
+      "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
+      "summary": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product. The post Exploitation of Recent Oracle E-Business Suite Vulnerability Begins appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 11:29:48 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -423,65 +494,6 @@
       "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
       "summary": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
       "published": "Tue, 30 Jun 2026 09:25:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical SimpleHelp Vulnerability Exploited for Malware Delivery",
-      "link": "https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/",
-      "summary": "The threat actor is focused on collecting credentials, SSH keys, cryptocurrency wallets, and development tooling. The post Critical SimpleHelp Vulnerability Exploited for Malware Delivery appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 08:43:10 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
-      "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
-      "summary": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities. The post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 06:40:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
-      "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
-      "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 05:04:15 +0000",
-      "value_score": 30,
-      "value_signals": [
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
-      "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
-      "summary": "An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users. The post WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 16:00:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines",
-      "link": "https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/",
-      "summary": "Indirect prompts hidden in a repository can lead to Claude Code spawning a reverse shell on the developer’s machine. The post Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 14:28:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Straiker Raises $64 Million for AI Security Platform",
-      "link": "https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/",
-      "summary": "The startup’s platform can identify AI agents and provide visibility into their access, behavior, and risks. The post Straiker Raises $64 Million for AI Security Platform appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 14:07:34 +0000",
       "value_score": 10,
       "value_signals": []
     },

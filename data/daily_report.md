@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-30 10:52 UTC  
+> **Last Updated:** 2026-06-30 14:07 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**october 2027 microsoft** • **cybercrime group known** • **shinyhunters extortion group** • **resetting account passwords** • **remote hacking cisa** • **twitter whistleblower complaint** • **past six months** • **fast spreading internet** • **security firm layerx** • **public github account** • **national security risk** • **dire critical rating** • **cve 2026 43707** • **claude code spawning** • **unc4221 hacker groups** • **third party actors** • **stark industries solutions** • **senior administrative staff** • **safari web browser** • **routed every query**
+**teams meetings microsoft** • **cybercrime group known** • **third party actors** • **shinyhunters extortion group** • **resetting account passwords** • **bank account information** • **twitter whistleblower complaint** • **security firm layerx** • **real life identity** • **past six months** • **help users connect** • **fast spreading internet** • **public github account** • **national security risk** • **bluehammer vulnerability exploited** • **unknown threat actor** • **threat actor activity** • **stark industries solutions** • **routed every query** • **pro iranian images**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [What the Numbers Say About FIFA 2026 Cyber Risk](https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html)
+- [Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer](https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html)
 - [AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks](https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html)
 - [New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials](https://thehackernews.com/2026/06/new-bioshocking-attack-tricks-ai.html)
 - [Progress Kemp LoadMaster Flaw Could Let Attackers Run Root Commands Pre-Auth](https://thehackernews.com/2026/06/progress-kemp-loadmaster-flaw-could-let.html)
-- [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
 - [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
-- [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 - [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
-- [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
+- [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 
 ### BleepingComputer
 
+- [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
+- [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
+- [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
 - [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
 - [Blackfield ransomware asks Nidec Corporation for $2 million ransom](https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/)
 - [CISA: Windows BlueHammer flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/)
 - [Nissan discloses employee data breach linked to Oracle zero-day attacks](https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/)
 - [NAIC says public data stolen in ShinyHunters' PeopleSoft breach](https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/)
-- [WhatsApp rolls out usernames to help users hide their phone number](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-usernames-to-help-users-hide-their-phone-number/)
-- [Microsoft extends Windows Server 2022 hotpatching until October 2027](https://www.bleepingcomputer.com/news/microsoft/microsoft-extends-windows-server-2022-hotpatching-until-october-2027/)
-- [U.S. offers $10 million for hackers targeting WhatsApp, Signal users](https://www.bleepingcomputer.com/news/security/us-offers-10-million-for-hackers-targeting-whatsapp-signal-users/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [AI-Generated Workflows Are a Silent Security Disaster](https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster)
+- [NIST Enrichment Reductions Impact CVE Coverage, Accuracy](https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy)
 - ['Djinn' Stealer Targets Cloud, AI Credentials](https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials)
 - [Vulnerabilities Expose Private Data in Indian Government Systems](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems)
 - [Can Clothes Make You Invisible to Facial Recognition?](https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition)
 - [Iran, Russia, China Target Water Systems for Sabotage](https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage)
 - [Amazon Q VS Extension Flaw Leads to Cloud Credential Theft](https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft)
 - [Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk](https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk)
-- [AI Decline? Confidence in Autonomous Penetration Testing Falls](https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing)
-- [Cisco Adds NHI to Security Stack With Astrix, WideField Acquisitions](https://www.darkreading.com/identity-access-management-security/cisco-adds-nhi-security-stack-with-astrix-widefield)
 
 ### Security Week
 
+- [BlueHammer Vulnerability Exploited in Ransomware Attacks](https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/)
+- [Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks](https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/)
+- [Aflac Japan Data Breach Impacts 4.38 Million](https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/)
+- [Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat](https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/)
+- [Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History](https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/)
+- [Exploitation of Recent Oracle E-Business Suite Vulnerability Begins](https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/)
 - [The AI Token Costs That Can Break Cybersecurity](https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/)
 - [Nissan Employee Data Breached in Oracle PeopleSoft Hack](https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/)
-- [Critical SimpleHelp Vulnerability Exploited for Malware Delivery](https://www.securityweek.com/critical-simplehelp-vulnerability-exploited-for-malware-delivery/)
-- [Quantifind Raises $200 Million for AI-Native Risk Intelligence](https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/)
-- [New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking](https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/)
-- [WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy](https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/)
-- [Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines](https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/)
-- [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/)
 
 ### Threatpost
 

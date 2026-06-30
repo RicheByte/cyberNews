@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1975,
+      "count": 1976,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -534,7 +534,7 @@
       ]
     },
     "real life identity": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -559,7 +559,8 @@
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ]
     },
     "got1000 series devices": {
@@ -1095,7 +1096,7 @@
       ]
     },
     "national security risk": {
-      "count": 250,
+      "count": 251,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -8684,7 +8685,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -17508,7 +17509,7 @@
       ]
     },
     "public github account": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17888,7 +17889,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18112,7 +18113,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -18121,7 +18122,8 @@
         "2026-06-15",
         "2026-06-17",
         "2026-06-18",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-06-30"
       ]
     },
     "protect user data": {
@@ -18280,7 +18282,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18315,7 +18317,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18327,7 +18329,8 @@
         "2026-06-25",
         "2026-06-26",
         "2026-06-27",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ]
     },
     "openai codex attracting": {
@@ -18635,7 +18638,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18780,7 +18783,7 @@
       ]
     },
     "past six months": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20535,7 +20538,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20989,7 +20992,7 @@
       ]
     },
     "third party actors": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-27",
         "2026-06-28",
@@ -21148,7 +21151,7 @@
       ]
     },
     "security firm layerx": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
@@ -21166,6 +21169,36 @@
       ]
     },
     "routed every query": {
+      "count": 2,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "teams meetings microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "bank account information": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "help users connect": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "bluehammer vulnerability exploited": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "threat actor activity": {
       "count": 1,
       "dates": [
         "2026-06-30"
@@ -21173,17 +21206,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-17 08:57",
-      "articles": 56,
-      "top_keywords": [
-        "sensitive system information",
-        "hacker crosshairs socradar",
-        "twitter whistleblower complaint",
-        "open letter signed",
-        "mythos 5 models"
-      ]
-    },
     {
       "timestamp": "2026-06-17 13:37",
       "articles": 56,
@@ -22271,6 +22293,17 @@
         "shinyhunters extortion group",
         "resetting account passwords",
         "remote hacking cisa"
+      ]
+    },
+    {
+      "timestamp": "2026-06-30 14:07",
+      "articles": 48,
+      "top_keywords": [
+        "teams meetings microsoft",
+        "cybercrime group known",
+        "third party actors",
+        "shinyhunters extortion group",
+        "resetting account passwords"
       ]
     }
   ]

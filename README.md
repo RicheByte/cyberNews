@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-30 10:52 UTC |
+| 🕐 Last Updated | 2026-06-30 14:07 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`october 2027 microsoft` • `cybercrime group known` • `shinyhunters extortion group` • `resetting account passwords` • `remote hacking cisa` • `twitter whistleblower complaint` • `past six months` • `fast spreading internet` • `security firm layerx` • `public github account`
+`teams meetings microsoft` • `cybercrime group known` • `third party actors` • `shinyhunters extortion group` • `resetting account passwords` • `bank account information` • `twitter whistleblower complaint` • `security firm layerx` • `real life identity` • `past six months`
 
 ## 📄 Reports
 

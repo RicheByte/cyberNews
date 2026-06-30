@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-30 19:47 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-06-30 21:23 UTC |
+| 📰 Articles Analyzed | 40 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`third party actors` • `teams meetings microsoft` • `cybercrime group known` • `critical langflow vulnerability` • `unsuspecting users initiate` • `twitter whistleblower complaint` • `resetting account passwords` • `real life identity` • `protect student data` • `bank account information`
+`critical langflow vulnerability` • `bluehammer vulnerability exploited` • `unsuspecting users initiate` • `twitter whistleblower complaint` • `teams meetings microsoft` • `since february 2026` • `fake perplexity extension` • `codenamed silent swap` • `unknown threat actor` • `blackfield ransomware gang`
 
 ## 📄 Reports
 

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1978,
+      "count": 1979,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18113,7 +18113,7 @@
       ]
     },
     "unknown threat actor": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-05-29",
         "2026-05-30",
@@ -21176,7 +21176,7 @@
       ]
     },
     "teams meetings microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30"
       ]
@@ -21194,7 +21194,7 @@
       ]
     },
     "bluehammer vulnerability exploited": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30"
       ]
@@ -21206,36 +21206,96 @@
       ]
     },
     "fake perplexity extension": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-06-30"
       ]
     },
     "critical langflow vulnerability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
     },
     "unsuspecting users initiate": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30"
       ]
     },
     "codenamed silent swap": {
-      "count": 1,
-      "dates": [
-        "2026-06-30"
-      ]
-    },
-    "langflow rce exploited": {
       "count": 2,
       "dates": [
         "2026-06-30"
       ]
     },
+    "langflow rce exploited": {
+      "count": 3,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
     "wider enterprise systems": {
+      "count": 2,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "since february 2026": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "blackfield ransomware gang": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "trojanized pyrogram forks": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "similar campaigns described": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "rustduck botnet rebuilds": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "read arbitrary files": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "poisoned tool description": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "phishers gain persistence": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "online services offline": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "large japanese manufacturer": {
       "count": 1,
       "dates": [
         "2026-06-30"
@@ -21243,17 +21303,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-17 20:06",
-      "articles": 56,
-      "top_keywords": [
-        "1password acquires apono",
-        "rockwell automation flex",
-        "rockwell automation compactlogix",
-        "tenet security emerges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-17 23:19",
       "articles": 56,
@@ -22341,6 +22390,17 @@
         "cybercrime group known",
         "critical langflow vulnerability",
         "unsuspecting users initiate"
+      ]
+    },
+    {
+      "timestamp": "2026-06-30 21:23",
+      "articles": 40,
+      "top_keywords": [
+        "critical langflow vulnerability",
+        "bluehammer vulnerability exploited",
+        "unsuspecting users initiate",
+        "twitter whistleblower complaint",
+        "teams meetings microsoft"
       ]
     }
   ]

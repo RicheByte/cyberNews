@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-06-30 02:50",
+  "last_updated": "2026-06-30 07:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "shinyhunters extortion group",
     "cybercrime group known",
-    "resetting account passwords",
     "october 2027 microsoft",
+    "resetting account passwords",
     "public github account",
     "dire critical rating",
-    "ukraine throughout 2025",
     "twitter whistleblower complaint",
-    "run ad fraud",
     "fast spreading internet",
+    "monday officially announced",
+    "full monday recap",
     "threat actors exploited",
-    "advanced cybersecurity ai",
     "shinyhunters peoplesoft breach",
-    "disinformation campaigns inside",
+    "national security risk",
+    "unc4221 hacker groups",
     "trump approved customers",
-    "ties 119 extensions",
+    "third party actors",
     "stark industries solutions",
     "sprawling phishing campaign",
     "senior administrative staff",
-    "rsa quantum hardware"
+    "safari web browser"
   ],
   "trending": [
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 50
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 85
+      "mentions": 51
     },
     {
       "keyword": "october 2027 microsoft",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 86
     },
     {
       "keyword": "public github account",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 226
-    },
-    {
-      "keyword": "ukraine throughout 2025",
-      "mentions": 5
+      "mentions": 227
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1973
-    },
-    {
-      "keyword": "run ad fraud",
-      "mentions": 6
+      "mentions": 1974
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 106
+      "mentions": 107
+    },
+    {
+      "keyword": "monday officially announced",
+      "mentions": 1
+    },
+    {
+      "keyword": "full monday recap",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs",
+      "link": "https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html",
+      "summary": "Apple on Monday released security updates for iOS, macOS, and the Safari web browser to address over three dozen flaws, including four vulnerabilities in WebKit that were discovered using artificial intelligence (AI) tools like Anthropic Claude and OpenAI Codex Security. The WebKit vulnerabilities are listed below - CVE-2026-43707 - A memory corruption issue that could result in an",
+      "published": "Tue, 30 Jun 2026 12:45:07 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild",
+      "link": "https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html",
+      "summary": "A critical security flaw impacting Oracle E-Business Suite has come under active exploitation in the wild, according to Defused Cyber. The vulnerability, tracked as CVE-2026-46817 (CVSS score: 9.8), refers to an improper privilege management and authentication flaw in Oracle Payments that could be abused to take over susceptible instances. \"Easily exploitable vulnerability allows",
+      "published": "Tue, 30 Jun 2026 10:34:06 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×3",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input",
@@ -123,26 +149,6 @@
       "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
       "summary": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
       "published": "Mon, 29 Jun 2026 17:12:16 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "summary": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
-      "published": "Mon, 29 Jun 2026 17:10:24 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts",
-      "link": "https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html",
-      "summary": "Microsoft has shut down a long-running malicious extension operation on the Edge Add-ons store that hid its payloads inside ordinary image and font files, then woke up days after install to steal credentials and run ad fraud. The company calls it StegoAd, a mash-up of steganography and adware, and ties 119 extensions to a single threat actor it says has been active since at least 2021.",
-      "published": "Mon, 29 Jun 2026 14:02:31 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -405,6 +411,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Quantifind Raises $200 Million for AI-Native Risk Intelligence",
+      "link": "https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/",
+      "summary": "Quantifind will accelerate international expansion and extend its platform’s localized risk intelligence capabilities. The post Quantifind Raises $200 Million for AI-Native Risk Intelligence appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 06:40:02 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking",
+      "link": "https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/",
+      "summary": "CISA has published an advisory to inform organizations about three vulnerabilities found by a researcher in Daktronics controllers. The post New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking appeared first on SecurityWeek .",
+      "published": "Tue, 30 Jun 2026 05:04:15 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy",
       "link": "https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/",
       "summary": "An optional ‘username key’ adds another layer by requiring a secondary credential before someone can message users. The post WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy appeared first on SecurityWeek .",
@@ -454,24 +480,6 @@
       "link": "https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/",
       "summary": "ChatGPT maker OpenAI said Friday it is restricting the release of its new artificial intelligence model at the request of President Donald Trump’s administration. The post OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review appeared first on SecurityWeek .",
       "published": "Mon, 29 Jun 2026 10:14:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve",
-      "link": "https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/",
-      "summary": "UNC5792 and UNC4221 have been targeting US government officials, military leaders, and allied personnel. The post US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 09:29:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI",
-      "link": "https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/",
-      "summary": "The company says Sol matches competing systems like Mythos Preview while using only a third of the output tokens. The post OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI appeared first on SecurityWeek .",
-      "published": "Mon, 29 Jun 2026 07:45:57 +0000",
       "value_score": 10,
       "value_signals": []
     },

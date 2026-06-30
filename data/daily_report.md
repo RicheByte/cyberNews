@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-30 02:50 UTC  
+> **Last Updated:** 2026-06-30 07:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**shinyhunters extortion group** • **cybercrime group known** • **resetting account passwords** • **october 2027 microsoft** • **public github account** • **dire critical rating** • **ukraine throughout 2025** • **twitter whistleblower complaint** • **run ad fraud** • **fast spreading internet** • **threat actors exploited** • **advanced cybersecurity ai** • **shinyhunters peoplesoft breach** • **disinformation campaigns inside** • **trump approved customers** • **ties 119 extensions** • **stark industries solutions** • **sprawling phishing campaign** • **senior administrative staff** • **rsa quantum hardware**
+**shinyhunters extortion group** • **cybercrime group known** • **october 2027 microsoft** • **resetting account passwords** • **public github account** • **dire critical rating** • **twitter whistleblower complaint** • **fast spreading internet** • **monday officially announced** • **full monday recap** • **threat actors exploited** • **shinyhunters peoplesoft breach** • **national security risk** • **unc4221 hacker groups** • **trump approved customers** • **third party actors** • **stark industries solutions** • **sprawling phishing campaign** • **senior administrative staff** • **safari web browser**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Apple Patches 30+ iOS, macOS, Safari Flaws, Including AI-Discovered WebKit Bugs](https://thehackernews.com/2026/06/apple-patches-30-ios-macos-safari-flaws.html)
+- [Oracle E-Business Suite Flaw CVE-2026-46817 Actively Exploited in the Wild](https://thehackernews.com/2026/06/oracle-e-business-suite-flaw-cve-2026.html)
 - [Malicious Perplexity Chrome Extension Intercepted Searches and Address Bar Input](https://thehackernews.com/2026/06/malicious-perplexity-chrome-extension.html)
 - [WhatsApp is Finally Getting Usernames to Help Keep Phone Numbers Private](https://thehackernews.com/2026/06/whatsapp-is-finally-getting-usernames.html)
 - [Mustang Panda Uses Zoho WorkDrive as Command Channel in Indian Government Attacks](https://thehackernews.com/2026/06/mustang-panda-uses-zoho-workdrive-as.html)
 - [⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More](https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html)
 - [236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers](https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html)
 - [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html)
-- [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html)
-- [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Quantifind Raises $200 Million for AI-Native Risk Intelligence](https://www.securityweek.com/quantifind-raises-200-million-for-ai-native-risk-intelligence/)
+- [New Controller Flaws Expose Highway Signs and Billboards to Remote Hacking](https://www.securityweek.com/new-controller-flaws-expose-highway-signs-and-billboards-to-remote-hacking/)
 - [WhatsApp Rolling Out Username Feature to Bolster Phone Number Privacy](https://www.securityweek.com/whatsapp-rolling-out-username-feature-to-bolster-phone-number-privacy/)
 - [Researchers Demo New Claude Code Attack Using Harmless-Looking Repositories to Hijack Developer Machines](https://www.securityweek.com/new-attack-abuses-claude-code-and-harmless-looking-repositories-to-hijack-developer-machines/)
 - [Straiker Raises $64 Million for AI Security Platform](https://www.securityweek.com/straiker-raises-64-million-for-ai-security-platform/)
 - [Insurance Regulators Group NAIC Hit in Oracle PeopleSoft Hack](https://www.securityweek.com/insurance-regulators-group-naic-hit-in-oracle-peoplesoft-hack/)
 - [‘DirtyClone’ Linux Kernel Vulnerability Leads to Root Access](https://www.securityweek.com/dirtyclone-linux-kernel-vulnerability-leads-to-root-access/)
 - [OpenAI and Anthropic Limit New AI Models to Trump-Approved Customers During Cybersecurity Review](https://www.securityweek.com/openai-and-anthropic-limit-new-ai-models-to-trump-approved-customers-during-cybersecurity-review/)
-- [US Offers $10 Million Bounty for Russian State Hackers as Messaging App Attacks Evolve](https://www.securityweek.com/us-offers-10-million-bounty-for-russian-state-hackers-as-messaging-app-attacks-evolve/)
-- [OpenAI Unveils GPT-5.6 Sol as Its Most Advanced Cybersecurity AI](https://www.securityweek.com/openai-unveils-gpt-5-6-sol-as-its-most-advanced-cybersecurity-ai/)
 
 ### Threatpost
 

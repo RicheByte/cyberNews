@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1973,
+      "count": 1974,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1095,7 +1095,7 @@
       ]
     },
     "national security risk": {
-      "count": 248,
+      "count": 249,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1141,7 +1141,8 @@
         "2026-06-26",
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ]
     },
     "open source millions": {
@@ -1811,7 +1812,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 444,
+      "count": 445,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3708,7 +3709,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 226,
+      "count": 227,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -8683,7 +8684,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -17506,7 +17507,7 @@
       ]
     },
     "public github account": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17886,7 +17887,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18278,7 +18279,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18633,7 +18634,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20532,7 +20533,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20824,7 +20825,7 @@
       ]
     },
     "october 2027 microsoft": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-26",
         "2026-06-29",
@@ -20986,11 +20987,12 @@
       ]
     },
     "third party actors": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-27",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ]
     },
     "powerful terra strikes": {
@@ -21072,7 +21074,7 @@
       ]
     },
     "trump approved customers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-29",
         "2026-06-30"
@@ -21092,21 +21094,21 @@
       ]
     },
     "threat actors exploited": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-29",
         "2026-06-30"
       ]
     },
     "shinyhunters peoplesoft breach": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-29",
         "2026-06-30"
       ]
     },
     "senior administrative staff": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-29",
         "2026-06-30"
@@ -21118,20 +21120,33 @@
         "2026-06-29",
         "2026-06-30"
       ]
+    },
+    "monday officially announced": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "full monday recap": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "unc4221 hacker groups": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
+    },
+    "safari web browser": {
+      "count": 1,
+      "dates": [
+        "2026-06-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-16 22:07",
-      "articles": 56,
-      "top_keywords": [
-        "sensitive system information",
-        "twitter whistleblower complaint",
-        "stolen 1 3tb",
-        "resetting account passwords",
-        "fortisandbox jrpc api"
-      ]
-    },
     {
       "timestamp": "2026-06-17 03:33",
       "articles": 56,
@@ -22218,6 +22233,17 @@
         "cybercrime group known",
         "resetting account passwords",
         "october 2027 microsoft",
+        "public github account"
+      ]
+    },
+    {
+      "timestamp": "2026-06-30 07:48",
+      "articles": 48,
+      "top_keywords": [
+        "shinyhunters extortion group",
+        "cybercrime group known",
+        "october 2027 microsoft",
+        "resetting account passwords",
         "public github account"
       ]
     }

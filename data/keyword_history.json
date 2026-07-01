@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1981,
+      "count": 1982,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2730,9 +2730,10 @@
       ]
     },
     "address multiple flaws": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-01-07"
+        "2026-01-07",
+        "2026-07-01"
       ]
     },
     "exploiting routing scenarios": {
@@ -17511,7 +17512,7 @@
       ]
     },
     "public github account": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17526,7 +17527,8 @@
         "2026-06-25",
         "2026-06-26",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ]
     },
     "canadian man arrested": {
@@ -17891,7 +17893,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18286,7 +18288,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18322,7 +18324,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18789,7 +18791,7 @@
       ]
     },
     "past six months": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20545,7 +20547,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21203,7 +21205,7 @@
       ]
     },
     "bluehammer vulnerability exploited": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21216,14 +21218,14 @@
       ]
     },
     "fake perplexity extension": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "critical langflow vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21237,14 +21239,14 @@
       ]
     },
     "codenamed silent swap": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "langflow rce exploited": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21270,7 +21272,7 @@
       ]
     },
     "trojanized pyrogram forks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21289,30 +21291,31 @@
       ]
     },
     "read arbitrary files": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "poisoned tool description": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "phishers gain persistence": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "online services offline": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ]
     },
     "large japanese manufacturer": {
@@ -21320,20 +21323,21 @@
       "dates": [
         "2026-06-30"
       ]
+    },
+    "unsigned installers observed": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "rated high severity": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-18 08:40",
-      "articles": 56,
-      "top_keywords": [
-        "1password acquires apono",
-        "rockwell automation flex",
-        "rockwell automation compactlogix",
-        "tenet security emerges",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-18 12:47",
       "articles": 56,
@@ -22421,6 +22425,17 @@
         "bluehammer vulnerability exploited",
         "unsuspecting users initiate",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-01 08:06",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "critical langflow vulnerability",
+        "bluehammer vulnerability exploited",
+        "twitter whistleblower complaint",
+        "read arbitrary files"
       ]
     }
   ]

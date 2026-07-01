@@ -1,72 +1,111 @@
 {
-  "last_updated": "2026-07-01 02:58",
+  "last_updated": "2026-07-01 08:06",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "critical langflow vulnerability",
     "cybercrime group known",
+    "critical langflow vulnerability",
     "bluehammer vulnerability exploited",
-    "unsuspecting users initiate",
     "twitter whistleblower complaint",
+    "read arbitrary files",
     "fake perplexity extension",
     "codenamed silent swap",
-    "bank account information",
-    "unknown threat actor",
-    "past six months",
-    "dire critical rating",
+    "address multiple flaws",
+    "resetting account passwords",
+    "public github account",
     "langflow rce exploited",
-    "wider enterprise systems",
+    "unsigned installers observed",
     "trojanized pyrogram forks",
     "stark industries solutions",
-    "resetting account passwords",
-    "read arbitrary files",
+    "rated high severity",
     "pro iranian images",
     "poisoned tool description",
-    "phishers gain persistence"
+    "phishers gain persistence",
+    "past six months",
+    "online services offline"
   ],
   "trending": [
     {
-      "keyword": "critical langflow vulnerability",
-      "mentions": 5
-    },
-    {
       "keyword": "cybercrime group known",
-      "mentions": 57
+      "mentions": 58
     },
     {
-      "keyword": "bluehammer vulnerability exploited",
+      "keyword": "critical langflow vulnerability",
       "mentions": 6
     },
     {
-      "keyword": "unsuspecting users initiate",
-      "mentions": 5
+      "keyword": "bluehammer vulnerability exploited",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1981
+      "mentions": 1982
+    },
+    {
+      "keyword": "read arbitrary files",
+      "mentions": 4
     },
     {
       "keyword": "fake perplexity extension",
-      "mentions": 4
-    },
-    {
-      "keyword": "codenamed silent swap",
-      "mentions": 4
-    },
-    {
-      "keyword": "bank account information",
       "mentions": 5
     },
     {
-      "keyword": "unknown threat actor",
-      "mentions": 39
+      "keyword": "codenamed silent swap",
+      "mentions": 5
     },
     {
-      "keyword": "past six months",
-      "mentions": 15
+      "keyword": "address multiple flaws",
+      "mentions": 6
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 93
+    },
+    {
+      "keyword": "public github account",
+      "mentions": 74
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
+      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
+      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier. Fable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork. Export controls restrict who can",
+      "published": "Wed, 01 Jul 2026 12:16:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
+      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
+      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167). \"Between June 12 and June 26, the threat",
+      "published": "Wed, 01 Jul 2026 11:16:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
+      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same research also turned up a new delivery method built to slip past Windows' script scanning.",
+      "published": "Wed, 01 Jul 2026 11:02:12 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
+      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
+      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities are listed below - CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
+      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
@@ -113,48 +152,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GuardFall Exposes Open-Source AI Coding Agents to Decades-Old Shell Injection Risks",
-      "link": "https://thehackernews.com/2026/06/guardfall-exposes-open-source-ai-coding.html",
-      "summary": "The safety check that is supposed to stop an AI coding agent from running a dangerous command can be walked straight past using a shell trick that has been public for decades. New research from Adversa AI, which is named the bypass GuardFall, found it works against ten of the eleven popular open-source coding and computer-use agents the firm tested. Only one, \"Continue,\" was built to",
-      "published": "Tue, 30 Jun 2026 19:56:15 +0530",
+      "source": "BleepingComputer",
+      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
+      "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
+      "published": "Wed, 01 Jul 2026 03:34:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "summary": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all. Whoever grabs it can send model requests on the developer's account,",
-      "published": "Tue, 30 Jun 2026 19:19:34 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-      "summary": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages. Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
-      "published": "Tue, 30 Jun 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-      "summary": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated",
-      "published": "Tue, 30 Jun 2026 16:48:47 +0530",
-      "value_score": 83,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Auth bypass",
-        "High severity",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -218,17 +222,6 @@
       "published": "Tue, 30 Jun 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Insurance giant Aflac discloses data breach after subsidiary hack",
-      "link": "https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/",
-      "summary": "American insurance giant Aflac has disclosed a new data breach after attackers breached its Japan subsidiary's systems and stole personal and bank account information. [...]",
-      "published": "Tue, 30 Jun 2026 07:12:18 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +391,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Massive Password Spray Campaign Targeting Azure CLI",
+      "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
+      "summary": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY. The post Massive Password Spray Campaign Targeting Azure CLI appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 07:46:33 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Patches 382 Chrome Vulnerabilities",
+      "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
+      "summary": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’. The post Google Patches 382 Chrome Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 06:14:41 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
       "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
       "summary": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released. The post BlueHammer Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
@@ -460,24 +473,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "The AI Token Costs That Can Break Cybersecurity",
-      "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
-      "summary": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits. The post The AI Token Costs That Can Break Cybersecurity appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nissan Employee Data Breached in Oracle PeopleSoft Hack",
-      "link": "https://www.securityweek.com/nissan-employee-data-breached-in-oracle-peoplesoft-hack/",
-      "summary": "Only a handful of the 100 organizations targeted in the PeopleSoft campaign have been confirmed. The post Nissan Employee Data Breached in Oracle PeopleSoft Hack appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 09:25:50 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

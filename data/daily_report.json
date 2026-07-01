@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-01 16:22",
+  "last_updated": "2026-07-01 19:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "apple patches dozens",
     "cybercrime group known",
     "maximum severity rating",
     "criminal ip explains",
-    "ai tools point",
-    "bluehammer vulnerability exploited",
-    "apple patches dozens",
+    "ai generated workflows",
     "updates fix vulnerabilities",
     "twitter whistleblower complaint",
     "fast spreading internet",
@@ -18,55 +17,76 @@
     "resetting account passwords",
     "public github account",
     "past six months",
-    "ai generated workflows",
     "ai agent's inability",
+    "alert released tuesday",
     "year's findings reveal",
-    "working ransomware technique",
-    "trick phantom squatting"
+    "uses social engineering",
+    "unsuspecting user lands",
+    "traditional email defenses"
   ],
   "trending": [
     {
+      "keyword": "apple patches dozens",
+      "mentions": 5
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "maximum severity rating",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "criminal ip explains",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai tools point",
       "mentions": 2
     },
     {
-      "keyword": "bluehammer vulnerability exploited",
-      "mentions": 9
-    },
-    {
-      "keyword": "apple patches dozens",
-      "mentions": 4
+      "keyword": "ai generated workflows",
+      "mentions": 2
     },
     {
       "keyword": "updates fix vulnerabilities",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1984
+      "mentions": 1985
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 111
+      "mentions": 112
     },
     {
       "keyword": "fake pdf lures",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "canada canadian authorities",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
+      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
+      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
+      "published": "Wed, 01 Jul 2026 23:23:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
+      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
+      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on",
+      "published": "Wed, 01 Jul 2026 22:48:50 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
@@ -138,25 +158,34 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-      "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
-      "published": "Wed, 01 Jul 2026 16:11:36 +0530",
+      "source": "BleepingComputer",
+      "title": "DHS confirms hackers breached HSIN info-sharing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
+      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
+      "published": "Wed, 01 Jul 2026 13:32:22 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks' Unit 42 calls the trick phantom squatting, and its new research shows it is already happening in the wild. The reason it matters is",
-      "published": "Wed, 01 Jul 2026 12:50:51 +0530",
-      "value_score": 51,
+      "source": "BleepingComputer",
+      "title": "Webinar: Why traditional email security is no longer enough",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
+      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and response. [...]",
+      "published": "Wed, 01 Jul 2026 12:54:22 -0400",
+      "value_score": 24,
       "value_signals": [
-        "Active exploitation",
-        "Phishing ×2"
+        "Phishing",
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
+      "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
+      "published": "Wed, 01 Jul 2026 12:38:01 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -207,33 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
       "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
       "published": "Wed, 01 Jul 2026 03:34:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "summary": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
-      "published": "Tue, 30 Jun 2026 20:35:14 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "summary": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
-      "published": "Tue, 30 Jun 2026 19:13:07 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
-      "published": "Tue, 30 Jun 2026 17:50:24 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -401,6 +403,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
+      "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
+      "summary": "Microsoft's new Teams admin policy requires organizer approval for external AI bots, giving organizations greater visibility and control over automated participants in sensitive meetings. The post Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 18:08:15 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
       "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
       "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek .",
@@ -468,21 +479,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
-      "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
-      "summary": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released. The post BlueHammer Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 13:56:07 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Active exploitation",
-        "Ransomware ×2",
-        "Exploit wording"
       ]
     },
     {

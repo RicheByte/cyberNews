@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1984,
+      "count": 1985,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1058,7 +1058,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -16330,7 +16330,7 @@
       ]
     },
     "apple patches dozens": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-05-12",
         "2026-07-01"
@@ -17515,7 +17515,7 @@
       ]
     },
     "public github account": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18291,7 +18291,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18649,7 +18649,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18795,7 +18795,7 @@
       ]
     },
     "past six months": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20551,7 +20551,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21101,9 +21101,10 @@
       ]
     },
     "traditional email defenses": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-06-29"
+        "2026-06-29",
+        "2026-07-01"
       ]
     },
     "ties 119 extensions": {
@@ -21341,13 +21342,13 @@
       ]
     },
     "maximum severity rating": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
     },
     "updates fix vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
@@ -21359,37 +21360,37 @@
       ]
     },
     "criminal ip explains": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "fake pdf lures": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "canada canadian authorities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "ai generated workflows": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "ai agent's inability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "year's findings reveal": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
@@ -21405,20 +21406,27 @@
       "dates": [
         "2026-07-01"
       ]
+    },
+    "alert released tuesday": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "uses social engineering": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "unsuspecting user lands": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-18 20:17",
-      "articles": 56,
-      "top_keywords": [
-        "pci dss problem",
-        "twitter whistleblower complaint",
-        "prolific cybercrime groups",
-        "paying customers via",
-        "cyberattacks influence operations"
-      ]
-    },
     {
       "timestamp": "2026-06-18 23:40",
       "articles": 56,
@@ -22506,6 +22514,17 @@
         "criminal ip explains",
         "ai tools point",
         "bluehammer vulnerability exploited"
+      ]
+    },
+    {
+      "timestamp": "2026-07-01 19:45",
+      "articles": 48,
+      "top_keywords": [
+        "apple patches dozens",
+        "cybercrime group known",
+        "maximum severity rating",
+        "criminal ip explains",
+        "ai generated workflows"
       ]
     }
   ]

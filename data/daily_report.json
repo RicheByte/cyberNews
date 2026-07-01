@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-07-01 19:45",
+  "last_updated": "2026-07-01 21:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "apple patches dozens",
     "cybercrime group known",
-    "maximum severity rating",
+    "apple patches dozens",
     "criminal ip explains",
-    "ai generated workflows",
-    "updates fix vulnerabilities",
+    "user agent data",
     "twitter whistleblower complaint",
     "fast spreading internet",
     "fake pdf lures",
     "canada canadian authorities",
-    "critical security flaw",
+    "argo cd's maintainers",
     "resetting account passwords",
-    "public github account",
     "past six months",
+    "national security risk",
     "ai agent's inability",
-    "alert released tuesday",
-    "year's findings reveal",
     "uses social engineering",
     "unsuspecting user lands",
-    "traditional email defenses"
+    "traditional email defenses",
+    "steal sensitive data",
+    "stark industries solutions",
+    "safe events start",
+    "repo server component"
   ],
   "trending": [
     {
-      "keyword": "apple patches dozens",
-      "mentions": 5
-    },
-    {
       "keyword": "cybercrime group known",
-      "mentions": 61
+      "mentions": 62
     },
     {
-      "keyword": "maximum severity rating",
-      "mentions": 3
+      "keyword": "apple patches dozens",
+      "mentions": 6
     },
     {
       "keyword": "criminal ip explains",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai generated workflows",
-      "mentions": 2
-    },
-    {
-      "keyword": "updates fix vulnerabilities",
       "mentions": 3
     },
     {
+      "keyword": "user agent data",
+      "mentions": 1
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1985
+      "mentions": 1986
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 112
+      "mentions": 113
     },
     {
       "keyword": "fake pdf lures",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "canada canadian authorities",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "argo cd's maintainers",
+      "mentions": 1
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 97
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
+      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
+      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in",
+      "published": "Thu, 02 Jul 2026 01:10:06 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
+      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
+      "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1. Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody. Finnish police",
+      "published": "Thu, 02 Jul 2026 00:58:07 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
@@ -138,24 +158,25 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
-      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
-      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
-      "published": "Wed, 01 Jul 2026 18:29:19 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions. Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
-      "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Kubota says hackers had month-long access to network systems",
+      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
+      "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
+      "published": "Wed, 01 Jul 2026 17:09:06 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
+      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
+      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
+      "published": "Wed, 01 Jul 2026 16:08:13 -0400",
+      "value_score": 36,
+      "value_signals": [
+        "PoC available ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -220,24 +241,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
-      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
-      "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
-      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
-      "summary": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
-      "published": "Wed, 01 Jul 2026 03:34:52 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -326,6 +329,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS",
+      "link": "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os",
+      "summary": "Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
+      "published": "Wed, 01 Jul 2026 20:31:21 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "And the Winner in Dominant Malware Delivery? ClickFix",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix",
+      "summary": "Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it's now the rule.",
+      "published": "Wed, 01 Jul 2026 19:46:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
       "link": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
       "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
@@ -380,24 +403,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
       "summary": "As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at SIlverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.",
       "published": "Tue, 30 Jun 2026 19:11:40 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Phishers Gain Persistence at EU, Asia Hospitality Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs",
-      "summary": "Separate but similar campaigns described by Microsoft and Trend Micro use malicious zip files to spread malware via social engineering and obsfucation, including blockchain abuse.",
-      "published": "Tue, 30 Jun 2026 18:59:46 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI-Generated Workflows Are a Silent Security Disaster",
-      "link": "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
-      "summary": "Teams are dealing with a truly dangerous problem — automation that works, but that no one understands.",
-      "published": "Tue, 30 Jun 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1985,
+      "count": 1986,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1098,7 +1098,7 @@
       ]
     },
     "national security risk": {
-      "count": 253,
+      "count": 254,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1145,7 +1145,8 @@
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ]
     },
     "open source millions": {
@@ -4635,7 +4636,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -4643,7 +4644,8 @@
         "2026-03-10",
         "2026-03-28",
         "2026-03-29",
-        "2026-03-30"
+        "2026-03-30",
+        "2026-07-01"
       ]
     },
     "ai deployments built": {
@@ -16330,7 +16332,7 @@
       ]
     },
     "apple patches dozens": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-05-12",
         "2026-07-01"
@@ -17896,7 +17898,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18291,7 +18293,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18649,7 +18651,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18795,7 +18797,7 @@
       ]
     },
     "past six months": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20551,7 +20553,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21101,7 +21103,7 @@
       ]
     },
     "traditional email defenses": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-29",
         "2026-07-01"
@@ -21360,19 +21362,19 @@
       ]
     },
     "criminal ip explains": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
     },
     "fake pdf lures": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
     },
     "canada canadian authorities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
@@ -21384,7 +21386,7 @@
       ]
     },
     "ai agent's inability": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
@@ -21414,12 +21416,36 @@
       ]
     },
     "uses social engineering": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "unsuspecting user lands": {
+      "count": 2,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "user agent data": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "argo cd's maintainers": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "safe events start": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "repo server component": {
       "count": 1,
       "dates": [
         "2026-07-01"
@@ -21427,17 +21453,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-18 23:40",
-      "articles": 56,
-      "top_keywords": [
-        "pci dss problem",
-        "twitter whistleblower complaint",
-        "response edr killers",
-        "prolific cybercrime groups",
-        "paying customers via"
-      ]
-    },
     {
       "timestamp": "2026-06-19 03:48",
       "articles": 48,
@@ -22525,6 +22540,17 @@
         "maximum severity rating",
         "criminal ip explains",
         "ai generated workflows"
+      ]
+    },
+    {
+      "timestamp": "2026-07-01 21:22",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "apple patches dozens",
+        "criminal ip explains",
+        "user agent data",
+        "twitter whistleblower complaint"
       ]
     }
   ]

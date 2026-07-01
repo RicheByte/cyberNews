@@ -1,72 +1,142 @@
 {
-  "last_updated": "2026-07-01 12:30",
+  "last_updated": "2026-07-01 16:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "maximum severity rating",
+    "criminal ip explains",
+    "ai tools point",
     "bluehammer vulnerability exploited",
     "apple patches dozens",
     "updates fix vulnerabilities",
     "twitter whistleblower complaint",
-    "ai tools point",
-    "address multiple flaws",
+    "fast spreading internet",
+    "fake pdf lures",
+    "canada canadian authorities",
+    "critical security flaw",
     "resetting account passwords",
-    "read arbitrary files",
     "public github account",
     "past six months",
-    "arbitrary code execution",
-    "wider enterprise systems",
-    "trojanized pyrogram forks",
-    "stark industries solutions",
-    "pro iranian images",
-    "poisoned tool description",
-    "phishers gain persistence",
-    "online services offline"
+    "ai generated workflows",
+    "ai agent's inability",
+    "year's findings reveal",
+    "working ransomware technique",
+    "trick phantom squatting"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 59
+      "mentions": 60
     },
     {
       "keyword": "maximum severity rating",
+      "mentions": 2
+    },
+    {
+      "keyword": "criminal ip explains",
       "mentions": 1
-    },
-    {
-      "keyword": "bluehammer vulnerability exploited",
-      "mentions": 8
-    },
-    {
-      "keyword": "apple patches dozens",
-      "mentions": 3
-    },
-    {
-      "keyword": "updates fix vulnerabilities",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1983
     },
     {
       "keyword": "ai tools point",
+      "mentions": 2
+    },
+    {
+      "keyword": "bluehammer vulnerability exploited",
+      "mentions": 9
+    },
+    {
+      "keyword": "apple patches dozens",
+      "mentions": 4
+    },
+    {
+      "keyword": "updates fix vulnerabilities",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1984
+    },
+    {
+      "keyword": "fast spreading internet",
+      "mentions": 111
+    },
+    {
+      "keyword": "fake pdf lures",
       "mentions": 1
-    },
-    {
-      "keyword": "address multiple flaws",
-      "mentions": 7
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 94
-    },
-    {
-      "keyword": "read arbitrary files",
-      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
+      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
+      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image. The goal is the usual one: steal banking logins and take",
+      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
+      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
+      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass,\" Adobe said in an alert released Tuesday. The vulnerabilities are listed",
+      "published": "Wed, 01 Jul 2026 20:55:46 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Privilege escalation",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
+      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
+      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs found the pair and named them DuneSlide. They are tracked as CVE-2026-50548 and CVE-2026-50549, both rated 9.8 out of 10 (or 9.3",
+      "published": "Wed, 01 Jul 2026 20:12:54 +0530",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "High severity",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve",
+      "published": "Wed, 01 Jul 2026 19:26:18 +0530",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "summary": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
+      "published": "Wed, 01 Jul 2026 18:29:19 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "summary": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions. Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
+      "published": "Wed, 01 Jul 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
@@ -89,64 +159,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "summary": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier. Fable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork. Export controls restrict who can",
-      "published": "Wed, 01 Jul 2026 12:16:17 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
-      "link": "https://thehackernews.com/2026/07/azure-cli-password-spray-hits-at-least.html",
-      "summary": "Cybersecurity researchers have warned of a \"massive, ongoing, automated password spray attack\" aimed at Microsoft's Azure command-line interface (CLI), compromising dozens of accounts in the process. The activity, per Huntress, originates from an IPv6 address range (2a0a:d683::/32) controlled by internet infrastructure provider LSHIY LLC (AS32167). \"Between June 12 and June 26, the threat",
-      "published": "Wed, 01 Jul 2026 11:16:03 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researcher Analyzes 3,000 Live ClickFix Payloads, Exposing API-Driven Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/researcher-analyzes-3000-live-clickfix.html",
-      "summary": "ClickFix, the trick that fools people into running malware by hand, has quietly grown a back office. New research shows the malicious commands behind its fake \"prove you're human\" pages are now handed out by API-driven servers that give each visitor the same malware in a different disguise. The same research also turned up a new delivery method built to slip past Windows' script scanning.",
-      "published": "Wed, 01 Jul 2026 11:02:12 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Citrix Patches Six NetScaler Flaws Allowing File Read and Denial-of-Service",
-      "link": "https://thehackernews.com/2026/07/citrix-patches-six-netscaler-flaws.html",
-      "summary": "Citrix on Tuesday released security updates to address multiple flaws in NetScaler ADC (formerly Citrix ADC) and NetScaler Gateway (formerly Citrix Gateway) that could be exploited by an attacker to facilitate arbitrary file reads or trigger a denial-of-service (DoS) condition. The vulnerabilities are listed below - CVE-2026-8451 (CVSS score: 8.8) - An insufficient input validation",
-      "published": "Wed, 01 Jul 2026 09:24:22 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+      "published": "Wed, 01 Jul 2026 10:01:11 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+      "published": "Wed, 01 Jul 2026 08:30:01 -0400",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "summary": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire. The work comes from Microsoft Incident Response and its",
-      "published": "Tue, 30 Jun 2026 23:16:07 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "summary": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing. The end goal is a",
-      "published": "Tue, 30 Jun 2026 23:15:25 +0530",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
       ]
     },
     {
@@ -202,24 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
       "summary": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
       "published": "Tue, 30 Jun 2026 17:50:24 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
-      "summary": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]",
-      "published": "Tue, 30 Jun 2026 17:20:06 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious PyPI packages give hackers control of Telegram bot servers",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
-      "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
-      "published": "Tue, 30 Jun 2026 17:02:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -310,6 +324,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
+      "link": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
+      "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
+      "published": "Wed, 01 Jul 2026 15:17:14 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Safe Events Start With Threat Intel and Digital Security",
+      "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
+      "summary": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
+      "published": "Wed, 01 Jul 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "China-Linked Group Targets Southeast Asia Critical Systems",
       "link": "https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems",
       "summary": "The group compromised at least 10 regional organizations, including two state-owned entities, and deployed a new backdoor.",
@@ -333,9 +365,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Attackers Hijack Exposed AI Endpoints to Power Offensive Ops",
+      "title": "Attackers Seize Exposed AI Endpoints to Power Offensive Ops",
       "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
-      "summary": "Attackers don't need any special authentication to reach a target endpoint — they just need to know where it is.",
+      "summary": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
       "published": "Tue, 30 Jun 2026 21:01:58 GMT",
       "value_score": 10,
       "value_signals": []
@@ -366,28 +398,6 @@
       "published": "Tue, 30 Jun 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "NIST Enrichment Reductions Impact CVE Coverage, Accuracy",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
-      "summary": "The National Institute of Standards and Technology (NIST) scaled back the number of CVEs it selects for in-depth analysis, but the move has produced mixed results, according to researchers.",
-      "published": "Mon, 29 Jun 2026 22:46:45 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
-      "summary": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
-      "published": "Mon, 29 Jun 2026 21:29:15 GMT",
-      "value_score": 51,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

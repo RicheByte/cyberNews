@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1983,
+      "count": 1984,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1058,7 +1058,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1084,7 +1084,8 @@
         "2026-03-20",
         "2026-03-21",
         "2026-04-12",
-        "2026-04-13"
+        "2026-04-13",
+        "2026-07-01"
       ]
     },
     "denmark's critical infrastructure": {
@@ -16329,7 +16330,7 @@
       ]
     },
     "apple patches dozens": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-05-12",
         "2026-07-01"
@@ -17514,7 +17515,7 @@
       ]
     },
     "public github account": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18290,7 +18291,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18648,7 +18649,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18667,7 +18668,8 @@
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ]
     },
     "iranian ransomware actors": {
@@ -18793,7 +18795,7 @@
       ]
     },
     "past six months": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20549,7 +20551,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21207,7 +21209,7 @@
       ]
     },
     "bluehammer vulnerability exploited": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21339,18 +21341,66 @@
       ]
     },
     "maximum severity rating": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "updates fix vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "ai tools point": {
+      "count": 2,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "criminal ip explains": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "fake pdf lures": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "canada canadian authorities": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "ai generated workflows": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "ai agent's inability": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "year's findings reveal": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "working ransomware technique": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "trick phantom squatting": {
       "count": 1,
       "dates": [
         "2026-07-01"
@@ -21358,17 +21408,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-18 16:52",
-      "articles": 56,
-      "top_keywords": [
-        "pci dss problem",
-        "analysis published tuesday",
-        "sensitive system information",
-        "cyberattacks influence operations",
-        "major raas threat"
-      ]
-    },
     {
       "timestamp": "2026-06-18 20:17",
       "articles": 56,
@@ -22456,6 +22495,17 @@
         "bluehammer vulnerability exploited",
         "apple patches dozens",
         "updates fix vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-07-01 16:22",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "maximum severity rating",
+        "criminal ip explains",
+        "ai tools point",
+        "bluehammer vulnerability exploited"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-06-30 23:05 UTC  
+> **Last Updated:** 2026-07-01 02:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical langflow vulnerability** • **cybercrime group known** • **bluehammer vulnerability exploited** • **unsuspecting users initiate** • **twitter whistleblower complaint** • **teams meetings microsoft** • **fake perplexity extension** • **codenamed silent swap** • **bank account information** • **unknown threat actor** • **past six months** • **dire critical rating** • **langflow rce exploited** • **wider enterprise systems** • **trojanized pyrogram forks** • **stark industries solutions** • **resetting account passwords** • **read arbitrary files** • **pro iranian images** • **poisoned tool description**
+**critical langflow vulnerability** • **cybercrime group known** • **bluehammer vulnerability exploited** • **unsuspecting users initiate** • **twitter whistleblower complaint** • **fake perplexity extension** • **codenamed silent swap** • **bank account information** • **unknown threat actor** • **past six months** • **dire critical rating** • **langflow rce exploited** • **wider enterprise systems** • **trojanized pyrogram forks** • **stark industries solutions** • **resetting account passwords** • **read arbitrary files** • **pro iranian images** • **poisoned tool description** • **phishers gain persistence**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Anthropic to restore Claude Fable access on Wednesday](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/)
+- [Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/)
 - [New BioShocking attack manipulates AI browser into data theft](https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/)
 - [Microsoft accelerates quantum-safe roadmap as risks grow](https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/)
 - [Malicious PyPI packages give hackers control of Telegram bot servers](https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/)
 - [Fake Perplexity extension on Chrome Web Store tracked searches](https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/)
 - [Lessons from the Underground: How to Combat Business Email Compromise](https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/)
 - [Insurance giant Aflac discloses data breach after subsidiary hack](https://www.bleepingcomputer.com/news/security/insurance-giant-aflac-discloses-data-breach-after-subsidiary-hack/)
-- [Microsoft adds smarter bot protection to Teams meetings](https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-smarter-bot-protection-to-teams-meetings/)
-- [Kali Linux 2026.2 released with 9 new tools, NetHunter updates](https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [China-Linked Group Targets Southeast Asia Critical Systems](https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems)
 - [Fake Bug Report Hijacks AI Coding Agents at Scale](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)
 - [Attackers Hijack Exposed AI Endpoints to Power Offensive Ops](https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops)
 - [Why Identity Security Is Your Cyber Career Entry Point](https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point)
@@ -56,7 +57,6 @@
 - [AI-Generated Workflows Are a Silent Security Disaster](https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster)
 - [NIST Enrichment Reductions Impact CVE Coverage, Accuracy](https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy)
 - ['Djinn' Stealer Targets Cloud, AI Credentials](https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials)
-- [Vulnerabilities Expose Private Data in Indian Government Systems](https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems)
 
 ### Security Week
 

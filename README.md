@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-06-30 23:05 UTC |
+| 🕐 Last Updated | 2026-07-01 02:58 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`critical langflow vulnerability` • `cybercrime group known` • `bluehammer vulnerability exploited` • `unsuspecting users initiate` • `twitter whistleblower complaint` • `teams meetings microsoft` • `fake perplexity extension` • `codenamed silent swap` • `bank account information` • `unknown threat actor`
+`critical langflow vulnerability` • `cybercrime group known` • `bluehammer vulnerability exploited` • `unsuspecting users initiate` • `twitter whistleblower complaint` • `fake perplexity extension` • `codenamed silent swap` • `bank account information` • `unknown threat actor` • `past six months`
 
 ## 📄 Reports
 

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1982,
+      "count": 1983,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2730,7 +2730,7 @@
       ]
     },
     "address multiple flaws": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-01-07",
         "2026-07-01"
@@ -3096,7 +3096,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 240,
+      "count": 241,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3134,7 +3134,8 @@
         "2026-05-14",
         "2026-06-10",
         "2026-06-11",
-        "2026-06-18"
+        "2026-06-18",
+        "2026-07-01"
       ]
     },
     "authenticated remote attacker": {
@@ -16328,9 +16329,10 @@
       ]
     },
     "apple patches dozens": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-05-12"
+        "2026-05-12",
+        "2026-07-01"
       ]
     },
     "haven t admitted": {
@@ -17512,7 +17514,7 @@
       ]
     },
     "public github account": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17893,7 +17895,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18288,7 +18290,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18324,7 +18326,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18791,7 +18793,7 @@
       ]
     },
     "past six months": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20547,7 +20549,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21205,7 +21207,7 @@
       ]
     },
     "bluehammer vulnerability exploited": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21253,7 +21255,7 @@
       ]
     },
     "wider enterprise systems": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21272,7 +21274,7 @@
       ]
     },
     "trojanized pyrogram forks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21291,28 +21293,28 @@
       ]
     },
     "read arbitrary files": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "poisoned tool description": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "phishers gain persistence": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-06-30",
         "2026-07-01"
       ]
     },
     "online services offline": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-30",
         "2026-07-01"
@@ -21335,20 +21337,27 @@
       "dates": [
         "2026-07-01"
       ]
+    },
+    "maximum severity rating": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "updates fix vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
+    },
+    "ai tools point": {
+      "count": 1,
+      "dates": [
+        "2026-07-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-18 12:47",
-      "articles": 56,
-      "top_keywords": [
-        "leak confirms openai",
-        "android malware allows",
-        "twitter whistleblower complaint",
-        "mythos 5 models",
-        "extensive device surveillance"
-      ]
-    },
     {
       "timestamp": "2026-06-18 16:52",
       "articles": 56,
@@ -22436,6 +22445,17 @@
         "bluehammer vulnerability exploited",
         "twitter whistleblower complaint",
         "read arbitrary files"
+      ]
+    },
+    {
+      "timestamp": "2026-07-01 12:30",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "maximum severity rating",
+        "bluehammer vulnerability exploited",
+        "apple patches dozens",
+        "updates fix vulnerabilities"
       ]
     }
   ]

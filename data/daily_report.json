@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-07-01 08:06",
+  "last_updated": "2026-07-01 12:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "critical langflow vulnerability",
+    "maximum severity rating",
     "bluehammer vulnerability exploited",
+    "apple patches dozens",
+    "updates fix vulnerabilities",
     "twitter whistleblower complaint",
-    "read arbitrary files",
-    "fake perplexity extension",
-    "codenamed silent swap",
+    "ai tools point",
     "address multiple flaws",
     "resetting account passwords",
+    "read arbitrary files",
     "public github account",
-    "langflow rce exploited",
-    "unsigned installers observed",
+    "past six months",
+    "arbitrary code execution",
+    "wider enterprise systems",
     "trojanized pyrogram forks",
     "stark industries solutions",
-    "rated high severity",
     "pro iranian images",
     "poisoned tool description",
     "phishers gain persistence",
-    "past six months",
     "online services offline"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 58
+      "mentions": 59
     },
     {
-      "keyword": "critical langflow vulnerability",
-      "mentions": 6
+      "keyword": "maximum severity rating",
+      "mentions": 1
     },
     {
       "keyword": "bluehammer vulnerability exploited",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "apple patches dozens",
+      "mentions": 3
+    },
+    {
+      "keyword": "updates fix vulnerabilities",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1982
+      "mentions": 1983
     },
     {
-      "keyword": "read arbitrary files",
-      "mentions": 4
-    },
-    {
-      "keyword": "fake perplexity extension",
-      "mentions": 5
-    },
-    {
-      "keyword": "codenamed silent swap",
-      "mentions": 5
+      "keyword": "ai tools point",
+      "mentions": 1
     },
     {
       "keyword": "address multiple flaws",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 93
+      "mentions": 94
     },
     {
-      "keyword": "public github account",
-      "mentions": 74
+      "keyword": "read arbitrary files",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "summary": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
+      "published": "Wed, 01 Jul 2026 16:11:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
+      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
+      "summary": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks' Unit 42 calls the trick phantom squatting, and its new research shows it is already happening in the wild. The reason it matters is",
+      "published": "Wed, 01 Jul 2026 12:50:51 +0530",
+      "value_score": 51,
+      "value_signals": [
+        "Active exploitation",
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
@@ -129,25 +150,22 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "summary": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)",
-      "published": "Tue, 30 Jun 2026 21:17:20 +0530",
-      "value_score": 82,
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
+      "published": "Wed, 01 Jul 2026 06:52:26 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
-        "RCE ×3",
-        "High severity",
-        "Exploit wording"
+        "Patch/update"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "summary": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that",
-      "published": "Tue, 30 Jun 2026 21:10:18 +0530",
+      "source": "BleepingComputer",
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "summary": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
+      "published": "Wed, 01 Jul 2026 05:43:27 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -202,24 +220,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/malicious-pypi-packages-give-hackers-control-of-telegram-bot-servers/",
       "summary": "A campaign active since last November has been targeting Python developers building Telegram bots with trojanized Pyrogram forks that allow attackers to read arbitrary files on compromised servers. [...]",
       "published": "Tue, 30 Jun 2026 17:02:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Perplexity extension on Chrome Web Store tracked searches",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-perplexity-extension-on-chrome-web-store-tracked-searches/",
-      "summary": "A malicious extension in the Chrome Web Store is masquerading as the Perplexity AI answer engine, intercepting search traffic and collecting browsing information. [...]",
-      "published": "Tue, 30 Jun 2026 11:46:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Lessons from the Underground: How to Combat Business Email Compromise",
-      "link": "https://www.bleepingcomputer.com/news/security/lessons-from-the-underground-how-to-combat-business-email-compromise/",
-      "summary": "Business Email Compromise is more than an email scam. It's a coordinated operation involving compromised accounts, financial research, and cash-out networks. Flare explores how underground forums reveal how BEC attacks are planned and executed. [...]",
-      "published": "Tue, 30 Jun 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -391,6 +391,57 @@
     },
     {
       "source": "Security Week",
+      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
+      "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 11:27:07 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
+      "link": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
+      "summary": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug. The post Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 11:20:45 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
+      "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
+      "summary": "From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype. The post Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 10:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
+      "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
+      "summary": "The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users. The post Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 09:30:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
+      "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
+      "summary": "The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems. The post Dawnguard Raises $6.3 Million for Security Architecture Automation Platform appeared first on SecurityWeek .",
+      "published": "Wed, 01 Jul 2026 08:55:35 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Massive Password Spray Campaign Targeting Azure CLI",
       "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
       "summary": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY. The post Massive Password Spray Campaign Targeting Azure CLI appeared first on SecurityWeek .",
@@ -421,56 +472,6 @@
         "Zero-day",
         "Active exploitation",
         "Ransomware ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
-      "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
-      "summary": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors. The post Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Aflac Japan Data Breach Impacts 4.38 Million",
-      "link": "https://www.securityweek.com/aflac-japan-data-breach-impacts-4-38-million/",
-      "summary": "Hackers accessed the insurance giant’s policyholder portal multiple times between June 15 and June 25. The post Aflac Japan Data Breach Impacts 4.38 Million appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 12:52:33 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
-      "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
-      "summary": "Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team. The post Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
-      "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
-      "summary": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant. The post Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 11:48:40 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
-      "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
-      "summary": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product. The post Exploitation of Recent Oracle E-Business Suite Vulnerability Begins appeared first on SecurityWeek .",
-      "published": "Tue, 30 Jun 2026 11:29:48 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
         "Exploit wording"
       ]
     },

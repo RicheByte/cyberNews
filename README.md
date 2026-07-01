@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-01 08:06 UTC |
+| 🕐 Last Updated | 2026-07-01 12:30 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `critical langflow vulnerability` • `bluehammer vulnerability exploited` • `twitter whistleblower complaint` • `read arbitrary files` • `fake perplexity extension` • `codenamed silent swap` • `address multiple flaws` • `resetting account passwords` • `public github account`
+`cybercrime group known` • `maximum severity rating` • `bluehammer vulnerability exploited` • `apple patches dozens` • `updates fix vulnerabilities` • `twitter whistleblower complaint` • `ai tools point` • `address multiple flaws` • `resetting account passwords` • `read arbitrary files`
 
 ## 📄 Reports
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-01 21:22",
+  "last_updated": "2026-07-01 23:08",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,6 +10,7 @@
     "twitter whistleblower complaint",
     "fast spreading internet",
     "fake pdf lures",
+    "cyberattacks influence operations",
     "canada canadian authorities",
     "argo cd's maintainers",
     "resetting account passwords",
@@ -21,49 +22,48 @@
     "traditional email defenses",
     "steal sensitive data",
     "stark industries solutions",
-    "safe events start",
-    "repo server component"
+    "safe events start"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 62
+      "mentions": 63
     },
     {
       "keyword": "apple patches dozens",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "criminal ip explains",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "user agent data",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1986
+      "mentions": 1987
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 113
+      "mentions": 114
     },
     {
       "keyword": "fake pdf lures",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "cyberattacks influence operations",
+      "mentions": 39
     },
     {
       "keyword": "canada canadian authorities",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "argo cd's maintainers",
-      "mentions": 1
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 97
+      "mentions": 2
     }
   ],
   "articles": [
@@ -159,6 +159,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
+      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
+      "published": "Wed, 01 Jul 2026 17:37:24 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Kubota says hackers had month-long access to network systems",
       "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
       "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
@@ -229,17 +240,6 @@
       "value_signals": [
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "summary": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-      "published": "Wed, 01 Jul 2026 06:52:26 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -401,7 +401,7 @@
       "source": "Dark Reading",
       "title": "Why Identity Security Is Your Cyber Career Entry Point",
       "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
-      "summary": "As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at SIlverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.",
+      "summary": "As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at Silverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.",
       "published": "Tue, 30 Jun 2026 19:11:40 GMT",
       "value_score": 10,
       "value_signals": []

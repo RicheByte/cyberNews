@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1986,
+      "count": 1987,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1098,7 +1098,7 @@
       ]
     },
     "national security risk": {
-      "count": 254,
+      "count": 255,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -4636,7 +4636,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -16332,7 +16332,7 @@
       ]
     },
     "apple patches dozens": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-05-12",
         "2026-07-01"
@@ -17589,7 +17589,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17602,7 +17602,8 @@
         "2026-06-18",
         "2026-06-19",
         "2026-06-22",
-        "2026-06-23"
+        "2026-06-23",
+        "2026-07-01"
       ]
     },
     "leverage trusted websites": {
@@ -17898,7 +17899,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18293,7 +18294,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18651,7 +18652,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18797,7 +18798,7 @@
       ]
     },
     "past six months": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20553,7 +20554,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21103,7 +21104,7 @@
       ]
     },
     "traditional email defenses": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-29",
         "2026-07-01"
@@ -21362,19 +21363,19 @@
       ]
     },
     "criminal ip explains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01"
       ]
     },
     "fake pdf lures": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01"
       ]
     },
     "canada canadian authorities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01"
       ]
@@ -21386,7 +21387,7 @@
       ]
     },
     "ai agent's inability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01"
       ]
@@ -21416,31 +21417,31 @@
       ]
     },
     "uses social engineering": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
     },
     "unsuspecting user lands": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-01"
       ]
     },
     "user agent data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "argo cd's maintainers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
     },
     "safe events start": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-01"
       ]
@@ -21453,17 +21454,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-19 03:48",
-      "articles": 48,
-      "top_keywords": [
-        "pci dss problem",
-        "twitter whistleblower complaint",
-        "response edr killers",
-        "prolific cybercrime groups",
-        "paying customers via"
-      ]
-    },
     {
       "timestamp": "2026-06-19 09:02",
       "articles": 48,
@@ -22544,6 +22534,17 @@
     },
     {
       "timestamp": "2026-07-01 21:22",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "apple patches dozens",
+        "criminal ip explains",
+        "user agent data",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-01 23:08",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

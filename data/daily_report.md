@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-01 21:22 UTC  
+> **Last Updated:** 2026-07-01 23:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **apple patches dozens** • **criminal ip explains** • **user agent data** • **twitter whistleblower complaint** • **fast spreading internet** • **fake pdf lures** • **canada canadian authorities** • **argo cd's maintainers** • **resetting account passwords** • **past six months** • **national security risk** • **ai agent's inability** • **uses social engineering** • **unsuspecting user lands** • **traditional email defenses** • **steal sensitive data** • **stark industries solutions** • **safe events start** • **repo server component**
+**cybercrime group known** • **apple patches dozens** • **criminal ip explains** • **user agent data** • **twitter whistleblower complaint** • **fast spreading internet** • **fake pdf lures** • **cyberattacks influence operations** • **canada canadian authorities** • **argo cd's maintainers** • **resetting account passwords** • **past six months** • **national security risk** • **ai agent's inability** • **uses social engineering** • **unsuspecting user lands** • **traditional email defenses** • **steal sensitive data** • **stark industries solutions** • **safe events start**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
 - [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
 - [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
 - [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
@@ -34,7 +35,6 @@
 - [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
 - [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
 - [Over 900 Oracle E-Business instances exposed to ongoing attacks](https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/)
-- [Microsoft fixes GIF functionality in the Windows Emoji Panel](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/)
 
 ### Krebs on Security
 

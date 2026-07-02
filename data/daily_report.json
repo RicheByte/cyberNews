@@ -1,72 +1,108 @@
 {
-  "last_updated": "2026-07-02 07:25",
+  "last_updated": "2026-07-02 10:32",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cybercrime group known",
     "apple patches dozens",
-    "criminal ip explains",
+    "cybercrime group known",
+    "resetting account passwords",
+    "lynx ransomware operations",
+    "whole job breaking",
     "unauthorized third party",
     "twitter whistleblower complaint",
     "fast spreading internet",
-    "fake pdf lures",
     "cyberattacks influence operations",
     "argo cd's maintainers",
     "arbitrary code execution",
-    "resetting account passwords",
     "past six months",
-    "national security risk",
-    "ai agent's inability",
+    "dominant malware delivery",
+    "verified stolen credentials",
     "uses social engineering",
     "unsuspecting user lands",
     "traditional email defenses",
+    "stolen fortinet credentials",
     "stark industries solutions",
-    "safe events start",
     "repo server component"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 65
-    },
-    {
       "keyword": "apple patches dozens",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "criminal ip explains",
-      "mentions": 6
+      "keyword": "cybercrime group known",
+      "mentions": 66
     },
     {
-      "keyword": "unauthorized third party",
+      "keyword": "resetting account passwords",
+      "mentions": 101
+    },
+    {
+      "keyword": "lynx ransomware operations",
       "mentions": 1
     },
     {
+      "keyword": "whole job breaking",
+      "mentions": 1
+    },
+    {
+      "keyword": "unauthorized third party",
+      "mentions": 2
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1989
+      "mentions": 1990
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 116
-    },
-    {
-      "keyword": "fake pdf lures",
-      "mentions": 6
+      "mentions": 117
     },
     {
       "keyword": "cyberattacks influence operations",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "argo cd's maintainers",
-      "mentions": 4
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 242
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database. Ransomware has always",
+      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
+      "value_score": 72,
+      "value_signals": [
+        "Ransomware ×3",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
+      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and",
+      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "PoC available ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
@@ -123,40 +159,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
-      "link": "https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html",
-      "summary": "A Brazilian banking trojan called Ousaban is going after Windows users who bank in Spain and Portugal. Fortinet's FortiGuard Labs identified the campaign in May 2026. It opens with a phishing PDF disguised as a corrupted file, checks that the visitor is really in Spain or Portugal, and hides its real payload inside an image. The goal is the usual one: steal banking logins and take",
-      "published": "Wed, 01 Jul 2026 20:56:55 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic",
-      "link": "https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html",
-      "summary": "Adobe has released patches for multiple maximum-severity security flaws impacting Adobe ColdFusion and Adobe Campaign Classic. The ColdFusion updates \"resolves critical and important vulnerabilities that could lead to arbitrary code execution, privilege escalation, arbitrary file system read, and security feature bypass,\" Adobe said in an alert released Tuesday. The vulnerabilities are listed",
-      "published": "Wed, 01 Jul 2026 20:55:46 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Privilege escalation",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
-      "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
-      "summary": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs found the pair and named them DuneSlide. They are tracked as CVE-2026-50548 and CVE-2026-50549, both rated 9.8 out of 10 (or 9.3",
-      "published": "Wed, 01 Jul 2026 20:12:54 +0530",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "High severity",
-        "Multiple CVEs"
-      ]
+      "source": "BleepingComputer",
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
+      "published": "Thu, 02 Jul 2026 04:58:25 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -230,17 +239,6 @@
       "published": "Wed, 01 Jul 2026 12:38:01 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
-      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
-      "summary": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
-      "published": "Wed, 01 Jul 2026 10:01:11 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -408,6 +406,21 @@
     },
     {
       "source": "Security Week",
+      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+      "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
+      "summary": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). The post CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 10:30:42 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "RCE",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
       "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
       "summary": "Microsoft's new Teams admin policy requires organizer approval for external AI bots, giving organizations greater visibility and control over automated participants in sensitive meetings. The post Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings appeared first on SecurityWeek .",
@@ -474,17 +487,6 @@
       "published": "Wed, 01 Jul 2026 07:46:33 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Patches 382 Chrome Vulnerabilities",
-      "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
-      "summary": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’. The post Google Patches 382 Chrome Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 06:14:41 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

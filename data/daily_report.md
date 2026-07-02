@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-02 07:25 UTC  
+> **Last Updated:** 2026-07-02 10:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **apple patches dozens** • **criminal ip explains** • **unauthorized third party** • **twitter whistleblower complaint** • **fast spreading internet** • **fake pdf lures** • **cyberattacks influence operations** • **argo cd's maintainers** • **arbitrary code execution** • **resetting account passwords** • **past six months** • **national security risk** • **ai agent's inability** • **uses social engineering** • **unsuspecting user lands** • **traditional email defenses** • **stark industries solutions** • **safe events start** • **repo server component**
+**apple patches dozens** • **cybercrime group known** • **resetting account passwords** • **lynx ransomware operations** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **fast spreading internet** • **cyberattacks influence operations** • **argo cd's maintainers** • **arbitrary code execution** • **past six months** • **dominant malware delivery** • **verified stolen credentials** • **uses social engineering** • **unsuspecting user lands** • **traditional email defenses** • **stolen fortinet credentials** • **stark industries solutions** • **repo server component**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
+- [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
+- [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 - [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
 - [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
 - [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
 - [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
 - [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
-- [Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures](https://thehackernews.com/2026/07/ousaban-banking-trojan-targets-iberian.html)
-- [Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic](https://thehackernews.com/2026/07/adobe-patches-7-cvss-100-flaws-in.html)
-- [Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands](https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html)
 
 ### BleepingComputer
 
+- [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
 - [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
 - [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
 - [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
@@ -34,7 +35,6 @@
 - [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
 - [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
 - [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
-- [Turning Indicators into Intelligence in OpenCTI with Criminal IP](https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/)
 - [Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings](https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/)
 - [Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/)
 - [Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack](https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/)
@@ -67,7 +68,6 @@
 - [Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari](https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/)
 - [Dawnguard Raises $6.3 Million for Security Architecture Automation Platform](https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/)
 - [Massive Password Spray Campaign Targeting Azure CLI](https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/)
-- [Google Patches 382 Chrome Vulnerabilities](https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/)
 
 ### Threatpost
 

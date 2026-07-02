@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-02 10:32 UTC |
+| 🕐 Last Updated | 2026-07-02 13:47 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`apple patches dozens` • `cybercrime group known` • `resetting account passwords` • `lynx ransomware operations` • `whole job breaking` • `unauthorized third party` • `twitter whistleblower complaint` • `fast spreading internet` • `cyberattacks influence operations` • `argo cd's maintainers`
+`resetting account passwords` • `cybercrime group known` • `clickfix researchers say` • `whole job breaking` • `unauthorized third party` • `twitter whistleblower complaint` • `malware attacks it's` • `fast spreading internet` • `argo cd's maintainers` • `arbitrary code execution`
 
 ## 📄 Reports
 

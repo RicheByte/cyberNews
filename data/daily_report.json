@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-07-02 10:32",
+  "last_updated": "2026-07-02 13:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "apple patches dozens",
-    "cybercrime group known",
     "resetting account passwords",
-    "lynx ransomware operations",
+    "cybercrime group known",
+    "clickfix researchers say",
     "whole job breaking",
     "unauthorized third party",
     "twitter whistleblower complaint",
+    "malware attacks it's",
     "fast spreading internet",
-    "cyberattacks influence operations",
     "argo cd's maintainers",
     "arbitrary code execution",
-    "past six months",
     "dominant malware delivery",
     "verified stolen credentials",
-    "uses social engineering",
-    "unsuspecting user lands",
-    "traditional email defenses",
     "stolen fortinet credentials",
-    "stark industries solutions",
-    "repo server component"
+    "threat actor known",
+    "known issue causing",
+    "cyberattacks influence operations",
+    "service ddos attacks",
+    "lynx ransomware operations",
+    "fortibleed campaign linked",
+    "facilitate ransomware attacks"
   ],
   "trending": [
     {
-      "keyword": "apple patches dozens",
-      "mentions": 10
+      "keyword": "resetting account passwords",
+      "mentions": 102
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 66
+      "mentions": 67
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 101
-    },
-    {
-      "keyword": "lynx ransomware operations",
+      "keyword": "clickfix researchers say",
       "mentions": 1
     },
     {
       "keyword": "whole job breaking",
-      "mentions": 1
-    },
-    {
-      "keyword": "unauthorized third party",
       "mentions": 2
     },
     {
+      "keyword": "unauthorized third party",
+      "mentions": 3
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1990
+      "mentions": 1991
+    },
+    {
+      "keyword": "malware attacks it's",
+      "mentions": 1
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 117
-    },
-    {
-      "keyword": "cyberattacks influence operations",
-      "mentions": 42
+      "mentions": 118
     },
     {
       "keyword": "argo cd's maintainers",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 244
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
+      "published": "Thu, 02 Jul 2026 18:34:13 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
+      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
+      "summary": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it",
+      "published": "Thu, 02 Jul 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
@@ -139,24 +157,49 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "summary": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
-      "published": "Wed, 01 Jul 2026 23:23:06 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
-      "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
-      "summary": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on",
-      "published": "Wed, 01 Jul 2026 22:48:50 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
+      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
+      "published": "Thu, 02 Jul 2026 08:15:47 -0400",
       "value_score": 18,
       "value_signals": [
-        "Phishing"
+        "Patch/update"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
+      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
+      "published": "Thu, 02 Jul 2026 07:35:25 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation",
+        "RCE ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
+      "published": "Thu, 02 Jul 2026 06:46:58 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -195,48 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
       "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
       "published": "Wed, 01 Jul 2026 17:09:06 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
-      "summary": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
-      "published": "Wed, 01 Jul 2026 16:08:13 -0400",
-      "value_score": 36,
-      "value_signals": [
-        "PoC available ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "summary": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
-      "published": "Wed, 01 Jul 2026 13:32:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Webinar: Why traditional email security is no longer enough",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/",
-      "summary": "Modern phishing, business email compromise, and account takeover attacks increasingly exploit trusted identities and legitimate business workflows, making them harder for traditional email defenses to detect. This webinar explores how behavioral AI can help organizations automate detection and response. [...]",
-      "published": "Wed, 01 Jul 2026 12:54:22 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "Phishing",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target Microsoft 365 accounts with 81 million login attempts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/",
-      "summary": "An aggressive password-spraying campaign targeting Microsoft 365 environments generated more than 81 million login attempts over a two-week period. [...]",
-      "published": "Wed, 01 Jul 2026 12:38:01 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -327,6 +328,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
+      "summary": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open-source software supply chain.",
+      "published": "Thu, 02 Jul 2026 12:33:57 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS",
       "link": "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os",
       "summary": "Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
@@ -342,6 +354,15 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix",
       "summary": "Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it's now the rule.",
       "published": "Wed, 01 Jul 2026 19:46:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "When Too Much Security Data Became the Risk",
+      "link": "https://www.darkreading.com/cyber-risk/too-much-security-data-risk",
+      "summary": "Rapid growth turned routine firewall logs into a security and budget liability. One CISO used artificial intelligence to filter what data truly belongs in the SIEM.",
+      "published": "Wed, 01 Jul 2026 15:44:41 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -387,20 +408,52 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Seize Exposed AI Endpoints to Power Offensive Ops",
-      "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
-      "summary": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
-      "published": "Tue, 30 Jun 2026 21:01:58 GMT",
+      "source": "Security Week",
+      "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
+      "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
+      "summary": "As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production. The post How to Conduct a Successful Audit of AI-Driven Software Development appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 13:15:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Why Identity Security Is Your Cyber Career Entry Point",
-      "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
-      "summary": "As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at Silverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.",
-      "published": "Tue, 30 Jun 2026 19:11:40 GMT",
+      "source": "Security Week",
+      "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
+      "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
+      "summary": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations. The post FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 12:34:29 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
+      "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
+      "summary": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 11:01:48 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
+      "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
+      "summary": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week. The post Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 10:48:43 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
+      "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
+      "summary": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials. The post ‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 10:45:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -438,55 +491,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
-      "link": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
-      "summary": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug. The post Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 11:20:45 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
-      "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
-      "summary": "From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype. The post Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
-      "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
-      "summary": "The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users. The post Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 09:30:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
-      "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
-      "summary": "The company has publicly launched its solution to help organizations design, build, and operate secure cloud systems. The post Dawnguard Raises $6.3 Million for Security Architecture Automation Platform appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 08:55:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Massive Password Spray Campaign Targeting Azure CLI",
-      "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
-      "summary": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY. The post Massive Password Spray Campaign Targeting Azure CLI appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 07:46:33 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

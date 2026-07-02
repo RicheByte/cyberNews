@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-02 10:32 UTC  
+> **Last Updated:** 2026-07-02 13:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**apple patches dozens** • **cybercrime group known** • **resetting account passwords** • **lynx ransomware operations** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **fast spreading internet** • **cyberattacks influence operations** • **argo cd's maintainers** • **arbitrary code execution** • **past six months** • **dominant malware delivery** • **verified stolen credentials** • **uses social engineering** • **unsuspecting user lands** • **traditional email defenses** • **stolen fortinet credentials** • **stark industries solutions** • **repo server component**
+**resetting account passwords** • **cybercrime group known** • **clickfix researchers say** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **malware attacks it's** • **fast spreading internet** • **argo cd's maintainers** • **arbitrary code execution** • **dominant malware delivery** • **verified stolen credentials** • **stolen fortinet credentials** • **threat actor known** • **known issue causing** • **cyberattacks influence operations** • **service ddos attacks** • **lynx ransomware operations** • **fortibleed campaign linked** • **facilitate ransomware attacks**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
+- [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 - [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 - [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
 - [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
 - [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
 - [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
 - [19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges](https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html)
-- [SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT](https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html)
-- [VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer](https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html)
 
 ### BleepingComputer
 
+- [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
+- [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
+- [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
+- [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
 - [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
 - [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
 - [FortiBleed credential-theft campaign linked to Lynx ransomware](https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/)
 - [Kubota says hackers had month-long access to network systems](https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/)
-- [New ChocoPoC malware targets researchers via trojanized PoC exploits](https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/)
-- [DHS confirms hackers breached HSIN info-sharing platform](https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/)
-- [Webinar: Why traditional email security is no longer enough](https://www.bleepingcomputer.com/news/security/webinar-why-traditional-email-security-is-no-longer-enough/)
-- [Hackers target Microsoft 365 accounts with 81 million login attempts](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-365-accounts-with-81-million-login-attempts/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.](https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-)
 - [Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS](https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os)
 - [And the Winner in Dominant Malware Delivery? ClickFix](https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix)
+- [When Too Much Security Data Became the Risk](https://www.darkreading.com/cyber-risk/too-much-security-data-risk)
 - ['Phantom Squatting': An Emerging AI-Driven Supply Chain Threat](https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat)
 - [Safe Events Start With Threat Intel and Digital Security](https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security)
 - [China-Linked Group Targets Southeast Asia Critical Systems](https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems)
 - [Fake Bug Report Hijacks AI Coding Agents at Scale](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)
-- [Attackers Seize Exposed AI Endpoints to Power Offensive Ops](https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops)
-- [Why Identity Security Is Your Cyber Career Entry Point](https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point)
 
 ### Security Week
 
+- [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
+- [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
+- [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
+- [Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability](https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/)
+- [‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials](https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/)
 - [CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability](https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/)
 - [Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings](https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/)
 - [Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/)
-- [Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack](https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/)
-- [Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors](https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/)
-- [Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari](https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/)
-- [Dawnguard Raises $6.3 Million for Security Architecture Automation Platform](https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/)
-- [Massive Password Spray Campaign Targeting Azure CLI](https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/)
 
 ### Threatpost
 

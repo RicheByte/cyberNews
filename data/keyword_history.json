@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1990,
+      "count": 1991,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -608,7 +608,7 @@
       ]
     },
     "threat actor known": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -619,7 +619,8 @@
         "2026-04-22",
         "2026-04-23",
         "2026-06-05",
-        "2026-06-06"
+        "2026-06-06",
+        "2026-07-02"
       ]
     },
     "firefox web browser": {
@@ -3100,7 +3101,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 243,
+      "count": 244,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -6588,7 +6589,7 @@
       ]
     },
     "service ddos attacks": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-02-05",
         "2026-02-06",
@@ -6609,7 +6610,8 @@
         "2026-05-21",
         "2026-05-26",
         "2026-05-27",
-        "2026-05-29"
+        "2026-05-29",
+        "2026-07-02"
       ]
     },
     "memory spain's ministry": {
@@ -17594,7 +17596,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -18301,7 +18303,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18660,7 +18662,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20564,7 +20566,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21454,7 +21456,7 @@
       ]
     },
     "argo cd's maintainers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-01",
         "2026-07-02"
@@ -21475,36 +21477,66 @@
       ]
     },
     "unauthorized third party": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-02"
       ]
     },
     "lynx ransomware operations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "whole job breaking": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "dominant malware delivery": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "verified stolen credentials": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "stolen fortinet credentials": {
+      "count": 2,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "clickfix researchers say": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "malware attacks it's": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "known issue causing": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "fortibleed campaign linked": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "facilitate ransomware attacks": {
       "count": 1,
       "dates": [
         "2026-07-02"
@@ -21512,17 +21544,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-19 19:42",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "dire critical rating",
-        "internet accessible devices",
-        "cybersecurity firms impacted",
-        "enterprise ai concern"
-      ]
-    },
     {
       "timestamp": "2026-06-19 21:04",
       "articles": 48,
@@ -22610,6 +22631,17 @@
         "resetting account passwords",
         "lynx ransomware operations",
         "whole job breaking"
+      ]
+    },
+    {
+      "timestamp": "2026-07-02 13:47",
+      "articles": 48,
+      "top_keywords": [
+        "resetting account passwords",
+        "cybercrime group known",
+        "clickfix researchers say",
+        "whole job breaking",
+        "unauthorized third party"
       ]
     }
   ]

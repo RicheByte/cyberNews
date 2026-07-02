@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-02 16:01 UTC  
+> **Last Updated:** 2026-07-02 19:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**resetting account passwords** • **threat actor known** • **cybercrime group known** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **malware attacks it's** • **fast spreading internet** • **argo cd's maintainers** • **verified stolen credentials** • **dominant malware delivery** • **known issue causing** • **security feature designed** • **national security risk** • **fortibleed campaign linked** • **public disclosure hackers** • **facilitate ransomware attacks** • **stark industries solutions** • **repo server component** • **real life identity**
+**resetting account passwords** • **threat actor known** • **cybercrime group known** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **malware attacks it's** • **fast spreading internet** • **argo cd's maintainers** • **verified stolen credentials** • **dominant malware delivery** • **known issue causing** • **fortibleed campaign linked** • **security feature designed** • **national security risk** • **facilitate ransomware attacks** • **public disclosure hackers** • **stark industries solutions** • **repo server component** • **real life identity**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
 - [Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.](https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-)
 - [Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS](https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os)
 - [And the Winner in Dominant Malware Delivery? ClickFix](https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix)
@@ -56,7 +57,6 @@
 - ['Phantom Squatting': An Emerging AI-Driven Supply Chain Threat](https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat)
 - [Safe Events Start With Threat Intel &amp; Digital Security](https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security)
 - [China-Linked Group Targets Southeast Asia Critical Systems](https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems)
-- [Fake Bug Report Hijacks AI Coding Agents at Scale](https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents)
 
 ### Security Week
 

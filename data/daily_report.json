@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02 16:01",
+  "last_updated": "2026-07-02 19:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -15,11 +15,11 @@
     "verified stolen credentials",
     "dominant malware delivery",
     "known issue causing",
+    "fortibleed campaign linked",
     "security feature designed",
     "national security risk",
-    "fortibleed campaign linked",
-    "public disclosure hackers",
     "facilitate ransomware attacks",
+    "public disclosure hackers",
     "stark industries solutions",
     "repo server component",
     "real life identity"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "resetting account passwords",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "threat actor known",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 68
+      "mentions": 69
     },
     {
       "keyword": "whole job breaking",
-      "mentions": 3
-    },
-    {
-      "keyword": "unauthorized third party",
       "mentions": 4
     },
     {
+      "keyword": "unauthorized third party",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1992
+      "mentions": 1993
     },
     {
       "keyword": "malware attacks it's",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 119
+      "mentions": 120
     },
     {
       "keyword": "argo cd's maintainers",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "verified stolen credentials",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -328,6 +328,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ransomware Thugs Masquerade as Interpol to Entice Small Biz",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
+      "summary": "The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.",
+      "published": "Thu, 02 Jul 2026 18:07:40 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
       "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
       "summary": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open-source software supply chain.",
@@ -394,17 +405,6 @@
       "value_signals": [
         "Backdoor",
         "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
-      "link": "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents",
-      "summary": "\"Agentjacking\" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions.",
-      "published": "Tue, 30 Jun 2026 21:37:50 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

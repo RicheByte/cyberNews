@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-02 13:47 UTC |
+| 🕐 Last Updated | 2026-07-02 16:01 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`resetting account passwords` • `cybercrime group known` • `clickfix researchers say` • `whole job breaking` • `unauthorized third party` • `twitter whistleblower complaint` • `malware attacks it's` • `fast spreading internet` • `argo cd's maintainers` • `arbitrary code execution`
+`resetting account passwords` • `threat actor known` • `cybercrime group known` • `whole job breaking` • `unauthorized third party` • `twitter whistleblower complaint` • `malware attacks it's` • `fast spreading internet` • `argo cd's maintainers` • `verified stolen credentials`
 
 ## 📄 Reports
 

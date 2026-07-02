@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1991,
+      "count": 1992,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -536,7 +536,7 @@
       ]
     },
     "real life identity": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -562,7 +562,8 @@
         "2026-06-27",
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-02"
       ]
     },
     "got1000 series devices": {
@@ -608,7 +609,7 @@
       ]
     },
     "threat actor known": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1100,7 +1101,7 @@
       ]
     },
     "national security risk": {
-      "count": 257,
+      "count": 258,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -17907,7 +17908,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18303,7 +18304,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 102,
+      "count": 103,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18662,7 +18663,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20566,7 +20567,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21456,7 +21457,7 @@
       ]
     },
     "argo cd's maintainers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-01",
         "2026-07-02"
@@ -21470,14 +21471,14 @@
       ]
     },
     "repo server component": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01",
         "2026-07-02"
       ]
     },
     "unauthorized third party": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-02"
       ]
@@ -21489,19 +21490,19 @@
       ]
     },
     "whole job breaking": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-02"
       ]
     },
     "dominant malware delivery": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-02"
       ]
     },
     "verified stolen credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-02"
       ]
@@ -21519,24 +21520,36 @@
       ]
     },
     "malware attacks it's": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "known issue causing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "fortibleed campaign linked": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-02"
       ]
     },
     "facilitate ransomware attacks": {
+      "count": 2,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "security feature designed": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "public disclosure hackers": {
       "count": 1,
       "dates": [
         "2026-07-02"
@@ -21544,17 +21557,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-19 21:04",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "dire critical rating",
-        "internet accessible devices",
-        "cybersecurity firms impacted",
-        "enterprise ai concern"
-      ]
-    },
     {
       "timestamp": "2026-06-19 22:50",
       "articles": 48,
@@ -22640,6 +22642,17 @@
         "resetting account passwords",
         "cybercrime group known",
         "clickfix researchers say",
+        "whole job breaking",
+        "unauthorized third party"
+      ]
+    },
+    {
+      "timestamp": "2026-07-02 16:01",
+      "articles": 48,
+      "top_keywords": [
+        "resetting account passwords",
+        "threat actor known",
+        "cybercrime group known",
         "whole job breaking",
         "unauthorized third party"
       ]

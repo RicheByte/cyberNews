@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-02 13:47",
+  "last_updated": "2026-07-02 16:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "resetting account passwords",
+    "threat actor known",
     "cybercrime group known",
-    "clickfix researchers say",
     "whole job breaking",
     "unauthorized third party",
     "twitter whistleblower complaint",
     "malware attacks it's",
     "fast spreading internet",
     "argo cd's maintainers",
-    "arbitrary code execution",
-    "dominant malware delivery",
     "verified stolen credentials",
-    "stolen fortinet credentials",
-    "threat actor known",
+    "dominant malware delivery",
     "known issue causing",
-    "cyberattacks influence operations",
-    "service ddos attacks",
-    "lynx ransomware operations",
+    "security feature designed",
+    "national security risk",
     "fortibleed campaign linked",
-    "facilitate ransomware attacks"
+    "public disclosure hackers",
+    "facilitate ransomware attacks",
+    "stark industries solutions",
+    "repo server component",
+    "real life identity"
   ],
   "trending": [
     {
       "keyword": "resetting account passwords",
-      "mentions": 102
+      "mentions": 103
+    },
+    {
+      "keyword": "threat actor known",
+      "mentions": 38
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 67
-    },
-    {
-      "keyword": "clickfix researchers say",
-      "mentions": 1
+      "mentions": 68
     },
     {
       "keyword": "whole job breaking",
-      "mentions": 2
-    },
-    {
-      "keyword": "unauthorized third party",
       "mentions": 3
     },
     {
+      "keyword": "unauthorized third party",
+      "mentions": 4
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1991
+      "mentions": 1992
     },
     {
       "keyword": "malware attacks it's",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "argo cd's maintainers",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 244
+      "keyword": "verified stolen credentials",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
+      "published": "Thu, 02 Jul 2026 20:54:18 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
@@ -148,11 +159,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
-      "summary": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1. Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody. Finnish police",
-      "published": "Thu, 02 Jul 2026 00:58:07 +0530",
+      "source": "BleepingComputer",
+      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+      "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
+      "published": "Thu, 02 Jul 2026 11:18:51 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+      "summary": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "published": "Thu, 02 Jul 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -220,26 +240,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
-      "summary": "The massive FortiBleed credential theft campaign has been linked to the INC and Lynx ransomware operations, suggesting the stolen Fortinet credentials were intended to fuel future network intrusions. [...]",
-      "published": "Wed, 01 Jul 2026 17:37:24 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Kubota says hackers had month-long access to network systems",
-      "link": "https://www.bleepingcomputer.com/news/security/kubota-says-hackers-had-month-long-access-to-network-systems/",
-      "summary": "Kubota North America Corporation disclosed that hackers had access to some of its network systems for more than a month earlier this year. [...]",
-      "published": "Wed, 01 Jul 2026 17:09:06 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -377,7 +377,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Safe Events Start With Threat Intel and Digital Security",
+      "title": "Safe Events Start With Threat Intel &amp; Digital Security",
       "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
       "summary": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
       "published": "Wed, 01 Jul 2026 13:00:00 GMT",
@@ -404,6 +404,18 @@
       "published": "Tue, 30 Jun 2026 21:37:50 GMT",
       "value_score": 16,
       "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
+      "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
+      "summary": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response. The post New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure appeared first on SecurityWeek .",
+      "published": "Thu, 02 Jul 2026 15:04:22 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "PoC available",
         "Exploit wording"
       ]
     },
@@ -480,17 +492,6 @@
       "published": "Wed, 01 Jul 2026 18:08:15 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
-      "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
-      "summary": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 11:27:07 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

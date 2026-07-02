@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-02 19:16 UTC  
+> **Last Updated:** 2026-07-02 20:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**resetting account passwords** • **threat actor known** • **cybercrime group known** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **malware attacks it's** • **fast spreading internet** • **argo cd's maintainers** • **verified stolen credentials** • **dominant malware delivery** • **known issue causing** • **fortibleed campaign linked** • **security feature designed** • **national security risk** • **facilitate ransomware attacks** • **public disclosure hackers** • **stark industries solutions** • **repo server component** • **real life identity**
+**resetting account passwords** • **threat actor known** • **cybercrime group known** • **malware attacks it's** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **although tactics differ** • **verified stolen credentials** • **fortibleed actors collaborating** • **dominant malware delivery** • **lynx ransomware operations** • **known issue causing** • **facilitate ransomware attacks** • **security feature designed** • **national security risk** • **data truly belongs** • **public disclosure hackers** • **unified cm vulnerability** • **turns home devices**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
+- [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
 - [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 - [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 - [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 - [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
 - [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
 - [New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos](https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html)
-- [SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation](https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html)
-- [Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters](https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html)
 
 ### BleepingComputer
 
@@ -38,6 +38,7 @@
 
 ### Krebs on Security
 
+- [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/)
 - [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
@@ -45,18 +46,17 @@
 - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
-- [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/)
 
 ### Dark Reading
 
+- [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
+- [FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs](https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs)
 - [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
 - [Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.](https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-)
 - [Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS](https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os)
 - [And the Winner in Dominant Malware Delivery? ClickFix](https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix)
 - [When Too Much Security Data Became the Risk](https://www.darkreading.com/cyber-risk/too-much-security-data-risk)
 - ['Phantom Squatting': An Emerging AI-Driven Supply Chain Threat](https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat)
-- [Safe Events Start With Threat Intel &amp; Digital Security](https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security)
-- [China-Linked Group Targets Southeast Asia Critical Systems](https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems)
 
 ### Security Week
 

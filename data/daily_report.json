@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-07-02 19:16",
+  "last_updated": "2026-07-02 20:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "resetting account passwords",
     "threat actor known",
     "cybercrime group known",
+    "malware attacks it's",
     "whole job breaking",
     "unauthorized third party",
     "twitter whistleblower complaint",
-    "malware attacks it's",
-    "fast spreading internet",
-    "argo cd's maintainers",
+    "although tactics differ",
     "verified stolen credentials",
+    "fortibleed actors collaborating",
     "dominant malware delivery",
+    "lynx ransomware operations",
     "known issue causing",
-    "fortibleed campaign linked",
+    "facilitate ransomware attacks",
     "security feature designed",
     "national security risk",
-    "facilitate ransomware attacks",
+    "data truly belongs",
     "public disclosure hackers",
-    "stark industries solutions",
-    "repo server component",
-    "real life identity"
+    "unified cm vulnerability",
+    "turns home devices"
   ],
   "trending": [
     {
       "keyword": "resetting account passwords",
-      "mentions": 104
+      "mentions": 105
     },
     {
       "keyword": "threat actor known",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 69
-    },
-    {
-      "keyword": "whole job breaking",
-      "mentions": 4
-    },
-    {
-      "keyword": "unauthorized third party",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1993
+      "mentions": 70
     },
     {
       "keyword": "malware attacks it's",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "fast spreading internet",
-      "mentions": 120
+      "keyword": "whole job breaking",
+      "mentions": 5
     },
     {
-      "keyword": "argo cd's maintainers",
-      "mentions": 8
+      "keyword": "unauthorized third party",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1994
+    },
+    {
+      "keyword": "although tactics differ",
+      "mentions": 1
     },
     {
       "keyword": "verified stolen credentials",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "fortibleed actors collaborating",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions. Google identifies NetNut, also tracked as Popa, as a network spread across home",
+      "published": "Fri, 03 Jul 2026 00:24:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
+      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned",
+        "Ransomware ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
@@ -130,32 +152,6 @@
       "value_signals": [
         "PoC available ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
-      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue",
-      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×2",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
-      "link": "https://thehackernews.com/2026/07/unpatched-argo-cd-repo-server-flaw.html",
-      "summary": "Argo CD, a widely used tool for deploying software to Kubernetes, has an unpatched flaw in its repo-server component that lets an unauthenticated attacker run code, provided they can reach the component's internal network port. Synacktiv, which found the bug, says it can lead to a full cluster takeover. There is no fix and no CVE. The firm says it reported the flaw to Argo CD's maintainers in",
-      "published": "Thu, 02 Jul 2026 01:10:06 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -243,6 +239,17 @@
     },
     {
       "source": "Krebs on Security",
+      "title": "FBI Seizes NetNut Proxy Platform, Popa Botnet",
+      "link": "https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/",
+      "summary": "The Federal Bureau of Investigation (FBI) said today it worked with industry partners to seize hundreds of domains associated with NetNut, a sprawling residential proxy service operated by the publicly-traded Israeli company Alarum Technologies [NASDAQ: ALAR]. The action comes roughly two weeks after KrebsOnSecurity published findings from multiple security firms connecting NetNut to the Popa botnet, a collection of at least two million devices that have been compromised by malicious software wi",
+      "published": "Thu, 02 Jul 2026 19:27:33 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Krebs on Security",
       "title": "Scattered Spider Hackers Plead Guilty on Day 1 of Trial",
       "link": "https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/",
       "summary": "Two men pleaded guilty in the United Kingdom this week to criminal charges stemming from an August 2024 cyberattack that crippled Transport for London, the entity responsible for the public transport network in the Greater London area. The duo were key members of a prolific cybercrime group known as Scattered Spider, and their guilty pleas came on the first day of what was expected to be a six-week trial.",
@@ -316,14 +323,27 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada",
-      "link": "https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/",
-      "summary": "Canadian authorities on Wednesday arrested a 23-year-old Ottawa man on suspicion of building and operating Kimwolf, a fast spreading Internet-of-Things botnet that enslaved millions of devices for use in a series of massive distributed denial-of-service (DDoS) attacks over the past six months. KrebsOnSecurity publicly named the suspect in February 2026 after the accused launched a volley of DDoS, doxing and swatting campaigns against this author and a security researcher. He now faces criminal h",
-      "published": "Thu, 21 May 2026 21:50:25 +0000",
-      "value_score": 20,
+      "source": "Dark Reading",
+      "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
+      "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
+      "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
+      "published": "Thu, 02 Jul 2026 19:31:58 GMT",
+      "value_score": 24,
       "value_signals": [
-        "Botnet"
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
+      "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
+      "summary": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
+      "published": "Thu, 02 Jul 2026 19:11:33 GMT",
+      "value_score": 53,
+      "value_signals": [
+        "Zero-day",
+        "Ransomware"
       ]
     },
     {
@@ -385,27 +405,6 @@
       "published": "Wed, 01 Jul 2026 15:17:14 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Safe Events Start With Threat Intel &amp; Digital Security",
-      "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
-      "summary": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
-      "published": "Wed, 01 Jul 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China-Linked Group Targets Southeast Asia Critical Systems",
-      "link": "https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems",
-      "summary": "The group compromised at least 10 regional organizations, including two state-owned entities, and deployed a new backdoor.",
-      "published": "Wed, 01 Jul 2026 01:00:01 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "Backdoor",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

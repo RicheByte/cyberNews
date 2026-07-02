@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1993,
+      "count": 1994,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -609,7 +609,7 @@
       ]
     },
     "threat actor known": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1101,7 +1101,7 @@
       ]
     },
     "national security risk": {
-      "count": 259,
+      "count": 260,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -18304,7 +18304,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20567,7 +20567,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21478,31 +21478,31 @@
       ]
     },
     "unauthorized third party": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-02"
       ]
     },
     "lynx ransomware operations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-02"
       ]
     },
     "whole job breaking": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02"
       ]
     },
     "dominant malware delivery": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02"
       ]
     },
     "verified stolen credentials": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02"
       ]
@@ -21520,13 +21520,13 @@
       ]
     },
     "malware attacks it's": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-02"
       ]
     },
     "known issue causing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-02"
       ]
@@ -21538,36 +21538,55 @@
       ]
     },
     "facilitate ransomware attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-02"
       ]
     },
     "security feature designed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-02"
       ]
     },
     "public disclosure hackers": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "although tactics differ": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "fortibleed actors collaborating": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "data truly belongs": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "unified cm vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-07-02"
+      ]
+    },
+    "turns home devices": {
+      "count": 1,
       "dates": [
         "2026-07-02"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-20 02:51",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "internet accessible devices",
-        "dire critical rating",
-        "cybersecurity firms impacted",
-        "enterprise ai concern"
-      ]
-    },
     {
       "timestamp": "2026-06-20 07:45",
       "articles": 48,
@@ -22655,6 +22674,17 @@
         "cybercrime group known",
         "whole job breaking",
         "unauthorized third party"
+      ]
+    },
+    {
+      "timestamp": "2026-07-02 20:58",
+      "articles": 48,
+      "top_keywords": [
+        "resetting account passwords",
+        "threat actor known",
+        "cybercrime group known",
+        "malware attacks it's",
+        "whole job breaking"
       ]
     }
   ]

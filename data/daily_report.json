@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-07-02 02:46",
+  "last_updated": "2026-07-02 07:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "apple patches dozens",
     "criminal ip explains",
-    "user agent data",
+    "unauthorized third party",
     "twitter whistleblower complaint",
     "fast spreading internet",
     "fake pdf lures",
     "cyberattacks influence operations",
-    "canada canadian authorities",
     "argo cd's maintainers",
+    "arbitrary code execution",
     "resetting account passwords",
     "past six months",
     "national security risk",
@@ -20,53 +20,68 @@
     "uses social engineering",
     "unsuspecting user lands",
     "traditional email defenses",
-    "steal sensitive data",
     "stark industries solutions",
-    "safe events start"
+    "safe events start",
+    "repo server component"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "apple patches dozens",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "criminal ip explains",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "user agent data",
-      "mentions": 3
+      "keyword": "unauthorized third party",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1988
+      "mentions": 1989
     },
     {
       "keyword": "fast spreading internet",
-      "mentions": 115
+      "mentions": 116
     },
     {
       "keyword": "fake pdf lures",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "cyberattacks influence operations",
-      "mentions": 40
-    },
-    {
-      "keyword": "canada canadian authorities",
-      "mentions": 5
+      "mentions": 41
     },
     {
       "keyword": "argo cd's maintainers",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 242
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue",
+      "published": "Thu, 02 Jul 2026 11:16:45 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
@@ -144,17 +159,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
-      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
-      "summary": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve",
-      "published": "Wed, 01 Jul 2026 19:26:18 +0530",
-      "value_score": 62,
+      "source": "BleepingComputer",
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "published": "Thu, 02 Jul 2026 00:25:42 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -228,18 +240,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "summary": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "published": "Wed, 01 Jul 2026 08:30:01 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
       ]
     },
     {

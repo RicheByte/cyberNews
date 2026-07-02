@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-02 02:46 UTC |
+| 🕐 Last Updated | 2026-07-02 07:25 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `apple patches dozens` • `criminal ip explains` • `user agent data` • `twitter whistleblower complaint` • `fast spreading internet` • `fake pdf lures` • `cyberattacks influence operations` • `canada canadian authorities` • `argo cd's maintainers`
+`cybercrime group known` • `apple patches dozens` • `criminal ip explains` • `unauthorized third party` • `twitter whistleblower complaint` • `fast spreading internet` • `fake pdf lures` • `cyberattacks influence operations` • `argo cd's maintainers` • `arbitrary code execution`
 
 ## 📄 Reports
 

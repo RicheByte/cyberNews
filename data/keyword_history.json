@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1988,
+      "count": 1989,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1099,7 +1099,7 @@
       ]
     },
     "national security risk": {
-      "count": 256,
+      "count": 257,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3100,7 +3100,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 241,
+      "count": 242,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3139,7 +3139,8 @@
         "2026-06-10",
         "2026-06-11",
         "2026-06-18",
-        "2026-07-01"
+        "2026-07-01",
+        "2026-07-02"
       ]
     },
     "authenticated remote attacker": {
@@ -16335,7 +16336,7 @@
       ]
     },
     "apple patches dozens": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-12",
         "2026-07-01",
@@ -17593,7 +17594,7 @@
       ]
     },
     "cyberattacks influence operations": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-05-25",
         "2026-05-26",
@@ -17904,7 +17905,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18300,7 +18301,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18659,7 +18660,7 @@
       ]
     },
     "fast spreading internet": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -18806,7 +18807,7 @@
       ]
     },
     "past six months": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-06-04",
         "2026-06-05",
@@ -20563,7 +20564,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21114,7 +21115,7 @@
       ]
     },
     "traditional email defenses": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-29",
         "2026-07-01",
@@ -21374,14 +21375,14 @@
       ]
     },
     "criminal ip explains": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-01",
         "2026-07-02"
       ]
     },
     "fake pdf lures": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-01",
         "2026-07-02"
@@ -21401,7 +21402,7 @@
       ]
     },
     "ai agent's inability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-01",
         "2026-07-02"
@@ -21432,14 +21433,14 @@
       ]
     },
     "uses social engineering": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-01",
         "2026-07-02"
       ]
     },
     "unsuspecting user lands": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-01",
         "2026-07-02"
@@ -21453,38 +21454,34 @@
       ]
     },
     "argo cd's maintainers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01",
         "2026-07-02"
       ]
     },
     "safe events start": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-01",
         "2026-07-02"
       ]
     },
     "repo server component": {
+      "count": 2,
+      "dates": [
+        "2026-07-01",
+        "2026-07-02"
+      ]
+    },
+    "unauthorized third party": {
       "count": 1,
       "dates": [
-        "2026-07-01"
+        "2026-07-02"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-19 13:31",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "enterprise ai concern",
-        "bundled tor proxy",
-        "dire critical rating",
-        "cybersecurity firms impacted"
-      ]
-    },
     {
       "timestamp": "2026-06-19 16:29",
       "articles": 48,
@@ -22571,6 +22568,17 @@
         "apple patches dozens",
         "criminal ip explains",
         "user agent data",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-02 07:25",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "apple patches dozens",
+        "criminal ip explains",
+        "unauthorized third party",
         "twitter whistleblower complaint"
       ]
     }

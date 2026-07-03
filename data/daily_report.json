@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 20:58",
+  "last_updated": "2026-07-03 22:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,61 +12,70 @@
     "commercial surveillance tools",
     "bugs earned microsoft's",
     "basic social engineering",
-    "anubis ransomware operation",
-    "although tactics differ",
-    "turns home devices",
     "resetting account passwords",
     "chinese llms broaden",
     "siphon sensitive data",
     "krebsonsecurity published findings",
+    "turns home devices",
     "stole patients personal",
     "stark industries solutions",
     "rollup polyfill tooling",
-    "real life identity"
+    "real life identity",
+    "pro iranian images",
+    "obama white house"
   ],
   "trending": [
     {
       "keyword": "residential proxy network",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "public github account",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2003
+      "mentions": 2004
     },
     {
       "keyword": "known issue causing",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "commercial surveillance tools",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "bugs earned microsoft's",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "basic social engineering",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "anubis ransomware operation",
-      "mentions": 2
+      "keyword": "resetting account passwords",
+      "mentions": 115
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "summary": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
+      "published": "Sat, 04 Jul 2026 01:49:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
@@ -135,19 +144,6 @@
       "published": "Fri, 03 Jul 2026 00:24:06 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
-      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
-      "summary": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
-      "published": "Fri, 03 Jul 2026 00:00:33 +0530",
-      "value_score": 70,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",

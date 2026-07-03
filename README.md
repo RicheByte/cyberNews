@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-03 06:57 UTC |
+| 🕐 Last Updated | 2026-07-03 10:30 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`resetting account passwords` • `threat actor known` • `cybercrime group known` • `data truly belongs` • `whole job breaking` • `twitter whistleblower complaint` • `although tactics differ` • `verified stolen credentials` • `fortibleed actors collaborating` • `dominant malware delivery`
+`cybercrime group known` • `company s corporate` • `threat actor known` • `public github account` • `whole job breaking` • `twitter whistleblower complaint` • `siphon sensitive data` • `data truly belongs` • `bugs earned microsoft's` • `although tactics differ`
 
 ## 📄 Reports
 

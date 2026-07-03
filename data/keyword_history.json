@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1997,
+      "count": 1998,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +611,7 @@
       ]
     },
     "threat actor known": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -17528,7 +17528,7 @@
       ]
     },
     "public github account": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17544,7 +17544,8 @@
         "2026-06-26",
         "2026-06-29",
         "2026-06-30",
-        "2026-07-01"
+        "2026-07-01",
+        "2026-07-03"
       ]
     },
     "canadian man arrested": {
@@ -18308,7 +18309,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20442,10 +20443,11 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-22",
-        "2026-06-23"
+        "2026-06-23",
+        "2026-07-03"
       ]
     },
     "heartbleed style vulnerability": {
@@ -20572,7 +20574,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21456,7 +21458,7 @@
       ]
     },
     "user agent data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-01",
         "2026-07-02",
@@ -21491,14 +21493,14 @@
       ]
     },
     "lynx ransomware operations": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "whole job breaking": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21512,7 +21514,7 @@
       ]
     },
     "verified stolen credentials": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21537,7 +21539,7 @@
       ]
     },
     "known issue causing": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21557,7 +21559,7 @@
       ]
     },
     "security feature designed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21571,21 +21573,21 @@
       ]
     },
     "although tactics differ": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "fortibleed actors collaborating": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "data truly belongs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21599,25 +21601,38 @@
       ]
     },
     "turns home devices": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-02",
+        "2026-07-03"
+      ]
+    },
+    "company s corporate": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "siphon sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "jamf threat labs": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "stole patients personal": {
+      "count": 1,
+      "dates": [
         "2026-07-03"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-20 15:42",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "internet accessible devices",
-        "enterprise ai concern",
-        "allow unauthenticated attackers",
-        "cybersecurity firms impacted"
-      ]
-    },
     {
       "timestamp": "2026-06-20 17:20",
       "articles": 48,
@@ -22704,6 +22719,17 @@
         "threat actor known",
         "cybercrime group known",
         "data truly belongs",
+        "whole job breaking"
+      ]
+    },
+    {
+      "timestamp": "2026-07-03 10:30",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "company s corporate",
+        "threat actor known",
+        "public github account",
         "whole job breaking"
       ]
     }

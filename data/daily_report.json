@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-07-03 06:57",
+  "last_updated": "2026-07-03 10:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "resetting account passwords",
-    "threat actor known",
     "cybercrime group known",
-    "data truly belongs",
+    "company s corporate",
+    "threat actor known",
+    "public github account",
     "whole job breaking",
     "twitter whistleblower complaint",
+    "siphon sensitive data",
+    "data truly belongs",
+    "bugs earned microsoft's",
     "although tactics differ",
-    "verified stolen credentials",
+    "turns home devices",
+    "resetting account passwords",
+    "jamf threat labs",
     "fortibleed actors collaborating",
-    "dominant malware delivery",
     "lynx ransomware operations",
     "known issue causing",
-    "facilitate ransomware attacks",
     "security feature designed",
+    "verified stolen credentials",
     "user agent data",
-    "public disclosure hackers",
-    "unified cm vulnerability",
-    "turns home devices",
-    "stark industries solutions",
-    "real life identity"
+    "stole patients personal"
   ],
   "trending": [
     {
-      "keyword": "resetting account passwords",
-      "mentions": 108
+      "keyword": "cybercrime group known",
+      "mentions": 74
+    },
+    {
+      "keyword": "company s corporate",
+      "mentions": 1
     },
     {
       "keyword": "threat actor known",
-      "mentions": 43
+      "mentions": 44
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 73
-    },
-    {
-      "keyword": "data truly belongs",
-      "mentions": 4
+      "keyword": "public github account",
+      "mentions": 78
     },
     {
       "keyword": "whole job breaking",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1997
+      "mentions": 1998
+    },
+    {
+      "keyword": "siphon sensitive data",
+      "mentions": 1
+    },
+    {
+      "keyword": "data truly belongs",
+      "mentions": 5
+    },
+    {
+      "keyword": "bugs earned microsoft's",
+      "mentions": 7
     },
     {
       "keyword": "although tactics differ",
-      "mentions": 4
-    },
-    {
-      "keyword": "verified stolen credentials",
-      "mentions": 8
-    },
-    {
-      "keyword": "fortibleed actors collaborating",
-      "mentions": 4
-    },
-    {
-      "keyword": "dominant malware delivery",
-      "mentions": 8
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
+      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
+      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
+      "published": "Fri, 03 Jul 2026 13:33:37 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
@@ -140,18 +149,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
-      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
-      "summary": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and",
-      "published": "Thu, 02 Jul 2026 12:54:23 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "PoC available ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -406,6 +403,47 @@
     },
     {
       "source": "Security Week",
+      "title": "Medtronic Data Breach Impacts 3.8 Million People",
+      "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
+      "summary": "In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek .",
+      "published": "Fri, 03 Jul 2026 10:00:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Alleged Scattered Spider Hacker Extradited to US",
+      "link": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
+      "summary": "Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments. The post Alleged Scattered Spider Hacker Extradited to US appeared first on SecurityWeek .",
+      "published": "Fri, 03 Jul 2026 09:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices",
+      "link": "https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/",
+      "summary": "NetNut rented access to millions of compromised devices, allowing cybercriminals and nation-state actors to mask their identities during attacks. The post Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices appeared first on SecurityWeek .",
+      "published": "Fri, 03 Jul 2026 08:13:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution",
+      "link": "https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/",
+      "summary": "The DuneSlide vulnerabilities enable zero-click prompt injection attacks that escape Cursor's sandbox and execute arbitrary code on the underlying operating system. The post Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution appeared first on SecurityWeek .",
+      "published": "Fri, 03 Jul 2026 07:57:53 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
       "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
       "summary": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response. The post New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure appeared first on SecurityWeek .",
@@ -442,51 +480,6 @@
       "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
       "summary": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek .",
       "published": "Thu, 02 Jul 2026 11:01:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
-      "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
-      "summary": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week. The post Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 02 Jul 2026 10:48:43 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
-      "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
-      "summary": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials. The post ‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials appeared first on SecurityWeek .",
-      "published": "Thu, 02 Jul 2026 10:45:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
-      "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
-      "summary": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). The post CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 02 Jul 2026 10:30:42 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "RCE",
-        "CISA/KEV ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings",
-      "link": "https://www.securityweek.com/microsoft-adds-new-teams-controls-to-block-unauthorized-ai-bots-from-meetings/",
-      "summary": "Microsoft's new Teams admin policy requires organizer approval for external AI bots, giving organizations greater visibility and control over automated participants in sensitive meetings. The post Microsoft Adds New Teams Controls to Block Unauthorized AI Bots From Meetings appeared first on SecurityWeek .",
-      "published": "Wed, 01 Jul 2026 18:08:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

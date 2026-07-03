@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-03 10:30 UTC  
+> **Last Updated:** 2026-07-03 13:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **company s corporate** • **threat actor known** • **public github account** • **whole job breaking** • **twitter whistleblower complaint** • **siphon sensitive data** • **data truly belongs** • **bugs earned microsoft's** • **although tactics differ** • **turns home devices** • **resetting account passwords** • **jamf threat labs** • **fortibleed actors collaborating** • **lynx ransomware operations** • **known issue causing** • **security feature designed** • **verified stolen credentials** • **user agent data** • **stole patients personal**
+**cybercrime group known** • **chinese firms compete** • **public github account** • **user agent data** • **twitter whistleblower complaint** • **siphon sensitive data** • **company s corporate** • **bugs earned microsoft's** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **top us mainstream** • **resetting account passwords** • **fortibleed actors collaborating** • **chinese llms broaden** • **stole patients personal** • **stark industries solutions** • **security feature designed** • **real life identity**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
+- [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
 - [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
 - [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
 - [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
 - [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 - [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
 - [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
-- [AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack](https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html)
-- [FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations](https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
 - [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
 - [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
 - [FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs](https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs)
@@ -56,10 +57,10 @@
 - [Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.](https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-)
 - [Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS](https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os)
 - [And the Winner in Dominant Malware Delivery? ClickFix](https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix)
-- [When Too Much Security Data Became the Risk](https://www.darkreading.com/cyber-risk/too-much-security-data-risk)
 
 ### Security Week
 
+- [Agentic AI Used to Conduct Ransomware Attack via Langflow](https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/)
 - [Medtronic Data Breach Impacts 3.8 Million People](https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/)
 - [Alleged Scattered Spider Hacker Extradited to US](https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/)
 - [Google, FBI Disrupt NetNut Residential Proxy Network Powered by Millions of Devices](https://www.securityweek.com/google-fbi-disrupt-netnut-residential-proxy-network-powered-by-millions-of-devices/)
@@ -67,7 +68,6 @@
 - [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
 - [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
 - [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
-- [Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm](https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/)
 
 ### Threatpost
 

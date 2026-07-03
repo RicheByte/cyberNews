@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-07-03 10:30",
+  "last_updated": "2026-07-03 13:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "company s corporate",
-    "threat actor known",
+    "chinese firms compete",
     "public github account",
-    "whole job breaking",
+    "user agent data",
     "twitter whistleblower complaint",
     "siphon sensitive data",
-    "data truly belongs",
+    "company s corporate",
     "bugs earned microsoft's",
     "although tactics differ",
-    "turns home devices",
-    "resetting account passwords",
-    "jamf threat labs",
-    "fortibleed actors collaborating",
-    "lynx ransomware operations",
+    "threat actor known",
     "known issue causing",
+    "turns home devices",
+    "top us mainstream",
+    "resetting account passwords",
+    "fortibleed actors collaborating",
+    "chinese llms broaden",
+    "stole patients personal",
+    "stark industries solutions",
     "security feature designed",
-    "verified stolen credentials",
-    "user agent data",
-    "stole patients personal"
+    "real life identity"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 74
+      "mentions": 75
     },
     {
-      "keyword": "company s corporate",
+      "keyword": "chinese firms compete",
       "mentions": 1
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 44
     },
     {
       "keyword": "public github account",
-      "mentions": 78
+      "mentions": 79
     },
     {
-      "keyword": "whole job breaking",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1998
-    },
-    {
-      "keyword": "siphon sensitive data",
-      "mentions": 1
-    },
-    {
-      "keyword": "data truly belongs",
-      "mentions": 5
-    },
-    {
-      "keyword": "bugs earned microsoft's",
+      "keyword": "user agent data",
       "mentions": 7
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 1999
+    },
+    {
+      "keyword": "siphon sensitive data",
+      "mentions": 2
+    },
+    {
+      "keyword": "company s corporate",
+      "mentions": 2
+    },
+    {
+      "keyword": "bugs earned microsoft's",
+      "mentions": 8
+    },
+    {
       "keyword": "although tactics differ",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "threat actor known",
+      "mentions": 45
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
+      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
+      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
+      "published": "Fri, 03 Jul 2026 19:06:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
+      "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
+      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc. \"Through forensic analysis of his device, we found that the attackers could have had",
+      "published": "Fri, 03 Jul 2026 16:35:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
@@ -126,30 +144,6 @@
       "published": "Thu, 02 Jul 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
-      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
-      "summary": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database. Ransomware has always",
-      "published": "Thu, 02 Jul 2026 14:43:13 +0530",
-      "value_score": 72,
-      "value_signals": [
-        "Ransomware ×3",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
-      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
-      "summary": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
-      "published": "Thu, 02 Jul 2026 13:30:49 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -319,6 +313,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
+      "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
+      "summary": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
+      "published": "Fri, 03 Jul 2026 13:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
       "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
       "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
@@ -393,13 +396,16 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "When Too Much Security Data Became the Risk",
-      "link": "https://www.darkreading.com/cyber-risk/too-much-security-data-risk",
-      "summary": "Rapid growth turned routine firewall logs into a security and budget liability. One CISO used artificial intelligence to filter what data truly belongs in the SIEM.",
-      "published": "Wed, 01 Jul 2026 15:44:41 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
+      "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
+      "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek .",
+      "published": "Fri, 03 Jul 2026 11:00:00 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -473,15 +479,6 @@
       "value_signals": [
         "Ransomware ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
-      "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-      "summary": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek .",
-      "published": "Thu, 02 Jul 2026 11:01:48 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

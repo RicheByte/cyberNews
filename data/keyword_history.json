@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1998,
+      "count": 1999,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -537,7 +537,7 @@
       ]
     },
     "real life identity": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +611,7 @@
       ]
     },
     "threat actor known": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -17528,7 +17528,7 @@
       ]
     },
     "public github account": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17912,7 +17912,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18309,7 +18309,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20443,7 +20443,7 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -20574,7 +20574,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21458,7 +21458,7 @@
       ]
     },
     "user agent data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-01",
         "2026-07-02",
@@ -21539,7 +21539,7 @@
       ]
     },
     "known issue causing": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21559,7 +21559,7 @@
       ]
     },
     "security feature designed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21573,14 +21573,14 @@
       ]
     },
     "although tactics differ": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "fortibleed actors collaborating": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21601,20 +21601,20 @@
       ]
     },
     "turns home devices": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "company s corporate": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-03"
       ]
     },
     "siphon sensitive data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-03"
       ]
@@ -21626,6 +21626,24 @@
       ]
     },
     "stole patients personal": {
+      "count": 2,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "chinese firms compete": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "top us mainstream": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "chinese llms broaden": {
       "count": 1,
       "dates": [
         "2026-07-03"
@@ -21633,17 +21651,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-20 17:20",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "internet accessible devices",
-        "enterprise ai concern",
-        "allow unauthenticated attackers",
-        "cybersecurity firms impacted"
-      ]
-    },
     {
       "timestamp": "2026-06-20 19:17",
       "articles": 48,
@@ -22731,6 +22738,17 @@
         "threat actor known",
         "public github account",
         "whole job breaking"
+      ]
+    },
+    {
+      "timestamp": "2026-07-03 13:51",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "chinese firms compete",
+        "public github account",
+        "user agent data",
+        "twitter whistleblower complaint"
       ]
     }
   ]

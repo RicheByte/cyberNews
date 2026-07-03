@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2001,
+      "count": 2002,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +611,7 @@
       ]
     },
     "threat actor known": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -17528,7 +17528,7 @@
       ]
     },
     "public github account": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17912,7 +17912,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18309,7 +18309,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20444,7 +20444,7 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -20575,7 +20575,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21459,7 +21459,7 @@
       ]
     },
     "user agent data": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-01",
         "2026-07-02",
@@ -21540,7 +21540,7 @@
       ]
     },
     "known issue causing": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21574,7 +21574,7 @@
       ]
     },
     "although tactics differ": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21602,20 +21602,20 @@
       ]
     },
     "turns home devices": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "company s corporate": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-03"
       ]
     },
     "siphon sensitive data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-03"
       ]
@@ -21627,13 +21627,13 @@
       ]
     },
     "stole patients personal": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-03"
       ]
     },
     "chinese firms compete": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-03"
       ]
@@ -21645,13 +21645,13 @@
       ]
     },
     "chinese llms broaden": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-03"
       ]
     },
     "basic social engineering": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03"
       ]
@@ -21663,6 +21663,18 @@
       ]
     },
     "rollup polyfill tooling": {
+      "count": 2,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "residential proxy network": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "anubis ransomware operation": {
       "count": 1,
       "dates": [
         "2026-07-03"
@@ -21670,17 +21682,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-20 23:02",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "internet accessible devices",
-        "enterprise ai concern",
-        "allow unauthenticated attackers",
-        "cybersecurity firms impacted"
-      ]
-    },
     {
       "timestamp": "2026-06-21 03:35",
       "articles": 48,
@@ -22768,6 +22769,17 @@
         "public github account",
         "twitter whistleblower complaint",
         "company s corporate"
+      ]
+    },
+    {
+      "timestamp": "2026-07-03 19:11",
+      "articles": 48,
+      "top_keywords": [
+        "residential proxy network",
+        "cybercrime group known",
+        "chinese firms compete",
+        "public github account",
+        "twitter whistleblower complaint"
       ]
     }
   ]

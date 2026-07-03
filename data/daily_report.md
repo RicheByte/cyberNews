@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-03 17:19 UTC  
+> **Last Updated:** 2026-07-03 19:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **chinese firms compete** • **public github account** • **twitter whistleblower complaint** • **company s corporate** • **bugs earned microsoft's** • **basic social engineering** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **resetting account passwords** • **chinese llms broaden** • **user agent data** • **siphon sensitive data** • **stole patients personal** • **stark industries solutions** • **rollup polyfill tooling** • **real life identity** • **pro iranian images**
+**residential proxy network** • **cybercrime group known** • **chinese firms compete** • **public github account** • **twitter whistleblower complaint** • **company s corporate** • **bugs earned microsoft's** • **basic social engineering** • **anubis ransomware operation** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **resetting account passwords** • **chinese llms broaden** • **user agent data** • **siphon sensitive data** • **stole patients personal** • **stark industries solutions** • **rollup polyfill tooling**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [NetNut proxy network disrupted, 2 million infected devices cut off](https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/)
 - [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
 - [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
 - [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
@@ -34,7 +35,6 @@
 - [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
 - [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 - [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
-- [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
 
 ### Krebs on Security
 

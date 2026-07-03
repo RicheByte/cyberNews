@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-07-03 17:19",
+  "last_updated": "2026-07-03 19:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "residential proxy network",
     "cybercrime group known",
     "chinese firms compete",
     "public github account",
@@ -10,6 +11,7 @@
     "company s corporate",
     "bugs earned microsoft's",
     "basic social engineering",
+    "anubis ransomware operation",
     "although tactics differ",
     "threat actor known",
     "known issue causing",
@@ -20,50 +22,48 @@
     "siphon sensitive data",
     "stole patients personal",
     "stark industries solutions",
-    "rollup polyfill tooling",
-    "real life identity",
-    "pro iranian images"
+    "rollup polyfill tooling"
   ],
   "trending": [
     {
+      "keyword": "residential proxy network",
+      "mentions": 1
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 77
+      "mentions": 78
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 3
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 81
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2001
-    },
-    {
-      "keyword": "company s corporate",
       "mentions": 4
     },
     {
+      "keyword": "public github account",
+      "mentions": 82
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2002
+    },
+    {
+      "keyword": "company s corporate",
+      "mentions": 5
+    },
+    {
       "keyword": "bugs earned microsoft's",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "basic social engineering",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "anubis ransomware operation",
+      "mentions": 1
     },
     {
       "keyword": "although tactics differ",
-      "mentions": 8
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 47
-    },
-    {
-      "keyword": "known issue causing",
-      "mentions": 11
+      "mentions": 9
     }
   ],
   "articles": [
@@ -147,6 +147,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
+      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
       "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
       "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
@@ -211,20 +220,6 @@
       "published": "Thu, 02 Jul 2026 07:35:25 -0400",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
-      "summary": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
-      "published": "Thu, 02 Jul 2026 06:52:43 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE ×2",
-        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },

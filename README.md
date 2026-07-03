@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-03 19:11 UTC |
+| 🕐 Last Updated | 2026-07-03 20:58 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`residential proxy network` • `cybercrime group known` • `chinese firms compete` • `public github account` • `twitter whistleblower complaint` • `company s corporate` • `bugs earned microsoft's` • `basic social engineering` • `anubis ransomware operation` • `although tactics differ`
+`residential proxy network` • `cybercrime group known` • `chinese firms compete` • `public github account` • `twitter whistleblower complaint` • `known issue causing` • `commercial surveillance tools` • `bugs earned microsoft's` • `basic social engineering` • `anubis ransomware operation`
 
 ## 📄 Reports
 

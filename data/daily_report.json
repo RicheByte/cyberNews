@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 19:11",
+  "last_updated": "2026-07-03 20:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,65 +8,89 @@
     "chinese firms compete",
     "public github account",
     "twitter whistleblower complaint",
-    "company s corporate",
+    "known issue causing",
+    "commercial surveillance tools",
     "bugs earned microsoft's",
     "basic social engineering",
     "anubis ransomware operation",
     "although tactics differ",
-    "threat actor known",
-    "known issue causing",
     "turns home devices",
     "resetting account passwords",
     "chinese llms broaden",
-    "user agent data",
     "siphon sensitive data",
+    "krebsonsecurity published findings",
     "stole patients personal",
     "stark industries solutions",
-    "rollup polyfill tooling"
+    "rollup polyfill tooling",
+    "real life identity"
   ],
   "trending": [
     {
       "keyword": "residential proxy network",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 78
+      "mentions": 79
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 4
-    },
-    {
-      "keyword": "public github account",
-      "mentions": 82
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2002
-    },
-    {
-      "keyword": "company s corporate",
       "mentions": 5
     },
     {
-      "keyword": "bugs earned microsoft's",
-      "mentions": 11
+      "keyword": "public github account",
+      "mentions": 83
     },
     {
-      "keyword": "basic social engineering",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2003
     },
     {
-      "keyword": "anubis ransomware operation",
+      "keyword": "known issue causing",
+      "mentions": 13
+    },
+    {
+      "keyword": "commercial surveillance tools",
       "mentions": 1
     },
     {
-      "keyword": "although tactics differ",
-      "mentions": 9
+      "keyword": "bugs earned microsoft's",
+      "mentions": 12
+    },
+    {
+      "keyword": "basic social engineering",
+      "mentions": 4
+    },
+    {
+      "keyword": "anubis ransomware operation",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "summary": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug. The AI caught one flaw and missed",
+      "published": "Sat, 04 Jul 2026 01:10:01 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+      "summary": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
+      "published": "Sat, 04 Jul 2026 00:25:24 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "Ransomware ×2",
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
@@ -124,26 +148,6 @@
         "Ransomware ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
-      "summary": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
-      "published": "Thu, 02 Jul 2026 20:54:18 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
-      "summary": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
-      "published": "Thu, 02 Jul 2026 18:34:13 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

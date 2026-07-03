@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-03 13:51",
+  "last_updated": "2026-07-03 15:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,59 +11,59 @@
     "siphon sensitive data",
     "company s corporate",
     "bugs earned microsoft's",
+    "basic social engineering",
     "although tactics differ",
     "threat actor known",
     "known issue causing",
     "turns home devices",
-    "top us mainstream",
     "resetting account passwords",
-    "fortibleed actors collaborating",
     "chinese llms broaden",
     "stole patients personal",
     "stark industries solutions",
-    "security feature designed",
-    "real life identity"
+    "real life identity",
+    "ransomware thugs masquerade",
+    "pro iranian images"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 75
+      "mentions": 76
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "public github account",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "user agent data",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 1999
-    },
-    {
-      "keyword": "siphon sensitive data",
-      "mentions": 2
-    },
-    {
-      "keyword": "company s corporate",
-      "mentions": 2
-    },
-    {
-      "keyword": "bugs earned microsoft's",
       "mentions": 8
     },
     {
-      "keyword": "although tactics differ",
-      "mentions": 6
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2000
     },
     {
-      "keyword": "threat actor known",
-      "mentions": 45
+      "keyword": "siphon sensitive data",
+      "mentions": 3
+    },
+    {
+      "keyword": "company s corporate",
+      "mentions": 3
+    },
+    {
+      "keyword": "bugs earned microsoft's",
+      "mentions": 9
+    },
+    {
+      "keyword": "basic social engineering",
+      "mentions": 1
+    },
+    {
+      "keyword": "although tactics differ",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -147,6 +147,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
+      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
+      "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
+      "published": "Fri, 03 Jul 2026 10:12:22 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
       "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
@@ -216,15 +227,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
-      "summary": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
-      "published": "Thu, 02 Jul 2026 06:46:58 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -397,6 +399,15 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
+      "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. The post In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting appeared first on SecurityWeek .",
+      "published": "Fri, 03 Jul 2026 15:10:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
       "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
       "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek .",
@@ -468,17 +479,6 @@
       "published": "Thu, 02 Jul 2026 13:15:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
-      "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
-      "summary": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations. The post FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Thu, 02 Jul 2026 12:34:29 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Threatpost",

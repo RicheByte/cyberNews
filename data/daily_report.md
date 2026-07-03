@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-03 13:51 UTC  
+> **Last Updated:** 2026-07-03 15:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **chinese firms compete** • **public github account** • **user agent data** • **twitter whistleblower complaint** • **siphon sensitive data** • **company s corporate** • **bugs earned microsoft's** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **top us mainstream** • **resetting account passwords** • **fortibleed actors collaborating** • **chinese llms broaden** • **stole patients personal** • **stark industries solutions** • **security feature designed** • **real life identity**
+**cybercrime group known** • **chinese firms compete** • **public github account** • **user agent data** • **twitter whistleblower complaint** • **siphon sensitive data** • **company s corporate** • **bugs earned microsoft's** • **basic social engineering** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **resetting account passwords** • **chinese llms broaden** • **stole patients personal** • **stark industries solutions** • **real life identity** • **ransomware thugs masquerade** • **pro iranian images**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit](https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/)
 - [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
 - [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
 - [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 - [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
 - [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
-- [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting](https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/)
 - [Agentic AI Used to Conduct Ransomware Attack via Langflow](https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/)
 - [Medtronic Data Breach Impacts 3.8 Million People](https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/)
 - [Alleged Scattered Spider Hacker Extradited to US](https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/)
@@ -67,7 +68,6 @@
 - [Critical Cursor AI Code Editor Flaws Could Lead to OS-Level Remote Code Execution](https://www.securityweek.com/critical-cursor-ai-ide-flaws-could-lead-to-os-level-remote-code-execution/)
 - [New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure](https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/)
 - [How to Conduct a Successful Audit of AI-Driven Software Development](https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/)
-- [FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks](https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/)
 
 ### Threatpost
 

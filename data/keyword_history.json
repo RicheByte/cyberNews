@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 1999,
+      "count": 2000,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -537,7 +537,7 @@
       ]
     },
     "real life identity": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +611,7 @@
       ]
     },
     "threat actor known": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -17528,7 +17528,7 @@
       ]
     },
     "public github account": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17912,7 +17912,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18309,7 +18309,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18347,7 +18347,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18361,7 +18361,8 @@
         "2026-06-27",
         "2026-06-29",
         "2026-06-30",
-        "2026-07-01"
+        "2026-07-01",
+        "2026-07-03"
       ]
     },
     "openai codex attracting": {
@@ -20443,7 +20444,7 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -20574,7 +20575,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21458,7 +21459,7 @@
       ]
     },
     "user agent data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-01",
         "2026-07-02",
@@ -21539,7 +21540,7 @@
       ]
     },
     "known issue causing": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21573,7 +21574,7 @@
       ]
     },
     "although tactics differ": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21601,20 +21602,20 @@
       ]
     },
     "turns home devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "company s corporate": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03"
       ]
     },
     "siphon sensitive data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03"
       ]
@@ -21626,13 +21627,13 @@
       ]
     },
     "stole patients personal": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03"
       ]
     },
     "chinese firms compete": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-03"
       ]
@@ -21644,6 +21645,18 @@
       ]
     },
     "chinese llms broaden": {
+      "count": 2,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "basic social engineering": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
+    },
+    "ransomware thugs masquerade": {
       "count": 1,
       "dates": [
         "2026-07-03"
@@ -21651,17 +21664,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-20 19:17",
-      "articles": 48,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "internet accessible devices",
-        "enterprise ai concern",
-        "allow unauthenticated attackers",
-        "cybersecurity firms impacted"
-      ]
-    },
     {
       "timestamp": "2026-06-20 21:10",
       "articles": 40,
@@ -22742,6 +22744,17 @@
     },
     {
       "timestamp": "2026-07-03 13:51",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "chinese firms compete",
+        "public github account",
+        "user agent data",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-03 15:50",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

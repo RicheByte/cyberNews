@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-03 13:51 UTC |
+| 🕐 Last Updated | 2026-07-03 15:50 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `chinese firms compete` • `public github account` • `user agent data` • `twitter whistleblower complaint` • `siphon sensitive data` • `company s corporate` • `bugs earned microsoft's` • `although tactics differ` • `threat actor known`
+`cybercrime group known` • `chinese firms compete` • `public github account` • `user agent data` • `twitter whistleblower complaint` • `siphon sensitive data` • `company s corporate` • `bugs earned microsoft's` • `basic social engineering` • `although tactics differ`
 
 ## 📄 Reports
 

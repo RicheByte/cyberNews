@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-03 15:50 UTC  
+> **Last Updated:** 2026-07-03 17:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **chinese firms compete** • **public github account** • **user agent data** • **twitter whistleblower complaint** • **siphon sensitive data** • **company s corporate** • **bugs earned microsoft's** • **basic social engineering** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **resetting account passwords** • **chinese llms broaden** • **stole patients personal** • **stark industries solutions** • **real life identity** • **ransomware thugs masquerade** • **pro iranian images**
+**cybercrime group known** • **chinese firms compete** • **public github account** • **twitter whistleblower complaint** • **company s corporate** • **bugs earned microsoft's** • **basic social engineering** • **although tactics differ** • **threat actor known** • **known issue causing** • **turns home devices** • **resetting account passwords** • **chinese llms broaden** • **user agent data** • **siphon sensitive data** • **stole patients personal** • **stark industries solutions** • **rollup polyfill tooling** • **real life identity** • **pro iranian images**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html)
 - [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
 - [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
 - [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
@@ -23,7 +24,6 @@
 - [Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials](https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html)
 - [ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories](https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html)
 - [ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API](https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html)
-- [Identity Lifecycle Management Wasn't Built for AI Agents](https://thehackernews.com/2026/07/identity-lifecycle-management.html)
 
 ### BleepingComputer
 

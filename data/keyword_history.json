@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2000,
+      "count": 2001,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -537,7 +537,7 @@
       ]
     },
     "real life identity": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -611,7 +611,7 @@
       ]
     },
     "threat actor known": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -17528,7 +17528,7 @@
       ]
     },
     "public github account": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17912,7 +17912,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18309,7 +18309,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18347,7 +18347,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20444,7 +20444,7 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -20575,7 +20575,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21459,7 +21459,7 @@
       ]
     },
     "user agent data": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-01",
         "2026-07-02",
@@ -21540,7 +21540,7 @@
       ]
     },
     "known issue causing": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21574,7 +21574,7 @@
       ]
     },
     "although tactics differ": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-02",
         "2026-07-03"
@@ -21602,20 +21602,20 @@
       ]
     },
     "turns home devices": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-02",
         "2026-07-03"
       ]
     },
     "company s corporate": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-03"
       ]
     },
     "siphon sensitive data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-03"
       ]
@@ -21627,13 +21627,13 @@
       ]
     },
     "stole patients personal": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-03"
       ]
     },
     "chinese firms compete": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03"
       ]
@@ -21645,13 +21645,13 @@
       ]
     },
     "chinese llms broaden": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03"
       ]
     },
     "basic social engineering": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-03"
       ]
@@ -21661,20 +21661,15 @@
       "dates": [
         "2026-07-03"
       ]
+    },
+    "rollup polyfill tooling": {
+      "count": 1,
+      "dates": [
+        "2026-07-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-20 21:10",
-      "articles": 40,
-      "top_keywords": [
-        "cryptobandits malware doubles",
-        "cybersecurity firms impacted",
-        "internet accessible devices",
-        "allow unauthenticated attackers",
-        "enterprise ai concern"
-      ]
-    },
     {
       "timestamp": "2026-06-20 23:02",
       "articles": 48,
@@ -22762,6 +22757,17 @@
         "public github account",
         "user agent data",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-03 17:19",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "chinese firms compete",
+        "public github account",
+        "twitter whistleblower complaint",
+        "company s corporate"
       ]
     }
   ]

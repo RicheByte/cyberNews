@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-02 22:59",
+  "last_updated": "2026-07-03 02:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "resetting account passwords",
     "threat actor known",
     "cybercrime group known",
-    "malware attacks it's",
+    "data truly belongs",
     "whole job breaking",
-    "unauthorized third party",
     "twitter whistleblower complaint",
     "although tactics differ",
     "verified stolen credentials",
@@ -18,52 +17,53 @@
     "known issue causing",
     "facilitate ransomware attacks",
     "security feature designed",
-    "national security risk",
-    "data truly belongs",
+    "user agent data",
     "public disclosure hackers",
     "unified cm vulnerability",
-    "turns home devices"
+    "turns home devices",
+    "stark industries solutions",
+    "real life identity"
   ],
   "trending": [
     {
       "keyword": "resetting account passwords",
-      "mentions": 106
+      "mentions": 107
     },
     {
       "keyword": "threat actor known",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 71
+      "mentions": 72
     },
     {
-      "keyword": "malware attacks it's",
-      "mentions": 5
+      "keyword": "data truly belongs",
+      "mentions": 3
     },
     {
       "keyword": "whole job breaking",
-      "mentions": 6
-    },
-    {
-      "keyword": "unauthorized third party",
       "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 1995
+      "mentions": 1996
     },
     {
       "keyword": "although tactics differ",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "verified stolen credentials",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "fortibleed actors collaborating",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "dominant malware delivery",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -156,6 +156,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
+      "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
+      "published": "Thu, 02 Jul 2026 21:37:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Claude Fable relaunch disappoints users with nerfed performance",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
+      "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
+      "published": "Thu, 02 Jul 2026 20:48:30 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google loses final appeal to overturn €4.1 billion EU fine",
       "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
       "summary": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
@@ -216,26 +234,6 @@
       "published": "Thu, 02 Jul 2026 06:46:58 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Alleged Scattered Spider hacker extradited to the United States",
-      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
-      "summary": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
-      "published": "Thu, 02 Jul 2026 04:58:25 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
-      "summary": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
-      "published": "Thu, 02 Jul 2026 00:25:42 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
+      "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
+      "published": "Thu, 02 Jul 2026 23:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
       "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
       "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
@@ -394,15 +401,6 @@
       "link": "https://www.darkreading.com/cyber-risk/too-much-security-data-risk",
       "summary": "Rapid growth turned routine firewall logs into a security and budget liability. One CISO used artificial intelligence to filter what data truly belongs in the SIEM.",
       "published": "Wed, 01 Jul 2026 15:44:41 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
-      "link": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
-      "summary": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
-      "published": "Wed, 01 Jul 2026 15:17:14 GMT",
       "value_score": 10,
       "value_signals": []
     },

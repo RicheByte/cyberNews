@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-02 22:59 UTC  
+> **Last Updated:** 2026-07-03 02:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**resetting account passwords** • **threat actor known** • **cybercrime group known** • **malware attacks it's** • **whole job breaking** • **unauthorized third party** • **twitter whistleblower complaint** • **although tactics differ** • **verified stolen credentials** • **fortibleed actors collaborating** • **dominant malware delivery** • **lynx ransomware operations** • **known issue causing** • **facilitate ransomware attacks** • **security feature designed** • **national security risk** • **data truly belongs** • **public disclosure hackers** • **unified cm vulnerability** • **turns home devices**
+**resetting account passwords** • **threat actor known** • **cybercrime group known** • **data truly belongs** • **whole job breaking** • **twitter whistleblower complaint** • **although tactics differ** • **verified stolen credentials** • **fortibleed actors collaborating** • **dominant malware delivery** • **lynx ransomware operations** • **known issue causing** • **facilitate ransomware attacks** • **security feature designed** • **user agent data** • **public disclosure hackers** • **unified cm vulnerability** • **turns home devices** • **stark industries solutions** • **real life identity**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/)
+- [Claude Fable relaunch disappoints users with nerfed performance](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/)
 - [Google loses final appeal to overturn €4.1 billion EU fine](https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/)
 - [ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds](https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/)
 - [Microsoft fixes bug that removed Copilot buttons in Outlook](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/)
 - [Cisco finally confirms attackers exploiting Unified CM flaw](https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/)
 - [CISA: Microsoft SharePoint RCE flaw now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/)
 - [Opera rolls out Paste Protect feature to fight ClickFix attacks](https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/)
-- [Alleged Scattered Spider hacker extradited to the United States](https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/)
-- [Medtronic notifies customers impacted by ShinyHunters data breach](https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
 - [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
 - [FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs](https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs)
 - [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
@@ -56,7 +57,6 @@
 - [Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS](https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os)
 - [And the Winner in Dominant Malware Delivery? ClickFix](https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix)
 - [When Too Much Security Data Became the Risk](https://www.darkreading.com/cyber-risk/too-much-security-data-risk)
-- ['Phantom Squatting': An Emerging AI-Driven Supply Chain Threat](https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-04 10:03 UTC  
+> **Last Updated:** 2026-07-04 13:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**residential proxy network** • **cybercrime group known** • **chinese firms compete** • **public github account** • **twitter whistleblower complaint** • **known issue causing** • **commercial surveillance tools** • **bugs earned microsoft's** • **basic social engineering** • **resetting account passwords** • **chinese llms broaden** • **siphon sensitive data** • **krebsonsecurity published findings** • **turns home devices** • **stole patients personal** • **stark industries solutions** • **rollup polyfill tooling** • **real life identity** • **pro iranian images** • **obama white house**
+**residential proxy network** • **cybercrime group known** • **chinese firms compete** • **public github account** • **twitter whistleblower complaint** • **known issue causing** • **commercial surveillance tools** • **bugs earned microsoft's** • **basic social engineering** • **resetting account passwords** • **chinese llms broaden** • **siphon sensitive data** • **krebsonsecurity published findings** • **stole patients personal** • **stark industries solutions** • **rollup polyfill tooling** • **real life identity** • **pro iranian images** • **ongoing activity referred** • **obama white house**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html)
 - [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html)
 - [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html)
 - [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html)
@@ -23,7 +24,6 @@
 - [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html)
 - [European Parliament Member Investigating Spyware Was Hacked With Pegasus](https://thehackernews.com/2026/07/european-parliament-member.html)
 - [PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords](https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html)
-- [Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices](https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html)
 
 ### BleepingComputer
 

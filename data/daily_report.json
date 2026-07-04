@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04 10:03",
+  "last_updated": "2026-07-04 13:12",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -16,57 +16,66 @@
     "chinese llms broaden",
     "siphon sensitive data",
     "krebsonsecurity published findings",
-    "turns home devices",
     "stole patients personal",
     "stark industries solutions",
     "rollup polyfill tooling",
     "real life identity",
     "pro iranian images",
+    "ongoing activity referred",
     "obama white house"
   ],
   "trending": [
     {
       "keyword": "residential proxy network",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "public github account",
-      "mentions": 87
+      "mentions": 88
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2007
+      "mentions": 2008
     },
     {
       "keyword": "known issue causing",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "commercial surveillance tools",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "bugs earned microsoft's",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "basic social engineering",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 118
+      "mentions": 119
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
+      "link": "https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html",
+      "summary": "The North Korean threat actors linked to the Contagious Interview campaign have been observed publishing 108 unique packages and web browser extensions spanning npm, Packagist, Go, and Google Chrome as part of an ongoing activity referred to as PolinRider. \"The campaign remains active, and new malicious packages are likely to continue appearing as threat actors compromise maintainer accounts,",
+      "published": "Sat, 04 Jul 2026 16:47:24 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
@@ -133,15 +142,6 @@
       "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
       "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
       "published": "Fri, 03 Jul 2026 13:33:37 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
-      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
-      "summary": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions. Google identifies NetNut, also tracked as Popa, as a network spread across home",
-      "published": "Fri, 03 Jul 2026 00:24:06 +0530",
       "value_score": 10,
       "value_signals": []
     },

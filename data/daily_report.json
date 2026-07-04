@@ -1,11 +1,11 @@
 {
-  "last_updated": "2026-07-04 13:12",
+  "last_updated": "2026-07-04 15:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "residential proxy network",
-    "cybercrime group known",
     "chinese firms compete",
+    "cybercrime group known",
     "public github account",
     "twitter whistleblower complaint",
     "known issue causing",
@@ -14,7 +14,6 @@
     "basic social engineering",
     "resetting account passwords",
     "chinese llms broaden",
-    "siphon sensitive data",
     "krebsonsecurity published findings",
     "stole patients personal",
     "stark industries solutions",
@@ -22,51 +21,63 @@
     "real life identity",
     "pro iranian images",
     "ongoing activity referred",
-    "obama white house"
+    "obama white house",
+    "nation state actors"
   ],
   "trending": [
     {
       "keyword": "residential proxy network",
-      "mentions": 7
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 84
+      "mentions": 8
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 85
     },
     {
       "keyword": "public github account",
-      "mentions": 88
+      "mentions": 89
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2008
+      "mentions": 2009
     },
     {
       "keyword": "known issue causing",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "commercial surveillance tools",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "bugs earned microsoft's",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "basic social engineering",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 119
+      "mentions": 120
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
+      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
+      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single",
+      "published": "Sat, 04 Jul 2026 18:17:53 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign",
@@ -137,13 +148,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
-      "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
-      "published": "Fri, 03 Jul 2026 13:33:37 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "JadePuffer ransomware used AI agent to automate entire attack",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
+      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
+      "published": "Sat, 04 Jul 2026 10:16:38 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -210,17 +223,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco finally confirms attackers exploiting Unified CM flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-finally-confirms-attackers-exploiting-unified-cm-flaw/",
-      "summary": "Cisco confirmed that attackers are now exploiting a Unified Communications Manager (Unified CM) vulnerability patched in early June. [...]",
-      "published": "Thu, 02 Jul 2026 07:35:25 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-05 13:20",
+  "last_updated": "2026-07-05 15:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "residential proxy network",
-    "chinese firms compete",
     "cybercrime group known",
+    "chinese firms compete",
     "public github account",
     "twitter whistleblower complaint",
-    "known issue causing",
     "commercial surveillance tools",
     "bugs earned microsoft's",
-    "basic social engineering",
     "resetting account passwords",
     "chinese llms broaden",
     "krebsonsecurity published findings",
     "stole patients personal",
     "stark industries solutions",
+    "smaller internal team",
     "rollup polyfill tooling",
     "real life identity",
     "pro iranian images",
     "ongoing activity referred",
     "obama white house",
-    "nation state actors"
+    "nation state actors",
+    "malicious npm packages"
   ],
   "trending": [
     {
       "keyword": "residential proxy network",
-      "mentions": 16
-    },
-    {
-      "keyword": "chinese firms compete",
-      "mentions": 19
+      "mentions": 17
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 93
+      "mentions": 94
+    },
+    {
+      "keyword": "chinese firms compete",
+      "mentions": 20
     },
     {
       "keyword": "public github account",
-      "mentions": 97
+      "mentions": 98
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2017
-    },
-    {
-      "keyword": "known issue causing",
-      "mentions": 27
+      "mentions": 2018
     },
     {
       "keyword": "commercial surveillance tools",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "bugs earned microsoft's",
-      "mentions": 26
-    },
-    {
-      "keyword": "basic social engineering",
-      "mentions": 18
+      "mentions": 27
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 128
+      "mentions": 129
+    },
+    {
+      "keyword": "chinese llms broaden",
+      "mentions": 20
+    },
+    {
+      "keyword": "krebsonsecurity published findings",
+      "mentions": 16
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Flipper Zero firmware development continues with community help",
+      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
+      "summary": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
+      "published": "Sun, 05 Jul 2026 10:14:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "JadePuffer ransomware used AI agent to automate entire attack",
       "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
       "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
@@ -213,17 +222,6 @@
       "published": "Thu, 02 Jul 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "summary": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-      "published": "Thu, 02 Jul 2026 08:15:47 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Krebs on Security",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-06 16:49 UTC |
+| 🕐 Last Updated | 2026-07-06 19:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `chinese firms compete` • `residential proxy network` • `ai soc platform` • `ai soc evaluation` • `twitter whistleblower complaint` • `real life identity` • `home devices became` • `gaming focused version` • `extensive toolkit designed`
+`cybercrime group known` • `pro iranian images` • `cve 2026 53359` • `chinese firms compete` • `residential proxy network` • `ai soc platform` • `ai soc evaluation` • `unauthenticated internet client` • `twitter whistleblower complaint` • `real life identity`
 
 ## 📄 Reports
 

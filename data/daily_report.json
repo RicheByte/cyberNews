@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-07-06 16:49",
+  "last_updated": "2026-07-06 19:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
+    "pro iranian images",
+    "cve 2026 53359",
     "chinese firms compete",
     "residential proxy network",
     "ai soc platform",
     "ai soc evaluation",
+    "unauthenticated internet client",
     "twitter whistleblower complaint",
     "real life identity",
     "home devices became",
-    "gaming focused version",
     "extensive toolkit designed",
     "bugs earned microsoft's",
-    "2026 6 capabilities",
     "resetting account passwords",
-    "public github account",
     "chinese llms broaden",
+    "2026 6 capabilities",
     "ai solutions building",
     "video cable carrying",
     "traditionally taken place",
-    "stole patients personal",
     "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 102
+      "mentions": 103
+    },
+    {
+      "keyword": "pro iranian images",
+      "mentions": 63
+    },
+    {
+      "keyword": "cve 2026 53359",
+      "mentions": 1
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "residential proxy network",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "ai soc platform",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai soc evaluation",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2026
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 195
-    },
-    {
-      "keyword": "home devices became",
-      "mentions": 2
-    },
-    {
-      "keyword": "gaming focused version",
       "mentions": 3
     },
     {
-      "keyword": "extensive toolkit designed",
-      "mentions": 2
+      "keyword": "ai soc evaluation",
+      "mentions": 3
+    },
+    {
+      "keyword": "unauthenticated internet client",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2027
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 196
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
+      "link": "https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html",
+      "summary": "An Iranian hacking group affiliated with Iran's Ministry of Intelligence and Security (MOIS) has been wielding a previously undocumented modular command-and-control (C2) framework dubbed Cavern (aka Cav3rn) targeting Israeli organizations. The activity, which has primarily singled out IT providers and government sectors, has been attributed to a threat cluster tracked by Check Point Research",
+      "published": "Tue, 07 Jul 2026 00:04:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems",
+      "link": "https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html",
+      "summary": "A use-after-free bug in Linux's KVM hypervisor can be triggered from a guest virtual machine to corrupt the shadow-page state of the host kernel that runs it. Dubbed 'Januscape' and tracked as CVE-2026-53359, the flaw sits in the shadow MMU code that KVM shares across both Intel and AMD. The public proof-of-concept panics the host; the researcher claims that a separate, unreleased exploit",
+      "published": "Mon, 06 Jul 2026 23:07:01 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure",
+      "link": "https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html",
+      "summary": "Threat actors have been observed attempting to exploit a recently patched critical security flaw in Gitea Docker images, according to Sysdig. The vulnerability in question is CVE-2026-20896 (CVSS score: 9.8), a vulnerability that stems from the DevOps platform trusting the \"X-WEBAUTH-USER\" header from any source IP address, effectively allowing an unauthenticated internet client to get elevated",
+      "published": "Mon, 06 Jul 2026 21:58:59 +0530",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More",
@@ -118,35 +153,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
-      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
-      "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
-      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
-      "value_score": 20,
-      "value_signals": [
-        "PoC available"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
-      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
-      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the",
-      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
+      "source": "BleepingComputer",
+      "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
+      "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
+      "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
+      "published": "Mon, 06 Jul 2026 14:25:06 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
-      "link": "https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html",
-      "summary": "A U.S. government entity paid about $1 million to keep stolen files from being leaked, according to a new case study by Rakesh Krishnan for Ransom-ISAC, built on a leaked negotiation chat and the blockchain trail the payment left. The odd part: the group that took the money calls itself Kairos, but it may not be a ransomware gang at all. Krishnan found no sign that it ever locked a single",
-      "published": "Sat, 04 Jul 2026 18:17:53 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,15 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
       "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
       "published": "Thu, 02 Jul 2026 21:37:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Fable relaunch disappoints users with nerfed performance",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-relaunch-disappoints-users-with-nerfed-performance/",
-      "summary": "Claude Fable, the company's most powerful model, is now available to all users, but early impressions are disappointing, as it appears to be nowhere near the original release. [...]",
-      "published": "Thu, 02 Jul 2026 20:48:30 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -314,6 +318,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
+      "summary": "An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
+      "published": "Mon, 06 Jul 2026 16:36:50 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
       "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
       "summary": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
@@ -388,11 +404,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "And the Winner in Dominant Malware Delivery? ClickFix",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix",
-      "summary": "Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it's now the rule.",
-      "published": "Wed, 01 Jul 2026 19:46:34 GMT",
+      "source": "Security Week",
+      "title": "Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks",
+      "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
+      "summary": "Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer. The post Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks appeared first on SecurityWeek .",
+      "published": "Mon, 06 Jul 2026 19:14:08 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -467,17 +483,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Medtronic Data Breach Impacts 3.8 Million People",
-      "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
-      "summary": "In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek .",
-      "published": "Fri, 03 Jul 2026 10:00:00 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

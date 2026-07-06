@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 02:40",
+  "last_updated": "2026-07-06 08:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,65 +8,85 @@
     "chinese firms compete",
     "public github account",
     "twitter whistleblower complaint",
-    "commercial surveillance tools",
+    "gaming focused version",
     "bugs earned microsoft's",
     "resetting account passwords",
     "chinese llms broaden",
-    "krebsonsecurity published findings",
+    "malicious npm packages",
+    "lift specific data",
     "stole patients personal",
     "stark industries solutions",
-    "smaller internal team",
     "rollup polyfill tooling",
     "real life identity",
     "pro iranian images",
     "ongoing activity referred",
     "obama white house",
     "nation state actors",
-    "malicious npm packages"
+    "instructions began circulating"
   ],
   "trending": [
     {
       "keyword": "residential proxy network",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 99
+      "mentions": 100
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "public github account",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2023
+      "mentions": 2024
     },
     {
-      "keyword": "commercial surveillance tools",
-      "mentions": 21
+      "keyword": "gaming focused version",
+      "mentions": 1
     },
     {
       "keyword": "bugs earned microsoft's",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 134
+      "mentions": 135
     },
     {
       "keyword": "chinese llms broaden",
-      "mentions": 25
+      "mentions": 26
     },
     {
-      "keyword": "krebsonsecurity published findings",
-      "mentions": 21
+      "keyword": "malicious npm packages",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages",
+      "link": "https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html",
+      "summary": "Researchers found a flaw in Opera GX, the gaming-focused version of the Opera browser, that let a malicious website silently install a browser add-on and use it to lift specific data from the pages a victim visits. In a proof of concept, they reconstructed a signed-in user's full Gmail address from a single visit, with no click. Opera has patched the flaw and says it found no evidence that",
+      "published": "Mon, 06 Jul 2026 12:57:50 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "PoC available"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing",
+      "link": "https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html",
+      "summary": "Scanners meant to catch malicious add-on \"skills\" for AI coding agents can be fooled by a few simple changes that leave the malware working, according to a new study from researchers at the Hong Kong University of Science and Technology. Their strongest trick slipped past every scanner tested more than 90% of the time, and the same team built a runtime checker that catches most of the",
+      "published": "Mon, 06 Jul 2026 12:03:56 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case",
@@ -126,24 +146,6 @@
       "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
       "summary": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
       "published": "Fri, 03 Jul 2026 21:37:15 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer",
-      "link": "https://thehackernews.com/2026/07/armored-likho-targets-government.html",
-      "summary": "A previously undocumented threat actor known as Armored Likho has been attributed to cyber attacks targeting government agencies and the electric power sector across Russia, Brazil, and Kazakhstan. \"Armored Likho blends financially motivated campaigns targeting private individuals with targeted cyber espionage aimed at organizations,\" Kaspersky said in a technical analysis published today. \"",
-      "published": "Fri, 03 Jul 2026 19:06:33 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "European Parliament Member Investigating Spyware Was Hacked With Pegasus",
-      "link": "https://thehackernews.com/2026/07/european-parliament-member.html",
-      "summary": "A new report from the Citizen Lab has revealed that former Member of the European Parliament Stelios Kouloglou had his mobile device repeatedly hacked with the notorious Pegasus spyware while serving on a committee that was tasked with investigating the abuse of such commercial surveillance tools in the bloc. \"Through forensic analysis of his device, we found that the attackers could have had",
-      "published": "Fri, 03 Jul 2026 16:35:43 +0530",
       "value_score": 10,
       "value_signals": []
     },

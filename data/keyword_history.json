@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2028,
+      "count": 2029,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -540,7 +540,7 @@
       ]
     },
     "real life identity": {
-      "count": 197,
+      "count": 198,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4650,7 +4650,7 @@
       ]
     },
     "steal sensitive data": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-01-21",
         "2026-02-11",
@@ -4660,7 +4660,8 @@
         "2026-03-29",
         "2026-03-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-06"
       ]
     },
     "ai deployments built": {
@@ -17534,7 +17535,7 @@
       ]
     },
     "public github account": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18321,7 +18322,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18362,7 +18363,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20600,7 +20601,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21715,7 +21716,7 @@
       ]
     },
     "residential proxy network": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21796,19 +21797,19 @@
       ]
     },
     "home devices became": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06"
       ]
     },
     "ai soc platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06"
       ]
     },
     "ai soc evaluation": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06"
       ]
@@ -21820,48 +21821,54 @@
       ]
     },
     "ai solutions building": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06"
       ]
     },
     "video cable carrying": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06"
       ]
     },
     "2026 6 capabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-06"
       ]
     },
     "traditionally taken place": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-06"
       ]
     },
     "cve 2026 53359": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-06"
       ]
     },
     "unauthenticated internet client": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-06"
       ]
     },
     "steal google accounts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-06"
       ]
     },
     "fake job interviews": {
+      "count": 2,
+      "dates": [
+        "2026-07-06"
+      ]
+    },
+    "ai systems trusted": {
       "count": 1,
       "dates": [
         "2026-07-06"
@@ -21869,17 +21876,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-24 17:49",
-      "articles": 48,
-      "top_keywords": [
-        "exclusive meet aivex",
-        "time restore feature",
-        "critical ubiquiti vulnerabilities",
-        "macos weaknesses chained",
-        "resetting account passwords"
-      ]
-    },
     {
       "timestamp": "2026-06-24 19:39",
       "articles": 48,
@@ -22966,6 +22962,17 @@
         "pro iranian images",
         "cve 2026 53359",
         "chinese firms compete",
+        "residential proxy network"
+      ]
+    },
+    {
+      "timestamp": "2026-07-06 23:02",
+      "articles": 40,
+      "top_keywords": [
+        "cybercrime group known",
+        "pro iranian images",
+        "cve 2026 53359",
+        "steal google accounts",
         "residential proxy network"
       ]
     }

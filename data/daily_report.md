@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-06 21:24 UTC  
+> **Last Updated:** 2026-07-06 23:02 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **pro iranian images** • **cve 2026 53359** • **chinese firms compete** • **residential proxy network** • **ai soc platform** • **ai soc evaluation** • **unauthenticated internet client** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **home devices became** • **bugs earned microsoft's** • **chinese llms broaden** • **2026 6 capabilities** • **steal google accounts** • **ai solutions building** • **public github account** • **fake job interviews** • **video cable carrying**
+**cybercrime group known** • **pro iranian images** • **cve 2026 53359** • **steal google accounts** • **residential proxy network** • **ai soc platform** • **ai soc evaluation** • **unauthenticated internet client** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **home devices became** • **steal sensitive data** • **2026 6 capabilities** • **ai systems trusted** • **ai solutions building** • **public github account** • **fake job interviews** • **video cable carrying** • **traditionally taken place**
 
 ---
 
@@ -46,17 +46,6 @@
 - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
-
-### Dark Reading
-
-- [JadePuffer: The First Complete LLM-Driven Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack)
-- [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
-- [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
-- [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
-- [FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs](https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs)
-- [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
-- [Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.](https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-)
-- [Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS](https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os)
 
 ### Security Week
 

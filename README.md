@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-06 08:14 UTC |
+| 🕐 Last Updated | 2026-07-06 13:40 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`residential proxy network` • `cybercrime group known` • `chinese firms compete` • `public github account` • `twitter whistleblower complaint` • `gaming focused version` • `bugs earned microsoft's` • `resetting account passwords` • `chinese llms broaden` • `malicious npm packages`
+`cybercrime group known` • `chinese firms compete` • `residential proxy network` • `home devices became` • `ai soc platform` • `ai soc evaluation` • `twitter whistleblower complaint` • `real life identity` • `gaming focused version` • `extensive toolkit designed`
 
 ## 📄 Reports
 

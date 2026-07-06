@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06 19:48",
+  "last_updated": "2026-07-06 21:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,58 +12,58 @@
     "ai soc evaluation",
     "unauthenticated internet client",
     "twitter whistleblower complaint",
+    "resetting account passwords",
     "real life identity",
     "home devices became",
-    "extensive toolkit designed",
     "bugs earned microsoft's",
-    "resetting account passwords",
     "chinese llms broaden",
     "2026 6 capabilities",
+    "steal google accounts",
     "ai solutions building",
-    "video cable carrying",
-    "traditionally taken place",
-    "stark industries solutions"
+    "public github account",
+    "fake job interviews",
+    "video cable carrying"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 103
+      "mentions": 104
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "cve 2026 53359",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "residential proxy network",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "ai soc platform",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "ai soc evaluation",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "unauthenticated internet client",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2027
+      "mentions": 2028
     },
     {
-      "keyword": "real life identity",
-      "mentions": 196
+      "keyword": "resetting account passwords",
+      "mentions": 139
     }
   ],
   "articles": [
@@ -154,6 +154,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Phishing poses as big-brand job interview to steal Google accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/",
+      "summary": "A phishing campaign is impersonating more than 30 well-known brands, including Adobe, Netflix, Coca-Cola, and OpenAI, in fake job interviews to steal Google account credentials from marketing professionals. [...]",
+      "published": "Mon, 06 Jul 2026 16:27:37 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake IT support calls on Microsoft Teams push EtherRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/",
+      "summary": "Threat actors are abusing Microsoft Teams voice calls by impersonating corporate IT support staff to trick employees into installing the EtherRAT malware, giving attackers initial access to corporate networks. [...]",
+      "published": "Mon, 06 Jul 2026 16:23:45 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Vietnam arrests suspects behind HiAnime anime piracy service",
       "link": "https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/",
       "summary": "​Vietnamese authorities have arrested and are prosecuting seven suspects believed to have run HiAnime, the largest anime piracy streaming service before its shutdown in June. [...]",
@@ -208,26 +228,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
       "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
       "published": "Fri, 03 Jul 2026 13:50:04 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ARToken PhaaS exposes EvilTokens' Microsoft 365 phishing toolkit",
-      "link": "https://www.bleepingcomputer.com/news/security/artoken-phaas-exposes-eviltokens-microsoft-365-phishing-toolkit/",
-      "summary": "A new phishing-as-a-service (PhaaS) platform dubbed \"ARToken\" appears to operate as an affiliate of the EvilTokens phishing platform, giving researchers a glimpse into an extensive toolkit designed to compromise Microsoft 365. [...]",
-      "published": "Fri, 03 Jul 2026 10:12:22 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Fable 5 isn’t permanently leaving subscriptions, Anthropic says",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-isnt-permanently-leaving-subscriptions-anthropic-says/",
-      "summary": "Anthropic says Claude Fable 5 won't be accessible via Claude subscriptions after July 7, but it's not a permanent change, and the company expects the model to return outside the usage-based plan soon. [...]",
-      "published": "Thu, 02 Jul 2026 21:37:09 -0400",
       "value_score": 10,
       "value_signals": []
     },

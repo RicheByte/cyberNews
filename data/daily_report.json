@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 02:36",
+  "last_updated": "2026-07-07 07:32",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,7 +12,6 @@
     "twitter whistleblower complaint",
     "resetting account passwords",
     "real life identity",
-    "home devices became",
     "ai soc platform",
     "ai soc evaluation",
     "chinese llms broaden",
@@ -22,51 +21,66 @@
     "fake job interviews",
     "disclosure threat actors",
     "ai solutions building",
-    "video cable carrying"
+    "video cable carrying",
+    "traditionally taken place"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 106
+      "mentions": 107
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 66
+      "mentions": 67
     },
     {
       "keyword": "cve 2026 53359",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "residential proxy network",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "unauthenticated internet client",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2030
+      "mentions": 2031
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 141
+      "mentions": 142
     },
     {
       "keyword": "real life identity",
-      "mentions": 199
+      "mentions": 200
     },
     {
-      "keyword": "home devices became",
-      "mentions": 6
+      "keyword": "ai soc platform",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
+      "link": "https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html",
+      "summary": "BeyondTrust has released updates to address two critical security flaws affecting Remote Support (RS) and Privileged Remote Access (PRA) products that, if successfully exploited, could allow unauthenticated attackers to take control of susceptible devices. The vulnerabilities are listed below - CVE-2026-40138 (CVSS score: 9.2) - A pre-authentication vulnerability exists in the",
+      "published": "Tue, 07 Jul 2026 10:46:51 +0530",
+      "value_score": 65,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations",
@@ -140,15 +154,6 @@
       "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
       "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the target machine, so it",
       "published": "Mon, 06 Jul 2026 14:20:54 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS",
-      "link": "https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html",
-      "summary": "Cybersecurity researchers have flagged a novel Java-based remote access trojan (RAT) called QuimaRAT that's capable of targeting Windows, Linux, and macOS environments. According to LevelBlue, the cross-platform malware is advertised under a malware-as-a-service (MaaS) model, costing anywhere between $150 for one month to $1,200 for lifetime access. Other subscription tiers include $300 for",
-      "published": "Mon, 06 Jul 2026 13:43:33 +0530",
       "value_score": 10,
       "value_signals": []
     },

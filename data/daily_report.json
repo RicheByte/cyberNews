@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 21:18",
+  "last_updated": "2026-07-07 22:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,58 +12,58 @@
     "github's agentic workflows",
     "alleged victim believed",
     "chinese llms broaden",
-    "silently pull data",
-    "cryptographic security platform",
     "windows 11 26h2",
-    "open source packages",
     "critical gitea flaw",
+    "dire critical rating",
+    "cryptographic security platform",
+    "silently pull data",
+    "sensitive stolen data",
     "top us mainstream",
+    "threat actor claimed",
+    "stolen 35 gb",
     "stark industries solutions",
-    "specialized unit tasked",
-    "single http header",
-    "simulated hacking exercises",
-    "scan doesn't guarantee"
+    "specialized unit tasked"
   ],
   "trending": [
     {
       "keyword": "windows settings backup",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "post quantum threats",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2036
+      "mentions": 2037
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 37
+      "mentions": 38
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 112
+      "mentions": 113
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "github's agentic workflows",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "alleged victim believed",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "chinese llms broaden",
-      "mentions": 37
+      "mentions": 38
     },
     {
-      "keyword": "silently pull data",
-      "mentions": 3
+      "keyword": "windows 11 26h2",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Accenture confirms breach after hacker offers stolen data for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
+      "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
+      "published": "Tue, 07 Jul 2026 18:06:07 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
       "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
@@ -216,18 +227,6 @@
       "published": "Tue, 07 Jul 2026 05:41:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "BeyondTrust warns of critical flaws in remote access software",
-      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
-      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
-      "published": "Tue, 07 Jul 2026 04:12:10 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,6 +315,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Big Brand Jobs Scam Targets Marketing Pros' Google Accounts",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts",
+      "summary": "The phishing campaign uses several tactics, including nested redirects, to evade detection and steal credentials from unsuspecting targets.",
+      "published": "Tue, 07 Jul 2026 21:02:29 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft",
       "link": "https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft",
       "summary": "Varonis reported the flaw to Google in late 2025 and it has been addressed, but it reminds defenders to take a fresh look at their AI Infrastructure security.",
@@ -384,18 +394,6 @@
       "published": "Thu, 02 Jul 2026 23:01:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
-      "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
-      "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
-      "published": "Thu, 02 Jul 2026 19:31:58 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

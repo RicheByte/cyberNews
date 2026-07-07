@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-07 21:18 UTC  
+> **Last Updated:** 2026-07-07 22:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **chinese llms broaden** • **silently pull data** • **cryptographic security platform** • **windows 11 26h2** • **open source packages** • **critical gitea flaw** • **top us mainstream** • **stark industries solutions** • **specialized unit tasked** • **single http header** • **simulated hacking exercises** • **scan doesn't guarantee**
+**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **chinese llms broaden** • **windows 11 26h2** • **critical gitea flaw** • **dire critical rating** • **cryptographic security platform** • **silently pull data** • **sensitive stolen data** • **top us mainstream** • **threat actor claimed** • **stolen 35 gb** • **stark industries solutions** • **specialized unit tasked**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
 - [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
 - [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
 - [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
@@ -34,7 +35,6 @@
 - [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
 - [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
 - [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
-- [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Big Brand Jobs Scam Targets Marketing Pros' Google Accounts](https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts)
 - [Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft](https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft)
 - ['GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows](https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows)
 - ['BusySnake' Infostealer Slithers Into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
@@ -56,7 +57,6 @@
 - [JadePuffer: The First Complete LLM-Driven Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack)
 - [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
 - [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
-- [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
 
 ### Security Week
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-07 17:54 UTC  
+> **Last Updated:** 2026-07-07 19:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **critical gitea flaw** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **silently pull data** • **chinese llms broaden** • **windows 11 26h2** • **cryptographic security platform** • **open source packages** • **dire critical rating** • **top us mainstream** • **stark industries solutions** • **specialized unit tasked** • **single http header** • **simulated hacking exercises**
+**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **critical gitea flaw** • **chinese llms broaden** • **cryptographic security platform** • **silently pull data** • **windows 11 26h2** • **open source packages** • **top us mainstream** • **stark industries solutions** • **specialized unit tasked** • **single http header** • **simulated hacking exercises** • **scan doesn't guarantee**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
+- [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
 - [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html)
 - [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html)
 - [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
 - [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
 - [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
 - [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
-- [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
-- [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
 
 ### BleepingComputer
 
+- [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
 - [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/)
 - [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/)
 - [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
@@ -34,7 +35,6 @@
 - [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
 - [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
 - [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
-- [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
 
 ### Krebs on Security
 

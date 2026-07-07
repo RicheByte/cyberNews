@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-06 23:02 UTC |
-| 📰 Articles Analyzed | 40 |
+| 🕐 Last Updated | 2026-07-07 02:36 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `pro iranian images` • `cve 2026 53359` • `steal google accounts` • `residential proxy network` • `ai soc platform` • `ai soc evaluation` • `unauthenticated internet client` • `twitter whistleblower complaint` • `resetting account passwords`
+`cybercrime group known` • `pro iranian images` • `cve 2026 53359` • `chinese firms compete` • `residential proxy network` • `unauthenticated internet client` • `twitter whistleblower complaint` • `resetting account passwords` • `real life identity` • `home devices became`
 
 ## 📄 Reports
 

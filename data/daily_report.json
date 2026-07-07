@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-06 23:02",
+  "last_updated": "2026-07-07 02:36",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "pro iranian images",
     "cve 2026 53359",
-    "steal google accounts",
+    "chinese firms compete",
     "residential proxy network",
-    "ai soc platform",
-    "ai soc evaluation",
     "unauthenticated internet client",
     "twitter whistleblower complaint",
     "resetting account passwords",
     "real life identity",
     "home devices became",
-    "steal sensitive data",
+    "ai soc platform",
+    "ai soc evaluation",
+    "chinese llms broaden",
     "2026 6 capabilities",
-    "ai systems trusted",
-    "ai solutions building",
+    "steal google accounts",
     "public github account",
     "fake job interviews",
-    "video cable carrying",
-    "traditionally taken place"
+    "disclosure threat actors",
+    "ai solutions building",
+    "video cable carrying"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 105
+      "mentions": 106
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "cve 2026 53359",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "steal google accounts",
-      "mentions": 2
+      "keyword": "chinese firms compete",
+      "mentions": 31
     },
     {
       "keyword": "residential proxy network",
-      "mentions": 28
-    },
-    {
-      "keyword": "ai soc platform",
-      "mentions": 5
-    },
-    {
-      "keyword": "ai soc evaluation",
-      "mentions": 5
+      "mentions": 29
     },
     {
       "keyword": "unauthenticated internet client",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2029
+      "mentions": 2030
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 140
+      "mentions": 141
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 199
+    },
+    {
+      "keyword": "home devices became",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -314,6 +314,94 @@
       "value_signals": [
         "Breach/leak ×2",
         "CISA/KEV ×4"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'BusySnake' Infostealer Slithers into Critical Infrastructure Networks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
+      "summary": "A threat group researchers call \"Armored Likho\" has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
+      "published": "Mon, 06 Jul 2026 21:37:56 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack",
+      "summary": "Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).",
+      "published": "Mon, 06 Jul 2026 21:17:42 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
+      "summary": "An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
+      "published": "Mon, 06 Jul 2026 16:36:50 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
+      "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
+      "summary": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
+      "published": "Fri, 03 Jul 2026 13:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
+      "summary": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
+      "published": "Thu, 02 Jul 2026 23:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
+      "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
+      "summary": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
+      "published": "Thu, 02 Jul 2026 19:31:58 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
+      "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
+      "summary": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
+      "published": "Thu, 02 Jul 2026 19:11:33 GMT",
+      "value_score": 53,
+      "value_signals": [
+        "Zero-day",
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Ransomware Thugs Masquerade as Interpol to Entice Small Biz",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
+      "summary": "The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.",
+      "published": "Thu, 02 Jul 2026 18:07:40 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
       ]
     },
     {

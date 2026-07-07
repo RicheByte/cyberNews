@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-06 23:02 UTC  
+> **Last Updated:** 2026-07-07 02:36 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 40
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **pro iranian images** • **cve 2026 53359** • **steal google accounts** • **residential proxy network** • **ai soc platform** • **ai soc evaluation** • **unauthenticated internet client** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **home devices became** • **steal sensitive data** • **2026 6 capabilities** • **ai systems trusted** • **ai solutions building** • **public github account** • **fake job interviews** • **video cable carrying** • **traditionally taken place**
+**cybercrime group known** • **pro iranian images** • **cve 2026 53359** • **chinese firms compete** • **residential proxy network** • **unauthenticated internet client** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **home devices became** • **ai soc platform** • **ai soc evaluation** • **chinese llms broaden** • **2026 6 capabilities** • **steal google accounts** • **public github account** • **fake job interviews** • **disclosure threat actors** • **ai solutions building** • **video cable carrying**
 
 ---
 
@@ -46,6 +46,17 @@
 - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/)
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/)
+
+### Dark Reading
+
+- ['BusySnake' Infostealer Slithers into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
+- [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
+- [JadePuffer: The First Complete LLM-Driven Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack)
+- [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
+- [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
+- [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
+- [FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs](https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs)
+- [Ransomware Thugs Masquerade as Interpol to Entice Small Biz](https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses)
 
 ### Security Week
 

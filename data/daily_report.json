@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-07 19:47",
+  "last_updated": "2026-07-07 21:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,12 +11,12 @@
     "pro iranian images",
     "github's agentic workflows",
     "alleged victim believed",
-    "critical gitea flaw",
     "chinese llms broaden",
-    "cryptographic security platform",
     "silently pull data",
+    "cryptographic security platform",
     "windows 11 26h2",
     "open source packages",
+    "critical gitea flaw",
     "top us mainstream",
     "stark industries solutions",
     "specialized unit tasked",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "windows settings backup",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "post quantum threats",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2035
+      "mentions": 2036
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 36
+      "mentions": 37
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 111
+      "mentions": 112
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "github's agentic workflows",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "alleged victim believed",
-      "mentions": 2
-    },
-    {
-      "keyword": "critical gitea flaw",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "chinese llms broaden",
-      "mentions": 36
+      "mentions": 37
+    },
+    {
+      "keyword": "silently pull data",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -316,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft",
+      "link": "https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft",
+      "summary": "Varonis reported the flaw to Google in late 2025 and it has been addressed, but it reminds defenders to take a fresh look at their AI Infrastructure security.",
+      "published": "Tue, 07 Jul 2026 20:36:43 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows",
       "link": "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
       "summary": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
@@ -386,18 +395,6 @@
       "value_signals": [
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
-      "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
-      "summary": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
-      "published": "Thu, 02 Jul 2026 19:11:33 GMT",
-      "value_score": 53,
-      "value_signals": [
-        "Zero-day",
-        "Ransomware"
       ]
     },
     {

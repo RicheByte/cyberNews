@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-07 19:47 UTC  
+> **Last Updated:** 2026-07-07 21:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **critical gitea flaw** • **chinese llms broaden** • **cryptographic security platform** • **silently pull data** • **windows 11 26h2** • **open source packages** • **top us mainstream** • **stark industries solutions** • **specialized unit tasked** • **single http header** • **simulated hacking exercises** • **scan doesn't guarantee**
+**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **chinese llms broaden** • **silently pull data** • **cryptographic security platform** • **windows 11 26h2** • **open source packages** • **critical gitea flaw** • **top us mainstream** • **stark industries solutions** • **specialized unit tasked** • **single http header** • **simulated hacking exercises** • **scan doesn't guarantee**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft](https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft)
 - ['GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows](https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows)
 - ['BusySnake' Infostealer Slithers Into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
 - [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
@@ -56,7 +57,6 @@
 - [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
 - [Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs](https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs)
 - [Apple Reverses Age-Old Patch Policy to Keep Up With AI](https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai)
-- [FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs](https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs)
 
 ### Security Week
 

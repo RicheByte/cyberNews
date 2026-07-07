@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2031,
+      "count": 2032,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -541,7 +541,7 @@
       ]
     },
     "real life identity": {
-      "count": 200,
+      "count": 201,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -17537,7 +17537,7 @@
       ]
     },
     "public github account": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -18325,7 +18325,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18367,7 +18367,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20606,7 +20606,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21675,7 +21675,7 @@
       ]
     },
     "chinese firms compete": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21685,13 +21685,14 @@
       ]
     },
     "top us mainstream": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-03"
+        "2026-07-03",
+        "2026-07-07"
       ]
     },
     "chinese llms broaden": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21806,21 +21807,21 @@
       ]
     },
     "home devices became": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-06",
         "2026-07-07"
       ]
     },
     "ai soc platform": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-06",
         "2026-07-07"
       ]
     },
     "ai soc evaluation": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-06",
         "2026-07-07"
@@ -21847,7 +21848,7 @@
       ]
     },
     "2026 6 capabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-06",
         "2026-07-07"
@@ -21861,21 +21862,21 @@
       ]
     },
     "cve 2026 53359": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-06",
         "2026-07-07"
       ]
     },
     "unauthenticated internet client": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-06",
         "2026-07-07"
       ]
     },
     "steal google accounts": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06",
         "2026-07-07"
@@ -21899,20 +21900,33 @@
       "dates": [
         "2026-07-07"
       ]
+    },
+    "windows settings backup": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "cve 2026 11405": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "post quantum threats": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "windows 11 26h2": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-24 23:00",
-      "articles": 48,
-      "top_keywords": [
-        "exclusive meet aivex",
-        "python based backdoor",
-        "critical ubiquiti vulnerabilities",
-        "root threat actors",
-        "icarus leaks data"
-      ]
-    },
     {
       "timestamp": "2026-06-25 02:45",
       "articles": 48,
@@ -23000,6 +23014,17 @@
         "cve 2026 53359",
         "chinese firms compete",
         "residential proxy network"
+      ]
+    },
+    {
+      "timestamp": "2026-07-07 10:50",
+      "articles": 48,
+      "top_keywords": [
+        "windows settings backup",
+        "cybercrime group known",
+        "pro iranian images",
+        "chinese firms compete",
+        "cve 2026 53359"
       ]
     }
   ]

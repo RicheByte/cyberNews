@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-07-07 07:32",
+  "last_updated": "2026-07-07 10:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "windows settings backup",
     "cybercrime group known",
     "pro iranian images",
-    "cve 2026 53359",
     "chinese firms compete",
-    "residential proxy network",
+    "cve 2026 53359",
+    "cve 2026 11405",
     "unauthenticated internet client",
     "twitter whistleblower complaint",
+    "top us mainstream",
     "resetting account passwords",
     "real life identity",
+    "chinese llms broaden",
     "ai soc platform",
     "ai soc evaluation",
-    "chinese llms broaden",
+    "post quantum threats",
+    "windows 11 26h2",
+    "home devices became",
     "2026 6 capabilities",
     "steal google accounts",
-    "public github account",
-    "fake job interviews",
-    "disclosure threat actors",
-    "ai solutions building",
-    "video cable carrying",
-    "traditionally taken place"
+    "public github account"
   ],
   "trending": [
     {
+      "keyword": "windows settings backup",
+      "mentions": 1
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 107
+      "mentions": 108
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 67
-    },
-    {
-      "keyword": "cve 2026 53359",
-      "mentions": 5
+      "mentions": 68
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 32
+      "mentions": 33
     },
     {
-      "keyword": "residential proxy network",
-      "mentions": 30
+      "keyword": "cve 2026 53359",
+      "mentions": 6
+    },
+    {
+      "keyword": "cve 2026 11405",
+      "mentions": 1
     },
     {
       "keyword": "unauthenticated internet client",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2031
+      "mentions": 2032
+    },
+    {
+      "keyword": "top us mainstream",
+      "mentions": 2
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 142
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 200
-    },
-    {
-      "keyword": "ai soc platform",
-      "mentions": 7
+      "mentions": 143
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,",
+      "published": "Tue, 07 Jul 2026 14:40:51 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "summary": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday. \"An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process",
+      "published": "Tue, 07 Jul 2026 12:10:47 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "CVE mentioned",
+        "Backdoor ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
@@ -138,22 +164,32 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
-      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
-      "summary": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.",
-      "published": "Mon, 06 Jul 2026 16:28:16 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "summary": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
+      "published": "Tue, 07 Jul 2026 05:41:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "BeyondTrust warns of critical flaws in remote access software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "summary": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+      "published": "Tue, 07 Jul 2026 04:12:10 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Phishing"
+        "Patch/update",
+        "High severity ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
-      "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
-      "summary": "Researchers at Shandong University have shown a fast new way to pull data off computers that are cut off from every network. The technique, called TrojPix, tweaks on-screen pixels in ways the eye cannot see, so that the video cable carrying them radiates a faint radio signal a nearby receiver can decode. But TrojPix works only once malware is already on the target machine, so it",
-      "published": "Mon, 06 Jul 2026 14:20:54 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
+      "summary": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
+      "published": "Tue, 07 Jul 2026 03:37:38 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -206,35 +242,6 @@
         "CVE mentioned",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Flipper Zero firmware development continues with community help",
-      "link": "https://www.bleepingcomputer.com/news/security/flipper-zero-firmware-development-continues-with-community-help/",
-      "summary": "Flipper Devices says development of the Flipper Zero firmware will continue, albeit with a smaller internal team and greater reliance on community contributions. [...]",
-      "published": "Sun, 05 Jul 2026 10:14:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "JadePuffer ransomware used AI agent to automate entire attack",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-ransomware-used-ai-agent-to-automate-entire-attack/",
-      "summary": "Researchers identified what they believe is the first documented case of a ransomware operation, JadePuffer, conducted entirely by a large language model (LLM) agent. [...]",
-      "published": "Sat, 04 Jul 2026 10:16:38 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
-      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
-      "summary": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
-      "published": "Fri, 03 Jul 2026 13:50:04 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -411,6 +418,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
+      "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
+      "summary": "The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host. The post Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems appeared first on SecurityWeek .",
+      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
+      "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+      "summary": "The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats. The post Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security appeared first on SecurityWeek .",
+      "published": "Tue, 07 Jul 2026 09:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks",
       "link": "https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/",
       "summary": "Securonix says the sophisticated framework abuses compromised websites, Blogspot, PowerShell, and fileless techniques to evade detection and deploy the PureLog information stealer. The post Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks appeared first on SecurityWeek .",
@@ -467,27 +492,6 @@
       "published": "Mon, 06 Jul 2026 11:19:47 +0000",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
-      "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Anonymous-linked Canadian hacker jailed, researcher drops zero-days in open source projects, Venezuelans sentenced in the US over ATM jackpotting. The post In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting appeared first on SecurityWeek .",
-      "published": "Fri, 03 Jul 2026 15:10:42 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Agentic AI Used to Conduct Ransomware Attack via Langflow",
-      "link": "https://www.securityweek.com/agentic-ai-used-to-conduct-ransomware-attack-via-langflow/",
-      "summary": "Attack demonstrates how LLM agents can combine known exploitation techniques with real-time reasoning to automate complex, multi-stage intrusions. The post Agentic AI Used to Conduct Ransomware Attack via Langflow appeared first on SecurityWeek .",
-      "published": "Fri, 03 Jul 2026 11:00:00 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×2",
         "Exploit wording"
       ]
     },

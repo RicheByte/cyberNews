@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2032,
+      "count": 2033,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -17537,7 +17537,7 @@
       ]
     },
     "public github account": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-05-23",
         "2026-05-24",
@@ -17925,7 +17925,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17960,7 +17960,8 @@
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-07"
       ]
     },
     "ai power users": {
@@ -18367,7 +18368,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20606,7 +20607,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21675,7 +21676,7 @@
       ]
     },
     "chinese firms compete": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21685,14 +21686,14 @@
       ]
     },
     "top us mainstream": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-03",
         "2026-07-07"
       ]
     },
     "chinese llms broaden": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21876,14 +21877,14 @@
       ]
     },
     "steal google accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-06",
         "2026-07-07"
       ]
     },
     "fake job interviews": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-06",
         "2026-07-07"
@@ -21902,7 +21903,7 @@
       ]
     },
     "windows settings backup": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-07"
       ]
@@ -21914,12 +21915,54 @@
       ]
     },
     "post quantum threats": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-07"
       ]
     },
     "windows 11 26h2": {
+      "count": 2,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "open source packages": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "undocumented authentication backdoor": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "simulated hacking exercises": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "cryptographic security platform": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "specialized unit tasked": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "shadow page state": {
+      "count": 1,
+      "dates": [
+        "2026-07-07"
+      ]
+    },
+    "scan doesn't guarantee": {
       "count": 1,
       "dates": [
         "2026-07-07"
@@ -21927,17 +21970,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-25 02:45",
-      "articles": 48,
-      "top_keywords": [
-        "exclusive meet aivex",
-        "python based backdoor",
-        "critical ubiquiti vulnerabilities",
-        "root threat actors",
-        "icarus leaks data"
-      ]
-    },
     {
       "timestamp": "2026-06-25 07:37",
       "articles": 48,
@@ -23025,6 +23057,17 @@
         "pro iranian images",
         "chinese firms compete",
         "cve 2026 53359"
+      ]
+    },
+    {
+      "timestamp": "2026-07-07 14:19",
+      "articles": 48,
+      "top_keywords": [
+        "windows settings backup",
+        "twitter whistleblower complaint",
+        "open source packages",
+        "cybercrime group known",
+        "chinese firms compete"
       ]
     }
   ]

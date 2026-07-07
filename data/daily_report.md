@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-07 10:50 UTC  
+> **Last Updated:** 2026-07-07 14:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows settings backup** • **cybercrime group known** • **pro iranian images** • **chinese firms compete** • **cve 2026 53359** • **cve 2026 11405** • **unauthenticated internet client** • **twitter whistleblower complaint** • **top us mainstream** • **resetting account passwords** • **real life identity** • **chinese llms broaden** • **ai soc platform** • **ai soc evaluation** • **post quantum threats** • **windows 11 26h2** • **home devices became** • **2026 6 capabilities** • **steal google accounts** • **public github account**
+**windows settings backup** • **twitter whistleblower complaint** • **open source packages** • **cybercrime group known** • **chinese firms compete** • **undocumented authentication backdoor** • **top us mainstream** • **simulated hacking exercises** • **pro iranian images** • **post quantum threats** • **chinese llms broaden** • **public github account** • **windows 11 26h2** • **cryptographic security platform** • **steal google accounts** • **fake job interviews** • **stark industries solutions** • **specialized unit tasked** • **shadow page state** • **scan doesn't guarantee**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
+- [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
+- [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
 - [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
 - [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html)
 - [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html)
 - [Iran-Linked Hackers Use New Cavern C2 Framework to Target Israeli Organizations](https://thehackernews.com/2026/07/iran-linked-hackers-use-new-cavern-c2.html)
 - [16-Year-Old Linux KVM Flaw Lets Guest VMs Escape to Host on Intel and AMD x86 Systems](https://thehackernews.com/2026/07/16-year-old-linux-kvm-flaw-lets-guest.html)
-- [Threat Actors Probe Gitea Docker Flaw CVE-2026-20896 13 Days After Disclosure](https://thehackernews.com/2026/07/threat-actors-probe-gitea-docker-flaw.html)
-- [⚡ Weekly Recap: Proxy Botnets, Browser Ransomware, AI Agent Tricks, Fake PoC Malware and More](https://thehackernews.com/2026/07/monday-recap-proxy-botnets-browser.html)
-- [How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions](https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html)
 
 ### BleepingComputer
 
+- [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/)
+- [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/)
+- [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/)
 - [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/)
 - [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/)
 - [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/)
 - [Phishing poses as big-brand job interview to steal Google accounts](https://www.bleepingcomputer.com/news/security/phishing-poses-as-big-brand-job-interview-to-steal-google-accounts/)
 - [Fake IT support calls on Microsoft Teams push EtherRAT malware](https://www.bleepingcomputer.com/news/security/fake-it-support-calls-on-microsoft-teams-push-etherrat-malware/)
-- [Vietnam arrests suspects behind HiAnime anime piracy service](https://www.bleepingcomputer.com/news/security/vietnam-arrests-suspects-behind-hianime-anime-piracy-service/)
-- [Software Is Now Written at the Speed of Thought. Security Isn't.](https://www.bleepingcomputer.com/news/security/software-is-now-written-at-the-speed-of-thought-security-isnt/)
-- [Max severity Adobe ColdFusion flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/max-severity-adobe-coldfusion-flaw-now-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
+- [Critical Adobe ColdFusion Vulnerability Exploited in Attacks](https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/)
+- [Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks](https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/)
+- [CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker](https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/)
 - [Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems](https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/)
 - [Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security](https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/)
 - [Blogspot-Hosted Payloads Delivered in ‘Veil#Drop’ Attacks](https://www.securityweek.com/blogspot-hosted-payloads-delivered-in-veildrop-attacks/)
 - [The Shift Toward Business-Aligned Risk Management](https://www.securityweek.com/the-shift-toward-business-aligned-risk-management/)
-- [Armored Likho APT Targeting Government, Electric Power Entities](https://www.securityweek.com/armored-likho-apt-targeting-government-electric-power-entities/)
-- [North Korean Hackers Target Open Source Developers in Supply Chain Attacks](https://www.securityweek.com/north-korean-hackers-target-open-source-developers-in-supply-chain-attacks/)
-- [Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability](https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/)
-- [Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments](https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-07 10:50 UTC |
+| 🕐 Last Updated | 2026-07-07 14:19 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows settings backup` • `cybercrime group known` • `pro iranian images` • `chinese firms compete` • `cve 2026 53359` • `cve 2026 11405` • `unauthenticated internet client` • `twitter whistleblower complaint` • `top us mainstream` • `resetting account passwords`
+`windows settings backup` • `twitter whistleblower complaint` • `open source packages` • `cybercrime group known` • `chinese firms compete` • `undocumented authentication backdoor` • `top us mainstream` • `simulated hacking exercises` • `pro iranian images` • `post quantum threats`
 
 ## 📄 Reports
 

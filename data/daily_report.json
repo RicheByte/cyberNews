@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-08 17:41",
+  "last_updated": "2026-07-08 19:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "services giant accenture",
     "cybercrime group known",
+    "access vulnerable repositories",
     "cisa orders feds",
     "critical gitea flaw",
     "twitter whistleblower complaint",
-    "stolen 35 gb",
     "github's agentic workflows",
     "catch human intruders",
+    "activity cluster tracked",
     "dire critical rating",
     "modern phishing ecosystem",
     "alleged victim believed",
-    "accenture confirms breach",
-    "access vulnerable repositories",
     "sensitive stolen data",
     "critical infrastructure networks",
     "t keep pace",
     "stark industries solutions",
     "single http header",
     "service delivery impact",
-    "resetting account passwords"
+    "resetting account passwords",
+    "production database server",
+    "pro iranian images"
   ],
   "trending": [
     {
-      "keyword": "services giant accenture",
-      "mentions": 2
+      "keyword": "cybercrime group known",
+      "mentions": 120
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 119
+      "keyword": "access vulnerable repositories",
+      "mentions": 2
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "critical gitea flaw",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2043
-    },
-    {
-      "keyword": "stolen 35 gb",
-      "mentions": 7
-    },
-    {
-      "keyword": "github's agentic workflows",
       "mentions": 10
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2044
+    },
+    {
+      "keyword": "github's agentic workflows",
+      "mentions": 11
+    },
+    {
       "keyword": "catch human intruders",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "activity cluster tracked",
+      "mentions": 2
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 239
+      "mentions": 240
     },
     {
       "keyword": "modern phishing ecosystem",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -149,6 +149,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
+      "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
+      "published": "Wed, 08 Jul 2026 14:56:02 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Backdoor",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
       "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
       "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
@@ -225,17 +237,6 @@
         "Patch/update ×2",
         "CISA/KEV ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Accenture confirms breach after hacker offers stolen data for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/",
-      "summary": "IT services giant Accenture has confirmed it suffered a security breach after a threat actor claimed to have stolen 35 GB of source code and other data from the company. [...]",
-      "published": "Tue, 07 Jul 2026 18:06:07 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

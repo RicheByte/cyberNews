@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-07-08 17:41 UTC</span>
+                <span>Last updated: 2026-07-08 19:16 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">services giant accenture (2) </span><span class="keyword-tag large">cybercrime group known (119) </span><span class="keyword-tag large">cisa orders feds (3) </span><span class="keyword-tag medium">critical gitea flaw (9) </span><span class="keyword-tag medium">twitter whistleblower complaint (2043) </span><span class="keyword-tag medium">stolen 35 gb (7) </span><span class="keyword-tag medium">github&#x27;s agentic workflows (10) </span><span class="keyword-tag small">catch human intruders (1) </span><span class="keyword-tag small">dire critical rating (239) </span><span class="keyword-tag small">modern phishing ecosystem (2) </span>
+                    <span class="keyword-tag large">cybercrime group known (120) </span><span class="keyword-tag large">access vulnerable repositories (2) </span><span class="keyword-tag large">cisa orders feds (4) </span><span class="keyword-tag medium">critical gitea flaw (10) </span><span class="keyword-tag medium">twitter whistleblower complaint (2044) </span><span class="keyword-tag medium">github&#x27;s agentic workflows (11) </span><span class="keyword-tag medium">catch human intruders (2) </span><span class="keyword-tag small">activity cluster tracked (2) </span><span class="keyword-tag small">dire critical rating (240) </span><span class="keyword-tag small">modern phishing ecosystem (3) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-07-08 19:16</div>
+            <div class="timeline-content">
+                <strong>48 articles</strong> analyzed
+                <div class="timeline-keywords">cybercrime group known, access vulnerable repositories, cisa orders feds</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-07-08 17:41</div>
             <div class="timeline-content">
@@ -583,13 +590,6 @@
         </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-07-07 22:55</div>
-            <div class="timeline-content">
-                <strong>48 articles</strong> analyzed
-                <div class="timeline-keywords">windows settings backup, post quantum threats, twitter whistleblower complaint</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-07-07 21:18</div>
             <div class="timeline-content">
                 <strong>48 articles</strong> analyzed
                 <div class="timeline-keywords">windows settings backup, post quantum threats, twitter whistleblower complaint</div>
@@ -763,6 +763,17 @@
             <div class="article-card" data-source="BleepingComputer">
                 <div class="article-top">
                     <div class="article-source">BleepingComputer</div>
+                    <div class="value-badge value-low">Value 28</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/" target="_blank" rel="noopener">Hackers exploit Roundcube flaw to spy on academic researchers</a>
+                </h3>
+                <p class="article-summary">A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backd...</p>
+                <div class="article-meta">Wed, 08 Jul 2026 14:56:02</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-top">
+                    <div class="article-source">BleepingComputer</div>
                     <div class="value-badge value-low">Value 10</div>
                 </div>
                 <h3 class="article-title">
@@ -803,17 +814,6 @@
                 </h3>
                 <p class="article-summary">Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email ...</p>
                 <div class="article-meta">Wed, 08 Jul 2026 07:24:16</div>
-            </div>
-            <div class="article-card" data-source="BleepingComputer">
-                <div class="article-top">
-                    <div class="article-source">BleepingComputer</div>
-                    <div class="value-badge value-high">Value 100</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/" target="_blank" rel="noopener">CISA orders feds to prioritize patching Langflow auth bypass flaw</a>
-                </h3>
-                <p class="article-summary">The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in th...</p>
-                <div class="article-meta">Wed, 08 Jul 2026 05:58:11</div>
             </div>
             <div class="article-card" data-source="Krebs on Security">
                 <div class="article-top">
@@ -1091,10 +1091,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["services giant accen", "cybercrime group kno", "cisa orders feds", "critical gitea flaw", "twitter whistleblowe", "stolen 35 gb", "github's agentic wor", "catch human intruder", "dire critical rating", "modern phishing ecos"],
+                labels: ["cybercrime group kno", "access vulnerable re", "cisa orders feds", "critical gitea flaw", "twitter whistleblowe", "github's agentic wor", "catch human intruder", "activity cluster tra", "dire critical rating", "modern phishing ecos"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [2, 119, 3, 9, 2043, 7, 10, 1, 239, 2],
+                    data: [120, 2, 4, 10, 2044, 11, 2, 2, 240, 3],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

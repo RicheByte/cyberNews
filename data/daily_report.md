@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-08 17:41 UTC  
+> **Last Updated:** 2026-07-08 19:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**services giant accenture** • **cybercrime group known** • **cisa orders feds** • **critical gitea flaw** • **twitter whistleblower complaint** • **stolen 35 gb** • **github's agentic workflows** • **catch human intruders** • **dire critical rating** • **modern phishing ecosystem** • **alleged victim believed** • **accenture confirms breach** • **access vulnerable repositories** • **sensitive stolen data** • **critical infrastructure networks** • **t keep pace** • **stark industries solutions** • **single http header** • **service delivery impact** • **resetting account passwords**
+**cybercrime group known** • **access vulnerable repositories** • **cisa orders feds** • **critical gitea flaw** • **twitter whistleblower complaint** • **github's agentic workflows** • **catch human intruders** • **activity cluster tracked** • **dire critical rating** • **modern phishing ecosystem** • **alleged victim believed** • **sensitive stolen data** • **critical infrastructure networks** • **t keep pace** • **stark industries solutions** • **single http header** • **service delivery impact** • **resetting account passwords** • **production database server** • **pro iranian images**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
 - [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
 - [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
 - [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
@@ -34,7 +35,6 @@
 - [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
 - [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 - [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
-- [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
 
 ### Krebs on Security
 

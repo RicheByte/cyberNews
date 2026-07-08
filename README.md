@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-08 17:41 UTC |
+| 🕐 Last Updated | 2026-07-08 19:16 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`services giant accenture` • `cybercrime group known` • `cisa orders feds` • `critical gitea flaw` • `twitter whistleblower complaint` • `stolen 35 gb` • `github's agentic workflows` • `catch human intruders` • `dire critical rating` • `modern phishing ecosystem`
+`cybercrime group known` • `access vulnerable repositories` • `cisa orders feds` • `critical gitea flaw` • `twitter whistleblower complaint` • `github's agentic workflows` • `catch human intruders` • `activity cluster tracked` • `dire critical rating` • `modern phishing ecosystem`
 
 ## 📄 Reports
 

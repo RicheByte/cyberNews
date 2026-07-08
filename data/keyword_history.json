@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2043,
+      "count": 2044,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3733,7 +3733,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17932,7 +17932,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18334,7 +18334,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18377,7 +18377,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20617,7 +20617,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21989,21 +21989,21 @@
       ]
     },
     "critical gitea flaw": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "github's agentic workflows": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22017,14 +22017,14 @@
       ]
     },
     "single http header": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "sensitive stolen data": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22068,7 +22068,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
@@ -22092,31 +22092,31 @@
       ]
     },
     "t keep pace": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
     },
     "activity cluster tracked": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
     },
     "modern phishing ecosystem": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
     },
     "critical infrastructure networks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
     },
     "catch human intruders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
@@ -22128,12 +22128,18 @@
       ]
     },
     "access vulnerable repositories": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
     },
     "service delivery impact": {
+      "count": 2,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "production database server": {
       "count": 1,
       "dates": [
         "2026-07-08"
@@ -22141,17 +22147,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-26 17:42",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "ukrainian targets turla",
-        "asian scam centers",
-        "providing sensitive data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-26 19:40",
       "articles": 48,
@@ -23236,6 +23231,17 @@
       "top_keywords": [
         "services giant accenture",
         "cybercrime group known",
+        "cisa orders feds",
+        "critical gitea flaw",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 19:16",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "access vulnerable repositories",
         "cisa orders feds",
         "critical gitea flaw",
         "twitter whistleblower complaint"

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-08 15:58 UTC  
+> **Last Updated:** 2026-07-08 17:41 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chinese firms compete** • **cybercrime group known** • **threat actor claimed** • **threat actor behind** • **cisa orders feds** • **critical gitea flaw** • **twitter whistleblower complaint** • **stolen 35 gb** • **github's agentic workflows** • **chinese llms broaden** • **activity cluster tracked** • **dire critical rating** • **modern phishing ecosystem** • **alleged victim believed** • **sensitive stolen data** • **critical infrastructure networks** • **t keep pace** • **stark industries solutions** • **specialized unit tasked** • **single http header**
+**services giant accenture** • **cybercrime group known** • **cisa orders feds** • **critical gitea flaw** • **twitter whistleblower complaint** • **stolen 35 gb** • **github's agentic workflows** • **catch human intruders** • **dire critical rating** • **modern phishing ecosystem** • **alleged victim believed** • **accenture confirms breach** • **access vulnerable repositories** • **sensitive stolen data** • **critical infrastructure networks** • **t keep pace** • **stark industries solutions** • **single http header** • **service delivery impact** • **resetting account passwords**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers](https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html)
+- [New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware](https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html)
 - [Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS](https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html)
 - [New Ghost Phishing Wave Is Breaking Traditional Email Security](https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html)
 - [SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users](https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html)
 - [GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures](https://thehackernews.com/2026/07/github-verified-commits-can-be.html)
 - [The Verification Step Is the New ATO Battleground in 2026](https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html)
 - [GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code](https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html)
-- [China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware](https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html)
-- [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
 
 ### BleepingComputer
 
+- [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
 - [3 Ways AI Powers Service Desk Attacks and How to Prevent Them](https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/)
 - [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
 - [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
@@ -34,7 +35,6 @@
 - [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 - [CISA orders feds to patch max severity ColdFusion flaw by Friday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/)
 - [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/)
-- [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Vidar Infostealer Hammers SMBs via Malvertising Campaign](https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign)
 - [State IDs for AI Agents: Will Estonia Set a Precedent?](https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia)
 - [Big Brand Jobs Scam Targets Marketing Pros' Google Accounts](https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts)
 - [Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft](https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft)
@@ -56,10 +57,10 @@
 - ['BusySnake' Infostealer Slithers Into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
 - [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
 - [JadePuffer: The First Complete LLM-Driven Ransomware Attack](https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack)
-- [Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders](https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders)
 
 ### Security Week
 
+- [Accenture Confirms Data Breach After Hacker Claims Source Code Theft](https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/)
 - [China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors](https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/)
 - [Webinar Today: Why Email Security Keeps Failing](https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/)
 - [Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations](https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/)
@@ -67,7 +68,6 @@
 - [Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection](https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/)
 - [County Government Reportedly Paid $1 Million to Cyber Extortion Group](https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/)
 - [Critical Gitea Flaw Under Active Exploitation, Researchers Warn](https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/)
-- [CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws](https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/)
 
 ### Threatpost
 

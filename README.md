@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-08 15:58 UTC |
+| 🕐 Last Updated | 2026-07-08 17:41 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chinese firms compete` • `cybercrime group known` • `threat actor claimed` • `threat actor behind` • `cisa orders feds` • `critical gitea flaw` • `twitter whistleblower complaint` • `stolen 35 gb` • `github's agentic workflows` • `chinese llms broaden`
+`services giant accenture` • `cybercrime group known` • `cisa orders feds` • `critical gitea flaw` • `twitter whistleblower complaint` • `stolen 35 gb` • `github's agentic workflows` • `catch human intruders` • `dire critical rating` • `modern phishing ecosystem`
 
 ## 📄 Reports
 

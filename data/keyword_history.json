@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2042,
+      "count": 2043,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3733,7 +3733,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17932,7 +17932,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18334,7 +18334,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18365,7 +18365,8 @@
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-08"
       ]
     },
     "remote web ui": {
@@ -20616,7 +20617,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21988,21 +21989,21 @@
       ]
     },
     "critical gitea flaw": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "github's agentic workflows": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22016,28 +22017,28 @@
       ]
     },
     "single http header": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "sensitive stolen data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "stolen 35 gb": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "services giant accenture": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
@@ -22067,7 +22068,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
@@ -22091,7 +22092,7 @@
       ]
     },
     "t keep pace": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
@@ -22103,12 +22104,36 @@
       ]
     },
     "modern phishing ecosystem": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
     },
     "critical infrastructure networks": {
+      "count": 2,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "catch human intruders": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "accenture confirms breach": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "access vulnerable repositories": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "service delivery impact": {
       "count": 1,
       "dates": [
         "2026-07-08"
@@ -22116,17 +22141,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-26 14:12",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "asian scam centers",
-        "providing sensitive data",
-        "twitter whistleblower complaint",
-        "october 2027 microsoft"
-      ]
-    },
     {
       "timestamp": "2026-06-26 17:42",
       "articles": 48,
@@ -23214,6 +23228,17 @@
         "threat actor claimed",
         "threat actor behind",
         "cisa orders feds"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 17:41",
+      "articles": 48,
+      "top_keywords": [
+        "services giant accenture",
+        "cybercrime group known",
+        "cisa orders feds",
+        "critical gitea flaw",
+        "twitter whistleblower complaint"
       ]
     }
   ]

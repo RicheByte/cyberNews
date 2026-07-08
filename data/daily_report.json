@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-07-08 15:58",
+  "last_updated": "2026-07-08 17:41",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "chinese firms compete",
+    "services giant accenture",
     "cybercrime group known",
-    "threat actor claimed",
-    "threat actor behind",
     "cisa orders feds",
     "critical gitea flaw",
     "twitter whistleblower complaint",
     "stolen 35 gb",
     "github's agentic workflows",
-    "chinese llms broaden",
-    "activity cluster tracked",
+    "catch human intruders",
     "dire critical rating",
     "modern phishing ecosystem",
     "alleged victim believed",
+    "accenture confirms breach",
+    "access vulnerable repositories",
     "sensitive stolen data",
     "critical infrastructure networks",
     "t keep pace",
     "stark industries solutions",
-    "specialized unit tasked",
-    "single http header"
+    "single http header",
+    "service delivery impact",
+    "resetting account passwords"
   ],
   "trending": [
     {
-      "keyword": "chinese firms compete",
-      "mentions": 43
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 118
-    },
-    {
-      "keyword": "threat actor claimed",
-      "mentions": 13
-    },
-    {
-      "keyword": "threat actor behind",
-      "mentions": 40
-    },
-    {
-      "keyword": "cisa orders feds",
+      "keyword": "services giant accenture",
       "mentions": 2
     },
     {
+      "keyword": "cybercrime group known",
+      "mentions": 119
+    },
+    {
+      "keyword": "cisa orders feds",
+      "mentions": 3
+    },
+    {
       "keyword": "critical gitea flaw",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2042
-    },
-    {
-      "keyword": "stolen 35 gb",
-      "mentions": 6
-    },
-    {
-      "keyword": "github's agentic workflows",
       "mentions": 9
     },
     {
-      "keyword": "chinese llms broaden",
-      "mentions": 43
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2043
+    },
+    {
+      "keyword": "stolen 35 gb",
+      "mentions": 7
+    },
+    {
+      "keyword": "github's agentic workflows",
+      "mentions": 10
+    },
+    {
+      "keyword": "catch human intruders",
+      "mentions": 1
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 239
+    },
+    {
+      "keyword": "modern phishing ecosystem",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
+      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
+      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack. Decrypting browser credentials, listing what sits in Windows' credential store,",
+      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
+      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's",
+      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
@@ -128,24 +148,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
-      "link": "https://thehackernews.com/2026/07/china-linked-uat-7810-expands-orb.html",
-      "summary": "A Chinese threat actor tracked as UAT-7810 is actively refining its bespoke malware to expand its Operational Relay Box (ORB) network by breaking into internet-facing networking devices. According to findings from Cisco Talos, UAT-7810 is an advanced persistent threat (APT) actor that's responsible for maintaining and proliferating LapDogs, an ORB network that first came to light in June 2025.",
-      "published": "Wed, 08 Jul 2026 14:34:33 +0530",
+      "source": "BleepingComputer",
+      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
+      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
+      "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
+      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
-      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
-      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network",
-      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -228,15 +237,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese hackers develop LONGLEASH malware to expand ORB network",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/",
-      "summary": "Chinese hackers tracked as 'UAT-7810' are actively evolving their malware to expand their Operational Relay Box (ORB) network by compromising internet-facing networking devices, primarily unpatched Ruckus routers. [...]",
-      "published": "Tue, 07 Jul 2026 14:52:19 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -324,6 +324,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
+      "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a malware two-for-one combo for data theft and cryptomining.",
+      "published": "Wed, 08 Jul 2026 16:45:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "State IDs for AI Agents: Will Estonia Set a Precedent?",
       "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
       "summary": "The world's digital testing ground plans to help people use AI agents for government purposes.",
@@ -396,13 +405,15 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
-      "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
-      "summary": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
-      "published": "Fri, 03 Jul 2026 13:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
+      "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
+      "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek .",
+      "published": "Wed, 08 Jul 2026 16:09:15 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -478,17 +489,6 @@
         "CVE mentioned",
         "High severity ×3",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws",
-      "link": "https://www.securityweek.com/cisa-reportedly-using-anthropics-mythos-to-scan-government-software-for-flaws/",
-      "summary": "The audits are reportedly being spearheaded by CISA’s Attack Surface Evaluation team, a specialized unit tasked with conducting digital defense assessments and simulated hacking exercises. The post CISA Reportedly Using Anthropic’s Mythos to Scan Government Software for Flaws appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 13:13:02 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×3"
       ]
     },
     {

@@ -1,72 +1,105 @@
 {
-  "last_updated": "2026-07-08 13:50",
+  "last_updated": "2026-07-08 15:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "threat actor claimed",
     "chinese firms compete",
     "cybercrime group known",
-    "building ai agents",
+    "threat actor claimed",
+    "threat actor behind",
     "cisa orders feds",
+    "critical gitea flaw",
     "twitter whistleblower complaint",
     "stolen 35 gb",
     "github's agentic workflows",
     "chinese llms broaden",
+    "activity cluster tracked",
+    "dire critical rating",
+    "modern phishing ecosystem",
     "alleged victim believed",
     "sensitive stolen data",
-    "critical gitea flaw",
-    "hijack ai conversations",
-    "ai coding assistant",
-    "dire critical rating",
-    "command injection attacks",
+    "critical infrastructure networks",
     "t keep pace",
     "stark industries solutions",
-    "sprawling phishing campaign",
-    "specialized unit tasked"
+    "specialized unit tasked",
+    "single http header"
   ],
   "trending": [
     {
-      "keyword": "threat actor claimed",
-      "mentions": 12
-    },
-    {
       "keyword": "chinese firms compete",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 117
+      "mentions": 118
     },
     {
-      "keyword": "building ai agents",
-      "mentions": 2
+      "keyword": "threat actor claimed",
+      "mentions": 13
+    },
+    {
+      "keyword": "threat actor behind",
+      "mentions": 40
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "critical gitea flaw",
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2041
+      "mentions": 2042
     },
     {
       "keyword": "stolen 35 gb",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "github's agentic workflows",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "chinese llms broaden",
-      "mentions": 42
-    },
-    {
-      "keyword": "alleged victim believed",
-      "mentions": 8
+      "mentions": 43
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
+      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
+      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker",
+      "published": "Wed, 08 Jul 2026 20:08:05 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Ghost Phishing Wave Is Breaking Traditional Email Security",
+      "link": "https://thehackernews.com/2026/07/new-ghost-phishing-wave-is-breaking.html",
+      "summary": "A recent EvilTokens campaign targeting businesses across the US and Europe is exposing a new email security blind spot. This “ghost phishing” technique keeps the malicious page hidden until it decrypts and comes to life inside the victim’s browser. For security leaders, the risk is clear: traditional URL checks may miss the attack while Microsoft 365 access, sensitive data, and response time",
+      "published": "Wed, 08 Jul 2026 18:30:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SCMBANKER Malware Uses ClickFix Lures to Target Mexican Banking Users",
+      "link": "https://thehackernews.com/2026/07/scmbanker-malware-uses-clickfix-lures.html",
+      "summary": "A new banking fraudulent operation is targeting customers of Mexican banks, fintech, payment processors, and cryptocurrency exchanges using ClickFix lures. The activity cluster, tracked by Elastic Security Labs under the moniker REF6045, involves infecting victims through fake CAPTCHA verification pages that deceive them into running a malicious command that installs a PowerShell toolkit dubbed",
+      "published": "Wed, 08 Jul 2026 18:22:15 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
@@ -115,38 +148,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerability in Adobe ColdFusion that could lead to arbitrary code execution in the context of the",
-      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
-      "value_score": 99,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×5",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
-      "link": "https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html",
-      "summary": "A new Android malware operation called RedWing is being rented out on Telegram as a ready-made bank-fraud service. It lets even low-skill criminals take over a victim's phone, steal their banking logins, and capture the one-time codes that protect their accounts. Zimperium's zLabs, which found the operation, says it looks like a new variant of Oblivion, a $300-a-month rent-a-malware tool",
-      "published": "Tue, 07 Jul 2026 22:40:15 +0530",
+      "source": "BleepingComputer",
+      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
+      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
+      "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
+      "published": "Wed, 08 Jul 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots",
-      "link": "https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html",
-      "summary": "A critical flaw in Google's Dialogflow CX could have let an attacker with edit rights on one Code Block-enabled agent compromise other Code Block-enabled agents in the same Google Cloud project. From there, they could read live conversations, steal the data users shared, and make the bots send attacker-written messages, including requests to re-enter a password. Security firm Varonis found it",
-      "published": "Tue, 07 Jul 2026 22:07:33 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -229,17 +237,6 @@
       "published": "Tue, 07 Jul 2026 14:52:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hidden backdoor in Tenda router firmware grants admin access",
-      "link": "https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/",
-      "summary": "A hidden authentication backdoor has been found in multiple Tenda router firmware versions, potentially allowing an attacker to gain administrative access to the device's web management panel. [...]",
-      "published": "Tue, 07 Jul 2026 13:27:22 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -409,6 +406,15 @@
     },
     {
       "source": "Security Week",
+      "title": "China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors",
+      "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
+      "summary": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors. The post China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors appeared first on SecurityWeek .",
+      "published": "Wed, 08 Jul 2026 15:42:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Webinar Today: Why Email Security Keeps Failing",
       "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
       "summary": "Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem. The post Webinar Today: Why Email Security Keeps Failing appeared first on SecurityWeek .",
@@ -483,19 +489,6 @@
       "value_score": 50,
       "value_signals": [
         "CISA/KEV ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Adobe ColdFusion Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/critical-adobe-coldfusion-vulnerability-exploited-in-attacks/",
-      "summary": "Hackers are exploiting a recently patched critical vulnerability (CVE-2026-48282) in Adobe ColdFusion that carries a CVSS score of 10/10. The post Critical Adobe ColdFusion Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 12:38:34 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×3",
-        "Exploit wording"
       ]
     },
     {

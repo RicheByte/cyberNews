@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-08 19:16 UTC |
+| 🕐 Last Updated | 2026-07-08 21:00 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `access vulnerable repositories` • `cisa orders feds` • `critical gitea flaw` • `twitter whistleblower complaint` • `github's agentic workflows` • `catch human intruders` • `activity cluster tracked` • `dire critical rating` • `modern phishing ecosystem`
+`critical gitea flaw` • `cybercrime group known` • `access vulnerable repositories` • `twitter whistleblower complaint` • `github's agentic workflows` • `cisa orders feds` • `catch human intruders` • `activity cluster tracked` • `dire critical rating` • `modern phishing ecosystem`
 
 ## 📄 Reports
 

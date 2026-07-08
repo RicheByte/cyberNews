@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2044,
+      "count": 2045,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3733,7 +3733,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 240,
+      "count": 241,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -17932,7 +17932,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18334,7 +18334,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18377,7 +18377,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19228,7 +19228,7 @@
       ]
     },
     "obama white house": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19238,7 +19238,8 @@
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-08"
       ]
     },
     "nearly three dozen": {
@@ -20617,7 +20618,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21989,21 +21990,21 @@
       ]
     },
     "critical gitea flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "github's agentic workflows": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22017,7 +22018,7 @@
       ]
     },
     "single http header": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22068,7 +22069,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-08"
       ]
@@ -22092,19 +22093,19 @@
       ]
     },
     "t keep pace": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-08"
       ]
     },
     "activity cluster tracked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
     },
     "modern phishing ecosystem": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
@@ -22116,7 +22117,7 @@
       ]
     },
     "catch human intruders": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
@@ -22128,13 +22129,13 @@
       ]
     },
     "access vulnerable repositories": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
     },
     "service delivery impact": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-08"
       ]
@@ -22144,20 +22145,21 @@
       "dates": [
         "2026-07-08"
       ]
+    },
+    "org's public repository": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "neteller payment applications": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-26 19:40",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "providing sensitive data",
-        "estimated 3 million",
-        "ai won't wipe",
-        "ukrainian targets turla"
-      ]
-    },
     {
       "timestamp": "2026-06-26 21:14",
       "articles": 40,
@@ -23245,6 +23247,17 @@
         "cisa orders feds",
         "critical gitea flaw",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 21:00",
+      "articles": 48,
+      "top_keywords": [
+        "critical gitea flaw",
+        "cybercrime group known",
+        "access vulnerable repositories",
+        "twitter whistleblower complaint",
+        "github's agentic workflows"
       ]
     }
   ]

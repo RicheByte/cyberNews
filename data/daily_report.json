@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-08 19:16",
+  "last_updated": "2026-07-08 21:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "critical gitea flaw",
     "cybercrime group known",
     "access vulnerable repositories",
-    "cisa orders feds",
-    "critical gitea flaw",
     "twitter whistleblower complaint",
     "github's agentic workflows",
+    "cisa orders feds",
     "catch human intruders",
     "activity cluster tracked",
     "dire critical rating",
     "modern phishing ecosystem",
     "alleged victim believed",
-    "sensitive stolen data",
-    "critical infrastructure networks",
     "t keep pace",
     "stark industries solutions",
     "single http header",
     "service delivery impact",
     "resetting account passwords",
-    "production database server",
-    "pro iranian images"
+    "pro iranian images",
+    "org's public repository",
+    "obama white house",
+    "neteller payment applications"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 120
-    },
-    {
-      "keyword": "access vulnerable repositories",
-      "mentions": 2
-    },
-    {
-      "keyword": "cisa orders feds",
-      "mentions": 4
-    },
-    {
       "keyword": "critical gitea flaw",
-      "mentions": 10
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2044
-    },
-    {
-      "keyword": "github's agentic workflows",
       "mentions": 11
     },
     {
+      "keyword": "cybercrime group known",
+      "mentions": 121
+    },
+    {
+      "keyword": "access vulnerable repositories",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2045
+    },
+    {
+      "keyword": "github's agentic workflows",
+      "mentions": 12
+    },
+    {
+      "keyword": "cisa orders feds",
+      "mentions": 5
+    },
+    {
       "keyword": "catch human intruders",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "activity cluster tracked",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 240
+      "mentions": 241
     },
     {
       "keyword": "modern phishing ecosystem",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
+      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
+      "published": "Wed, 08 Jul 2026 15:54:59 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
       "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
@@ -222,20 +231,6 @@
       "value_signals": [
         "Patch/update",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch max severity ColdFusion flaw by Friday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-coldfusion-flaw-by-friday/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered government agencies to patch an actively exploited maximum-severity flaw in the Adobe ColdFusion commercial web app development platform by Friday. [...]",
-      "published": "Wed, 08 Jul 2026 03:16:55 -0400",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update ×2",
-        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },
@@ -325,6 +320,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours",
+      "link": "https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment",
+      "summary": "The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer.",
+      "published": "Wed, 08 Jul 2026 20:32:22 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
       "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a malware two-for-one combo for data theft and cryptomining.",
@@ -390,18 +397,6 @@
       "value_score": 26,
       "value_signals": [
         "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "JadePuffer: The First Complete LLM-Driven Ransomware Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/jadepuffer-first-complete-llm-driven-ransomware-attack",
-      "summary": "An \"agentic threat actor\" successfully exploited a Langflow flaw to steal data from a production database server and encrypt other systems.",
-      "published": "Mon, 06 Jul 2026 16:36:50 GMT",
-      "value_score": 34,
-      "value_signals": [
-        "Ransomware",
         "Exploit wording"
       ]
     },

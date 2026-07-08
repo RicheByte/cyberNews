@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2038,
+      "count": 2039,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -14406,7 +14406,7 @@
       ]
     },
     "threat actor claimed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -17930,7 +17930,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18374,7 +18374,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20614,7 +20614,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21684,7 +21684,7 @@
       ]
     },
     "chinese firms compete": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21695,7 +21695,7 @@
       ]
     },
     "top us mainstream": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-03",
         "2026-07-07",
@@ -21703,7 +21703,7 @@
       ]
     },
     "chinese llms broaden": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21914,7 +21914,7 @@
       ]
     },
     "windows settings backup": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -21927,14 +21927,14 @@
       ]
     },
     "post quantum threats": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "windows 11 26h2": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -21953,9 +21953,10 @@
       ]
     },
     "simulated hacking exercises": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-08"
       ]
     },
     "cryptographic security platform": {
@@ -21966,7 +21967,7 @@
       ]
     },
     "specialized unit tasked": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -21992,59 +21993,55 @@
       ]
     },
     "github's agentic workflows": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "silently pull data": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "single http header": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-08"
       ]
     },
     "sensitive stolen data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "stolen 35 gb": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-07",
+        "2026-07-08"
+      ]
+    },
+    "services giant accenture": {
+      "count": 1,
+      "dates": [
         "2026-07-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-25 23:12",
-      "articles": 48,
-      "top_keywords": [
-        "law enforcement efforts",
-        "cybercrime group known",
-        "execute arbitrary commands",
-        "asian scam centers",
-        "infrastructure threats continue"
-      ]
-    },
     {
       "timestamp": "2026-06-26 02:50",
       "articles": 48,
@@ -23132,6 +23129,17 @@
         "twitter whistleblower complaint",
         "chinese firms compete",
         "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 06:23",
+      "articles": 48,
+      "top_keywords": [
+        "post quantum threats",
+        "twitter whistleblower complaint",
+        "chinese firms compete",
+        "cybercrime group known",
+        "windows settings backup"
       ]
     }
   ]

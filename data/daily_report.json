@@ -1,72 +1,97 @@
 {
-  "last_updated": "2026-07-08 02:10",
+  "last_updated": "2026-07-08 06:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "windows settings backup",
     "post quantum threats",
     "twitter whistleblower complaint",
     "chinese firms compete",
     "cybercrime group known",
+    "windows settings backup",
     "pro iranian images",
     "github's agentic workflows",
     "alleged victim believed",
     "chinese llms broaden",
     "windows 11 26h2",
-    "critical gitea flaw",
-    "dire critical rating",
-    "cryptographic security platform",
     "silently pull data",
     "sensitive stolen data",
     "top us mainstream",
     "threat actor claimed",
     "stolen 35 gb",
     "stark industries solutions",
-    "specialized unit tasked"
+    "specialized unit tasked",
+    "single http header",
+    "simulated hacking exercises",
+    "services giant accenture"
   ],
   "trending": [
     {
-      "keyword": "windows settings backup",
-      "mentions": 7
-    },
-    {
       "keyword": "post quantum threats",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2038
+      "mentions": 2039
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 114
+      "mentions": 115
+    },
+    {
+      "keyword": "windows settings backup",
+      "mentions": 8
     },
     {
       "keyword": "pro iranian images",
-      "mentions": 74
+      "mentions": 75
     },
     {
       "keyword": "github's agentic workflows",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "alleged victim believed",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "chinese llms broaden",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "windows 11 26h2",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros",
+      "link": "https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html",
+      "summary": "Researchers at Nebula Security have disclosed GhostLock (CVE-2026-43499), a 15-year-old Linux kernel flaw that lets any logged-in user take full root control of a machine that has not been patched. The vulnerable code has shipped by default in essentially every mainstream distribution since 2011. The flaw needs no special permission, no unusual settings, and no network",
+      "published": "Wed, 08 Jul 2026 11:46:44 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "CVE mentioned"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four security flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerabilities are listed below - CVE-2026-48282 (CVSS score: 10.0) - A path traversal vulnerability in Adobe ColdFusion that could lead to arbitrary code execution in the context of the",
+      "published": "Wed, 08 Jul 2026 11:03:12 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service",
@@ -126,28 +151,6 @@
       "value_signals": [
         "Breach/leak",
         "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "What Changes When Your Software Supply Chain Includes AI Writing Your Code?",
-      "link": "https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html",
-      "summary": "Software supply chain security was hard enough. Then AI joined the build pipeline. For five years, \"software supply chain security\" meant one question: what's in your code? Which open-source packages, which versions, which transitive dependencies three layers deep that nobody chose on purpose? SolarWinds, Log4Shell, and XZ Utils all taught the same lesson: the risk lives less in the code a",
-      "published": "Tue, 07 Jul 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
-      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
-      "summary": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,",
-      "published": "Tue, 07 Jul 2026 14:40:51 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-08 02:10 UTC  
+> **Last Updated:** 2026-07-08 06:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows settings backup** • **post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **chinese llms broaden** • **windows 11 26h2** • **critical gitea flaw** • **dire critical rating** • **cryptographic security platform** • **silently pull data** • **sensitive stolen data** • **top us mainstream** • **threat actor claimed** • **stolen 35 gb** • **stark industries solutions** • **specialized unit tasked**
+**post quantum threats** • **twitter whistleblower complaint** • **chinese firms compete** • **cybercrime group known** • **windows settings backup** • **pro iranian images** • **github's agentic workflows** • **alleged victim believed** • **chinese llms broaden** • **windows 11 26h2** • **silently pull data** • **sensitive stolen data** • **top us mainstream** • **threat actor claimed** • **stolen 35 gb** • **stark industries solutions** • **specialized unit tasked** • **single http header** • **simulated hacking exercises** • **services giant accenture**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [15-Year-Old GhostLock Flaw Enables Root and Container Escape on Most Linux Distros](https://thehackernews.com/2026/07/15-year-old-ghostlock-flaw-enables-root.html)
+- [CISA Adds 4 Actively Exploited Adobe, Joomla, and Langflow Flaws to KEV](https://thehackernews.com/2026/07/cisa-adds-4-actively-exploited-adobe.html)
 - [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html)
 - [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html)
 - [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html)
 - [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html)
 - [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html)
 - [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html)
-- [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html)
-- [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html)
 
 ### BleepingComputer
 

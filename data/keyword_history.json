@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2045,
+      "count": 2046,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3733,7 +3733,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 241,
+      "count": 242,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -12297,10 +12297,11 @@
       ]
     },
     "actively exploited vulnerability": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-31",
-        "2026-04-07"
+        "2026-04-07",
+        "2026-07-08"
       ]
     },
     "threat group's shift": {
@@ -17932,7 +17933,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18334,7 +18335,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18377,7 +18378,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20618,7 +20619,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21990,21 +21991,21 @@
       ]
     },
     "critical gitea flaw": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "github's agentic workflows": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22018,7 +22019,7 @@
       ]
     },
     "single http header": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22069,13 +22070,13 @@
       ]
     },
     "cisa orders feds": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-08"
       ]
     },
     "hijack ai conversations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
@@ -22093,19 +22094,19 @@
       ]
     },
     "t keep pace": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-08"
       ]
     },
     "activity cluster tracked": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
     },
     "modern phishing ecosystem": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-08"
       ]
@@ -22117,7 +22118,7 @@
       ]
     },
     "catch human intruders": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
@@ -22129,13 +22130,13 @@
       ]
     },
     "access vulnerable repositories": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
     },
     "service delivery impact": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08"
       ]
@@ -22147,7 +22148,7 @@
       ]
     },
     "org's public repository": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
@@ -22160,17 +22161,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-26 21:14",
-      "articles": 40,
-      "top_keywords": [
-        "cybercrime group known",
-        "providing sensitive data",
-        "estimated 3 million",
-        "twitter whistleblower complaint",
-        "account's backup read"
-      ]
-    },
     {
       "timestamp": "2026-06-26 23:01",
       "articles": 48,
@@ -23258,6 +23248,17 @@
         "access vulnerable repositories",
         "twitter whistleblower complaint",
         "github's agentic workflows"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 22:59",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "access vulnerable repositories",
+        "actively exploited vulnerability",
+        "critical gitea flaw",
+        "twitter whistleblower complaint"
       ]
     }
   ]

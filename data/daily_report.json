@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-08 21:00",
+  "last_updated": "2026-07-08 22:59",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "critical gitea flaw",
     "cybercrime group known",
     "access vulnerable repositories",
+    "actively exploited vulnerability",
+    "critical gitea flaw",
     "twitter whistleblower complaint",
     "github's agentic workflows",
     "cisa orders feds",
     "catch human intruders",
     "activity cluster tracked",
-    "dire critical rating",
     "modern phishing ecosystem",
     "alleged victim believed",
+    "dire critical rating",
+    "hijack ai conversations",
     "t keep pace",
     "stark industries solutions",
     "single http header",
     "service delivery impact",
     "resetting account passwords",
     "pro iranian images",
-    "org's public repository",
-    "obama white house",
-    "neteller payment applications"
+    "org's public repository"
   ],
   "trending": [
     {
-      "keyword": "critical gitea flaw",
-      "mentions": 11
-    },
-    {
       "keyword": "cybercrime group known",
-      "mentions": 121
+      "mentions": 122
     },
     {
       "keyword": "access vulnerable repositories",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2045
+      "keyword": "actively exploited vulnerability",
+      "mentions": 6
     },
     {
-      "keyword": "github's agentic workflows",
+      "keyword": "critical gitea flaw",
       "mentions": 12
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2046
+    },
+    {
+      "keyword": "github's agentic workflows",
+      "mentions": 13
+    },
+    {
       "keyword": "cisa orders feds",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "catch human intruders",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "activity cluster tracked",
-      "mentions": 3
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 241
+      "mentions": 4
     },
     {
       "keyword": "modern phishing ecosystem",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -149,6 +149,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Mount Royal University confirms breach as hackers claim attack",
+      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
+      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
+      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
       "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
       "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
@@ -218,19 +229,6 @@
         "Auth bypass",
         "Patch/update",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ubiquiti warns of new max severity  UniFi OS vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/",
-      "summary": "Ubiquiti has released security updates to patch seven critical vulnerabilities in UniFi OS, including a maximum-severity flaw that can be exploited in command injection attacks. [...]",
-      "published": "Wed, 08 Jul 2026 04:15:20 -0400",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -320,6 +318,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Mexico's New Cyber Plan Faces Its First Real Test",
+      "link": "https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test",
+      "summary": "The Latin American nation's cybersecurity plan — still in the expansion phase — has to survive its own knockout round during the FIFA World Cup.",
+      "published": "Wed, 08 Jul 2026 21:34:21 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours",
       "link": "https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment",
       "summary": "The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer.",
@@ -386,18 +393,6 @@
       "value_score": 18,
       "value_signals": [
         "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CitrixBleed-ing Again? NetScaler Vulnerability Under Attack",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack",
-      "summary": "Attackers wasted little time targeting the latest memory disclosure flaw in Citrix's NetScaler products, after researchers published a proof-of-concept exploit (PoC).",
-      "published": "Mon, 06 Jul 2026 21:17:42 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
-        "Exploit wording"
       ]
     },
     {

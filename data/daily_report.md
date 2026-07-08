@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-08 21:00 UTC  
+> **Last Updated:** 2026-07-08 22:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical gitea flaw** • **cybercrime group known** • **access vulnerable repositories** • **twitter whistleblower complaint** • **github's agentic workflows** • **cisa orders feds** • **catch human intruders** • **activity cluster tracked** • **dire critical rating** • **modern phishing ecosystem** • **alleged victim believed** • **t keep pace** • **stark industries solutions** • **single http header** • **service delivery impact** • **resetting account passwords** • **pro iranian images** • **org's public repository** • **obama white house** • **neteller payment applications**
+**cybercrime group known** • **access vulnerable repositories** • **actively exploited vulnerability** • **critical gitea flaw** • **twitter whistleblower complaint** • **github's agentic workflows** • **cisa orders feds** • **catch human intruders** • **activity cluster tracked** • **modern phishing ecosystem** • **alleged victim believed** • **dire critical rating** • **hijack ai conversations** • **t keep pace** • **stark industries solutions** • **single http header** • **service delivery impact** • **resetting account passwords** • **pro iranian images** • **org's public repository**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Mount Royal University confirms breach as hackers claim attack](https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/)
 - [Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials](https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/)
 - [Hackers exploit Roundcube flaw to spy on academic researchers](https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/)
 - [Entra passkey enrollment vishing targets Microsoft 365 users](https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/)
@@ -34,7 +35,6 @@
 - [DuckDuckGo browser now blocks YouTube video ads](https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/)
 - [Telco giant KDDI says data breach affects over 12 million people](https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/)
 - [CISA orders feds to prioritize patching Langflow auth bypass flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/)
-- [Ubiquiti warns of new max severity  UniFi OS vulnerability](https://www.bleepingcomputer.com/news/security/ubiquiti-warns-of-new-max-severity-unifi-os-vulnerability/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Mexico's New Cyber Plan Faces Its First Real Test](https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test)
 - [Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours](https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment)
 - [Vidar Infostealer Hammers SMBs via Malvertising Campaign](https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign)
 - [State IDs for AI Agents: Will Estonia Set a Precedent?](https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia)
@@ -56,7 +57,6 @@
 - [Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft](https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft)
 - ['GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows](https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows)
 - ['BusySnake' Infostealer Slithers Into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks)
-- [CitrixBleed-ing Again? NetScaler Vulnerability Under Attack](https://www.darkreading.com/vulnerabilities-threats/citrixbleed-ing-again-netscaler-vulnerability-under-attack)
 
 ### Security Week
 

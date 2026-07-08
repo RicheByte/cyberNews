@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-08 10:11 UTC |
+| 🕐 Last Updated | 2026-07-08 13:50 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`post quantum threats` • `twitter whistleblower complaint` • `threat actor claimed` • `chinese firms compete` • `github's agentic workflows` • `cybercrime group known` • `pro iranian images` • `microsoft records tied` • `chinese llms broaden` • `building ai agents`
+`threat actor claimed` • `chinese firms compete` • `cybercrime group known` • `building ai agents` • `cisa orders feds` • `twitter whistleblower complaint` • `stolen 35 gb` • `github's agentic workflows` • `chinese llms broaden` • `alleged victim believed`
 
 ## 📄 Reports
 

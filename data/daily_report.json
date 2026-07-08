@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-07-08 10:11",
+  "last_updated": "2026-07-08 13:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "post quantum threats",
-    "twitter whistleblower complaint",
     "threat actor claimed",
     "chinese firms compete",
-    "github's agentic workflows",
     "cybercrime group known",
-    "pro iranian images",
-    "microsoft records tied",
-    "chinese llms broaden",
     "building ai agents",
-    "alleged victim believed",
-    "ci cd workflows",
-    "critical gitea flaw",
-    "dire critical rating",
-    "silently pull data",
-    "sensitive stolen data",
-    "unifi os including",
-    "top us mainstream",
+    "cisa orders feds",
+    "twitter whistleblower complaint",
     "stolen 35 gb",
-    "stark industries solutions"
+    "github's agentic workflows",
+    "chinese llms broaden",
+    "alleged victim believed",
+    "sensitive stolen data",
+    "critical gitea flaw",
+    "hijack ai conversations",
+    "ai coding assistant",
+    "dire critical rating",
+    "command injection attacks",
+    "t keep pace",
+    "stark industries solutions",
+    "sprawling phishing campaign",
+    "specialized unit tasked"
   ],
   "trending": [
     {
-      "keyword": "post quantum threats",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2040
-    },
-    {
       "keyword": "threat actor claimed",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "chinese firms compete",
-      "mentions": 41
-    },
-    {
-      "keyword": "github's agentic workflows",
-      "mentions": 7
+      "mentions": 42
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 116
-    },
-    {
-      "keyword": "pro iranian images",
-      "mentions": 76
-    },
-    {
-      "keyword": "microsoft records tied",
-      "mentions": 1
-    },
-    {
-      "keyword": "chinese llms broaden",
-      "mentions": 41
+      "mentions": 117
     },
     {
       "keyword": "building ai agents",
+      "mentions": 2
+    },
+    {
+      "keyword": "cisa orders feds",
       "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2041
+    },
+    {
+      "keyword": "stolen 35 gb",
+      "mentions": 5
+    },
+    {
+      "keyword": "github's agentic workflows",
+      "mentions": 8
+    },
+    {
+      "keyword": "chinese llms broaden",
+      "mentions": 42
+    },
+    {
+      "keyword": "alleged victim believed",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
+      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
+      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Verified.\" Everything a reviewer would check matches. The commit's hash does not. That matters",
+      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Verification Step Is the New ATO Battleground in 2026",
+      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
+      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to kick in. Passkeys are now mainstream.",
+      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
+      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
+      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copilot by researchers Abhishek Kumar and Carsten Maple. The models they tested through Copilot, Claude from Anthropic, and Gemini from Google, refused",
+      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "China-Linked UAT-7810 Expands ORB Network With New LONGLEASH Malware",
@@ -122,33 +149,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts",
-      "link": "https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html",
-      "summary": "A Microsoft 365 device code phishing campaign has been observed leveraging collaboration-themed lures to take control of victim accounts between the last week of June 2026 and into early July, per findings from ZeroBEC. \"The campaign did not depend on a fake Microsoft password page. It used a malicious collaboration-style lure to push users into the legitimate Microsoft device login experience,",
-      "published": "Tue, 07 Jul 2026 20:44:14 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "DuckDuckGo browser now blocks YouTube video ads",
+      "link": "https://www.bleepingcomputer.com/news/software/duckduckgo-browser-now-blocks-youtube-video-ads/",
+      "summary": "DuckDuckGo announced that its browser can now block most video ads on YouTube, including those shown before the video starts playing and during playback. [...]",
+      "published": "Wed, 08 Jul 2026 08:00:00 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Telco giant KDDI says data breach affects over 12 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/japanese-telecom-giant-kddi-says-data-breach-affects-12-million-people/",
+      "summary": "Japanese telecommunications giant KDDI says that millions of people had their email addresses and passwords exposed after attackers breached an email platform used by five internet service providers (ISPs) in the country. [...]",
+      "published": "Wed, 08 Jul 2026 07:24:16 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Phishing"
+        "Breach/leak"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data",
-      "link": "https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html",
-      "summary": "A public issue can trick GitHub Agentic Workflows into leaking the contents of an organization's private repositories, researchers at Noma Security have shown. The attacker needs only to open a normal-looking issue on a public repository, with no stolen credentials and no access to the organization. If that organization has given the agent read access across its repositories, private ones",
-      "published": "Tue, 07 Jul 2026 19:34:50 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker",
-      "link": "https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html",
-      "summary": "U.S. prosecutors linked an alleged Scattered Spider hacker to a break-in at a luxury jewelry retailer using a persistent Windows device ID, according to a newly unsealed federal complaint. Microsoft records tied that ID first to the account the attackers used to keep access during the May 2025 intrusion, then to online accounts prosecutors say belong to 19-year-old Peter Stokes. Stokes is",
-      "published": "Tue, 07 Jul 2026 18:57:20 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,22 +242,15 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Spain arrests suspected member of pro-Russian hacktivist groups",
-      "link": "https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/",
-      "summary": "The National Police in Spain have arrested a man who is suspected of being an active member of the CyberArmy of Russia Reborn (CARR) and Z-Pentest, both pro-Russian hacktivist groups. [...]",
-      "published": "Tue, 07 Jul 2026 11:21:21 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The GitHub Actions Attack Pattern Your CI Security Scanners Miss",
-      "link": "https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/",
-      "summary": "ActiveState explains how GitHub Actions attack chains can evade traditional CI security scanners, why passing a scan doesn't guarantee a secure pipeline, and how organizations can better govern their CI/CD workflows. [...]",
-      "published": "Tue, 07 Jul 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Felons, Fraudsters Flog Offensive Cybersecurity Startup",
+      "link": "https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/",
+      "summary": "A cybersecurity startup dangling millions of dollars to acquire zero-day security vulnerabilities in popular software is run by a pair of far-right conspiracy theorists and convicted felons whose most recent ventures included fake intelligence companies and a now-defunct AI-based lobbying platform they operated under assumed names.",
+      "published": "Wed, 08 Jul 2026 12:31:39 +0000",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -313,18 +324,6 @@
       "published": "Mon, 25 May 2026 13:21:49 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Krebs on Security",
-      "title": "Lawmakers Demand Answers as CISA Tries to Contain Data Leak",
-      "link": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-      "summary": "Lawmakers in both houses of Congress are demanding answers from the U.S. Cybersecurity & Infrastructure Security Agency (CISA) after KrebsOnSecurity reported this week that a CISA contractor intentionally published AWS GovCloud keys and a vast trove of other agency secrets on a public GitHub account. The inquiry comes as CISA is still struggling to contain the breach and invalidate the leaked credentials.",
-      "published": "Fri, 22 May 2026 16:34:24 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Breach/leak ×2",
-        "CISA/KEV ×4"
-      ]
     },
     {
       "source": "Dark Reading",
@@ -410,6 +409,51 @@
     },
     {
       "source": "Security Week",
+      "title": "Webinar Today: Why Email Security Keeps Failing",
+      "link": "https://www.securityweek.com/webinar-today-why-email-security-keeps-failing/",
+      "summary": "Join the webinar as we break down why email-layer defenses alone can’t keep pace with the modern phishing ecosystem. The post Webinar Today: Why Email Security Keeps Failing appeared first on SecurityWeek .",
+      "published": "Wed, 08 Jul 2026 13:16:28 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations",
+      "link": "https://www.securityweek.com/google-dialogflow-cx-bug-allowed-attackers-to-hijack-ai-conversations/",
+      "summary": "The \"Rogue Agent\" vulnerability could have enabled attackers to silently manipulate AI conversations, exfiltrate data, and compromise every Dialogflow CX agent within the same Google Cloud project. The post Google Dialogflow CX Bug Allowed Attackers to Hijack AI Conversations appeared first on SecurityWeek .",
+      "published": "Wed, 08 Jul 2026 12:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-coldfusion-langflow-joomla-flaws/",
+      "summary": "Two newly disclosed critical vulnerabilities in Adobe ColdFusion and Langflow join two Joomla extension flaws in CISA's Known Exploited Vulnerabilities catalog, with federal agencies given until July 10 to patch. The post CISA Urges Immediate Patching of Exploited ColdFusion, Langflow, Joomla Flaws appeared first on SecurityWeek .",
+      "published": "Wed, 08 Jul 2026 10:45:25 +0000",
+      "value_score": 72,
+      "value_signals": [
+        "Patch/update",
+        "CISA/KEV ×4",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
+      "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
+      "summary": "Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication. The post Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection appeared first on SecurityWeek .",
+      "published": "Wed, 08 Jul 2026 10:30:55 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
       "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
       "summary": "The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data. The post County Government Reportedly Paid $1 Million to Cyber Extortion Group appeared first on SecurityWeek .",
@@ -453,42 +497,6 @@
         "High severity ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks",
-      "link": "https://www.securityweek.com/iran-linked-hackers-using-modular-cc-framework-in-cyberattacks/",
-      "summary": "Researchers say the Iran-linked threat actor used an adaptable modular malware framework and compromised IT service providers to reach high-value targets in Israel. The post Iran-Linked Hackers Using Modular C&C Framework in Cyberattacks appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 12:21:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker",
-      "link": "https://www.securityweek.com/ciso-conversations-tarah-wheeler-cybersecurity-leader-thought-leader-and-original-thinker/",
-      "summary": "Tarah Wheeler is CISO at TPO Group, a firm that provides cybersecurity consultancy for high-stakes organizations. But despite this elevated position, her journey was far from typical. The post CISO Conversations: Tarah Wheeler, Cybersecurity Leader, Thought Leader and Original Thinker appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
-      "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
-      "summary": "The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host. The post Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
-      "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
-      "summary": "The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats. The post Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 09:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

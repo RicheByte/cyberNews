@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2040,
+      "count": 2041,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1832,7 +1832,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 445,
+      "count": 446,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1917,7 +1917,8 @@
         "2026-06-19",
         "2026-06-20",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-08"
       ]
     },
     "model agnostic abstractions": {
@@ -3732,7 +3733,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 236,
+      "count": 237,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -14406,7 +14407,7 @@
       ]
     },
     "threat actor claimed": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -17930,7 +17931,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -20614,7 +20615,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21684,7 +21685,7 @@
       ]
     },
     "chinese firms compete": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21703,7 +21704,7 @@
       ]
     },
     "chinese llms broaden": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21967,7 +21968,7 @@
       ]
     },
     "specialized unit tasked": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -21986,21 +21987,21 @@
       ]
     },
     "critical gitea flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "github's agentic workflows": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22021,14 +22022,14 @@
       ]
     },
     "sensitive stolen data": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "stolen 35 gb": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22047,7 +22048,7 @@
       ]
     },
     "building ai agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-08"
       ]
@@ -22063,20 +22064,39 @@
       "dates": [
         "2026-07-08"
       ]
+    },
+    "cisa orders feds": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "hijack ai conversations": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "ai coding assistant": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "command injection attacks": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "t keep pace": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-26 07:44",
-      "articles": 48,
-      "top_keywords": [
-        "law enforcement efforts",
-        "cybercrime group known",
-        "execute arbitrary commands",
-        "asian scam centers",
-        "infrastructure threats continue"
-      ]
-    },
     {
       "timestamp": "2026-06-26 10:46",
       "articles": 48,
@@ -23164,6 +23184,17 @@
         "threat actor claimed",
         "chinese firms compete",
         "github's agentic workflows"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 13:50",
+      "articles": 48,
+      "top_keywords": [
+        "threat actor claimed",
+        "chinese firms compete",
+        "cybercrime group known",
+        "building ai agents",
+        "cisa orders feds"
       ]
     }
   ]

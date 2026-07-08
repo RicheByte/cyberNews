@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2039,
+      "count": 2040,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3732,7 +3732,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 235,
+      "count": 236,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -14406,7 +14406,7 @@
       ]
     },
     "threat actor claimed": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-21",
         "2026-04-22",
@@ -17930,7 +17930,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18374,7 +18374,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20614,7 +20614,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21684,7 +21684,7 @@
       ]
     },
     "chinese firms compete": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21695,7 +21695,7 @@
       ]
     },
     "top us mainstream": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-03",
         "2026-07-07",
@@ -21703,7 +21703,7 @@
       ]
     },
     "chinese llms broaden": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-07-03",
         "2026-07-04",
@@ -21927,7 +21927,7 @@
       ]
     },
     "post quantum threats": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -21986,28 +21986,28 @@
       ]
     },
     "critical gitea flaw": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "github's agentic workflows": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "alleged victim believed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "silently pull data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22021,14 +22021,14 @@
       ]
     },
     "sensitive stolen data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-07",
         "2026-07-08"
       ]
     },
     "stolen 35 gb": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-07",
         "2026-07-08"
@@ -22039,20 +22039,33 @@
       "dates": [
         "2026-07-08"
       ]
+    },
+    "microsoft records tied": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "building ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "ci cd workflows": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
+    },
+    "unifi os including": {
+      "count": 1,
+      "dates": [
+        "2026-07-08"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-26 02:50",
-      "articles": 48,
-      "top_keywords": [
-        "law enforcement efforts",
-        "cybercrime group known",
-        "execute arbitrary commands",
-        "asian scam centers",
-        "infrastructure threats continue"
-      ]
-    },
     {
       "timestamp": "2026-06-26 07:44",
       "articles": 48,
@@ -23140,6 +23153,17 @@
         "chinese firms compete",
         "cybercrime group known",
         "windows settings backup"
+      ]
+    },
+    {
+      "timestamp": "2026-07-08 10:11",
+      "articles": 48,
+      "top_keywords": [
+        "post quantum threats",
+        "twitter whistleblower complaint",
+        "threat actor claimed",
+        "chinese firms compete",
+        "github's agentic workflows"
       ]
     }
   ]

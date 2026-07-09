@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-09 17:50 UTC  
+> **Last Updated:** 2026-07-09 19:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**12 million impacted** • **exchange server microsoft** • **privilege escalation issue** • **npm version 12** • **cybercrime group known** • **fast attacks move** • **ai coding agent** • **twitter whistleblower complaint** • **third party system** • **seized 293 million** • **resetting account passwords** • **kddi email system** • **install scripts disabled** • **cve 2026 50656** • **clearinghouses everyone seems** • **tool gets trusted** • **link gets clicked** • **defender vulnerability known** • **meta ai app** • **generate ai content**
+**12 million impacted** • **privilege escalation issue** • **exchange server microsoft** • **npm version 12** • **cybercrime group known** • **fast attacks move** • **twitter whistleblower complaint** • **third party system** • **seized 293 million** • **resetting account passwords** • **kddi email system** • **install scripts disabled** • **cve 2026 50656** • **clearinghouses everyone seems** • **automated scraping tooling** • **link gets clicked** • **defender vulnerability known** • **ai driven automation** • **uk government rolls** • **whole disk overwrite**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html)
+- [New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware](https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html)
 - [npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk](https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html)
 - [ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories](https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html)
 - [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
 - [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
 - [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
 - [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
-- [Meta's New AI Image Tool Lets Others Use Your Public Instagram Photos in AI Images](https://thehackernews.com/2026/07/metas-new-ai-image-tool-lets-others-use.html)
-- [Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It](https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html)
 
 ### BleepingComputer
 

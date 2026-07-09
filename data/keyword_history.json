@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2052,
+      "count": 2053,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18342,7 +18342,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20629,7 +20629,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22215,19 +22215,19 @@
       ]
     },
     "defender vulnerability known": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-09"
       ]
     },
     "seized 293 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-09"
       ]
     },
     "cve 2026 50656": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-09"
       ]
@@ -22251,49 +22251,49 @@
       ]
     },
     "12 million impacted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-09"
       ]
     },
     "exchange server microsoft": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-09"
       ]
     },
     "privilege escalation issue": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-09"
       ]
     },
     "third party system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-09"
       ]
     },
     "kddi email system": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-09"
       ]
     },
     "clearinghouses everyone seems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-09"
       ]
     },
     "ai driven automation": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
     },
     "uk government rolls": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
@@ -22305,19 +22305,19 @@
       ]
     },
     "npm version 12": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
     },
     "fast attacks move": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
     },
     "install scripts disabled": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
@@ -22329,13 +22329,13 @@
       ]
     },
     "link gets clicked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
     },
     "automated scraping tooling": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
@@ -22345,20 +22345,15 @@
       "dates": [
         "2026-07-09"
       ]
+    },
+    "government s determination": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-27 17:04",
-      "articles": 40,
-      "top_keywords": [
-        "cybercrime group known",
-        "estimated 3 million",
-        "twitter whistleblower complaint",
-        "fast spreading internet",
-        "creating openai tenants"
-      ]
-    },
     {
       "timestamp": "2026-06-27 19:12",
       "articles": 48,
@@ -23446,6 +23441,17 @@
         "exchange server microsoft",
         "npm version 12",
         "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-09 21:18",
+      "articles": 48,
+      "top_keywords": [
+        "12 million impacted",
+        "privilege escalation issue",
+        "exchange server microsoft",
+        "fast attacks move",
+        "npm version 12"
       ]
     }
   ]

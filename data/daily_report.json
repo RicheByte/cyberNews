@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-09 19:36",
+  "last_updated": "2026-07-09 21:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "12 million impacted",
     "privilege escalation issue",
     "exchange server microsoft",
-    "npm version 12",
-    "cybercrime group known",
     "fast attacks move",
+    "npm version 12",
+    "uk government rolls",
     "twitter whistleblower complaint",
     "third party system",
     "seized 293 million",
     "resetting account passwords",
     "kddi email system",
     "install scripts disabled",
-    "cve 2026 50656",
+    "cybercrime group known",
     "clearinghouses everyone seems",
     "automated scraping tooling",
     "link gets clicked",
-    "defender vulnerability known",
+    "government s determination",
+    "cve 2026 50656",
     "ai driven automation",
-    "uk government rolls",
-    "whole disk overwrite"
+    "defender vulnerability known"
   ],
   "trending": [
     {
       "keyword": "12 million impacted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "privilege escalation issue",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "exchange server microsoft",
+      "mentions": 4
+    },
+    {
+      "keyword": "fast attacks move",
       "mentions": 3
     },
     {
       "keyword": "npm version 12",
-      "mentions": 2
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 128
-    },
-    {
-      "keyword": "fast attacks move",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2052
-    },
-    {
-      "keyword": "third party system",
       "mentions": 3
     },
     {
-      "keyword": "seized 293 million",
+      "keyword": "uk government rolls",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2053
+    },
+    {
+      "keyword": "third party system",
       "mentions": 4
     },
     {
+      "keyword": "seized 293 million",
+      "mentions": 5
+    },
+    {
       "keyword": "resetting account passwords",
-      "mentions": 153
+      "mentions": 154
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
+      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
+      "summary": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
+      "published": "Thu, 09 Jul 2026 16:10:00 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Helix vishing group emerges in SharePoint data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
       "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
@@ -217,18 +226,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
-      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
-      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
-      "value_score": 76,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2"
       ]
     },
     {
@@ -317,6 +314,30 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure",
+      "link": "https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure",
+      "summary": "Obscurity isn't a defense. If your company has any Internet-facing vulnerability, you're at risk from multiple threats.",
+      "published": "Thu, 09 Jul 2026 20:32:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Microsoft Reins in RoguePlanet Zero-Day Threat",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat",
+      "summary": "The researcher known as \"Nightmare-Eclipse\" published a proof-of-concept (PoC) exploit for the Windows Defender vulnerability in early June after dropping several other Microsoft zero-days.",
+      "published": "Thu, 09 Jul 2026 20:21:19 GMT",
+      "value_score": 51,
+      "value_signals": [
+        "Zero-day",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
       "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
       "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
@@ -373,24 +394,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
-      "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a two-for-one malware combo for data theft and cryptomining.",
-      "published": "Wed, 08 Jul 2026 16:45:54 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "State IDs for AI Agents: Will Estonia Set a Precedent?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/state-ids-ai-agents-estonia",
-      "summary": "The world's digital testing ground plans to help people use AI agents for government purposes.",
-      "published": "Wed, 08 Jul 2026 08:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

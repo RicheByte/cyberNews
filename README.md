@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-09 19:36 UTC |
+| 🕐 Last Updated | 2026-07-09 21:18 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`12 million impacted` • `privilege escalation issue` • `exchange server microsoft` • `npm version 12` • `cybercrime group known` • `fast attacks move` • `twitter whistleblower complaint` • `third party system` • `seized 293 million` • `resetting account passwords`
+`12 million impacted` • `privilege escalation issue` • `exchange server microsoft` • `fast attacks move` • `npm version 12` • `uk government rolls` • `twitter whistleblower complaint` • `third party system` • `seized 293 million` • `resetting account passwords`
 
 ## 📄 Reports
 

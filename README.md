@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-09 02:28 UTC |
+| 🕐 Last Updated | 2026-07-09 07:32 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `access vulnerable repositories` • `actively exploited vulnerability` • `critical gitea flaw` • `twitter whistleblower complaint` • `github's agentic workflows` • `cisa orders feds` • `catch human intruders` • `activity cluster tracked` • `modern phishing ecosystem`
+`ai coding agent` • `cybercrime group known` • `ai coding agents` • `twitter whistleblower complaint` • `cve 2026 11405` • `august 2024 cyberattack` • `activity dates back` • `modern phishing ecosystem` • `catch human intruders` • `hijack ai conversations`
 
 ## 📄 Reports
 

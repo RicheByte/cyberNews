@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-07-09 02:28",
+  "last_updated": "2026-07-09 07:32",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "ai coding agent",
     "cybercrime group known",
-    "access vulnerable repositories",
-    "actively exploited vulnerability",
-    "critical gitea flaw",
+    "ai coding agents",
     "twitter whistleblower complaint",
-    "github's agentic workflows",
-    "cisa orders feds",
-    "catch human intruders",
-    "activity cluster tracked",
+    "cve 2026 11405",
+    "august 2024 cyberattack",
+    "activity dates back",
     "modern phishing ecosystem",
-    "alleged victim believed",
-    "dire critical rating",
+    "catch human intruders",
     "hijack ai conversations",
+    "identity security platform",
     "t keep pace",
     "stark industries solutions",
-    "single http header",
+    "sprawling phishing campaign",
     "service delivery impact",
     "resetting account passwords",
+    "real sounding name",
     "pro iranian images",
-    "org's public repository"
+    "org's public repository",
+    "obama white house"
   ],
   "trending": [
     {
+      "keyword": "ai coding agent",
+      "mentions": 2
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 123
+      "mentions": 124
     },
     {
-      "keyword": "access vulnerable repositories",
-      "mentions": 5
-    },
-    {
-      "keyword": "actively exploited vulnerability",
-      "mentions": 7
-    },
-    {
-      "keyword": "critical gitea flaw",
-      "mentions": 13
+      "keyword": "ai coding agents",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2047
+      "mentions": 2048
     },
     {
-      "keyword": "github's agentic workflows",
-      "mentions": 14
+      "keyword": "cve 2026 11405",
+      "mentions": 2
     },
     {
-      "keyword": "cisa orders feds",
+      "keyword": "august 2024 cyberattack",
+      "mentions": 1
+    },
+    {
+      "keyword": "activity dates back",
+      "mentions": 1
+    },
+    {
+      "keyword": "modern phishing ecosystem",
       "mentions": 7
     },
     {
       "keyword": "catch human intruders",
-      "mentions": 5
-    },
-    {
-      "keyword": "activity cluster tracked",
-      "mentions": 5
-    },
-    {
-      "keyword": "modern phishing ecosystem",
       "mentions": 6
+    },
+    {
+      "keyword": "hijack ai conversations",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
+      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
+      "summary": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Claude Code and OpenAI's Codex when either is running in an autonomous mode that approves its own",
+      "published": "Thu, 09 Jul 2026 10:45:02 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
+      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
+      "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.",
+      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
+      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the",
+      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
@@ -121,31 +148,16 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GitHub 'Verified' Commits Can Be Rewritten Into New Hashes Without Breaking Signatures",
-      "link": "https://thehackernews.com/2026/07/github-verified-commits-can-be.html",
-      "summary": "New research shows that a signed Git commit's hash is not the one-of-a-kind name that much of the software world assumes it to be. Given any signed commit, someone without the signing key can mint a second commit with the same files, author, and date, and a valid signature, GitHub still stamps \"Verified.\" Everything a reviewer would check matches. The commit's hash does not. That matters",
-      "published": "Wed, 08 Jul 2026 17:21:24 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Verification Step Is the New ATO Battleground in 2026",
-      "link": "https://thehackernews.com/2026/07/the-verification-step-is-new-ato.html",
-      "summary": "For years, account takeover (ATO) followed a predictable script. Attackers bought stolen credentials in bulk, ran them through automated tools, and waited for matches. Credential stuffing was cheap, scalable, and for defenders, relatively well understood. That era is ending. Not because attackers gave up, but because the front door finally got harder to kick in. Passkeys are now mainstream.",
-      "published": "Wed, 08 Jul 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitHub Copilot Refuses Harmful Requests in Chat, Then Writes Them in Code",
-      "link": "https://thehackernews.com/2026/07/github-copilot-refuses-harmful-requests.html",
-      "summary": "An AI coding assistant that refuses to answer a dangerous request in its chat box can answer it anyway if the same request is broken into small, ordinary-looking steps inside a code editor. That is the finding of a new study of GitHub Copilot by researchers Abhishek Kumar and Carsten Maple. The models they tested through Copilot, Claude from Anthropic, and Gemini from Google, refused",
-      "published": "Wed, 08 Jul 2026 16:51:07 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Microsoft patches RoguePlanet Defender zero-day vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-rogueplanet-defender-zero-day-vulnerability/",
+      "summary": "Microsoft has released a security patch to address a Defender zero-day vulnerability known as \"RoguePlanet,\" disclosed after the June 2026 Patch Tuesday. [...]",
+      "published": "Thu, 09 Jul 2026 01:42:49 -0400",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -215,21 +227,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to prioritize patching Langflow auth bypass flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-prioritize-patching-langflow-auth-bypass-flaw/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) gave federal agencies until Friday to patch an actively exploited vulnerability in the Langflow visual framework for building AI agents. [...]",
-      "published": "Wed, 08 Jul 2026 05:58:11 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "Auth bypass",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -397,6 +394,39 @@
     },
     {
       "source": "Security Week",
+      "title": "Chrome 150 Update Patches 27 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
+      "summary": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google. The post Chrome 150 Update Patches 27 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 07:27:59 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "8Layers Raises $2.9 Million for Identity Security Platform",
+      "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
+      "summary": "The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform. The post 8Layers Raises $2.9 Million for Identity Security Platform appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 06:45:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
+      "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
+      "summary": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface. The post Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 05:00:41 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "CVE mentioned",
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
       "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
       "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek .",
@@ -446,39 +476,6 @@
         "Patch/update",
         "CISA/KEV ×4",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection",
-      "link": "https://www.securityweek.com/critical-vulnerability-exposes-github-agentic-workflows-to-prompt-injection/",
-      "summary": "Researchers show how attackers can use a crafted public GitHub Issue to trick AI-powered workflows into exposing data from private repositories without authentication. The post Critical Vulnerability Exposes GitHub Agentic Workflows to Prompt Injection appeared first on SecurityWeek .",
-      "published": "Wed, 08 Jul 2026 10:30:55 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "County Government Reportedly Paid $1 Million to Cyber Extortion Group",
-      "link": "https://www.securityweek.com/county-government-reportedly-paid-1-million-to-cyber-extortion-group/",
-      "summary": "The alleged victim, believed to be a small Ohio county, reportedly paid the extortion group to prevent the public release of sensitive stolen data. The post County Government Reportedly Paid $1 Million to Cyber Extortion Group appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 17:31:54 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Gitea Flaw Under Active Exploitation, Researchers Warn",
-      "link": "https://www.securityweek.com/critical-gitea-flaw-under-active-exploitation-researchers-warn/",
-      "summary": "Attackers are exploiting the critical Gitea vulnerability CVE-2026-20896 to bypass authentication with a single HTTP header and access vulnerable repositories and secrets. The post Critical Gitea Flaw Under Active Exploitation, Researchers Warn appeared first on SecurityWeek .",
-      "published": "Tue, 07 Jul 2026 17:17:19 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×3",
         "Exploit wording"
       ]
     },

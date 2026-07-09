@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2049,
+      "count": 2050,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -11754,7 +11754,7 @@
       ]
     },
     "ai coding agent": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-25",
         "2026-07-09"
@@ -17939,7 +17939,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18342,7 +18342,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20629,7 +20629,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22191,7 +22191,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-09"
       ]
@@ -22215,31 +22215,31 @@
       ]
     },
     "defender vulnerability known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "seized 293 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "cve 2026 50656": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "meta ai app": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "generate ai content": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
@@ -22249,20 +22249,63 @@
       "dates": [
         "2026-07-09"
       ]
+    },
+    "12 million impacted": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "exchange server microsoft": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "privilege escalation issue": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "third party system": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "kddi email system": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "clearinghouses everyone seems": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "ai driven automation": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "uk government rolls": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "staffing levels often": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-27 10:00",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "providing sensitive data",
-        "estimated 3 million",
-        "real life identity",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-27 13:22",
       "articles": 48,
@@ -23350,6 +23393,17 @@
         "ai coding agent",
         "twitter whistleblower complaint",
         "seized 293 million"
+      ]
+    },
+    {
+      "timestamp": "2026-07-09 14:45",
+      "articles": 48,
+      "top_keywords": [
+        "12 million impacted",
+        "exchange server microsoft",
+        "privilege escalation issue",
+        "ai coding agent",
+        "cybercrime group known"
       ]
     }
   ]

@@ -1,72 +1,102 @@
 {
-  "last_updated": "2026-07-09 10:54",
+  "last_updated": "2026-07-09 14:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cybercrime group known",
-    "defender vulnerability known",
+    "12 million impacted",
+    "exchange server microsoft",
+    "privilege escalation issue",
     "ai coding agent",
+    "cybercrime group known",
     "twitter whistleblower complaint",
+    "third party system",
     "seized 293 million",
     "resetting account passwords",
-    "august 2024 cyberattack",
-    "activity dates back",
-    "ai coding agents",
+    "kddi email system",
     "cve 2026 50656",
-    "cve 2026 11405",
-    "catch human intruders",
-    "identity security platform",
+    "clearinghouses everyone seems",
+    "august 2024 cyberattack",
+    "defender vulnerability known",
     "meta ai app",
     "generate ai content",
-    "attackers gained access",
+    "ai driven automation",
+    "uk government rolls",
     "stark industries solutions",
-    "service delivery impact",
-    "real sounding name",
-    "real life identity"
+    "staffing levels often"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 125
+      "keyword": "12 million impacted",
+      "mentions": 1
     },
     {
-      "keyword": "defender vulnerability known",
+      "keyword": "exchange server microsoft",
+      "mentions": 1
+    },
+    {
+      "keyword": "privilege escalation issue",
       "mentions": 1
     },
     {
       "keyword": "ai coding agent",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 126
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2049
+      "mentions": 2050
     },
     {
-      "keyword": "seized 293 million",
+      "keyword": "third party system",
       "mentions": 1
     },
     {
+      "keyword": "seized 293 million",
+      "mentions": 2
+    },
+    {
       "keyword": "resetting account passwords",
-      "mentions": 150
+      "mentions": 151
     },
     {
-      "keyword": "august 2024 cyberattack",
-      "mentions": 2
-    },
-    {
-      "keyword": "activity dates back",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai coding agents",
-      "mentions": 2
-    },
-    {
-      "keyword": "cve 2026 50656",
+      "keyword": "kddi email system",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
+      "link": "https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html",
+      "summary": "AI has changed how fast attacks move. Work that once took an attacker days now takes minutes. Using models like Mythos, attackers write tailored bait, pick targets, test what lands, and jump to the next host before your team clears the first alert. That is the gap, and it is not your fault. The tools and runbooks most teams run on were built for attackers who work at human speed. AI-driven",
+      "published": "Thu, 09 Jul 2026 17:56:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Summer of Clearinghouses",
+      "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
+      "summary": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,",
+      "published": "Thu, 09 Jul 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
+      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
+      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It's assessed to be a rebrand of the Beast ransomware,",
+      "published": "Thu, 09 Jul 2026 16:13:09 +0530",
+      "value_score": 71,
+      "value_signals": [
+        "Active exploitation",
+        "Ransomware ×4"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
@@ -116,36 +146,34 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "AI Coding Agents Found Triggering Endpoint Security Rules Built to Catch Attackers",
-      "link": "https://thehackernews.com/2026/07/ai-coding-agents-found-triggering.html",
-      "summary": "Sophos looked at a week of its own endpoint data and found that AI coding agents such as Claude Code, Cursor, and OpenAI Codex are setting off detection rules written to catch human intruders. The agents are not malicious. They just do a lot of things that, to a behavioral engine, look exactly like an attack. Decrypting browser credentials, listing what sits in Windows' credential store,",
-      "published": "Wed, 08 Jul 2026 22:32:12 +0530",
+      "source": "BleepingComputer",
+      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
+      "published": "Thu, 09 Jul 2026 10:39:51 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Hidden Security Risks of Reduced Summer IT Coverage",
+      "link": "https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/",
+      "summary": "Security operations don't slow down when IT teams take vacation, but staffing levels often do. Kaseya explains how AI-driven automation can help organizations maintain consistent security operations and reduce reliance on manual processes year-round. [...]",
+      "published": "Thu, 09 Jul 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "New HalluSquatting Attack Could Trick AI Coding Assistants Into Installing Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/new-hallusquatting-attack-could-trick.html",
-      "summary": "AI coding assistants have a habit of making things up. Ask one to fetch a popular tool, and it will sometimes hand back a real-sounding name for a project that does not exist. New research, which its authors call HalluSquatting, turns that habit into an attack: work out the fake names an AI reliably invents, register them first, and wait for the assistant to fetch your trap on a user's",
-      "published": "Wed, 08 Jul 2026 20:37:24 +0530",
-      "value_score": 20,
+      "source": "BleepingComputer",
+      "title": "Microsoft to retire the OWA Light client in Exchange Server",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
+      "summary": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
+      "published": "Thu, 09 Jul 2026 07:00:35 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Botnet"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ubiquiti Patches Critical UniFi Flaws Across Connect, Talk, Access, Protect, and OS",
-      "link": "https://thehackernews.com/2026/07/ubiquiti-patches-critical-unifi-flaws.html",
-      "summary": "Ubiquiti has shipped updates to address multiple critical security flaws impacting UniFi Connect, UniFi Talk, UniFi Access, UniFi Protect, and UniFi OS that could result in privilege escalation and arbitrary command execution. The list of vulnerabilities is as follows - CVE-2026-50746 (CVSS score: 10.0) - An improper access control vulnerability in UniFi Connect Application that an attacker",
-      "published": "Wed, 08 Jul 2026 20:08:05 +0530",
-      "value_score": 56,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "High severity ×2"
+        "Patch/update"
       ]
     },
     {
@@ -197,36 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
       "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
       "published": "Wed, 08 Jul 2026 15:54:59 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit Roundcube flaw to spy on academic researchers",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-roundcube-flaw-to-spy-on-academic-researchers/",
-      "summary": "A China-linked threat cluster has been exploiting vulnerable Roundcube servers at U.S. and Canadian universities to steal credentials and deploy backdoor malware. [...]",
-      "published": "Wed, 08 Jul 2026 14:56:02 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Backdoor",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Entra passkey enrollment vishing targets Microsoft 365 users",
-      "link": "https://www.bleepingcomputer.com/news/security/entra-passkey-enrollment-vishing-targets-microsoft-365-users/",
-      "summary": "A threat actor has been targeting organizations across multiple sectors with voice-based fake security requests that ask Microsoft 365 users to enroll a new Entra passkey. [...]",
-      "published": "Wed, 08 Jul 2026 12:47:25 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "3 Ways AI Powers Service Desk Attacks and How to Prevent Them",
-      "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-powers-service-desk-attacks-and-how-to-prevent-them/",
-      "summary": "Specops Software explains how AI is making service desk impersonation attacks more convincing, personalized, and scalable, along with practical steps organizations can take to strengthen onboarding and identity verification. [...]",
-      "published": "Wed, 08 Jul 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -316,9 +314,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
+      "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
+      "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+      "published": "Thu, 09 Jul 2026 14:31:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Gateways Offer Attackers the Keys to the Kingdom",
+      "link": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
+      "summary": "A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.",
+      "published": "Thu, 09 Jul 2026 13:01:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'GodDamn' Ransomware Uses BYOVD to Smite US Companies",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies",
-      "summary": "Microsoft co-signed a malicious kernel driver, and now it's being used to kill security software in ransomware attacks.",
+      "summary": "Microsoft signed a malicious kernel driver, and now it's being used to kill security software in ransomware attacks.",
       "published": "Thu, 09 Jul 2026 10:00:00 GMT",
       "value_score": 46,
       "value_signals": [
@@ -359,7 +375,7 @@
       "source": "Dark Reading",
       "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
-      "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a malware two-for-one combo for data theft and cryptomining.",
+      "summary": "A financially motivated operation uses lures of cracked or pirated software to deliver a two-for-one malware combo for data theft and cryptomining.",
       "published": "Wed, 08 Jul 2026 16:45:54 GMT",
       "value_score": 10,
       "value_signals": []
@@ -374,22 +390,44 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Big Brand Jobs Scam Targets Marketing Pros' Google Accounts",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts",
-      "summary": "The phishing campaign uses several tactics, including nested redirects, to evade detection and steal credentials from unsuspecting targets.",
-      "published": "Tue, 07 Jul 2026 21:02:29 GMT",
-      "value_score": 18,
+      "source": "Security Week",
+      "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
+      "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
+      "summary": "Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK. The post UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 14:19:53 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Palo Alto Networks Patches 13 Vulnerabilities",
+      "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
+      "summary": "Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 13:49:42 +0000",
+      "value_score": 25,
       "value_signals": [
-        "Phishing"
+        "Auth bypass"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft",
-      "link": "https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft",
-      "summary": "Varonis reported the flaw to Google in late 2025 and it has been addressed, but it reminds defenders to take a fresh look at their AI Infrastructure security.",
-      "published": "Tue, 07 Jul 2026 20:36:43 GMT",
+      "source": "Security Week",
+      "title": "12 Million Impacted by Data Breach at Japanese Telco KDDI",
+      "link": "https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/",
+      "summary": "Hackers exploited a zero-day vulnerability in a third-party system to access a KDDI email system for ISPs. The post 12 Million Impacted by Data Breach at Japanese Telco KDDI appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 12:18:46 +0000",
+      "value_score": 65,
+      "value_signals": [
+        "Zero-day",
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google",
+      "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
+      "summary": "Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access. The post 15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 11:52:35 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -437,47 +475,6 @@
         "Patch/update ×2",
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "8Layers Raises $2.9 Million for Identity Security Platform",
-      "link": "https://www.securityweek.com/8layers-raises-2-9-million-for-identity-security-platform/",
-      "summary": "The Spanish startup has closed an extended pre-seed funding round two months after launching its digital identity protection platform. The post 8Layers Raises $2.9 Million for Identity Security Platform appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 06:45:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices",
-      "link": "https://www.securityweek.com/unpatched-backdoor-in-tenda-firmware-grants-admin-access-to-devices/",
-      "summary": "Tracked as CVE-2026-11405, the vulnerability allows unauthenticated attackers to access a device's web management interface. The post Unpatched Backdoor in Tenda Firmware Grants Admin Access to Devices appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 05:00:41 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "CVE mentioned",
-        "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Accenture Confirms Data Breach After Hacker Claims Source Code Theft",
-      "link": "https://www.securityweek.com/accenture-confirms-data-breach-after-hacker-claims-source-code-theft/",
-      "summary": "The professional services giant says it contained the incident, remediated its source, and experienced no operational or service delivery impact. The post Accenture Confirms Data Breach After Hacker Claims Source Code Theft appeared first on SecurityWeek .",
-      "published": "Wed, 08 Jul 2026 16:09:15 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors",
-      "link": "https://www.securityweek.com/china-linked-apt-expands-arsenal-with-new-leash-backdoors/",
-      "summary": "Cisco says the threat actor behind the LapDogs campaign has expanded its SOHO router malware toolkit with LongLeash, DogLeash, and JarLeash backdoors. The post China-Linked APT Expands Arsenal With New ‘Leash’ Backdoors appeared first on SecurityWeek .",
-      "published": "Wed, 08 Jul 2026 15:42:11 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

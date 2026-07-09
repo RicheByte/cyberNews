@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-09 10:54 UTC |
+| 🕐 Last Updated | 2026-07-09 14:45 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `defender vulnerability known` • `ai coding agent` • `twitter whistleblower complaint` • `seized 293 million` • `resetting account passwords` • `august 2024 cyberattack` • `activity dates back` • `ai coding agents` • `cve 2026 50656`
+`12 million impacted` • `exchange server microsoft` • `privilege escalation issue` • `ai coding agent` • `cybercrime group known` • `twitter whistleblower complaint` • `third party system` • `seized 293 million` • `resetting account passwords` • `kddi email system`
 
 ## 📄 Reports
 

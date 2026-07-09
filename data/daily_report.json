@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-09 21:18",
+  "last_updated": "2026-07-09 23:06",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,7 +12,6 @@
     "twitter whistleblower complaint",
     "third party system",
     "seized 293 million",
-    "resetting account passwords",
     "kddi email system",
     "install scripts disabled",
     "cybercrime group known",
@@ -21,49 +20,50 @@
     "link gets clicked",
     "government s determination",
     "cve 2026 50656",
+    "defender vulnerability known",
     "ai driven automation",
-    "defender vulnerability known"
+    "whole disk overwrite"
   ],
   "trending": [
     {
       "keyword": "12 million impacted",
-      "mentions": 4
-    },
-    {
-      "keyword": "privilege escalation issue",
-      "mentions": 4
-    },
-    {
-      "keyword": "exchange server microsoft",
-      "mentions": 4
-    },
-    {
-      "keyword": "fast attacks move",
-      "mentions": 3
-    },
-    {
-      "keyword": "npm version 12",
-      "mentions": 3
-    },
-    {
-      "keyword": "uk government rolls",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2053
-    },
-    {
-      "keyword": "third party system",
-      "mentions": 4
-    },
-    {
-      "keyword": "seized 293 million",
       "mentions": 5
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 154
+      "keyword": "privilege escalation issue",
+      "mentions": 5
+    },
+    {
+      "keyword": "exchange server microsoft",
+      "mentions": 5
+    },
+    {
+      "keyword": "fast attacks move",
+      "mentions": 4
+    },
+    {
+      "keyword": "npm version 12",
+      "mentions": 4
+    },
+    {
+      "keyword": "uk government rolls",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2054
+    },
+    {
+      "keyword": "third party system",
+      "mentions": 5
+    },
+    {
+      "keyword": "seized 293 million",
+      "mentions": 6
+    },
+    {
+      "keyword": "kddi email system",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenMandriva Linux says contributor tried to sabotage the project",
+      "link": "https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/",
+      "summary": "The OpenMandriva Linux project announced that it was the target of an attempted act of internal sabotage after a dispute among contributors. [...]",
+      "published": "Thu, 09 Jul 2026 18:14:13 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
       "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
       "summary": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
@@ -216,17 +225,6 @@
       "published": "Thu, 09 Jul 2026 05:47:28 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AssuranceAmerica data breach exposes records of 6.9 million drivers",
-      "link": "https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/",
-      "summary": "American insurance company AssuranceAmerica has disclosed a data breach impacting nearly 7 million drivers after attackers gained access to its systems earlier this year. [...]",
-      "published": "Thu, 09 Jul 2026 03:47:16 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -338,6 +336,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready",
+      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
+      "summary": "If you're handling them like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
+      "published": "Thu, 09 Jul 2026 19:16:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
       "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
       "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
@@ -382,18 +389,6 @@
       "published": "Wed, 08 Jul 2026 21:34:21 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours",
-      "link": "https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment",
-      "summary": "The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer.",
-      "published": "Wed, 08 Jul 2026 20:32:22 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

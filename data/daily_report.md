@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-09 21:18 UTC  
+> **Last Updated:** 2026-07-09 23:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**12 million impacted** • **privilege escalation issue** • **exchange server microsoft** • **fast attacks move** • **npm version 12** • **uk government rolls** • **twitter whistleblower complaint** • **third party system** • **seized 293 million** • **resetting account passwords** • **kddi email system** • **install scripts disabled** • **cybercrime group known** • **clearinghouses everyone seems** • **automated scraping tooling** • **link gets clicked** • **government s determination** • **cve 2026 50656** • **ai driven automation** • **defender vulnerability known**
+**12 million impacted** • **privilege escalation issue** • **exchange server microsoft** • **fast attacks move** • **npm version 12** • **uk government rolls** • **twitter whistleblower complaint** • **third party system** • **seized 293 million** • **kddi email system** • **install scripts disabled** • **cybercrime group known** • **clearinghouses everyone seems** • **automated scraping tooling** • **link gets clicked** • **government s determination** • **cve 2026 50656** • **defender vulnerability known** • **ai driven automation** • **whole disk overwrite**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
 - [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
 - [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
 - [Microsoft expects more Windows security updates from AI-discovered flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/)
@@ -34,7 +35,6 @@
 - [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
 - [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
 - [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
-- [AssuranceAmerica data breach exposes records of 6.9 million drivers](https://www.bleepingcomputer.com/news/security/assuranceamerica-data-breach-exposes-records-of-69-million-drivers/)
 
 ### Krebs on Security
 
@@ -51,12 +51,12 @@
 
 - [Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure](https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure)
 - [Microsoft Reins in RoguePlanet Zero-Day Threat](https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat)
+- [AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready](https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready)
 - [As Global Conflicts Go Digital, Businesses Need Wartime Gameplans](https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans)
 - [AI Gateways Offer Attackers the Keys to the Kingdom](https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom)
 - ['GodDamn' Ransomware Uses BYOVD to Smite US Companies](https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies)
 - [European Organizations Have a Collaboration Security Confidence Gap](https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap)
 - [Mexico's New Cyber Plan Faces Its First Real Test](https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test)
-- [Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours](https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment)
 
 ### Security Week
 

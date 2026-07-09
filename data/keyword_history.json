@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2048,
+      "count": 2049,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -543,7 +543,7 @@
       ]
     },
     "real life identity": {
-      "count": 201,
+      "count": 202,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -575,7 +575,8 @@
         "2026-07-04",
         "2026-07-05",
         "2026-07-06",
-        "2026-07-07"
+        "2026-07-07",
+        "2026-07-09"
       ]
     },
     "got1000 series devices": {
@@ -11753,7 +11754,7 @@
       ]
     },
     "ai coding agent": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25",
         "2026-07-09"
@@ -17938,7 +17939,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18341,7 +18342,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20628,7 +20629,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21936,7 +21937,7 @@
       ]
     },
     "cve 2026 11405": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-07",
         "2026-07-09"
@@ -22138,7 +22139,7 @@
       ]
     },
     "catch human intruders": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-08",
         "2026-07-09"
@@ -22158,7 +22159,7 @@
       ]
     },
     "service delivery impact": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-08",
         "2026-07-09"
@@ -22184,30 +22185,66 @@
       ]
     },
     "ai coding agents": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "august 2024 cyberattack": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "activity dates back": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "identity security platform": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-09"
       ]
     },
     "real sounding name": {
+      "count": 2,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "defender vulnerability known": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "seized 293 million": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "cve 2026 50656": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "meta ai app": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "generate ai content": {
+      "count": 1,
+      "dates": [
+        "2026-07-09"
+      ]
+    },
+    "attackers gained access": {
       "count": 1,
       "dates": [
         "2026-07-09"
@@ -22215,17 +22252,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-27 06:48",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "providing sensitive data",
-        "estimated 3 million",
-        "real life identity",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-27 10:00",
       "articles": 48,
@@ -23313,6 +23339,17 @@
         "ai coding agents",
         "twitter whistleblower complaint",
         "cve 2026 11405"
+      ]
+    },
+    {
+      "timestamp": "2026-07-09 10:54",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "defender vulnerability known",
+        "ai coding agent",
+        "twitter whistleblower complaint",
+        "seized 293 million"
       ]
     }
   ]

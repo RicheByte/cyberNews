@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-09 07:32 UTC |
+| 🕐 Last Updated | 2026-07-09 10:54 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai coding agent` • `cybercrime group known` • `ai coding agents` • `twitter whistleblower complaint` • `cve 2026 11405` • `august 2024 cyberattack` • `activity dates back` • `modern phishing ecosystem` • `catch human intruders` • `hijack ai conversations`
+`cybercrime group known` • `defender vulnerability known` • `ai coding agent` • `twitter whistleblower complaint` • `seized 293 million` • `resetting account passwords` • `august 2024 cyberattack` • `activity dates back` • `ai coding agents` • `cve 2026 50656`
 
 ## 📄 Reports
 

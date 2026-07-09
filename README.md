@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-09 14:45 UTC |
+| 🕐 Last Updated | 2026-07-09 17:50 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`12 million impacted` • `exchange server microsoft` • `privilege escalation issue` • `ai coding agent` • `cybercrime group known` • `twitter whistleblower complaint` • `third party system` • `seized 293 million` • `resetting account passwords` • `kddi email system`
+`12 million impacted` • `exchange server microsoft` • `privilege escalation issue` • `npm version 12` • `cybercrime group known` • `fast attacks move` • `ai coding agent` • `twitter whistleblower complaint` • `third party system` • `seized 293 million`
 
 ## 📄 Reports
 

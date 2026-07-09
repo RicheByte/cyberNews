@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-07-09 14:45",
+  "last_updated": "2026-07-09 17:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "12 million impacted",
     "exchange server microsoft",
     "privilege escalation issue",
-    "ai coding agent",
+    "npm version 12",
     "cybercrime group known",
+    "fast attacks move",
+    "ai coding agent",
     "twitter whistleblower complaint",
     "third party system",
     "seized 293 million",
     "resetting account passwords",
     "kddi email system",
+    "install scripts disabled",
     "cve 2026 50656",
     "clearinghouses everyone seems",
-    "august 2024 cyberattack",
+    "tool gets trusted",
+    "link gets clicked",
     "defender vulnerability known",
     "meta ai app",
-    "generate ai content",
-    "ai driven automation",
-    "uk government rolls",
-    "stark industries solutions",
-    "staffing levels often"
+    "generate ai content"
   ],
   "trending": [
     {
       "keyword": "12 million impacted",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "exchange server microsoft",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "privilege escalation issue",
+      "mentions": 2
+    },
+    {
+      "keyword": "npm version 12",
+      "mentions": 1
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 127
+    },
+    {
+      "keyword": "fast attacks move",
       "mentions": 1
     },
     {
       "keyword": "ai coding agent",
-      "mentions": 4
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 126
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2050
+      "mentions": 2051
     },
     {
       "keyword": "third party system",
-      "mentions": 1
-    },
-    {
-      "keyword": "seized 293 million",
       "mentions": 2
     },
     {
-      "keyword": "resetting account passwords",
-      "mentions": 151
-    },
-    {
-      "keyword": "kddi email system",
-      "mentions": 1
+      "keyword": "seized 293 million",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
+      "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
+      "summary": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in - allowScripts defaults to off, meaning",
+      "published": "Thu, 09 Jul 2026 22:19:02 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html",
+      "summary": "Most security mess starts as admin work. A link gets clicked. A tool gets trusted. A bucket name gets reused. A setting stays loose because nobody wants to touch it. This week is full of that kind of damage. Not loud. Not clever. Just small gaps doing big jobs. The worst part is how normal it all looks until the bill arrives. The full ThreatsDay list is below. Global",
+      "published": "Thu, 09 Jul 2026 20:39:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up",
@@ -128,20 +146,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "summary": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.",
-      "published": "Thu, 09 Jul 2026 09:57:18 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
+      "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
+      "published": "Thu, 09 Jul 2026 13:08:29 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "summary": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the",
-      "published": "Thu, 09 Jul 2026 09:31:49 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
+      "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
+      "published": "Thu, 09 Jul 2026 13:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -207,26 +227,6 @@
         "Zero-day ×2",
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Mount Royal University confirms breach as hackers claim attack",
-      "link": "https://www.bleepingcomputer.com/news/security/mount-royal-university-confirms-breach-as-hackers-claim-attack/",
-      "summary": "Mount Royal University in Calgary says hackers stole and then deleted data from its file storage systems after breaching the university's network. [...]",
-      "published": "Wed, 08 Jul 2026 17:26:59 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Paysafe, Skrill SDKs on NPM and PyPi steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-paysafe-skrill-sdks-on-npm-and-pypi-steal-credentials/",
-      "summary": "Malicious packages on the Node Package Manager (npm) and the Python Package Index (PyPI) delivered stealer malware to developers and users of Paysafe, Skrill, and Neteller payment applications. [...]",
-      "published": "Wed, 08 Jul 2026 15:54:59 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -391,6 +391,15 @@
     },
     {
       "source": "Security Week",
+      "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
+      "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
+      "summary": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform. The post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared first on SecurityWeek .",
+      "published": "Thu, 09 Jul 2026 15:03:51 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
       "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
       "summary": "Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK. The post UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge appeared first on SecurityWeek .",
@@ -463,18 +472,6 @@
       "published": "Thu, 09 Jul 2026 08:52:21 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 150 Update Patches 27 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-150-update-patches-27-vulnerabilities/",
-      "summary": "The security refresh resolves 13 use-after-free bugs, including two critical-severity flaws found by Google. The post Chrome 150 Update Patches 27 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 07:27:59 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity"
-      ]
     },
     {
       "source": "Threatpost",

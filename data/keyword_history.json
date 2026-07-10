@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-06-10",
     "2026-06-11",
     "2026-06-12",
     "2026-06-13",
@@ -29,7 +28,8 @@
     "2026-07-06",
     "2026-07-07",
     "2026-07-08",
-    "2026-07-09"
+    "2026-07-09",
+    "2026-07-10"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2054,
+      "count": 2055,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -507,7 +507,8 @@
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "supposed wayward package": {
@@ -20629,7 +20630,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20647,7 +20648,8 @@
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "users must layer": {
@@ -22215,21 +22217,24 @@
       ]
     },
     "defender vulnerability known": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "seized 293 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "cve 2026 50656": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "meta ai app": {
@@ -22251,51 +22256,59 @@
       ]
     },
     "12 million impacted": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "exchange server microsoft": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "privilege escalation issue": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "third party system": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "kddi email system": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "clearinghouses everyone seems": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "ai driven automation": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "uk government rolls": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "staffing levels often": {
@@ -22305,21 +22318,24 @@
       ]
     },
     "npm version 12": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "fast attacks move": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "install scripts disabled": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "tool gets trusted": {
@@ -22329,42 +22345,35 @@
       ]
     },
     "link gets clicked": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "automated scraping tooling": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "whole disk overwrite": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "government s determination": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-27 20:55",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "estimated 3 million",
-        "cyber attacks aimed",
-        "protect student data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-27 22:58",
       "articles": 48,
@@ -23445,6 +23454,17 @@
     },
     {
       "timestamp": "2026-07-09 23:06",
+      "articles": 48,
+      "top_keywords": [
+        "12 million impacted",
+        "privilege escalation issue",
+        "exchange server microsoft",
+        "fast attacks move",
+        "npm version 12"
+      ]
+    },
+    {
+      "timestamp": "2026-07-10 02:30",
       "articles": 48,
       "top_keywords": [
         "12 million impacted",

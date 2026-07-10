@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-10 07:30 UTC |
+| 🕐 Last Updated | 2026-07-10 10:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`12 million impacted` • `privilege escalation issue` • `exchange server microsoft` • `fast attacks move` • `npm version 12` • `uk government rolls` • `twitter whistleblower complaint` • `third party system` • `seized 293 million` • `kddi email system`
+`12 million impacted` • `exchange server microsoft` • `fast attacks move` • `npm version 12` • `uk government rolls` • `twitter whistleblower complaint` • `install scripts disabled` • `cybercrime group known` • `clearinghouses everyone seems` • `automated scraping tooling`
 
 ## 📄 Reports
 

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2056,
+      "count": 2057,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -14382,9 +14382,10 @@
       ]
     },
     "aiding blackcat attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-21"
+        "2026-04-21",
+        "2026-07-10"
       ]
     },
     "command injection leading": {
@@ -17940,7 +17941,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -17978,7 +17979,8 @@
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "ai power users": {
@@ -20630,7 +20632,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22256,14 +22258,14 @@
       ]
     },
     "12 million impacted": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "exchange server microsoft": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-10"
@@ -22277,35 +22279,35 @@
       ]
     },
     "third party system": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "kddi email system": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "clearinghouses everyone seems": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "ai driven automation": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "uk government rolls": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
         "2026-07-10"
@@ -22318,21 +22320,21 @@
       ]
     },
     "npm version 12": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "fast attacks move": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "install scripts disabled": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
         "2026-07-10"
@@ -22345,46 +22347,47 @@
       ]
     },
     "link gets clicked": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "automated scraping tooling": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "whole disk overwrite": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "government s determination": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-09",
+        "2026-07-10"
+      ]
+    },
+    "windows defender vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "execute windows malware": {
+      "count": 1,
+      "dates": [
         "2026-07-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-28 02:55",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "estimated 3 million",
-        "cyber attacks aimed",
-        "protect student data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-28 07:46",
       "articles": 40,
@@ -23472,6 +23475,17 @@
         "exchange server microsoft",
         "fast attacks move",
         "npm version 12"
+      ]
+    },
+    {
+      "timestamp": "2026-07-10 10:48",
+      "articles": 48,
+      "top_keywords": [
+        "12 million impacted",
+        "exchange server microsoft",
+        "fast attacks move",
+        "npm version 12",
+        "uk government rolls"
       ]
     }
   ]

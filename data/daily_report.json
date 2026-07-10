@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-07-10 07:30",
+  "last_updated": "2026-07-10 10:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "12 million impacted",
-    "privilege escalation issue",
     "exchange server microsoft",
     "fast attacks move",
     "npm version 12",
     "uk government rolls",
     "twitter whistleblower complaint",
-    "third party system",
-    "seized 293 million",
-    "kddi email system",
     "install scripts disabled",
     "cybercrime group known",
     "clearinghouses everyone seems",
     "automated scraping tooling",
+    "aiding blackcat attacks",
     "link gets clicked",
+    "third party system",
+    "kddi email system",
+    "windows defender vulnerability",
     "government s determination",
-    "cve 2026 50656",
-    "defender vulnerability known",
+    "execute windows malware",
     "ai driven automation",
-    "whole disk overwrite"
+    "whole disk overwrite",
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "12 million impacted",
-      "mentions": 7
-    },
-    {
-      "keyword": "privilege escalation issue",
-      "mentions": 7
-    },
-    {
-      "keyword": "exchange server microsoft",
-      "mentions": 7
-    },
-    {
-      "keyword": "fast attacks move",
-      "mentions": 6
-    },
-    {
-      "keyword": "npm version 12",
-      "mentions": 6
-    },
-    {
-      "keyword": "uk government rolls",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2056
-    },
-    {
-      "keyword": "third party system",
-      "mentions": 7
-    },
-    {
-      "keyword": "seized 293 million",
       "mentions": 8
     },
     {
-      "keyword": "kddi email system",
+      "keyword": "exchange server microsoft",
+      "mentions": 8
+    },
+    {
+      "keyword": "fast attacks move",
       "mentions": 7
+    },
+    {
+      "keyword": "npm version 12",
+      "mentions": 7
+    },
+    {
+      "keyword": "uk government rolls",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2057
+    },
+    {
+      "keyword": "install scripts disabled",
+      "mentions": 7
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 133
+    },
+    {
+      "keyword": "clearinghouses everyone seems",
+      "mentions": 8
+    },
+    {
+      "keyword": "automated scraping tooling",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
+      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls. Coinspect has confirmed one coordinated sweep on May",
+      "published": "Fri, 10 Jul 2026 14:30:05 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
+      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
+      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additional victims in 2023. In a sentencing memorandum, federal prosecutors described Martino as a \"",
+      "published": "Fri, 10 Jul 2026 13:40:12 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs",
@@ -125,27 +147,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses",
-      "link": "https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html",
-      "summary": "Cybersecurity researchers have flagged a new ransomware family called GodDamn that employs the PoisonX kernel driver to neutralize security software as part of its defense evasion strategy. According to a new report published by the Threat Hunter Team from Symantec, the ransomware was first publicly spotted in the wild on May 21, 2026. It's assessed to be a rebrand of the Beast ransomware,",
-      "published": "Thu, 09 Jul 2026 16:13:09 +0530",
-      "value_score": 71,
+      "source": "BleepingComputer",
+      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
+      "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
+      "published": "Fri, 10 Jul 2026 04:17:52 -0400",
+      "value_score": 46,
       "value_signals": [
-        "Active exploitation",
-        "Ransomware ×4"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html",
-      "summary": "Microsoft has released security updates for a Defender vulnerability known as RoguePlanet, nearly a month after details of the flaw became public. The vulnerability, tracked as CVE-2026-50656 (CVSS score: 7.8), is a privilege escalation issue in the Microsoft Malware Protection Engine (\"mpengine.dll\"), which provides scanning, detection, and cleaning capabilities for its antivirus and",
-      "published": "Thu, 09 Jul 2026 14:18:48 +0530",
-      "value_score": 40,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation"
+        "Ransomware ×2"
       ]
     },
     {
@@ -216,15 +225,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrests 5,800 suspects in global anti-fraud crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/",
-      "summary": "Law enforcement agencies have arrested 5,811 suspects and seized $293 million in illicit assets in a global anti-fraud operation spanning 97 countries. [...]",
-      "published": "Thu, 09 Jul 2026 05:47:28 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -392,6 +392,39 @@
     },
     {
       "source": "Security Week",
+      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
+      "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
+      "summary": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command. The post GigaWiper Combines Multiple Malware for System-Level Sabotage appeared first on SecurityWeek .",
+      "published": "Fri, 10 Jul 2026 09:12:08 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Ransomware",
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
+      "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
+      "summary": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution. The post ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism appeared first on SecurityWeek .",
+      "published": "Fri, 10 Jul 2026 08:32:33 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "RCE",
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
+      "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
+      "summary": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware. The post Network of 200 GitHub Repositories Used for Malware Infection appeared first on SecurityWeek .",
+      "published": "Fri, 10 Jul 2026 08:00:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
       "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
       "summary": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform. The post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared first on SecurityWeek .",
@@ -438,39 +471,6 @@
       "link": "https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/",
       "summary": "Affecting every major distribution since 2011, the Linux kernel vulnerability allows attackers to gain root access. The post 15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google appeared first on SecurityWeek .",
       "published": "Thu, 09 Jul 2026 11:52:35 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Defender ‘RoguePlanet’ Vulnerability",
-      "link": "https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/",
-      "summary": "The privilege escalation vulnerability tracked as CVE-2026-50656 has been patched with a Microsoft Malware Protection Engine update. The post Microsoft Patches Defender ‘RoguePlanet’ Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 10:28:35 +0000",
-      "value_score": 48,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mount Royal University Confirms Data Stolen in Ransomware Attack",
-      "link": "https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/",
-      "summary": "Hackers accessed the institution’s internal network and deleted two drives containing employee, student, and university data. The post Mount Royal University Confirms Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 10:06:18 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique",
-      "link": "https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/",
-      "summary": "Wiz has disclosed the details of a new AI coding assistant attack method it has dubbed GhostApproval. The post AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 08:52:21 +0000",
       "value_score": 10,
       "value_signals": []
     },

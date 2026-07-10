@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-10 07:30 UTC  
+> **Last Updated:** 2026-07-10 10:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**12 million impacted** • **privilege escalation issue** • **exchange server microsoft** • **fast attacks move** • **npm version 12** • **uk government rolls** • **twitter whistleblower complaint** • **third party system** • **seized 293 million** • **kddi email system** • **install scripts disabled** • **cybercrime group known** • **clearinghouses everyone seems** • **automated scraping tooling** • **link gets clicked** • **government s determination** • **cve 2026 50656** • **defender vulnerability known** • **ai driven automation** • **whole disk overwrite**
+**12 million impacted** • **exchange server microsoft** • **fast attacks move** • **npm version 12** • **uk government rolls** • **twitter whistleblower complaint** • **install scripts disabled** • **cybercrime group known** • **clearinghouses everyone seems** • **automated scraping tooling** • **aiding blackcat attacks** • **link gets clicked** • **third party system** • **kddi email system** • **windows defender vulnerability** • **government s determination** • **execute windows malware** • **ai driven automation** • **whole disk overwrite** • **stark industries solutions**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Attackers Exploit 'Ill Bloom' Vulnerability to Drain $3.1 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
+- [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
 - [Dormant GitHub Accounts Help Attackers Blend In While Mapping Corporate Orgs](https://thehackernews.com/2026/07/dormant-github-accounts-help-attackers.html)
 - [New GigaWiper Windows Backdoor Bundles Disk Wiping, Fake Ransomware, and Spyware](https://thehackernews.com/2026/07/new-gigawiper-windows-backdoor-bundles.html)
 - [npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk](https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html)
 - [ThreatsDay: Cloud Bucket Hijacking, Windows LPE Chain, Global Fraud Bust + 17 More Stories](https://thehackernews.com/2026/07/threatsday-cloud-bucket-hijacking.html)
 - [AI Attacks Move in Minutes. Join This Webinar on Building a Defense That Keeps Up](https://thehackernews.com/2026/07/ai-attacks-move-in-minutes-join-this.html)
 - [Summer of Clearinghouses](https://thehackernews.com/2026/07/summer-of-clearinghouses.html)
-- [GodDamn Ransomware Uses PoisonX Driver to Disable Endpoint Defenses](https://thehackernews.com/2026/07/goddamn-ransomware-uses-poisonx-driver.html)
-- [Microsoft Patches RoguePlanet Defender Flaw That Can Grant SYSTEM Privileges](https://thehackernews.com/2026/07/microsoft-patches-rogueplanet-defender.html)
 
 ### BleepingComputer
 
+- [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
 - [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
 - [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
 - [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
@@ -34,7 +35,6 @@
 - [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
 - [The Hidden Security Risks of Reduced Summer IT Coverage](https://www.bleepingcomputer.com/news/security/the-hidden-security-risks-of-reduced-summer-it-coverage/)
 - [Microsoft to retire the OWA Light client in Exchange Server](https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/)
-- [Police arrests 5,800 suspects in global anti-fraud crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-5-800-suspects-in-global-anti-fraud-crackdown/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [GigaWiper Combines Multiple Malware for System-Level Sabotage](https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/)
+- [‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism](https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/)
+- [Network of 200 GitHub Repositories Used for Malware Infection](https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/)
 - [QIZ Security Raises $17 Million for Cryptographic Governance Platform](https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/)
 - [UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge](https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/)
 - [Palo Alto Networks Patches 13 Vulnerabilities](https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/)
 - [12 Million Impacted by Data Breach at Japanese Telco KDDI](https://www.securityweek.com/12-million-impacted-by-data-breach-at-japanese-telco-kddi/)
 - [15-Year-Old Linux Vulnerability ‘GhostLock’ Earns Researchers $92k From Google](https://www.securityweek.com/15-year-old-linux-vulnerability-ghostlock-earns-researchers-92k-from-google/)
-- [Microsoft Patches Defender ‘RoguePlanet’ Vulnerability](https://www.securityweek.com/microsoft-patches-defender-rogueplanet-vulnerability/)
-- [Mount Royal University Confirms Data Stolen in Ransomware Attack](https://www.securityweek.com/mount-royal-university-confirms-data-stolen-in-ransomware-attack/)
-- [AI Coding Tools Tricked Into Hacking Developer Machine via Decades-Old Technique](https://www.securityweek.com/ai-coding-tools-tricked-into-hacking-developer-machine-via-decades-old-technique/)
 
 ### Threatpost
 

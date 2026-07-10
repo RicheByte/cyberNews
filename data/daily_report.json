@@ -1,72 +1,111 @@
 {
-  "last_updated": "2026-07-10 14:09",
+  "last_updated": "2026-07-10 17:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "remote client crash",
-    "blackcat alphv group",
     "cybercrime group known",
-    "uk government rolls",
+    "zimbra urges customers",
     "twitter whistleblower complaint",
-    "windows defender vulnerability",
+    "stealing seized crypto",
+    "official docker image",
+    "found strong indications",
+    "fake telemetry functionality",
+    "encrypted c2 traffic",
+    "emailing sharefile customers",
+    "completely legal traffic",
+    "blackcat alphv group",
+    "execute windows malware",
+    "security scanning remediation",
+    "600 security leaders",
     "critical vulnerability affecting",
     "former ransomware negotiator",
-    "execute windows malware",
-    "encrypted c2 traffic",
-    "completely legal traffic",
-    "aiding blackcat attacks",
-    "data extortion attacks",
-    "government s determination",
-    "zimbra urges customers",
+    "patched security flaws",
     "zimbra collaboration suite",
     "xquic alibaba's quic",
-    "stark industries solutions",
-    "servers wide open",
-    "resetting account passwords"
+    "windows defender vulnerability"
   ],
   "trending": [
     {
-      "keyword": "remote client crash",
-      "mentions": 1
-    },
-    {
-      "keyword": "blackcat alphv group",
-      "mentions": 1
-    },
-    {
       "keyword": "cybercrime group known",
-      "mentions": 134
+      "mentions": 135
     },
     {
-      "keyword": "uk government rolls",
-      "mentions": 8
+      "keyword": "zimbra urges customers",
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2058
+      "mentions": 2059
     },
     {
-      "keyword": "windows defender vulnerability",
-      "mentions": 2
-    },
-    {
-      "keyword": "critical vulnerability affecting",
-      "mentions": 18
-    },
-    {
-      "keyword": "former ransomware negotiator",
+      "keyword": "stealing seized crypto",
       "mentions": 1
     },
     {
-      "keyword": "execute windows malware",
-      "mentions": 2
+      "keyword": "official docker image",
+      "mentions": 1
+    },
+    {
+      "keyword": "found strong indications",
+      "mentions": 1
+    },
+    {
+      "keyword": "fake telemetry functionality",
+      "mentions": 1
     },
     {
       "keyword": "encrypted c2 traffic",
+      "mentions": 2
+    },
+    {
+      "keyword": "emailing sharefile customers",
       "mentions": 1
+    },
+    {
+      "keyword": "completely legal traffic",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
+      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
+      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
+      "published": "Fri, 10 Jul 2026 22:59:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
+      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
+      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
+      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
+      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
+      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out. This is not an emergency for most owners. The attack needs",
+      "published": "Fri, 10 Jul 2026 20:21:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
+      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
+      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
+      "published": "Fri, 10 Jul 2026 19:49:50 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
@@ -106,48 +145,46 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking",
-      "link": "https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html",
-      "summary": "Researchers ran 281 of the most popular free VPN apps on the Google Play Store through a new testing system and found that many fail at the basics people install a VPN for, i.e., keeping their traffic private and secure. The apps flagged with at least one problem have been installed more than 2.4 billion times. The problems are basic, not sophisticated. 29 apps let user traffic leak outside",
-      "published": "Fri, 10 Jul 2026 16:26:23 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Police suspects Dutch hackers were involved in Odido breach",
+      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
+      "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
+      "published": "Fri, 10 Jul 2026 12:37:01 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Breach/leak"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access",
-      "link": "https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html",
-      "summary": "A threat actor has been targeting organizations spanning multiple sectors with voice-based fake security requests that prompt Microsoft 365 users to enroll a new Entra passkey with an aim to carry out data extortion attacks. The threat actor, tracked by Okta under the moniker O-UNC-066, has deployed a panel-controlled phishing kit that's capable of targeting the passkey enrollment process. The",
-      "published": "Fri, 10 Jul 2026 16:00:20 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
+      "source": "BleepingComputer",
+      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
+      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
+      "published": "Fri, 10 Jul 2026 12:26:10 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html",
-      "summary": "Security firm Coinspect has disclosed a crypto wallet flaw it calls Ill Bloom, and attackers are already using it. The flaw is in how some wallet software generated its recovery phrase, the words that control the money. When that phrase is made with weak randomness, an attacker can work it out and take everything it controls. The firm has confirmed one coordinated sweep on May 27",
-      "published": "Fri, 10 Jul 2026 14:30:05 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical auth bypass in Gitea Docker image",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/",
+      "summary": "Hackers are actively exploiting a critical vulnerability in the official Docker image for the Gitea self-hosted Git service that allows attackers to impersonate any user, including administrators. [...]",
+      "published": "Fri, 10 Jul 2026 11:48:38 -0400",
+      "value_score": 47,
       "value_signals": [
+        "Auth bypass",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks",
-      "link": "https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html",
-      "summary": "A 41-year-old former ransomware negotiator has been sentenced to nearly six years (i.e., 70 months) in prison in the U.S. for their role in conspiring with the now-defunct BlackCat ransomware operators to extort multiple victims and working with two other cybersecurity professionals to target additional victims in 2023. In a sentencing memorandum, federal prosecutors described Martino as a \"",
-      "published": "Fri, 10 Jul 2026 13:40:12 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
+      "source": "BleepingComputer",
+      "title": "Money launderer accused of stealing seized crypto while in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
+      "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
+      "published": "Fri, 10 Jul 2026 11:30:19 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -189,46 +226,6 @@
       "published": "Thu, 09 Jul 2026 18:14:13 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Injective SDK on npm infected with cryptocurrency wallet stealer",
-      "link": "https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/",
-      "summary": "Hackers compromised the Injective Labs SDK project's GitHub repository and used it to publish a malicious package on the Node Package Manager (npm) that stole cryptocurrency wallet private keys and mnemonic seed phrases. [...]",
-      "published": "Thu, 09 Jul 2026 16:10:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "summary": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
-      "published": "Thu, 09 Jul 2026 13:08:29 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-      "summary": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
-      "published": "Thu, 09 Jul 2026 13:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
-      "published": "Thu, 09 Jul 2026 10:39:51 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -316,10 +313,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
+      "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
+      "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
+      "published": "Fri, 10 Jul 2026 16:51:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
       "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
       "summary": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
       "published": "Fri, 10 Jul 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "More Countries Jump on the Social Media Ban Wagon",
+      "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
+      "summary": "Age restrictions on accounts may be more of a ban(d) aid, because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
+      "published": "Fri, 10 Jul 2026 13:50:24 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -367,31 +382,24 @@
     },
     {
       "source": "Dark Reading",
-      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Gameplans",
+      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
       "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
-      "summary": "The fate of a Ukrainian tax software company shows how modern cyberwarfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+      "summary": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
       "published": "Thu, 09 Jul 2026 14:31:20 GMT",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Gateways Offer Attackers the Keys to the Kingdom",
-      "link": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
-      "summary": "A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.",
-      "published": "Thu, 09 Jul 2026 13:01:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'GodDamn' Ransomware Uses BYOVD to Smite US Companies",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies",
-      "summary": "Microsoft signed a malicious kernel driver, and now it's being used to kill security software in ransomware attacks.",
-      "published": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "value_score": 46,
+      "source": "Security Week",
+      "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
+      "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on SecurityWeek .",
+      "published": "Fri, 10 Jul 2026 15:01:19 +0000",
+      "value_score": 74,
       "value_signals": [
-        "Ransomware ×2"
+        "Ransomware ×2",
+        "Patch/update ×2",
+        "Breach/leak"
       ]
     },
     {
@@ -464,15 +472,6 @@
       "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
       "summary": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform. The post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared first on SecurityWeek .",
       "published": "Thu, 09 Jul 2026 15:03:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge",
-      "link": "https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/",
-      "summary": "Two announcements on July 7, 2026, demonstrate the government’s determination to improve the level of cybersecurity within the UK. The post UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 14:19:53 +0000",
       "value_score": 10,
       "value_signals": []
     },

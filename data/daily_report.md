@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-10 14:09 UTC  
+> **Last Updated:** 2026-07-10 17:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote client crash** • **blackcat alphv group** • **cybercrime group known** • **uk government rolls** • **twitter whistleblower complaint** • **windows defender vulnerability** • **critical vulnerability affecting** • **former ransomware negotiator** • **execute windows malware** • **encrypted c2 traffic** • **completely legal traffic** • **aiding blackcat attacks** • **data extortion attacks** • **government s determination** • **zimbra urges customers** • **zimbra collaboration suite** • **xquic alibaba's quic** • **stark industries solutions** • **servers wide open** • **resetting account passwords**
+**cybercrime group known** • **zimbra urges customers** • **twitter whistleblower complaint** • **stealing seized crypto** • **official docker image** • **found strong indications** • **fake telemetry functionality** • **encrypted c2 traffic** • **emailing sharefile customers** • **completely legal traffic** • **blackcat alphv group** • **execute windows malware** • **security scanning remediation** • **600 security leaders** • **critical vulnerability affecting** • **former ransomware negotiator** • **patched security flaws** • **zimbra collaboration suite** • **xquic alibaba's quic** • **windows defender vulnerability**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
+- [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
+- [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
+- [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
 - [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
 - [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
 - [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html)
 - [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html)
-- [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html)
-- [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html)
-- [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html)
-- [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html)
 
 ### BleepingComputer
 
+- [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
+- [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
+- [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
+- [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
 - [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
 - [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
 - [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
 - [OpenMandriva Linux says contributor tried to sabotage the project](https://www.bleepingcomputer.com/news/security/openmandriva-linux-says-contributor-tried-to-sabotage-the-project/)
-- [Injective SDK on npm infected with cryptocurrency wallet stealer](https://www.bleepingcomputer.com/news/security/injective-sdk-on-npm-infected-with-cryptocurrency-wallet-stealer/)
-- [New Helix vishing group emerges in SharePoint data theft attacks](https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/)
-- [Microsoft expects more Windows security updates from AI-discovered flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/)
-- [New Forg365 phishing platform uses AI to target Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
 - [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust)
+- [More Countries Jump on the Social Media Ban Wagon](https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon)
 - [AI Coding: Do Security Risks Outweigh Productivity Gains?](https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains)
 - [Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure](https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure)
 - [Microsoft Reins in RoguePlanet Zero-Day Threat](https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat)
 - [AI Agents Are a New Kind of Identity &amp; Most Organizations Aren't Ready](https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready)
-- [As Global Conflicts Go Digital, Businesses Need Wartime Gameplans](https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans)
-- [AI Gateways Offer Attackers the Keys to the Kingdom](https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom)
-- ['GodDamn' Ransomware Uses BYOVD to Smite US Companies](https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies)
+- [As Global Conflicts Go Digital, Businesses Need Wartime Game Plans](https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans)
 
 ### Security Week
 
+- [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
 - [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
 - [China, India-Linked Hackers Both Targeted Same Pakistani Police Force](https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/)
 - [Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers](https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/)
@@ -67,7 +68,6 @@
 - [‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism](https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/)
 - [Network of 200 GitHub Repositories Used for Malware Infection](https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/)
 - [QIZ Security Raises $17 Million for Cryptographic Governance Platform](https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/)
-- [UK Government Rolls Out Agentic AI Defense Plan Alongside Industry Pledge](https://www.securityweek.com/uk-government-rolls-out-agentic-ai-defense-plan-alongside-industry-pledge/)
 
 ### Threatpost
 

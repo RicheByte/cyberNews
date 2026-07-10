@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-10 14:09 UTC |
+| 🕐 Last Updated | 2026-07-10 17:43 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote client crash` • `blackcat alphv group` • `cybercrime group known` • `uk government rolls` • `twitter whistleblower complaint` • `windows defender vulnerability` • `critical vulnerability affecting` • `former ransomware negotiator` • `execute windows malware` • `encrypted c2 traffic`
+`cybercrime group known` • `zimbra urges customers` • `twitter whistleblower complaint` • `stealing seized crypto` • `official docker image` • `found strong indications` • `fake telemetry functionality` • `encrypted c2 traffic` • `emailing sharefile customers` • `completely legal traffic`
 
 ## 📄 Reports
 

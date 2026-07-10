@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2057,
+      "count": 2058,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5930,10 +5930,11 @@
       ]
     },
     "data extortion attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-01",
-        "2026-02-02"
+        "2026-02-02",
+        "2026-07-10"
       ]
     },
     "multi stage malware": {
@@ -8789,12 +8790,13 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-02-25",
         "2026-02-26",
         "2026-04-29",
-        "2026-04-30"
+        "2026-04-30",
+        "2026-07-10"
       ]
     },
     "execute roguepilot flaw": {
@@ -14382,7 +14384,7 @@
       ]
     },
     "aiding blackcat attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-04-21",
         "2026-07-10"
@@ -17941,7 +17943,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18345,7 +18347,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18378,7 +18380,8 @@
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-10"
       ]
     },
     "remote web ui": {
@@ -20632,7 +20635,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22307,7 +22310,7 @@
       ]
     },
     "uk government rolls": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-10"
@@ -22368,19 +22371,73 @@
       ]
     },
     "government s determination": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-09",
         "2026-07-10"
       ]
     },
     "windows defender vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "execute windows malware": {
+      "count": 2,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "remote client crash": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "blackcat alphv group": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "former ransomware negotiator": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "encrypted c2 traffic": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "completely legal traffic": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "zimbra urges customers": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "zimbra collaboration suite": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "xquic alibaba's quic": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "servers wide open": {
       "count": 1,
       "dates": [
         "2026-07-10"
@@ -22388,17 +22445,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-28 07:46",
-      "articles": 40,
-      "top_keywords": [
-        "estimated 3 million",
-        "cyber attacks aimed",
-        "twitter whistleblower complaint",
-        "third party vendor",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-06-28 10:23",
       "articles": 40,
@@ -23486,6 +23532,17 @@
         "fast attacks move",
         "npm version 12",
         "uk government rolls"
+      ]
+    },
+    {
+      "timestamp": "2026-07-10 14:09",
+      "articles": 48,
+      "top_keywords": [
+        "remote client crash",
+        "blackcat alphv group",
+        "cybercrime group known",
+        "uk government rolls",
+        "twitter whistleblower complaint"
       ]
     }
   ]

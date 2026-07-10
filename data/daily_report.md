@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-10 19:20 UTC  
+> **Last Updated:** 2026-07-10 21:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**storage zone controllers** • **zimbra urges customers** • **twitter whistleblower complaint** • **system level sabotage** • **stealing seized crypto** • **official docker image** • **found strong indications** • **fake telemetry functionality** • **encrypted c2 traffic** • **cybercrime group known** • **completely legal traffic** • **blackcat alphv group** • **security scanning remediation** • **600 security leaders** • **told sharefile customers** • **emailing sharefile customers** • **execute windows malware** • **patched security flaws** • **critical vulnerability affecting** • **infamous ryuk ransomware**
+**storage zone controllers** • **zimbra urges customers** • **twitter whistleblower complaint** • **system level sabotage** • **stealing seized crypto** • **official docker image** • **found strong indications** • **fake telemetry functionality** • **encrypted c2 traffic** • **cybercrime group known** • **completely legal traffic** • **blackcat alphv group** • **told sharefile customers** • **emailing sharefile customers** • **security scanning remediation** • **execute windows malware** • **600 security leaders** • **critical vulnerability affecting** • **infamous ryuk ransomware** • **former ransomware negotiator**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery)
 - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
 - [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust)
 - [More Countries Jump on the Social Media 'Ban Wagon'](https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon)
 - [AI Coding: Do Security Risks Outweigh Productivity Gains?](https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains)
 - [Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure](https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure)
 - [Microsoft Reins in RoguePlanet Zero-Day Threat](https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat)
-- [AI Agents Are a New Kind of Identity—and Most Organizations Aren't Ready](https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready)
-- [As Global Conflicts Go Digital, Businesses Need Wartime Game Plans](https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans)
+- [AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready](https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready)
 
 ### Security Week
 

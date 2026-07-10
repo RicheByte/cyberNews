@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 19:20",
+  "last_updated": "2026-07-10 21:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -15,55 +15,55 @@
     "cybercrime group known",
     "completely legal traffic",
     "blackcat alphv group",
-    "security scanning remediation",
-    "600 security leaders",
     "told sharefile customers",
     "emailing sharefile customers",
+    "security scanning remediation",
     "execute windows malware",
-    "patched security flaws",
+    "600 security leaders",
     "critical vulnerability affecting",
-    "infamous ryuk ransomware"
+    "infamous ryuk ransomware",
+    "former ransomware negotiator"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "zimbra urges customers",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2060
+      "mentions": 2061
     },
     {
       "keyword": "system level sabotage",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "stealing seized crypto",
-      "mentions": 2
-    },
-    {
-      "keyword": "official docker image",
-      "mentions": 2
-    },
-    {
-      "keyword": "found strong indications",
-      "mentions": 2
-    },
-    {
-      "keyword": "fake telemetry functionality",
-      "mentions": 2
-    },
-    {
-      "keyword": "encrypted c2 traffic",
       "mentions": 3
     },
     {
+      "keyword": "official docker image",
+      "mentions": 3
+    },
+    {
+      "keyword": "found strong indications",
+      "mentions": 3
+    },
+    {
+      "keyword": "fake telemetry functionality",
+      "mentions": 3
+    },
+    {
+      "keyword": "encrypted c2 traffic",
+      "mentions": 4
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 136
+      "mentions": 137
     }
   ],
   "articles": [
@@ -315,6 +315,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
+      "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
+      "summary": "On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Ellis' advocacy on behalf of security researchers.",
+      "published": "Fri, 10 Jul 2026 19:08:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
       "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
       "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
@@ -375,19 +384,10 @@
     },
     {
       "source": "Dark Reading",
-      "title": "AI Agents Are a New Kind of Identity—and Most Organizations Aren't Ready",
+      "title": "AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready",
       "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
       "summary": "If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
       "published": "Thu, 09 Jul 2026 19:16:02 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
-      "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
-      "summary": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
-      "published": "Thu, 09 Jul 2026 14:31:20 GMT",
       "value_score": 10,
       "value_signals": []
     },

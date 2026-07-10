@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-10 21:01 UTC  
+> **Last Updated:** 2026-07-10 22:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**storage zone controllers** • **zimbra urges customers** • **twitter whistleblower complaint** • **system level sabotage** • **stealing seized crypto** • **official docker image** • **found strong indications** • **fake telemetry functionality** • **encrypted c2 traffic** • **cybercrime group known** • **completely legal traffic** • **blackcat alphv group** • **told sharefile customers** • **emailing sharefile customers** • **security scanning remediation** • **execute windows malware** • **600 security leaders** • **critical vulnerability affecting** • **infamous ryuk ransomware** • **former ransomware negotiator**
+**storage zone controllers** • **zimbra urges customers** • **twitter whistleblower complaint** • **system level sabotage** • **stealing seized crypto** • **official docker image** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **encrypted c2 traffic** • **cybercrime group known** • **completely legal traffic** • **told sharefile customers** • **emailing sharefile customers** • **security scanning remediation** • **600 security leaders** • **install persistent malware** • **execute windows malware** • **critical vulnerability affecting** • **arbitrary code execution**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
 - [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
 - [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
 - [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
@@ -34,7 +35,6 @@
 - [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
 - [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/)
 - [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/)
-- [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/)
 
 ### Krebs on Security
 

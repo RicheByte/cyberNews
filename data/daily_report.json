@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10 21:01",
+  "last_updated": "2026-07-10 22:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,60 +10,60 @@
     "stealing seized crypto",
     "official docker image",
     "found strong indications",
+    "former ransomware negotiator",
     "fake telemetry functionality",
     "encrypted c2 traffic",
     "cybercrime group known",
     "completely legal traffic",
-    "blackcat alphv group",
     "told sharefile customers",
     "emailing sharefile customers",
     "security scanning remediation",
-    "execute windows malware",
     "600 security leaders",
+    "install persistent malware",
+    "execute windows malware",
     "critical vulnerability affecting",
-    "infamous ryuk ransomware",
-    "former ransomware negotiator"
+    "arbitrary code execution"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "zimbra urges customers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2061
+      "mentions": 2062
     },
     {
       "keyword": "system level sabotage",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "stealing seized crypto",
-      "mentions": 3
-    },
-    {
-      "keyword": "official docker image",
-      "mentions": 3
-    },
-    {
-      "keyword": "found strong indications",
-      "mentions": 3
-    },
-    {
-      "keyword": "fake telemetry functionality",
-      "mentions": 3
-    },
-    {
-      "keyword": "encrypted c2 traffic",
       "mentions": 4
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 137
+      "keyword": "official docker image",
+      "mentions": 4
+    },
+    {
+      "keyword": "found strong indications",
+      "mentions": 4
+    },
+    {
+      "keyword": "former ransomware negotiator",
+      "mentions": 4
+    },
+    {
+      "keyword": "fake telemetry functionality",
+      "mentions": 4
+    },
+    {
+      "keyword": "encrypted c2 traffic",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -146,6 +146,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New U-Boot flaws could enable stealthy firmware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+      "published": "Fri, 10 Jul 2026 17:59:02 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
       "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
       "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
@@ -216,17 +225,6 @@
       "value_signals": [
         "Patch/update ×2",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Former ransomware negotiator gets 4 years for BlackCat attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/",
-      "summary": "A former employee of cybersecurity incident response company DigitalMint was sentenced to 70 months in prison for targeting U.S. companies in BlackCat (ALPHV) ransomware attacks. [...]",
-      "published": "Fri, 10 Jul 2026 04:17:52 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {
@@ -317,7 +315,7 @@
       "source": "Dark Reading",
       "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
       "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
-      "summary": "On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Ellis' advocacy on behalf of security researchers.",
+      "summary": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
       "published": "Fri, 10 Jul 2026 19:08:04 GMT",
       "value_score": 10,
       "value_signals": []

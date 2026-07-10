@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2059,
+      "count": 2060,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -8790,7 +8790,7 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-25",
         "2026-02-26",
@@ -10178,7 +10178,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -20636,7 +20636,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22385,7 +22385,7 @@
       ]
     },
     "execute windows malware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-10"
       ]
@@ -22397,7 +22397,7 @@
       ]
     },
     "blackcat alphv group": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-10"
       ]
@@ -22409,19 +22409,19 @@
       ]
     },
     "encrypted c2 traffic": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-10"
       ]
     },
     "completely legal traffic": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-10"
       ]
     },
     "zimbra urges customers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-10"
       ]
@@ -22445,42 +22445,66 @@
       ]
     },
     "stealing seized crypto": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "official docker image": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "found strong indications": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "fake telemetry functionality": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "emailing sharefile customers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "security scanning remediation": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-10"
       ]
     },
     "600 security leaders": {
+      "count": 2,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "storage zone controllers": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "system level sabotage": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "told sharefile customers": {
+      "count": 1,
+      "dates": [
+        "2026-07-10"
+      ]
+    },
+    "infamous ryuk ransomware": {
       "count": 1,
       "dates": [
         "2026-07-10"
@@ -22488,17 +22512,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-28 13:25",
-      "articles": 40,
-      "top_keywords": [
-        "estimated 3 million",
-        "cyber attacks aimed",
-        "twitter whistleblower complaint",
-        "third party vendor",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-06-28 15:13",
       "articles": 48,
@@ -23586,6 +23599,17 @@
         "twitter whistleblower complaint",
         "stealing seized crypto",
         "official docker image"
+      ]
+    },
+    {
+      "timestamp": "2026-07-10 19:20",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "zimbra urges customers",
+        "twitter whistleblower complaint",
+        "system level sabotage",
+        "stealing seized crypto"
       ]
     }
   ]

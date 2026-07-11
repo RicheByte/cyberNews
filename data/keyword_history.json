@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2070,
+      "count": 2071,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3120,7 +3120,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 253,
+      "count": 254,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10182,7 +10182,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -19644,7 +19644,7 @@
       ]
     },
     "user including administrators": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -20642,7 +20642,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22411,7 +22411,7 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22458,28 +22458,28 @@
       ]
     },
     "stealing seized crypto": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "official docker image": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "found strong indications": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "fake telemetry functionality": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22493,7 +22493,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22507,21 +22507,21 @@
       ]
     },
     "storage zone controllers": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "system level sabotage": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "told sharefile customers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22541,30 +22541,36 @@
       ]
     },
     "write every secret": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-11"
       ]
     },
     "user sessions zimbra": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-11"
       ]
     },
     "already falling short": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-11"
       ]
     },
     "release six minutes": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-11"
       ]
     },
     "telecommunications provider odido": {
+      "count": 2,
+      "dates": [
+        "2026-07-11"
+      ]
+    },
+    "stealing 290 000": {
       "count": 1,
       "dates": [
         "2026-07-11"
@@ -22572,17 +22578,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-29 21:20",
-      "articles": 48,
-      "top_keywords": [
-        "shinyhunters extortion group",
-        "cybercrime group known",
-        "resetting account passwords",
-        "october 2027 microsoft",
-        "public github account"
-      ]
-    },
     {
       "timestamp": "2026-06-29 22:51",
       "articles": 48,
@@ -23663,6 +23658,17 @@
     },
     {
       "timestamp": "2026-07-11 18:53",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "official docker image",
+        "system level sabotage",
+        "user including administrators",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-11 20:41",
       "articles": 48,
       "top_keywords": [
         "storage zone controllers",

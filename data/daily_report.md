@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-11 16:50 UTC  
+> **Last Updated:** 2026-07-11 18:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**storage zone controllers** • **official docker image** • **twitter whistleblower complaint** • **system level sabotage** • **stealing seized crypto** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **encrypted c2 traffic** • **cybercrime group known** • **completely legal traffic** • **security scanning remediation** • **install persistent malware** • **execute windows malware** • **patched security flaws** • **arbitrary code execution** • **xquic alibaba's quic** • **write every secret** • **user sessions zimbra** • **user including administrators**
+**storage zone controllers** • **official docker image** • **system level sabotage** • **user including administrators** • **twitter whistleblower complaint** • **stealing seized crypto** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **cybercrime group known** • **already falling short** • **release six minutes** • **security scanning remediation** • **install persistent malware** • **patched security flaws** • **arbitrary code execution** • **write every secret** • **user sessions zimbra** • **told sharefile customers** • **telecommunications provider odido**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
+- [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
 - [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
 - [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
 - [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
 - [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
 - [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html)
 - [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html)
-- [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html)
-- [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Ghost Accounts Abuse GitHub API in Mass Recon Campaign](https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/)
 - [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
 - [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
 - [China, India-Linked Hackers Both Targeted Same Pakistani Police Force](https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/)
@@ -67,7 +68,6 @@
 - [GigaWiper Combines Multiple Malware for System-Level Sabotage](https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/)
 - [‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism](https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/)
 - [Network of 200 GitHub Repositories Used for Malware Infection](https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/)
-- [QIZ Security Raises $17 Million for Cryptographic Governance Platform](https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/)
 
 ### Threatpost
 

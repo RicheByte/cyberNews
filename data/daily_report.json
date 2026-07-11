@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-07-11 16:50",
+  "last_updated": "2026-07-11 18:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "storage zone controllers",
     "official docker image",
-    "twitter whistleblower complaint",
     "system level sabotage",
+    "user including administrators",
+    "twitter whistleblower complaint",
     "stealing seized crypto",
     "found strong indications",
     "former ransomware negotiator",
     "fake telemetry functionality",
-    "encrypted c2 traffic",
     "cybercrime group known",
-    "completely legal traffic",
+    "already falling short",
+    "release six minutes",
     "security scanning remediation",
     "install persistent malware",
-    "execute windows malware",
     "patched security flaws",
     "arbitrary code execution",
-    "xquic alibaba's quic",
     "write every secret",
     "user sessions zimbra",
-    "user including administrators"
+    "told sharefile customers",
+    "telecommunications provider odido"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "official docker image",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2069
+      "mentions": 12
     },
     {
       "keyword": "system level sabotage",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "user including administrators",
+      "mentions": 28
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2070
     },
     {
       "keyword": "stealing seized crypto",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "found strong indications",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "former ransomware negotiator",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "fake telemetry functionality",
-      "mentions": 11
-    },
-    {
-      "keyword": "encrypted c2 traffic",
       "mentions": 12
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 145
+      "mentions": 146
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "summary": "Version 8.14.0 of the jscrambler npm package shipped with a malicious preinstall hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux. Published on July 11, 2026, it needs no import and no CLI call. Installing 8.14.0 is enough to run it. Socket flagged the release six minutes after it was",
+      "published": "Sat, 11 Jul 2026 23:29:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
+      "published": "Sat, 11 Jul 2026 23:19:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
@@ -124,26 +142,6 @@
       "value_signals": [
         "Privilege escalation",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic",
-      "link": "https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html",
-      "summary": "The China-linked cybercrime group known as Silver Fox has been attributed to a new Rust-based remote access trojan (RAR) called MODBEACON. Chinese cybersecurity company QiAnXin said that while the threat cluster may appear like a low-sophistication, high-activity operation that propagates malware via counterfeit installers using SEO poisoning techniques, it belies their true organizational",
-      "published": "Fri, 10 Jul 2026 18:45:23 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers",
-      "link": "https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html",
-      "summary": "A single wrong variable on one line in XQUIC, Alibaba's QUIC and HTTP/3 library, lets any remote client crash the server with a short burst of completely legal traffic. There is no patch. FoxIO researcher Sébastien Féry disclosed the flaw on July 8 and nicknamed it XRING. He says it needs no login and no malformed packets: about 260 bytes of ordinary QPACK traffic takes the server",
-      "published": "Fri, 10 Jul 2026 17:17:43 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -392,6 +390,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+      "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
+      "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek .",
+      "published": "Sat, 11 Jul 2026 17:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
       "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
       "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on SecurityWeek .",
@@ -464,15 +471,6 @@
       "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
       "summary": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware. The post Network of 200 GitHub Repositories Used for Malware Infection appeared first on SecurityWeek .",
       "published": "Fri, 10 Jul 2026 08:00:14 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "QIZ Security Raises $17 Million for Cryptographic Governance Platform",
-      "link": "https://www.securityweek.com/qiz-security-raises-17-million-for-cryptographic-governance-platform/",
-      "summary": "The Israeli company has developed a cryptographic posture and post-quantum cryptography management platform. The post QIZ Security Raises $17 Million for Cryptographic Governance Platform appeared first on SecurityWeek .",
-      "published": "Thu, 09 Jul 2026 15:03:51 +0000",
       "value_score": 10,
       "value_signals": []
     },

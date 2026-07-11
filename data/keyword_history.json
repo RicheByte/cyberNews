@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2063,
+      "count": 2064,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3120,7 +3120,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -8793,7 +8793,7 @@
       ]
     },
     "critical vulnerability affecting": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-02-25",
         "2026-02-26",
@@ -20640,7 +20640,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22390,7 +22390,7 @@
       ]
     },
     "execute windows malware": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22409,28 +22409,28 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "encrypted c2 traffic": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "completely legal traffic": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "zimbra urges customers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22455,70 +22455,70 @@
       ]
     },
     "stealing seized crypto": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "official docker image": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "found strong indications": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "fake telemetry functionality": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "emailing sharefile customers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "security scanning remediation": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "600 security leaders": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "storage zone controllers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "system level sabotage": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "told sharefile customers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22531,7 +22531,7 @@
       ]
     },
     "install persistent malware": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22539,17 +22539,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-28 20:55",
-      "articles": 48,
-      "top_keywords": [
-        "estimated 3 million",
-        "cybercrime group known",
-        "cyber attacks aimed",
-        "fast spreading internet",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-06-28 22:58",
       "articles": 48,
@@ -23630,6 +23619,17 @@
     },
     {
       "timestamp": "2026-07-11 02:07",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "zimbra urges customers",
+        "twitter whistleblower complaint",
+        "system level sabotage",
+        "stealing seized crypto"
+      ]
+    },
+    {
+      "timestamp": "2026-07-11 06:08",
       "articles": 48,
       "top_keywords": [
         "storage zone controllers",

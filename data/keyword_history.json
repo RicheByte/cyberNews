@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2068,
+      "count": 2069,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3120,7 +3120,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 251,
+      "count": 252,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10182,7 +10182,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -19644,7 +19644,7 @@
       ]
     },
     "user including administrators": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -20642,7 +20642,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22392,7 +22392,7 @@
       ]
     },
     "execute windows malware": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22411,21 +22411,21 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "encrypted c2 traffic": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "completely legal traffic": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22445,7 +22445,7 @@
       ]
     },
     "xquic alibaba's quic": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22458,28 +22458,28 @@
       ]
     },
     "stealing seized crypto": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "official docker image": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "found strong indications": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "fake telemetry functionality": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22493,7 +22493,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22507,14 +22507,14 @@
       ]
     },
     "storage zone controllers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "system level sabotage": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-10",
         "2026-07-11"
@@ -22534,37 +22534,26 @@
       ]
     },
     "install persistent malware": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-10",
         "2026-07-11"
       ]
     },
     "write every secret": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-11"
       ]
     },
     "user sessions zimbra": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-11"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-29 16:55",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "fast spreading internet",
-        "ukraine throughout 2025",
-        "twitter whistleblower complaint",
-        "run ad fraud"
-      ]
-    },
     {
       "timestamp": "2026-06-29 19:49",
       "articles": 48,
@@ -23645,6 +23634,17 @@
     },
     {
       "timestamp": "2026-07-11 14:47",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "official docker image",
+        "twitter whistleblower complaint",
+        "system level sabotage",
+        "stealing seized crypto"
+      ]
+    },
+    {
+      "timestamp": "2026-07-11 16:50",
       "articles": 48,
       "top_keywords": [
         "storage zone controllers",

@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-11 06:08",
+  "last_updated": "2026-07-11 09:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "storage zone controllers",
-    "zimbra urges customers",
+    "official docker image",
     "twitter whistleblower complaint",
     "system level sabotage",
     "stealing seized crypto",
-    "official docker image",
     "found strong indications",
     "former ransomware negotiator",
     "fake telemetry functionality",
     "encrypted c2 traffic",
     "cybercrime group known",
     "completely legal traffic",
-    "told sharefile customers",
-    "emailing sharefile customers",
     "security scanning remediation",
-    "600 security leaders",
     "install persistent malware",
     "execute windows malware",
-    "critical vulnerability affecting",
-    "arbitrary code execution"
+    "patched security flaws",
+    "arbitrary code execution",
+    "xquic alibaba's quic",
+    "write every secret",
+    "user sessions zimbra",
+    "user including administrators"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 5
-    },
-    {
-      "keyword": "zimbra urges customers",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2064
-    },
-    {
-      "keyword": "system level sabotage",
-      "mentions": 5
-    },
-    {
-      "keyword": "stealing seized crypto",
       "mentions": 6
     },
     {
       "keyword": "official docker image",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2065
+    },
+    {
+      "keyword": "system level sabotage",
       "mentions": 6
+    },
+    {
+      "keyword": "stealing seized crypto",
+      "mentions": 7
     },
     {
       "keyword": "found strong indications",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "former ransomware negotiator",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "fake telemetry functionality",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "encrypted c2 traffic",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 141
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. \"The",
+      "published": "Sat, 11 Jul 2026 12:15:55 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
@@ -136,11 +147,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale",
-      "link": "https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html",
-      "summary": "Most enterprises assume their asset inventory is close enough to accurate. The evidence suggests otherwise. According to a survey of over 600 security leaders in the 2026 Axonius Actionability Report, only 45% of organizations consolidate their asset and exposure data into a single view, and every downstream security program inherits whatever the inventory gets wrong. Lumen Technologies, a",
-      "published": "Fri, 10 Jul 2026 17:09:40 +0530",
+      "source": "BleepingComputer",
+      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
+      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
+      "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]",
+      "published": "Sat, 11 Jul 2026 05:03:57 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -214,18 +225,6 @@
       "published": "Fri, 10 Jul 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zimbra urges customers to patch critical web client XSS flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/",
-      "summary": "The Zimbra security team urged customers to patch a critical vulnerability affecting the Classic Web Client used to access the Zimbra Collaboration suite. [...]",
-      "published": "Fri, 10 Jul 2026 07:47:38 -0400",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

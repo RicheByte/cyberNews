@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-11 06:08 UTC |
+| 🕐 Last Updated | 2026-07-11 09:22 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`storage zone controllers` • `zimbra urges customers` • `twitter whistleblower complaint` • `system level sabotage` • `stealing seized crypto` • `official docker image` • `found strong indications` • `former ransomware negotiator` • `fake telemetry functionality` • `encrypted c2 traffic`
+`storage zone controllers` • `official docker image` • `twitter whistleblower complaint` • `system level sabotage` • `stealing seized crypto` • `found strong indications` • `former ransomware negotiator` • `fake telemetry functionality` • `encrypted c2 traffic` • `cybercrime group known`
 
 ## 📄 Reports
 

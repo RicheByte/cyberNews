@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2075,
+      "count": 2076,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3121,7 +3121,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 258,
+      "count": 259,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10184,7 +10184,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -19647,7 +19647,7 @@
       ]
     },
     "user including administrators": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -20646,7 +20646,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22416,7 +22416,7 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22464,7 +22464,7 @@
       ]
     },
     "stealing seized crypto": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22472,7 +22472,7 @@
       ]
     },
     "official docker image": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22480,7 +22480,7 @@
       ]
     },
     "found strong indications": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22488,7 +22488,7 @@
       ]
     },
     "fake telemetry functionality": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22503,7 +22503,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22518,7 +22518,7 @@
       ]
     },
     "storage zone controllers": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22526,7 +22526,7 @@
       ]
     },
     "system level sabotage": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22534,7 +22534,7 @@
       ]
     },
     "told sharefile customers": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22555,42 +22555,42 @@
       ]
     },
     "write every secret": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "user sessions zimbra": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "already falling short": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "release six minutes": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "telecommunications provider odido": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "stealing 290 000": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-11",
         "2026-07-12"
@@ -22598,17 +22598,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-30 14:07",
-      "articles": 48,
-      "top_keywords": [
-        "teams meetings microsoft",
-        "cybercrime group known",
-        "third party actors",
-        "shinyhunters extortion group",
-        "resetting account passwords"
-      ]
-    },
     {
       "timestamp": "2026-06-30 17:48",
       "articles": 48,
@@ -23689,6 +23678,17 @@
     },
     {
       "timestamp": "2026-07-12 09:46",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "official docker image",
+        "system level sabotage",
+        "user including administrators",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-12 11:06",
       "articles": 48,
       "top_keywords": [
         "storage zone controllers",

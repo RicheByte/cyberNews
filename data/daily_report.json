@@ -1,14 +1,13 @@
 {
-  "last_updated": "2026-07-12 13:07",
+  "last_updated": "2026-07-12 14:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "storage zone controllers",
     "official docker image",
-    "system level sabotage",
     "user including administrators",
     "twitter whistleblower complaint",
-    "stealing seized crypto",
+    "system level sabotage",
     "found strong indications",
     "former ransomware negotiator",
     "fake telemetry functionality",
@@ -17,53 +16,54 @@
     "release six minutes",
     "security scanning remediation",
     "patched security flaws",
+    "execute windows malware",
     "arbitrary code execution",
     "write every secret",
+    "uses wireless adb",
     "user sessions zimbra",
     "told sharefile customers",
-    "telecommunications provider odido",
-    "stealing 290 000"
+    "telecommunications provider odido"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 18
-    },
-    {
-      "keyword": "official docker image",
       "mentions": 19
     },
     {
-      "keyword": "system level sabotage",
-      "mentions": 18
+      "keyword": "official docker image",
+      "mentions": 20
     },
     {
       "keyword": "user including administrators",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2077
+      "mentions": 2078
     },
     {
-      "keyword": "stealing seized crypto",
+      "keyword": "system level sabotage",
       "mentions": 19
     },
     {
       "keyword": "found strong indications",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "former ransomware negotiator",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "fake telemetry functionality",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 153
+      "mentions": 154
+    },
+    {
+      "keyword": "already falling short",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -146,6 +146,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+      "published": "Sun, 12 Jul 2026 10:27:32 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
       "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
       "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
@@ -216,15 +225,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Money launderer accused of stealing seized crypto while in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/",
-      "summary": "A Bulgarian national has been charged with stealing $290,000 in government-seized cryptocurrency while serving 121 months in prison for helping launder millions stolen from American fraud victims. [...]",
-      "published": "Fri, 10 Jul 2026 11:30:19 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

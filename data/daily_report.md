@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-12 13:07 UTC  
+> **Last Updated:** 2026-07-12 14:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**storage zone controllers** • **official docker image** • **system level sabotage** • **user including administrators** • **twitter whistleblower complaint** • **stealing seized crypto** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **cybercrime group known** • **already falling short** • **release six minutes** • **security scanning remediation** • **patched security flaws** • **arbitrary code execution** • **write every secret** • **user sessions zimbra** • **told sharefile customers** • **telecommunications provider odido** • **stealing 290 000**
+**storage zone controllers** • **official docker image** • **user including administrators** • **twitter whistleblower complaint** • **system level sabotage** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **cybercrime group known** • **already falling short** • **release six minutes** • **security scanning remediation** • **patched security flaws** • **execute windows malware** • **arbitrary code execution** • **write every secret** • **uses wireless adb** • **user sessions zimbra** • **told sharefile customers** • **telecommunications provider odido**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
 - [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
 - ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
 - [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
@@ -34,7 +35,6 @@
 - [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
 - [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
 - [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/)
-- [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/)
 
 ### Krebs on Security
 

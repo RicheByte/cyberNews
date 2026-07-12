@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2077,
+      "count": 2078,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3121,7 +3121,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10184,7 +10184,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -19647,7 +19647,7 @@
       ]
     },
     "user including administrators": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-06-12",
         "2026-06-13",
@@ -20646,7 +20646,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22397,10 +22397,11 @@
       ]
     },
     "execute windows malware": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-10",
-        "2026-07-11"
+        "2026-07-11",
+        "2026-07-12"
       ]
     },
     "remote client crash": {
@@ -22416,7 +22417,7 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22472,7 +22473,7 @@
       ]
     },
     "official docker image": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22480,7 +22481,7 @@
       ]
     },
     "found strong indications": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22488,7 +22489,7 @@
       ]
     },
     "fake telemetry functionality": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22503,7 +22504,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22518,7 +22519,7 @@
       ]
     },
     "storage zone controllers": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22526,7 +22527,7 @@
       ]
     },
     "system level sabotage": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22534,7 +22535,7 @@
       ]
     },
     "told sharefile customers": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22555,35 +22556,35 @@
       ]
     },
     "write every secret": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "user sessions zimbra": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "already falling short": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "release six minutes": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "telecommunications provider odido": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-11",
         "2026-07-12"
@@ -22595,20 +22596,15 @@
         "2026-07-11",
         "2026-07-12"
       ]
+    },
+    "uses wireless adb": {
+      "count": 1,
+      "dates": [
+        "2026-07-12"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-06-30 19:47",
-      "articles": 48,
-      "top_keywords": [
-        "third party actors",
-        "teams meetings microsoft",
-        "cybercrime group known",
-        "critical langflow vulnerability",
-        "unsuspecting users initiate"
-      ]
-    },
     {
       "timestamp": "2026-06-30 21:23",
       "articles": 40,
@@ -23696,6 +23692,17 @@
         "system level sabotage",
         "user including administrators",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-12 14:50",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "official docker image",
+        "user including administrators",
+        "twitter whistleblower complaint",
+        "system level sabotage"
       ]
     }
   ]

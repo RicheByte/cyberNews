@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2081,
+      "count": 2082,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3121,7 +3121,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 264,
+      "count": 265,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3742,7 +3742,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 244,
+      "count": 245,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -10185,7 +10185,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -20647,7 +20647,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22398,7 +22398,7 @@
       ]
     },
     "execute windows malware": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22418,7 +22418,7 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22482,7 +22482,7 @@
       ]
     },
     "found strong indications": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22490,7 +22490,7 @@
       ]
     },
     "fake telemetry functionality": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22505,7 +22505,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22520,7 +22520,7 @@
       ]
     },
     "storage zone controllers": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22528,7 +22528,7 @@
       ]
     },
     "system level sabotage": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22536,7 +22536,7 @@
       ]
     },
     "told sharefile customers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22557,35 +22557,35 @@
       ]
     },
     "write every secret": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "user sessions zimbra": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "already falling short": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "release six minutes": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-11",
         "2026-07-12"
       ]
     },
     "telecommunications provider odido": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-11",
         "2026-07-12"
@@ -22599,30 +22599,19 @@
       ]
     },
     "uses wireless adb": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-12"
       ]
     },
     "redhook android malware": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-01 08:06",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "critical langflow vulnerability",
-        "bluehammer vulnerability exploited",
-        "twitter whistleblower complaint",
-        "read arbitrary files"
-      ]
-    },
     {
       "timestamp": "2026-07-01 12:30",
       "articles": 48,
@@ -23703,6 +23692,17 @@
     },
     {
       "timestamp": "2026-07-12 20:38",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "redhook android malware",
+        "twitter whistleblower complaint",
+        "system level sabotage",
+        "found strong indications"
+      ]
+    },
+    {
+      "timestamp": "2026-07-12 22:41",
       "articles": 48,
       "top_keywords": [
         "storage zone controllers",

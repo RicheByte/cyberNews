@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2089,
+      "count": 2090,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -548,7 +548,7 @@
       ]
     },
     "real life identity": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -791,7 +791,7 @@
       ]
     },
     "remote code execution": {
-      "count": 475,
+      "count": 476,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1841,7 +1841,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 452,
+      "count": 453,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -18367,7 +18367,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18413,7 +18413,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19266,7 +19266,7 @@
       ]
     },
     "obama white house": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -19278,7 +19278,8 @@
         "2026-07-05",
         "2026-07-06",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-13"
       ]
     },
     "nearly three dozen": {
@@ -20109,7 +20110,7 @@
       ]
     },
     "public github repository": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20660,7 +20661,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20721,7 +20722,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22596,7 +22597,7 @@
       ]
     },
     "already falling short": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22671,19 +22672,19 @@
       ]
     },
     "already connected claude": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-13"
       ]
     },
     "stolen 720 gb": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-13"
       ]
     },
     "seeing real value": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-13"
       ]
@@ -22707,19 +22708,19 @@
       ]
     },
     "various malware families": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13"
       ]
     },
     "trusted code turns": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13"
       ]
     },
     "official store version": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-13"
       ]
@@ -22737,36 +22738,25 @@
       ]
     },
     "threat actor published": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "targeting balbooa forms": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "ordinary looking reply": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-02 10:32",
-      "articles": 48,
-      "top_keywords": [
-        "apple patches dozens",
-        "cybercrime group known",
-        "resetting account passwords",
-        "lynx ransomware operations",
-        "whole job breaking"
-      ]
-    },
     {
       "timestamp": "2026-07-02 13:47",
       "articles": 48,
@@ -23847,6 +23837,17 @@
     },
     {
       "timestamp": "2026-07-13 20:52",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "remote code execution",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "resetting account passwords"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13 22:51",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13 20:52",
+  "last_updated": "2026-07-13 22:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -19,51 +19,51 @@
     "seeing real value",
     "real life identity",
     "public github repository",
-    "productivity gains worth",
     "pro iranian images",
     "ordinary looking reply",
-    "official store version"
+    "official store version",
+    "obama white house"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "remote code execution",
-      "mentions": 475
+      "mentions": 476
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 452
+      "mentions": 453
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2089
+      "mentions": 2090
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 159
+      "mentions": 160
     },
     {
       "keyword": "criminal charges stemming",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "already falling short",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "already connected claude",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "threat actor published",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "various malware families",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -316,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Weak Security Continues to Fuel Russian Cyberattacks",
+      "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
+      "summary": "In a first, the UK and the EU jointly impose sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
+      "published": "Mon, 13 Jul 2026 21:24:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Yellow Teams' Are Defining the Future of AI Security",
       "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
       "summary": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
@@ -378,15 +387,6 @@
       "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
       "summary": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
       "published": "Fri, 10 Jul 2026 13:50:24 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?",
-      "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
-      "summary": "AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?",
-      "published": "Fri, 10 Jul 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

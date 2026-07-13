@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-13 20:52 UTC  
+> **Last Updated:** 2026-07-13 22:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **remote code execution** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **resetting account passwords** • **criminal charges stemming** • **already falling short** • **already connected claude** • **threat actor published** • **various malware families** • **trusted code turns** • **targeting balbooa forms** • **stolen 720 gb** • **seeing real value** • **real life identity** • **public github repository** • **productivity gains worth** • **pro iranian images** • **ordinary looking reply** • **official store version**
+**cybercrime group known** • **remote code execution** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **resetting account passwords** • **criminal charges stemming** • **already falling short** • **already connected claude** • **threat actor published** • **various malware families** • **trusted code turns** • **targeting balbooa forms** • **stolen 720 gb** • **seeing real value** • **real life identity** • **public github repository** • **pro iranian images** • **ordinary looking reply** • **official store version** • **obama white house**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Weak Security Continues to Fuel Russian Cyberattacks](https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks)
 - ['Yellow Teams' Are Defining the Future of AI Security](https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security)
 - [GigaWiper Lets Threat Actors Choose Their Own Destructive Attack](https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack)
 - [Turning the Tables on Email Scammers With 'ScamBuster'](https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster)
@@ -56,7 +57,6 @@
 - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
 - [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust)
 - [More Countries Jump on the Social Media 'Ban Wagon'](https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon)
-- [AI Coding: Do Security Risks Outweigh Productivity Gains?](https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains)
 
 ### Security Week
 

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2083,
+      "count": 2084,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3122,7 +3122,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3744,7 +3744,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -10188,7 +10188,7 @@
       ]
     },
     "patched security flaws": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-11",
         "2026-03-12",
@@ -17957,7 +17957,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 194,
+      "count": 195,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -20652,7 +20652,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22404,7 +22404,7 @@
       ]
     },
     "execute windows malware": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22425,7 +22425,7 @@
       ]
     },
     "former ransomware negotiator": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22490,7 +22490,7 @@
       ]
     },
     "found strong indications": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22499,7 +22499,7 @@
       ]
     },
     "fake telemetry functionality": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22515,7 +22515,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22531,7 +22531,7 @@
       ]
     },
     "storage zone controllers": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22540,7 +22540,7 @@
       ]
     },
     "system level sabotage": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22570,7 +22570,7 @@
       ]
     },
     "write every secret": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22578,7 +22578,7 @@
       ]
     },
     "user sessions zimbra": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22586,7 +22586,7 @@
       ]
     },
     "already falling short": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22594,7 +22594,7 @@
       ]
     },
     "release six minutes": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22602,7 +22602,7 @@
       ]
     },
     "telecommunications provider odido": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22617,14 +22617,14 @@
       ]
     },
     "uses wireless adb": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-12",
         "2026-07-13"
       ]
     },
     "redhook android malware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-12",
         "2026-07-13"
@@ -22632,17 +22632,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-01 16:22",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "maximum severity rating",
-        "criminal ip explains",
-        "ai tools point",
-        "bluehammer vulnerability exploited"
-      ]
-    },
     {
       "timestamp": "2026-07-01 19:45",
       "articles": 48,
@@ -23723,6 +23712,17 @@
     },
     {
       "timestamp": "2026-07-13 02:13",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "redhook android malware",
+        "twitter whistleblower complaint",
+        "system level sabotage",
+        "found strong indications"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13 06:48",
       "articles": 48,
       "top_keywords": [
         "storage zone controllers",

@@ -1,72 +1,110 @@
 {
-  "last_updated": "2026-07-13 10:54",
+  "last_updated": "2026-07-13 14:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "storage zone controllers",
     "redhook android malware",
+    "sprawling phishing campaign",
     "cybercrime group known",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "poorly configured routers",
-    "online spying network",
+    "resetting account passwords",
     "move targeted people",
-    "laboratory services provider",
-    "fake telemetry functionality",
     "cvss scoring system",
-    "classic web client",
     "already falling short",
-    "former ransomware negotiator",
-    "security scanning remediation",
+    "already connected claude",
+    "uses wireless adb",
+    "stolen 720 gb",
+    "stark industries solutions",
+    "seeing real value",
     "release six minutes",
-    "dire critical rating",
-    "blackcat alphv group",
-    "write every secret",
-    "uses wireless adb"
+    "real life identity",
+    "readable bash history",
+    "rated 10 0",
+    "productivity gains worth",
+    "pro iranian images",
+    "poorly configured routers"
   ],
   "trending": [
     {
-      "keyword": "storage zone controllers",
-      "mentions": 26
-    },
-    {
       "keyword": "redhook android malware",
-      "mentions": 5
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 161
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2085
+      "mentions": 6
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 448
+      "mentions": 449
     },
     {
-      "keyword": "poorly configured routers",
-      "mentions": 1
+      "keyword": "cybercrime group known",
+      "mentions": 162
     },
     {
-      "keyword": "online spying network",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2086
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 156
     },
     {
       "keyword": "move targeted people",
+      "mentions": 2
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 77
+    },
+    {
+      "keyword": "already falling short",
+      "mentions": 17
+    },
+    {
+      "keyword": "already connected claude",
       "mentions": 1
     },
     {
-      "keyword": "laboratory services provider",
-      "mentions": 1
-    },
-    {
-      "keyword": "fake telemetry functionality",
-      "mentions": 27
+      "keyword": "uses wireless adb",
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
+      "link": "https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html",
+      "summary": "A new phishing-as-a-service (PhaaS) operation called Forg365 is using a combination of device code phishing, adversary-in-the-middle (AitM) tactics, antibot evasion, artificial intelligence (AI)-assisted lure creation, and post-compromise mailbox operations targeting Microsoft 365 accounts. Distributed via Telegram and costing $400 a month (or $3,800 per year), attack chains leverage phishing",
+      "published": "Mon, 13 Jul 2026 18:33:33 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
+      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
+      "summary": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
+      "published": "Mon, 13 Jul 2026 17:24:46 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots",
+      "link": "https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html",
+      "summary": "A few days ago, I was sitting with the CISO of a Fortune 50 company, walking through how his security team was thinking about AI agents in the SOC. Smart team. Serious program. They had already connected Claude to a few detection tools and were seeing real value in specific investigations. But as we mapped out the broader architecture, something kept nagging at me. The design they were building",
+      "published": "Mon, 13 Jul 2026 17:07:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
+      "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
+      "summary": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting out a number of files, and finally creating AD_Report.html to measure the success of the",
+      "published": "Mon, 13 Jul 2026 16:32:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
@@ -112,40 +150,42 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "summary": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. \"The",
-      "published": "Sat, 11 Jul 2026 12:15:55 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Lidl discloses online shop breach after service provider hack",
+      "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
+      "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
+      "published": "Mon, 13 Jul 2026 10:19:43 -0400",
+      "value_score": 34,
       "value_signals": [
-        "High severity ×2"
+        "Breach/leak ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat",
-      "link": "https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html",
-      "summary": "Progress Software has told ShareFile customers to shut down the Windows servers running their Storage Zone Controllers, confirming to The Hacker News that it is responding to a \"credible external security threat.\" The company has temporarily disabled access to the affected accounts, a step it says it took \"out of an abundance of caution\" while it works with internal and external security",
-      "published": "Fri, 10 Jul 2026 22:00:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
+      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
+      "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
+      "published": "Mon, 13 Jul 2026 10:01:11 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
+      "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
+      "published": "Mon, 13 Jul 2026 09:23:30 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages",
-      "link": "https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html",
-      "summary": "Unknown threat actors compromised the Injective Labs SDK project's GitHub repository and leveraged it to publish a malicious package on the npm registry to steal cryptocurrency wallet private keys and mnemonic seed phrases. The compromised version, @injectivelabs/sdk-ts@1.20.21, came embedded with fake telemetry functionality that exfiltrated data from cryptocurrency wallets. The version was",
-      "published": "Fri, 10 Jul 2026 21:59:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "summary": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
-      "published": "Fri, 10 Jul 2026 21:27:14 +0530",
+      "source": "BleepingComputer",
+      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
+      "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
+      "published": "Mon, 13 Jul 2026 07:19:05 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -186,46 +226,6 @@
       "published": "Sun, 12 Jul 2026 10:27:32 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "summary": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-      "published": "Sat, 11 Jul 2026 10:18:23 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
-      "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
-      "summary": "A PNG hiding a prompt injection could steal your repo's secrets, researchers demonstrate. The technique, dubbed 'Ghostcommit,' slipped past AI code reviewers CodeRabbit and Bugbot, which never open image files at all, then convinced a coding agent to read a repo's .env and write every secret into the code as a list of numbers. [...]",
-      "published": "Sat, 11 Jul 2026 05:03:57 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New U-Boot flaws could enable stealthy firmware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
-      "summary": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
-      "published": "Fri, 10 Jul 2026 17:59:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/",
-      "summary": "A 34-year-old Armenian man has pleaded guilty to hacking U.S. companies and deploying the infamous Ryuk ransomware to encrypt their systems. [...]",
-      "published": "Fri, 10 Jul 2026 13:46:10 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +313,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
+      "summary": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
+      "published": "Mon, 13 Jul 2026 13:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
       "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
       "summary": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
@@ -381,11 +392,20 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready",
-      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
-      "summary": "If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
-      "published": "Thu, 09 Jul 2026 19:16:02 GMT",
+      "source": "Security Week",
+      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
+      "summary": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in June 2026 appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 12:20:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
+      "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
+      "summary": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -451,30 +471,6 @@
       "published": "Sat, 11 Jul 2026 17:30:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops",
-      "link": "https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Abnormal AI sued by Anthropic, AssuranceAmerica data breach affects 7 million people, NSA brings back TAO. The post In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 15:01:19 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Ransomware ×2",
-        "Patch/update ×2",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Third US Security Expert Sentenced to Prison for Helping Ransomware Gang",
-      "link": "https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/",
-      "summary": "Angelo Martino, a former ransomware negotiator, was sentenced to 70 months for helping the BlackCat/Alphv group. The post Third US Security Expert Sentenced to Prison for Helping Ransomware Gang appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 12:58:39 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Threatpost",

@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2085,
+      "count": 2086,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -547,7 +547,7 @@
       ]
     },
     "real life identity": {
-      "count": 202,
+      "count": 203,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -580,7 +580,8 @@
         "2026-07-05",
         "2026-07-06",
         "2026-07-07",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-13"
       ]
     },
     "got1000 series devices": {
@@ -1838,7 +1839,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 448,
+      "count": 449,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2223,7 +2224,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -17959,7 +17960,7 @@
       ]
     },
     "stark industries solutions": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-05-28",
         "2026-05-29",
@@ -18364,7 +18365,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18398,7 +18399,8 @@
         "2026-07-07",
         "2026-07-08",
         "2026-07-09",
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-13"
       ]
     },
     "remote web ui": {
@@ -18409,7 +18411,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18430,7 +18432,8 @@
         "2026-07-06",
         "2026-07-07",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-13"
       ]
     },
     "openai codex attracting": {
@@ -20654,7 +20657,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22589,7 +22592,7 @@
       ]
     },
     "already falling short": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22597,7 +22600,7 @@
       ]
     },
     "release six minutes": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22620,21 +22623,21 @@
       ]
     },
     "uses wireless adb": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-12",
         "2026-07-13"
       ]
     },
     "redhook android malware": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-12",
         "2026-07-13"
       ]
     },
     "poorly configured routers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
@@ -22646,7 +22649,7 @@
       ]
     },
     "move targeted people": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
@@ -22662,20 +22665,45 @@
       "dates": [
         "2026-07-13"
       ]
+    },
+    "already connected claude": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "stolen 720 gb": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "seeing real value": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "readable bash history": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "rated 10 0": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "productivity gains worth": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-01 21:22",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "apple patches dozens",
-        "criminal ip explains",
-        "user agent data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-01 23:08",
       "articles": 48,
@@ -23763,6 +23791,17 @@
         "cybercrime group known",
         "twitter whistleblower complaint",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13 14:21",
+      "articles": 48,
+      "top_keywords": [
+        "redhook android malware",
+        "sprawling phishing campaign",
+        "cybercrime group known",
+        "twitter whistleblower complaint",
+        "resetting account passwords"
       ]
     }
   ]

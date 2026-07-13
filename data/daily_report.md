@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-13 10:54 UTC  
+> **Last Updated:** 2026-07-13 14:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**storage zone controllers** • **redhook android malware** • **cybercrime group known** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **poorly configured routers** • **online spying network** • **move targeted people** • **laboratory services provider** • **fake telemetry functionality** • **cvss scoring system** • **classic web client** • **already falling short** • **former ransomware negotiator** • **security scanning remediation** • **release six minutes** • **dire critical rating** • **blackcat alphv group** • **write every secret** • **uses wireless adb**
+**redhook android malware** • **sprawling phishing campaign** • **cybercrime group known** • **twitter whistleblower complaint** • **resetting account passwords** • **move targeted people** • **cvss scoring system** • **already falling short** • **already connected claude** • **uses wireless adb** • **stolen 720 gb** • **stark industries solutions** • **seeing real value** • **release six minutes** • **real life identity** • **readable bash history** • **rated 10 0** • **productivity gains worth** • **pro iranian images** • **poorly configured routers**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft](https://thehackernews.com/2026/07/forg365-phaas-targets-microsoft-365.html)
+- [Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling](https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html)
+- [Thinking Fast and Slow in the SOC: The Case for Combining Autonomous AI with Analyst Copilots](https://thehackernews.com/2026/07/thinking-fast-and-slow-in-soc-case-for.html)
+- [Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory](https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html)
 - [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html)
 - [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html)
 - [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html)
 - [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html)
-- [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html)
-- [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html)
-- [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html)
-- [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html)
 
 ### BleepingComputer
 
+- [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
+- [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
+- [UK charges suspects linked to Russian Coms call spoofing platform](https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/)
+- [EU sanctions Russian GRU military hackers over cyberattacks](https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/)
 - [US and allies warn of Russian critical infrastructure attacks](https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/)
 - [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
 - [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
 - [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
-- [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
-- ['Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets](https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/)
-- [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
-- [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Turning the Tables on Email Scammers With 'ScamBuster'](https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster)
 - [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery)
 - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
 - [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust)
@@ -56,18 +57,17 @@
 - [AI Coding: Do Security Risks Outweigh Productivity Gains?](https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains)
 - [Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure](https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure)
 - [Microsoft Reins in RoguePlanet Zero-Day Threat](https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat)
-- [AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready](https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready)
 
 ### Security Week
 
+- [Cybersecurity M&A Roundup: 37 Deals Announced in June 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/)
+- [RabbitMQ Vulnerability Threatens Enterprise Systems](https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/)
 - [Zimbra Patches Critical Code Execution Vulnerability](https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/)
 - [EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign](https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/)
 - [Organizations Warned of Exploited Joomla Extension Vulnerabilities](https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/)
 - [Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns](https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/)
 - [Centers Laboratory Data Breach Affects 540,000 Individuals](https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/)
 - [Ghost Accounts Abuse GitHub API in Mass Recon Campaign](https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/)
-- [In Other News: DHS Database Hacked, Adobe Boosts Patch Cadence, Canada Disrupts Ransomware Ops](https://www.securityweek.com/in-other-news-dhs-database-hacked-adobe-boosts-patch-cadence-canada-disrupts-ransomware-ops/)
-- [Third US Security Expert Sentenced to Prison for Helping Ransomware Gang](https://www.securityweek.com/third-us-security-expert-sentenced-to-prison-for-helping-ransomware-gang/)
 
 ### Threatpost
 

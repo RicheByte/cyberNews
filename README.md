@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-13 10:54 UTC |
+| 🕐 Last Updated | 2026-07-13 14:21 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`storage zone controllers` • `redhook android malware` • `cybercrime group known` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `poorly configured routers` • `online spying network` • `move targeted people` • `laboratory services provider` • `fake telemetry functionality`
+`redhook android malware` • `sprawling phishing campaign` • `cybercrime group known` • `twitter whistleblower complaint` • `resetting account passwords` • `move targeted people` • `cvss scoring system` • `already falling short` • `already connected claude` • `uses wireless adb`
 
 ## 📄 Reports
 

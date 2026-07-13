@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-13 06:48 UTC |
+| 🕐 Last Updated | 2026-07-13 10:54 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`storage zone controllers` • `redhook android malware` • `twitter whistleblower complaint` • `system level sabotage` • `found strong indications` • `former ransomware negotiator` • `fake telemetry functionality` • `dire critical rating` • `cybercrime group known` • `already falling short`
+`storage zone controllers` • `redhook android malware` • `cybercrime group known` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `poorly configured routers` • `online spying network` • `move targeted people` • `laboratory services provider` • `fake telemetry functionality`
 
 ## 📄 Reports
 

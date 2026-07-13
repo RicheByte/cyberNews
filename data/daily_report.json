@@ -1,72 +1,98 @@
 {
-  "last_updated": "2026-07-13 06:48",
+  "last_updated": "2026-07-13 10:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "storage zone controllers",
     "redhook android malware",
-    "twitter whistleblower complaint",
-    "system level sabotage",
-    "found strong indications",
-    "former ransomware negotiator",
-    "fake telemetry functionality",
-    "dire critical rating",
     "cybercrime group known",
+    "twitter whistleblower complaint",
+    "sprawling phishing campaign",
+    "poorly configured routers",
+    "online spying network",
+    "move targeted people",
+    "laboratory services provider",
+    "fake telemetry functionality",
+    "cvss scoring system",
+    "classic web client",
     "already falling short",
-    "release six minutes",
+    "former ransomware negotiator",
     "security scanning remediation",
-    "patched security flaws",
-    "execute windows malware",
-    "arbitrary code execution",
+    "release six minutes",
+    "dire critical rating",
+    "blackcat alphv group",
     "write every secret",
-    "uses wireless adb",
-    "user sessions zimbra",
-    "telecommunications provider odido",
-    "stark industries solutions"
+    "uses wireless adb"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "redhook android malware",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2084
-    },
-    {
-      "keyword": "system level sabotage",
-      "mentions": 25
-    },
-    {
-      "keyword": "found strong indications",
-      "mentions": 26
-    },
-    {
-      "keyword": "former ransomware negotiator",
-      "mentions": 26
-    },
-    {
-      "keyword": "fake telemetry functionality",
-      "mentions": 26
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 247
+      "mentions": 5
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 160
+      "mentions": 161
     },
     {
-      "keyword": "already falling short",
-      "mentions": 15
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2085
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 448
+    },
+    {
+      "keyword": "poorly configured routers",
+      "mentions": 1
+    },
+    {
+      "keyword": "online spying network",
+      "mentions": 1
+    },
+    {
+      "keyword": "move targeted people",
+      "mentions": 1
+    },
+    {
+      "keyword": "laboratory services provider",
+      "mentions": 1
+    },
+    {
+      "keyword": "fake telemetry functionality",
+      "mentions": 27
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
+      "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
+      "summary": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bash_history. From that one lapse, French security firm Lexfo lifted the operator's entire toolkit and pivoted through it to two more",
+      "published": "Mon, 13 Jul 2026 13:00:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days",
+      "link": "https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added two maximum-severity security flaws impacting iCagenda and Balbooa extensions for Joomla to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation in the wild. The vulnerabilities, both rated 10.0 on the CVSS scoring system, are below - CVE-2026-48939 - A vulnerability in the",
+      "published": "Mon, 13 Jul 2026 11:06:02 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Active exploitation",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
@@ -124,24 +150,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched",
-      "link": "https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html",
-      "summary": "Researchers at Ledger's Donjon security team have shown that a precisely timed laser pulse, aimed at the chip inside a Tangem crypto wallet card, can reset the card's password to anything the attacker picks. No old password. No backup card. Once it is reset, whoever did it controls the wallet and can move the coins out. This is not an emergency for most owners. The attack needs",
-      "published": "Fri, 10 Jul 2026 20:21:49 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws",
-      "link": "https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html",
-      "summary": "Details have emerged about three now-patched security flaws in the OpenClaw personal artificial intelligence (AI) assistant that, if successfully exploited, could enable credential theft, privilege escalation, and arbitrary code execution on the host. A brief description of the high-severity vulnerabilities is as follows - GHSA-hjr6-g723-hmfm (CVSS score: 8.8) - An operating system",
-      "published": "Fri, 10 Jul 2026 19:49:50 +0530",
-      "value_score": 28,
+      "source": "BleepingComputer",
+      "title": "US and allies warn of Russian critical infrastructure attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
+      "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
+      "published": "Mon, 13 Jul 2026 05:32:23 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
+        "High severity ×2"
       ]
     },
     {
@@ -209,17 +225,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police suspects Dutch hackers were involved in Odido breach",
-      "link": "https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/",
-      "summary": "The Dutch National Police (Politie) says it has found \"strong indications\" that Dutch hackers have been involved in a February breach at the telecommunications provider Odido. [...]",
-      "published": "Fri, 10 Jul 2026 12:37:01 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -386,6 +391,60 @@
     },
     {
       "source": "Security Week",
+      "title": "Zimbra Patches Critical Code Execution Vulnerability",
+      "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
+      "summary": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened. The post Zimbra Patches Critical Code Execution Vulnerability appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 10:03:47 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
+      "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
+      "summary": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure. The post EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 10:00:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
+      "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
+      "summary": "Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution. The post Organizations Warned of Exploited Joomla Extension Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 09:08:02 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns",
+      "link": "https://www.securityweek.com/progress-prompts-sharefile-storage-zone-controller-shutdown-amid-security-concerns/",
+      "summary": "The company notified customers to manually shut down their servers while it is investigating a credible threat. The post Progress Prompts ShareFile Storage Zone Controller Shutdown Amid Security Concerns appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 08:20:46 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
+      "link": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/",
+      "summary": "The WorldLeaks extortion group claimed to have stolen 720 GB of data from the healthcare testing and laboratory services provider. The post Centers Laboratory Data Breach Affects 540,000 Individuals appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 08:10:44 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
       "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
       "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek .",
@@ -416,59 +475,6 @@
       "value_signals": [
         "Ransomware ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "China, India-Linked Hackers Both Targeted Same Pakistani Police Force",
-      "link": "https://www.securityweek.com/china-india-linked-hackers-both-targeted-same-pakistani-police-force/",
-      "summary": "Both foes and allies have targeted the Balochistan Police force in Pakistan for at least two years, according to SentinelOne. The post China, India-Linked Hackers Both Targeted Same Pakistani Police Force appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 11:55:11 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers",
-      "link": "https://www.securityweek.com/okta-warns-of-vishing-attacks-targeting-microsoft-365-customers/",
-      "summary": "The attackers call victims to direct them to phishing websites mirroring Microsoft Entra ID login pages. The post Okta Warns of Vishing Attacks Targeting Microsoft 365 Customers appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 11:06:36 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "GigaWiper Combines Multiple Malware for System-Level Sabotage",
-      "link": "https://www.securityweek.com/gigawiper-combines-multiple-malware-for-system-level-sabotage/",
-      "summary": "The backdoor’s destructive capabilities include a standalone wiper, ransomware encryption, and a multi-pass wiping command. The post GigaWiper Combines Multiple Malware for System-Level Sabotage appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 09:12:08 +0000",
-      "value_score": 40,
-      "value_signals": [
-        "Ransomware",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism",
-      "link": "https://www.securityweek.com/hallusquatting-turns-ai-hallucinations-into-botnet-delivery-mechanism/",
-      "summary": "Researchers demonstrate adversarial hallucination squatting against popular AI assistants to achieve remote code execution. The post ‘HalluSquatting’ Turns AI Hallucinations Into Botnet Delivery Mechanism appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 08:32:33 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "RCE",
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Network of 200 GitHub Repositories Used for Malware Infection",
-      "link": "https://www.securityweek.com/network-of-200-github-repositories-used-for-malware-infection/",
-      "summary": "A Go module is used to load PowerShell code that fetches a resolver from public dead drops to execute Windows malware. The post Network of 200 GitHub Repositories Used for Malware Infection appeared first on SecurityWeek .",
-      "published": "Fri, 10 Jul 2026 08:00:14 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

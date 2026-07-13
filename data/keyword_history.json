@@ -301,7 +301,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2084,
+      "count": 2085,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1838,7 +1838,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 447,
+      "count": 448,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1925,7 +1925,8 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-08",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-13"
       ]
     },
     "model agnostic abstractions": {
@@ -2222,7 +2223,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2239,7 +2240,8 @@
         "2026-05-29",
         "2026-06-13",
         "2026-06-14",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-07-13"
       ]
     },
     "cybercrime looks like": {
@@ -3744,7 +3746,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -20652,7 +20654,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 160,
+      "count": 161,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22419,13 +22421,14 @@
       ]
     },
     "blackcat alphv group": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-10"
+        "2026-07-10",
+        "2026-07-13"
       ]
     },
     "former ransomware negotiator": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22499,7 +22502,7 @@
       ]
     },
     "fake telemetry functionality": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22515,7 +22518,7 @@
       ]
     },
     "security scanning remediation": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22531,7 +22534,7 @@
       ]
     },
     "storage zone controllers": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-10",
         "2026-07-11",
@@ -22570,7 +22573,7 @@
       ]
     },
     "write every secret": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22586,7 +22589,7 @@
       ]
     },
     "already falling short": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22594,7 +22597,7 @@
       ]
     },
     "release six minutes": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22617,32 +22620,51 @@
       ]
     },
     "uses wireless adb": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-12",
         "2026-07-13"
       ]
     },
     "redhook android malware": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-12",
+        "2026-07-13"
+      ]
+    },
+    "poorly configured routers": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "online spying network": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "move targeted people": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "laboratory services provider": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "classic web client": {
+      "count": 1,
+      "dates": [
         "2026-07-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-01 19:45",
-      "articles": 48,
-      "top_keywords": [
-        "apple patches dozens",
-        "cybercrime group known",
-        "maximum severity rating",
-        "criminal ip explains",
-        "ai generated workflows"
-      ]
-    },
     {
       "timestamp": "2026-07-01 21:22",
       "articles": 48,
@@ -23730,6 +23752,17 @@
         "twitter whistleblower complaint",
         "system level sabotage",
         "found strong indications"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13 10:54",
+      "articles": 48,
+      "top_keywords": [
+        "storage zone controllers",
+        "redhook android malware",
+        "cybercrime group known",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign"
       ]
     }
   ]

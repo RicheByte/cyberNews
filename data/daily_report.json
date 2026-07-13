@@ -1,68 +1,68 @@
 {
-  "last_updated": "2026-07-13 19:17",
+  "last_updated": "2026-07-13 20:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "remote code execution",
     "sprawling phishing campaign",
-    "various malware families",
     "twitter whistleblower complaint",
     "resetting account passwords",
-    "official store version",
     "criminal charges stemming",
     "already falling short",
     "already connected claude",
+    "threat actor published",
+    "various malware families",
     "trusted code turns",
+    "targeting balbooa forms",
     "stolen 720 gb",
     "seeing real value",
     "real life identity",
     "public github repository",
     "productivity gains worth",
     "pro iranian images",
-    "powerful model surged",
-    "poorly configured routers",
-    "past 48 hours"
+    "ordinary looking reply",
+    "official store version"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 164
+      "mentions": 165
     },
     {
       "keyword": "remote code execution",
-      "mentions": 474
+      "mentions": 475
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 451
-    },
-    {
-      "keyword": "various malware families",
-      "mentions": 2
+      "mentions": 452
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2088
+      "mentions": 2089
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 158
-    },
-    {
-      "keyword": "official store version",
-      "mentions": 1
+      "mentions": 159
     },
     {
       "keyword": "criminal charges stemming",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "already falling short",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "already connected claude",
+      "mentions": 4
+    },
+    {
+      "keyword": "threat actor published",
+      "mentions": 1
+    },
+    {
+      "keyword": "various malware families",
       "mentions": 3
     }
   ],
@@ -146,6 +146,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Japan's largest taxi operator shuts systems after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
+      "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
+      "published": "Mon, 13 Jul 2026 16:18:59 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
+      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
+      "published": "Mon, 13 Jul 2026 15:44:19 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New CrashStealer malware poses as Apple crash reporting tool",
       "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
       "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
@@ -204,26 +224,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
       "summary": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
       "published": "Mon, 13 Jul 2026 07:19:05 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US and allies warn of Russian critical infrastructure attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-      "summary": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-      "published": "Mon, 13 Jul 2026 05:32:23 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
-      "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
-      "published": "Sun, 12 Jul 2026 20:44:44 -0400",
       "value_score": 10,
       "value_signals": []
     },

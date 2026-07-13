@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2088,
+      "count": 2089,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -548,7 +548,7 @@
       ]
     },
     "real life identity": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -791,7 +791,7 @@
       ]
     },
     "remote code execution": {
-      "count": 474,
+      "count": 475,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1841,7 +1841,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 451,
+      "count": 452,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -18367,7 +18367,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18413,7 +18413,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20109,7 +20109,7 @@
       ]
     },
     "public github repository": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20660,7 +20660,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20721,7 +20721,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22596,7 +22596,7 @@
       ]
     },
     "already falling short": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22671,19 +22671,19 @@
       ]
     },
     "already connected claude": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13"
       ]
     },
     "stolen 720 gb": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13"
       ]
     },
     "seeing real value": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13"
       ]
@@ -22701,25 +22701,25 @@
       ]
     },
     "productivity gains worth": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13"
       ]
     },
     "various malware families": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-13"
       ]
     },
     "trusted code turns": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-13"
       ]
     },
     "official store version": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
@@ -22735,20 +22735,27 @@
       "dates": [
         "2026-07-13"
       ]
+    },
+    "threat actor published": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "targeting balbooa forms": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "ordinary looking reply": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-02 07:25",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "apple patches dozens",
-        "criminal ip explains",
-        "unauthorized third party",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-02 10:32",
       "articles": 48,
@@ -23836,6 +23843,17 @@
         "sprawling phishing campaign",
         "various malware families",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13 20:52",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "remote code execution",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "resetting account passwords"
       ]
     }
   ]

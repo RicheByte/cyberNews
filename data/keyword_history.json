@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 623,
+      "count": 624,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -297,11 +297,12 @@
         "2026-05-21",
         "2026-05-23",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-07-13"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2086,
+      "count": 2087,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -547,7 +548,7 @@
       ]
     },
     "real life identity": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -790,7 +791,7 @@
       ]
     },
     "remote code execution": {
-      "count": 472,
+      "count": 473,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -871,7 +872,8 @@
         "2026-06-15",
         "2026-06-17",
         "2026-06-19",
-        "2026-06-20"
+        "2026-06-20",
+        "2026-07-13"
       ]
     },
     "attacker remotely control": {
@@ -1839,7 +1841,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 449,
+      "count": 450,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2224,7 +2226,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -18365,7 +18367,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18411,7 +18413,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20657,7 +20659,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20718,13 +20720,14 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-23",
         "2026-06-24",
         "2026-06-25",
         "2026-06-26",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-07-13"
       ]
     },
     "salesforce attacks expands": {
@@ -22592,7 +22595,7 @@
       ]
     },
     "already falling short": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22637,7 +22640,7 @@
       ]
     },
     "poorly configured routers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-13"
       ]
@@ -22667,36 +22670,48 @@
       ]
     },
     "already connected claude": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "stolen 720 gb": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "seeing real value": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "readable bash history": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "rated 10 0": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-13"
       ]
     },
     "productivity gains worth": {
+      "count": 2,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "various malware families": {
+      "count": 1,
+      "dates": [
+        "2026-07-13"
+      ]
+    },
+    "trusted code turns": {
       "count": 1,
       "dates": [
         "2026-07-13"
@@ -22704,17 +22719,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-01 23:08",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "apple patches dozens",
-        "criminal ip explains",
-        "user agent data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-02 02:46",
       "articles": 48,
@@ -23800,6 +23804,17 @@
         "redhook android malware",
         "sprawling phishing campaign",
         "cybercrime group known",
+        "twitter whistleblower complaint",
+        "resetting account passwords"
+      ]
+    },
+    {
+      "timestamp": "2026-07-13 17:50",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "remote code execution",
+        "sprawling phishing campaign",
         "twitter whistleblower complaint",
         "resetting account passwords"
       ]

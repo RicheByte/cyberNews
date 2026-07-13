@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-07-13 14:21",
+  "last_updated": "2026-07-13 17:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "redhook android malware",
-    "sprawling phishing campaign",
     "cybercrime group known",
+    "remote code execution",
+    "sprawling phishing campaign",
     "twitter whistleblower complaint",
     "resetting account passwords",
-    "move targeted people",
     "cvss scoring system",
+    "criminal charges stemming",
     "already falling short",
     "already connected claude",
-    "uses wireless adb",
+    "windows operating systems",
+    "various malware families",
+    "trusted code turns",
     "stolen 720 gb",
-    "stark industries solutions",
     "seeing real value",
-    "release six minutes",
     "real life identity",
     "readable bash history",
     "rated 10 0",
@@ -26,47 +26,68 @@
   ],
   "trending": [
     {
-      "keyword": "redhook android malware",
-      "mentions": 6
+      "keyword": "cybercrime group known",
+      "mentions": 163
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 473
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 449
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 162
+      "mentions": 450
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2086
+      "mentions": 2087
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 156
-    },
-    {
-      "keyword": "move targeted people",
-      "mentions": 2
+      "mentions": 157
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 77
+      "mentions": 78
+    },
+    {
+      "keyword": "criminal charges stemming",
+      "mentions": 22
     },
     {
       "keyword": "already falling short",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "already connected claude",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "uses wireless adb",
-      "mentions": 9
+      "keyword": "windows operating systems",
+      "mentions": 624
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
+      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
+      "published": "Mon, 13 Jul 2026 20:35:57 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "Ransomware",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
+      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
+      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with. The",
+      "published": "Mon, 13 Jul 2026 19:19:48 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Forg365 PhaaS Targets Microsoft 365 with Device Code and AitM Session Theft",
@@ -132,22 +153,18 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
-      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
-      "summary": "The jscrambler npm package was compromised, and simply installing its 8.14.0 release runs an infostealer on your machine. Published on July 11, 2026, the malicious version carries a preinstall hook that drops and executes a native binary, one build each for Windows, macOS, and Linux. Socket flagged the release six minutes after it was published. If you or one of your",
-      "published": "Sat, 11 Jul 2026 23:29:26 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
-      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
-      "summary": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
-      "published": "Sat, 11 Jul 2026 23:19:31 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
+      "published": "Mon, 13 Jul 2026 11:20:16 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation",
+        "RCE ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -219,13 +236,16 @@
       "value_signals": []
     },
     {
-      "source": "BleepingComputer",
-      "title": "RedHook Android malware now uses Wireless ADB for shell access",
-      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
-      "summary": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
-      "published": "Sun, 12 Jul 2026 10:27:32 -0400",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Krebs on Security",
+      "title": "Lessons Learned from CISA’s Recent GitHub Leak",
+      "link": "https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has issued a postmortem on a data leak in which a contractor published dozens of internal CISA credentials -- including AWS Govcloud keys -- in a public GitHub repository for almost six months before being notified by KrebsOnSecurity. Experts say the gaps identified in the agency's initial response provide important lessons that all security teams should absorb.",
+      "published": "Mon, 13 Jul 2026 15:03:28 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Breach/leak ×2",
+        "CISA/KEV ×3"
+      ]
     },
     {
       "source": "Krebs on Security",
@@ -303,13 +323,15 @@
       "value_signals": []
     },
     {
-      "source": "Krebs on Security",
-      "title": "Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks",
-      "link": "https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/",
-      "summary": "Authorities in the Netherlands have arrested the co-owners of two related Internet hosting companies for operating IT infrastructure used by Russia to carry out cyberattacks, influence operations and disinformation campaigns inside the European Union. The two men were the focus of a 2025 KrebsOnSecurity story about how their hosting companies had assumed control over the technical infrastructure of Stark Industries Solutions, an Internet service provider sanctioned last year by the EU as a frequ",
-      "published": "Mon, 25 May 2026 13:21:49 +0000",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Dark Reading",
+      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
+      "summary": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
+      "published": "Mon, 13 Jul 2026 16:50:54 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
     },
     {
       "source": "Dark Reading",
@@ -379,17 +401,13 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Microsoft Reins in RoguePlanet Zero-Day Threat",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat",
-      "summary": "The researcher known as \"Nightmare-Eclipse\" published a proof-of-concept (PoC) exploit for the Windows Defender vulnerability in early June after dropping several other Microsoft zero-days.",
-      "published": "Thu, 09 Jul 2026 20:21:19 GMT",
-      "value_score": 51,
-      "value_signals": [
-        "Zero-day",
-        "PoC available",
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
+      "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
+      "summary": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate. The post Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption appeared first on SecurityWeek .",
+      "published": "Mon, 13 Jul 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -462,15 +480,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
-      "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
-      "summary": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek .",
-      "published": "Sat, 11 Jul 2026 17:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

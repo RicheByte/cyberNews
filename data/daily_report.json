@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12 22:41",
+  "last_updated": "2026-07-13 02:13",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -21,49 +21,49 @@
     "write every secret",
     "uses wireless adb",
     "user sessions zimbra",
-    "told sharefile customers",
-    "telecommunications provider odido"
+    "telecommunications provider odido",
+    "stark industries solutions"
   ],
   "trending": [
     {
       "keyword": "storage zone controllers",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "redhook android malware",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2082
+      "mentions": 2083
     },
     {
       "keyword": "system level sabotage",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "found strong indications",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "former ransomware negotiator",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "fake telemetry functionality",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 245
+      "mentions": 246
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 158
+      "mentions": 159
     },
     {
       "keyword": "already falling short",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
@@ -146,6 +146,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI temporarily relaxes GPT-5.6 Sol usage limits",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/",
+      "summary": "OpenAI is temporarily relaxing GPT-5.6 Sol usage after demand for the company's most powerful model surged over the past 48 hours. [...]",
+      "published": "Sun, 12 Jul 2026 20:44:44 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
       "summary": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
@@ -212,15 +221,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Progress urges ShareFile admins to shut down servers over “credible” threat",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/",
-      "summary": "Progress Software is emailing ShareFile customers who use Storage Zone Controllers to immediately shut down their servers after identifying what it describes as a \"credible external security threat\" targeting the on-premises secure file-sharing software. [...]",
-      "published": "Fri, 10 Jul 2026 12:26:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

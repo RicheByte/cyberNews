@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-12 22:41 UTC  
+> **Last Updated:** 2026-07-13 02:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**storage zone controllers** • **redhook android malware** • **twitter whistleblower complaint** • **system level sabotage** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **dire critical rating** • **cybercrime group known** • **already falling short** • **release six minutes** • **security scanning remediation** • **patched security flaws** • **execute windows malware** • **arbitrary code execution** • **write every secret** • **uses wireless adb** • **user sessions zimbra** • **told sharefile customers** • **telecommunications provider odido**
+**storage zone controllers** • **redhook android malware** • **twitter whistleblower complaint** • **system level sabotage** • **found strong indications** • **former ransomware negotiator** • **fake telemetry functionality** • **dire critical rating** • **cybercrime group known** • **already falling short** • **release six minutes** • **security scanning remediation** • **patched security flaws** • **execute windows malware** • **arbitrary code execution** • **write every secret** • **uses wireless adb** • **user sessions zimbra** • **telecommunications provider odido** • **stark industries solutions**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI temporarily relaxes GPT-5.6 Sol usage limits](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-temporarily-relaxes-gpt-56-sol-usage-limits/)
 - [Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time](https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/)
 - [RedHook Android malware now uses Wireless ADB for shell access](https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/)
 - [Australia warns of global campaign targeting vulnerable CMS platforms](https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/)
@@ -34,7 +35,6 @@
 - [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/)
 - [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/)
 - [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/)
-- [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/)
 
 ### Krebs on Security
 

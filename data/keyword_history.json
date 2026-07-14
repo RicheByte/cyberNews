@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2094,
+      "count": 2095,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -549,7 +549,7 @@
       ]
     },
     "real life identity": {
-      "count": 211,
+      "count": 212,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3753,7 +3753,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 248,
+      "count": 249,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3800,7 +3800,8 @@
         "2026-07-08",
         "2026-07-09",
         "2026-07-12",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-14"
       ]
     },
     "bugs fixed today": {
@@ -18371,7 +18372,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18418,7 +18419,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20117,7 +20118,7 @@
       ]
     },
     "public github repository": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20669,7 +20670,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22607,7 +22608,7 @@
       ]
     },
     "already falling short": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22723,14 +22724,14 @@
       ]
     },
     "various malware families": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-13",
         "2026-07-14"
       ]
     },
     "trusted code turns": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-13",
         "2026-07-14"
@@ -22770,43 +22771,61 @@
       ]
     },
     "ordinary looking reply": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-13",
         "2026-07-14"
       ]
     },
     "contractor published dozens": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "harvesting sensitive data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "gather relevant data": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "already extended usually": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "vpn service provider": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
     },
     "treasury department's office": {
+      "count": 2,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "us allies warn": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "cause system unavailability": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "prioritize relevant results": {
       "count": 1,
       "dates": [
         "2026-07-14"
@@ -22814,17 +22833,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-02 22:59",
-      "articles": 48,
-      "top_keywords": [
-        "resetting account passwords",
-        "threat actor known",
-        "cybercrime group known",
-        "malware attacks it's",
-        "whole job breaking"
-      ]
-    },
     {
       "timestamp": "2026-07-03 02:28",
       "articles": 48,
@@ -23912,6 +23920,17 @@
         "resetting account passwords",
         "online spying network",
         "criminal charges stemming"
+      ]
+    },
+    {
+      "timestamp": "2026-07-14 11:21",
+      "articles": 48,
+      "top_keywords": [
+        "us allies warn",
+        "cybercrime group known",
+        "twitter whistleblower complaint",
+        "resetting account passwords",
+        "dire critical rating"
       ]
     }
   ]

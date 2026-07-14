@@ -1,19 +1,19 @@
 {
-  "last_updated": "2026-07-14 09:52",
+  "last_updated": "2026-07-14 11:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "us allies warn",
     "cybercrime group known",
     "twitter whistleblower complaint",
     "resetting account passwords",
-    "online spying network",
-    "criminal charges stemming",
+    "dire critical rating",
     "contractor published dozens",
-    "harvesting sensitive data",
-    "gather relevant data",
+    "cause system unavailability",
     "already falling short",
     "already extended usually",
-    "sprawling phishing campaign",
+    "harvesting sensitive data",
+    "gather relevant data",
     "vpn service provider",
     "various malware families",
     "trusted code turns",
@@ -21,55 +21,55 @@
     "real life identity",
     "public github repository",
     "pro iranian images",
-    "ordinary looking reply",
-    "official store version"
+    "prioritize relevant results",
+    "ordinary looking reply"
   ],
   "trending": [
     {
+      "keyword": "us allies warn",
+      "mentions": 1
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 170
+      "mentions": 171
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2094
+      "mentions": 2095
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 164
+      "mentions": 165
     },
     {
-      "keyword": "online spying network",
-      "mentions": 2
-    },
-    {
-      "keyword": "criminal charges stemming",
-      "mentions": 29
+      "keyword": "dire critical rating",
+      "mentions": 249
     },
     {
       "keyword": "contractor published dozens",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "harvesting sensitive data",
-      "mentions": 2
-    },
-    {
-      "keyword": "gather relevant data",
-      "mentions": 2
+      "keyword": "cause system unavailability",
+      "mentions": 1
     },
     {
       "keyword": "already falling short",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "already extended usually",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "harvesting sensitive data",
+      "mentions": 3
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Grok Build Uploads Entire Git Repositories to xAI Storage, Not Just Files It Reads",
+      "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
       "link": "https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html",
       "summary": "xAI's Grok Build coding CLI was uploading entire Git repositories, full commit history and all, to a Google Cloud Storage bucket run by xAI, not just the files a coding task needed. A researcher publishing as cereblab, testing version 0.2.93, captured one of those uploads, cloned the git bundle out of the intercepted request, and pulled back a file the agent had been told in plain terms not",
       "published": "Tue, 14 Jul 2026 14:32:48 +0530",
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft starts testing cleaner Windows Search without ads",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/",
+      "summary": "Microsoft is now testing a cleaner and faster version of Windows Search that should prioritize relevant results over ads and promotional content. [...]",
+      "published": "Tue, 14 Jul 2026 06:47:23 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US sanctions VPN, malware providers for enabling ransomware attacks",
       "link": "https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/",
       "summary": "The U.S. Treasury Department's Office of Foreign Assets Control (OFAC) sanctioned two individuals and one entity for enabling ransomware attacks against U.S. organizations. [...]",
@@ -223,15 +232,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "UK charges suspects linked to Russian Coms call spoofing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-charges-suspects-linked-to-russian-coms-call-spoofing-platform/",
-      "summary": "UK authorities charged five people following a National Crime Agency (NCA) investigation into Russian Coms, a major caller ID spoofing platform used by criminals to make over 1.8 million scam calls. [...]",
-      "published": "Mon, 13 Jul 2026 09:23:30 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +398,28 @@
     },
     {
       "source": "Security Week",
+      "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+      "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+      "summary": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek .",
+      "published": "Tue, 14 Jul 2026 11:17:56 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
+      "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
+      "summary": "Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks. The post US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers appeared first on SecurityWeek .",
+      "published": "Tue, 14 Jul 2026 10:51:01 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Valarian Raises $50 Million for Sovereign Infrastructure Control Layer",
       "link": "https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/",
       "summary": "UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology. The post Valarian Raises $50 Million for Sovereign Infrastructure Control Layer appeared first on SecurityWeek .",
@@ -449,28 +471,6 @@
       "published": "Mon, 13 Jul 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Zimbra Patches Critical Code Execution Vulnerability",
-      "link": "https://www.securityweek.com/zimbra-patches-critical-code-execution-vulnerability/",
-      "summary": "The flaw results in malicious code embedded in crafted emails being executed when the emails are opened. The post Zimbra Patches Critical Code Execution Vulnerability appeared first on SecurityWeek .",
-      "published": "Mon, 13 Jul 2026 10:03:47 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign",
-      "link": "https://www.securityweek.com/eu-targets-russian-intelligence-officers-accused-of-running-a-yearslong-cyber-spying-campaign/",
-      "summary": "The move targeted people and entities accused of links to an online spying network that the EU claims targeted governments and carried out sabotage operations against critical infrastructure. The post EU Targets Russian Intelligence Officers Accused of Running a Yearslong Cyber Spying Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 13 Jul 2026 10:00:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Threatpost",

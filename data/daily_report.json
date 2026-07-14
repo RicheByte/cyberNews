@@ -1,13 +1,12 @@
 {
-  "last_updated": "2026-07-14 13:21",
+  "last_updated": "2026-07-14 15:19",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "us allies warn",
-    "cybercrime group known",
     "vpn service provider",
+    "cybercrime group known",
     "cause system unavailability",
-    "validate stolen credentials",
     "twitter whistleblower complaint",
     "resetting account passwords",
     "real life identity",
@@ -16,6 +15,7 @@
     "coding task needed",
     "bypass secure boot",
     "commerce cloud sap",
+    "validate stolen credentials",
     "treasury department's office",
     "slipping past telemetry",
     "public github repository",
@@ -27,46 +27,57 @@
   "trending": [
     {
       "keyword": "us allies warn",
-      "mentions": 2
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 172
-    },
-    {
-      "keyword": "vpn service provider",
       "mentions": 3
     },
     {
-      "keyword": "cause system unavailability",
-      "mentions": 2
+      "keyword": "vpn service provider",
+      "mentions": 4
     },
     {
-      "keyword": "validate stolen credentials",
-      "mentions": 1
+      "keyword": "cybercrime group known",
+      "mentions": 173
+    },
+    {
+      "keyword": "cause system unavailability",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2096
+      "mentions": 2097
     },
     {
       "keyword": "resetting account passwords",
-      "mentions": 166
+      "mentions": 167
     },
     {
       "keyword": "real life identity",
-      "mentions": 213
+      "mentions": 214
     },
     {
       "keyword": "default authentication method",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "contractor published dozens",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "coding task needed",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
+      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
+      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
+      "published": "Tue, 14 Jul 2026 19:18:07 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
@@ -139,13 +150,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity",
-      "link": "https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html",
-      "summary": "Attackers whose methods line up with the data-extortion group ShinyHunters have spent the past year walking into corporate Salesforce environments without exploiting a single flaw in the platform. The way in has been the trust the organization had already extended, usually through the OAuth connections that tie Salesforce to the apps and third-party vendors around it. In",
-      "published": "Tue, 14 Jul 2026 11:49:24 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
+      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
+      "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself. [...]",
+      "published": "Tue, 14 Jul 2026 10:00:10 -0400",
+      "value_score": 24,
       "value_signals": [
+        "High severity",
         "Exploit wording"
       ]
     },
@@ -219,15 +231,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New CrashStealer malware poses as Apple crash reporting tool",
-      "link": "https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/",
-      "summary": "A new macOS information-stealing malware called CrashStealer pretends to be Apple's crash-reporting tool to steal credentials, keychain data, and crypto wallets. [...]",
-      "published": "Mon, 13 Jul 2026 15:04:02 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -396,6 +399,20 @@
     },
     {
       "source": "Security Week",
+      "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
+      "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
+      "summary": "The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal. The post 7 Severe Vulnerabilities Patched in VMware Avi Load Balancer appeared first on SecurityWeek .",
+      "published": "Tue, 14 Jul 2026 13:55:41 +0000",
+      "value_score": 63,
+      "value_signals": [
+        "RCE",
+        "Privilege escalation",
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
       "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
       "summary": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. The post Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar appeared first on SecurityWeek .",
@@ -458,15 +475,6 @@
       "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
       "summary": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate. The post Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption appeared first on SecurityWeek .",
       "published": "Mon, 13 Jul 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity M&A Roundup: 37 Deals Announced in June 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
-      "summary": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in June 2026 appeared first on SecurityWeek .",
-      "published": "Mon, 13 Jul 2026 12:20:14 +0000",
       "value_score": 10,
       "value_signals": []
     },

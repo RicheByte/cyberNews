@@ -1,72 +1,112 @@
 {
-  "last_updated": "2026-07-14 11:21",
+  "last_updated": "2026-07-14 13:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "us allies warn",
     "cybercrime group known",
+    "vpn service provider",
+    "cause system unavailability",
+    "validate stolen credentials",
     "twitter whistleblower complaint",
     "resetting account passwords",
-    "dire critical rating",
-    "contractor published dozens",
-    "cause system unavailability",
-    "already falling short",
-    "already extended usually",
-    "harvesting sensitive data",
-    "gather relevant data",
-    "vpn service provider",
-    "various malware families",
-    "trusted code turns",
-    "treasury department's office",
     "real life identity",
+    "default authentication method",
+    "contractor published dozens",
+    "coding task needed",
+    "bypass secure boot",
+    "commerce cloud sap",
+    "treasury department's office",
+    "slipping past telemetry",
     "public github repository",
     "pro iranian images",
     "prioritize relevant results",
-    "ordinary looking reply"
+    "passkeys will become",
+    "obama white house"
   ],
   "trending": [
     {
       "keyword": "us allies warn",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 171
+      "mentions": 172
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2095
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 165
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 249
-    },
-    {
-      "keyword": "contractor published dozens",
+      "keyword": "vpn service provider",
       "mentions": 3
     },
     {
       "keyword": "cause system unavailability",
+      "mentions": 2
+    },
+    {
+      "keyword": "validate stolen credentials",
       "mentions": 1
     },
     {
-      "keyword": "already falling short",
-      "mentions": 26
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2096
     },
     {
-      "keyword": "already extended usually",
-      "mentions": 3
+      "keyword": "resetting account passwords",
+      "mentions": 166
     },
     {
-      "keyword": "harvesting sensitive data",
-      "mentions": 3
+      "keyword": "real life identity",
+      "mentions": 213
+    },
+    {
+      "keyword": "default authentication method",
+      "mentions": 1
+    },
+    {
+      "keyword": "contractor published dozens",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
+      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
+      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
+      "published": "Tue, 14 Jul 2026 18:16:18 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
+      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
+      "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or",
+      "published": "Tue, 14 Jul 2026 17:25:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
+      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
+      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data. That fragmentation matters because attackers do not move through environments one",
+      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials",
+      "link": "https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html",
+      "summary": "At least two distinct threat actors are weaponizing a novel evasion technique called OAuth client ID spoofing in cloud campaigns, while slipping past telemetry. The activity allows users to enumerate user accounts and validate stolen credentials in Microsoft Entra ID environments, without ever generating a successful sign-in event that would otherwise alert defenders. And bad actors have begun",
+      "published": "Tue, 14 Jul 2026 16:51:35 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read",
@@ -110,43 +150,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
-      "link": "https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html",
-      "summary": "Cybersecurity researchers have flagged a new macOS information stealer called CrashStealer that's capable of harvesting sensitive data from compromised systems. Unlike other information stealers that are built on AppleScript droppers or Objective-C-based wrappers, CrashStealer is implemented in native C++, according to Jamf Threat Labs. \"It validates the victim's login password locally before",
-      "published": "Mon, 13 Jul 2026 23:06:12 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft Entra ID gets passkeys default authentication starting September",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/",
+      "summary": "Microsoft has announced that passkeys will become the default authentication method for the Entra ID enterprise identity service starting September 2026. [...]",
+      "published": "Tue, 14 Jul 2026 08:49:56 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found",
-      "link": "https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html",
-      "summary": "Google and Microsoft have pulled ModHeader, a popular header-editing extension with roughly 1.6 million installs across Chrome and Edge, after researchers found a hidden browsing-history collector built into its official store version. The collector was dormant. An empty allow-list kept it switched off, and no proof has emerged that it ever gathered or sent a single browsing domain. The",
-      "published": "Mon, 13 Jul 2026 22:47:24 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
-      "summary": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
-      "published": "Mon, 13 Jul 2026 20:35:57 +0530",
-      "value_score": 44,
+      "source": "BleepingComputer",
+      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
+      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
+      "summary": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
+      "published": "Tue, 14 Jul 2026 08:49:00 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Ransomware",
-        "Patch/update ×2"
+        "Phishing ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email",
-      "link": "https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html",
-      "summary": "Give an AI assistant a memory and access to your inbox, and you hand an attacker a way to rewrite what it thinks it knows about you. A single email can trick that agent into saving a false \"fact\" about the user, hide the change, and quietly steer its answers in later sessions. When it works, the person reads an ordinary-looking reply and never learns their assistant was tampered with. The",
-      "published": "Mon, 13 Jul 2026 19:19:48 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "summary": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
+      "published": "Tue, 14 Jul 2026 07:42:21 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -196,42 +228,6 @@
       "published": "Mon, 13 Jul 2026 15:04:02 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of actively exploited RCE flaws in Joomla extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are exploiting vulnerabilities in the iCagenda and Balbooa Forms extensions for Joomla to achieve remote code execution through arbitrary file uploads. [...]",
-      "published": "Mon, 13 Jul 2026 11:20:16 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Lidl discloses online shop breach after service provider hack",
-      "link": "https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/",
-      "summary": "German discount supermarket chain Lidl notified customers in Germany, Belgium, and the Netherlands that attackers stole their personal information in a breach at a service provider. [...]",
-      "published": "Mon, 13 Jul 2026 10:19:43 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Breach at the Beach: Play the Ultimate Entra ID CTF",
-      "link": "https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/",
-      "summary": "Learn how attackers abuse Entra ID through a free hands-on Capture the Flag. Varonis created the Breach at the Beach CTF to teach defenders how to investigate Entra ID attack techniques using realistic scenarios. [...]",
-      "published": "Mon, 13 Jul 2026 10:01:11 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,9 +318,20 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
+      "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
+      "summary": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
+      "published": "Tue, 14 Jul 2026 13:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Weak Security Continues to Fuel Russian Cyberattacks",
       "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
-      "summary": "In a first, the UK and the EU jointly impose sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
+      "summary": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
       "published": "Mon, 13 Jul 2026 21:24:59 GMT",
       "value_score": 10,
       "value_signals": []
@@ -388,11 +395,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "More Countries Jump on the Social Media 'Ban Wagon'",
-      "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
-      "summary": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
-      "published": "Fri, 10 Jul 2026 13:50:24 GMT",
+      "source": "Security Week",
+      "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
+      "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
+      "summary": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. The post Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar appeared first on SecurityWeek .",
+      "published": "Tue, 14 Jul 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -460,15 +467,6 @@
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/",
       "summary": "Significant cybersecurity M&A deals announced by 1Password, Accenture, Cisco, F5, Rubrik, and SailPoint. The post Cybersecurity M&A Roundup: 37 Deals Announced in June 2026 appeared first on SecurityWeek .",
       "published": "Mon, 13 Jul 2026 12:20:14 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
-      "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
-      "summary": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek .",
-      "published": "Mon, 13 Jul 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

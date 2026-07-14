@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-14 11:21 UTC  
+> **Last Updated:** 2026-07-14 13:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us allies warn** • **cybercrime group known** • **twitter whistleblower complaint** • **resetting account passwords** • **dire critical rating** • **contractor published dozens** • **cause system unavailability** • **already falling short** • **already extended usually** • **harvesting sensitive data** • **gather relevant data** • **vpn service provider** • **various malware families** • **trusted code turns** • **treasury department's office** • **real life identity** • **public github repository** • **pro iranian images** • **prioritize relevant results** • **ordinary looking reply**
+**us allies warn** • **cybercrime group known** • **vpn service provider** • **cause system unavailability** • **validate stolen credentials** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **default authentication method** • **contractor published dozens** • **coding task needed** • **bypass secure boot** • **commerce cloud sap** • **treasury department's office** • **slipping past telemetry** • **public github repository** • **pro iranian images** • **prioritize relevant results** • **passkeys will become** • **obama white house**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
+- [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
+- [How Pentera Turns AI Security Workflows into Validation Engines](https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html)
+- [OAuth Client ID Spoofing Lets Attackers Validate Stolen Microsoft Entra Credentials](https://thehackernews.com/2026/07/oauth-client-id-spoofing-lets-attackers.html)
 - [Grok Build Uploaded Entire Git Repositories to xAI Storage, Not Just Files It Read](https://thehackernews.com/2026/07/grok-build-uploads-entire-git.html)
 - [U.S. Sanctions First VPN Service and Malware Cryptor Seller Over Ransomware Support](https://thehackernews.com/2026/07/us-sanctions-first-vpn-service-and.html)
 - [148 npm Packages Disguised as Student Proxies Turned Browsers Into a DDoS Botnet](https://thehackernews.com/2026/07/148-npm-packages-disguised-as-student.html)
 - [Microsoft Maps Three Salesforce Attack Paths Tied to a Year of ShinyHunters Activity](https://thehackernews.com/2026/07/microsoft-maps-year-long-shinyhunters.html)
-- [CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks](https://thehackernews.com/2026/07/crashstealer-macos-malware-uses.html)
-- [Google and Microsoft Pull ModHeader With 1.6 Million Installs After Dormant Collector Found](https://thehackernews.com/2026/07/google-and-microsoft-pull-modheader.html)
-- [⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More](https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html)
-- [New MemGhost Attack Plants Persistent False Memories in AI Agents Through One Email](https://thehackernews.com/2026/07/new-memghost-attack-plants-persistent.html)
 
 ### BleepingComputer
 
+- [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
+- [New phishing kits target Microsoft 365 accounts, evade MFA](https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/)
+- [SAP warns of critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/)
 - [Microsoft starts testing cleaner Windows Search without ads](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/)
 - [US sanctions VPN, malware providers for enabling ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/)
 - [Japan's largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
 - [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
 - [New CrashStealer malware poses as Apple crash reporting tool](https://www.bleepingcomputer.com/news/security/new-crashstealer-malware-poses-as-apple-crash-reporting-tool/)
-- [CISA warns of actively exploited RCE flaws in Joomla extensions](https://www.bleepingcomputer.com/news/security/cisa-warns-of-actively-exploited-rce-flaws-in-joomla-extensions/)
-- [Lidl discloses online shop breach after service provider hack](https://www.bleepingcomputer.com/news/security/lidl-discloses-online-shop-breach-after-service-provider-hack/)
-- [Breach at the Beach: Play the Ultimate Entra ID CTF](https://www.bleepingcomputer.com/news/security/breach-at-the-beach-play-the-ultimate-entra-id-ctf/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cursor IDE Auto-Executes Malicious Code in Poisoned Repos](https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos)
 - [Weak Security Continues to Fuel Russian Cyberattacks](https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks)
 - ['Yellow Teams' Are Defining the Future of AI Security](https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security)
 - [GigaWiper Lets Threat Actors Choose Their Own Destructive Attack](https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack)
@@ -56,10 +57,10 @@
 - [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery)
 - [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
 - [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust)
-- [More Countries Jump on the Social Media 'Ban Wagon'](https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon)
 
 ### Security Week
 
+- [Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar](https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/)
 - [SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud](https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/)
 - [US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers](https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/)
 - [Valarian Raises $50 Million for Sovereign Infrastructure Control Layer](https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/)
@@ -67,7 +68,6 @@
 - [Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules](https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/)
 - [Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption](https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/)
 - [Cybersecurity M&A Roundup: 37 Deals Announced in June 2026](https://www.securityweek.com/cybersecurity-ma-roundup-37-deals-announced-in-june-2026/)
-- [RabbitMQ Vulnerability Threatens Enterprise Systems](https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/)
 
 ### Threatpost
 

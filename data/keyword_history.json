@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2095,
+      "count": 2096,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -549,7 +549,7 @@
       ]
     },
     "real life identity": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -18372,7 +18372,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18419,7 +18419,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -19273,7 +19273,7 @@
       ]
     },
     "obama white house": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -20118,7 +20118,7 @@
       ]
     },
     "public github repository": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20670,7 +20670,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22778,7 +22778,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14"
       ]
@@ -22802,30 +22802,72 @@
       ]
     },
     "vpn service provider": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "treasury department's office": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "us allies warn": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
     },
     "cause system unavailability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
     },
     "prioritize relevant results": {
+      "count": 2,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "validate stolen credentials": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "default authentication method": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "coding task needed": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "bypass secure boot": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "commerce cloud sap": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "slipping past telemetry": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "passkeys will become": {
       "count": 1,
       "dates": [
         "2026-07-14"
@@ -22833,17 +22875,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-03 02:28",
-      "articles": 48,
-      "top_keywords": [
-        "resetting account passwords",
-        "threat actor known",
-        "cybercrime group known",
-        "data truly belongs",
-        "whole job breaking"
-      ]
-    },
     {
       "timestamp": "2026-07-03 06:57",
       "articles": 48,
@@ -23931,6 +23962,17 @@
         "twitter whistleblower complaint",
         "resetting account passwords",
         "dire critical rating"
+      ]
+    },
+    {
+      "timestamp": "2026-07-14 13:21",
+      "articles": 48,
+      "top_keywords": [
+        "us allies warn",
+        "cybercrime group known",
+        "vpn service provider",
+        "cause system unavailability",
+        "validate stolen credentials"
       ]
     }
   ]

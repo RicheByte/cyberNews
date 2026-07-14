@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2098,
+      "count": 2099,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -549,7 +549,7 @@
       ]
     },
     "real life identity": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1125,7 +1125,7 @@
       ]
     },
     "national security risk": {
-      "count": 261,
+      "count": 262,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1174,7 +1174,8 @@
         "2026-06-29",
         "2026-06-30",
         "2026-07-01",
-        "2026-07-02"
+        "2026-07-02",
+        "2026-07-14"
       ]
     },
     "open source millions": {
@@ -1844,7 +1845,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 457,
+      "count": 458,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -11743,9 +11744,10 @@
       ]
     },
     "ongoing phishing campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-03-25"
+        "2026-03-25",
+        "2026-07-14"
       ]
     },
     "white house determination": {
@@ -18373,7 +18375,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20537,14 +20539,15 @@
       ]
     },
     "bugs earned microsoft's": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-06-22",
         "2026-06-23",
         "2026-07-03",
         "2026-07-04",
         "2026-07-05",
-        "2026-07-06"
+        "2026-07-06",
+        "2026-07-14"
       ]
     },
     "heartbleed style vulnerability": {
@@ -20671,7 +20674,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22803,7 +22806,7 @@
       ]
     },
     "vpn service provider": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14"
       ]
@@ -22815,13 +22818,13 @@
       ]
     },
     "us allies warn": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14"
       ]
     },
     "cause system unavailability": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14"
       ]
@@ -22839,19 +22842,19 @@
       ]
     },
     "default authentication method": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14"
       ]
     },
     "coding task needed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14"
       ]
     },
     "bypass secure boot": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14"
       ]
@@ -22881,7 +22884,7 @@
       ]
     },
     "weak security continues": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
@@ -22891,20 +22894,39 @@
       "dates": [
         "2026-07-14"
       ]
+    },
+    "analysis published today": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "570 vulnerabilities along": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "miggo's security team": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "comes security updates": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "versions 25h2 24h2": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-03 13:51",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "user agent data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-03 15:50",
       "articles": 48,
@@ -23992,6 +24014,17 @@
         "cybercrime group known",
         "cause system unavailability",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-14 19:10",
+      "articles": 48,
+      "top_keywords": [
+        "vpn service provider",
+        "us allies warn",
+        "cybercrime group known",
+        "analysis published today",
+        "570 vulnerabilities along"
       ]
     }
   ]

@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2099,
+      "count": 2100,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -549,7 +549,7 @@
       ]
     },
     "real life identity": {
-      "count": 216,
+      "count": 217,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1125,7 +1125,7 @@
       ]
     },
     "national security risk": {
-      "count": 262,
+      "count": 263,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1845,7 +1845,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 458,
+      "count": 459,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -11744,7 +11744,7 @@
       ]
     },
     "ongoing phishing campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-03-25",
         "2026-07-14"
@@ -20121,7 +20121,7 @@
       ]
     },
     "public github repository": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20674,7 +20674,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22818,7 +22818,7 @@
       ]
     },
     "us allies warn": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14"
       ]
@@ -22854,7 +22854,7 @@
       ]
     },
     "bypass secure boot": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14"
       ]
@@ -22884,31 +22884,31 @@
       ]
     },
     "weak security continues": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "several state governments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
     },
     "analysis published today": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
     },
     "570 vulnerabilities along": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
     },
     "miggo's security team": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-14"
       ]
@@ -22920,6 +22920,36 @@
       ]
     },
     "versions 25h2 24h2": {
+      "count": 2,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "address multiple vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "largest patch tuesday": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "software almost triple": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "spanish police dismantled": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "release covers 622": {
       "count": 1,
       "dates": [
         "2026-07-14"
@@ -22927,17 +22957,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-03 15:50",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "user agent data",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-03 17:19",
       "articles": 48,
@@ -24025,6 +24044,17 @@
         "cybercrime group known",
         "analysis published today",
         "570 vulnerabilities along"
+      ]
+    },
+    {
+      "timestamp": "2026-07-14 20:54",
+      "articles": 48,
+      "top_keywords": [
+        "us allies warn",
+        "address multiple vulnerabilities",
+        "570 vulnerabilities along",
+        "cybercrime group known",
+        "twitter whistleblower complaint"
       ]
     }
   ]

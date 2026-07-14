@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-14 20:54",
+  "last_updated": "2026-07-14 22:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "us allies warn",
-    "address multiple vulnerabilities",
-    "570 vulnerabilities along",
     "cybercrime group known",
+    "version 25h2 24h2",
     "twitter whistleblower complaint",
     "real life identity",
+    "largest patch tuesday",
     "bypass secure boot",
     "analysis published today",
-    "largest patch tuesday",
+    "address multiple vulnerabilities",
+    "570 security issues",
+    "570 vulnerabilities along",
     "weak security continues",
+    "released security updates",
     "national security risk",
     "miggo's security team",
+    "comes security updates",
+    "poisoned repository attacks",
     "software almost triple",
-    "versions 25h2 24h2",
     "sprawling phishing campaign",
-    "spanish police dismantled",
-    "several state governments",
-    "release covers 622",
-    "public github repository",
-    "ongoing phishing campaign"
+    "spanish police take"
   ],
   "trending": [
     {
       "keyword": "us allies warn",
-      "mentions": 6
-    },
-    {
-      "keyword": "address multiple vulnerabilities",
-      "mentions": 1
-    },
-    {
-      "keyword": "570 vulnerabilities along",
-      "mentions": 2
+      "mentions": 7
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 176
+      "mentions": 177
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2100
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 217
-    },
-    {
-      "keyword": "bypass secure boot",
-      "mentions": 5
-    },
-    {
-      "keyword": "analysis published today",
-      "mentions": 2
-    },
-    {
-      "keyword": "largest patch tuesday",
+      "keyword": "version 25h2 24h2",
       "mentions": 1
     },
     {
-      "keyword": "weak security continues",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2101
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 218
+    },
+    {
+      "keyword": "largest patch tuesday",
+      "mentions": 2
+    },
+    {
+      "keyword": "bypass secure boot",
+      "mentions": 6
+    },
+    {
+      "keyword": "analysis published today",
       "mentions": 3
+    },
+    {
+      "keyword": "address multiple vulnerabilities",
+      "mentions": 2
+    },
+    {
+      "keyword": "570 security issues",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -153,6 +153,21 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "summary": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
+      "published": "Tue, 14 Jul 2026 17:23:24 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×2",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
       "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
       "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
@@ -197,7 +212,7 @@
       "source": "BleepingComputer",
       "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5101650 and KB5099414 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "summary": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
       "published": "Tue, 14 Jul 2026 13:41:16 -0400",
       "value_score": 18,
       "value_signals": [
@@ -225,18 +240,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
-      "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
-      "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself. [...]",
-      "published": "Tue, 14 Jul 2026 10:00:10 -0400",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
       ]
     },
     {
@@ -330,6 +333,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes",
+      "summary": "Three of the 622 CVEs for which Microsoft issued patches this week are zero-days; there are more than 60 critical vulnerabilities.",
+      "published": "Tue, 14 Jul 2026 21:50:56 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
       "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
       "summary": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
@@ -394,17 +409,6 @@
       "published": "Mon, 13 Jul 2026 18:18:30 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
-      "summary": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
-      "published": "Mon, 13 Jul 2026 16:50:54 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Security Week",

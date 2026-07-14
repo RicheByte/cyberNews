@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-14 20:54 UTC |
+| 🕐 Last Updated | 2026-07-14 22:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`us allies warn` • `address multiple vulnerabilities` • `570 vulnerabilities along` • `cybercrime group known` • `twitter whistleblower complaint` • `real life identity` • `bypass secure boot` • `analysis published today` • `largest patch tuesday` • `weak security continues`
+`us allies warn` • `cybercrime group known` • `version 25h2 24h2` • `twitter whistleblower complaint` • `real life identity` • `largest patch tuesday` • `bypass secure boot` • `analysis published today` • `address multiple vulnerabilities` • `570 security issues`
 
 ## 📄 Reports
 

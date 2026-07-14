@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-14 20:54 UTC  
+> **Last Updated:** 2026-07-14 22:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us allies warn** • **address multiple vulnerabilities** • **570 vulnerabilities along** • **cybercrime group known** • **twitter whistleblower complaint** • **real life identity** • **bypass secure boot** • **analysis published today** • **largest patch tuesday** • **weak security continues** • **national security risk** • **miggo's security team** • **software almost triple** • **versions 25h2 24h2** • **sprawling phishing campaign** • **spanish police dismantled** • **several state governments** • **release covers 622** • **public github repository** • **ongoing phishing campaign**
+**us allies warn** • **cybercrime group known** • **version 25h2 24h2** • **twitter whistleblower complaint** • **real life identity** • **largest patch tuesday** • **bypass secure boot** • **analysis published today** • **address multiple vulnerabilities** • **570 security issues** • **570 vulnerabilities along** • **weak security continues** • **released security updates** • **national security risk** • **miggo's security team** • **comes security updates** • **poisoned repository attacks** • **software almost triple** • **sprawling phishing campaign** • **spanish police take**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/)
 - [Spanish Police take down €140 million cyber fraud ring, arrest four](https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/)
 - [Nearly 300 GitHub repos pose as legit software to push malware](https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/)
 - [Microsoft releases Windows 10 KB5099539 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/)
@@ -34,7 +35,6 @@
 - [Windows 11 KB5101650 & KB5099414 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/)
 - [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
 - [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
-- [You Don't Have to Run an Exploit to Know If You're Vulnerable](https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes](https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes)
 - [6 GHz Wi-Fi Flaws Could Disrupt Critical Systems](https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems)
 - [Manage Vendor Risk in a Few Practical Steps](https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps)
 - [Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?](https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook)
@@ -56,7 +57,6 @@
 - [Cursor IDE Auto-Executes Malicious Code in Poisoned Repos](https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos)
 - [Weak Security Continues to Fuel Russian Cyberattacks](https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks)
 - ['Yellow Teams' Are Defining the Future of AI Security](https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security)
-- [GigaWiper Lets Threat Actors Choose Their Own Destructive Attack](https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack)
 
 ### Security Week
 

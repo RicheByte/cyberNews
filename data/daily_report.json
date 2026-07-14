@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14 15:19",
+  "last_updated": "2026-07-14 17:08",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -15,55 +15,55 @@
     "coding task needed",
     "bypass secure boot",
     "commerce cloud sap",
+    "poisoned repository attacks",
+    "weak security continues",
     "validate stolen credentials",
     "treasury department's office",
     "slipping past telemetry",
-    "public github repository",
-    "pro iranian images",
-    "prioritize relevant results",
-    "passkeys will become",
-    "obama white house"
+    "several state governments",
+    "released security updates",
+    "public github repository"
   ],
   "trending": [
     {
       "keyword": "us allies warn",
-      "mentions": 3
-    },
-    {
-      "keyword": "vpn service provider",
       "mentions": 4
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 173
-    },
-    {
-      "keyword": "cause system unavailability",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2097
-    },
-    {
-      "keyword": "resetting account passwords",
-      "mentions": 167
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 214
-    },
-    {
-      "keyword": "default authentication method",
-      "mentions": 2
-    },
-    {
-      "keyword": "contractor published dozens",
+      "keyword": "vpn service provider",
       "mentions": 5
     },
     {
+      "keyword": "cybercrime group known",
+      "mentions": 174
+    },
+    {
+      "keyword": "cause system unavailability",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2098
+    },
+    {
+      "keyword": "resetting account passwords",
+      "mentions": 168
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 215
+    },
+    {
+      "keyword": "default authentication method",
+      "mentions": 3
+    },
+    {
+      "keyword": "contractor published dozens",
+      "mentions": 6
+    },
+    {
       "keyword": "coding task needed",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -151,6 +151,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
+      "published": "Tue, 14 Jul 2026 12:08:47 -0400",
+      "value_score": 68,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "published": "Tue, 14 Jul 2026 11:31:52 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
       "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
       "summary": "Many vulnerabilities cannot be safely validated with live exploits, either because no exploit exists or the affected systems are too critical to test. Picus explains how TTP chaining helps organizations determine exploitability by validating the attack techniques an exploit depends on, without launching the exploit itself. [...]",
@@ -210,26 +233,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Japan's largest taxi operator shuts systems after cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
-      "summary": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
-      "published": "Mon, 13 Jul 2026 16:18:59 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "summary": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "published": "Mon, 13 Jul 2026 15:44:19 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {
@@ -321,6 +324,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+      "summary": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+      "published": "Tue, 14 Jul 2026 16:02:39 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+      "summary": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+      "published": "Tue, 14 Jul 2026 15:53:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
       "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
       "summary": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
@@ -380,22 +401,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
-      "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
-      "summary": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
-      "published": "Fri, 10 Jul 2026 16:51:34 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
-      "summary": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
-      "published": "Fri, 10 Jul 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
+      "summary": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 14 Jul 2026 17:06:35 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -466,15 +480,6 @@
       "link": "https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/",
       "summary": "A new CMMC review and reform task force will conduct a comprehensive review of the program. The post Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules appeared first on SecurityWeek .",
       "published": "Tue, 14 Jul 2026 06:37:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption",
-      "link": "https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/",
-      "summary": "Once a notorious blackhat hacker, McGraw shares his journey from high school hacking and prison to redemption as a cybersecurity advocate. The post Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption appeared first on SecurityWeek .",
-      "published": "Mon, 13 Jul 2026 14:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

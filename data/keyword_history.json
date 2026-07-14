@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2097,
+      "count": 2098,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -549,7 +549,7 @@
       ]
     },
     "real life identity": {
-      "count": 214,
+      "count": 215,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4042,7 +4042,7 @@
       ]
     },
     "released security updates": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4064,7 +4064,8 @@
         "2026-05-14",
         "2026-06-08",
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-07-14"
       ]
     },
     "auditability collide daily": {
@@ -18372,7 +18373,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20118,7 +20119,7 @@
       ]
     },
     "public github repository": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20670,7 +20671,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22778,7 +22779,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14"
       ]
@@ -22802,25 +22803,25 @@
       ]
     },
     "vpn service provider": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14"
       ]
     },
     "treasury department's office": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14"
       ]
     },
     "us allies warn": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14"
       ]
     },
     "cause system unavailability": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14"
       ]
@@ -22832,37 +22833,37 @@
       ]
     },
     "validate stolen credentials": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "default authentication method": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "coding task needed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "bypass secure boot": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "commerce cloud sap": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
     },
     "slipping past telemetry": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14"
       ]
@@ -22872,20 +22873,27 @@
       "dates": [
         "2026-07-14"
       ]
+    },
+    "poisoned repository attacks": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "weak security continues": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "several state governments": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-03 10:30",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "company s corporate",
-        "threat actor known",
-        "public github account",
-        "whole job breaking"
-      ]
-    },
     {
       "timestamp": "2026-07-03 13:51",
       "articles": 48,
@@ -23966,6 +23974,17 @@
     },
     {
       "timestamp": "2026-07-14 15:19",
+      "articles": 48,
+      "top_keywords": [
+        "us allies warn",
+        "vpn service provider",
+        "cybercrime group known",
+        "cause system unavailability",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-14 17:08",
       "articles": 48,
       "top_keywords": [
         "us allies warn",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-14 15:19 UTC  
+> **Last Updated:** 2026-07-14 17:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us allies warn** • **vpn service provider** • **cybercrime group known** • **cause system unavailability** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **default authentication method** • **contractor published dozens** • **coding task needed** • **bypass secure boot** • **commerce cloud sap** • **validate stolen credentials** • **treasury department's office** • **slipping past telemetry** • **public github repository** • **pro iranian images** • **prioritize relevant results** • **passkeys will become** • **obama white house**
+**us allies warn** • **vpn service provider** • **cybercrime group known** • **cause system unavailability** • **twitter whistleblower complaint** • **resetting account passwords** • **real life identity** • **default authentication method** • **contractor published dozens** • **coding task needed** • **bypass secure boot** • **commerce cloud sap** • **poisoned repository attacks** • **weak security continues** • **validate stolen credentials** • **treasury department's office** • **slipping past telemetry** • **several state governments** • **released security updates** • **public github repository**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
+- [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
 - [You Don't Have to Run an Exploit to Know If You're Vulnerable](https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/)
 - [Microsoft Entra ID gets passkeys default authentication starting September](https://www.bleepingcomputer.com/news/microsoft/microsoft-entra-id-gets-passkeys-default-authentication-starting-september/)
 - [New phishing kits target Microsoft 365 accounts, evade MFA](https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/)
 - [SAP warns of critical flaws in NetWeaver and Commerce Cloud](https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/)
 - [Microsoft starts testing cleaner Windows Search without ads](https://www.bleepingcomputer.com/news/microsoft/microsoft-starts-testing-cleaner-windows-search-without-ads/)
 - [US sanctions VPN, malware providers for enabling ransomware attacks](https://www.bleepingcomputer.com/news/security/us-sanctions-vpn-malware-providers-linked-to-ransomware-gangs/)
-- [Japan's largest taxi operator shuts systems after cyberattack](https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/)
-- [Hackers backdoor Jscrambler npm package with infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?](https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook)
+- [ClickFix's Mushrooming Ecosystem Demands New Defense Tactics](https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense)
 - [Cursor IDE Auto-Executes Malicious Code in Poisoned Repos](https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos)
 - [Weak Security Continues to Fuel Russian Cyberattacks](https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks)
 - ['Yellow Teams' Are Defining the Future of AI Security](https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security)
 - [GigaWiper Lets Threat Actors Choose Their Own Destructive Attack](https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack)
 - [Turning the Tables on Email Scammers With 'ScamBuster'](https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster)
 - [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery)
-- [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge)
-- [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust)
 
 ### Security Week
 
+- [Adobe Patches Critical ColdFusion Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/)
 - [7 Severe Vulnerabilities Patched in VMware Avi Load Balancer](https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/)
 - [Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar](https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/)
 - [SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud](https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/)
@@ -67,7 +68,6 @@
 - [Valarian Raises $50 Million for Sovereign Infrastructure Control Layer](https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/)
 - [Multiple Jscrambler Packages Impacted by Supply Chain Attack](https://www.securityweek.com/multiple-jscrambler-packages-impacted-by-supply-chain-attack/)
 - [Pentagon Suspends CMMC Phase 2 as It Rethinks Contractor Cybersecurity Rules](https://www.securityweek.com/pentagon-suspends-cmmc-phase-2-as-it-rethinks-contractor-cybersecurity-rules/)
-- [Hacker Conversations: Jesse McGraw (GhostExodus), From Blackhat Hacker to Redemption](https://www.securityweek.com/hacker-conversations-jesse-mcgraw-ghostexodus-from-blackhat-hacker-to-redemption/)
 
 ### Threatpost
 

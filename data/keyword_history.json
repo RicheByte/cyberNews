@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2092,
+      "count": 2093,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -549,7 +549,7 @@
       ]
     },
     "real life identity": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -793,7 +793,7 @@
       ]
     },
     "remote code execution": {
-      "count": 478,
+      "count": 479,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1844,7 +1844,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 455,
+      "count": 456,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -18371,7 +18371,7 @@
       ]
     },
     "resetting account passwords": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -18418,7 +18418,7 @@
       ]
     },
     "pro iranian images": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-06-01",
         "2026-06-02",
@@ -20117,7 +20117,7 @@
       ]
     },
     "public github repository": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20669,7 +20669,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20731,7 +20731,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22607,7 +22607,7 @@
       ]
     },
     "already falling short": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-11",
         "2026-07-12",
@@ -22683,7 +22683,7 @@
       ]
     },
     "already connected claude": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-13",
         "2026-07-14"
@@ -22697,7 +22697,7 @@
       ]
     },
     "seeing real value": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-13",
         "2026-07-14"
@@ -22722,14 +22722,14 @@
       ]
     },
     "various malware families": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-13",
         "2026-07-14"
       ]
     },
     "trusted code turns": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-13",
         "2026-07-14"
@@ -22762,32 +22762,45 @@
       ]
     },
     "targeting balbooa forms": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-13",
         "2026-07-14"
       ]
     },
     "ordinary looking reply": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-13",
+        "2026-07-14"
+      ]
+    },
+    "contractor published dozens": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "harvesting sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "gather relevant data": {
+      "count": 1,
+      "dates": [
+        "2026-07-14"
+      ]
+    },
+    "already extended usually": {
+      "count": 1,
+      "dates": [
         "2026-07-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-02 19:16",
-      "articles": 48,
-      "top_keywords": [
-        "resetting account passwords",
-        "threat actor known",
-        "cybercrime group known",
-        "whole job breaking",
-        "unauthorized third party"
-      ]
-    },
     {
       "timestamp": "2026-07-02 20:58",
       "articles": 48,
@@ -23868,6 +23881,17 @@
     },
     {
       "timestamp": "2026-07-14 04:54",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "remote code execution",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "resetting account passwords"
+      ]
+    },
+    {
+      "timestamp": "2026-07-14 07:53",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

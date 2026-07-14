@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-14 04:54 UTC |
+| 🕐 Last Updated | 2026-07-14 07:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `remote code execution` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `resetting account passwords` • `criminal charges stemming` • `already falling short` • `already connected claude` • `threat actor published` • `various malware families`
+`cybercrime group known` • `remote code execution` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `resetting account passwords` • `criminal charges stemming` • `contractor published dozens` • `harvesting sensitive data` • `gather relevant data` • `already falling short`
 
 ## 📄 Reports
 

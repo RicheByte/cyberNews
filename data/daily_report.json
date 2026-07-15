@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-15 07:58",
+  "last_updated": "2026-07-15 10:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "address multiple vulnerabilities",
-    "critical vulnerabilities patched",
-    "version 25h2 24h2",
     "twitter whistleblower complaint",
     "largest patch tuesday",
     "bypass secure boot",
     "analysis published today",
+    "address multiple vulnerabilities",
     "570 vulnerabilities along",
+    "comes security updates",
     "arbitrary prompt path",
-    "570 security issues",
-    "60 critical vulnerabilities",
     "remote code execution",
-    "dire critical rating",
+    "nearly three dozen",
+    "critical vulnerabilities patched",
+    "contractor published dozens",
+    "weak security continues",
+    "national security risk",
+    "miggo's security team",
     "poisoned repository attacks",
     "execute arbitrary code",
-    "software almost triple",
-    "weak security continues",
-    "sprawling phishing campaign",
-    "spanish police take"
+    "software giant fixed",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 180
-    },
-    {
-      "keyword": "address multiple vulnerabilities",
-      "mentions": 5
-    },
-    {
-      "keyword": "critical vulnerabilities patched",
-      "mentions": 2
-    },
-    {
-      "keyword": "version 25h2 24h2",
-      "mentions": 4
+      "mentions": 181
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2104
+      "mentions": 2105
     },
     {
       "keyword": "largest patch tuesday",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "bypass secure boot",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "analysis published today",
+      "mentions": 7
+    },
+    {
+      "keyword": "address multiple vulnerabilities",
       "mentions": 6
     },
     {
       "keyword": "570 vulnerabilities along",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "comes security updates",
+      "mentions": 5
     },
     {
       "keyword": "arbitrary prompt path",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 481
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
+      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
+      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0.7.1 @asyncapi/generator@3.3.1 @asyncapi/specs(v6.11.2, v6.11.2-alpha.1) \"The",
+      "published": "Wed, 15 Jul 2026 14:46:13 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
@@ -145,15 +156,27 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks",
-      "link": "https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html",
-      "summary": "Researchers at KU Leuven tested 85 of the most popular crypto wallets that run as browser extensions and found that the wallets themselves leak enough to link and track the people using them. The way these wallets talk to websites and blockchain servers can tie a person's separate addresses together and let outsiders follow them from site to site. And on a site that already holds a name or",
-      "published": "Tue, 14 Jul 2026 17:25:00 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
+      "published": "Wed, 15 Jul 2026 05:44:52 -0400",
+      "value_score": 89,
       "value_signals": [
-        "Breach/leak"
+        "Active exploitation",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
+      "summary": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
+      "published": "Wed, 15 Jul 2026 04:26:48 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -221,29 +244,6 @@
         "Zero-day",
         "Patch/update ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
-      "published": "Tue, 14 Jul 2026 13:41:16 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
-      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
-      "summary": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
-      "published": "Tue, 14 Jul 2026 12:08:47 -0400",
-      "value_score": 68,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update"
       ]
     },
     {
@@ -337,6 +337,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
+      "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
+      "summary": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
+      "published": "Wed, 15 Jul 2026 08:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes",
       "link": "https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes",
       "summary": "Three of the 622 CVEs for which Microsoft issued patches this week are zero-days; there are more than 60 critical vulnerabilities.",
@@ -406,13 +415,28 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Yellow Teams' Are Defining the Future of AI Security",
-      "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
-      "summary": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
-      "published": "Mon, 13 Jul 2026 18:18:30 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption",
+      "link": "https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/",
+      "summary": "The company has rolled out a fix and is restoring access for Storage Zones Controller customers who apply it. The post Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 09:48:29 +0000",
+      "value_score": 68,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
+      "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
+      "summary": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 09:19:58 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Patch/update ×5",
+        "CISA/KEV"
+      ]
     },
     {
       "source": "Security Week",
@@ -487,26 +511,6 @@
         "Privilege escalation",
         "Auth bypass",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
-      "link": "https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/",
-      "summary": "A ClaudeBleed-linked vulnerability reportedly persists across eight patches, exposing potentially sensitive data to other extensions. The post Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
-      "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
-      "summary": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 11:17:56 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

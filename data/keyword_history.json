@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2104,
+      "count": 2105,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -795,7 +795,7 @@
       ]
     },
     "remote code execution": {
-      "count": 480,
+      "count": 481,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -952,7 +952,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1129,7 +1129,7 @@
       ]
     },
     "national security risk": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -19302,13 +19302,14 @@
       ]
     },
     "nearly three dozen": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-06-09",
         "2026-06-10",
         "2026-06-15",
         "2026-06-16",
-        "2026-06-17"
+        "2026-06-17",
+        "2026-07-15"
       ]
     },
     "claude fable 5": {
@@ -19338,7 +19339,7 @@
       ]
     },
     "critical vulnerabilities patched": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-06-10",
         "2026-07-15"
@@ -20683,7 +20684,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22792,9 +22793,10 @@
       ]
     },
     "contractor published dozens": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ]
     },
     "harvesting sensitive data": {
@@ -22865,7 +22867,7 @@
       ]
     },
     "bypass secure boot": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22890,14 +22892,14 @@
       ]
     },
     "poisoned repository attacks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "weak security continues": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22910,28 +22912,28 @@
       ]
     },
     "analysis published today": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "570 vulnerabilities along": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "miggo's security team": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "comes security updates": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22944,21 +22946,21 @@
       ]
     },
     "address multiple vulnerabilities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "largest patch tuesday": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "software almost triple": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22998,7 +23000,7 @@
       ]
     },
     "arbitrary prompt path": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-15"
       ]
@@ -23008,20 +23010,15 @@
       "dates": [
         "2026-07-15"
       ]
+    },
+    "software giant fixed": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-04 02:26",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-04 06:43",
       "articles": 48,
@@ -24109,6 +24106,17 @@
         "critical vulnerabilities patched",
         "version 25h2 24h2",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-15 10:05",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "twitter whistleblower complaint",
+        "largest patch tuesday",
+        "bypass secure boot",
+        "analysis published today"
       ]
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-15 19:02",
+  "last_updated": "2026-07-15 20:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "windows bind links",
+    "cybercrime group known",
     "us government's restrictions",
     "twitter whistleblower complaint",
+    "multifactor authentication mfa",
     "additional discoveries already",
     "tech xit imminent",
+    "credential based attacks",
     "nearly three dozen",
-    "dire critical rating",
-    "cybercrime group known",
-    "critical security defect",
     "criminal charges stemming",
     "us tech companies",
-    "cisa warns admins",
     "windows operating systems",
     "sprawling phishing campaign",
-    "spanish police take",
-    "spanish police dismantled",
     "significant cyber implications",
+    "running cybercrime services",
+    "real life identity",
     "project stays open",
     "openai frontier models",
-    "national security risk"
+    "national security risk",
+    "map detection rules"
   ],
   "trending": [
     {
       "keyword": "windows bind links",
-      "mentions": 4
-    },
-    {
-      "keyword": "us government's restrictions",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2109
-    },
-    {
-      "keyword": "additional discoveries already",
-      "mentions": 2
-    },
-    {
-      "keyword": "tech xit imminent",
-      "mentions": 2
-    },
-    {
-      "keyword": "nearly three dozen",
-      "mentions": 15
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 253
+      "mentions": 5
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 185
+      "mentions": 186
     },
     {
-      "keyword": "critical security defect",
+      "keyword": "us government's restrictions",
       "mentions": 3
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2110
+    },
+    {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 1
+    },
+    {
+      "keyword": "additional discoveries already",
+      "mentions": 3
+    },
+    {
+      "keyword": "tech xit imminent",
+      "mentions": 3
+    },
+    {
+      "keyword": "credential based attacks",
+      "mentions": 8
+    },
+    {
+      "keyword": "nearly three dozen",
+      "mentions": 16
+    },
+    {
       "keyword": "criminal charges stemming",
-      "mentions": 33
+      "mentions": 34
     }
   ],
   "articles": [
@@ -158,6 +158,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Zoom warns of critical account takeover vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
+      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
+      "published": "Wed, 15 Jul 2026 16:16:02 -0400",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
       "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
       "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
@@ -236,15 +248,6 @@
         "Multiple CVEs",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
-      "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
-      "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
-      "published": "Tue, 14 Jul 2026 16:23:09 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -337,6 +340,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
+      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
+      "summary": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
+      "published": "Wed, 15 Jul 2026 20:16:13 GMT",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
       "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
       "summary": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
@@ -403,17 +418,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
-      "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
-      "summary": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
-      "published": "Tue, 14 Jul 2026 19:58:31 GMT",
-      "value_score": 18,
-      "value_signals": [
         "High severity"
       ]
     },

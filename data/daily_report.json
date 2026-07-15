@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-15 15:22",
+  "last_updated": "2026-07-15 17:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "windows bind links",
+    "us government's restrictions",
     "twitter whistleblower complaint",
-    "largest patch tuesday",
-    "running cybercrime services",
+    "additional discoveries already",
+    "tech xit imminent",
     "nearly three dozen",
     "dire critical rating",
     "cybercrime group known",
-    "critical security defect",
     "criminal charges stemming",
-    "software almost triple",
+    "critical security defect",
+    "us tech companies",
     "cisa warns admins",
     "windows operating systems",
     "sprawling phishing campaign",
     "spanish police take",
     "spanish police dismantled",
-    "several state governments",
-    "real life identity",
+    "significant cyber implications",
     "project stays open",
-    "national security risk",
+    "openai frontier models",
     "money laundering organization"
   ],
   "trending": [
     {
       "keyword": "windows bind links",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2107
-    },
-    {
-      "keyword": "largest patch tuesday",
-      "mentions": 8
-    },
-    {
-      "keyword": "running cybercrime services",
-      "mentions": 2
-    },
-    {
-      "keyword": "nearly three dozen",
-      "mentions": 13
-    },
-    {
-      "keyword": "dire critical rating",
-      "mentions": 251
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 183
-    },
-    {
-      "keyword": "critical security defect",
+      "keyword": "us government's restrictions",
       "mentions": 1
     },
     {
-      "keyword": "criminal charges stemming",
-      "mentions": 31
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2108
     },
     {
-      "keyword": "software almost triple",
-      "mentions": 8
+      "keyword": "additional discoveries already",
+      "mentions": 1
+    },
+    {
+      "keyword": "tech xit imminent",
+      "mentions": 1
+    },
+    {
+      "keyword": "nearly three dozen",
+      "mentions": 14
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 252
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 184
+    },
+    {
+      "keyword": "criminal charges stemming",
+      "mentions": 32
+    },
+    {
+      "keyword": "critical security defect",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
+      "link": "https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html",
+      "summary": "A malware framework called OkoBot has been running on Windows machines since April 2025, and one of its modules is built to con hardware wallet owners out of their recovery phrase. On an infected PC, the request comes from inside the wallet's own desktop software. Sometimes it waits until you plug the device in first. The page is malicious. The app around it is the real one you installed, and",
+      "published": "Wed, 15 Jul 2026 21:00:30 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
@@ -148,16 +159,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
-      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
-      "summary": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200. Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
-      "published": "Wed, 15 Jul 2026 01:55:47 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "published": "Wed, 15 Jul 2026 11:37:27 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -237,17 +245,6 @@
       "published": "Tue, 14 Jul 2026 15:15:17 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5099539 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
-      "published": "Tue, 14 Jul 2026 14:49:28 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -340,6 +337,27 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
+      "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
+      "summary": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber implications.",
+      "published": "Wed, 15 Jul 2026 17:03:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
+      "summary": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
+      "published": "Wed, 15 Jul 2026 15:27:35 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
       "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
       "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
@@ -396,24 +414,6 @@
       "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
       "summary": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
       "published": "Tue, 14 Jul 2026 17:44:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
-      "summary": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
-      "published": "Tue, 14 Jul 2026 16:02:39 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
-      "summary": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
-      "published": "Tue, 14 Jul 2026 15:53:54 GMT",
       "value_score": 10,
       "value_signals": []
     },

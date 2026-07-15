@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-15 15:22 UTC  
+> **Last Updated:** 2026-07-15 17:11 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows bind links** • **twitter whistleblower complaint** • **largest patch tuesday** • **running cybercrime services** • **nearly three dozen** • **dire critical rating** • **cybercrime group known** • **critical security defect** • **criminal charges stemming** • **software almost triple** • **cisa warns admins** • **windows operating systems** • **sprawling phishing campaign** • **spanish police take** • **spanish police dismantled** • **several state governments** • **real life identity** • **project stays open** • **national security risk** • **money laundering organization**
+**windows bind links** • **us government's restrictions** • **twitter whistleblower complaint** • **additional discoveries already** • **tech xit imminent** • **nearly three dozen** • **dire critical rating** • **cybercrime group known** • **criminal charges stemming** • **critical security defect** • **us tech companies** • **cisa warns admins** • **windows operating systems** • **sprawling phishing campaign** • **spanish police take** • **spanish police dismantled** • **significant cyber implications** • **project stays open** • **openai frontier models** • **money laundering organization**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
 - [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
 - [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
 - [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
@@ -23,10 +24,10 @@
 - [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
 - [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
 - [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
-- [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
 
 ### BleepingComputer
 
+- [​    ​AsyncAPI npm packages infected with credential-stealing malware](https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/)
 - [We built a vulnerability vending machine: AI tokens in, zero-days out](https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/)
 - [CISA warns admins to patch actively exploited SharePoint flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/)
 - [Microsoft: Some Dell PCs shut down after recent Windows updates](https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/)
@@ -34,7 +35,6 @@
 - [SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/)
 - [Spanish Police take down €140 million cyber fraud ring, arrest four](https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/)
 - [Nearly 300 GitHub repos pose as legit software to push malware](https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/)
-- [Microsoft releases Windows 10 KB5099539 extended security update](https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife](https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife)
+- [Claude Flaw Automatically Sends Malicious Prompts to AI Agents](https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents)
 - [2-Click Cursor Exploit Enables Dev Environment Takeover](https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover)
 - [Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits](https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits)
 - [Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal](https://www.darkreading.com/cybersecurity-operations/cribl-adds-agentic-detection-engineering-boosts-secops-with-cardinalops-deal)
 - [Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes](https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes)
 - [6 GHz Wi-Fi Flaws Could Disrupt Critical Systems](https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems)
 - [Manage Vendor Risk in a Few Practical Steps](https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps)
-- [Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?](https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook)
-- [ClickFix's Mushrooming Ecosystem Demands New Defense Tactics](https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense)
 
 ### Security Week
 

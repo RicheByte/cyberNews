@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-15 13:24 UTC |
+| 🕐 Last Updated | 2026-07-15 15:22 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`windows bind links` • `twitter whistleblower complaint` • `project stays open` • `largest patch tuesday` • `core system component` • `address multiple vulnerabilities` • `570 vulnerabilities along` • `post vulnerabilities patched` • `running cybercrime services` • `nearly three dozen`
+`windows bind links` • `twitter whistleblower complaint` • `largest patch tuesday` • `running cybercrime services` • `nearly three dozen` • `dire critical rating` • `cybercrime group known` • `critical security defect` • `criminal charges stemming` • `software almost triple`
 
 ## 📄 Reports
 

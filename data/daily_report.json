@@ -1,72 +1,87 @@
 {
-  "last_updated": "2026-07-15 13:24",
+  "last_updated": "2026-07-15 15:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "windows bind links",
     "twitter whistleblower complaint",
-    "project stays open",
     "largest patch tuesday",
-    "core system component",
-    "address multiple vulnerabilities",
-    "570 vulnerabilities along",
-    "post vulnerabilities patched",
     "running cybercrime services",
     "nearly three dozen",
+    "dire critical rating",
     "cybercrime group known",
+    "critical security defect",
     "criminal charges stemming",
-    "comes security updates",
-    "software giant fixed",
     "software almost triple",
-    "contractor published dozens",
+    "cisa warns admins",
     "windows operating systems",
     "sprawling phishing campaign",
     "spanish police take",
-    "spanish police dismantled"
+    "spanish police dismantled",
+    "several state governments",
+    "real life identity",
+    "project stays open",
+    "national security risk",
+    "money laundering organization"
   ],
   "trending": [
     {
       "keyword": "windows bind links",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2106
-    },
-    {
-      "keyword": "project stays open",
-      "mentions": 1
+      "mentions": 2107
     },
     {
       "keyword": "largest patch tuesday",
-      "mentions": 7
-    },
-    {
-      "keyword": "core system component",
-      "mentions": 1
-    },
-    {
-      "keyword": "address multiple vulnerabilities",
-      "mentions": 7
-    },
-    {
-      "keyword": "570 vulnerabilities along",
       "mentions": 8
     },
     {
-      "keyword": "post vulnerabilities patched",
-      "mentions": 1
-    },
-    {
       "keyword": "running cybercrime services",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "nearly three dozen",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "dire critical rating",
+      "mentions": 251
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 183
+    },
+    {
+      "keyword": "critical security defect",
+      "mentions": 1
+    },
+    {
+      "keyword": "criminal charges stemming",
+      "mentions": 31
+    },
+    {
+      "keyword": "software almost triple",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "summary": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
+      "published": "Wed, 15 Jul 2026 18:48:53 +0530",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Patch/update",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
@@ -145,15 +160,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
-      "link": "https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html",
-      "summary": "SAP has rolled out updates to address multiple vulnerabilities as part of its July 2026 security updates, including a critical flaw in SAP NetWeaver Application Server ABAP. The vulnerability in question is CVE-2026-44747 (CVSS score: 9.9), an out-of-bounds write flaw that allows an authenticated attacker to leverage logical errors in memory management to cause a memory corruption that could",
-      "published": "Tue, 14 Jul 2026 23:47:57 +0530",
-      "value_score": 36,
+      "source": "BleepingComputer",
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "summary": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]",
+      "published": "Wed, 15 Jul 2026 10:01:11 -0400",
+      "value_score": 41,
       "value_signals": [
-        "CVE mentioned",
-        "High severity"
+        "Zero-day",
+        "Exploit wording"
       ]
     },
     {
@@ -227,24 +242,11 @@
       "source": "BleepingComputer",
       "title": "Microsoft releases Windows 10 KB5099539 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+      "summary": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
       "published": "Tue, 14 Jul 2026 14:49:28 -0400",
       "value_score": 26,
       "value_signals": [
         "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
-      "summary": "Today is Microsoft's July 2026 Patch Tuesday, and with it comes security updates for a record-breaking 570 flaws, including two zero-day vulnerabilities exploited in attacks and one publicly disclosed. [...]",
-      "published": "Tue, 14 Jul 2026 14:01:36 -0400",
-      "value_score": 57,
-      "value_signals": [
-        "Zero-day",
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -417,6 +419,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "summary": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 14:37:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "summary": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 14:07:44 +0000",
+      "value_score": 81,
+      "value_signals": [
+        "Active exploitation",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
       "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
       "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek .",
@@ -472,30 +496,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/",
-      "summary": "The industrial giants fixed dozens of vulnerabilities across their ICS products, with advisories also released by CISA and VDE CERT. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 09:19:58 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Patch/update ×5",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
-      "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
-      "summary": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed. The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 07:24:52 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

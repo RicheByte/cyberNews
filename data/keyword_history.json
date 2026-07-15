@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 625,
+      "count": 626,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -303,7 +303,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2106,
+      "count": 2107,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -551,7 +551,7 @@
       ]
     },
     "real life identity": {
-      "count": 220,
+      "count": 221,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1130,7 +1130,7 @@
       ]
     },
     "national security risk": {
-      "count": 267,
+      "count": 268,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1851,7 +1851,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 464,
+      "count": 465,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3761,7 +3761,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 250,
+      "count": 251,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -19303,7 +19303,7 @@
       ]
     },
     "nearly three dozen": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -20685,7 +20685,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20748,7 +20748,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22908,9 +22908,10 @@
       ]
     },
     "several state governments": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ]
     },
     "analysis published today": {
@@ -22955,21 +22956,21 @@
       ]
     },
     "largest patch tuesday": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "software almost triple": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "spanish police dismantled": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22996,7 +22997,7 @@
       ]
     },
     "spanish police take": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -23021,13 +23022,13 @@
       ]
     },
     "windows bind links": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-15"
       ]
     },
     "project stays open": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-15"
       ]
@@ -23045,6 +23046,24 @@
       ]
     },
     "running cybercrime services": {
+      "count": 2,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "critical security defect": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "cisa warns admins": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "money laundering organization": {
       "count": 1,
       "dates": [
         "2026-07-15"
@@ -23052,17 +23071,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-04 10:03",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-04 13:12",
       "articles": 48,
@@ -24150,6 +24158,17 @@
         "project stays open",
         "largest patch tuesday",
         "core system component"
+      ]
+    },
+    {
+      "timestamp": "2026-07-15 15:22",
+      "articles": 48,
+      "top_keywords": [
+        "windows bind links",
+        "twitter whistleblower complaint",
+        "largest patch tuesday",
+        "running cybercrime services",
+        "nearly three dozen"
       ]
     }
   ]

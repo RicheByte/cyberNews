@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-15 10:05 UTC  
+> **Last Updated:** 2026-07-15 13:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **twitter whistleblower complaint** • **largest patch tuesday** • **bypass secure boot** • **analysis published today** • **address multiple vulnerabilities** • **570 vulnerabilities along** • **comes security updates** • **arbitrary prompt path** • **remote code execution** • **nearly three dozen** • **critical vulnerabilities patched** • **contractor published dozens** • **weak security continues** • **national security risk** • **miggo's security team** • **poisoned repository attacks** • **execute arbitrary code** • **software giant fixed** • **software almost triple**
+**windows bind links** • **twitter whistleblower complaint** • **project stays open** • **largest patch tuesday** • **core system component** • **address multiple vulnerabilities** • **570 vulnerabilities along** • **post vulnerabilities patched** • **running cybercrime services** • **nearly three dozen** • **cybercrime group known** • **criminal charges stemming** • **comes security updates** • **software giant fixed** • **software almost triple** • **contractor published dozens** • **windows operating systems** • **sprawling phishing campaign** • **spanish police take** • **spanish police dismantled**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
+- [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
+- [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)
+- [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
 - [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
 - [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
 - [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
 - [SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data](https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html)
-- [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html)
-- [LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts](https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html)
-- [RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
-- [11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
 
 ### BleepingComputer
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [2-Click Cursor Exploit Enables Dev Environment Takeover](https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover)
 - [Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits](https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits)
+- [Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal](https://www.darkreading.com/cybersecurity-operations/cribl-adds-agentic-detection-engineering-boosts-secops-with-cardinalops-deal)
 - [Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes](https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes)
 - [6 GHz Wi-Fi Flaws Could Disrupt Critical Systems](https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems)
 - [Manage Vendor Risk in a Few Practical Steps](https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps)
 - [Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?](https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook)
 - [ClickFix's Mushrooming Ecosystem Demands New Defense Tactics](https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense)
-- [Cursor IDE Auto-Executes Malicious Code in Poisoned Repos](https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos)
-- [Weak Security Continues to Fuel Russian Cyberattacks](https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks)
 
 ### Security Week
 
+- [Windows Bind Link Attacks Can Hide Malware From EDR Tools](https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/)
+- [Virtual Event Today: Cloud & Data Security Summit](https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/)
+- [US Charges Russian Individuals and Firms for Running Cybercrime Services](https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/)
+- [Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow](https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/)
+- [White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative](https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/)
 - [Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption](https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/)
 - [ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Rockwell](https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-rockwell/)
 - [Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates](https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/)
-- [SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits](https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/)
-- [Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days](https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/)
-- [Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims](https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/)
-- [Adobe Patches Critical ColdFusion Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/)
-- [7 Severe Vulnerabilities Patched in VMware Avi Load Balancer](https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/)
 
 ### Threatpost
 

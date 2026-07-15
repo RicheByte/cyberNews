@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-07-15 10:05",
+  "last_updated": "2026-07-15 13:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cybercrime group known",
+    "windows bind links",
     "twitter whistleblower complaint",
+    "project stays open",
     "largest patch tuesday",
-    "bypass secure boot",
-    "analysis published today",
+    "core system component",
     "address multiple vulnerabilities",
     "570 vulnerabilities along",
-    "comes security updates",
-    "arbitrary prompt path",
-    "remote code execution",
+    "post vulnerabilities patched",
+    "running cybercrime services",
     "nearly three dozen",
-    "critical vulnerabilities patched",
-    "contractor published dozens",
-    "weak security continues",
-    "national security risk",
-    "miggo's security team",
-    "poisoned repository attacks",
-    "execute arbitrary code",
+    "cybercrime group known",
+    "criminal charges stemming",
+    "comes security updates",
     "software giant fixed",
-    "software almost triple"
+    "software almost triple",
+    "contractor published dozens",
+    "windows operating systems",
+    "sprawling phishing campaign",
+    "spanish police take",
+    "spanish police dismantled"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 181
+      "keyword": "windows bind links",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2105
+      "mentions": 2106
+    },
+    {
+      "keyword": "project stays open",
+      "mentions": 1
     },
     {
       "keyword": "largest patch tuesday",
-      "mentions": 6
-    },
-    {
-      "keyword": "bypass secure boot",
-      "mentions": 10
-    },
-    {
-      "keyword": "analysis published today",
       "mentions": 7
+    },
+    {
+      "keyword": "core system component",
+      "mentions": 1
     },
     {
       "keyword": "address multiple vulnerabilities",
-      "mentions": 6
-    },
-    {
-      "keyword": "570 vulnerabilities along",
       "mentions": 7
     },
     {
-      "keyword": "comes security updates",
-      "mentions": 5
+      "keyword": "570 vulnerabilities along",
+      "mentions": 8
     },
     {
-      "keyword": "arbitrary prompt path",
-      "mentions": 2
+      "keyword": "post vulnerabilities patched",
+      "mentions": 1
     },
     {
-      "keyword": "remote code execution",
-      "mentions": 481
+      "keyword": "running cybercrime services",
+      "mentions": 1
+    },
+    {
+      "keyword": "nearly three dozen",
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.",
+      "link": "https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html",
+      "summary": "For years, routing traffic through cloud proxies was good enough. Then work moved to the browser, AI entered the workflow, and the inspection model stopped keeping up. Enterprise workflows now live across SaaS applications, browsers, and an expanding ecosystem of generative AI tools, unsanctioned browser extensions, and autonomous agents. Employees routinely paste intellectual property into",
+      "published": "Wed, 15 Jul 2026 17:20:01 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday",
+      "link": "https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html",
+      "summary": "Security researcher Chaotic Eclipse (aka Nightmare-Eclipse) has released a new proof-of-concept (PoC) exploit called LegacyHive. It has been described as a Windows User Profile Service arbitrary hive load elevation of privileges vulnerability. The Windows User Profile Service, also referred to as ProfSvc, is a core system component that manages user accounts and environments. \"The PoC requires",
+      "published": "Wed, 15 Jul 2026 16:37:07 +0530",
+      "value_score": 69,
+      "value_signals": [
+        "Zero-day",
+        "PoC available ×3",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Webinar: Closing the Approval Gap in AI-Era Ad Tech",
+      "link": "https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html",
+      "summary": "A single approved marketing tag can quietly load fourth-party code your security team has never seen, granting full access to your forms, customer data, and checkout pages. This on-demand webinar reveals how this Approval Gap forms, and gives your team the blueprint to close it before an auditor, regulator, or attacker finds it first. The Reality of the Approval Gap It's a pattern every",
+      "published": "Wed, 15 Jul 2026 16:36:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
+      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
+      "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open. No prompt",
+      "published": "Wed, 15 Jul 2026 16:25:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
@@ -113,46 +154,6 @@
       "value_signals": [
         "CVE mentioned",
         "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads",
-      "link": "https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html",
-      "summary": "Any other browser extension that can run a script on claude.ai can still trigger Claude for Chrome tasks aimed at your Gmail, your latest Google Doc and its comments, and your Calendar. Both this and ClaudeBleed need a rogue extension that can already run a script on claude.ai; the difference is scope. Anthropic restricted the arbitrary-prompt path in May as part of its response to the",
-      "published": "Tue, 14 Jul 2026 22:57:23 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
-      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
-      "published": "Tue, 14 Jul 2026 22:22:37 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata",
-      "link": "https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html",
-      "summary": "Cybersecurity researchers have disclosed details of two access control-related flaws impacting the RabbitMQ message broker service that could allow attackers to leak OAuth client secrets, expose enterprise messaging infrastructure to takeover risks, and bypass tenant boundaries. Miggo's security team, which discovered and reported the flaws, said one \"leaks the broker's confidential OAuth",
-      "published": "Tue, 14 Jul 2026 19:18:07 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
-      "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
-      "summary": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
-      "published": "Tue, 14 Jul 2026 18:16:18 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -337,10 +338,30 @@
     },
     {
       "source": "Dark Reading",
+      "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
+      "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
+      "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
+      "published": "Wed, 15 Jul 2026 13:00:00 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
       "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
       "summary": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
       "published": "Wed, 15 Jul 2026 08:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cribl-adds-agentic-detection-engineering-boosts-secops-with-cardinalops-deal",
+      "summary": "CardinalOps will give Cribl customers the ability to map detection rules and security controls to the MITRE ATT&CK framework. SecOps teams can identify coverage gaps and operationalize threat intelligence.",
+      "published": "Wed, 15 Jul 2026 00:05:31 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -395,22 +416,49 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
-      "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
-      "summary": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
-      "published": "Tue, 14 Jul 2026 13:00:00 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+      "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+      "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Virtual Event Today: Cloud & Data Security Summit",
+      "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+      "summary": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Virtual Event Today: Cloud & Data Security Summit appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 12:52:10 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
+      "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
+      "summary": "The suspects and their companies were previously sanctioned by the United States and its allies. The post US Charges Russian Individuals and Firms for Running Cybercrime Services appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 11:58:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
+      "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
+      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 11:02:57 +0000",
+      "value_score": 18,
       "value_signals": [
-        "Exploit wording"
+        "High severity"
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Weak Security Continues to Fuel Russian Cyberattacks",
-      "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
-      "summary": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
-      "published": "Mon, 13 Jul 2026 21:24:59 GMT",
+      "source": "Security Week",
+      "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
+      "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
+      "summary": "The new program stems from an AI-focused Executive Order signed by President Trump on June 2. The post White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 10:18:25 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -447,69 +495,6 @@
       "value_score": 32,
       "value_signals": [
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-      "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-      "summary": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution. The post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 05:19:42 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day ×3",
-        "RCE",
-        "Patch/update ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-      "summary": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed. The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 18:50:20 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-      "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
-      "summary": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. The post Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 18:18:45 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
-      "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
-      "summary": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 17:06:35 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "7 Severe Vulnerabilities Patched in VMware Avi Load Balancer",
-      "link": "https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/",
-      "summary": "The flaws can be exploited for authentication bypass, remote code execution, privilege escalation, and directory traversal. The post 7 Severe Vulnerabilities Patched in VMware Avi Load Balancer appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 13:55:41 +0000",
-      "value_score": 63,
-      "value_signals": [
-        "RCE",
-        "Privilege escalation",
-        "Auth bypass",
         "Exploit wording"
       ]
     },

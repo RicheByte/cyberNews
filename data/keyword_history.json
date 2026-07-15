@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 624,
+      "count": 625,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -298,11 +298,12 @@
         "2026-05-23",
         "2026-05-24",
         "2026-05-25",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-15"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2105,
+      "count": 2106,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1850,7 +1851,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 463,
+      "count": 464,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -19302,7 +19303,7 @@
       ]
     },
     "nearly three dozen": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -20684,7 +20685,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20747,7 +20748,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20755,7 +20756,8 @@
         "2026-06-26",
         "2026-06-29",
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ]
     },
     "salesforce attacks expands": {
@@ -22793,7 +22795,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22919,7 +22921,7 @@
       ]
     },
     "570 vulnerabilities along": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22933,7 +22935,7 @@
       ]
     },
     "comes security updates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22946,30 +22948,31 @@
       ]
     },
     "address multiple vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "largest patch tuesday": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "software almost triple": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "spanish police dismantled": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ]
     },
     "release covers 622": {
@@ -22993,7 +22996,7 @@
       ]
     },
     "spanish police take": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -23012,6 +23015,36 @@
       ]
     },
     "software giant fixed": {
+      "count": 2,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "windows bind links": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "project stays open": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "core system component": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "post vulnerabilities patched": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "running cybercrime services": {
       "count": 1,
       "dates": [
         "2026-07-15"
@@ -23019,17 +23052,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-04 06:43",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-04 10:03",
       "articles": 48,
@@ -24117,6 +24139,17 @@
         "largest patch tuesday",
         "bypass secure boot",
         "analysis published today"
+      ]
+    },
+    {
+      "timestamp": "2026-07-15 13:24",
+      "articles": 48,
+      "top_keywords": [
+        "windows bind links",
+        "twitter whistleblower complaint",
+        "project stays open",
+        "largest patch tuesday",
+        "core system component"
       ]
     }
   ]

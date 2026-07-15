@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15 17:11",
+  "last_updated": "2026-07-15 19:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,8 +11,8 @@
     "nearly three dozen",
     "dire critical rating",
     "cybercrime group known",
-    "criminal charges stemming",
     "critical security defect",
+    "criminal charges stemming",
     "us tech companies",
     "cisa warns admins",
     "windows operating systems",
@@ -22,51 +22,62 @@
     "significant cyber implications",
     "project stays open",
     "openai frontier models",
-    "money laundering organization"
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "windows bind links",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "us government's restrictions",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2108
+      "mentions": 2109
     },
     {
       "keyword": "additional discoveries already",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "tech xit imminent",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "nearly three dozen",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "dire critical rating",
-      "mentions": 252
+      "mentions": 253
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 184
-    },
-    {
-      "keyword": "criminal charges stemming",
-      "mentions": 32
+      "mentions": 185
     },
     {
       "keyword": "critical security defect",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "criminal charges stemming",
+      "mentions": 33
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
+      "link": "https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html",
+      "summary": "Cybersecurity researchers have disclosed details of a previously unreported Internet-of-Things (IoT) botnet framework dubbed TuxBot v3 Evolution that shows signs of being developed with assistance from a large language model (LLM), albeit with not so successful results. \"While the AI complied with their request to generate botnet code, it included a safety disclaimer that the developer failed",
+      "published": "Thu, 16 Jul 2026 00:13:08 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps",
@@ -146,21 +157,19 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
-      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
-      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to",
-      "published": "Wed, 15 Jul 2026 11:00:21 +0530",
-      "value_score": 59,
+      "source": "BleepingComputer",
+      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
+      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
+      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
+      "published": "Wed, 15 Jul 2026 14:33:48 -0400",
+      "value_score": 30,
       "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Exploit wording"
+        "Botnet ×2"
       ]
     },
     {
       "source": "BleepingComputer",
-      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "title": "AsyncAPI npm packages infected with credential-stealing malware",
       "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
       "summary": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
       "published": "Wed, 15 Jul 2026 11:37:27 -0400",
@@ -234,15 +243,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
       "summary": "The Spanish Police dismantled a cybercrime and money-laundering organization that made €140 million ($160 million) from investment fraud and business email compromise (BEC) attacks. [...]",
       "published": "Tue, 14 Jul 2026 16:23:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nearly 300 GitHub repos pose as legit software to push malware",
-      "link": "https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/",
-      "summary": "A threat actor has published hundreds of fake GitHub repositories impersonating legitimate software and security projects to distribute infostealer malware. [...]",
-      "published": "Tue, 14 Jul 2026 15:15:17 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -337,6 +337,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
+      "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
+      "summary": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
+      "published": "Wed, 15 Jul 2026 18:08:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
       "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
       "summary": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber implications.",
@@ -407,15 +416,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Manage Vendor Risk in a Few Practical Steps",
-      "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
-      "summary": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
-      "published": "Tue, 14 Jul 2026 17:44:55 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

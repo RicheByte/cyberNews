@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-15 04:47 UTC  
+> **Last Updated:** 2026-07-15 07:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**us allies warn** • **cybercrime group known** • **version 25h2 24h2** • **twitter whistleblower complaint** • **real life identity** • **largest patch tuesday** • **bypass secure boot** • **analysis published today** • **address multiple vulnerabilities** • **570 security issues** • **570 vulnerabilities along** • **weak security continues** • **released security updates** • **national security risk** • **miggo's security team** • **comes security updates** • **poisoned repository attacks** • **software almost triple** • **sprawling phishing campaign** • **spanish police take**
+**cybercrime group known** • **address multiple vulnerabilities** • **critical vulnerabilities patched** • **version 25h2 24h2** • **twitter whistleblower complaint** • **largest patch tuesday** • **bypass secure boot** • **analysis published today** • **570 vulnerabilities along** • **arbitrary prompt path** • **570 security issues** • **60 critical vulnerabilities** • **remote code execution** • **dire critical rating** • **poisoned repository attacks** • **execute arbitrary code** • **software almost triple** • **weak security continues** • **sprawling phishing campaign** • **spanish police take**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands](https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html)
 - [Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack](https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html)
 - [SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data](https://thehackernews.com/2026/07/sap-patches-cvss-99-netweaver-abap-flaw.html)
 - [Researchers Say Claude for Chrome Flaw Lets Rogue Extensions Trigger Gmail Reads](https://thehackernews.com/2026/07/claude-for-chrome-flaw-lets-other.html)
@@ -23,10 +24,10 @@
 - [RabbitMQ Flaws Could Leak OAuth Secrets and Expose Cross-Tenant Queue Metadata](https://thehackernews.com/2026/07/rabbitmq-flaws-could-leak-oauth-secrets.html)
 - [11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot](https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html)
 - [Study of 85 Crypto Wallet Extensions Finds Address Leaks and Cross-Site Tracking Risks](https://thehackernews.com/2026/07/study-of-85-crypto-wallet-extensions.html)
-- [How Pentera Turns AI Security Workflows into Validation Engines](https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html)
 
 ### BleepingComputer
 
+- [US charges alleged operators of Russian bulletproof hosting service](https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/)
 - [SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now](https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/)
 - [Spanish Police take down €140 million cyber fraud ring, arrest four](https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/)
 - [Nearly 300 GitHub repos pose as legit software to push malware](https://www.bleepingcomputer.com/news/security/nearly-300-github-repos-pose-as-legit-software-to-push-malware/)
@@ -34,7 +35,6 @@
 - [Microsoft July 2026 Patch Tuesday fixes massive 570 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/)
 - [Windows 11 KB5101650 & KB5099414 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/)
 - [Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown](https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/)
-- [LastPass, Bitwarden users targeted with fake security alerts](https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates](https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/)
+- [SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits](https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/)
 - [Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days](https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/)
 - [Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims](https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/)
 - [Adobe Patches Critical ColdFusion Vulnerabilities](https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/)
 - [7 Severe Vulnerabilities Patched in VMware Avi Load Balancer](https://www.securityweek.com/7-severe-vulnerabilities-patched-in-vmware-avi-load-balancer/)
 - [Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar](https://www.securityweek.com/unpatched-claude-for-chrome-flaw-lets-extensions-read-gmail-calendar/)
 - [SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud](https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/)
-- [US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers](https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/)
-- [Valarian Raises $50 Million for Sovereign Infrastructure Control Layer](https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/)
 
 ### Threatpost
 

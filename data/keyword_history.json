@@ -302,7 +302,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2103,
+      "count": 2104,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -795,7 +795,7 @@
       ]
     },
     "remote code execution": {
-      "count": 479,
+      "count": 480,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -878,7 +878,8 @@
         "2026-06-19",
         "2026-06-20",
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ]
     },
     "attacker remotely control": {
@@ -951,7 +952,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -971,7 +972,8 @@
         "2026-06-01",
         "2026-06-13",
         "2026-06-14",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-07-15"
       ]
     },
     "france arrests latvian": {
@@ -1848,7 +1850,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 462,
+      "count": 463,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3758,7 +3760,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3806,7 +3808,8 @@
         "2026-07-09",
         "2026-07-12",
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-15"
       ]
     },
     "bugs fixed today": {
@@ -19335,9 +19338,10 @@
       ]
     },
     "critical vulnerabilities patched": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-10"
+        "2026-06-10",
+        "2026-07-15"
       ]
     },
     "206 flaws 39": {
@@ -20679,7 +20683,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22861,7 +22865,7 @@
       ]
     },
     "bypass secure boot": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22886,14 +22890,14 @@
       ]
     },
     "poisoned repository attacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "weak security continues": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22906,14 +22910,14 @@
       ]
     },
     "analysis published today": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "570 vulnerabilities along": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22940,21 +22944,21 @@
       ]
     },
     "address multiple vulnerabilities": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "largest patch tuesday": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "software almost triple": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-14",
         "2026-07-15"
@@ -22973,39 +22977,40 @@
       ]
     },
     "version 25h2 24h2": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "570 security issues": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14",
         "2026-07-15"
       ]
     },
     "spanish police take": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-14",
+        "2026-07-15"
+      ]
+    },
+    "arbitrary prompt path": {
+      "count": 1,
+      "dates": [
+        "2026-07-15"
+      ]
+    },
+    "60 critical vulnerabilities": {
+      "count": 1,
+      "dates": [
         "2026-07-15"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-03 22:56",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-04 02:26",
       "articles": 48,
@@ -24093,6 +24098,17 @@
         "version 25h2 24h2",
         "twitter whistleblower complaint",
         "real life identity"
+      ]
+    },
+    {
+      "timestamp": "2026-07-15 07:58",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "address multiple vulnerabilities",
+        "critical vulnerabilities patched",
+        "version 25h2 24h2",
+        "twitter whistleblower complaint"
       ]
     }
   ]

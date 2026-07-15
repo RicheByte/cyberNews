@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-07-15 04:47",
+  "last_updated": "2026-07-15 07:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "us allies warn",
     "cybercrime group known",
+    "address multiple vulnerabilities",
+    "critical vulnerabilities patched",
     "version 25h2 24h2",
     "twitter whistleblower complaint",
-    "real life identity",
     "largest patch tuesday",
     "bypass secure boot",
     "analysis published today",
-    "address multiple vulnerabilities",
-    "570 security issues",
     "570 vulnerabilities along",
-    "weak security continues",
-    "released security updates",
-    "national security risk",
-    "miggo's security team",
-    "comes security updates",
+    "arbitrary prompt path",
+    "570 security issues",
+    "60 critical vulnerabilities",
+    "remote code execution",
+    "dire critical rating",
     "poisoned repository attacks",
+    "execute arbitrary code",
     "software almost triple",
+    "weak security continues",
     "sprawling phishing campaign",
     "spanish police take"
   ],
   "trending": [
     {
-      "keyword": "us allies warn",
-      "mentions": 9
-    },
-    {
       "keyword": "cybercrime group known",
-      "mentions": 179
-    },
-    {
-      "keyword": "version 25h2 24h2",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2103
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 220
-    },
-    {
-      "keyword": "largest patch tuesday",
-      "mentions": 4
-    },
-    {
-      "keyword": "bypass secure boot",
-      "mentions": 8
-    },
-    {
-      "keyword": "analysis published today",
-      "mentions": 5
+      "mentions": 180
     },
     {
       "keyword": "address multiple vulnerabilities",
+      "mentions": 5
+    },
+    {
+      "keyword": "critical vulnerabilities patched",
+      "mentions": 2
+    },
+    {
+      "keyword": "version 25h2 24h2",
       "mentions": 4
     },
     {
-      "keyword": "570 security issues",
-      "mentions": 3
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2104
+    },
+    {
+      "keyword": "largest patch tuesday",
+      "mentions": 5
+    },
+    {
+      "keyword": "bypass secure boot",
+      "mentions": 9
+    },
+    {
+      "keyword": "analysis published today",
+      "mentions": 6
+    },
+    {
+      "keyword": "570 vulnerabilities along",
+      "mentions": 6
+    },
+    {
+      "keyword": "arbitrary prompt path",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
+      "link": "https://thehackernews.com/2026/07/two-sonicwall-sma-1000-zero-days.html",
+      "summary": "SonicWall has warned of active exploitation of two zero-day vulnerabilities impacting Secure Mobile Access (SMA) 1000 series appliances, one of which could be exploited to achieve arbitrary command execution. The vulnerabilities are listed below - CVE-2026-15409 (CVSS score: 10.0) - A Server-side request forgery (SSRF) vulnerability that a remote unauthenticated attacker could exploit to",
+      "published": "Wed, 15 Jul 2026 11:00:21 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
@@ -143,13 +156,15 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "How Pentera Turns AI Security Workflows into Validation Engines",
-      "link": "https://thehackernews.com/2026/07/how-pentera-turns-ai-security-workflows.html",
-      "summary": "AI security agents are starting to influence real security decisions. They summarize findings, prioritize remediation, recommend next steps, and help teams move faster. But most still rely on fragmented risk signals: scanner output, severity scores, threat intelligence, configuration findings, and exposure data. That fragmentation matters because attackers do not move through environments one",
-      "published": "Tue, 14 Jul 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "US charges alleged operators of Russian bulletproof hosting service",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
+      "summary": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
+      "published": "Wed, 15 Jul 2026 03:45:50 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -229,17 +244,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LastPass, Bitwarden users targeted with fake security alerts",
-      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
-      "summary": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
-      "published": "Tue, 14 Jul 2026 11:31:52 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -412,6 +416,34 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates",
+      "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-fresh-chrome-150-firefox-152-updates/",
+      "summary": "Public exploit code targeting the Firefox flaws exists, but no in-the-wild exploitation has been observed. The post Critical Vulnerabilities Patched With Fresh Chrome 150, Firefox 152 Updates appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 07:24:52 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
+      "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
+      "summary": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution. The post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits appeared first on SecurityWeek .",
+      "published": "Wed, 15 Jul 2026 05:19:42 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day ×3",
+        "RCE",
+        "Patch/update ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
       "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
       "summary": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed. The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek .",
@@ -476,26 +508,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers",
-      "link": "https://www.securityweek.com/us-allies-warn-of-russian-cyberattacks-targeting-critical-infrastructure-routers/",
-      "summary": "Multiple state-sponsored APTs are compromising poorly secured devices across critical infrastructure sector networks. The post US, Allies Warn of Russian Cyberattacks Targeting Critical Infrastructure Routers appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 10:51:01 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Valarian Raises $50 Million for Sovereign Infrastructure Control Layer",
-      "link": "https://www.securityweek.com/valarian-raises-50-million-for-sovereign-infrastructure-control-layer/",
-      "summary": "UK-based cybersecurity firm Valarian has raised a total of $70 million for its ACRA technology. The post Valarian Raises $50 Million for Sovereign Infrastructure Control Layer appeared first on SecurityWeek .",
-      "published": "Tue, 14 Jul 2026 09:32:15 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

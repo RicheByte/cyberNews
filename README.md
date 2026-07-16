@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-16 10:02 UTC |
+| 🕐 Last Updated | 2026-07-16 13:38 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`bypass secure boot` • `windows bind links` • `us tech companies` • `cybercrime group known` • `twitter whistleblower complaint` • `multiple individuals suspected` • `multifactor authentication mfa` • `additional discoveries already` • `us government's restrictions` • `tech xit imminent`
+`cybercrime group known` • `run root commands` • `multiple individuals suspected` • `bypass secure boot` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `multifactor authentication mfa` • `aws region watch` • `ai data centers` • `significant cyber implications`
 
 ## 📄 Reports
 

@@ -304,7 +304,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2114,
+      "count": 2115,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1854,7 +1854,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 471,
+      "count": 472,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -13513,7 +13513,7 @@
       ]
     },
     "credential based attacks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-04-13",
         "2026-04-14",
@@ -16837,10 +16837,11 @@
       ]
     },
     "ai data centers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-05-15",
-        "2026-05-16"
+        "2026-05-16",
+        "2026-07-16"
       ]
     },
     "cve 2026 42897": {
@@ -20693,7 +20694,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22266,9 +22267,10 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-16"
       ]
     },
     "activity dates back": {
@@ -22879,7 +22881,7 @@
       ]
     },
     "bypass secure boot": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23086,7 +23088,7 @@
       ]
     },
     "us government's restrictions": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23100,21 +23102,21 @@
       ]
     },
     "tech xit imminent": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "us tech companies": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "significant cyber implications": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23128,7 +23130,7 @@
       ]
     },
     "multifactor authentication mfa": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23142,7 +23144,7 @@
       ]
     },
     "multiple individuals suspected": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23155,13 +23157,13 @@
       ]
     },
     "european cyber defenders": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-16"
       ]
     },
     "prompt injection attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-16"
       ]
@@ -23171,20 +23173,39 @@
       "dates": [
         "2026-07-16"
       ]
+    },
+    "run root commands": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "aws region watch": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "threat intelligence solutions": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "ongoing attacks exploiting": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "single planted review": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-05 07:19",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "chinese firms compete",
-        "cybercrime group known",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-05 10:06",
       "articles": 48,
@@ -24271,6 +24292,17 @@
         "windows bind links",
         "us tech companies",
         "cybercrime group known",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-16 13:38",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "run root commands",
+        "multiple individuals suspected",
+        "bypass secure boot",
         "twitter whistleblower complaint"
       ]
     }

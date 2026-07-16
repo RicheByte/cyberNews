@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-16 02:05 UTC  
+> **Last Updated:** 2026-07-16 06:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows bind links** • **multiple individuals suspected** • **cybercrime group known** • **us government's restrictions** • **twitter whistleblower complaint** • **multifactor authentication mfa** • **additional discoveries already** • **tech xit imminent** • **criminal charges stemming** • **credential based attacks** • **us tech companies** • **cisa warns admins** • **windows operating systems** • **sprawling phishing campaign** • **significant cyber implications** • **running cybercrime services** • **real life identity** • **project stays open** • **openai frontier models** • **map detection rules**
+**windows bind links** • **multiple individuals suspected** • **cybercrime group known** • **us tech companies** • **us government's restrictions** • **twitter whistleblower complaint** • **multifactor authentication mfa** • **additional discoveries already** • **tech xit imminent** • **criminal charges stemming** • **dire critical rating** • **credential based attacks** • **cisa warns admins** • **critical security defect** • **windows operating systems** • **sprawling phishing campaign** • **significant cyber implications** • **running cybercrime services** • **real life identity** • **project stays open**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities](https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/)
 - [Unpatched Cursor Vulnerability Exposes Users to Code Execution](https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/)
 - [CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/)
 - [Windows Bind Link Attacks Can Hide Malware From EDR Tools](https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/)
@@ -67,7 +68,6 @@
 - [US Charges Russian Individuals and Firms for Running Cybercrime Services](https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/)
 - [Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow](https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/)
 - [White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative](https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/)
-- [Progress Confirms Zero-Day Vulnerability Behind ShareFile Disruption](https://www.securityweek.com/progress-confirms-zero-day-vulnerability-behind-sharefile-disruption/)
 
 ### Threatpost
 

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 631,
+      "count": 632,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -304,7 +304,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2112,
+      "count": 2113,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -553,7 +553,7 @@
       ]
     },
     "real life identity": {
-      "count": 224,
+      "count": 225,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1854,7 +1854,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 470,
+      "count": 471,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3765,7 +3765,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 253,
+      "count": 254,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3814,7 +3814,8 @@
         "2026-07-12",
         "2026-07-13",
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-16"
       ]
     },
     "bugs fixed today": {
@@ -13511,7 +13512,7 @@
       ]
     },
     "credential based attacks": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-13",
         "2026-04-14",
@@ -20691,7 +20692,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20755,7 +20756,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23030,14 +23031,14 @@
       ]
     },
     "windows bind links": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "project stays open": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23056,20 +23057,21 @@
       ]
     },
     "running cybercrime services": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "critical security defect": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-16"
       ]
     },
     "cisa warns admins": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23082,35 +23084,35 @@
       ]
     },
     "us government's restrictions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "additional discoveries already": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "tech xit imminent": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "us tech companies": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "significant cyber implications": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23124,7 +23126,7 @@
       ]
     },
     "multifactor authentication mfa": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23138,7 +23140,7 @@
       ]
     },
     "multiple individuals suspected": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23146,17 +23148,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-04 22:53",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "chinese firms compete",
-        "cybercrime group known",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-05 02:36",
       "articles": 48,
@@ -24244,6 +24235,17 @@
         "cybercrime group known",
         "us government's restrictions",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-16 06:12",
+      "articles": 48,
+      "top_keywords": [
+        "windows bind links",
+        "multiple individuals suspected",
+        "cybercrime group known",
+        "us tech companies",
+        "us government's restrictions"
       ]
     }
   ]

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 632,
+      "count": 633,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -304,7 +304,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2113,
+      "count": 2114,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2527,7 +2527,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 369,
+      "count": 370,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2577,7 +2577,8 @@
         "2026-05-22",
         "2026-05-23",
         "2026-05-24",
-        "2026-05-25"
+        "2026-05-25",
+        "2026-07-16"
       ]
     },
     "corporate data stolen": {
@@ -3765,7 +3766,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 254,
+      "count": 255,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -13512,7 +13513,7 @@
       ]
     },
     "credential based attacks": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-13",
         "2026-04-14",
@@ -20692,7 +20693,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22878,10 +22879,11 @@
       ]
     },
     "bypass secure boot": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-16"
       ]
     },
     "commerce cloud sap": {
@@ -23031,7 +23033,7 @@
       ]
     },
     "windows bind links": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23071,7 +23073,7 @@
       ]
     },
     "cisa warns admins": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23084,35 +23086,35 @@
       ]
     },
     "us government's restrictions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "additional discoveries already": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "tech xit imminent": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "us tech companies": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
       ]
     },
     "significant cyber implications": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23126,7 +23128,7 @@
       ]
     },
     "multifactor authentication mfa": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23140,25 +23142,38 @@
       ]
     },
     "multiple individuals suspected": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-15",
+        "2026-07-16"
+      ]
+    },
+    "previously unreported internet": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "european cyber defenders": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "prompt injection attacks": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "zoom meeting sdk": {
+      "count": 1,
+      "dates": [
         "2026-07-16"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-05 02:36",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "chinese firms compete",
-        "cybercrime group known",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-05 07:19",
       "articles": 48,
@@ -24246,6 +24261,17 @@
         "cybercrime group known",
         "us tech companies",
         "us government's restrictions"
+      ]
+    },
+    {
+      "timestamp": "2026-07-16 10:02",
+      "articles": 48,
+      "top_keywords": [
+        "bypass secure boot",
+        "windows bind links",
+        "us tech companies",
+        "cybercrime group known",
+        "twitter whistleblower complaint"
       ]
     }
   ]

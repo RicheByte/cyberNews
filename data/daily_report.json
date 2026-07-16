@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-07-16 06:12",
+  "last_updated": "2026-07-16 10:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "bypass secure boot",
     "windows bind links",
-    "multiple individuals suspected",
-    "cybercrime group known",
     "us tech companies",
-    "us government's restrictions",
+    "cybercrime group known",
     "twitter whistleblower complaint",
+    "multiple individuals suspected",
     "multifactor authentication mfa",
     "additional discoveries already",
+    "us government's restrictions",
     "tech xit imminent",
-    "criminal charges stemming",
+    "significant cyber implications",
+    "previously unreported internet",
+    "european cyber defenders",
+    "130 companies tangled",
     "dire critical rating",
+    "windows operating systems",
+    "prompt injection attacks",
     "credential based attacks",
     "cisa warns admins",
-    "critical security defect",
-    "windows operating systems",
-    "sprawling phishing campaign",
-    "significant cyber implications",
-    "running cybercrime services",
-    "real life identity",
-    "project stays open"
+    "zoom meeting sdk"
   ],
   "trending": [
     {
+      "keyword": "bypass secure boot",
+      "mentions": 11
+    },
+    {
       "keyword": "windows bind links",
-      "mentions": 8
-    },
-    {
-      "keyword": "multiple individuals suspected",
-      "mentions": 3
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 189
+      "mentions": 9
     },
     {
       "keyword": "us tech companies",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "us government's restrictions",
-      "mentions": 6
+      "keyword": "cybercrime group known",
+      "mentions": 190
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2113
+      "mentions": 2114
     },
     {
-      "keyword": "multifactor authentication mfa",
+      "keyword": "multiple individuals suspected",
       "mentions": 4
     },
     {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 5
+    },
+    {
       "keyword": "additional discoveries already",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "us government's restrictions",
+      "mentions": 7
     },
     {
       "keyword": "tech xit imminent",
-      "mentions": 6
-    },
-    {
-      "keyword": "criminal charges stemming",
-      "mentions": 37
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
+      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
+      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT‑Red to adversarially train",
+      "published": "Thu, 16 Jul 2026 14:12:31 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zoom Patches Critical Windows Flaw That Could Enable Account Takeover",
+      "link": "https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html",
+      "summary": "Zoom has released security updates for a critical security flaw impacting Zoom Workplace for Windows that could facilitate account takeover. The vulnerability, tracked as CVE-2026-53412 (CVSS score: 9.8), affects Zoom Desktop Client for Windows, Zoom VDI Client for Windows, and Zoom Meeting SDK for Windows. \"Improper Input Validation in Zoom Desktop Client for Windows, Zoom VDI Client for",
+      "published": "Thu, 16 Jul 2026 12:52:44 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development",
@@ -135,26 +158,6 @@
       "published": "Wed, 15 Jul 2026 16:36:57 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution",
-      "link": "https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html",
-      "summary": "Open a repository in Cursor on Windows and, if a file named git.exe is sitting in the project root, Cursor runs it. No click, no approval dialog, no warning that anything in the folder is about to execute. Whatever that binary does, it does as you, with your source, your SSH keys and your cloud tokens. Cursor keeps re-running it for as long as the project stays open. No prompt",
-      "published": "Wed, 15 Jul 2026 16:25:22 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
-      "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
-      "summary": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0.7.1 @asyncapi/generator@3.3.1 @asyncapi/specs(v6.11.2, v6.11.2-alpha.1) \"The",
-      "published": "Wed, 15 Jul 2026 14:46:13 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -334,6 +337,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
+      "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
+      "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
+      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Forgotten Bootloaders Expose Secure Boot Blind Spot",
       "link": "https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot",
       "summary": "Nearly a dozen vulnerable and now revoked UEFI shim bootloaders remained trusted for years, giving attackers a path to bypass Secure Boot.",
@@ -404,13 +416,47 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cribl-adds-agentic-detection-engineering-boosts-secops-with-cardinalops-deal",
-      "summary": "CardinalOps will give Cribl customers the ability to map detection rules and security controls to the MITRE ATT&CK framework. SecOps teams can identify coverage gaps and operationalize threat intelligence.",
-      "published": "Wed, 15 Jul 2026 00:05:31 GMT",
+      "source": "Security Week",
+      "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
+      "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 16 Jul 2026 09:20:10 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
+      "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
+      "summary": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures. The post China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans appeared first on SecurityWeek .",
+      "published": "Thu, 16 Jul 2026 08:49:27 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Old UEFI Shims Expose Systems to Secure Boot Bypass",
+      "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
+      "summary": "Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS. The post Old UEFI Shims Expose Systems to Secure Boot Bypass appeared first on SecurityWeek .",
+      "published": "Thu, 16 Jul 2026 07:59:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/",
+      "summary": "The researcher stripped the proof-of-concept (PoC) exploit to prevent immediate exploitation of the vulnerability. The post Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day appeared first on SecurityWeek .",
+      "published": "Thu, 16 Jul 2026 06:48:40 +0000",
+      "value_score": 76,
+      "value_signals": [
+        "Zero-day ×2",
+        "PoC available",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -452,44 +498,6 @@
       "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
       "summary": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek .",
       "published": "Wed, 15 Jul 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Virtual Event Today: Cloud & Data Security Summit",
-      "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-      "summary": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Virtual Event Today: Cloud & Data Security Summit appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 12:52:10 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Charges Russian Individuals and Firms for Running Cybercrime Services",
-      "link": "https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/",
-      "summary": "The suspects and their companies were previously sanctioned by the United States and its allies. The post US Charges Russian Individuals and Firms for Running Cybercrime Services appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 11:58:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow",
-      "link": "https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/",
-      "summary": "A critical security defect in the ServiceNow AI platform could allow remote attackers to execute arbitrary code. The post Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 11:02:57 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative",
-      "link": "https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/",
-      "summary": "The new program stems from an AI-focused Executive Order signed by President Trump on June 2. The post White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative appeared first on SecurityWeek .",
-      "published": "Wed, 15 Jul 2026 10:18:25 +0000",
       "value_score": 10,
       "value_signals": []
     },

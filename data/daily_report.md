@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-16 06:12 UTC  
+> **Last Updated:** 2026-07-16 10:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**windows bind links** • **multiple individuals suspected** • **cybercrime group known** • **us tech companies** • **us government's restrictions** • **twitter whistleblower complaint** • **multifactor authentication mfa** • **additional discoveries already** • **tech xit imminent** • **criminal charges stemming** • **dire critical rating** • **credential based attacks** • **cisa warns admins** • **critical security defect** • **windows operating systems** • **sprawling phishing campaign** • **significant cyber implications** • **running cybercrime services** • **real life identity** • **project stays open**
+**bypass secure boot** • **windows bind links** • **us tech companies** • **cybercrime group known** • **twitter whistleblower complaint** • **multiple individuals suspected** • **multifactor authentication mfa** • **additional discoveries already** • **us government's restrictions** • **tech xit imminent** • **significant cyber implications** • **previously unreported internet** • **european cyber defenders** • **130 companies tangled** • **dire critical rating** • **windows operating systems** • **prompt injection attacks** • **credential based attacks** • **cisa warns admins** • **zoom meeting sdk**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html)
+- [Zoom Patches Critical Windows Flaw That Could Enable Account Takeover](https://thehackernews.com/2026/07/zoom-patches-critical-windows-flaw-that.html)
 - [TuxBot v3 Evolution Shows Signs of LLM-Assisted IoT Botnet Development](https://thehackernews.com/2026/07/tuxbot-v3-evolution-shows-signs-of-llm.html)
 - [OkoBot Malware Framework Injects Seed Phrase Phishing Into Ledger and Trezor Apps](https://thehackernews.com/2026/07/okobot-malware-framework-injects-seed.html)
 - [Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws](https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html)
 - [SASE Has An AI Blind Spot. Inspecting Packets Is No Longer Enough.](https://thehackernews.com/2026/07/sase-has-ai-blind-spot-inspecting.html)
 - [Researcher Drops New Windows Zero-Day PoC Hours After Microsoft Patch Tuesday](https://thehackernews.com/2026/07/researcher-drops-new-windows-zero-day.html)
 - [New Webinar: Closing the Approval Gap in AI-Era Ad Tech](https://thehackernews.com/2026/07/new-webinar-closing-approval-gap-in-ai.html)
-- [Cursor Flaw Lets Malicious Cloned Repositories Trigger Windows Code Execution](https://thehackernews.com/2026/07/cursor-flaw-lets-malicious-cloned.html)
-- [Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware](https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Police Disrupt a €140M Cyber Fraud Ring in Spain](https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain)
 - [Forgotten Bootloaders Expose Secure Boot Blind Spot](https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot)
 - [Identity Attacks Overtake Exploits as Top Ransomware Cause](https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause)
 - [Guten Tag, Bonjour, Hola to Our European Cyber Defenders!](https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders)
@@ -56,18 +57,17 @@
 - [Claude Flaw Automatically Sends Malicious Prompts to AI Agents](https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents)
 - [2-Click Cursor Exploit Enables Dev Environment Takeover](https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover)
 - [Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits](https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits)
-- [Cribl Adds Agentic Detection Engineering &amp; Boosts SecOps With CardinalOps Deal](https://www.darkreading.com/cybersecurity-operations/cribl-adds-agentic-detection-engineering-boosts-secops-with-cardinalops-deal)
 
 ### Security Week
 
+- [F5 Patches Multiple NGINX, BIG-IP Vulnerabilities](https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/)
+- [China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans](https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/)
+- [Old UEFI Shims Expose Systems to Secure Boot Bypass](https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/)
+- [Nightmare Eclipse Drops ‘LegacyHive’ Windows Zero-Day](https://www.securityweek.com/nightmare-eclipse-drops-legacyhive-windows-zero-day/)
 - [Trend Micro, Tanium, ESET and Tenable Patch Severe Product Vulnerabilities](https://www.securityweek.com/trend-micro-tanium-eset-and-tenable-patch-severe-product-vulnerabilities/)
 - [Unpatched Cursor Vulnerability Exposes Users to Code Execution](https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/)
 - [CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/)
 - [Windows Bind Link Attacks Can Hide Malware From EDR Tools](https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/)
-- [Virtual Event Today: Cloud & Data Security Summit](https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/)
-- [US Charges Russian Individuals and Firms for Running Cybercrime Services](https://www.securityweek.com/us-charges-russian-individuals-and-firms-for-running-cybercrime-services/)
-- [Vulnerabilities Patched by Fortinet, Ivanti, ServiceNow](https://www.securityweek.com/vulnerabilities-patched-by-fortinet-ivanti-servicenow/)
-- [White House Launches AI-Driven ‘Gold Eagle’ Vulnerability Coordination Initiative](https://www.securityweek.com/white-house-launches-ai-driven-gold-eagle-vulnerability-coordination-initiative/)
 
 ### Threatpost
 

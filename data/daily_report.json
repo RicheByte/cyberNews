@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-16 15:28",
+  "last_updated": "2026-07-16 17:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "run root commands",
     "traditional security workflows",
-    "multiple individuals suspected",
     "ai data centers",
+    "multiple individuals suspected",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "multifactor authentication mfa",
-    "aws region watch",
+    "box starts talking",
+    "ai agents require",
     "significant cyber implications",
     "live identity foundation",
     "european cyber defenders",
     "create workflows tailored",
     "ongoing attacks exploiting",
     "credential based attacks",
+    "ai assisted tools",
     "threat intelligence solutions",
     "august 2024 cyberattack",
-    "ai assisted tools",
-    "ai agents require",
-    "ai agents broke"
+    "us tech companies",
+    "us government's restrictions"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 192
-    },
-    {
-      "keyword": "run root commands",
-      "mentions": 2
+      "mentions": 193
     },
     {
       "keyword": "traditional security workflows",
-      "mentions": 1
-    },
-    {
-      "keyword": "multiple individuals suspected",
-      "mentions": 6
+      "mentions": 2
     },
     {
       "keyword": "ai data centers",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2116
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 473
-    },
-    {
-      "keyword": "multifactor authentication mfa",
+      "keyword": "multiple individuals suspected",
       "mentions": 7
     },
     {
-      "keyword": "aws region watch",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2117
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 474
+    },
+    {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 8
+    },
+    {
+      "keyword": "box starts talking",
+      "mentions": 1
+    },
+    {
+      "keyword": "ai agents require",
       "mentions": 2
     },
     {
       "keyword": "significant cyber implications",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
+      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here’s the mess.",
+      "published": "Thu, 16 Jul 2026 21:11:15 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
@@ -133,15 +144,6 @@
       "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
       "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive testing workflows at impressive speed. That is a real advantage for security teams. It also",
       "published": "Thu, 16 Jul 2026 15:40:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide",
-      "link": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "summary": "Pull the certificate off the flash of a Shark RV2320EDUS robot vacuum, and you can run root commands on other people's Shark vacuums across the same AWS region: watch the camera, drive the robot, read the map of the house, and take the Wi-Fi password in plaintext. A researcher publishing under the handle tokay0 put the method online on Monday, having tested it only against vacuums he",
-      "published": "Thu, 16 Jul 2026 14:53:19 +0530",
       "value_score": 10,
       "value_signals": []
     },

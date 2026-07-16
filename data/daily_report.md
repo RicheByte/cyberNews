@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-16 15:28 UTC  
+> **Last Updated:** 2026-07-16 17:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **run root commands** • **traditional security workflows** • **multiple individuals suspected** • **ai data centers** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **multifactor authentication mfa** • **aws region watch** • **significant cyber implications** • **live identity foundation** • **european cyber defenders** • **create workflows tailored** • **ongoing attacks exploiting** • **credential based attacks** • **threat intelligence solutions** • **august 2024 cyberattack** • **ai assisted tools** • **ai agents require** • **ai agents broke**
+**cybercrime group known** • **traditional security workflows** • **ai data centers** • **multiple individuals suspected** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **multifactor authentication mfa** • **box starts talking** • **ai agents require** • **significant cyber implications** • **live identity foundation** • **european cyber defenders** • **create workflows tailored** • **ongoing attacks exploiting** • **credential based attacks** • **ai assisted tools** • **threat intelligence solutions** • **august 2024 cyberattack** • **us tech companies** • **us government's restrictions**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
 - [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
 - [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
 - [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
@@ -23,7 +24,6 @@
 - [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
 - [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
 - [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
-- [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html)
 
 ### BleepingComputer
 

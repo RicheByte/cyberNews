@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-07-16 13:38",
+  "last_updated": "2026-07-16 15:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "run root commands",
+    "traditional security workflows",
     "multiple individuals suspected",
-    "bypass secure boot",
+    "ai data centers",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "multifactor authentication mfa",
     "aws region watch",
-    "ai data centers",
     "significant cyber implications",
+    "live identity foundation",
     "european cyber defenders",
-    "threat intelligence solutions",
-    "prompt injection attacks",
+    "create workflows tailored",
     "ongoing attacks exploiting",
     "credential based attacks",
+    "threat intelligence solutions",
     "august 2024 cyberattack",
-    "us tech companies",
-    "us government's restrictions",
-    "tech xit imminent",
-    "single planted review"
+    "ai assisted tools",
+    "ai agents require",
+    "ai agents broke"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 191
+      "mentions": 192
     },
     {
       "keyword": "run root commands",
+      "mentions": 2
+    },
+    {
+      "keyword": "traditional security workflows",
       "mentions": 1
     },
     {
       "keyword": "multiple individuals suspected",
-      "mentions": 5
-    },
-    {
-      "keyword": "bypass secure boot",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2115
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 472
-    },
-    {
-      "keyword": "multifactor authentication mfa",
       "mentions": 6
     },
     {
-      "keyword": "aws region watch",
-      "mentions": 1
+      "keyword": "ai data centers",
+      "mentions": 10
     },
     {
-      "keyword": "ai data centers",
-      "mentions": 9
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2116
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 473
+    },
+    {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 7
+    },
+    {
+      "keyword": "aws region watch",
+      "mentions": 2
     },
     {
       "keyword": "significant cyber implications",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
+      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
+      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss. A valid token from issuer A carrying a sub that belongs to someone under issuer B logged you in as them. Their password never",
+      "published": "Thu, 16 Jul 2026 19:03:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
@@ -137,14 +146,23 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol",
-      "link": "https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html",
-      "summary": "OpenAI has disclosed details of GPT-Red, an internal automated red-teaming model that scales prompt injection vulnerability discovery with an aim to fix issues before the tools are deployed widely. \"GPT‑Red is a strong red-teamer, and our previous models are highly vulnerable to its prompt injection attacks,\" the artificial intelligence (AI) company said. \"We use GPT‑Red to adversarially train",
-      "published": "Thu, 16 Jul 2026 14:12:31 +0530",
-      "value_score": 18,
+      "source": "BleepingComputer",
+      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
+      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
+      "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
+      "published": "Thu, 16 Jul 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "23andMe to pay $18 million in new genetics data breach settlement",
+      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
+      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
+      "published": "Thu, 16 Jul 2026 09:47:23 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Patch/update"
+        "Breach/leak"
       ]
     },
     {
@@ -210,29 +228,6 @@
       "published": "Wed, 15 Jul 2026 17:55:50 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Zoom warns of critical account takeover vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/",
-      "summary": "Zoom is warning of a critical vulnerability in its desktop client and software development kit for Windows that could be exploited by an unauthenticated party to hijack accounts. [...]",
-      "published": "Wed, 15 Jul 2026 16:16:02 -0400",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Gemini CLI abused as a hacking agent, malware botnet operator",
-      "link": "https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/",
-      "summary": "A Russian-speaking threat actor known as \"bandcampro\" used Google's open-source Gemini CLI AI tool as a hacking agent and to operate a small-scale botnet. [...]",
-      "published": "Wed, 15 Jul 2026 14:33:48 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -405,6 +400,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
+      "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
+      "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek .",
+      "published": "Thu, 16 Jul 2026 15:15:00 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
       "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
       "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek .",
@@ -469,15 +475,6 @@
       "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
       "summary": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures. The post China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans appeared first on SecurityWeek .",
       "published": "Thu, 16 Jul 2026 08:49:27 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Old UEFI Shims Expose Systems to Secure Boot Bypass",
-      "link": "https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/",
-      "summary": "Signed by Microsoft, the vulnerable UEFI shim bootloaders could be abused on any system, regardless of the OS. The post Old UEFI Shims Expose Systems to Secure Boot Bypass appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 07:59:22 +0000",
       "value_score": 10,
       "value_signals": []
     },

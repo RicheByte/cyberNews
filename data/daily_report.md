@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-16 13:38 UTC  
+> **Last Updated:** 2026-07-16 15:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **run root commands** • **multiple individuals suspected** • **bypass secure boot** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **multifactor authentication mfa** • **aws region watch** • **ai data centers** • **significant cyber implications** • **european cyber defenders** • **threat intelligence solutions** • **prompt injection attacks** • **ongoing attacks exploiting** • **credential based attacks** • **august 2024 cyberattack** • **us tech companies** • **us government's restrictions** • **tech xit imminent** • **single planted review**
+**cybercrime group known** • **run root commands** • **traditional security workflows** • **multiple individuals suspected** • **ai data centers** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **multifactor authentication mfa** • **aws region watch** • **significant cyber implications** • **live identity foundation** • **european cyber defenders** • **create workflows tailored** • **ongoing attacks exploiting** • **credential based attacks** • **threat intelligence solutions** • **august 2024 cyberattack** • **ai assisted tools** • **ai agents require** • **ai agents broke**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
 - [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
 - [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
 - [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
@@ -23,18 +24,17 @@
 - [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
 - [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
 - [Unpatched Shark Vacuum Flaw Could Let Attackers Control Other Vacuums Region-Wide](https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html)
-- [OpenAI’s GPT-Red Automates Prompt Injection Testing to Harden GPT-5.6 Sol](https://thehackernews.com/2026/07/openais-gpt-red-automates-prompt.html)
 
 ### BleepingComputer
 
+- [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
+- [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
 - [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
 - [Windows 11 24H2 Home and Pro reach end of support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/)
 - [CISA orders feds to patch actively exploited Oracle flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/)
 - [Russian hackers trojanize WebEx, Zoom apps to push Starland malware](https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/)
 - [New Spirals ransomware encrypts victim network in under 24 hours](https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/)
 - [Dutch police bust investment fraud ring stealing over €100 million](https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/)
-- [Zoom warns of critical account takeover vulnerability](https://www.bleepingcomputer.com/news/security/zoom-warns-of-critical-account-takeover-vulnerability/)
-- [Google Gemini CLI abused as a hacking agent, malware botnet operator](https://www.bleepingcomputer.com/news/security/google-gemini-cli-abused-as-a-hacking-agent-malware-botnet-operator/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
 - [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
 - [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
 - [‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing](https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/)
@@ -67,7 +68,6 @@
 - [Splunk, Zoom Patch Critical Vulnerabilities](https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/)
 - [F5 Patches Multiple NGINX, BIG-IP Vulnerabilities](https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/)
 - [China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans](https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/)
-- [Old UEFI Shims Expose Systems to Secure Boot Bypass](https://www.securityweek.com/old-uefi-shims-expose-systems-to-secure-boot-bypass/)
 
 ### Threatpost
 

@@ -304,7 +304,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2115,
+      "count": 2116,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1854,7 +1854,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 472,
+      "count": 473,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -13513,7 +13513,7 @@
       ]
     },
     "credential based attacks": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-13",
         "2026-04-14",
@@ -16837,7 +16837,7 @@
       ]
     },
     "ai data centers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -20694,7 +20694,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22267,7 +22267,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-09",
         "2026-07-16"
@@ -23116,7 +23116,7 @@
       ]
     },
     "significant cyber implications": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23130,7 +23130,7 @@
       ]
     },
     "multifactor authentication mfa": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23144,7 +23144,7 @@
       ]
     },
     "multiple individuals suspected": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-15",
         "2026-07-16"
@@ -23157,7 +23157,7 @@
       ]
     },
     "european cyber defenders": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-16"
       ]
@@ -23175,25 +23175,25 @@
       ]
     },
     "run root commands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-16"
       ]
     },
     "aws region watch": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-16"
       ]
     },
     "threat intelligence solutions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-16"
       ]
     },
     "ongoing attacks exploiting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-16"
       ]
@@ -23203,20 +23203,45 @@
       "dates": [
         "2026-07-16"
       ]
+    },
+    "traditional security workflows": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "live identity foundation": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "create workflows tailored": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "ai assisted tools": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "ai agents require": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
+    },
+    "ai agents broke": {
+      "count": 1,
+      "dates": [
+        "2026-07-16"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-05 10:06",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "chinese firms compete",
-        "cybercrime group known",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-05 13:20",
       "articles": 48,
@@ -24304,6 +24329,17 @@
         "multiple individuals suspected",
         "bypass secure boot",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-16 15:28",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "run root commands",
+        "traditional security workflows",
+        "multiple individuals suspected",
+        "ai data centers"
       ]
     }
   ]

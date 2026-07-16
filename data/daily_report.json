@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-16 19:01",
+  "last_updated": "2026-07-16 20:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "multiple individuals suspected",
+    "ai data centers",
     "twitter whistleblower complaint",
     "traditional security workflows",
-    "thalha jubair 20",
     "sprawling phishing campaign",
     "multifactor authentication mfa",
     "box starts talking",
-    "ai data centers",
     "significant cyber implications",
     "real life identity",
     "live identity foundation",
     "european cyber defenders",
+    "ai agents require",
+    "ai agents broke",
     "woolwich crown court",
     "us tech companies",
     "us government's restrictions",
     "token security explains",
     "threat intelligence solutions",
-    "tech xit imminent",
-    "single planted review"
+    "thalha jubair 20",
+    "tech xit imminent"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 194
-    },
-    {
-      "keyword": "multiple individuals suspected",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2118
-    },
-    {
-      "keyword": "traditional security workflows",
-      "mentions": 3
-    },
-    {
-      "keyword": "thalha jubair 20",
-      "mentions": 1
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 475
-    },
-    {
-      "keyword": "multifactor authentication mfa",
-      "mentions": 9
-    },
-    {
-      "keyword": "box starts talking",
-      "mentions": 2
+      "mentions": 195
     },
     {
       "keyword": "ai data centers",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2119
+    },
+    {
+      "keyword": "traditional security workflows",
+      "mentions": 4
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 476
+    },
+    {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 10
+    },
+    {
+      "keyword": "box starts talking",
+      "mentions": 3
     },
     {
       "keyword": "significant cyber implications",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 227
+    },
+    {
+      "keyword": "live identity foundation",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -149,6 +149,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+      "published": "Thu, 16 Jul 2026 15:26:07 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
+      "published": "Thu, 16 Jul 2026 15:09:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
       "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
       "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
@@ -210,26 +228,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Spirals ransomware encrypts victim network in under 24 hours",
-      "link": "https://www.bleepingcomputer.com/news/security/new-spirals-ransomware-encrypts-victim-network-in-under-24-hours/",
-      "summary": "A new ransomware actor called Spirals completed a corporate intrusion, from initial access to data theft and encryption, in less than 24 hours. [...]",
-      "published": "Thu, 16 Jul 2026 06:00:00 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Dutch police bust investment fraud ring stealing over €100 million",
-      "link": "https://www.bleepingcomputer.com/news/security/dutch-police-bust-investment-fraud-ring-stealing-over-100-million/",
-      "summary": "The Dutch Police announced the arrest of multiple individuals suspected of being part of an international investment fraud scheme estimated to have tens of thousands of victims. [...]",
-      "published": "Wed, 15 Jul 2026 17:55:50 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -322,6 +320,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
+      "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+      "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+      "published": "Thu, 16 Jul 2026 19:41:31 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
       "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
       "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
@@ -390,15 +399,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
-      "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
-      "summary": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
-      "published": "Wed, 15 Jul 2026 08:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-16 17:09 UTC  
+> **Last Updated:** 2026-07-16 19:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **traditional security workflows** • **ai data centers** • **multiple individuals suspected** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **multifactor authentication mfa** • **box starts talking** • **ai agents require** • **significant cyber implications** • **live identity foundation** • **european cyber defenders** • **create workflows tailored** • **ongoing attacks exploiting** • **credential based attacks** • **ai assisted tools** • **threat intelligence solutions** • **august 2024 cyberattack** • **us tech companies** • **us government's restrictions**
+**cybercrime group known** • **multiple individuals suspected** • **twitter whistleblower complaint** • **traditional security workflows** • **thalha jubair 20** • **sprawling phishing campaign** • **multifactor authentication mfa** • **box starts talking** • **ai data centers** • **significant cyber implications** • **real life identity** • **live identity foundation** • **european cyber defenders** • **woolwich crown court** • **us tech companies** • **us government's restrictions** • **token security explains** • **threat intelligence solutions** • **tech xit imminent** • **single planted review**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
 - [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
 - [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
 - [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
@@ -23,7 +24,6 @@
 - [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
 - [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
 - [Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor](https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html)
-- [AI Can Find Bugs, But Human Knowledge Still Proves Them](https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html)
 
 ### BleepingComputer
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-07-16 17:09",
+  "last_updated": "2026-07-16 19:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "traditional security workflows",
-    "ai data centers",
     "multiple individuals suspected",
     "twitter whistleblower complaint",
+    "traditional security workflows",
+    "thalha jubair 20",
     "sprawling phishing campaign",
     "multifactor authentication mfa",
     "box starts talking",
-    "ai agents require",
+    "ai data centers",
     "significant cyber implications",
+    "real life identity",
     "live identity foundation",
     "european cyber defenders",
-    "create workflows tailored",
-    "ongoing attacks exploiting",
-    "credential based attacks",
-    "ai assisted tools",
-    "threat intelligence solutions",
-    "august 2024 cyberattack",
+    "woolwich crown court",
     "us tech companies",
-    "us government's restrictions"
+    "us government's restrictions",
+    "token security explains",
+    "threat intelligence solutions",
+    "tech xit imminent",
+    "single planted review"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 193
+      "mentions": 194
+    },
+    {
+      "keyword": "multiple individuals suspected",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2118
     },
     {
       "keyword": "traditional security workflows",
+      "mentions": 3
+    },
+    {
+      "keyword": "thalha jubair 20",
+      "mentions": 1
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 475
+    },
+    {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 9
+    },
+    {
+      "keyword": "box starts talking",
       "mentions": 2
     },
     {
       "keyword": "ai data centers",
-      "mentions": 11
-    },
-    {
-      "keyword": "multiple individuals suspected",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2117
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 474
-    },
-    {
-      "keyword": "multifactor authentication mfa",
-      "mentions": 8
-    },
-    {
-      "keyword": "box starts talking",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai agents require",
-      "mentions": 2
+      "mentions": 12
     },
     {
       "keyword": "significant cyber implications",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
+      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
+      "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery",
+      "published": "Thu, 16 Jul 2026 22:39:25 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
@@ -137,15 +146,6 @@
       "value_signals": [
         "Backdoor ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Can Find Bugs, But Human Knowledge Still Proves Them",
-      "link": "https://thehackernews.com/2026/07/ai-can-find-bugs-but-human-knowledge.html",
-      "summary": "Artificial intelligence (AI) is changing offensive security, but it has not changed the standard that matters most: a finding has to be proven before it becomes useful. AI-assisted tools can read code quickly, generate payloads, summarize attack surfaces, explain unfamiliar APIs, and run repetitive testing workflows at impressive speed. That is a real advantage for security teams. It also",
-      "published": "Thu, 16 Jul 2026 15:40:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

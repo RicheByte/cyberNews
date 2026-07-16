@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-16 20:52",
+  "last_updated": "2026-07-16 22:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "ai data centers",
+    "windows operating systems",
     "twitter whistleblower complaint",
     "traditional security workflows",
     "sprawling phishing campaign",
     "multifactor authentication mfa",
     "box starts talking",
+    "ai data centers",
     "significant cyber implications",
     "real life identity",
     "live identity foundation",
     "european cyber defenders",
-    "ai agents require",
-    "ai agents broke",
+    "threat intelligence solutions",
     "woolwich crown court",
     "us tech companies",
     "us government's restrictions",
     "token security explains",
-    "threat intelligence solutions",
     "thalha jubair 20",
-    "tech xit imminent"
+    "tech xit imminent",
+    "single planted review"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 195
+      "mentions": 196
     },
     {
-      "keyword": "ai data centers",
-      "mentions": 13
+      "keyword": "windows operating systems",
+      "mentions": 634
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2119
+      "mentions": 2120
     },
     {
       "keyword": "traditional security workflows",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 476
+      "mentions": 477
     },
     {
       "keyword": "multifactor authentication mfa",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "box starts talking",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "ai data centers",
+      "mentions": 14
     },
     {
       "keyword": "significant cyber implications",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "real life identity",
-      "mentions": 227
-    },
-    {
-      "keyword": "live identity foundation",
-      "mentions": 4
+      "mentions": 228
     }
   ],
   "articles": [
@@ -149,6 +149,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
+      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
+      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
       "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
       "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
@@ -202,32 +222,6 @@
       "published": "Thu, 16 Jul 2026 07:59:24 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch actively exploited Oracle flaw by Saturday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/",
-      "summary": "CISA has ordered federal agencies to secure their systems by Saturday against ongoing attacks exploiting a critical vulnerability in the Oracle E-Business Suite financial application. [...]",
-      "published": "Thu, 16 Jul 2026 06:56:03 -0400",
-      "value_score": 97,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers trojanize WebEx, Zoom apps to push Starland malware",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/",
-      "summary": "A financially motivated Russian threat actor tracked as UAT-11795 is using trojanized software to steal credentials and cryptocurrency by deploying a new backdoor called Starland RAT. [...]",
-      "published": "Thu, 16 Jul 2026 06:19:34 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -320,6 +314,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Agentic AI Is Untamable: Ask the Right Security Questions",
+      "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
+      "summary": "Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.",
+      "published": "Thu, 16 Jul 2026 20:57:47 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
       "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
       "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
@@ -386,17 +389,6 @@
       "value_score": 24,
       "value_signals": [
         "Patch/update",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
-      "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
-      "summary": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
-      "published": "Wed, 15 Jul 2026 13:00:00 GMT",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

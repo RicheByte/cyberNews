@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-16 20:52 UTC  
+> **Last Updated:** 2026-07-16 22:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **ai data centers** • **twitter whistleblower complaint** • **traditional security workflows** • **sprawling phishing campaign** • **multifactor authentication mfa** • **box starts talking** • **significant cyber implications** • **real life identity** • **live identity foundation** • **european cyber defenders** • **ai agents require** • **ai agents broke** • **woolwich crown court** • **us tech companies** • **us government's restrictions** • **token security explains** • **threat intelligence solutions** • **thalha jubair 20** • **tech xit imminent**
+**cybercrime group known** • **windows operating systems** • **twitter whistleblower complaint** • **traditional security workflows** • **sprawling phishing campaign** • **multifactor authentication mfa** • **box starts talking** • **ai data centers** • **significant cyber implications** • **real life identity** • **live identity foundation** • **european cyber defenders** • **threat intelligence solutions** • **woolwich crown court** • **us tech companies** • **us government's restrictions** • **token security explains** • **thalha jubair 20** • **tech xit imminent** • **single planted review**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
+- [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
 - [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
 - [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
 - [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
 - [23andMe to pay $18 million in new genetics data breach settlement](https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/)
 - [Scattered Spider members behind TfL hack get five years in prison](https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/)
 - [Windows 11 24H2 Home and Pro reach end of support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/)
-- [CISA orders feds to patch actively exploited Oracle flaw by Saturday](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-oracle-flaw-by-saturday/)
-- [Russian hackers trojanize WebEx, Zoom apps to push Starland malware](https://www.bleepingcomputer.com/news/security/russian-hackers-trojanize-webex-zoom-apps-to-push-starland-malware/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Agentic AI Is Untamable: Ask the Right Security Questions](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions)
 - [1M+ Emails Use Hidden Text to Dupe AI Security Filters](https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters)
 - [Police Disrupt a €140M Cyber Fraud Ring in Spain](https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain)
 - [Forgotten Bootloaders Expose Secure Boot Blind Spot](https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot)
@@ -56,7 +57,6 @@
 - [Guten Tag, Bonjour, Hola to Our European Cyber Defenders!](https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders)
 - [Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife](https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife)
 - [Claude Flaw Automatically Sends Malicious Prompts to AI Agents](https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents)
-- [2-Click Cursor Exploit Enables Dev Environment Takeover](https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover)
 
 ### Security Week
 

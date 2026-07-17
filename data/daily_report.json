@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-07-17 17:06",
+  "last_updated": "2026-07-17 18:59",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "cybercrime group known",
     "cyberattack disrupts operations",
     "rival ai assistants",
-    "cybercrime group known",
     "twitter whistleblower complaint",
     "system login password",
     "multiple questions linger",
     "multifactor authentication mfa",
     "laundering 43 million",
-    "automate threat detection",
     "gradually restore operations",
     "clean residential proxies",
+    "august 2024 cyberattack",
     "agentic ai taming",
-    "european cyber defenders",
-    "woolwich crown court",
+    "automate threat detection",
+    "vulnerability discoveries aided",
     "underlying legal obligation",
-    "thalha jubair 20",
-    "steal browser tokens",
     "sprawling phishing campaign",
-    "series b funding",
-    "revealing login password"
+    "shodan harvester keeps",
+    "shared technical details",
+    "service dos condition",
+    "series b funding"
   ],
   "trending": [
     {
+      "keyword": "cybercrime group known",
+      "mentions": 204
+    },
+    {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 3
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 203
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2127
+      "mentions": 2128
     },
     {
       "keyword": "system login password",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "multifactor authentication mfa",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "laundering 43 million",
-      "mentions": 5
-    },
-    {
-      "keyword": "automate threat detection",
-      "mentions": 2
+      "mentions": 6
     },
     {
       "keyword": "gradually restore operations",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "clean residential proxies",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
+      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
+      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
+      "published": "Fri, 17 Jul 2026 22:42:23 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
+      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
+      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
+      "published": "Fri, 17 Jul 2026 22:09:16 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
@@ -124,27 +146,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
-      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026. The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
-      "published": "Fri, 17 Jul 2026 12:12:23 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Zero-day",
-        "RCE",
-        "CISA/KEV ×5",
-        "High severity",
-        "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
-      "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
-      "summary": "Owen Flowers, 18, and Thalha Jubair, 20, were each sentenced to five and a half years at Woolwich Crown Court on Thursday, 16 July 2026, for the 2024 hack of Transport for London. The attack left 148 TfL systems inoperable and forced all 27,000 of the transport authority's employees into an office to get their passwords reset in person. Both the NCA and the CPS put TfL's losses and recovery",
-      "published": "Thu, 16 Jul 2026 22:39:25 +0530",
+      "source": "BleepingComputer",
+      "title": "HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload",
+      "link": "https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/",
+      "summary": "A vulnerability dubbed HollowByte allows unauthenticated attackers to trigger a denial-of-service (DoS) condition on OpenSSL servers with a malicious payload of just 11 bytes. [...]",
+      "published": "Fri, 17 Jul 2026 13:56:21 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -219,17 +225,6 @@
       "published": "Thu, 16 Jul 2026 17:52:54 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "summary": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
-      "published": "Thu, 16 Jul 2026 17:09:41 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -322,7 +317,18 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+      "title": "The Real AI Threat Is Blind Trust",
+      "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
+      "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
+      "published": "Fri, 17 Jul 2026 16:43:13 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
       "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
       "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
       "published": "Fri, 17 Jul 2026 13:00:00 GMT",
@@ -387,15 +393,6 @@
         "Ransomware ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Guten Tag, Bonjour, Hola to Our European Cyber Defenders!",
-      "link": "https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders",
-      "summary": "We're thrilled to unveil the latest evolution of Dark Reading's DR Global section — your go-to source for region-specific cybersecurity intelligence beyond North America.",
-      "published": "Wed, 15 Jul 2026 18:08:56 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

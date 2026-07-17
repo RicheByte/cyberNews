@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 13:16",
+  "last_updated": "2026-07-17 15:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,17 +8,17 @@
     "cybercrime group known",
     "twitter whistleblower complaint",
     "system login password",
-    "real life identity",
     "multiple questions linger",
     "multifactor authentication mfa",
     "laundering 43 million",
-    "damage moves faster",
-    "agentic ai taming",
+    "automate threat detection",
     "gradually restore operations",
+    "clean residential proxies",
+    "agentic ai taming",
     "european cyber defenders",
-    "national security risk",
     "woolwich crown court",
     "underlying legal obligation",
+    "thalha jubair 20",
     "steal browser tokens",
     "sprawling phishing campaign",
     "series b funding",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 201
+      "mentions": 202
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2125
+      "mentions": 2126
     },
     {
       "keyword": "system login password",
-      "mentions": 1
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 233
+      "mentions": 2
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "multifactor authentication mfa",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "laundering 43 million",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "damage moves faster",
+      "keyword": "automate threat detection",
       "mentions": 1
+    },
+    {
+      "keyword": "gradually restore operations",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
+      "published": "Fri, 17 Jul 2026 19:18:56 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
@@ -140,15 +149,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html",
-      "summary": "A lot of this week’s trouble starts with something that looks close enough. A familiar repo. A useful installer. A harmless sync setting. Then the handoff goes bad, the box starts talking to someone else, and the damage moves faster than the explanation. Old bugs are back, weak defaults are earning their keep, and some attack paths are so plain they barely feel like research. Here’s the mess.",
-      "published": "Thu, 16 Jul 2026 21:11:15 +0530",
-      "value_score": 28,
+      "source": "BleepingComputer",
+      "title": "Ernst & Young discloses data breach after support system hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
+      "summary": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
+      "published": "Fri, 17 Jul 2026 10:55:28 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Ransomware"
+        "Breach/leak ×2"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
+      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
+      "published": "Fri, 17 Jul 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -212,24 +230,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
-      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
-      "summary": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
-      "published": "Thu, 16 Jul 2026 15:26:07 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
-      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
-      "summary": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
-      "published": "Thu, 16 Jul 2026 15:09:35 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -399,6 +399,19 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
+      "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
+      "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 14:27:54 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
       "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
       "summary": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up? The post Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive appeared first on SecurityWeek .",
@@ -463,17 +476,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
-      "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
-      "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 15:15:00 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {

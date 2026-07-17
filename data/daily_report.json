@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 20:48",
+  "last_updated": "2026-07-17 22:42",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,63 +10,75 @@
     "multiple questions linger",
     "laundering 43 million",
     "changelog entry pointing",
+    "auto update system",
     "gradually restore operations",
     "clean residential proxies",
     "august 2024 cyberattack",
     "agentic ai taming",
+    "u s uk",
+    "calls forced updates",
     "automate threat detection",
     "vulnerability discoveries aided",
     "underlying legal obligation",
     "svg image files",
     "sprawling phishing campaign",
-    "software giant fixed",
-    "software almost triple",
-    "shodan harvester keeps",
-    "shared technical details"
+    "software giant fixed"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 205
+      "mentions": 206
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2129
+      "mentions": 2130
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "laundering 43 million",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "changelog entry pointing",
+      "mentions": 2
+    },
+    {
+      "keyword": "auto update system",
       "mentions": 1
     },
     {
       "keyword": "gradually restore operations",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "clean residential proxies",
-      "mentions": 4
-    },
-    {
-      "keyword": "august 2024 cyberattack",
-      "mentions": 10
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
+      "link": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "summary": "An anonymous HTTP request can run code on a WordPress site. The bug is in core, so a bare install with zero plugins is exploitable. Every 6.9 and 7.0 site was in range until Friday, when WordPress shipped 6.9.5 and 7.0.2 and enabled what it calls forced updates through its auto-update system. Adam Kues at Assetnote, Searchlight Cyber's attack surface management arm, found the flaw and reported",
+      "published": "Sat, 18 Jul 2026 02:50:10 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
@@ -135,17 +147,6 @@
       "published": "Fri, 17 Jul 2026 17:00:00 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
-      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
-      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side",
-      "published": "Fri, 17 Jul 2026 16:23:31 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "BleepingComputer",

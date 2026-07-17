@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-17 20:48 UTC |
+| 🕐 Last Updated | 2026-07-17 22:42 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `cyberattack disrupts operations` • `rival ai assistants` • `twitter whistleblower complaint` • `multiple questions linger` • `laundering 43 million` • `changelog entry pointing` • `gradually restore operations` • `clean residential proxies` • `august 2024 cyberattack`
+`cybercrime group known` • `cyberattack disrupts operations` • `rival ai assistants` • `twitter whistleblower complaint` • `multiple questions linger` • `laundering 43 million` • `changelog entry pointing` • `auto update system` • `gradually restore operations` • `clean residential proxies`
 
 ## 📄 Reports
 

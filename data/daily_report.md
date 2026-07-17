@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-17 20:48 UTC  
+> **Last Updated:** 2026-07-17 22:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **cyberattack disrupts operations** • **rival ai assistants** • **twitter whistleblower complaint** • **multiple questions linger** • **laundering 43 million** • **changelog entry pointing** • **gradually restore operations** • **clean residential proxies** • **august 2024 cyberattack** • **agentic ai taming** • **automate threat detection** • **vulnerability discoveries aided** • **underlying legal obligation** • **svg image files** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **shodan harvester keeps** • **shared technical details**
+**cybercrime group known** • **cyberattack disrupts operations** • **rival ai assistants** • **twitter whistleblower complaint** • **multiple questions linger** • **laundering 43 million** • **changelog entry pointing** • **auto update system** • **gradually restore operations** • **clean residential proxies** • **august 2024 cyberattack** • **agentic ai taming** • **u s uk** • **calls forced updates** • **automate threat detection** • **vulnerability discoveries aided** • **underlying legal obligation** • **svg image files** • **sprawling phishing campaign** • **software giant fixed**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
 - [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
 - [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
 - [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
@@ -23,7 +24,6 @@
 - [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
 - [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
 - [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
-- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
 
 ### BleepingComputer
 

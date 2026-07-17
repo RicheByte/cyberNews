@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-17 11:17 UTC  
+> **Last Updated:** 2026-07-17 13:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cyberattack disrupts operations** • **cybercrime group known** • **significant cyber implications** • **european cyber defenders** • **twitter whistleblower complaint** • **real life identity** • **multifactor authentication mfa** • **laundering 43 million** • **fake system dialog** • **august 2024 cyberattack** • **ai data centers** • **gradually restore operations** • **espionage cybersecurity researchers** • **national security risk** • **woolwich crown court** • **us tech companies** • **us government's restrictions** • **underlying legal obligation** • **tech xit imminent** • **sprawling phishing campaign**
+**cyberattack disrupts operations** • **rival ai assistants** • **cybercrime group known** • **twitter whistleblower complaint** • **system login password** • **real life identity** • **multiple questions linger** • **multifactor authentication mfa** • **laundering 43 million** • **damage moves faster** • **agentic ai taming** • **gradually restore operations** • **european cyber defenders** • **national security risk** • **woolwich crown court** • **underlying legal obligation** • **steal browser tokens** • **sprawling phishing campaign** • **series b funding** • **revealing login password**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
+- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
+- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
 - [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
 - [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
 - [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
 - [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
 - [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
-- [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
-- [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
-- [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
 
 ### BleepingComputer
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
-- [Agentic AI Is Untamable: Ask the Right Security Questions](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions)
+- [Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
+- [Google Bets 'Agentic Defense' Strategy Can Outpace Attackers](https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers)
+- [Agentic AI: Taming the Unpredictable](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions)
 - [1M+ Emails Use Hidden Text to Dupe AI Security Filters](https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters)
 - [Police Disrupt a €140M Cyber Fraud Ring in Spain](https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain)
 - [Forgotten Bootloaders Expose Secure Boot Blind Spot](https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot)
 - [Identity Attacks Overtake Exploits as Top Ransomware Cause](https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause)
 - [Guten Tag, Bonjour, Hola to Our European Cyber Defenders!](https://www.darkreading.com/threat-intelligence/guten-tag-bonjour-hola-european-cyber-defenders)
-- [Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife](https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife)
-- [Claude Flaw Automatically Sends Malicious Prompts to AI Agents](https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents)
 
 ### Security Week
 
+- [Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive](https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/)
+- [Beacon Security Raises $13 Million for Security Data Platform](https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/)
 - [Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday](https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/)
 - [Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei](https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/)
 - [Risk Ledger Raises $32 Million in Series B Funding](https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/)
 - [Fresh SharePoint Vulnerability Exploited Soon After Disclosure](https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/)
 - [Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack](https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/)
 - [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
-- [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
-- [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
 
 ### Threatpost
 

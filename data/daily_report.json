@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-07-17 11:17",
+  "last_updated": "2026-07-17 13:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cyberattack disrupts operations",
+    "rival ai assistants",
     "cybercrime group known",
-    "significant cyber implications",
-    "european cyber defenders",
     "twitter whistleblower complaint",
+    "system login password",
     "real life identity",
+    "multiple questions linger",
     "multifactor authentication mfa",
     "laundering 43 million",
-    "fake system dialog",
-    "august 2024 cyberattack",
-    "ai data centers",
+    "damage moves faster",
+    "agentic ai taming",
     "gradually restore operations",
-    "espionage cybersecurity researchers",
+    "european cyber defenders",
     "national security risk",
     "woolwich crown court",
-    "us tech companies",
-    "us government's restrictions",
     "underlying legal obligation",
-    "tech xit imminent",
-    "sprawling phishing campaign"
+    "steal browser tokens",
+    "sprawling phishing campaign",
+    "series b funding",
+    "revealing login password"
   ],
   "trending": [
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 200
-    },
-    {
-      "keyword": "significant cyber implications",
-      "mentions": 17
-    },
-    {
-      "keyword": "european cyber defenders",
-      "mentions": 11
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2124
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 232
-    },
-    {
-      "keyword": "multifactor authentication mfa",
-      "mentions": 15
-    },
-    {
-      "keyword": "laundering 43 million",
-      "mentions": 2
-    },
-    {
-      "keyword": "fake system dialog",
+      "keyword": "rival ai assistants",
       "mentions": 1
     },
     {
-      "keyword": "august 2024 cyberattack",
-      "mentions": 8
+      "keyword": "cybercrime group known",
+      "mentions": 201
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2125
+    },
+    {
+      "keyword": "system login password",
+      "mentions": 1
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 233
+    },
+    {
+      "keyword": "multiple questions linger",
+      "mentions": 1
+    },
+    {
+      "keyword": "multifactor authentication mfa",
+      "mentions": 16
+    },
+    {
+      "keyword": "laundering 43 million",
+      "mentions": 3
+    },
+    {
+      "keyword": "damage moves faster",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
+      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
+      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing. Google has to ship it in the next major release, Android 18, and by 1 August 2027 at",
+      "published": "Fri, 17 Jul 2026 17:14:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
+      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
+      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now the focus shifts to the trusted",
+      "published": "Fri, 17 Jul 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man",
+      "link": "https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html",
+      "summary": "Armenia has held a Russian tourist named Aleksandr Ermakov in a detention center since June 28, on a U.S. extradition request for a REvil ransomware suspect named Aleksandr Ermakov. His wife, Maria Yurova, told REN TV that border officers pulled him out of the departure hall at Yerevan's Zvartnots airport, held up a phone with a photo of him off his VKontakte page, and walked him into a side",
+      "published": "Fri, 17 Jul 2026 16:23:31 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
@@ -120,33 +149,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
-      "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
-      "summary": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss. A valid token from issuer A carrying a sub that belongs to someone under issuer B logged you in as them. Their password never",
-      "published": "Thu, 16 Jul 2026 19:03:25 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands",
-      "link": "https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html",
-      "summary": "Cybersecurity researchers have called attention to a new modular malware called TELEPUZ that's been spreading via websites infected with ClickFix lures since late April 2026. \"The malware is full-featured, lightweight, and modular,\" Elastic Security Labs researcher Cyril François said in a technical report. \"While the number of C2 [command-and-control] domains is currently small, the daily",
-      "published": "Thu, 16 Jul 2026 18:20:13 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password",
-      "link": "https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html",
-      "summary": "ClickLock Stealer, a new macOS infostealer, answers a victim's refusal by killing their apps on a loop until they hand over the login password. It arrives as a command pasted into Terminal, asks for the password behind a fake system dialog, and when the victim cancels, installs two LaunchAgents and quietly exits. At the next login, Finder, the Dock, Spotlight, Terminal, Activity Monitor, and",
-      "published": "Thu, 16 Jul 2026 18:03:42 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -320,9 +322,27 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Agentic AI Is Untamable: Ask the Right Security Questions",
+      "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
+      "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
+      "published": "Fri, 17 Jul 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
+      "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
+      "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
+      "published": "Fri, 17 Jul 2026 11:50:25 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Agentic AI: Taming the Unpredictable",
       "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
-      "summary": "Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.",
+      "summary": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
       "published": "Thu, 16 Jul 2026 20:57:47 GMT",
       "value_score": 10,
       "value_signals": []
@@ -378,25 +398,22 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Is 'Tech-xit' Imminent? UK Steps Up Sovereignty Push Amid AI Strife",
-      "link": "https://www.darkreading.com/cybersecurity-operations/tech-xit-uk-sovereignty-push-amid-ai-strife",
-      "summary": "The US government's restrictions on Anthropic and OpenAI frontier models have intensified calls in the UK and other countries to reduce their reliance on US tech companies, with significant cyber implications.",
-      "published": "Wed, 15 Jul 2026 17:03:23 GMT",
+      "source": "Security Week",
+      "title": "Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive",
+      "link": "https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/",
+      "summary": "(Video) Artificial intelligence is transforming cybersecurity, but are governance, compliance, and security practices evolving fast enough to keep up? The post Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 12:11:22 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
-      "summary": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
-      "published": "Wed, 15 Jul 2026 15:27:35 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Beacon Security Raises $13 Million for Security Data Platform",
+      "link": "https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/",
+      "summary": "The startup helps organizations detect, hunt, and protect their assets across environments at machine speed. The post Beacon Security Raises $13 Million for Security Data Platform appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 11:43:36 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -458,24 +475,6 @@
       "value_signals": [
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Two Scattered Spider Hackers Sentenced to Jail in UK",
-      "link": "https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/",
-      "summary": "Thalha Jubair and Owen Flowers were prosecuted over a 2024 cyberattack targeting Transport for London (TfL). The post Two Scattered Spider Hackers Sentenced to Jail in UK appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 13:21:12 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Data Centers Are Being Built Faster Than They Can Be Secured",
-      "link": "https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/",
-      "summary": "AI infrastructure introduces new security risks that traditional data center designs were never built to handle. The post AI Data Centers Are Being Built Faster Than They Can Be Secured appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

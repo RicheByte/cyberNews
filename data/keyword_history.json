@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2123,
+      "count": 2124,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -555,7 +555,7 @@
       ]
     },
     "real life identity": {
-      "count": 231,
+      "count": 232,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1136,7 +1136,7 @@
       ]
     },
     "national security risk": {
-      "count": 271,
+      "count": 272,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1858,7 +1858,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 480,
+      "count": 481,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -16844,7 +16844,7 @@
       ]
     },
     "ai data centers": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -20702,7 +20702,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 199,
+      "count": 200,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22276,7 +22276,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -23098,7 +23098,7 @@
       ]
     },
     "us government's restrictions": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23113,7 +23113,7 @@
       ]
     },
     "tech xit imminent": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23121,7 +23121,7 @@
       ]
     },
     "us tech companies": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23129,7 +23129,7 @@
       ]
     },
     "significant cyber implications": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23144,7 +23144,7 @@
       ]
     },
     "multifactor authentication mfa": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23172,7 +23172,7 @@
       ]
     },
     "european cyber defenders": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-16",
         "2026-07-17"
@@ -23275,25 +23275,43 @@
       ]
     },
     "woolwich crown court": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-16",
         "2026-07-17"
       ]
     },
     "cyberattack disrupts operations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-17"
       ]
     },
     "laundering 43 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-17"
       ]
     },
     "gradually restore operations": {
+      "count": 2,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "fake system dialog": {
+      "count": 1,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "espionage cybersecurity researchers": {
+      "count": 1,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "underlying legal obligation": {
       "count": 1,
       "dates": [
         "2026-07-17"
@@ -23301,17 +23319,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-06 08:14",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-06 13:40",
       "articles": 48,
@@ -24399,6 +24406,17 @@
         "traditional security workflows",
         "twitter whistleblower complaint",
         "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-07-17 11:17",
+      "articles": 48,
+      "top_keywords": [
+        "cyberattack disrupts operations",
+        "cybercrime group known",
+        "significant cyber implications",
+        "european cyber defenders",
+        "twitter whistleblower complaint"
       ]
     }
   ]

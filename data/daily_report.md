@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-17 09:51 UTC  
+> **Last Updated:** 2026-07-17 11:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cyberattack disrupts operations** • **cybercrime group known** • **traditional security workflows** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **significant cyber implications** • **multifactor authentication mfa** • **laundering 43 million** • **european cyber defenders** • **box starts talking** • **august 2024 cyberattack** • **ai data centers** • **real life identity** • **live identity foundation** • **gradually restore operations** • **token security explains** • **national security risk** • **woolwich crown court** • **us tech companies** • **us government's restrictions**
+**cyberattack disrupts operations** • **cybercrime group known** • **significant cyber implications** • **european cyber defenders** • **twitter whistleblower complaint** • **real life identity** • **multifactor authentication mfa** • **laundering 43 million** • **fake system dialog** • **august 2024 cyberattack** • **ai data centers** • **gradually restore operations** • **espionage cybersecurity researchers** • **national security risk** • **woolwich crown court** • **us tech companies** • **us government's restrictions** • **underlying legal obligation** • **tech xit imminent** • **sprawling phishing campaign**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
+- [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
 - [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html)
 - [Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack](https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html)
 - [ThreatsDay: Game Cheat Spyware, 24-Hour Ransomware, Chrome Sync Stalking + 12 More Stories](https://thehackernews.com/2026/07/threatsday-game-cheat-spyware-24-hour.html)
 - [n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer](https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html)
 - [New TELEPUZ Malware Spreads via ClickFix to Steal Data and Run Commands](https://thehackernews.com/2026/07/new-telepuz-malware-spreads-via.html)
 - [New ClickLock macOS Stealer Kills Apps Every 210ms Until Victims Type Their Password](https://thehackernews.com/2026/07/new-clicklock-macos-stealer-kills-apps.html)
-- [20+ Hijacked Government Websites Became an Attack Channel](https://thehackernews.com/2026/07/20-hijacked-government-websites.html)
-- [New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands](https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html)
 
 ### BleepingComputer
 
+- [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/)
 - [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 - [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
 - [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
@@ -34,7 +35,6 @@
 - [Coca-Cola says Fairlife ransomware attack halts US dairy production](https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/)
 - [Claude Chrome extension flaw lets malicious extensions trigger AI actions](https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/)
 - [New OkoBot framework deploys 20 payloads to steal data, crypto](https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/)
-- [AI Agents Broke the Security Playbook. Here's What Replaces It.](https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Industry Reactions to Pentagon Suspending CMMC Phase 2: Feedback Friday](https://www.securityweek.com/industry-reactions-to-pentagon-suspending-cmmc-phase-2-feedback-friday/)
 - [Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei](https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/)
 - [Risk Ledger Raises $32 Million in Series B Funding](https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/)
 - [Fresh SharePoint Vulnerability Exploited Soon After Disclosure](https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/)
@@ -67,7 +68,6 @@
 - [Legacy Systems, Real-World Impacts: The Reality of OT Security](https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/)
 - [Two Scattered Spider Hackers Sentenced to Jail in UK](https://www.securityweek.com/two-scattered-spider-hackers-sentenced-to-jail-in-uk/)
 - [AI Data Centers Are Being Built Faster Than They Can Be Secured](https://www.securityweek.com/ai-data-centers-are-being-built-faster-than-they-can-be-secured/)
-- [‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing](https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/)
 
 ### Threatpost
 

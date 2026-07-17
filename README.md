@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-17 09:51 UTC |
+| 🕐 Last Updated | 2026-07-17 11:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cyberattack disrupts operations` • `cybercrime group known` • `traditional security workflows` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `significant cyber implications` • `multifactor authentication mfa` • `laundering 43 million` • `european cyber defenders` • `box starts talking`
+`cyberattack disrupts operations` • `cybercrime group known` • `significant cyber implications` • `european cyber defenders` • `twitter whistleblower complaint` • `real life identity` • `multifactor authentication mfa` • `laundering 43 million` • `fake system dialog` • `august 2024 cyberattack`
 
 ## 📄 Reports
 

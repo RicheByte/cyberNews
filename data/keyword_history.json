@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2122,
+      "count": 2123,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -555,7 +555,7 @@
       ]
     },
     "real life identity": {
-      "count": 230,
+      "count": 231,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1136,7 +1136,7 @@
       ]
     },
     "national security risk": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1187,7 +1187,8 @@
         "2026-07-01",
         "2026-07-02",
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-17"
       ]
     },
     "open source millions": {
@@ -1857,7 +1858,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 479,
+      "count": 480,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2479,7 +2480,7 @@
       ]
     },
     "token security explains": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -16843,7 +16844,7 @@
       ]
     },
     "ai data centers": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-05-15",
         "2026-05-16",
@@ -20701,7 +20702,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22275,10 +22276,11 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-09",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-17"
       ]
     },
     "activity dates back": {
@@ -23096,7 +23098,7 @@
       ]
     },
     "us government's restrictions": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23119,7 +23121,7 @@
       ]
     },
     "us tech companies": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23127,7 +23129,7 @@
       ]
     },
     "significant cyber implications": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23142,7 +23144,7 @@
       ]
     },
     "multifactor authentication mfa": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-15",
         "2026-07-16",
@@ -23170,7 +23172,7 @@
       ]
     },
     "european cyber defenders": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-16",
         "2026-07-17"
@@ -23221,14 +23223,14 @@
       ]
     },
     "traditional security workflows": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-16",
         "2026-07-17"
       ]
     },
     "live identity foundation": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-16",
         "2026-07-17"
@@ -23259,7 +23261,7 @@
       ]
     },
     "box starts talking": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-16",
         "2026-07-17"
@@ -23273,25 +23275,32 @@
       ]
     },
     "woolwich crown court": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-16",
+        "2026-07-17"
+      ]
+    },
+    "cyberattack disrupts operations": {
+      "count": 1,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "laundering 43 million": {
+      "count": 1,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "gradually restore operations": {
+      "count": 1,
+      "dates": [
         "2026-07-17"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-06 02:40",
-      "articles": 48,
-      "top_keywords": [
-        "residential proxy network",
-        "cybercrime group known",
-        "chinese firms compete",
-        "public github account",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-06 08:14",
       "articles": 48,
@@ -24378,6 +24387,17 @@
         "windows operating systems",
         "twitter whistleblower complaint",
         "traditional security workflows",
+        "sprawling phishing campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-07-17 09:51",
+      "articles": 48,
+      "top_keywords": [
+        "cyberattack disrupts operations",
+        "cybercrime group known",
+        "traditional security workflows",
+        "twitter whistleblower complaint",
         "sprawling phishing campaign"
       ]
     }

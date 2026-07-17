@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-17 06:10 UTC |
+| 🕐 Last Updated | 2026-07-17 09:51 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `windows operating systems` • `twitter whistleblower complaint` • `traditional security workflows` • `sprawling phishing campaign` • `multifactor authentication mfa` • `box starts talking` • `ai data centers` • `significant cyber implications` • `real life identity`
+`cyberattack disrupts operations` • `cybercrime group known` • `traditional security workflows` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `significant cyber implications` • `multifactor authentication mfa` • `laundering 43 million` • `european cyber defenders` • `box starts talking`
 
 ## 📄 Reports
 

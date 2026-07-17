@@ -1,72 +1,88 @@
 {
-  "last_updated": "2026-07-17 06:10",
+  "last_updated": "2026-07-17 09:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "cyberattack disrupts operations",
     "cybercrime group known",
-    "windows operating systems",
-    "twitter whistleblower complaint",
     "traditional security workflows",
+    "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "multifactor authentication mfa",
-    "box starts talking",
-    "ai data centers",
     "significant cyber implications",
+    "multifactor authentication mfa",
+    "laundering 43 million",
+    "european cyber defenders",
+    "box starts talking",
+    "august 2024 cyberattack",
+    "ai data centers",
     "real life identity",
     "live identity foundation",
-    "european cyber defenders",
-    "threat intelligence solutions",
+    "gradually restore operations",
+    "token security explains",
+    "national security risk",
     "woolwich crown court",
     "us tech companies",
-    "us government's restrictions",
-    "token security explains",
-    "thalha jubair 20",
-    "tech xit imminent",
-    "single planted review"
+    "us government's restrictions"
   ],
   "trending": [
     {
+      "keyword": "cyberattack disrupts operations",
+      "mentions": 1
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 198
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 636
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2122
+      "mentions": 199
     },
     {
       "keyword": "traditional security workflows",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2123
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 479
-    },
-    {
-      "keyword": "multifactor authentication mfa",
-      "mentions": 13
-    },
-    {
-      "keyword": "box starts talking",
-      "mentions": 6
-    },
-    {
-      "keyword": "ai data centers",
-      "mentions": 16
+      "mentions": 480
     },
     {
       "keyword": "significant cyber implications",
-      "mentions": 15
+      "mentions": 16
     },
     {
-      "keyword": "real life identity",
-      "mentions": 230
+      "keyword": "multifactor authentication mfa",
+      "mentions": 14
+    },
+    {
+      "keyword": "laundering 43 million",
+      "mentions": 1
+    },
+    {
+      "keyword": "european cyber defenders",
+      "mentions": 10
+    },
+    {
+      "keyword": "box starts talking",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
+      "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026. The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
+      "published": "Fri, 17 Jul 2026 12:12:23 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Zero-day",
+        "RCE",
+        "CISA/KEV ×5",
+        "High severity",
+        "Multiple CVEs"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
@@ -137,14 +153,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "summary": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Broadcom-owned Symantec in March 2022, with evidence indicating its use in targeted attacks aimed",
-      "published": "Thu, 16 Jul 2026 16:47:23 +0530",
-      "value_score": 34,
+      "source": "BleepingComputer",
+      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
+      "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
+      "published": "Fri, 17 Jul 2026 05:10:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "US charges two over laundering $43 million from investment fraud",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
+      "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
+      "published": "Fri, 17 Jul 2026 04:13:37 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
+      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
+      "published": "Fri, 17 Jul 2026 03:03:33 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Backdoor ×2"
+        "Active exploitation ×2",
+        "CISA/KEV ×2",
+        "Exploit wording"
       ]
     },
     {
@@ -191,35 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
       "summary": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
       "published": "Thu, 16 Jul 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "summary": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-      "published": "Thu, 16 Jul 2026 09:47:23 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "summary": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
-      "published": "Thu, 16 Jul 2026 08:31:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-90-days/",
-      "summary": "Microsoft announced on Wednesday that systems running Windows 10 Enterprise LTSB 2016 and Home and Pro editions of Windows 11 24H2 will stop receiving updates in three months. [...]",
-      "published": "Thu, 16 Jul 2026 07:59:24 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,6 +401,47 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei",
+      "link": "https://www.securityweek.com/cyberattack-disrupts-operations-of-japanese-frozen-food-giant-nichirei/",
+      "summary": "The company disconnected its systems on July 13 and is starting to gradually restore operations. The post Cyberattack Disrupts Operations of Japanese Frozen Food Giant Nichirei appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 09:06:27 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Risk Ledger Raises $32 Million in Series B Funding",
+      "link": "https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/",
+      "summary": "The British firm has built a collaborative platform to help organizations address supply chain security risks. The post Risk Ledger Raises $32 Million in Series B Funding appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 08:31:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
+      "link": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
+      "summary": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server. The post Fresh SharePoint Vulnerability Exploited Soon After Disclosure appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 07:15:59 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
+      "link": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
+      "summary": "The company has yet to determine the full scope, nature, and impact of the incident. The post Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Fri, 17 Jul 2026 06:23:08 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
       "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
       "summary": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek .",
@@ -427,48 +475,6 @@
       "link": "https://www.securityweek.com/clicklock-stealer-bypasses-macos-security-with-social-engineering-process-killing/",
       "summary": "The new macOS malware has targeted at least 100 users to steal their passwords and cryptocurrency. The post ‘ClickLock Stealer’ Bypasses macOS Security With Social Engineering, Process Killing appeared first on SecurityWeek .",
       "published": "Thu, 16 Jul 2026 12:43:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Oak Emerges From Stealth Mode With $60 Million in Funding",
-      "link": "https://www.securityweek.com/oak-emerges-from-stealth-mode-with-60-million-in-funding/",
-      "summary": "The startup has built an AI-powered Identity Operating System that governs all identities across an organization’s environment. The post Oak Emerges From Stealth Mode With $60 Million in Funding appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 11:23:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Splunk, Zoom Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/splunk-zoom-patch-critical-vulnerabilities/",
-      "summary": "The flaws could allow attackers to access credentials and data, take over accounts, and escalate their privileges. The post Splunk, Zoom Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 10:54:34 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "F5 Patches Multiple NGINX, BIG-IP Vulnerabilities",
-      "link": "https://www.securityweek.com/f5-patches-multiple-nginx-big-ip-vulnerabilities/",
-      "summary": "Attackers could exploit the bugs to modify configurations, terminate or restart processes, cross security boundaries, leak memory, and execute code. The post F5 Patches Multiple NGINX, BIG-IP Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 09:20:10 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans",
-      "link": "https://www.securityweek.com/chinas-top-cybersecurity-firms-hit-by-mounting-military-procurement-bans/",
-      "summary": "Chinese cybersecurity firms are facing action from the country’s military, but it’s not due to product or technical failures. The post China’s Top Cybersecurity Firms Hit by Mounting Military Procurement Bans appeared first on SecurityWeek .",
-      "published": "Thu, 16 Jul 2026 08:49:27 +0000",
       "value_score": 10,
       "value_signals": []
     },

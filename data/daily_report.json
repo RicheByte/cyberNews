@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-17 18:59",
+  "last_updated": "2026-07-17 20:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,10 +7,9 @@
     "cyberattack disrupts operations",
     "rival ai assistants",
     "twitter whistleblower complaint",
-    "system login password",
     "multiple questions linger",
-    "multifactor authentication mfa",
     "laundering 43 million",
+    "changelog entry pointing",
     "gradually restore operations",
     "clean residential proxies",
     "august 2024 cyberattack",
@@ -18,55 +17,76 @@
     "automate threat detection",
     "vulnerability discoveries aided",
     "underlying legal obligation",
+    "svg image files",
     "sprawling phishing campaign",
+    "software giant fixed",
+    "software almost triple",
     "shodan harvester keeps",
-    "shared technical details",
-    "service dos condition",
-    "series b funding"
+    "shared technical details"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 204
+      "mentions": 205
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2128
-    },
-    {
-      "keyword": "system login password",
-      "mentions": 4
+      "mentions": 2129
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 4
-    },
-    {
-      "keyword": "multifactor authentication mfa",
-      "mentions": 19
+      "mentions": 5
     },
     {
       "keyword": "laundering 43 million",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "changelog entry pointing",
+      "mentions": 1
     },
     {
       "keyword": "gradually restore operations",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "clean residential proxies",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "august 2024 cyberattack",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests",
+      "link": "https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html",
+      "summary": "Eleven bytes will make an unpatched OpenSSL server set aside up to 131 KB of memory for a message that never arrives. On the glibc systems Okta tested, that memory is gone until the process restarts. OpenSSL shipped the HollowByte fix in June with no CVE, no advisory, and no changelog entry pointing at it. Okta's Red Team, which reported the denial-of-service bug and named it, published the",
+      "published": "Sat, 18 Jul 2026 01:50:53 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT",
+      "link": "https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html",
+      "summary": "Cybersecurity researchers have discovered a cluster of seven malicious npm packages targeting the Vite frontend tooling ecosystem as part of a software supply chain attack. The malicious package campaign, codenamed ViteVenom by Checkmarx, marks an expansion of ChainVeil, which was observed using an \"unprecedented\" four-tier blockchain-based command-and-control (C2) infrastructure spanning Tron,",
+      "published": "Sat, 18 Jul 2026 00:24:51 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
@@ -128,20 +148,11 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files",
-      "link": "https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html",
-      "summary": "ACR Stealer, an infostealer in circulation since 2024, is walking out of enterprise networks with saved browser passwords, live session tokens, PDFs, Microsoft 365 documents, and files from synced OneDrive and SharePoint folders. It gets in because someone pasted a command into a Run box and pressed Enter. Microsoft laid out two of the delivery chains on Thursday. Its Defender Experts team, the",
-      "published": "Fri, 17 Jul 2026 14:26:39 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage",
-      "link": "https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html",
-      "summary": "Cybersecurity researchers have discovered a previously undocumented malware called GoSerpent that has been put to use in cyber attacks targeting entities in Southeast Asia since late 2025 with a focus on long-term access and intelligence gathering. Russian cybersecurity company Kaspersky, which uncovered the activity in February 2026, said it was aimed at government and diplomatic entities in",
-      "published": "Fri, 17 Jul 2026 14:16:45 +0530",
+      "source": "BleepingComputer",
+      "title": "Abbott Laboratories probes two cyber incidents amid extortion claims",
+      "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
+      "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
+      "published": "Fri, 17 Jul 2026 16:45:52 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -216,15 +227,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "summary": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
-      "published": "Thu, 16 Jul 2026 17:52:54 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -317,6 +319,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
+      "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
+      "published": "Fri, 17 Jul 2026 20:01:13 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Ransomware",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Real AI Threat Is Blind Trust",
       "link": "https://www.darkreading.com/application-security/real-ai-threat-blind-trust",
       "summary": "AI models left to both interpret and execute commands eliminate critical cybersecurity oversight.",
@@ -381,18 +395,6 @@
       "published": "Wed, 15 Jul 2026 21:19:19 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-      "summary": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
-      "published": "Wed, 15 Jul 2026 20:16:13 GMT",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

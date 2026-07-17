@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2128,
+      "count": 2129,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1858,7 +1858,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 485,
+      "count": 486,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20703,7 +20703,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 204,
+      "count": 205,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22277,7 +22277,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -22987,10 +22987,11 @@
       ]
     },
     "software almost triple": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-17"
       ]
     },
     "spanish police dismantled": {
@@ -23040,9 +23041,10 @@
       ]
     },
     "software giant fixed": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-17"
       ]
     },
     "windows bind links": {
@@ -23283,19 +23285,19 @@
       ]
     },
     "cyberattack disrupts operations": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-17"
       ]
     },
     "laundering 43 million": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-17"
       ]
     },
     "gradually restore operations": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-17"
       ]
@@ -23313,13 +23315,13 @@
       ]
     },
     "underlying legal obligation": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-17"
       ]
     },
     "rival ai assistants": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-17"
       ]
@@ -23331,7 +23333,7 @@
       ]
     },
     "multiple questions linger": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-17"
       ]
@@ -23343,7 +23345,7 @@
       ]
     },
     "agentic ai taming": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-17"
       ]
@@ -23367,30 +23369,42 @@
       ]
     },
     "automate threat detection": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-17"
       ]
     },
     "clean residential proxies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-17"
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-17"
       ]
     },
     "shodan harvester keeps": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-17"
       ]
     },
     "shared technical details": {
+      "count": 2,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "changelog entry pointing": {
+      "count": 1,
+      "dates": [
+        "2026-07-17"
+      ]
+    },
+    "svg image files": {
       "count": 1,
       "dates": [
         "2026-07-17"
@@ -23398,17 +23412,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-06 23:02",
-      "articles": 40,
-      "top_keywords": [
-        "cybercrime group known",
-        "pro iranian images",
-        "cve 2026 53359",
-        "steal google accounts",
-        "residential proxy network"
-      ]
-    },
     {
       "timestamp": "2026-07-07 02:36",
       "articles": 48,
@@ -24496,6 +24499,17 @@
         "rival ai assistants",
         "twitter whistleblower complaint",
         "system login password"
+      ]
+    },
+    {
+      "timestamp": "2026-07-17 20:48",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "cyberattack disrupts operations",
+        "rival ai assistants",
+        "twitter whistleblower complaint",
+        "multiple questions linger"
       ]
     }
   ]

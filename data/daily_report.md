@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-17 18:59 UTC  
+> **Last Updated:** 2026-07-17 20:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **cyberattack disrupts operations** • **rival ai assistants** • **twitter whistleblower complaint** • **system login password** • **multiple questions linger** • **multifactor authentication mfa** • **laundering 43 million** • **gradually restore operations** • **clean residential proxies** • **august 2024 cyberattack** • **agentic ai taming** • **automate threat detection** • **vulnerability discoveries aided** • **underlying legal obligation** • **sprawling phishing campaign** • **shodan harvester keeps** • **shared technical details** • **service dos condition** • **series b funding**
+**cybercrime group known** • **cyberattack disrupts operations** • **rival ai assistants** • **twitter whistleblower complaint** • **multiple questions linger** • **laundering 43 million** • **changelog entry pointing** • **gradually restore operations** • **clean residential proxies** • **august 2024 cyberattack** • **agentic ai taming** • **automate threat detection** • **vulnerability discoveries aided** • **underlying legal obligation** • **svg image files** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **shodan harvester keeps** • **shared technical details**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html)
+- [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
 - [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
 - [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
 - [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
 - [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html)
 - [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html)
 - [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html)
-- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html)
-- [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html)
 
 ### BleepingComputer
 
+- [Abbott Laboratories probes two cyber incidents amid extortion claims](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/)
 - [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/)
 - [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/)
 - [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/)
@@ -34,7 +35,6 @@
 - [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/)
 - [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/)
 - [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/)
-- [New ClickLock macOS malware traps users into revealing login password](https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days)
 - [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust)
 - [Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
 - [Google Bets 'Agentic Defense' Strategy Can Outpace Attackers](https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers)
@@ -56,7 +57,6 @@
 - [1M+ Emails Use Hidden Text to Dupe AI Security Filters](https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters)
 - [Police Disrupt a €140M Cyber Fraud Ring in Spain](https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain)
 - [Forgotten Bootloaders Expose Secure Boot Blind Spot](https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot)
-- [Identity Attacks Overtake Exploits as Top Ransomware Cause](https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause)
 
 ### Security Week
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 16:51",
+  "last_updated": "2026-07-18 18:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 214
+      "mentions": 215
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2138
+      "mentions": 2139
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "changelog entry pointing",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "gradually restore operations",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "clean residential proxies",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "august 2024 cyberattack",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "agentic ai taming",
-      "mentions": 14
+      "mentions": 15
     }
   ],
   "articles": [
@@ -149,6 +149,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+      "published": "Sat, 18 Jul 2026 13:22:47 -0400",
+      "value_score": 80,
+      "value_signals": [
+        "RCE ×2",
+        "Patch/update ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
       "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
@@ -214,15 +228,6 @@
         "Zero-day ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows Server 2022 reach end of mainstream support in 90 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/",
-      "summary": "Microsoft announced that Windows Server 2022 will reach the mainstream end date in October 2026, but will switch to extended support and continue receiving security updates for five more years. [...]",
-      "published": "Fri, 17 Jul 2026 05:10:15 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

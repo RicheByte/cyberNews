@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 18:55",
+  "last_updated": "2026-07-18 20:40",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,60 +9,60 @@
     "twitter whistleblower complaint",
     "multiple questions linger",
     "changelog entry pointing",
+    "vulnerability discoveries aided",
     "gradually restore operations",
+    "coordinate vulnerability response",
     "clean residential proxies",
     "august 2024 cyberattack",
     "agentic ai taming",
     "automate threat detection",
-    "vulnerability discoveries aided",
     "underlying legal obligation",
     "svg image files",
     "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
     "shodan harvester keeps",
-    "shared technical details",
-    "service dos condition"
+    "shared technical details"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 215
+      "mentions": 216
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2139
+      "mentions": 2140
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "changelog entry pointing",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 13
     },
     {
       "keyword": "gradually restore operations",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "coordinate vulnerability response",
+      "mentions": 1
     },
     {
       "keyword": "clean residential proxies",
-      "mentions": 14
-    },
-    {
-      "keyword": "august 2024 cyberattack",
-      "mentions": 20
-    },
-    {
-      "keyword": "agentic ai taming",
       "mentions": 15
     }
   ],
@@ -149,6 +149,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
+      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
+      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "published": "Sat, 18 Jul 2026 15:32:02 -0400",
+      "value_score": 72,
+      "value_signals": [
+        "RCE ×2",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
       "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
@@ -216,18 +229,6 @@
       "published": "Fri, 17 Jul 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Windows LegacyHive zero-day gives hackers admin privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/",
-      "summary": "A security researcher using the \"Nightmare Eclipse\" handle has released a Windows zero-day exploit dubbed LegacyHive that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "published": "Fri, 17 Jul 2026 07:05:30 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

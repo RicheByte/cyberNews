@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2136,
+      "count": 2137,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1859,7 +1859,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 493,
+      "count": 494,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -12975,7 +12975,7 @@
       ]
     },
     "service dos condition": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-04-07",
         "2026-04-08",
@@ -12985,7 +12985,8 @@
         "2026-04-12",
         "2026-04-13",
         "2026-04-14",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-18"
       ]
     },
     "cve 2025 59528": {
@@ -20705,7 +20706,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22280,7 +22281,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -22991,7 +22992,7 @@
       ]
     },
     "software almost triple": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23046,7 +23047,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23291,7 +23292,7 @@
       ]
     },
     "cyberattack disrupts operations": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-17",
         "2026-07-18"
@@ -23305,7 +23306,7 @@
       ]
     },
     "gradually restore operations": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-17",
         "2026-07-18"
@@ -23324,14 +23325,14 @@
       ]
     },
     "underlying legal obligation": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-17",
         "2026-07-18"
       ]
     },
     "rival ai assistants": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-17",
         "2026-07-18"
@@ -23344,7 +23345,7 @@
       ]
     },
     "multiple questions linger": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-17",
         "2026-07-18"
@@ -23357,7 +23358,7 @@
       ]
     },
     "agentic ai taming": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-17",
         "2026-07-18"
@@ -23382,48 +23383,49 @@
       ]
     },
     "automate threat detection": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-17",
         "2026-07-18"
       ]
     },
     "clean residential proxies": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-17",
         "2026-07-18"
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-17",
         "2026-07-18"
       ]
     },
     "shodan harvester keeps": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-17",
         "2026-07-18"
       ]
     },
     "shared technical details": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-18"
       ]
     },
     "changelog entry pointing": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-17",
         "2026-07-18"
       ]
     },
     "svg image files": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-17",
         "2026-07-18"
@@ -23452,17 +23454,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-07 22:55",
-      "articles": 48,
-      "top_keywords": [
-        "windows settings backup",
-        "post quantum threats",
-        "twitter whistleblower complaint",
-        "chinese firms compete",
-        "cybercrime group known"
-      ]
-    },
     {
       "timestamp": "2026-07-08 02:10",
       "articles": 48,
@@ -24543,6 +24534,17 @@
     },
     {
       "timestamp": "2026-07-18 13:02",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "cyberattack disrupts operations",
+        "rival ai assistants",
+        "twitter whistleblower complaint",
+        "multiple questions linger"
+      ]
+    },
+    {
+      "timestamp": "2026-07-18 14:46",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-18 13:02",
+  "last_updated": "2026-07-18 14:46",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,13 +8,11 @@
     "rival ai assistants",
     "twitter whistleblower complaint",
     "multiple questions linger",
-    "laundering 43 million",
     "changelog entry pointing",
     "gradually restore operations",
     "clean residential proxies",
     "august 2024 cyberattack",
     "agentic ai taming",
-    "u s uk",
     "automate threat detection",
     "vulnerability discoveries aided",
     "underlying legal obligation",
@@ -22,48 +20,50 @@
     "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
-    "shodan harvester keeps"
+    "shodan harvester keeps",
+    "shared technical details",
+    "service dos condition"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 212
+      "mentions": 213
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "rival ai assistants",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2136
+      "mentions": 2137
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 12
-    },
-    {
-      "keyword": "laundering 43 million",
-      "mentions": 14
+      "mentions": 13
     },
     {
       "keyword": "changelog entry pointing",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "gradually restore operations",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "clean residential proxies",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "august 2024 cyberattack",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "agentic ai taming",
+      "mentions": 13
     }
   ],
   "articles": [
@@ -149,6 +149,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+      "published": "Sat, 18 Jul 2026 10:17:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+      "summary": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]",
+      "published": "Sat, 18 Jul 2026 09:15:24 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Abbott probes two cyber incidents amid extortion claims",
       "link": "https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/",
       "summary": "Abbott Laboratories is investigating two separate cybersecurity incidents after confirming unauthorized access to internal legacy Exact Sciences systems in its Cancer Diagnostics business, while also investigating a separate claim that attackers breached its LabCentral portal and stole company data. [...]",
@@ -205,28 +223,6 @@
       "published": "Fri, 17 Jul 2026 05:10:15 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US charges two over laundering $43 million from investment fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
-      "summary": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
-      "published": "Fri, 17 Jul 2026 04:13:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "summary": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-      "published": "Fri, 17 Jul 2026 03:03:33 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

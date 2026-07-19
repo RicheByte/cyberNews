@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-19 20:40 UTC  
+> **Last Updated:** 2026-07-19 22:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **cyberattack disrupts operations** • **gain root access** • **coordinate vulnerability response** • **twitter whistleblower complaint** • **okta's red team** • **multiple questions linger** • **changelog entry pointing** • **advanced threat actor** • **vulnerability discoveries aided** • **gradually restore operations** • **august 2024 cyberattack** • **software giant fixed** • **software almost triple** • **agentic ai taming** • **underlying legal obligation** • **ukraine cert ua** • **trick ukrainian targets** • **svg image files** • **sprawling phishing campaign**
+**cybercrime group known** • **cyberattack disrupts operations** • **gain root access** • **coordinate vulnerability response** • **twitter whistleblower complaint** • **okta's red team** • **multiple questions linger** • **changelog entry pointing** • **advanced threat actor** • **gradually restore operations** • **august 2024 cyberattack** • **vulnerability discoveries aided** • **critical nginx vulnerability** • **agentic ai taming** • **underlying legal obligation** • **ukraine cert ua** • **trick ukrainian targets** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
 - [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
 - [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
 - [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
@@ -23,7 +24,6 @@
 - [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html)
 - [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html)
 - [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html)
-- [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html)
 
 ### BleepingComputer
 

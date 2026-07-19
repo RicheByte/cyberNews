@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 20:40",
+  "last_updated": "2026-07-19 22:44",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,61 +12,74 @@
     "multiple questions linger",
     "changelog entry pointing",
     "advanced threat actor",
-    "vulnerability discoveries aided",
     "gradually restore operations",
     "august 2024 cyberattack",
-    "software giant fixed",
-    "software almost triple",
+    "vulnerability discoveries aided",
+    "critical nginx vulnerability",
     "agentic ai taming",
     "underlying legal obligation",
     "ukraine cert ua",
     "trick ukrainian targets",
-    "svg image files",
-    "sprawling phishing campaign"
+    "sprawling phishing campaign",
+    "software giant fixed",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 226
+      "mentions": 227
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "gain root access",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "coordinate vulnerability response",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2150
+      "mentions": 2151
     },
     {
       "keyword": "okta's red team",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "changelog entry pointing",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "advanced threat actor",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 23
+      "keyword": "gradually restore operations",
+      "mentions": 29
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
+      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade. Triggering it can crash or restart the worker, causing a denial of",
+      "published": "Mon, 20 Jul 2026 02:12:49 +0530",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
@@ -139,15 +152,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
-      "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OtterCookie: a browser credential and crypto wallet stealer, a file stealer, a",
-      "published": "Fri, 17 Jul 2026 19:18:56 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

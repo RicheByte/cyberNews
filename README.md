@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-19 20:40 UTC |
+| 🕐 Last Updated | 2026-07-19 22:44 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `cyberattack disrupts operations` • `gain root access` • `coordinate vulnerability response` • `twitter whistleblower complaint` • `okta's red team` • `multiple questions linger` • `changelog entry pointing` • `advanced threat actor` • `vulnerability discoveries aided`
+`cybercrime group known` • `cyberattack disrupts operations` • `gain root access` • `coordinate vulnerability response` • `twitter whistleblower complaint` • `okta's red team` • `multiple questions linger` • `changelog entry pointing` • `advanced threat actor` • `gradually restore operations`
 
 ## 📄 Reports
 

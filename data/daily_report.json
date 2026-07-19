@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-19 16:51",
+  "last_updated": "2026-07-19 18:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 224
+      "mentions": 225
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "gain root access",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "coordinate vulnerability response",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2148
+      "mentions": 2149
     },
     {
       "keyword": "okta's red team",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "changelog entry pointing",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "advanced threat actor",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 21
+      "mentions": 22
     }
   ],
   "articles": [
@@ -164,7 +164,7 @@
       "source": "BleepingComputer",
       "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
       "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "summary": "7-Zip version 26.02 was released to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
+      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
       "published": "Sat, 18 Jul 2026 15:32:02 -0400",
       "value_score": 72,
       "value_signals": [

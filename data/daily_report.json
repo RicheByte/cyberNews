@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-07-19 13:04",
+  "last_updated": "2026-07-19 14:49",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "cyberattack disrupts operations",
-    "rival ai assistants",
+    "gain root access",
+    "coordinate vulnerability response",
     "twitter whistleblower complaint",
+    "okta's red team",
     "multiple questions linger",
     "changelog entry pointing",
+    "advanced threat actor",
     "vulnerability discoveries aided",
     "gradually restore operations",
-    "coordinate vulnerability response",
-    "clean residential proxies",
     "august 2024 cyberattack",
-    "agentic ai taming",
-    "automate threat detection",
-    "underlying legal obligation",
-    "svg image files",
-    "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
-    "shodan harvester keeps",
-    "shared technical details"
+    "agentic ai taming",
+    "underlying legal obligation",
+    "ukraine cert ua",
+    "trick ukrainian targets",
+    "svg image files",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 222
+      "mentions": 223
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 24
+      "mentions": 25
     },
     {
-      "keyword": "rival ai assistants",
-      "mentions": 22
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2146
-    },
-    {
-      "keyword": "multiple questions linger",
-      "mentions": 22
-    },
-    {
-      "keyword": "changelog entry pointing",
-      "mentions": 18
-    },
-    {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 19
-    },
-    {
-      "keyword": "gradually restore operations",
-      "mentions": 24
+      "keyword": "gain root access",
+      "mentions": 1
     },
     {
       "keyword": "coordinate vulnerability response",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "clean residential proxies",
-      "mentions": 21
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2147
+    },
+    {
+      "keyword": "okta's red team",
+      "mentions": 1
+    },
+    {
+      "keyword": "multiple questions linger",
+      "mentions": 23
+    },
+    {
+      "keyword": "changelog entry pointing",
+      "mentions": 19
+    },
+    {
+      "keyword": "advanced threat actor",
+      "mentions": 1
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
+      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
+      "summary": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's",
+      "published": "Sun, 19 Jul 2026 19:00:55 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
+      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
+      "summary": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
+      "published": "Sun, 19 Jul 2026 18:48:56 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code",
@@ -124,28 +144,21 @@
       "source": "The Hacker News",
       "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
-      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OTTERCOOKIE: a browser credential and crypto wallet stealer, a file stealer, a",
+      "summary": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OtterCookie: a browser credential and crypto wallet stealer, a file stealer, a",
       "published": "Fri, 17 Jul 2026 19:18:56 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants",
-      "link": "https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html",
-      "summary": "The European Commission on Thursday ordered Google to give rival AI assistants the same reach into Android that Gemini already has: the camera, the microphone, whatever is on screen, a wake word that fires with the display off, and the ability to drive other apps in the background by imitating taps and typing. Google has to ship it in the next major release, Android 18, and by 1 August 2027 at",
-      "published": "Fri, 17 Jul 2026 17:14:41 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?",
-      "link": "https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html",
-      "summary": "Military forces are under increasing pressure to field autonomous capabilities faster than ever before. Across the U.S., UK, and NATO, new investment, evolving defense strategies, and accelerated acquisition pathways are transforming how capability is delivered, rewarding programs that can move from concept to operational deployment at commercial speed. Now the focus shifts to the trusted",
-      "published": "Fri, 17 Jul 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
+      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
+      "published": "Sun, 19 Jul 2026 10:23:46 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -220,15 +233,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "summary": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
-      "published": "Fri, 17 Jul 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

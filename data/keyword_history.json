@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2146,
+      "count": 2147,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1860,7 +1860,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 503,
+      "count": 504,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -13911,9 +13911,10 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-04-16"
+        "2026-04-16",
+        "2026-07-19"
       ]
     },
     "actively exploited flaw": {
@@ -20708,7 +20709,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22284,7 +22285,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -22996,7 +22997,7 @@
       ]
     },
     "software almost triple": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23052,7 +23053,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23298,7 +23299,7 @@
       ]
     },
     "cyberattack disrupts operations": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23313,7 +23314,7 @@
       ]
     },
     "gradually restore operations": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23333,7 +23334,7 @@
       ]
     },
     "underlying legal obligation": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23355,7 +23356,7 @@
       ]
     },
     "multiple questions linger": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23369,7 +23370,7 @@
       ]
     },
     "agentic ai taming": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23411,7 +23412,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23435,7 +23436,7 @@
       ]
     },
     "changelog entry pointing": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23443,7 +23444,7 @@
       ]
     },
     "svg image files": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23472,25 +23473,38 @@
       ]
     },
     "coordinate vulnerability response": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-18",
+        "2026-07-19"
+      ]
+    },
+    "gain root access": {
+      "count": 1,
+      "dates": [
+        "2026-07-19"
+      ]
+    },
+    "okta's red team": {
+      "count": 1,
+      "dates": [
+        "2026-07-19"
+      ]
+    },
+    "advanced threat actor": {
+      "count": 1,
+      "dates": [
+        "2026-07-19"
+      ]
+    },
+    "trick ukrainian targets": {
+      "count": 1,
+      "dates": [
         "2026-07-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-09 02:28",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "access vulnerable repositories",
-        "actively exploited vulnerability",
-        "critical gitea flaw",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-09 07:32",
       "articles": 48,
@@ -24578,6 +24592,17 @@
         "rival ai assistants",
         "twitter whistleblower complaint",
         "multiple questions linger"
+      ]
+    },
+    {
+      "timestamp": "2026-07-19 14:49",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "cyberattack disrupts operations",
+        "gain root access",
+        "coordinate vulnerability response",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-20 21:05",
+  "last_updated": "2026-07-20 22:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "hugging face hacked",
-    "cve 2026 15410",
     "real ai threat",
-    "known issue causing",
-    "hugging face warns",
-    "agentic defense platform",
+    "encrypting ai assets",
     "cybercrime group known",
+    "hugging face warns",
+    "cve 2026 63030",
+    "cve 2026 15410",
+    "vulnerable vpn appliances",
     "twitter whistleblower complaint",
     "stealthy c2 comms",
     "national security risk",
     "calendar events dated",
-    "vulnerability discoveries aided",
-    "coordinate vulnerability response",
-    "april 21 2026",
     "malware family known",
+    "install custom malware",
     "threat actor tracked",
-    "automate threat detection",
-    "advanced threat actor",
-    "released emergency updates",
-    "year's event calendar"
+    "april 21 2026",
+    "jadepuffer agentic attacks",
+    "malware operator left",
+    "year's event calendar",
+    "wp2shell opens millions"
   ],
   "trending": [
     {
       "keyword": "hugging face hacked",
-      "mentions": 6
-    },
-    {
-      "keyword": "cve 2026 15410",
-      "mentions": 4
-    },
-    {
-      "keyword": "real ai threat",
       "mentions": 7
     },
     {
-      "keyword": "known issue causing",
-      "mentions": 31
+      "keyword": "real ai threat",
+      "mentions": 8
     },
     {
-      "keyword": "hugging face warns",
-      "mentions": 5
-    },
-    {
-      "keyword": "agentic defense platform",
-      "mentions": 6
+      "keyword": "encrypting ai assets",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 235
+      "mentions": 236
+    },
+    {
+      "keyword": "hugging face warns",
+      "mentions": 6
+    },
+    {
+      "keyword": "cve 2026 63030",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 15410",
+      "mentions": 5
+    },
+    {
+      "keyword": "vulnerable vpn appliances",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2159
+      "mentions": 2160
     },
     {
       "keyword": "stealthy c2 comms",
-      "mentions": 3
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 275
+      "mentions": 4
     }
   ],
   "articles": [
@@ -152,6 +152,59 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
+      "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
+      "published": "Mon, 20 Jul 2026 18:39:30 -0400",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "SonicWall SMA1000 flaws exploited as zero-days to push custom malware",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/",
+      "summary": "Two recently disclosed SonicWall SMA1000 vulnerabilities were exploited in zero-day attacks for weeks, allowing threat actors to install custom malware on vulnerable VPN appliances. [...]",
+      "published": "Mon, 20 Jul 2026 18:23:23 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers steal $23.7 million in crypto from Ostium in off-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
+      "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
+      "published": "Mon, 20 Jul 2026 18:22:56 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "summary": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "published": "Mon, 20 Jul 2026 17:08:02 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
       "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
       "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
@@ -176,65 +229,6 @@
       "published": "Mon, 20 Jul 2026 07:56:28 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms Windows Server Update Services sync delays",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
-      "summary": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
-      "published": "Mon, 20 Jul 2026 06:47:28 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
-      "summary": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
-      "published": "Mon, 20 Jul 2026 06:06:17 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
-      "summary": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
-      "published": "Mon, 20 Jul 2026 05:29:20 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse ViPNet software to target Russian govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/",
-      "summary": "An advanced threat actor is abusing the update mechanism for the ViPNet private networking product suite to target Russian organizations, including government agencies. [...]",
-      "published": "Sun, 19 Jul 2026 10:23:46 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Update now: 7-Zip fixes RCE flaw exploitable with malicious archives",
-      "link": "https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/",
-      "summary": "7-Zip version 26.02 was released on June 25 to fix a remote code execution vulnerability that could allow attackers to execute malicious code by convincing users to open specially crafted compressed files. [...]",
-      "published": "Sat, 18 Jul 2026 15:32:02 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "RCE ×2",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -327,6 +321,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+      "summary": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+      "published": "Mon, 20 Jul 2026 21:38:18 GMT",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
       "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
       "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
@@ -392,15 +399,6 @@
       "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
       "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
       "published": "Fri, 17 Jul 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Google Bets 'Agentic Defense' Strategy Can Outpace Attackers",
-      "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
-      "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
-      "published": "Fri, 17 Jul 2026 11:50:25 GMT",
       "value_score": 10,
       "value_signals": []
     },

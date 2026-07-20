@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-20 15:46",
+  "last_updated": "2026-07-20 17:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,13 +7,13 @@
     "hugging face hacked",
     "agentic defense platform",
     "cve 2026 15410",
-    "calendar events dated",
     "cybercrime group known",
     "hugging face warns",
     "agentic ai taming",
     "real ai threat",
     "twitter whistleblower complaint",
-    "year's event calendar",
+    "stealthy c2 comms",
+    "calendar events dated",
     "vulnerability discoveries aided",
     "known issue causing",
     "coordinate vulnerability response",
@@ -22,48 +22,48 @@
     "automate threat detection",
     "advanced threat actor",
     "released emergency updates",
-    "windows operating systems"
+    "year's event calendar"
   ],
   "trending": [
     {
       "keyword": "autonomous ai agent",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "hugging face hacked",
-      "mentions": 3
-    },
-    {
-      "keyword": "agentic defense platform",
-      "mentions": 3
-    },
-    {
-      "keyword": "cve 2026 15410",
-      "mentions": 1
-    },
-    {
-      "keyword": "calendar events dated",
-      "mentions": 1
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 232
-    },
-    {
-      "keyword": "hugging face warns",
-      "mentions": 2
-    },
-    {
-      "keyword": "agentic ai taming",
-      "mentions": 32
-    },
-    {
-      "keyword": "real ai threat",
       "mentions": 4
     },
     {
+      "keyword": "agentic defense platform",
+      "mentions": 4
+    },
+    {
+      "keyword": "cve 2026 15410",
+      "mentions": 2
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 233
+    },
+    {
+      "keyword": "hugging face warns",
+      "mentions": 3
+    },
+    {
+      "keyword": "agentic ai taming",
+      "mentions": 33
+    },
+    {
+      "keyword": "real ai threat",
+      "mentions": 5
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2156
+      "mentions": 2157
+    },
+    {
+      "keyword": "stealthy c2 comms",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
+      "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
+      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "An AI SOC Evaluation Guide for Security Leaders",
       "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
       "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
@@ -222,20 +231,6 @@
       "value_signals": [
         "RCE ×2",
         "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
-      "summary": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
-      "published": "Sat, 18 Jul 2026 13:22:47 -0400",
-      "value_score": 80,
-      "value_signals": [
-        "RCE ×2",
-        "Patch/update ×2",
-        "High severity",
         "Exploit wording"
       ]
     },

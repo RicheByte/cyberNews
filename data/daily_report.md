@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-20 15:46 UTC  
+> **Last Updated:** 2026-07-20 17:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**autonomous ai agent** • **hugging face hacked** • **agentic defense platform** • **cve 2026 15410** • **calendar events dated** • **cybercrime group known** • **hugging face warns** • **agentic ai taming** • **real ai threat** • **twitter whistleblower complaint** • **year's event calendar** • **vulnerability discoveries aided** • **known issue causing** • **coordinate vulnerability response** • **april 21 2026** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates** • **windows operating systems**
+**autonomous ai agent** • **hugging face hacked** • **agentic defense platform** • **cve 2026 15410** • **cybercrime group known** • **hugging face warns** • **agentic ai taming** • **real ai threat** • **twitter whistleblower complaint** • **stealthy c2 comms** • **calendar events dated** • **vulnerability discoveries aided** • **known issue causing** • **coordinate vulnerability response** • **april 21 2026** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates** • **year's event calendar**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
 - [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
 - [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 - [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
@@ -34,7 +35,6 @@
 - [Critical ServiceNow code execution flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/)
 - [Hackers abuse ViPNet software to target Russian govt agencies](https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/)
 - [Update now: 7-Zip fixes RCE flaw exploitable with malicious archives](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/)
-- [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
 
 ### Krebs on Security
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-20 17:54 UTC  
+> **Last Updated:** 2026-07-20 19:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**autonomous ai agent** • **hugging face hacked** • **agentic defense platform** • **cve 2026 15410** • **cybercrime group known** • **hugging face warns** • **agentic ai taming** • **real ai threat** • **twitter whistleblower complaint** • **stealthy c2 comms** • **calendar events dated** • **vulnerability discoveries aided** • **known issue causing** • **coordinate vulnerability response** • **april 21 2026** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates** • **year's event calendar**
+**autonomous ai agent** • **hugging face hacked** • **agentic defense platform** • **known issue causing** • **cve 2026 15410** • **agentic ai taming** • **cybercrime group known** • **hugging face warns** • **real ai threat** • **twitter whistleblower complaint** • **stealthy c2 comms** • **calendar events dated** • **national security risk** • **vulnerability discoveries aided** • **coordinate vulnerability response** • **april 21 2026** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 - [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 - [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
 - [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
@@ -23,7 +24,6 @@
 - [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
 - [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
 - [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
-- [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [CISOs Feel the Heat Over AI Risk](https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk)
+- [Attackers Combo Up Evasion Tactics for BEC Phishing](https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing)
 - [Cybersecurity Keeps Events 'Uneventful'](https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful)
 - [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days)
 - [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust)
 - [Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
 - [Google Bets 'Agentic Defense' Strategy Can Outpace Attackers](https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers)
 - [Agentic AI: Taming the Unpredictable](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions)
-- [1M+ Emails Use Hidden Text to Dupe AI Security Filters](https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters)
-- [Police Disrupt a €140M Cyber Fraud Ring in Spain](https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain)
 
 ### Security Week
 

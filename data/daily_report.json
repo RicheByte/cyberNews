@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-20 17:54",
+  "last_updated": "2026-07-20 19:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "autonomous ai agent",
     "hugging face hacked",
     "agentic defense platform",
+    "known issue causing",
     "cve 2026 15410",
+    "agentic ai taming",
     "cybercrime group known",
     "hugging face warns",
-    "agentic ai taming",
     "real ai threat",
     "twitter whistleblower complaint",
     "stealthy c2 comms",
     "calendar events dated",
+    "national security risk",
     "vulnerability discoveries aided",
-    "known issue causing",
     "coordinate vulnerability response",
     "april 21 2026",
     "threat actor tracked",
     "automate threat detection",
     "advanced threat actor",
-    "released emergency updates",
-    "year's event calendar"
+    "released emergency updates"
   ],
   "trending": [
     {
       "keyword": "autonomous ai agent",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "hugging face hacked",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "agentic defense platform",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "known issue causing",
+      "mentions": 30
     },
     {
       "keyword": "cve 2026 15410",
-      "mentions": 2
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 233
-    },
-    {
-      "keyword": "hugging face warns",
       "mentions": 3
     },
     {
       "keyword": "agentic ai taming",
-      "mentions": 33
+      "mentions": 34
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 234
+    },
+    {
+      "keyword": "hugging face warns",
+      "mentions": 4
     },
     {
       "keyword": "real ai threat",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2157
-    },
-    {
-      "keyword": "stealthy c2 comms",
-      "mentions": 1
+      "mentions": 2158
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
+      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
+      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV. What makes it more than a",
+      "published": "Mon, 20 Jul 2026 22:59:50 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
@@ -136,15 +147,6 @@
       "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
       "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
       "published": "Mon, 20 Jul 2026 10:57:26 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
-      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
-      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo (versions 1.1.3, 1.1.4) -",
-      "published": "Mon, 20 Jul 2026 10:45:39 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -325,6 +327,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISOs Feel the Heat Over AI Risk",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
+      "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
+      "published": "Mon, 20 Jul 2026 19:07:01 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
+      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
+      "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
+      "published": "Mon, 20 Jul 2026 18:30:22 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cybersecurity Keeps Events 'Uneventful'",
       "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
       "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
@@ -379,26 +401,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
       "summary": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
       "published": "Thu, 16 Jul 2026 20:57:47 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
-      "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
-      "summary": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
-      "published": "Thu, 16 Jul 2026 19:41:31 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Police Disrupt a €140M Cyber Fraud Ring in Spain",
-      "link": "https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain",
-      "summary": "Iberian hackers carried out a variety of cyberattacks and laundered the winnings through complex financial networks.",
-      "published": "Thu, 16 Jul 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

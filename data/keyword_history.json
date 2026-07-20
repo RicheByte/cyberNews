@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2158,
+      "count": 2159,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1140,7 +1140,7 @@
       ]
     },
     "national security risk": {
-      "count": 274,
+      "count": 275,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7655,7 +7655,7 @@
       ]
     },
     "released emergency updates": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-02-16",
         "2026-02-17",
@@ -10587,7 +10587,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -20716,7 +20716,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21702,7 +21702,7 @@
       ]
     },
     "known issue causing": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-02",
         "2026-07-03",
@@ -23413,7 +23413,7 @@
       ]
     },
     "automate threat detection": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23430,7 +23430,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23493,7 +23493,7 @@
       ]
     },
     "coordinate vulnerability response": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-18",
         "2026-07-19",
@@ -23515,7 +23515,7 @@
       ]
     },
     "advanced threat actor": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-19",
         "2026-07-20"
@@ -23542,13 +23542,13 @@
       ]
     },
     "real ai threat": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-20"
       ]
     },
     "hugging face hacked": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-20"
       ]
@@ -23560,7 +23560,7 @@
       ]
     },
     "agentic defense platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-20"
       ]
@@ -23602,54 +23602,49 @@
       ]
     },
     "april 21 2026": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-20"
       ]
     },
     "hugging face warns": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-20"
       ]
     },
     "cve 2026 15410": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20"
       ]
     },
     "calendar events dated": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20"
       ]
     },
     "year's event calendar": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20"
       ]
     },
     "stealthy c2 comms": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "malware family known": {
+      "count": 1,
       "dates": [
         "2026-07-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-10 17:43",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "zimbra urges customers",
-        "twitter whistleblower complaint",
-        "stealing seized crypto",
-        "official docker image"
-      ]
-    },
     {
       "timestamp": "2026-07-10 19:20",
       "articles": 48,
@@ -24737,6 +24732,17 @@
         "agentic defense platform",
         "known issue causing",
         "cve 2026 15410"
+      ]
+    },
+    {
+      "timestamp": "2026-07-20 21:05",
+      "articles": 48,
+      "top_keywords": [
+        "hugging face hacked",
+        "cve 2026 15410",
+        "real ai threat",
+        "known issue causing",
+        "hugging face warns"
       ]
     }
   ]

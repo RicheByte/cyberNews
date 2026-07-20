@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-07-20 19:37",
+  "last_updated": "2026-07-20 21:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "autonomous ai agent",
     "hugging face hacked",
-    "agentic defense platform",
-    "known issue causing",
     "cve 2026 15410",
-    "agentic ai taming",
-    "cybercrime group known",
-    "hugging face warns",
     "real ai threat",
+    "known issue causing",
+    "hugging face warns",
+    "agentic defense platform",
+    "cybercrime group known",
     "twitter whistleblower complaint",
     "stealthy c2 comms",
-    "calendar events dated",
     "national security risk",
+    "calendar events dated",
     "vulnerability discoveries aided",
     "coordinate vulnerability response",
     "april 21 2026",
+    "malware family known",
     "threat actor tracked",
     "automate threat detection",
     "advanced threat actor",
-    "released emergency updates"
+    "released emergency updates",
+    "year's event calendar"
   ],
   "trending": [
     {
-      "keyword": "autonomous ai agent",
+      "keyword": "hugging face hacked",
       "mentions": 6
     },
     {
-      "keyword": "hugging face hacked",
-      "mentions": 5
-    },
-    {
-      "keyword": "agentic defense platform",
-      "mentions": 5
-    },
-    {
-      "keyword": "known issue causing",
-      "mentions": 30
-    },
-    {
       "keyword": "cve 2026 15410",
-      "mentions": 3
-    },
-    {
-      "keyword": "agentic ai taming",
-      "mentions": 34
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 234
-    },
-    {
-      "keyword": "hugging face warns",
       "mentions": 4
     },
     {
       "keyword": "real ai threat",
+      "mentions": 7
+    },
+    {
+      "keyword": "known issue causing",
+      "mentions": 31
+    },
+    {
+      "keyword": "hugging face warns",
+      "mentions": 5
+    },
+    {
+      "keyword": "agentic defense platform",
       "mentions": 6
     },
     {
+      "keyword": "cybercrime group known",
+      "mentions": 235
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2158
+      "mentions": 2159
+    },
+    {
+      "keyword": "stealthy c2 comms",
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 275
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
+      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
+      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
+      "published": "Mon, 20 Jul 2026 23:53:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
@@ -140,15 +149,6 @@
       "value_signals": [
         "Botnet ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
-      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
-      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
-      "published": "Mon, 20 Jul 2026 10:57:26 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -327,6 +327,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+      "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "published": "Mon, 20 Jul 2026 20:26:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISOs Feel the Heat Over AI Risk",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
       "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
@@ -379,7 +388,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear",
+      "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
       "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
       "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
       "published": "Fri, 17 Jul 2026 13:00:00 GMT",
@@ -392,15 +401,6 @@
       "link": "https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers",
       "summary": "Google Cloud incorporates key Wiz capabilities into an agentic defense platform to automate threat detection and remediation against AI attacks.",
       "published": "Fri, 17 Jul 2026 11:50:25 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Agentic AI: Taming the Unpredictable",
-      "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
-      "summary": "Agentic artificial intelligence is creating enough risks for organizations to demand a security reframe.",
-      "published": "Thu, 16 Jul 2026 20:57:47 GMT",
       "value_score": 10,
       "value_signals": []
     },

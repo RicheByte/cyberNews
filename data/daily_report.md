@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-20 19:37 UTC  
+> **Last Updated:** 2026-07-20 21:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**autonomous ai agent** • **hugging face hacked** • **agentic defense platform** • **known issue causing** • **cve 2026 15410** • **agentic ai taming** • **cybercrime group known** • **hugging face warns** • **real ai threat** • **twitter whistleblower complaint** • **stealthy c2 comms** • **calendar events dated** • **national security risk** • **vulnerability discoveries aided** • **coordinate vulnerability response** • **april 21 2026** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates**
+**hugging face hacked** • **cve 2026 15410** • **real ai threat** • **known issue causing** • **hugging face warns** • **agentic defense platform** • **cybercrime group known** • **twitter whistleblower complaint** • **stealthy c2 comms** • **national security risk** • **calendar events dated** • **vulnerability discoveries aided** • **coordinate vulnerability response** • **april 21 2026** • **malware family known** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates** • **year's event calendar**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
 - [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 - [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 - [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
@@ -23,7 +24,6 @@
 - [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
 - [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
 - [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
-- [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push](https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation)
 - [CISOs Feel the Heat Over AI Risk](https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk)
 - [Attackers Combo Up Evasion Tactics for BEC Phishing](https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing)
 - [Cybersecurity Keeps Events 'Uneventful'](https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful)
 - [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days)
 - [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust)
-- [Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
+- [Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
 - [Google Bets 'Agentic Defense' Strategy Can Outpace Attackers](https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers)
-- [Agentic AI: Taming the Unpredictable](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions)
 
 ### Security Week
 

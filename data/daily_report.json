@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-07-20 02:29",
+  "last_updated": "2026-07-20 06:40",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cybercrime group known",
+    "advanced threat actor",
     "cyberattack disrupts operations",
     "gain root access",
+    "cybercrime group known",
     "coordinate vulnerability response",
+    "autonomous ai agent",
     "twitter whistleblower complaint",
     "okta's red team",
     "multiple questions linger",
     "changelog entry pointing",
-    "advanced threat actor",
+    "vulnerability discoveries aided",
     "gradually restore operations",
     "august 2024 cyberattack",
-    "vulnerability discoveries aided",
-    "critical nginx vulnerability",
     "agentic ai taming",
+    "real ai threat",
+    "automate threat detection",
     "underlying legal obligation",
     "ukraine cert ua",
     "trick ukrainian targets",
-    "sprawling phishing campaign",
-    "software giant fixed",
-    "software almost triple"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 228
+      "keyword": "advanced threat actor",
+      "mentions": 7
     },
     {
       "keyword": "cyberattack disrupts operations",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "gain root access",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 229
     },
     {
       "keyword": "coordinate vulnerability response",
-      "mentions": 13
+      "mentions": 14
+    },
+    {
+      "keyword": "autonomous ai agent",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2152
+      "mentions": 2153
     },
     {
       "keyword": "okta's red team",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "multiple questions linger",
-      "mentions": 28
+      "mentions": 29
     },
     {
       "keyword": "changelog entry pointing",
-      "mentions": 24
-    },
-    {
-      "keyword": "advanced threat actor",
-      "mentions": 6
-    },
-    {
-      "keyword": "gradually restore operations",
-      "mentions": 30
+      "mentions": 25
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
+      "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
+      "summary": "In an ironic twist, open-source artificial intelligence (AI) platform Hugging Face revealed that it was the victim of a hack perpetrated by an autonomous AI agent system. The company said it detected and responded to the incident targeting its production infrastructure earlier last week. \"We identified unauthorized access to a limited set of internal datasets and to several credentials used by",
+      "published": "Mon, 20 Jul 2026 10:57:26 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines",
+      "link": "https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html",
+      "summary": "Cybersecurity researchers have flagged a new software supply chain attack codenamed SleeperGem targeting the Ruby ecosystem after three malicious gems were published to RubyGems with the end goal of serving additional payloads. The rogue gems are listed below - git_credential_manager (versions 2.8.0, 2.8.1, 2.8.2, 2.8.3) - Published on July 18, 2026 Dendreo (versions 1.1.3, 1.1.4) -",
+      "published": "Mon, 20 Jul 2026 10:45:39 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
@@ -130,28 +148,6 @@
       "published": "Sat, 18 Jul 2026 00:24:51 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens",
-      "link": "https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html",
-      "summary": "A Go botnet called NadMesh turned up in early July hunting exposed AI services, and the operator's own dashboard claims 3,811 unique AWS keys. A Shodan harvester keeps the scan queue stocked with ComfyUI, Ollama, n8n, Open WebUI, Langflow, and Gradio: the image generators, local model runners, and workflow builders that teams stand up fast and firewall late. The intel feed behind that counter",
-      "published": "Fri, 17 Jul 2026 22:42:23 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft",
-      "link": "https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html",
-      "summary": "Cybersecurity researchers have attributed the April 2026 DigiCert security incident to a threat activity cluster dubbed CylindricalCanine. Expel, which shared technical details of the event, described the threat actor as a sub-group of GoldenEyeDog (aka APT-Q-27, Dragon Breath, and Miuuti Group), a Chinese cybercrime group known for its targeting of the gambling and gaming sectors using",
-      "published": "Fri, 17 Jul 2026 22:09:16 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -408,6 +404,20 @@
     },
     {
       "source": "Security Week",
+      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
+      "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
+      "summary": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure. The post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Mon, 20 Jul 2026 05:21:29 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint",
       "link": "https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/",
       "summary": "Noteworthy stories that might have slipped under the radar: OpenClaw AI agents exploited via WhatsApp, ransomware hits naval defense firm TKMS, Lidl discloses data breach. The post In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint appeared first on SecurityWeek .",
@@ -474,17 +484,6 @@
       "value_signals": [
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
-      "link": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
-      "summary": "The company has yet to determine the full scope, nature, and impact of the incident. The post Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Fri, 17 Jul 2026 06:23:08 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
       ]
     },
     {

@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2152,
+      "count": 2153,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1861,7 +1861,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 509,
+      "count": 510,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -13913,7 +13913,7 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-04-16",
         "2026-07-19",
@@ -20712,7 +20712,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 228,
+      "count": 229,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22289,7 +22289,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -23306,7 +23306,7 @@
       ]
     },
     "cyberattack disrupts operations": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23322,7 +23322,7 @@
       ]
     },
     "gradually restore operations": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23343,7 +23343,7 @@
       ]
     },
     "underlying legal obligation": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23366,7 +23366,7 @@
       ]
     },
     "multiple questions linger": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23381,7 +23381,7 @@
       ]
     },
     "agentic ai taming": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23408,11 +23408,12 @@
       ]
     },
     "automate threat detection": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-07-17",
         "2026-07-18",
-        "2026-07-19"
+        "2026-07-19",
+        "2026-07-20"
       ]
     },
     "clean residential proxies": {
@@ -23424,7 +23425,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23449,7 +23450,7 @@
       ]
     },
     "changelog entry pointing": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23487,7 +23488,7 @@
       ]
     },
     "coordinate vulnerability response": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-18",
         "2026-07-19",
@@ -23495,28 +23496,28 @@
       ]
     },
     "gain root access": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-19",
         "2026-07-20"
       ]
     },
     "okta's red team": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-19",
         "2026-07-20"
       ]
     },
     "advanced threat actor": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-19",
         "2026-07-20"
       ]
     },
     "trick ukrainian targets": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-19",
         "2026-07-20"
@@ -23528,20 +23529,21 @@
         "2026-07-19",
         "2026-07-20"
       ]
+    },
+    "autonomous ai agent": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "real ai threat": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-09 21:18",
-      "articles": 48,
-      "top_keywords": [
-        "12 million impacted",
-        "privilege escalation issue",
-        "exchange server microsoft",
-        "fast attacks move",
-        "npm version 12"
-      ]
-    },
     {
       "timestamp": "2026-07-09 23:06",
       "articles": 48,
@@ -24629,6 +24631,17 @@
         "gain root access",
         "coordinate vulnerability response",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-20 06:40",
+      "articles": 48,
+      "top_keywords": [
+        "advanced threat actor",
+        "cyberattack disrupts operations",
+        "gain root access",
+        "cybercrime group known",
+        "coordinate vulnerability response"
       ]
     }
   ]

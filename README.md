@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-20 13:54 UTC |
+| 🕐 Last Updated | 2026-07-20 15:46 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`autonomous ai agent` • `hugging face hacked` • `heap buffer overflow` • `agentic defense platform` • `cybercrime group known` • `cve 2026 60137` • `cve 2026 42533` • `agentic ai taming` • `twitter whistleblower complaint` • `real ai threat`
+`autonomous ai agent` • `hugging face hacked` • `agentic defense platform` • `cve 2026 15410` • `calendar events dated` • `cybercrime group known` • `hugging face warns` • `agentic ai taming` • `real ai threat` • `twitter whistleblower complaint`
 
 ## 📄 Reports
 

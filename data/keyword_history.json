@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 637,
+      "count": 638,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2155,
+      "count": 2156,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7654,7 +7654,7 @@
       ]
     },
     "released emergency updates": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-02-16",
         "2026-02-17",
@@ -10586,13 +10586,14 @@
       ]
     },
     "threat actor tracked": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-03-13",
         "2026-03-14",
         "2026-04-08",
         "2026-04-09",
-        "2026-06-02"
+        "2026-06-02",
+        "2026-07-20"
       ]
     },
     "threaten data availability": {
@@ -20714,7 +20715,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 231,
+      "count": 232,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -21700,12 +21701,13 @@
       ]
     },
     "known issue causing": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-02",
         "2026-07-03",
         "2026-07-04",
-        "2026-07-05"
+        "2026-07-05",
+        "2026-07-20"
       ]
     },
     "fortibleed campaign linked": {
@@ -23383,7 +23385,7 @@
       ]
     },
     "agentic ai taming": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23410,7 +23412,7 @@
       ]
     },
     "automate threat detection": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23427,7 +23429,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23490,7 +23492,7 @@
       ]
     },
     "coordinate vulnerability response": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-18",
         "2026-07-19",
@@ -23512,7 +23514,7 @@
       ]
     },
     "advanced threat actor": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-19",
         "2026-07-20"
@@ -23533,19 +23535,19 @@
       ]
     },
     "autonomous ai agent": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20"
       ]
     },
     "real ai threat": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20"
       ]
     },
     "hugging face hacked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20"
       ]
@@ -23557,7 +23559,7 @@
       ]
     },
     "agentic defense platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20"
       ]
@@ -23599,12 +23601,30 @@
       ]
     },
     "april 21 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-20"
       ]
     },
     "hugging face warns": {
+      "count": 2,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "cve 2026 15410": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "calendar events dated": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "year's event calendar": {
       "count": 1,
       "dates": [
         "2026-07-20"
@@ -23612,17 +23632,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-10 07:30",
-      "articles": 48,
-      "top_keywords": [
-        "12 million impacted",
-        "privilege escalation issue",
-        "exchange server microsoft",
-        "fast attacks move",
-        "npm version 12"
-      ]
-    },
     {
       "timestamp": "2026-07-10 10:48",
       "articles": 48,
@@ -24710,6 +24719,17 @@
         "heap buffer overflow",
         "agentic defense platform",
         "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-20 15:46",
+      "articles": 48,
+      "top_keywords": [
+        "autonomous ai agent",
+        "hugging face hacked",
+        "agentic defense platform",
+        "cve 2026 15410",
+        "calendar events dated"
       ]
     }
   ]

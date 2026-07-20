@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-20 13:54 UTC  
+> **Last Updated:** 2026-07-20 15:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**autonomous ai agent** • **hugging face hacked** • **heap buffer overflow** • **agentic defense platform** • **cybercrime group known** • **cve 2026 60137** • **cve 2026 42533** • **agentic ai taming** • **twitter whistleblower complaint** • **real ai threat** • **critical nginx flaw** • **vulnerability discoveries aided** • **coordinate vulnerability response** • **attacker execute code** • **automate threat detection** • **april 21 2026** • **advanced threat actor** • **hugging face warns** • **released emergency updates** • **windows operating systems**
+**autonomous ai agent** • **hugging face hacked** • **agentic defense platform** • **cve 2026 15410** • **calendar events dated** • **cybercrime group known** • **hugging face warns** • **agentic ai taming** • **real ai threat** • **twitter whistleblower complaint** • **year's event calendar** • **vulnerability discoveries aided** • **known issue causing** • **coordinate vulnerability response** • **april 21 2026** • **threat actor tracked** • **automate threat detection** • **advanced threat actor** • **released emergency updates** • **windows operating systems**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 - [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
 - [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
 - [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
@@ -23,10 +24,10 @@
 - [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
 - [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
 - [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
-- [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
 
 ### BleepingComputer
 
+- [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
 - [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 - [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
 - [Windows KB5121767 OOB update fixes shutdowns on some Dell PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/)
@@ -34,7 +35,6 @@
 - [Hackers abuse ViPNet software to target Russian govt agencies](https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/)
 - [Update now: 7-Zip fixes RCE flaw exploitable with malicious archives](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/)
 - [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
-- [Microsoft warns of surge in ACR Stealer attacks on customers](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Cybersecurity Keeps Events 'Uneventful'](https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful)
 - [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days)
 - [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust)
 - [Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
@@ -56,18 +57,17 @@
 - [Agentic AI: Taming the Unpredictable](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions)
 - [1M+ Emails Use Hidden Text to Dupe AI Security Filters](https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters)
 - [Police Disrupt a €140M Cyber Fraud Ring in Spain](https://www.darkreading.com/threat-intelligence/police-disrupt-140m-euro-cyber-fraud-ring-spain)
-- [Forgotten Bootloaders Expose Secure Boot Blind Spot](https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot)
 
 ### Security Week
 
+- [Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software](https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/)
+- [SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch](https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/)
 - [OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability](https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/)
 - [New Index Tracks Material Breaches — And Refuses to Add Up the Losses](https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/)
 - [Ernst & Young Data Breach Affects Personal, Financial Information](https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/)
 - [Watch on Demand: Cloud & Data Security Summit](https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/)
 - [Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool](https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/)
 - [Hugging Face Hacked in Autonomous AI Attack](https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/)
-- [Chrome 150 Update Patches Severe Memory Safety Bugs](https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/)
-- [WP2Shell WordPress Vulnerabilities Exploited in the Wild](https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/)
 
 ### Threatpost
 

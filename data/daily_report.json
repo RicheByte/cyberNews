@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-07-20 13:54",
+  "last_updated": "2026-07-20 15:46",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "autonomous ai agent",
     "hugging face hacked",
-    "heap buffer overflow",
     "agentic defense platform",
+    "cve 2026 15410",
+    "calendar events dated",
     "cybercrime group known",
-    "cve 2026 60137",
-    "cve 2026 42533",
-    "agentic ai taming",
-    "twitter whistleblower complaint",
-    "real ai threat",
-    "critical nginx flaw",
-    "vulnerability discoveries aided",
-    "coordinate vulnerability response",
-    "attacker execute code",
-    "automate threat detection",
-    "april 21 2026",
-    "advanced threat actor",
     "hugging face warns",
+    "agentic ai taming",
+    "real ai threat",
+    "twitter whistleblower complaint",
+    "year's event calendar",
+    "vulnerability discoveries aided",
+    "known issue causing",
+    "coordinate vulnerability response",
+    "april 21 2026",
+    "threat actor tracked",
+    "automate threat detection",
+    "advanced threat actor",
     "released emergency updates",
     "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "autonomous ai agent",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "hugging face hacked",
-      "mentions": 2
-    },
-    {
-      "keyword": "heap buffer overflow",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "agentic defense platform",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "cve 2026 15410",
+      "mentions": 1
+    },
+    {
+      "keyword": "calendar events dated",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 231
+      "mentions": 232
     },
     {
-      "keyword": "cve 2026 60137",
-      "mentions": 2
-    },
-    {
-      "keyword": "cve 2026 42533",
+      "keyword": "hugging face warns",
       "mentions": 2
     },
     {
       "keyword": "agentic ai taming",
-      "mentions": 31
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2155
+      "mentions": 32
     },
     {
       "keyword": "real ai threat",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2156
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050",
+      "link": "https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html",
+      "summary": "A newly discovered espionage implant has been using a hijacked Microsoft 365 calendar as its command channel, planting operator instructions and smuggling out stolen files as attachments on calendar events dated to the year 2050. Group-IB, which named the malware HollowGraph, says the approach moves tasking and stolen data through legitimate Microsoft Graph API traffic, so the activity looks",
+      "published": "Mon, 20 Jul 2026 20:03:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More",
@@ -140,17 +149,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "summary": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade. Triggering it can crash or restart the worker, causing a denial of",
-      "published": "Mon, 20 Jul 2026 02:12:49 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "An AI SOC Evaluation Guide for Security Leaders",
+      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
+      "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
+      "published": "Mon, 20 Jul 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,15 +238,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
-      "summary": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
-      "published": "Sat, 18 Jul 2026 10:17:19 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -334,6 +330,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Cybersecurity Keeps Events 'Uneventful'",
+      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
+      "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
+      "published": "Mon, 20 Jul 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Inc Ransomware Exploits SonicWall SMA Zero-Days",
       "link": "https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days",
       "summary": "When chained together, the two vulnerabilities allow threat actors to gain root-level capabilities on SonicWall's mobile access appliances.",
@@ -403,13 +408,27 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Forgotten Bootloaders Expose Secure Boot Blind Spot",
-      "link": "https://www.darkreading.com/cyber-risk/forgotten-bootloaders-expose-secure-boot-blind-spot",
-      "summary": "Nearly a dozen vulnerable and now revoked UEFI shim bootloaders remained trusted for years, giving attackers a path to bypass Secure Boot.",
-      "published": "Wed, 15 Jul 2026 21:19:19 GMT",
+      "source": "Security Week",
+      "title": "Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software",
+      "link": "https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/",
+      "summary": "Neo raised money across seed and Series A funding rounds from Andreessen Horowitz, Bessemer Venture Partners, and others. The post Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software appeared first on SecurityWeek .",
+      "published": "Mon, 20 Jul 2026 14:54:03 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch",
+      "link": "https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/",
+      "summary": "The zero-days CVE-2026-15409 and CVE-2026-15410 were exploited by a threat actor tracked by Volexity as UTA0533. The post SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch appeared first on SecurityWeek .",
+      "published": "Mon, 20 Jul 2026 14:11:05 +0000",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Patch/update ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
     },
     {
       "source": "Security Week",
@@ -468,32 +487,6 @@
       "published": "Mon, 20 Jul 2026 09:36:15 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
-      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
-      "summary": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities. The post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek .",
-      "published": "Mon, 20 Jul 2026 08:12:19 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "WP2Shell WordPress Vulnerabilities Exploited in the Wild",
-      "link": "https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/",
-      "summary": "Exploitation of the new WordPress vulnerabilities tracked as CVE-2026-60137 and CVE-2026-63030 started soon after disclosure. The post WP2Shell WordPress Vulnerabilities Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Mon, 20 Jul 2026 05:21:29 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation ×2",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

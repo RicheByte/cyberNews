@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-20 06:40 UTC |
+| 🕐 Last Updated | 2026-07-20 10:46 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`advanced threat actor` • `cyberattack disrupts operations` • `gain root access` • `cybercrime group known` • `coordinate vulnerability response` • `autonomous ai agent` • `twitter whistleblower complaint` • `okta's red team` • `multiple questions linger` • `changelog entry pointing`
+`advanced threat actor` • `hugging face hacked` • `autonomous ai agent` • `heap buffer overflow` • `gain root access` • `coordinate vulnerability response` • `cybercrime group known` • `agentic defense platform` • `released emergency updates` • `real ai threat`
 
 ## 📄 Reports
 

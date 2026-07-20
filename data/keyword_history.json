@@ -305,7 +305,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2153,
+      "count": 2154,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -7653,10 +7653,11 @@
       ]
     },
     "released emergency updates": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-16",
-        "2026-02-17"
+        "2026-02-17",
+        "2026-07-20"
       ]
     },
     "weaponize windows drivers": {
@@ -20712,7 +20713,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 229,
+      "count": 230,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23366,7 +23367,7 @@
       ]
     },
     "multiple questions linger": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23381,7 +23382,7 @@
       ]
     },
     "agentic ai taming": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23408,7 +23409,7 @@
       ]
     },
     "automate threat detection": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23425,7 +23426,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23488,7 +23489,7 @@
       ]
     },
     "coordinate vulnerability response": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-18",
         "2026-07-19",
@@ -23496,7 +23497,7 @@
       ]
     },
     "gain root access": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-19",
         "2026-07-20"
@@ -23510,7 +23511,7 @@
       ]
     },
     "advanced threat actor": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-19",
         "2026-07-20"
@@ -23531,12 +23532,60 @@
       ]
     },
     "autonomous ai agent": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-20"
       ]
     },
     "real ai threat": {
+      "count": 2,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "hugging face hacked": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "heap buffer overflow": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "agentic defense platform": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "cve 2026 60137": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "cve 2026 42533": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "critical nginx flaw": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "face never leaves": {
+      "count": 1,
+      "dates": [
+        "2026-07-20"
+      ]
+    },
+    "carry cve ids": {
       "count": 1,
       "dates": [
         "2026-07-20"
@@ -23544,17 +23593,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-09 23:06",
-      "articles": 48,
-      "top_keywords": [
-        "12 million impacted",
-        "privilege escalation issue",
-        "exchange server microsoft",
-        "fast attacks move",
-        "npm version 12"
-      ]
-    },
     {
       "timestamp": "2026-07-10 02:30",
       "articles": 48,
@@ -24642,6 +24680,17 @@
         "gain root access",
         "cybercrime group known",
         "coordinate vulnerability response"
+      ]
+    },
+    {
+      "timestamp": "2026-07-20 10:46",
+      "articles": 48,
+      "top_keywords": [
+        "advanced threat actor",
+        "hugging face hacked",
+        "autonomous ai agent",
+        "heap buffer overflow",
+        "gain root access"
       ]
     }
   ]

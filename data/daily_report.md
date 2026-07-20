@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-20 10:46 UTC  
+> **Last Updated:** 2026-07-20 13:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**advanced threat actor** • **hugging face hacked** • **autonomous ai agent** • **heap buffer overflow** • **gain root access** • **coordinate vulnerability response** • **cybercrime group known** • **agentic defense platform** • **released emergency updates** • **real ai threat** • **twitter whistleblower complaint** • **multiple questions linger** • **cve 2026 60137** • **cve 2026 42533** • **critical nginx flaw** • **agentic ai taming** • **automate threat detection** • **vulnerability discoveries aided** • **face never leaves** • **carry cve ids**
+**autonomous ai agent** • **hugging face hacked** • **heap buffer overflow** • **agentic defense platform** • **cybercrime group known** • **cve 2026 60137** • **cve 2026 42533** • **agentic ai taming** • **twitter whistleblower complaint** • **real ai threat** • **critical nginx flaw** • **vulnerability discoveries aided** • **coordinate vulnerability response** • **attacker execute code** • **automate threat detection** • **april 21 2026** • **advanced threat actor** • **hugging face warns** • **released emergency updates** • **windows operating systems**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
+- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
+- [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
 - [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
 - [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
 - [World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent](https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html)
 - [SleeperGem Uses Three Malicious RubyGems Packages to Target Developer Machines](https://thehackernews.com/2026/07/sleepergem-uses-three-malicious.html)
 - [Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution](https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html)
-- [UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware](https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html)
-- [SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access](https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html)
-- [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html)
 
 ### BleepingComputer
 
+- [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
+- [Microsoft confirms Windows Server Update Services sync delays](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/)
 - [Windows KB5121767 OOB update fixes shutdowns on some Dell PCs](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/)
 - [Critical ServiceNow code execution flaw now exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/)
 - [Hackers abuse ViPNet software to target Russian govt agencies](https://www.bleepingcomputer.com/news/security/hackers-abuse-vipnet-software-to-target-russian-govt-agencies/)
 - [Update now: 7-Zip fixes RCE flaw exploitable with malicious archives](https://www.bleepingcomputer.com/news/security/update-now-7-zip-fixes-rce-flaw-exploitable-with-malicious-archives/)
 - [WordPress Core "wp2shell" RCE flaws get public exploits, patch now](https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/)
 - [Microsoft warns of surge in ACR Stealer attacks on customers](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/)
-- [The Future of Age Verification: Your Face Never Leaves Your Device](https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/)
-- [Abbott probes two cyber incidents amid extortion claims](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability](https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/)
+- [New Index Tracks Material Breaches — And Refuses to Add Up the Losses](https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/)
+- [Ernst & Young Data Breach Affects Personal, Financial Information](https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/)
 - [Watch on Demand: Cloud & Data Security Summit](https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/)
 - [Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool](https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/)
 - [Hugging Face Hacked in Autonomous AI Attack](https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/)
 - [Chrome 150 Update Patches Severe Memory Safety Bugs](https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/)
 - [WP2Shell WordPress Vulnerabilities Exploited in the Wild](https://www.securityweek.com/wp2shell-wordpress-vulnerabilities-exploited-in-the-wild/)
-- [In Other News: Iran Tracks US Military Phones, CrashStealer macOS Malware, CVD Blueprint](https://www.securityweek.com/in-other-news-iran-tracks-us-military-phones-crashstealer-macos-malware-cvd-blueprint/)
-- [Podcast: Broken Governance, Agentic AI, and the MindStone Agent Exclusive](https://www.securityweek.com/podcast-broken-governance-agentic-ai-and-the-mindstone-agent-exclusive/)
-- [Beacon Security Raises $13 Million for Security Data Platform](https://www.securityweek.com/beacon-security-raises-13-million-for-security-data-platform/)
 
 ### Threatpost
 

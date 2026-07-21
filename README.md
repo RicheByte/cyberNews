@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-21 17:10 UTC |
+| 🕐 Last Updated | 2026-07-21 19:11 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`industrial cybersecurity winners` • `vulnerable vpn appliances` • `twitter whistleblower complaint` • `investigated multiple intrusions` • `cybercrime group known` • `average per codebase` • `national security risk` • `actual risk depends` • `patch tuesday update` • `top security executives`
+`larger ai models` • `industrial cybersecurity winners` • `twitter whistleblower complaint` • `investigated multiple intrusions` • `cybercrime group known` • `average per codebase` • `national security risk` • `actual risk depends` • `patch tuesday update` • `top security executives`
 
 ## 📄 Reports
 

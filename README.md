@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-21 06:23 UTC |
+| 🕐 Last Updated | 2026-07-21 10:20 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`hugging face hacked` • `real ai threat` • `encrypting ai assets` • `cybercrime group known` • `hugging face warns` • `cve 2026 63030` • `cve 2026 15410` • `vulnerable vpn appliances` • `twitter whistleblower complaint` • `stealthy c2 comms`
+`real ai threat` • `sandbox escape vulnerability` • `threat actor tracked` • `calendar events dated` • `encrypting ai assets` • `security researcher discovered` • `national security risk` • `vulnerability discoveries aided` • `twitter whistleblower complaint` • `spotted deploying encforge`
 
 ## 📄 Reports
 

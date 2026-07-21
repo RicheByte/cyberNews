@@ -1,72 +1,112 @@
 {
-  "last_updated": "2026-07-21 06:23",
+  "last_updated": "2026-07-21 10:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "hugging face hacked",
     "real ai threat",
-    "encrypting ai assets",
-    "cybercrime group known",
-    "hugging face warns",
-    "cve 2026 63030",
-    "cve 2026 15410",
-    "vulnerable vpn appliances",
-    "twitter whistleblower complaint",
-    "stealthy c2 comms",
-    "national security risk",
-    "calendar events dated",
-    "malware family known",
-    "install custom malware",
+    "sandbox escape vulnerability",
     "threat actor tracked",
-    "april 21 2026",
-    "jadepuffer agentic attacks",
-    "malware operator left",
+    "calendar events dated",
+    "encrypting ai assets",
+    "security researcher discovered",
+    "national security risk",
+    "vulnerability discoveries aided",
+    "twitter whistleblower complaint",
+    "spotted deploying encforge",
+    "dire critical rating",
+    "install custom malware",
+    "cybercrime group known",
     "year's event calendar",
-    "wp2shell opens millions"
+    "top security executives",
+    "ssrf security defects",
+    "enormous security demands",
+    "disabled security tools",
+    "malware family known",
+    "wsus sync delays"
   ],
   "trending": [
     {
-      "keyword": "hugging face hacked",
-      "mentions": 9
-    },
-    {
       "keyword": "real ai threat",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "encrypting ai assets",
-      "mentions": 3
+      "keyword": "sandbox escape vulnerability",
+      "mentions": 1
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 238
+      "keyword": "threat actor tracked",
+      "mentions": 28
     },
     {
-      "keyword": "hugging face warns",
+      "keyword": "calendar events dated",
       "mentions": 8
     },
     {
-      "keyword": "cve 2026 63030",
-      "mentions": 3
+      "keyword": "encrypting ai assets",
+      "mentions": 4
     },
     {
-      "keyword": "cve 2026 15410",
-      "mentions": 7
+      "keyword": "security researcher discovered",
+      "mentions": 1
     },
     {
-      "keyword": "vulnerable vpn appliances",
-      "mentions": 3
+      "keyword": "national security risk",
+      "mentions": 279
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 33
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2162
+      "mentions": 2163
     },
     {
-      "keyword": "stealthy c2 comms",
-      "mentions": 6
+      "keyword": "spotted deploying encforge",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning",
+      "link": "https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html",
+      "summary": "Attackers have begun to exploit two critical vulnerabilities in WordPress that, when combined together, enable unauthenticated remote code execution (RCE) and complete compromise of vulnerable websites. The two security flaws, tracked as CVE-2026-63030 and CVE-2026-60137, have been codenamed wp2shell. \"By the early hours of Saturday morning (UTC), successful exploitation was already well",
+      "published": "Tue, 21 Jul 2026 14:29:30 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE ×2",
+        "High severity",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack",
+      "link": "https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html",
+      "summary": "Researchers at Sysdig have linked a second attack on the same Langflow server to JADEPUFFER, the AI-agent-driven operator it first documented earlier this month. The same operator has now been spotted deploying ENCFORGE, a new compiled Go ransomware designed to encrypt model weights, vector indexes, training datasets, and other AI infrastructure files across the host filesystem. The entry",
+      "published": "Tue, 21 Jul 2026 13:04:32 +0530",
+      "value_score": 66,
+      "value_signals": [
+        "Ransomware ×2",
+        "RCE"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
+      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
+      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code. Patches for the flaw were",
+      "published": "Tue, 21 Jul 2026 11:59:26 +0530",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
@@ -118,36 +158,40 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Mythos Didn't Break Your Security Program. Your Exposure Window Could.",
-      "link": "https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html",
-      "summary": "The industry spent the initial months after Anthropic's April 7 Mythos reveal focused on volume. How many new CVEs would Mythos add to an already overloaded pipeline? How quickly would the flood of AI-driven discovery overwhelm triage capabilities? How long would it take adversaries to weaponize Mythos findings at scale? Those questions were and remain valid. Yet they all stop short of",
-      "published": "Mon, 20 Jul 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
-      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
-      "summary": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. The overflow lets an attacker \"execute code in the context of the current process,\" per the",
-      "published": "Mon, 20 Jul 2026 14:40:56 +0530",
-      "value_score": 61,
+      "source": "BleepingComputer",
+      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
+      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
+      "published": "Tue, 21 Jul 2026 06:12:24 -0400",
+      "value_score": 95,
       "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Patch/update"
+        "Ransomware ×2",
+        "Auth bypass",
+        "Breach/leak",
+        "High severity ×2",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
-      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
-      "summary": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
-      "published": "Mon, 20 Jul 2026 14:37:11 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Microsoft shares manual fix for WSUS sync delays and timeouts",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/",
+      "summary": "Microsoft has shared manual mitigations to help IT administrators fix Windows Server Update Services (WSUS) servers affected by a known issue that causes Windows Update scans to fail or time out. [...]",
+      "published": "Tue, 21 Jul 2026 05:05:50 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Botnet ×2"
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
+      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
+      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
+      "published": "Tue, 21 Jul 2026 04:06:26 -0400",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
       ]
     },
     {
@@ -202,33 +246,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New HollowGraph malware uses Microsoft Graph for stealthy C2 comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/",
-      "summary": "A malicious component dubbed HollowGraph uses the calendar feature in compromised Microsoft 365 mailboxes as a command-and-control channel to receive attacker commands and exfiltrate stolen data. [...]",
-      "published": "Mon, 20 Jul 2026 13:43:01 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "An AI SOC Evaluation Guide for Security Leaders",
-      "link": "https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/",
-      "summary": "Choosing an AI SOC platform requires understanding how it will perform in your own environment, not just during an evaluation. Prophet Security shares a practical framework for assessing AI SOC solutions, including how to validate accuracy, operating models, long-term reliability, and production readiness. [...]",
-      "published": "Mon, 20 Jul 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hugging Face warns an autonomous AI agent hacked its network",
-      "link": "https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/",
-      "summary": "The Hugging Face artificial intelligence repository disclosed that attackers gained access to internal datasets and credentials after breaching its production infrastructure using an autonomous AI agent system. [...]",
-      "published": "Mon, 20 Jul 2026 07:56:28 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -343,6 +360,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
+      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
+      "published": "Mon, 20 Jul 2026 19:32:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISOs Feel the Heat Over AI Risk",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
       "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
@@ -394,13 +420,49 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap",
-      "summary": "The White House launched Gold Eagle to coordinate vulnerability response in a new AI world, but multiple questions linger over how it's being implemented.",
-      "published": "Fri, 17 Jul 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
+      "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
+      "summary": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek .",
+      "published": "Tue, 21 Jul 2026 10:19:21 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Clover Health Investments Discloses Data Breach",
+      "link": "https://www.securityweek.com/clover-health-investments-discloses-data-breach/",
+      "summary": "Using social engineering, hackers compromised employee accounts with access to personal and health information. The post Clover Health Investments Discloses Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 21 Jul 2026 09:36:51 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Exploitation of ServiceNow Vulnerability Seen Days After Disclosure",
+      "link": "https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/",
+      "summary": "The ServiceNow AI platform vulnerability tracked as CVE-2026-6875 can be exploited for remote code execution. The post Exploitation of ServiceNow Vulnerability Seen Days After Disclosure appeared first on SecurityWeek .",
+      "published": "Tue, 21 Jul 2026 08:41:53 +0000",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Zimbra Update Patches Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/",
+      "summary": "The latest Zimbra refresh resolves command injection, XSS, restriction bypass, and SSRF security defects. The post Zimbra Update Patches Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 21 Jul 2026 08:20:08 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -440,46 +502,6 @@
       "link": "https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/",
       "summary": "Longtime cybersecurity executive Richard Bird built the resource for security experts, journalists, policymakers, and everyday citizens. The post New Index Tracks Material Breaches — And Refuses to Add Up the Losses appeared first on SecurityWeek .",
       "published": "Mon, 20 Jul 2026 11:46:50 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ernst & Young Data Breach Affects Personal, Financial Information",
-      "link": "https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/",
-      "summary": "Hackers stole names, addresses, Social Security numbers, credit/debit card numbers, and other information from a third-party management platform. The post Ernst & Young Data Breach Affects Personal, Financial Information appeared first on SecurityWeek .",
-      "published": "Mon, 20 Jul 2026 11:27:38 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Watch on Demand: Cloud & Data Security Summit",
-      "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
-      "summary": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Watch on Demand: Cloud & Data Security Summit appeared first on SecurityWeek .",
-      "published": "Mon, 20 Jul 2026 10:31:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
-      "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
-      "summary": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations. The post Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool appeared first on SecurityWeek .",
-      "published": "Mon, 20 Jul 2026 10:25:07 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hugging Face Hacked in Autonomous AI Attack",
-      "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
-      "summary": "Targeting production infrastructure, the attack compromised internal datasets and service credentials. The post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek .",
-      "published": "Mon, 20 Jul 2026 09:36:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

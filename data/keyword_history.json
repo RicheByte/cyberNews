@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2162,
+      "count": 2163,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1141,7 +1141,7 @@
       ]
     },
     "national security risk": {
-      "count": 278,
+      "count": 279,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3783,7 +3783,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 255,
+      "count": 256,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -3833,7 +3833,8 @@
         "2026-07-13",
         "2026-07-14",
         "2026-07-15",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-21"
       ]
     },
     "bugs fixed today": {
@@ -10589,7 +10590,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -20719,7 +20720,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23434,12 +23435,13 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-21"
       ]
     },
     "shodan harvester keeps": {
@@ -23546,7 +23548,7 @@
       ]
     },
     "real ai threat": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23629,14 +23631,14 @@
       ]
     },
     "calendar events dated": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "year's event calendar": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23650,14 +23652,14 @@
       ]
     },
     "malware family known": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "encrypting ai assets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23678,7 +23680,7 @@
       ]
     },
     "install custom malware": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23704,20 +23706,57 @@
         "2026-07-20",
         "2026-07-21"
       ]
+    },
+    "sandbox escape vulnerability": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "security researcher discovered": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "spotted deploying encforge": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "top security executives": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "ssrf security defects": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "enormous security demands": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "disabled security tools": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "wsus sync delays": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 02:07",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "zimbra urges customers",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "stealing seized crypto"
-      ]
-    },
     {
       "timestamp": "2026-07-11 06:08",
       "articles": 48,
@@ -24805,6 +24844,17 @@
         "encrypting ai assets",
         "cybercrime group known",
         "hugging face warns"
+      ]
+    },
+    {
+      "timestamp": "2026-07-21 10:20",
+      "articles": 48,
+      "top_keywords": [
+        "real ai threat",
+        "sandbox escape vulnerability",
+        "threat actor tracked",
+        "calendar events dated",
+        "encrypting ai assets"
       ]
     }
   ]

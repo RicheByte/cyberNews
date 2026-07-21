@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-21 06:23 UTC  
+> **Last Updated:** 2026-07-21 10:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hugging face hacked** • **real ai threat** • **encrypting ai assets** • **cybercrime group known** • **hugging face warns** • **cve 2026 63030** • **cve 2026 15410** • **vulnerable vpn appliances** • **twitter whistleblower complaint** • **stealthy c2 comms** • **national security risk** • **calendar events dated** • **malware family known** • **install custom malware** • **threat actor tracked** • **april 21 2026** • **jadepuffer agentic attacks** • **malware operator left** • **year's event calendar** • **wp2shell opens millions**
+**real ai threat** • **sandbox escape vulnerability** • **threat actor tracked** • **calendar events dated** • **encrypting ai assets** • **security researcher discovered** • **national security risk** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **spotted deploying encforge** • **dire critical rating** • **install custom malware** • **cybercrime group known** • **year's event calendar** • **top security executives** • **ssrf security defects** • **enormous security demands** • **disabled security tools** • **malware family known** • **wsus sync delays**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
+- [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
+- [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
 - [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
 - [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
 - [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
 - [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
 - [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
-- [Mythos Didn't Break Your Security Program. Your Exposure Window Could.](https://thehackernews.com/2026/07/mythos-didnt-break-your-security.html)
-- [New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction](https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html)
-- [Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs](https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html)
 
 ### BleepingComputer
 
+- [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
+- [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
+- [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
 - [Estée Lauder discloses data breach via Oracle E-Business flaw](https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/)
 - [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
 - [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
 - [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
 - [JadePuffer agentic attacks now target AI model data with ransomware](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/)
-- [New HollowGraph malware uses Microsoft Graph for stealthy C2 comms](https://www.bleepingcomputer.com/news/security/new-hollowgraph-malware-uses-microsoft-graph-for-stealthy-c2-comms/)
-- [An AI SOC Evaluation Guide for Security Leaders](https://www.bleepingcomputer.com/news/security/an-ai-soc-evaluation-guide-for-security-leaders/)
-- [Hugging Face warns an autonomous AI agent hacked its network](https://www.bleepingcomputer.com/news/security/hugging-face-breach-autonomous-ai-agent-system-internal-datasets-credentials/)
 
 ### Krebs on Security
 
@@ -51,23 +51,23 @@
 
 - ['WP2Shell' Opens Millions of WordPress Sites to Remote Takeover](https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover)
 - [Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push](https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation)
+- [25 Years After Code Red: What the Worm Era Can Teach Us About AI Security](https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2)
 - [CISOs Feel the Heat Over AI Risk](https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk)
 - [Attackers Combo Up Evasion Tactics for BEC Phishing](https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing)
 - [Cybersecurity Keeps Events 'Uneventful'](https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful)
 - [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days)
 - [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust)
-- [Gold Eagle Clearinghouse Targets Security Gap, But How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap)
 
 ### Security Week
 
+- [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
+- [Clover Health Investments Discloses Data Breach](https://www.securityweek.com/clover-health-investments-discloses-data-breach/)
+- [Exploitation of ServiceNow Vulnerability Seen Days After Disclosure](https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/)
+- [Zimbra Update Patches Critical Vulnerabilities](https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/)
 - [Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software](https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/)
 - [SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch](https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/)
 - [OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability](https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/)
 - [New Index Tracks Material Breaches — And Refuses to Add Up the Losses](https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/)
-- [Ernst & Young Data Breach Affects Personal, Financial Information](https://www.securityweek.com/ernst-young-data-breach-affects-personal-financial-information/)
-- [Watch on Demand: Cloud & Data Security Summit](https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/)
-- [Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool](https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/)
-- [Hugging Face Hacked in Autonomous AI Attack](https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/)
 
 ### Threatpost
 

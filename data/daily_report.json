@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21 21:01",
+  "last_updated": "2026-07-21 22:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,60 +10,60 @@
     "investigated multiple intrusions",
     "cybercrime group known",
     "average per codebase",
+    "14 million downloads",
     "patch tuesday update",
     "actual risk depends",
     "national security risk",
-    "year's event calendar",
     "wsus sync delays",
     "wp2shell opens millions",
     "unmasked effectively undermining",
+    "sprawling phishing campaign",
     "shown surprising effectiveness",
     "shared manual mitigations",
     "maintain access even",
-    "low detection rates",
     "install malicious plugins",
     "hit every system"
   ],
   "trending": [
     {
       "keyword": "larger ai models",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "industrial cybersecurity winners",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "steal machine keys",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2168
+      "mentions": 2169
     },
     {
       "keyword": "investigated multiple intrusions",
-      "mentions": 4
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 244
-    },
-    {
-      "keyword": "average per codebase",
-      "mentions": 4
-    },
-    {
-      "keyword": "patch tuesday update",
-      "mentions": 4
-    },
-    {
-      "keyword": "actual risk depends",
       "mentions": 5
     },
     {
-      "keyword": "national security risk",
-      "mentions": 284
+      "keyword": "cybercrime group known",
+      "mentions": 245
+    },
+    {
+      "keyword": "average per codebase",
+      "mentions": 5
+    },
+    {
+      "keyword": "14 million downloads",
+      "mentions": 1
+    },
+    {
+      "keyword": "patch tuesday update",
+      "mentions": 5
+    },
+    {
+      "keyword": "actual risk depends",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -164,6 +164,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
+      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
+      "published": "Tue, 21 Jul 2026 18:34:17 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
       "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
       "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
@@ -246,17 +255,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows LegacyHive zero-day flaw gets free, unofficial patches",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/",
-      "summary": "Free unofficial patches are available for a recently disclosed Windows zero-day flaw that allows attackers to escalate privileges on up-to-date Windows systems. [...]",
-      "published": "Tue, 21 Jul 2026 04:06:26 -0400",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
       ]
     },
     {
@@ -350,6 +348,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
+      "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+      "published": "Tue, 21 Jul 2026 21:48:05 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task",
+      "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
+      "summary": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
+      "published": "Tue, 21 Jul 2026 21:27:37 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
       "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
       "summary": "A Russian-speaking actor, \"Trim,\" dismantled publicly available frontier models and integrated them with offensive security tools.",
@@ -403,26 +421,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
       "summary": "Job pressures have increased as companies run headlong into AI adoption, causing 26% of top security executives to consider leaving their position.",
       "published": "Mon, 20 Jul 2026 19:07:01 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Combo Up Evasion Tactics for BEC Phishing",
-      "link": "https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing",
-      "summary": "\"The TFF Trap\" uses fileless techniques and loaders with low detection rates to deploy various RATs and stealers, including Agent Tesla, Remcos, XWorm, and Best Private Logger.",
-      "published": "Mon, 20 Jul 2026 18:30:22 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cybersecurity Keeps Events 'Uneventful'",
-      "link": "https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful",
-      "summary": "From the World Cup to the United States' 250th celebration, this year's event calendar has been packed with high-profile gatherings that drew global audiences, intense scrutiny, and enormous security demands.",
-      "published": "Mon, 20 Jul 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

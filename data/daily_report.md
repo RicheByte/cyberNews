@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-21 21:01 UTC  
+> **Last Updated:** 2026-07-21 22:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**larger ai models** • **industrial cybersecurity winners** • **steal machine keys** • **twitter whistleblower complaint** • **investigated multiple intrusions** • **cybercrime group known** • **average per codebase** • **patch tuesday update** • **actual risk depends** • **national security risk** • **year's event calendar** • **wsus sync delays** • **wp2shell opens millions** • **unmasked effectively undermining** • **shown surprising effectiveness** • **shared manual mitigations** • **maintain access even** • **low detection rates** • **install malicious plugins** • **hit every system**
+**larger ai models** • **industrial cybersecurity winners** • **steal machine keys** • **twitter whistleblower complaint** • **investigated multiple intrusions** • **cybercrime group known** • **average per codebase** • **14 million downloads** • **patch tuesday update** • **actual risk depends** • **national security risk** • **wsus sync delays** • **wp2shell opens millions** • **unmasked effectively undermining** • **sprawling phishing campaign** • **shown surprising effectiveness** • **shared manual mitigations** • **maintain access even** • **install malicious plugins** • **hit every system**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware](https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/)
 - [Critical SharePoint RCE flaw exploited to steal machine keys](https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/)
 - [Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak](https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/)
 - [Critical wp2shell WordPress flaws exploited to install webshells](https://www.bleepingcomputer.com/news/security/critical-wp2shell-wordpress-flaws-exploited-to-install-webshells/)
@@ -34,7 +35,6 @@
 - [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
 - [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
 - [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
-- [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Ransomware Is Accelerating, But It's Not Because of AI](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai)
+- [Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task](https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task)
 - [Hacker Turns AI Jailbreaks Into Offensive Attack Platform](https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform)
 - [Choose Wisely: AI-Generated Coding Risk Varies, a Lot](https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies)
 - ['WP2Shell' Opens Millions of WordPress Sites to Remote Takeover](https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover)
 - [Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push](https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation)
 - [25 Years After Code Red: What the Worm Era Can Teach Us About AI Security](https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2)
 - [CISOs Feel the Heat Over AI Risk](https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk)
-- [Attackers Combo Up Evasion Tactics for BEC Phishing](https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing)
-- [Cybersecurity Keeps Events 'Uneventful'](https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful)
 
 ### Security Week
 

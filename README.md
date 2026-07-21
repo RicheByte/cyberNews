@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-21 13:26 UTC |
+| 🕐 Last Updated | 2026-07-21 15:38 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`industrial cybersecurity winners` • `sandbox escape vulnerability` • `vulnerability discoveries aided` • `twitter whistleblower complaint` • `dire critical rating` • `cybercrime group known` • `national security risk` • `ai agent driving` • `actual risk depends` • `top security executives`
+`industrial cybersecurity winners` • `patch tuesday update` • `twitter whistleblower complaint` • `investigated multiple intrusions` • `cybercrime group known` • `average per codebase` • `national security risk` • `actual risk depends` • `top security executives` • `security researcher discovered`
 
 ## 📄 Reports
 

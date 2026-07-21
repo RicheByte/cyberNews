@@ -1,16 +1,15 @@
 {
-  "last_updated": "2026-07-21 13:26",
+  "last_updated": "2026-07-21 15:38",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "industrial cybersecurity winners",
-    "sandbox escape vulnerability",
-    "vulnerability discoveries aided",
+    "patch tuesday update",
     "twitter whistleblower complaint",
-    "dire critical rating",
+    "investigated multiple intrusions",
     "cybercrime group known",
+    "average per codebase",
     "national security risk",
-    "ai agent driving",
     "actual risk depends",
     "top security executives",
     "security researcher discovered",
@@ -18,55 +17,97 @@
     "year's event calendar",
     "wsus sync delays",
     "vulnerable vpn appliances",
+    "vulnerability discoveries aided",
     "spotted deploying encforge",
     "shown surprising effectiveness",
-    "real life identity",
-    "public github repository",
-    "nearly three dozen"
+    "shared manual mitigations",
+    "nearly three dozen",
+    "low detection rates"
   ],
   "trending": [
     {
       "keyword": "industrial cybersecurity winners",
-      "mentions": 1
-    },
-    {
-      "keyword": "sandbox escape vulnerability",
       "mentions": 2
     },
     {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 34
+      "keyword": "patch tuesday update",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2164
+      "mentions": 2165
     },
     {
-      "keyword": "dire critical rating",
-      "mentions": 257
+      "keyword": "investigated multiple intrusions",
+      "mentions": 1
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 240
+      "mentions": 241
+    },
+    {
+      "keyword": "average per codebase",
+      "mentions": 1
     },
     {
       "keyword": "national security risk",
-      "mentions": 280
-    },
-    {
-      "keyword": "ai agent driving",
-      "mentions": 1
+      "mentions": 281
     },
     {
       "keyword": "actual risk depends",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "top security executives",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "security researcher discovered",
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical SharePoint RCE CVE-2026-50522 Under Active Exploitation After Public PoC",
+      "link": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "summary": "A third SharePoint Server flaw patched by Microsoft as part of its Patch Tuesday update for July 2026 has come under active exploitation, per watchTowr. The vulnerability in question is CVE-2026-50522 (CVSS score: 9.8), a critical deserialization of untrusted data in Microsoft Office SharePoint that could allow an unauthorized attacker to execute code over a network. Microsoft credited DEVCORE",
+      "published": "Tue, 21 Jul 2026 20:27:51 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "RCE",
+        "PoC available",
+        "Patch/update ×2",
+        "High severity ×2",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
+      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
+      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
+      "published": "Tue, 21 Jul 2026 19:34:57 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Ransomware ×2",
+        "Auth bypass ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
+      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
+      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled. Also patched",
+      "published": "Tue, 21 Jul 2026 18:48:31 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
@@ -127,36 +168,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html",
-      "summary": "Threat actors are now exploiting a recently disclosed critical security flaw impacting ServiceNow AI Platform, according to Defused Cyber. In a post shared on X, the threat intelligence firm said it's observing in-the-wild exploitation of CVE-2026-6875 (CVSS score: 9.5), a sandbox escape vulnerability that could allow an unauthenticated user to run arbitrary code. Patches for the flaw were",
-      "published": "Tue, 21 Jul 2026 11:59:26 +0530",
-      "value_score": 50,
+      "source": "BleepingComputer",
+      "title": "Closing the Identity Gaps in Critical Infrastructure Security",
+      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gaps-in-critical-infrastructure-security/",
+      "summary": "Critical infrastructure attacks often begin with stolen credentials, compromised devices, or trusted accounts. Specops Software explains why Zero Trust should verify both user identities and device trust before granting access to critical systems. [...]",
+      "published": "Tue, 21 Jul 2026 10:00:10 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware",
-      "link": "https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html",
-      "summary": "Cybersecurity researchers have discovered nearly 7,600 malicious GitHub repositories, out of which more than 800 pose as artificial intelligence (AI) skills or Model Context Protocol (MCP) servers to deliver a malware family known as SmartLoader as part of an ongoing campaign codenamed FakeGit. \"FakeGit uses copied projects, lookalike developer profiles, convincing READMEs, and malicious ZIP",
-      "published": "Mon, 20 Jul 2026 23:53:03 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "summary": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV. What makes it more than a",
-      "published": "Mon, 20 Jul 2026 22:59:50 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
+        "High severity ×3"
       ]
     },
     {
@@ -235,15 +254,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/",
       "summary": "The Ostium trading platform announced that an attacker stole $23.75 million from its liquidity provider vault last week, after compromising off-chain infrastructure used to feed prices into the protocol. [...]",
       "published": "Mon, 20 Jul 2026 18:22:56 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
-      "summary": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
-      "published": "Mon, 20 Jul 2026 17:14:42 -0400",
       "value_score": 10,
       "value_signals": []
     },

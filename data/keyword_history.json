@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2164,
+      "count": 2165,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1142,7 +1142,7 @@
       ]
     },
     "national security risk": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -19339,7 +19339,7 @@
       ]
     },
     "nearly three dozen": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -20723,7 +20723,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 240,
+      "count": 241,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23438,7 +23438,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23641,7 +23641,7 @@
       ]
     },
     "year's event calendar": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23676,7 +23676,7 @@
       ]
     },
     "vulnerable vpn appliances": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23717,19 +23717,19 @@
       ]
     },
     "security researcher discovered": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
     },
     "spotted deploying encforge": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
     },
     "top security executives": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
@@ -23741,7 +23741,7 @@
       ]
     },
     "enormous security demands": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
@@ -23753,13 +23753,13 @@
       ]
     },
     "wsus sync delays": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
     },
     "industrial cybersecurity winners": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
@@ -23771,12 +23771,42 @@
       ]
     },
     "actual risk depends": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "shown surprising effectiveness": {
+      "count": 2,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "patch tuesday update": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "investigated multiple intrusions": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "average per codebase": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "shared manual mitigations": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "low detection rates": {
       "count": 1,
       "dates": [
         "2026-07-21"
@@ -23784,17 +23814,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 09:22",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "stealing seized crypto"
-      ]
-    },
     {
       "timestamp": "2026-07-11 10:58",
       "articles": 48,
@@ -24882,6 +24901,17 @@
         "vulnerability discoveries aided",
         "twitter whistleblower complaint",
         "dire critical rating"
+      ]
+    },
+    {
+      "timestamp": "2026-07-21 15:38",
+      "articles": 48,
+      "top_keywords": [
+        "industrial cybersecurity winners",
+        "patch tuesday update",
+        "twitter whistleblower complaint",
+        "investigated multiple intrusions",
+        "cybercrime group known"
       ]
     }
   ]

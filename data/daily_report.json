@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-21 19:11",
+  "last_updated": "2026-07-21 21:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "larger ai models",
     "industrial cybersecurity winners",
+    "steal machine keys",
     "twitter whistleblower complaint",
     "investigated multiple intrusions",
     "cybercrime group known",
     "average per codebase",
-    "national security risk",
-    "actual risk depends",
     "patch tuesday update",
-    "top security executives",
-    "security researcher discovered",
-    "offensive security tools",
-    "kodem security found",
-    "enormous security demands",
+    "actual risk depends",
+    "national security risk",
     "year's event calendar",
     "wsus sync delays",
     "wp2shell opens millions",
+    "unmasked effectively undermining",
     "shown surprising effectiveness",
     "shared manual mitigations",
-    "nearly three dozen"
+    "maintain access even",
+    "low detection rates",
+    "install malicious plugins",
+    "hit every system"
   ],
   "trending": [
     {
       "keyword": "larger ai models",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "industrial cybersecurity winners",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "steal machine keys",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2167
+      "mentions": 2168
     },
     {
       "keyword": "investigated multiple intrusions",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 243
+      "mentions": 244
     },
     {
       "keyword": "average per codebase",
-      "mentions": 3
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 283
-    },
-    {
-      "keyword": "actual risk depends",
       "mentions": 4
     },
     {
       "keyword": "patch tuesday update",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "top security executives",
+      "keyword": "actual risk depends",
       "mentions": 5
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 284
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
+      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
+      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts. Hide My Email",
+      "published": "Wed, 22 Jul 2026 00:16:32 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
@@ -152,13 +163,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit",
-      "link": "https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html",
-      "summary": "A cloud tenant using nothing but ordinary GPU access can push a data center's power draw up and down fast enough to threaten the grid it runs on, with no exploit and no break-in. That is the claim behind Bit2Watt, described by three Zhejiang University researchers in a paper accepted to CHES 2026, the IACR's hardware-security conference, and the evidence splits in two: they measured the power",
-      "published": "Tue, 21 Jul 2026 16:54:50 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
+      "summary": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
+      "published": "Tue, 21 Jul 2026 16:06:55 -0400",
+      "value_score": 70,
       "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity ×2",
         "Exploit wording"
       ]
     },
@@ -243,18 +257,6 @@
       "value_score": 60,
       "value_signals": [
         "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Estée Lauder discloses data breach via Oracle E-Business flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/est-e-lauder-discloses-data-breach-via-oracle-e-business-flaw/",
-      "summary": "Cosmetics giant Estée Lauder is notifying customers of a data breach after hackers exploited a flaw in Oracle E-Business Suite that the company used for human resources (HR) operations. [...]",
-      "published": "Mon, 20 Jul 2026 18:39:30 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Exploit wording"
       ]
     },
     {

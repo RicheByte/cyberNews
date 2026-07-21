@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2167,
+      "count": 2168,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1142,7 +1142,7 @@
       ]
     },
     "national security risk": {
-      "count": 283,
+      "count": 284,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -20723,7 +20723,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 243,
+      "count": 244,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23641,7 +23641,7 @@
       ]
     },
     "year's event calendar": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23704,7 +23704,7 @@
       ]
     },
     "wp2shell opens millions": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23753,13 +23753,13 @@
       ]
     },
     "wsus sync delays": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-21"
       ]
     },
     "industrial cybersecurity winners": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21"
       ]
@@ -23771,43 +23771,43 @@
       ]
     },
     "actual risk depends": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21"
       ]
     },
     "shown surprising effectiveness": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21"
       ]
     },
     "patch tuesday update": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
     },
     "investigated multiple intrusions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
     },
     "average per codebase": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
     },
     "shared manual mitigations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
     },
     "low detection rates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
@@ -23819,7 +23819,7 @@
       ]
     },
     "larger ai models": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
@@ -23829,20 +23829,39 @@
       "dates": [
         "2026-07-21"
       ]
+    },
+    "steal machine keys": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "unmasked effectively undermining": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "maintain access even": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "install malicious plugins": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "hit every system": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 14:47",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "stealing seized crypto"
-      ]
-    },
     {
       "timestamp": "2026-07-11 16:50",
       "articles": 48,
@@ -24930,6 +24949,17 @@
         "twitter whistleblower complaint",
         "investigated multiple intrusions",
         "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-21 21:01",
+      "articles": 48,
+      "top_keywords": [
+        "larger ai models",
+        "industrial cybersecurity winners",
+        "steal machine keys",
+        "twitter whistleblower complaint",
+        "investigated multiple intrusions"
       ]
     }
   ]

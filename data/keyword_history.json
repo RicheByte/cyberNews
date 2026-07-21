@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2161,
+      "count": 2162,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1141,7 +1141,7 @@
       ]
     },
     "national security risk": {
-      "count": 277,
+      "count": 278,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -10589,7 +10589,7 @@
       ]
     },
     "threat actor tracked": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-13",
         "2026-03-14",
@@ -20719,7 +20719,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 237,
+      "count": 238,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23546,14 +23546,14 @@
       ]
     },
     "real ai threat": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "hugging face hacked": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23608,98 +23608,98 @@
       ]
     },
     "april 21 2026": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "hugging face warns": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "cve 2026 15410": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "calendar events dated": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "year's event calendar": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "stealthy c2 comms": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "malware family known": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "encrypting ai assets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "cve 2026 63030": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "vulnerable vpn appliances": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "install custom malware": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "jadepuffer agentic attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "malware operator left": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
       ]
     },
     "wp2shell opens millions": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23707,17 +23707,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-10 22:55",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "zimbra urges customers",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "stealing seized crypto"
-      ]
-    },
     {
       "timestamp": "2026-07-11 02:07",
       "articles": 48,
@@ -24798,6 +24787,17 @@
     },
     {
       "timestamp": "2026-07-21 02:08",
+      "articles": 48,
+      "top_keywords": [
+        "hugging face hacked",
+        "real ai threat",
+        "encrypting ai assets",
+        "cybercrime group known",
+        "hugging face warns"
+      ]
+    },
+    {
+      "timestamp": "2026-07-21 06:23",
       "articles": 48,
       "top_keywords": [
         "hugging face hacked",

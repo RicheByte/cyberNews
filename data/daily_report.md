@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-21 10:20 UTC  
+> **Last Updated:** 2026-07-21 13:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**real ai threat** • **sandbox escape vulnerability** • **threat actor tracked** • **calendar events dated** • **encrypting ai assets** • **security researcher discovered** • **national security risk** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **spotted deploying encforge** • **dire critical rating** • **install custom malware** • **cybercrime group known** • **year's event calendar** • **top security executives** • **ssrf security defects** • **enormous security demands** • **disabled security tools** • **malware family known** • **wsus sync delays**
+**industrial cybersecurity winners** • **sandbox escape vulnerability** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **dire critical rating** • **cybercrime group known** • **national security risk** • **ai agent driving** • **actual risk depends** • **top security executives** • **security researcher discovered** • **enormous security demands** • **year's event calendar** • **wsus sync delays** • **vulnerable vpn appliances** • **spotted deploying encforge** • **shown surprising effectiveness** • **real life identity** • **public github repository** • **nearly three dozen**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs](https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html)
+- [N-day is Becoming N-Hour. Patching Faster Won't Save You.](https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html)
+- [New Bit2Watt Attack Could Let Cloud Tenants Disrupt Power Grids Without an Exploit](https://thehackernews.com/2026/07/new-bit2watt-attack-could-let-cloud.html)
 - [WordPress wp2shell Exploitation Grows as Public Exploit Fuels Mass Scanning](https://thehackernews.com/2026/07/wordpress-wp2shell-exploitation-grows.html)
 - [New ENCFORGE Ransomware Targets AI Model Files in Langflow RCE Attack](https://thehackernews.com/2026/07/new-encforge-ransomware-targets-ai.html)
 - [Critical ServiceNow AI Platform Flaw Exploited for Unauthenticated Code Execution](https://thehackernews.com/2026/07/critical-servicenow-ai-platform-flaw.html)
 - [FakeGit Campaign Uses 7,600 GitHub Repositories to Spread SmartLoader Malware](https://thehackernews.com/2026/07/fakegit-campaign-uses-7600-github.html)
 - [Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign](https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html)
-- [HollowGraph Malware Hides C2 and Stolen Files in Microsoft 365 Events Dated 2050](https://thehackernews.com/2026/07/hollowgraph-malware-hides-c2-and-stolen.html)
-- [⚡ Weekly Recap: WordPress RCE, SonicWall 0-Days, AI Service Attacks, SharePoint 0-Day and More](https://thehackernews.com/2026/07/weekly-recap-wordpress-rce-sonicwall-0.html)
-- [Russian Intelligence Hacks IP Cameras to Spy on Military Logistics Across NATO States and Ukraine](https://thehackernews.com/2026/07/russian-intelligence-hacks-ip-cameras.html)
 
 ### BleepingComputer
 
+- [US seizes over 1,000 websites in FIFA World Cup piracy crackdown](https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/)
 - [Critical Palo Alto VPN bug now exploited by Qilin ransomware gang](https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/)
 - [Microsoft shares manual fix for WSUS sync delays and timeouts](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-manual-fix-for-wsus-sync-delays-and-timeouts/)
 - [Windows LegacyHive zero-day flaw gets free, unofficial patches](https://www.bleepingcomputer.com/news/security/windows-legacyhive-zero-day-flaw-gets-free-unofficial-patches/)
@@ -34,7 +35,6 @@
 - [SonicWall SMA1000 flaws exploited as zero-days to push custom malware](https://www.bleepingcomputer.com/news/security/sonicwall-sma1000-flaws-exploited-as-zero-days-to-push-custom-malware/)
 - [Hackers steal $23.7 million in crypto from Ostium in off-chain attack](https://www.bleepingcomputer.com/news/security/hackers-steal-237-million-in-crypto-from-ostium-in-off-chain-attack/)
 - [Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes](https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/)
-- [JadePuffer agentic attacks now target AI model data with ransomware](https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Choose Wisely: AI-Generated Coding Risk Varies, A Lot](https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies)
 - ['WP2Shell' Opens Millions of WordPress Sites to Remote Takeover](https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover)
 - [Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push](https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation)
 - [25 Years After Code Red: What the Worm Era Can Teach Us About AI Security](https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2)
@@ -56,18 +57,17 @@
 - [Attackers Combo Up Evasion Tactics for BEC Phishing](https://www.darkreading.com/endpoint-security/attackers-combo-evasion-tactics-bec-phishing)
 - [Cybersecurity Keeps Events 'Uneventful'](https://www.darkreading.com/cyber-risk/cybersecurity-keeps-events-uneventful)
 - [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days)
-- [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust)
 
 ### Security Week
 
+- [Empirical Security Raises $25 Million in Series A Funding](https://www.securityweek.com/empirical-security-raises-25-million-in-series-a-funding/)
+- [SecurityWeek Launches Critical Impact Awards to Recognize Excellence in Industrial Cybersecurity](https://www.securityweek.com/securityweek-launches-critical-impact-awards-to-recognize-excellence-in-industrial-cybersecurity/)
+- [New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication](https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/)
+- [CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG](https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/)
+- [Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack](https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/)
 - [Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data](https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/)
 - [Clover Health Investments Discloses Data Breach](https://www.securityweek.com/clover-health-investments-discloses-data-breach/)
 - [Exploitation of ServiceNow Vulnerability Seen Days After Disclosure](https://www.securityweek.com/exploitation-of-servicenow-vulnerability-seen-days-after-disclosure/)
-- [Zimbra Update Patches Critical Vulnerabilities](https://www.securityweek.com/zimbra-update-patches-critical-vulnerabilities/)
-- [Neo Emerges From Stealth With $100M to Control and Secure Enterprise AI Software](https://www.securityweek.com/neo-emerges-from-stealth-with-100m-to-control-and-secure-enterprise-ai-software/)
-- [SonicWall Zero-Days Exploited to Deliver Custom Malware for Weeks Before Patch](https://www.securityweek.com/sonicwall-zero-days-exploited-to-deliver-custom-malware-for-weeks-before-patch/)
-- [OpenSSL Silently Fixes ‘HollowByte’ DoS Vulnerability](https://www.securityweek.com/openssl-silently-fixes-hollowbyte-dos-vulnerability/)
-- [New Index Tracks Material Breaches — And Refuses to Add Up the Losses](https://www.securityweek.com/new-index-tracks-material-breaches-and-refuses-to-add-up-the-losses/)
 
 ### Threatpost
 

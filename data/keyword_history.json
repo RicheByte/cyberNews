@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2163,
+      "count": 2164,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -560,7 +560,7 @@
       ]
     },
     "real life identity": {
-      "count": 233,
+      "count": 234,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -598,7 +598,8 @@
         "2026-07-14",
         "2026-07-15",
         "2026-07-16",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-21"
       ]
     },
     "got1000 series devices": {
@@ -1141,7 +1142,7 @@
       ]
     },
     "national security risk": {
-      "count": 279,
+      "count": 280,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3783,7 +3784,7 @@
       ]
     },
     "dire critical rating": {
-      "count": 256,
+      "count": 257,
       "dates": [
         "2026-01-14",
         "2026-01-17",
@@ -19338,14 +19339,15 @@
       ]
     },
     "nearly three dozen": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-09",
         "2026-06-10",
         "2026-06-15",
         "2026-06-16",
         "2026-06-17",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-07-21"
       ]
     },
     "claude fable 5": {
@@ -20167,12 +20169,13 @@
       ]
     },
     "public github repository": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-17",
         "2026-06-18",
         "2026-07-13",
-        "2026-07-14"
+        "2026-07-14",
+        "2026-07-21"
       ]
     },
     "tech giant describing": {
@@ -20720,7 +20723,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 239,
+      "count": 240,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23435,7 +23438,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23638,7 +23641,7 @@
       ]
     },
     "year's event calendar": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23673,7 +23676,7 @@
       ]
     },
     "vulnerable vpn appliances": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23708,25 +23711,25 @@
       ]
     },
     "sandbox escape vulnerability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "security researcher discovered": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "spotted deploying encforge": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "top security executives": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
@@ -23738,7 +23741,7 @@
       ]
     },
     "enormous security demands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
@@ -23750,6 +23753,30 @@
       ]
     },
     "wsus sync delays": {
+      "count": 2,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "industrial cybersecurity winners": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "ai agent driving": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "actual risk depends": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
+    },
+    "shown surprising effectiveness": {
       "count": 1,
       "dates": [
         "2026-07-21"
@@ -23757,17 +23784,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 06:08",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "zimbra urges customers",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "stealing seized crypto"
-      ]
-    },
     {
       "timestamp": "2026-07-11 09:22",
       "articles": 48,
@@ -24855,6 +24871,17 @@
         "threat actor tracked",
         "calendar events dated",
         "encrypting ai assets"
+      ]
+    },
+    {
+      "timestamp": "2026-07-21 13:26",
+      "articles": 48,
+      "top_keywords": [
+        "industrial cybersecurity winners",
+        "sandbox escape vulnerability",
+        "vulnerability discoveries aided",
+        "twitter whistleblower complaint",
+        "dire critical rating"
       ]
     }
   ]

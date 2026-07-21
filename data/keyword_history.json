@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2165,
+      "count": 2166,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1142,7 +1142,7 @@
       ]
     },
     "national security risk": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -19339,7 +19339,7 @@
       ]
     },
     "nearly three dozen": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-09",
         "2026-06-10",
@@ -20723,7 +20723,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 241,
+      "count": 242,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23438,7 +23438,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23641,7 +23641,7 @@
       ]
     },
     "year's event calendar": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23676,7 +23676,7 @@
       ]
     },
     "vulnerable vpn appliances": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23704,7 +23704,7 @@
       ]
     },
     "wp2shell opens millions": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20",
         "2026-07-21"
@@ -23717,7 +23717,7 @@
       ]
     },
     "security researcher discovered": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
@@ -23729,7 +23729,7 @@
       ]
     },
     "top security executives": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
@@ -23741,7 +23741,7 @@
       ]
     },
     "enormous security demands": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
@@ -23753,13 +23753,13 @@
       ]
     },
     "wsus sync delays": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21"
       ]
     },
     "industrial cybersecurity winners": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
@@ -23771,37 +23771,37 @@
       ]
     },
     "actual risk depends": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
     },
     "shown surprising effectiveness": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21"
       ]
     },
     "patch tuesday update": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "investigated multiple intrusions": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "average per codebase": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
     },
     "shared manual mitigations": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-21"
       ]
@@ -23811,20 +23811,15 @@
       "dates": [
         "2026-07-21"
       ]
+    },
+    "kodem security found": {
+      "count": 1,
+      "dates": [
+        "2026-07-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 10:58",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "stealing seized crypto"
-      ]
-    },
     {
       "timestamp": "2026-07-11 13:06",
       "articles": 48,
@@ -24909,6 +24904,17 @@
       "top_keywords": [
         "industrial cybersecurity winners",
         "patch tuesday update",
+        "twitter whistleblower complaint",
+        "investigated multiple intrusions",
+        "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-21 17:10",
+      "articles": 48,
+      "top_keywords": [
+        "industrial cybersecurity winners",
+        "vulnerable vpn appliances",
         "twitter whistleblower complaint",
         "investigated multiple intrusions",
         "cybercrime group known"

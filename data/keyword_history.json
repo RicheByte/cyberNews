@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2170,
+      "count": 2171,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1070,7 +1070,7 @@
       ]
     },
     "specops software explains": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-19",
         "2026-02-23",
@@ -1144,7 +1144,7 @@
       ]
     },
     "national security risk": {
-      "count": 286,
+      "count": 287,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -11825,10 +11825,11 @@
       ]
     },
     "ai coding agent": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-03-25",
-        "2026-07-09"
+        "2026-07-09",
+        "2026-07-22"
       ]
     },
     "comprehensive data theft": {
@@ -20727,7 +20728,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 246,
+      "count": 247,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23020,7 +23021,7 @@
       ]
     },
     "software almost triple": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23710,7 +23711,7 @@
       ]
     },
     "wp2shell opens millions": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-20",
         "2026-07-21",
@@ -23766,7 +23767,7 @@
       ]
     },
     "industrial cybersecurity winners": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23779,7 +23780,7 @@
       ]
     },
     "actual risk depends": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23799,14 +23800,14 @@
       ]
     },
     "investigated multiple intrusions": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-21",
         "2026-07-22"
       ]
     },
     "average per codebase": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23831,7 +23832,7 @@
       ]
     },
     "larger ai models": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23844,14 +23845,14 @@
       ]
     },
     "steal machine keys": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21",
         "2026-07-22"
       ]
     },
     "unmasked effectively undermining": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23878,20 +23879,20 @@
       ]
     },
     "14 million downloads": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-21",
         "2026-07-22"
       ]
     },
     "residential proxy node": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "ban residential proxies": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
@@ -23901,20 +23902,27 @@
       "dates": [
         "2026-07-22"
       ]
+    },
+    "reduced cyber refusals": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "newtonsoft json library": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "ai researchers pointed": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 20:41",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "system level sabotage",
-        "user including administrators",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-11 22:41",
       "articles": 48,
@@ -25000,6 +25008,17 @@
         "larger ai models",
         "industrial cybersecurity winners",
         "steal machine keys",
+        "residential proxy node",
+        "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-22 06:23",
+      "articles": 48,
+      "top_keywords": [
+        "industrial cybersecurity winners",
+        "steal machine keys",
+        "larger ai models",
         "residential proxy node",
         "cybercrime group known"
       ]

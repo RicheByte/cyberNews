@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-07-22 02:06",
+  "last_updated": "2026-07-22 06:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "larger ai models",
     "industrial cybersecurity winners",
     "steal machine keys",
+    "larger ai models",
     "residential proxy node",
     "cybercrime group known",
     "twitter whistleblower complaint",
+    "reduced cyber refusals",
+    "newtonsoft json library",
     "investigated multiple intrusions",
     "average per codebase",
     "14 million downloads",
+    "ai coding agent",
     "ban residential proxies",
     "actual risk depends",
     "national security risk",
+    "ai researchers pointed",
     "wp2shell opens millions",
     "unmasked effectively undermining",
     "specops software explains",
-    "software almost triple",
-    "shown surprising effectiveness",
-    "move comes less",
-    "maintain access even",
-    "install malicious plugins"
+    "software almost triple"
   ],
   "trending": [
     {
-      "keyword": "larger ai models",
-      "mentions": 4
-    },
-    {
       "keyword": "industrial cybersecurity winners",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "steal machine keys",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "larger ai models",
+      "mentions": 5
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 1
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 246
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2170
-    },
-    {
-      "keyword": "investigated multiple intrusions",
-      "mentions": 6
-    },
-    {
-      "keyword": "average per codebase",
-      "mentions": 6
-    },
-    {
-      "keyword": "14 million downloads",
       "mentions": 2
     },
     {
-      "keyword": "ban residential proxies",
+      "keyword": "cybercrime group known",
+      "mentions": 247
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2171
+    },
+    {
+      "keyword": "reduced cyber refusals",
       "mentions": 1
+    },
+    {
+      "keyword": "newtonsoft json library",
+      "mentions": 1
+    },
+    {
+      "keyword": "investigated multiple intrusions",
+      "mentions": 7
+    },
+    {
+      "keyword": "average per codebase",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "summary": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
+      "published": "Wed, 22 Jul 2026 11:30:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
+      "published": "Wed, 22 Jul 2026 10:27:52 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+      "published": "Wed, 22 Jul 2026 09:48:33 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
@@ -131,36 +158,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Zimbra Patches Critical SNMP Command Injection and Four XSS Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/zimbra-patches-critical-snmp-command.html",
-      "summary": "Zimbra has rolled out fixes to address multiple critical security issues, including a command injection flaw in the Simple Network Management Protocol (SNMP) monitoring component. As many as nine security vulnerabilities have been patched in Zimbra 10.1.20. Topping the list is a command injection vulnerability in the SNMP monitoring component when SNMP notifications are enabled. Also patched",
-      "published": "Tue, 21 Jul 2026 18:48:31 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Open-Source Android AI Agents Could Let Invisible Screen Text Run Code on Host PCs",
-      "link": "https://thehackernews.com/2026/07/open-source-android-ai-agents-could-let.html",
-      "summary": "An Android app that can draw over other windows and write to shared storage can slip instructions to the AI agent driving that phone, in text no human eye will ever see. Two more steps, and the same app is running commands on the PC driving the agent. Researchers demonstrated that chain, plus six other attacks, against five open-source mobile agent frameworks: AppAgent, AppAgentX,",
-      "published": "Tue, 21 Jul 2026 17:28:00 +0530",
+      "source": "BleepingComputer",
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "N-day is Becoming N-Hour. Patching Faster Won't Save You.",
-      "link": "https://thehackernews.com/2026/07/n-day-is-becoming-n-hour-patching.html",
-      "summary": "Every patch is a confession. The moment a vendor ships a security fix, the diff between the old code and the new code tells anyone watching exactly what was broken and where. Turn that diff back into a working exploit, and you can hit every system that hasn't updated yet. This is N-day exploitation, and it's always been a race: the vendor patches, the clock starts, and defenders try to deploy",
-      "published": "Tue, 21 Jul 2026 17:12:23 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -241,21 +245,6 @@
       "published": "Tue, 21 Jul 2026 07:07:07 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Palo Alto VPN bug now exploited by Qilin ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-globalprotect-vpn-bug-now-exploited-in-ransomware-attacks/",
-      "summary": "The Qilin ransomware gang is exploiting a critical PAN-OS GlobalProtect authentication bypass flaw to breach victims' networks, according to cybersecurity company Arctic Wolf. [...]",
-      "published": "Tue, 21 Jul 2026 06:12:24 -0400",
-      "value_score": 95,
-      "value_signals": [
-        "Ransomware ×2",
-        "Auth bypass",
-        "Breach/leak",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

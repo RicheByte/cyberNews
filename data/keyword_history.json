@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2172,
+      "count": 2173,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1144,7 +1144,7 @@
       ]
     },
     "national security risk": {
-      "count": 288,
+      "count": 289,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -11825,7 +11825,7 @@
       ]
     },
     "ai coding agent": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-03-25",
         "2026-07-09",
@@ -20728,7 +20728,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 248,
+      "count": 249,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22185,9 +22185,10 @@
       ]
     },
     "building ai agents": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-08"
+        "2026-07-08",
+        "2026-07-22"
       ]
     },
     "ci cd workflows": {
@@ -23445,13 +23446,14 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ]
     },
     "shodan harvester keeps": {
@@ -23711,7 +23713,7 @@
       ]
     },
     "wp2shell opens millions": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-20",
         "2026-07-21",
@@ -23780,7 +23782,7 @@
       ]
     },
     "actual risk depends": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23879,20 +23881,20 @@
       ]
     },
     "14 million downloads": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21",
         "2026-07-22"
       ]
     },
     "residential proxy node": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22"
       ]
     },
     "ban residential proxies": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22"
       ]
@@ -23904,37 +23906,37 @@
       ]
     },
     "reduced cyber refusals": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
     },
     "newtonsoft json library": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
     },
     "ai researchers pointed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
     },
     "coca cola subsidiary": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "ransomware group threatening": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "sandboxed testing environment": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
@@ -23944,20 +23946,27 @@
       "dates": [
         "2026-07-22"
       ]
+    },
+    "lifetime 2tb plan": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "july 3 2026": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "ai generated apps": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-12 02:11",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "system level sabotage",
-        "user including administrators",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-12 06:28",
       "articles": 48,
@@ -25045,6 +25054,17 @@
         "cybercrime group known",
         "coca cola subsidiary",
         "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-07-22 13:38",
+      "articles": 48,
+      "top_keywords": [
+        "lifetime 2tb plan",
+        "cybercrime group known",
+        "coca cola subsidiary",
+        "residential proxy node",
+        "ransomware group threatening"
       ]
     }
   ]

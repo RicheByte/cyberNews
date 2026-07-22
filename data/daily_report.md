@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-22 15:28 UTC  
+> **Last Updated:** 2026-07-22 17:10 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **cve 2026 63030** • **twitter whistleblower complaint** • **steal machine keys** • **sandboxed testing environment** • **newtonsoft json library** • **actual risk depends** • **july 3 2026** • **ban residential proxies** • **national security risk** • **building ai agents** • **ai coding agent** • **wild per vulncheck** • **whatsapp web without** • **unmasked effectively undermining** • **software giant fixed**
+**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **cve 2026 63030** • **real life identity** • **twitter whistleblower complaint** • **steal machine keys** • **newtonsoft json library** • **building ai agents** • **12 3 million** • **actual risk depends** • **july 3 2026** • **identity controls governance** • **ban residential proxies** • **national security risk** • **amplify ransomware risk** • **wild per vulncheck** • **whatsapp web without** • **us law enforcement**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
+- [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
 - [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
 - [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
 - [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
 - [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
 - [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
 - [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
-- [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
-- [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [When AI Attacks: OpenAI Models Autonomously Hack Hugging Face](https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face)
 - [EU Financial Institutions Leak Data Through Cookie Trackers](https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers)
-- [Ransomware Is Accelerating, But It's Not Because of AI](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai)
+- [Ransomware Is Accelerating, but It's Not Because of AI](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai)
 - [Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task](https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task)
 - [Hacker Turns AI Jailbreaks Into Offensive Attack Platform](https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform)
 - [Choose Wisely: AI-Generated Coding Risk Varies, a Lot](https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies)
 - ['WP2Shell' Opens Millions of WordPress Sites to Remote Takeover](https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover)
 - [Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push](https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation)
-- [25 Years After Code Red: What the Worm Era Can Teach Us About AI Security](https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2)
 
 ### Security Week
 

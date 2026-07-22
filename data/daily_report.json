@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 15:28",
+  "last_updated": "2026-07-22 17:10",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "lifetime 2tb plan",
     "cybercrime group known",
     "residential proxy node",
-    "real life identity",
     "cve 2026 63030",
+    "real life identity",
     "twitter whistleblower complaint",
     "steal machine keys",
-    "sandboxed testing environment",
     "newtonsoft json library",
+    "building ai agents",
+    "12 3 million",
     "actual risk depends",
     "july 3 2026",
+    "identity controls governance",
     "ban residential proxies",
     "national security risk",
-    "building ai agents",
-    "ai coding agent",
+    "amplify ransomware risk",
     "wild per vulncheck",
     "whatsapp web without",
-    "unmasked effectively undermining",
-    "software giant fixed"
+    "us law enforcement"
   ],
   "trending": [
     {
       "keyword": "palo alto networks",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "lifetime 2tb plan",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 250
+      "mentions": 251
     },
     {
       "keyword": "residential proxy node",
+      "mentions": 6
+    },
+    {
+      "keyword": "cve 2026 63030",
       "mentions": 5
     },
     {
       "keyword": "real life identity",
-      "mentions": 235
-    },
-    {
-      "keyword": "cve 2026 63030",
-      "mentions": 4
+      "mentions": 236
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2174
+      "mentions": 2175
     },
     {
       "keyword": "steal machine keys",
-      "mentions": 6
-    },
-    {
-      "keyword": "sandboxed testing environment",
-      "mentions": 3
+      "mentions": 7
     },
     {
       "keyword": "newtonsoft json library",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "building ai agents",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -149,6 +149,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/",
+      "summary": "Swiss rail vehicle manufacturer Stadler Rail says the Everest ransomware gang demanded about $12.3 million after breaching a data exchange platform shared with one of its suppliers. [...]",
+      "published": "Wed, 22 Jul 2026 12:59:17 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How enterprise GenAI can amplify ransomware risk — and how to contain it",
+      "link": "https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/",
+      "summary": "Enterprise AI can accelerate ransomware attacks when AI assistants and agents inherit excessive permissions or compromised identities. Acronis explains how identity controls, governance, and least-privilege access help reduce AI-enabled ransomware risk while supporting secure AI adoption. [...]",
+      "published": "Wed, 22 Jul 2026 11:30:00 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
       "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
       "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
@@ -210,26 +232,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI says its AI models hacked Hugging Face during testing",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
-      "summary": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
-      "published": "Wed, 22 Jul 2026 01:19:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police dismantle Kratos phishing platform, arrest developer",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
-      "summary": "Authorities in Germany and the U.S. dismantled the central infrastructure of Kratos, a phishing-as-a-service (PhaaS) platform with global reach, and its developer was arrested in Indonesia. [...]",
-      "published": "Tue, 21 Jul 2026 19:07:33 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
       ]
     },
     {
@@ -319,6 +321,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
+      "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
+      "summary": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
+      "published": "Wed, 22 Jul 2026 15:53:47 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
       "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
       "summary": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
@@ -330,7 +341,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Ransomware Is Accelerating, But It's Not Because of AI",
+      "title": "Ransomware Is Accelerating, but It's Not Because of AI",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
       "summary": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
       "published": "Tue, 21 Jul 2026 21:48:05 GMT",
@@ -385,15 +396,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
       "summary": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
       "published": "Mon, 20 Jul 2026 20:26:56 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "25 Years After Code Red: What the Worm Era Can Teach Us About AI Security",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/25-years-after-code-red-what-the-worm-era-can-teach-us-about-ai-security-2",
-      "summary": "Marc Maiffret reflects on Code Red's legacy and the security lessons helping organizations navigate AI risk today.",
-      "published": "Mon, 20 Jul 2026 19:32:04 GMT",
       "value_score": 10,
       "value_signals": []
     },

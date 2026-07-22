@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-22 21:09 UTC  
+> **Last Updated:** 2026-07-22 22:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **cve 2026 63030** • **residential proxy node** • **real life identity** • **fixed 10 000** • **twitter whistleblower complaint** • **steal machine keys** • **financial information stolen** • **every severity level** • **building ai agents** • **adobe acrobat extension** • **actual risk depends** • **identity controls governance** • **ban residential proxies** • **314 million users** • **12 3 million** • **national security risk** • **amplify ransomware risk**
+**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **fixed 10 000** • **building ai agents** • **twitter whistleblower complaint** • **steal machine keys** • **financial information stolen** • **every severity level** • **adobe acrobat extension** • **actual risk depends** • **identity controls governance** • **ban residential proxies** • **national security risk** • **create 13 million** • **314 million users** • **12 3 million** • **amplify ransomware risk**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
 - [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
 - [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
 - [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
@@ -34,7 +35,6 @@
 - [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
 - [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
 - [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
-- [Microsoft to stop Exchange 2016 / 2019 security updates in October](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-2016-and-2019-esu-program-ends-in-october/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Attackers Are Learning to Live Off the AI Toolchain](https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain)
 - [Fake Bahrain Alert App Deploys Android Surveillance Malware](https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware)
 - [When AI Attacks: OpenAI Models Autonomously Hack Hugging Face](https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face)
 - [EU Financial Institutions Leak Data Through Cookie Trackers](https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers)
@@ -56,7 +57,6 @@
 - [Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task](https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task)
 - [Hacker Turns AI Jailbreaks Into Offensive Attack Platform](https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform)
 - [Choose Wisely: AI-Generated Coding Risk Varies, a Lot](https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies)
-- ['WP2Shell' Opens Millions of WordPress Sites to Remote Takeover](https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover)
 
 ### Security Week
 

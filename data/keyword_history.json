@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2177,
+      "count": 2178,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -561,7 +561,7 @@
       ]
     },
     "real life identity": {
-      "count": 238,
+      "count": 239,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1145,7 +1145,7 @@
       ]
     },
     "national security risk": {
-      "count": 293,
+      "count": 294,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7934,7 +7934,7 @@
       ]
     },
     "palo alto networks": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-02-18",
         "2026-02-19",
@@ -20730,7 +20730,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 253,
+      "count": 254,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22187,7 +22187,7 @@
       ]
     },
     "building ai agents": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-08",
         "2026-07-22"
@@ -23786,7 +23786,7 @@
       ]
     },
     "actual risk depends": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23851,7 +23851,7 @@
       ]
     },
     "steal machine keys": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23892,13 +23892,13 @@
       ]
     },
     "residential proxy node": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-22"
       ]
     },
     "ban residential proxies": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-22"
       ]
@@ -23952,7 +23952,7 @@
       ]
     },
     "lifetime 2tb plan": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-22"
       ]
@@ -23982,19 +23982,19 @@
       ]
     },
     "12 3 million": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22"
       ]
     },
     "identity controls governance": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22"
       ]
     },
     "amplify ransomware risk": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22"
       ]
@@ -24006,30 +24006,36 @@
       ]
     },
     "adobe acrobat extension": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
     },
     "314 million users": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
     },
     "fixed 10 000": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "financial information stolen": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "every severity level": {
+      "count": 2,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "create 13 million": {
       "count": 1,
       "dates": [
         "2026-07-22"
@@ -24037,17 +24043,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-12 14:50",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "user including administrators",
-        "twitter whistleblower complaint",
-        "system level sabotage"
-      ]
-    },
     {
       "timestamp": "2026-07-12 16:53",
       "articles": 48,
@@ -25135,6 +25130,17 @@
         "cybercrime group known",
         "cve 2026 63030",
         "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-07-22 22:56",
+      "articles": 48,
+      "top_keywords": [
+        "palo alto networks",
+        "lifetime 2tb plan",
+        "cybercrime group known",
+        "residential proxy node",
+        "real life identity"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-22 06:23 UTC |
+| 🕐 Last Updated | 2026-07-22 10:20 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`industrial cybersecurity winners` • `steal machine keys` • `larger ai models` • `residential proxy node` • `cybercrime group known` • `twitter whistleblower complaint` • `reduced cyber refusals` • `newtonsoft json library` • `investigated multiple intrusions` • `average per codebase`
+`steal machine keys` • `industrial cybersecurity winners` • `cybercrime group known` • `coca cola subsidiary` • `residential proxy node` • `larger ai models` • `ransomware group threatening` • `twitter whistleblower complaint` • `sandboxed testing environment` • `reduced cyber refusals`
 
 ## 📄 Reports
 

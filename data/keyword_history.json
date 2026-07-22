@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2171,
+      "count": 2172,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1144,7 +1144,7 @@
       ]
     },
     "national security risk": {
-      "count": 287,
+      "count": 288,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -11825,7 +11825,7 @@
       ]
     },
     "ai coding agent": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-25",
         "2026-07-09",
@@ -20728,7 +20728,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23711,7 +23711,7 @@
       ]
     },
     "wp2shell opens millions": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-20",
         "2026-07-21",
@@ -23767,7 +23767,7 @@
       ]
     },
     "industrial cybersecurity winners": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23780,7 +23780,7 @@
       ]
     },
     "actual risk depends": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23807,7 +23807,7 @@
       ]
     },
     "average per codebase": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23832,7 +23832,7 @@
       ]
     },
     "larger ai models": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23845,7 +23845,7 @@
       ]
     },
     "steal machine keys": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23879,20 +23879,20 @@
       ]
     },
     "14 million downloads": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-21",
         "2026-07-22"
       ]
     },
     "residential proxy node": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
     },
     "ban residential proxies": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
@@ -23904,18 +23904,42 @@
       ]
     },
     "reduced cyber refusals": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "newtonsoft json library": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "ai researchers pointed": {
+      "count": 2,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "coca cola subsidiary": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "ransomware group threatening": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "sandboxed testing environment": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "anubis ransomware gang": {
       "count": 1,
       "dates": [
         "2026-07-22"
@@ -23923,17 +23947,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-11 22:41",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "system level sabotage",
-        "user including administrators",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-12 02:11",
       "articles": 48,
@@ -25021,6 +25034,17 @@
         "larger ai models",
         "residential proxy node",
         "cybercrime group known"
+      ]
+    },
+    {
+      "timestamp": "2026-07-22 10:20",
+      "articles": 48,
+      "top_keywords": [
+        "steal machine keys",
+        "industrial cybersecurity winners",
+        "cybercrime group known",
+        "coca cola subsidiary",
+        "residential proxy node"
       ]
     }
   ]

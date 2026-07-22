@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-22 06:23",
+  "last_updated": "2026-07-22 10:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "industrial cybersecurity winners",
     "steal machine keys",
-    "larger ai models",
-    "residential proxy node",
+    "industrial cybersecurity winners",
     "cybercrime group known",
+    "coca cola subsidiary",
+    "residential proxy node",
+    "larger ai models",
+    "ransomware group threatening",
     "twitter whistleblower complaint",
+    "sandboxed testing environment",
     "reduced cyber refusals",
     "newtonsoft json library",
-    "investigated multiple intrusions",
     "average per codebase",
+    "actual risk depends",
     "14 million downloads",
+    "national security risk",
     "ai coding agent",
     "ban residential proxies",
-    "actual risk depends",
-    "national security risk",
+    "anubis ransomware gang",
     "ai researchers pointed",
-    "wp2shell opens millions",
-    "unmasked effectively undermining",
-    "specops software explains",
-    "software almost triple"
+    "wp2shell opens millions"
   ],
   "trending": [
     {
-      "keyword": "industrial cybersecurity winners",
-      "mentions": 8
-    },
-    {
       "keyword": "steal machine keys",
-      "mentions": 4
-    },
-    {
-      "keyword": "larger ai models",
       "mentions": 5
     },
     {
-      "keyword": "residential proxy node",
-      "mentions": 2
+      "keyword": "industrial cybersecurity winners",
+      "mentions": 9
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 247
+      "mentions": 248
+    },
+    {
+      "keyword": "coca cola subsidiary",
+      "mentions": 1
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 3
+    },
+    {
+      "keyword": "larger ai models",
+      "mentions": 6
+    },
+    {
+      "keyword": "ransomware group threatening",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2171
+      "mentions": 2172
+    },
+    {
+      "keyword": "sandboxed testing environment",
+      "mentions": 1
     },
     {
       "keyword": "reduced cyber refusals",
-      "mentions": 1
-    },
-    {
-      "keyword": "newtonsoft json library",
-      "mentions": 1
-    },
-    {
-      "keyword": "investigated multiple intrusions",
-      "mentions": 7
-    },
-    {
-      "keyword": "average per codebase",
-      "mentions": 7
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA",
+      "link": "https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html",
+      "summary": "German and US law enforcement have taken down the core infrastructure of Kratos, described by German investigators as one of the world's most widely used criminal phishing kits, and Indonesian authorities arrested the man they say developed and ran it. In a joint announcement on Monday, the Frankfurt public prosecutor's cybercrime unit (ZIT) and Germany's Federal Criminal Police Office (BKA)",
+      "published": "Wed, 22 Jul 2026 12:08:45 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
@@ -144,17 +155,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Qilin Ransomware Attackers Exploit PAN-OS Authentication Bypass for Initial Access",
-      "link": "https://thehackernews.com/2026/07/qilin-ransomware-attackers-exploit-pan.html",
-      "summary": "Threat actors have been observed exploiting a now-patched high-severity Palo Alto Networks PAN-OS vulnerability as an entry point to deploy Qilin (aka Agenda) ransomware on victim environments. Arctic Wolf Labs said it investigated multiple intrusions in June 2026 that began with the exploitation of CVE-2026-0257 (CVSS score: 7.8), an authentication bypass flaw affecting the portal and gateway",
-      "published": "Tue, 21 Jul 2026 19:34:57 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/",
+      "summary": "American fast food restaurant chain Chick-fil-A is notifying customers of a data breach after their accounts were hacked in a wave of recent credential stuffing attacks. [...]",
+      "published": "Wed, 22 Jul 2026 02:40:29 -0400",
+      "value_score": 34,
       "value_signals": [
-        "CVE mentioned",
-        "Ransomware ×2",
-        "Auth bypass ×2",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -236,15 +244,6 @@
       "value_signals": [
         "High severity ×3"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US seizes over 1,000 websites in FIFA World Cup piracy crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/us-seizes-over-1-000-fifa-world-cup-illegal-streaming-domains/",
-      "summary": "The U.S. Justice Department has seized more than 1,000 websites and blocked 1,970 domains used to stream FIFA World Cup 2026 matches without authorization. [...]",
-      "published": "Tue, 21 Jul 2026 07:07:07 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -411,6 +410,48 @@
     },
     {
       "source": "Security Week",
+      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
+      "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
+      "summary": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 10:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
+      "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
+      "summary": "Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI. The post Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 09:33:12 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×3",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
+      "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
+      "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 08:32:02 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×3",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
+      "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
+      "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 07:48:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains",
       "link": "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/",
       "summary": "New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks. The post Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains appeared first on SecurityWeek .",
@@ -448,44 +489,6 @@
       "value_signals": [
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication",
-      "link": "https://www.securityweek.com/new-hollowgraph-malware-abuses-microsoft-365-calendar-for-cc-communication/",
-      "summary": "Part of a larger toolkit, HollowGraph uses a compromised 365 account’s calendar as a two-way dead-drop. The post New HollowGraph Malware Abuses Microsoft 365 Calendar for C&C Communication appeared first on SecurityWeek .",
-      "published": "Tue, 21 Jul 2026 11:55:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG",
-      "link": "https://www.securityweek.com/ciso-conversations-andreas-gaetje-from-economics-to-ciso-at-korber-ag/",
-      "summary": "Gaetje’s story shows that you don’t need to be a ‘deep bit-crawler’ to become a Chief Information Security Officer. The post CISO Conversations: Andreas Gaetje – From Economics to CISO at Körber AG appeared first on SecurityWeek .",
-      "published": "Tue, 21 Jul 2026 11:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack",
-      "link": "https://www.securityweek.com/estee-lauder-discloses-impact-from-oracle-ebs-zero-day-hack/",
-      "summary": "Hackers exfiltrated personal, financial, and health information from the company’s Oracle EBS instance in August 2025. The post Estée Lauder Discloses Impact From Oracle EBS Zero-Day Hack appeared first on SecurityWeek .",
-      "published": "Tue, 21 Jul 2026 11:12:33 +0000",
-      "value_score": 60,
-      "value_signals": [
-        "Zero-day ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data",
-      "link": "https://www.securityweek.com/meta-pays-78000-bounty-for-vulnerability-exposing-customer-support-data/",
-      "summary": "A security researcher discovered a broken access control vulnerability in Meta’s support infrastructure. The post Meta Paid $78,000 Bounty for Vulnerability Exposing Customer Support Data appeared first on SecurityWeek .",
-      "published": "Tue, 21 Jul 2026 10:19:21 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

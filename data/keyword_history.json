@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2173,
+      "count": 2174,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -561,7 +561,7 @@
       ]
     },
     "real life identity": {
-      "count": 234,
+      "count": 235,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -600,7 +600,8 @@
         "2026-07-15",
         "2026-07-16",
         "2026-07-17",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ]
     },
     "got1000 series devices": {
@@ -1144,7 +1145,7 @@
       ]
     },
     "national security risk": {
-      "count": 289,
+      "count": 290,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7933,11 +7934,12 @@
       ]
     },
     "palo alto networks": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-18",
         "2026-02-19",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-07-22"
       ]
     },
     "darknet drug ring": {
@@ -11825,7 +11827,7 @@
       ]
     },
     "ai coding agent": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-03-25",
         "2026-07-09",
@@ -20728,7 +20730,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 249,
+      "count": 250,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22185,7 +22187,7 @@
       ]
     },
     "building ai agents": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-08",
         "2026-07-22"
@@ -23080,13 +23082,14 @@
       ]
     },
     "software giant fixed": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-15",
         "2026-07-17",
         "2026-07-18",
         "2026-07-19",
-        "2026-07-20"
+        "2026-07-20",
+        "2026-07-22"
       ]
     },
     "windows bind links": {
@@ -23678,10 +23681,11 @@
       ]
     },
     "cve 2026 63030": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-20",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-22"
       ]
     },
     "vulnerable vpn appliances": {
@@ -23782,7 +23786,7 @@
       ]
     },
     "actual risk depends": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23847,14 +23851,14 @@
       ]
     },
     "steal machine keys": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-21",
         "2026-07-22"
       ]
     },
     "unmasked effectively undermining": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-21",
         "2026-07-22"
@@ -23888,13 +23892,13 @@
       ]
     },
     "residential proxy node": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-22"
       ]
     },
     "ban residential proxies": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-22"
       ]
@@ -23912,7 +23916,7 @@
       ]
     },
     "newtonsoft json library": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22"
       ]
@@ -23936,7 +23940,7 @@
       ]
     },
     "sandboxed testing environment": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22"
       ]
@@ -23948,13 +23952,13 @@
       ]
     },
     "lifetime 2tb plan": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
     },
     "july 3 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-22"
       ]
@@ -23964,20 +23968,21 @@
       "dates": [
         "2026-07-22"
       ]
+    },
+    "wild per vulncheck": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
+    },
+    "whatsapp web without": {
+      "count": 1,
+      "dates": [
+        "2026-07-22"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-12 06:28",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "official docker image",
-        "system level sabotage",
-        "user including administrators",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-12 09:46",
       "articles": 48,
@@ -25065,6 +25070,17 @@
         "coca cola subsidiary",
         "residential proxy node",
         "ransomware group threatening"
+      ]
+    },
+    {
+      "timestamp": "2026-07-22 15:28",
+      "articles": 48,
+      "top_keywords": [
+        "palo alto networks",
+        "lifetime 2tb plan",
+        "cybercrime group known",
+        "residential proxy node",
+        "real life identity"
       ]
     }
   ]

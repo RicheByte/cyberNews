@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-22 13:38 UTC  
+> **Last Updated:** 2026-07-22 15:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**lifetime 2tb plan** • **cybercrime group known** • **coca cola subsidiary** • **residential proxy node** • **ransomware group threatening** • **twitter whistleblower complaint** • **sandboxed testing environment** • **reduced cyber refusals** • **newtonsoft json library** • **14 million downloads** • **vulnerability discoveries aided** • **july 3 2026** • **ban residential proxies** • **actual risk depends** • **building ai agents** • **ai coding agent** • **national security risk** • **ai generated apps** • **ai researchers pointed** • **wp2shell opens millions**
+**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **cve 2026 63030** • **twitter whistleblower complaint** • **steal machine keys** • **sandboxed testing environment** • **newtonsoft json library** • **actual risk depends** • **july 3 2026** • **ban residential proxies** • **national security risk** • **building ai agents** • **ai coding agent** • **wild per vulncheck** • **whatsapp web without** • **unmasked effectively undermining** • **software giant fixed**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
+- [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
+- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
 - [Why Modern SOCs Need Multi-Layered Detections](https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html)
 - [Police Dismantle Kratos Phishing Kit Built to Steal Microsoft 365 Sessions and Bypass MFA](https://thehackernews.com/2026/07/police-dismantle-kratos-phishing-kit.html)
 - [Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library](https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html)
 - [Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents](https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html)
-- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
 - [Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs](https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html)
-- [AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code](https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html)
-- [Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities](https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html)
 
 ### BleepingComputer
 
+- [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
 - [Adobe Chrome extension flaw let sites access private WhatsApp chats](https://www.bleepingcomputer.com/news/security/adobe-chrome-extension-flaw-let-sites-access-private-whatsapp-chats/)
 - [CISA orders urgent action on actively exploited Langflow RCE flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-langflow-rce-flaw/)
 - [Stop renting storage space — this lifetime 2TB plan is yours for $59](https://www.bleepingcomputer.com/news/security/stop-renting-storage-space-this-lifetime-2tb-plan-is-yours-for-59/)
@@ -34,7 +35,6 @@
 - [Chick-fil-A discloses data breach after credential stuffing attacks](https://www.bleepingcomputer.com/news/security/chick-fil-a-discloses-data-breach-after-credential-stuffing-attacks/)
 - [OpenAI says its AI models hacked Hugging Face during testing](https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/)
 - [Police dismantle Kratos phishing platform, arrest developer](https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/)
-- [FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware](https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts](https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/)
+- [Palo Alto Networks to Acquire Observability Platform Provider Embrace](https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/)
+- [Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft](https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/)
+- [When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover](https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/)
 - [StrongestLayer Raises $4.1 Million in Seed Funding Extension](https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/)
 - [Vibe-Coded Apps Riddled With Exploitable Security Flaws](https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/)
 - [Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks](https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/)
 - [Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation](https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/)
-- [Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates](https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/)
-- [Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife](https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/)
-- [OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face](https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/)
-- [Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains](https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/)
 
 ### Threatpost
 

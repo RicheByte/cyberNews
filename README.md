@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-22 13:38 UTC |
+| 🕐 Last Updated | 2026-07-22 15:28 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`lifetime 2tb plan` • `cybercrime group known` • `coca cola subsidiary` • `residential proxy node` • `ransomware group threatening` • `twitter whistleblower complaint` • `sandboxed testing environment` • `reduced cyber refusals` • `newtonsoft json library` • `14 million downloads`
+`palo alto networks` • `lifetime 2tb plan` • `cybercrime group known` • `residential proxy node` • `real life identity` • `cve 2026 63030` • `twitter whistleblower complaint` • `steal machine keys` • `sandboxed testing environment` • `newtonsoft json library`
 
 ## 📄 Reports
 

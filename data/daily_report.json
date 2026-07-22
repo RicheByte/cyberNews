@@ -1,72 +1,103 @@
 {
-  "last_updated": "2026-07-22 13:38",
+  "last_updated": "2026-07-22 15:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "palo alto networks",
     "lifetime 2tb plan",
     "cybercrime group known",
-    "coca cola subsidiary",
     "residential proxy node",
-    "ransomware group threatening",
+    "real life identity",
+    "cve 2026 63030",
     "twitter whistleblower complaint",
+    "steal machine keys",
     "sandboxed testing environment",
-    "reduced cyber refusals",
     "newtonsoft json library",
-    "14 million downloads",
-    "vulnerability discoveries aided",
+    "actual risk depends",
     "july 3 2026",
     "ban residential proxies",
-    "actual risk depends",
+    "national security risk",
     "building ai agents",
     "ai coding agent",
-    "national security risk",
-    "ai generated apps",
-    "ai researchers pointed",
-    "wp2shell opens millions"
+    "wild per vulncheck",
+    "whatsapp web without",
+    "unmasked effectively undermining",
+    "software giant fixed"
   ],
   "trending": [
     {
+      "keyword": "palo alto networks",
+      "mentions": 17
+    },
+    {
       "keyword": "lifetime 2tb plan",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 249
-    },
-    {
-      "keyword": "coca cola subsidiary",
-      "mentions": 2
+      "mentions": 250
     },
     {
       "keyword": "residential proxy node",
+      "mentions": 5
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 235
+    },
+    {
+      "keyword": "cve 2026 63030",
       "mentions": 4
     },
     {
-      "keyword": "ransomware group threatening",
-      "mentions": 2
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2174
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2173
+      "keyword": "steal machine keys",
+      "mentions": 6
     },
     {
       "keyword": "sandboxed testing environment",
-      "mentions": 2
-    },
-    {
-      "keyword": "reduced cyber refusals",
       "mentions": 3
     },
     {
       "keyword": "newtonsoft json library",
-      "mentions": 3
-    },
-    {
-      "keyword": "14 million downloads",
-      "mentions": 5
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
+      "link": "https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html",
+      "summary": "A high-severity security flaw impacting open-source developer platform Windmill has come under active exploitation in the wild, per VulnCheck. The vulnerability in question is CVE-2026-29059 (CVSS score: 7.5), a case of unauthenticated path traversal impacting Windmill's \"get_log_file\" endpoint (\"/api/w/{workspace}/jobs_u/get_log_file/{filename}\"). \"The filename parameter is concatenated into",
+      "published": "Wed, 22 Jul 2026 18:06:36 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Fastest Path to AI Adoption Runs Through Security",
+      "link": "https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html",
+      "summary": "Security leaders who build fast, visible paths to AI adoption are becoming the most valued partners in their organizations. AI governance done right gives security teams the visibility they need, employees the tools they want, and CISOs the strategic influence they have earned. According to McKinsey's State of AI report, 76 percent of employees now use AI in some capacity at work, up from 55",
+      "published": "Wed, 22 Jul 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+      "published": "Wed, 22 Jul 2026 17:00:02 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Why Modern SOCs Need Multi-Layered Detections",
@@ -107,15 +138,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
-      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
-      "summary": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
-      "published": "Wed, 22 Jul 2026 09:48:33 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
       "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
       "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts. Hide My Email",
@@ -126,25 +148,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
-      "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "summary": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been",
-      "published": "Tue, 21 Jul 2026 21:36:12 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "New InfraTrust report reveals infrastructure flaws admins should patch first",
+      "link": "https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/",
+      "summary": "Eclypsium has launched InfraTrust, a new infrastructure cybersecurity knowledge base and monthly InfraTrust Pulse report designed to help organizations prioritize vulnerabilities affecting infrastructure, firmware, networking, and edge devices. [...]",
+      "published": "Wed, 22 Jul 2026 10:15:00 -0400",
+      "value_score": 18,
       "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Google Launches Gemini 3.5 Flash Cyber AI to Find and Fix Software Vulnerabilities",
-      "link": "https://thehackernews.com/2026/07/google-launches-gemini-35-flash-cyber.html",
-      "summary": "Google's DeepMind on Tuesday announced the release of Gemini 3.5 Flash Cyber, a specialized artificial intelligence (AI) model built atop 3.5 Flash that's designed to discover, validate, and patch vulnerabilities quickly and efficiently. According to the tech giant, the model will be exclusively available to governments and trusted partners via CodeMender as part of a limited-access pilot",
-      "published": "Tue, 21 Jul 2026 20:39:28 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
+        "Patch/update"
       ]
     },
     {
@@ -220,15 +231,6 @@
       "value_signals": [
         "Phishing ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "summary": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "published": "Tue, 21 Jul 2026 18:34:17 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -319,7 +321,7 @@
       "source": "Dark Reading",
       "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
       "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-      "summary": "European banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
+      "summary": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
       "published": "Wed, 22 Jul 2026 11:30:00 GMT",
       "value_score": 22,
       "value_signals": [
@@ -397,6 +399,42 @@
     },
     {
       "source": "Security Week",
+      "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
+      "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
+      "summary": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 15:02:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Palo Alto Networks to Acquire Observability Platform Provider Embrace",
+      "link": "https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/",
+      "summary": "Acquisition follows January's Chronosphere deal, deepening Palo Alto Networks' push beyond core security into observability. The post Palo Alto Networks to Acquire Observability Platform Provider Embrace appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 14:58:53 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft",
+      "link": "https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/",
+      "summary": "An attacker only needed to convince the targeted user to visit a malicious website to exfiltrate WhatsApp messages and contacts. The post Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 14:22:31 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover",
+      "link": "https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/",
+      "summary": "Identity confidence changes throughout every interaction and should be reassessed continuously as new risk signals emerge. The post When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover appeared first on SecurityWeek .",
+      "published": "Wed, 22 Jul 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "StrongestLayer Raises $4.1 Million in Seed Funding Extension",
       "link": "https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/",
       "summary": "The startup will use the fresh investment to accelerate its go-to-market strategy and to expand its platform. The post StrongestLayer Raises $4.1 Million in Seed Funding Extension appeared first on SecurityWeek .",
@@ -435,50 +473,6 @@
       "published": "Wed, 22 Jul 2026 10:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
-      "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
-      "summary": "Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI. The post Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates appeared first on SecurityWeek .",
-      "published": "Wed, 22 Jul 2026 09:33:12 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Patch/update ×3",
-        "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife",
-      "link": "https://www.securityweek.com/ransomware-group-threatening-to-leak-data-stolen-from-coca-colas-fairlife/",
-      "summary": "The Anubis ransomware group claims to have stolen 1 TB of confidential data from the Coca-Cola subsidiary. The post Ransomware Group Threatening to Leak Data Stolen From Coca-Cola’s Fairlife appeared first on SecurityWeek .",
-      "published": "Wed, 22 Jul 2026 08:32:02 +0000",
-      "value_score": 70,
-      "value_signals": [
-        "Ransomware ×3",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face",
-      "link": "https://www.securityweek.com/openai-says-its-ai-models-broke-loose-and-hacked-hugging-face/",
-      "summary": "OpenAI says its AI models went rogue, as CISOS call the incident a watershed moment, warning that autonomous AI threat models have officially crossed into production reality. The post OpenAI Says Its AI Models Broke Loose and Hacked Hugging Face appeared first on SecurityWeek .",
-      "published": "Wed, 22 Jul 2026 07:48:49 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains",
-      "link": "https://www.securityweek.com/trump-orders-defense-contractors-to-map-software-suppliers-across-critical-supply-chains/",
-      "summary": "New executive order calls for end-to-end visibility into defense supply chains, including software dependencies, foreign ownership and cyber-related supplier risks. The post Trump Orders Defense Contractors to Map Software, Suppliers Across Critical Supply Chains appeared first on SecurityWeek .",
-      "published": "Tue, 21 Jul 2026 18:16:09 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
     },
     {
       "source": "Threatpost",

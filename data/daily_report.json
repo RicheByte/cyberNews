@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-07-22 17:10",
+  "last_updated": "2026-07-22 19:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "palo alto networks",
     "lifetime 2tb plan",
     "cybercrime group known",
-    "residential proxy node",
     "cve 2026 63030",
+    "residential proxy node",
     "real life identity",
     "twitter whistleblower complaint",
     "steal machine keys",
     "newtonsoft json library",
     "building ai agents",
-    "12 3 million",
+    "adobe acrobat extension",
     "actual risk depends",
-    "july 3 2026",
     "identity controls governance",
     "ban residential proxies",
+    "314 million users",
+    "12 3 million",
     "national security risk",
     "amplify ransomware risk",
     "wild per vulncheck",
-    "whatsapp web without",
-    "us law enforcement"
+    "whatsapp web without"
   ],
   "trending": [
     {
       "keyword": "palo alto networks",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "lifetime 2tb plan",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 251
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 6
+      "mentions": 252
     },
     {
       "keyword": "cve 2026 63030",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "real life identity",
-      "mentions": 236
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2175
-    },
-    {
-      "keyword": "steal machine keys",
+      "keyword": "residential proxy node",
       "mentions": 7
     },
     {
+      "keyword": "real life identity",
+      "mentions": 237
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2176
+    },
+    {
+      "keyword": "steal machine keys",
+      "mentions": 8
+    },
+    {
       "keyword": "newtonsoft json library",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "building ai agents",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs",
+      "link": "https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new local privilege escalation (LPE) vulnerability in snap-confine that an unprivileged user can trigger to obtain root access and gain complete control of a target environment. The high-severity flaw, tracked as CVE-2026-8933 (CVSS score: 7.8), impacts default installations of Ubuntu Desktop 24.04, 25.10, and 26.04. The disclosure comes as",
+      "published": "Wed, 22 Jul 2026 23:37:16 +0530",
+      "value_score": 40,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
+      "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
+      "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability",
+      "published": "Wed, 22 Jul 2026 20:31:21 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication",
@@ -126,26 +150,6 @@
       "published": "Wed, 22 Jul 2026 11:30:06 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
-      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
-      "summary": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
-      "published": "Wed, 22 Jul 2026 10:27:52 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
-      "link": "https://thehackernews.com/2026/07/apple-fixes-hide-my-email-bug-that.html",
-      "summary": "Apple has moved to address a security flaw in its Hide My Email service that enabled users' real email addresses to be unmasked, effectively undermining the feature's privacy guarantees. 404 Media reported Tuesday that a fix for the issue was deployed by Apple on July 3, 2026, after more than a year, when it was disclosed to the company by Tyler Murphy, co-founder of EasyOptOuts. Hide My Email",
-      "published": "Wed, 22 Jul 2026 00:16:32 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "BleepingComputer",

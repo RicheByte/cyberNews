@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 642,
+      "count": 643,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -307,7 +307,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2186,
+      "count": 2187,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -563,7 +563,7 @@
       ]
     },
     "real life identity": {
-      "count": 247,
+      "count": 248,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20183,7 +20183,7 @@
       ]
     },
     "public github repository": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20738,7 +20738,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 262,
+      "count": 263,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23904,14 +23904,14 @@
       ]
     },
     "residential proxy node": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-22",
         "2026-07-23"
       ]
     },
     "ban residential proxies": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-22",
         "2026-07-23"
@@ -24066,7 +24066,7 @@
       ]
     },
     "logistics firm disrupts": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-23"
       ]
@@ -24108,7 +24108,7 @@
       ]
     },
     "synthetic identity fraud": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-23"
       ]
@@ -24120,13 +24120,13 @@
       ]
     },
     "businesses easy targets": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-23"
       ]
     },
     "hacker news ahead": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-23"
       ]
@@ -24138,25 +24138,25 @@
       ]
     },
     "nearly 50 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-23"
       ]
     },
     "group ib tracks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-23"
       ]
     },
     "write files anywhere": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-23"
       ]
     },
     "guilty pleas came": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-23"
       ]
@@ -24168,7 +24168,7 @@
       ]
     },
     "zimbra's webmail client": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
@@ -24180,18 +24180,24 @@
       ]
     },
     "anthropic's claude cowork": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "legitimate notepad application": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "unauthorized party accessed": {
+      "count": 2,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "us ukraine targets": {
       "count": 1,
       "dates": [
         "2026-07-23"
@@ -24199,17 +24205,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-13 17:50",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "remote code execution",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "resetting account passwords"
-      ]
-    },
     {
       "timestamp": "2026-07-13 19:17",
       "articles": 48,
@@ -25297,6 +25292,17 @@
         "residential proxy node",
         "anthropic's claude cowork",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-23 22:51",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "windows operating systems",
+        "residential proxy node",
+        "businesses easy targets",
+        "anthropic's claude cowork"
       ]
     }
   ]

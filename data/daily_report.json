@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-07-23 20:56",
+  "last_updated": "2026-07-23 22:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "windows operating systems",
     "residential proxy node",
+    "businesses easy targets",
     "anthropic's claude cowork",
     "twitter whistleblower complaint",
     "synthetic identity fraud",
@@ -14,56 +15,55 @@
     "legitimate notepad application",
     "hacker news ahead",
     "guilty pleas came",
-    "businesses easy targets",
+    "us ukraine targets",
     "ban residential proxies",
     "real life identity",
     "nearly 50 million",
     "group ib tracks",
     "zimbra's webmail client",
     "write files anywhere",
-    "unauthorized party accessed",
-    "turn one's television"
+    "unauthorized party accessed"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 262
+      "mentions": 263
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 642
+      "mentions": 643
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "businesses easy targets",
+      "mentions": 6
     },
     {
       "keyword": "anthropic's claude cowork",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2186
+      "mentions": 2187
     },
     {
       "keyword": "synthetic identity fraud",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "public github repository",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "logistics firm disrupts",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "legitimate notepad application",
-      "mentions": 1
-    },
-    {
-      "keyword": "hacker news ahead",
-      "mentions": 4
+      "mentions": 2
     }
   ],
   "articles": [
@@ -147,6 +147,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New Dolphin X malware uses AI to rank high-value targets",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
+      "published": "Thu, 23 Jul 2026 17:20:34 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Australian energy provider Origin says data breach exposes client data",
       "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
       "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
@@ -213,17 +222,6 @@
       "published": "Thu, 23 Jul 2026 08:33:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New RefluXFS Linux flaw lets attackers gain root privileges",
-      "link": "https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/",
-      "summary": "A nine-year-old race condition vulnerability in the Linux kernel's XFS filesystem, tracked as CVE-2026-64600, allows local attackers to overwrite protected files and gain root privileges. [...]",
-      "published": "Thu, 23 Jul 2026 07:40:16 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -312,6 +310,19 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
+      "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
+      "published": "Thu, 23 Jul 2026 21:23:18 GMT",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Agentic AI Challenges Progress in Confidential Computing",
       "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
       "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
@@ -380,17 +391,6 @@
       "published": "Wed, 22 Jul 2026 15:53:47 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
-      "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-      "summary": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
-      "published": "Wed, 22 Jul 2026 11:30:00 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-23 10:14 UTC  
+> **Last Updated:** 2026-07-23 13:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**palo alto networks** • **cybercrime group known** • **cve 2026 16232** • **released security updates** • **residential proxy node** • **real life identity** • **fixed 10 000** • **financial information stolen** • **twitter whistleblower complaint** • **obtain root access** • **logistics firm disrupts** • **gain complete control** • **every severity level** • **authentication bypass affecting** • **identity controls governance** • **ban residential proxies** • **314 million users** • **12 3 million** • **national security risk** • **chaos ransomware gang**
+**palo alto networks** • **released security updates** • **cybercrime group known** • **cve 2026 16232** • **residential proxy node** • **financial information stolen** • **gain root privileges** • **fixed 10 000** • **twitter whistleblower complaint** • **synthetic identity fraud** • **rockwell ics devices** • **logistics firm disrupts** • **every severity level** • **businesses easy targets** • **authentication bypass affecting** • **gain complete control** • **chaos ransomware gang** • **ban residential proxies** • **real life identity** • **obtain root access**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
+- [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
+- [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
 - [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
 - [Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access](https://thehackernews.com/2026/07/check-point-patches-exploited.html)
 - [GitHub Cuts Public Bug Bounty Payouts, Moves Top Rewards to VIP Tier](https://thehackernews.com/2026/07/github-cuts-public-bug-bounty-payouts.html)
 - [Ubuntu snap-confine Flaw Could Give Local Users Root on Default Desktop Installs](https://thehackernews.com/2026/07/ubuntu-snap-confine-flaw-could-give.html)
 - [Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data](https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html)
-- [Hackers Exploit Windmill Flaw to Read Arbitrary Server Files Without Authentication](https://thehackernews.com/2026/07/hackers-exploit-windmill-flaw-to-read.html)
-- [The Fastest Path to AI Adoption Runs Through Security](https://thehackernews.com/2026/07/the-fastest-path-to-ai-adoption-runs.html)
-- [OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark](https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html)
 
 ### BleepingComputer
 
+- [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
+- [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
 - [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
 - [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
 - [Check Point warns of SmartConsole zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/)
 - [Upbound says hack caused $13 million in fraudulent Acima leases](https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/)
 - [South Korea discloses data breach impacting diplomats worldwide](https://www.bleepingcomputer.com/news/security/south-korea-discloses-data-breach-impacting-diplomats-worldwide/)
 - [Swiss rail giant Stadler rejects $12.3M ransom demand after cyberattack](https://www.bleepingcomputer.com/news/security/swiss-rail-giant-stadler-rejects-123m-ransom-demand-after-cyberattack/)
-- [How enterprise GenAI can amplify ransomware risk — and how to contain it](https://www.bleepingcomputer.com/news/security/how-enterprise-genai-can-amplify-ransomware-risk-and-how-to-contain-it/)
-- [New InfraTrust report reveals infrastructure flaws admins should patch first](https://www.bleepingcomputer.com/news/security/new-infratrust-report-reveals-infrastructure-flaws-admins-should-patch-first/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Agentic AI Challenges Progress in Confidential Computing](https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing)
 - [Brazilian Banking Trojan Actively Spreading in Portugal](https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal)
 - [Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain)
+- [Flaws in Passkey Implementation Show Old Attacks Still Work](https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work)
 - [Attackers Are Learning to Live Off the AI Toolchain](https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain)
 - [Fake Bahrain Alert App Deploys Android Surveillance Malware](https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware)
 - [When AI Attacks: OpenAI Models Autonomously Hack Hugging Face](https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face)
 - [EU Financial Institutions Leak Data Through Cookie Trackers](https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers)
-- [Ransomware Is Accelerating, but It's Not Because of AI](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai)
-- [Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task](https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task)
 
 ### Security Week
 
+- [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
+- [Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses](https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/)
 - [Assaf Keren Appointed New CISO of Meta](https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/)
 - [New Check Point Zero-Day Vulnerability Exploited in the Wild](https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/)
 - [US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices](https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/)
 - [Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts](https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/)
 - [Palo Alto Networks to Acquire Observability Platform Provider Embrace](https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/)
 - [Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft](https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/)
-- [When Identity Verification Fails: Lessons from a Real-World SIM Swap and Near Account Takeover](https://www.securityweek.com/when-identity-verification-fails-lessons-from-a-real-world-sim-swap-and-near-account-takeover/)
-- [StrongestLayer Raises $4.1 Million in Seed Funding Extension](https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/)
 
 ### Threatpost
 

@@ -306,7 +306,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2181,
+      "count": 2182,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -562,7 +562,7 @@
       ]
     },
     "real life identity": {
-      "count": 242,
+      "count": 243,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4084,7 +4084,7 @@
       ]
     },
     "released security updates": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -7938,7 +7938,7 @@
       ]
     },
     "palo alto networks": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-02-18",
         "2026-02-19",
@@ -20735,7 +20735,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 257,
+      "count": 258,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23900,14 +23900,14 @@
       ]
     },
     "residential proxy node": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-22",
         "2026-07-23"
       ]
     },
     "ban residential proxies": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-22",
         "2026-07-23"
@@ -24034,21 +24034,21 @@
       ]
     },
     "fixed 10 000": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-22",
         "2026-07-23"
       ]
     },
     "financial information stolen": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-22",
         "2026-07-23"
       ]
     },
     "every severity level": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-22",
         "2026-07-23"
@@ -24062,36 +24062,60 @@
       ]
     },
     "logistics firm disrupts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-23"
       ]
     },
     "cve 2026 16232": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "obtain root access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "gain complete control": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "authentication bypass affecting": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "chaos ransomware gang": {
+      "count": 2,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "gain root privileges": {
+      "count": 1,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "synthetic identity fraud": {
+      "count": 1,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "rockwell ics devices": {
+      "count": 1,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "businesses easy targets": {
       "count": 1,
       "dates": [
         "2026-07-23"
@@ -24099,17 +24123,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-12 22:41",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "redhook android malware",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "found strong indications"
-      ]
-    },
     {
       "timestamp": "2026-07-13 02:13",
       "articles": 48,
@@ -25196,6 +25209,17 @@
         "cybercrime group known",
         "cve 2026 16232",
         "released security updates",
+        "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-07-23 13:44",
+      "articles": 48,
+      "top_keywords": [
+        "palo alto networks",
+        "released security updates",
+        "cybercrime group known",
+        "cve 2026 16232",
         "residential proxy node"
       ]
     }

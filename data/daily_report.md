@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-23 02:13 UTC  
+> **Last Updated:** 2026-07-23 06:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **fixed 10 000** • **building ai agents** • **twitter whistleblower complaint** • **steal machine keys** • **logistics firm disrupts** • **financial information stolen** • **every severity level** • **adobe acrobat extension** • **national security risk** • **identity controls governance** • **ban residential proxies** • **create 13 million** • **314 million users** • **12 3 million** • **amplify ransomware risk**
+**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **fixed 10 000** • **financial information stolen** • **building ai agents** • **twitter whistleblower complaint** • **steal machine keys** • **logistics firm disrupts** • **every severity level** • **adobe acrobat extension** • **identity controls governance** • **ban residential proxies** • **create 13 million** • **314 million users** • **12 3 million** • **national security risk** • **amplify ransomware risk**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices](https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/)
 - [Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts](https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/)
 - [Palo Alto Networks to Acquire Observability Platform Provider Embrace](https://www.securityweek.com/palo-alto-networks-to-acquire-observability-platform-provider-embrace/)
 - [Flaw in Adobe Extension With 300M Installs Enabled WhatsApp Data Theft](https://www.securityweek.com/flaw-in-adobe-extension-with-300m-installs-enabled-whatsapp-data-theft/)
@@ -67,7 +68,6 @@
 - [StrongestLayer Raises $4.1 Million in Seed Funding Extension](https://www.securityweek.com/strongestlayer-raises-4-1-million-in-seed-funding-extension/)
 - [Vibe-Coded Apps Riddled With Exploitable Security Flaws](https://www.securityweek.com/vibe-coded-apps-riddled-with-exploitable-security-flaws/)
 - [Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks](https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/)
-- [Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation](https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-23 02:13",
+  "last_updated": "2026-07-23 06:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,61 +9,61 @@
     "residential proxy node",
     "real life identity",
     "fixed 10 000",
+    "financial information stolen",
     "building ai agents",
     "twitter whistleblower complaint",
     "steal machine keys",
     "logistics firm disrupts",
-    "financial information stolen",
     "every severity level",
     "adobe acrobat extension",
-    "national security risk",
     "identity controls governance",
     "ban residential proxies",
     "create 13 million",
     "314 million users",
     "12 3 million",
+    "national security risk",
     "amplify ransomware risk"
   ],
   "trending": [
     {
       "keyword": "palo alto networks",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "lifetime 2tb plan",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 255
+      "mentions": 256
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 10
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 240
-    },
-    {
-      "keyword": "fixed 10 000",
-      "mentions": 3
-    },
-    {
-      "keyword": "building ai agents",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2179
-    },
-    {
-      "keyword": "steal machine keys",
       "mentions": 11
     },
     {
-      "keyword": "logistics firm disrupts",
-      "mentions": 1
+      "keyword": "real life identity",
+      "mentions": 241
+    },
+    {
+      "keyword": "fixed 10 000",
+      "mentions": 4
+    },
+    {
+      "keyword": "financial information stolen",
+      "mentions": 4
+    },
+    {
+      "keyword": "building ai agents",
+      "mentions": 10
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2180
+    },
+    {
+      "keyword": "steal machine keys",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -408,6 +408,15 @@
     },
     {
       "source": "Security Week",
+      "title": "US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices",
+      "link": "https://www.securityweek.com/us-warns-of-iranian-hackers-targeting-siemens-schneider-and-rockwell-ics-devices/",
+      "summary": "An updated advisory from federal agencies provides information on the techniques used to hack programmable logic controllers. The post US Warns of Iranian Hackers Targeting Siemens, Schneider, and Rockwell ICS Devices appeared first on SecurityWeek .",
+      "published": "Thu, 23 Jul 2026 05:28:50 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
       "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
       "summary": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on SecurityWeek .",
@@ -473,15 +482,6 @@
         "CVE mentioned",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
-      "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
-      "summary": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appeared first on SecurityWeek .",
-      "published": "Wed, 22 Jul 2026 10:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

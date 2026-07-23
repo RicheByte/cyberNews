@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 639,
+      "count": 640,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -307,7 +307,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2183,
+      "count": 2184,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -563,7 +563,7 @@
       ]
     },
     "real life identity": {
-      "count": 244,
+      "count": 245,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20182,7 +20182,7 @@
       ]
     },
     "public github repository": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20737,7 +20737,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 259,
+      "count": 260,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23902,14 +23902,14 @@
       ]
     },
     "residential proxy node": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-22",
         "2026-07-23"
       ]
     },
     "ban residential proxies": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-22",
         "2026-07-23"
@@ -24064,13 +24064,13 @@
       ]
     },
     "logistics firm disrupts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-23"
       ]
     },
     "cve 2026 16232": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-23"
       ]
@@ -24094,19 +24094,19 @@
       ]
     },
     "chaos ransomware gang": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-23"
       ]
     },
     "gain root privileges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
     },
     "synthetic identity fraud": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
@@ -24118,36 +24118,48 @@
       ]
     },
     "businesses easy targets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
     },
     "hacker news ahead": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "mid april 2026": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "nearly 50 million": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "group ib tracks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
     },
     "write files anywhere": {
+      "count": 2,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "guilty pleas came": {
+      "count": 1,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "email theft cisa": {
       "count": 1,
       "dates": [
         "2026-07-23"
@@ -24155,17 +24167,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-13 06:48",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "redhook android malware",
-        "twitter whistleblower complaint",
-        "system level sabotage",
-        "found strong indications"
-      ]
-    },
     {
       "timestamp": "2026-07-13 10:54",
       "articles": 48,
@@ -25250,6 +25251,17 @@
       "top_keywords": [
         "cybercrime group known",
         "released security updates",
+        "gain root privileges",
+        "residential proxy node",
+        "cve 2026 16232"
+      ]
+    },
+    {
+      "timestamp": "2026-07-23 17:14",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "windows operating systems",
         "gain root privileges",
         "residential proxy node",
         "cve 2026 16232"

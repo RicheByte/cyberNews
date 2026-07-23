@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-07-23 15:50",
+  "last_updated": "2026-07-23 17:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "released security updates",
+    "windows operating systems",
     "gain root privileges",
     "residential proxy node",
     "cve 2026 16232",
@@ -13,60 +13,69 @@
     "public github repository",
     "logistics firm disrupts",
     "hacker news ahead",
+    "guilty pleas came",
+    "email theft cisa",
     "chaos ransomware gang",
     "businesses easy targets",
-    "authentication bypass affecting",
     "mid april 2026",
     "ban residential proxies",
     "real life identity",
     "nearly 50 million",
     "group ib tracks",
-    "write files anywhere",
-    "windows operating systems"
+    "write files anywhere"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 259
+      "mentions": 260
     },
     {
-      "keyword": "released security updates",
-      "mentions": 74
+      "keyword": "windows operating systems",
+      "mentions": 640
     },
     {
       "keyword": "gain root privileges",
-      "mentions": 2
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 14
-    },
-    {
-      "keyword": "cve 2026 16232",
       "mentions": 3
     },
     {
+      "keyword": "residential proxy node",
+      "mentions": 15
+    },
+    {
+      "keyword": "cve 2026 16232",
+      "mentions": 4
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2183
+      "mentions": 2184
     },
     {
       "keyword": "synthetic identity fraud",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "public github repository",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "logistics firm disrupts",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "hacker news ahead",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html",
+      "summary": "Most of this week's trouble came dressed as something useful. A package stole data. A fake extension opened remote access. A safety app became spyware. An image gave hidden orders to an AI agent. Other threats hid in open systems, weak code, and normal network traffic. The threats change every week. Subscribe, and we’ll alert you when each new ThreatsDay Bulletin is out. The danger was",
+      "published": "Thu, 23 Jul 2026 20:32:07 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files",
@@ -136,19 +145,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "summary": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an",
-      "published": "Thu, 23 Jul 2026 12:04:36 +0530",
-      "value_score": 82,
+      "source": "BleepingComputer",
+      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
+      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
+      "published": "Thu, 23 Jul 2026 12:49:27 -0400",
+      "value_score": 44,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Auth bypass",
-        "High severity",
+        "Phishing",
+        "CISA/KEV",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
+      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
+      "published": "Thu, 23 Jul 2026 12:32:35 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -210,28 +226,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
-      "summary": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
-      "published": "Thu, 23 Jul 2026 04:13:07 -0400",
-      "value_score": 91,
-      "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Upbound says hack caused $13 million in fraudulent Acima leases",
-      "link": "https://www.bleepingcomputer.com/news/security/upbound-says-hack-caused-13-million-in-fraudulent-acima-leases/",
-      "summary": "The Upbound Group fintech company disclosed that threat actors who stole data from its systems leveraged it to create $13 million in Acima leases. [...]",
-      "published": "Wed, 22 Jul 2026 17:43:39 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -338,7 +332,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
+      "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
       "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
       "published": "Thu, 23 Jul 2026 01:00:00 GMT",

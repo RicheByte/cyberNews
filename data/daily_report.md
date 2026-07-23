@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-23 19:06 UTC  
+> **Last Updated:** 2026-07-23 20:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **windows operating systems** • **residential proxy node** • **twitter whistleblower complaint** • **synthetic identity fraud** • **public github repository** • **logistics firm disrupts** • **hacker news ahead** • **guilty pleas came** • **chaos ransomware gang** • **businesses easy targets** • **ban residential proxies** • **real life identity** • **nearly 50 million** • **group ib tracks** • **zimbra's webmail client** • **write files anywhere** • **turn one's television** • **sprawling phishing campaign** • **software almost triple**
+**cybercrime group known** • **windows operating systems** • **residential proxy node** • **anthropic's claude cowork** • **twitter whistleblower complaint** • **synthetic identity fraud** • **public github repository** • **logistics firm disrupts** • **legitimate notepad application** • **hacker news ahead** • **guilty pleas came** • **businesses easy targets** • **ban residential proxies** • **real life identity** • **nearly 50 million** • **group ib tracks** • **zimbra's webmail client** • **write files anywhere** • **unauthorized party accessed** • **turn one's television**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Australian energy provider Origin says data breach exposes client data](https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/)
+- [Fake Claude app promoted by Bing ads pushes SectopRAT malware](https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/)
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/)
 - [Hackers abuse Notepad++ plugins to stealthily install malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/)
 - [Microsoft 365 outage affects Teams, SharePoint and other services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/)
 - [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
 - [EU fines Google $1 billion for search, app store antitrust violations](https://www.bleepingcomputer.com/news/google/eu-fines-google-1-billion-for-digital-markets-act-breaches-in-search-and-play-store/)
 - [New RefluXFS Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/linux/new-refluxfs-linux-flaw-lets-attackers-gain-root-privileges/)
-- [New msaRAT malware uses Chrome, Edge browsers to route C2 traffic](https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/)
-- [Microsoft working to fix Exchange Online mailbox quarantine issue](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/)
 
 ### Krebs on Security
 

@@ -1,18 +1,19 @@
 {
-  "last_updated": "2026-07-23 19:06",
+  "last_updated": "2026-07-23 20:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "windows operating systems",
     "residential proxy node",
+    "anthropic's claude cowork",
     "twitter whistleblower complaint",
     "synthetic identity fraud",
     "public github repository",
     "logistics firm disrupts",
+    "legitimate notepad application",
     "hacker news ahead",
     "guilty pleas came",
-    "chaos ransomware gang",
     "businesses easy targets",
     "ban residential proxies",
     "real life identity",
@@ -20,50 +21,49 @@
     "group ib tracks",
     "zimbra's webmail client",
     "write files anywhere",
-    "turn one's television",
-    "sprawling phishing campaign",
-    "software almost triple"
+    "unauthorized party accessed",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 261
+      "mentions": 262
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 641
+      "mentions": 642
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "anthropic's claude cowork",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2185
+      "mentions": 2186
     },
     {
       "keyword": "synthetic identity fraud",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "public github repository",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "logistics firm disrupts",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "legitimate notepad application",
+      "mentions": 1
     },
     {
       "keyword": "hacker news ahead",
-      "mentions": 3
-    },
-    {
-      "keyword": "guilty pleas came",
-      "mentions": 2
-    },
-    {
-      "keyword": "chaos ransomware gang",
-      "mentions": 5
+      "mentions": 4
     }
   ],
   "articles": [
@@ -147,6 +147,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Australian energy provider Origin says data breach exposes client data",
+      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
+      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
+      "published": "Thu, 23 Jul 2026 16:14:35 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
+      "published": "Thu, 23 Jul 2026 15:48:30 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
       "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
@@ -203,29 +223,6 @@
       "value_score": 28,
       "value_signals": [
         "CVE mentioned"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
-      "summary": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
-      "published": "Thu, 23 Jul 2026 06:00:00 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "Ransomware",
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
-      "summary": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
-      "published": "Thu, 23 Jul 2026 05:20:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

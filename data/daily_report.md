@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-22 22:56 UTC  
+> **Last Updated:** 2026-07-23 02:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **fixed 10 000** • **building ai agents** • **twitter whistleblower complaint** • **steal machine keys** • **financial information stolen** • **every severity level** • **adobe acrobat extension** • **actual risk depends** • **identity controls governance** • **ban residential proxies** • **national security risk** • **create 13 million** • **314 million users** • **12 3 million** • **amplify ransomware risk**
+**palo alto networks** • **lifetime 2tb plan** • **cybercrime group known** • **residential proxy node** • **real life identity** • **fixed 10 000** • **building ai agents** • **twitter whistleblower complaint** • **steal machine keys** • **logistics firm disrupts** • **financial information stolen** • **every severity level** • **adobe acrobat extension** • **national security risk** • **identity controls governance** • **ban residential proxies** • **create 13 million** • **314 million users** • **12 3 million** • **amplify ransomware risk**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain)
 - [Attackers Are Learning to Live Off the AI Toolchain](https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain)
 - [Fake Bahrain Alert App Deploys Android Surveillance Malware](https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware)
 - [When AI Attacks: OpenAI Models Autonomously Hack Hugging Face](https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face)
@@ -56,7 +57,6 @@
 - [Ransomware Is Accelerating, but It's Not Because of AI](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai)
 - [Using LLMs to Find and Prioritize Vulnerabilities Is No Easy Task](https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task)
 - [Hacker Turns AI Jailbreaks Into Offensive Attack Platform](https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform)
-- [Choose Wisely: AI-Generated Coding Risk Varies, a Lot](https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies)
 
 ### Security Week
 

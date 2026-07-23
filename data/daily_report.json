@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-22 22:56",
+  "last_updated": "2026-07-23 02:13",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,13 +12,13 @@
     "building ai agents",
     "twitter whistleblower complaint",
     "steal machine keys",
+    "logistics firm disrupts",
     "financial information stolen",
     "every severity level",
     "adobe acrobat extension",
-    "actual risk depends",
+    "national security risk",
     "identity controls governance",
     "ban residential proxies",
-    "national security risk",
     "create 13 million",
     "314 million users",
     "12 3 million",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "palo alto networks",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "lifetime 2tb plan",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 254
+      "mentions": 255
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 9
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 239
-    },
-    {
-      "keyword": "fixed 10 000",
-      "mentions": 2
-    },
-    {
-      "keyword": "building ai agents",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2178
-    },
-    {
-      "keyword": "steal machine keys",
       "mentions": 10
     },
     {
-      "keyword": "financial information stolen",
-      "mentions": 2
+      "keyword": "real life identity",
+      "mentions": 240
+    },
+    {
+      "keyword": "fixed 10 000",
+      "mentions": 3
+    },
+    {
+      "keyword": "building ai agents",
+      "mentions": 9
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2179
+    },
+    {
+      "keyword": "steal machine keys",
+      "mentions": 11
+    },
+    {
+      "keyword": "logistics firm disrupts",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -326,6 +326,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ransomware Attack Puts a Chill On Japanese Frozen-Food Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
+      "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
+      "published": "Thu, 23 Jul 2026 01:00:00 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Are Learning to Live Off the AI Toolchain",
       "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
       "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
@@ -392,15 +403,6 @@
       "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
       "summary": "A Russian-speaking actor, \"Trim,\" dismantled publicly available frontier models and integrated them with offensive security tools.",
       "published": "Tue, 21 Jul 2026 18:38:52 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Choose Wisely: AI-Generated Coding Risk Varies, a Lot",
-      "link": "https://www.darkreading.com/application-security/choose-wisely-ai-generated-coding-risk-varies",
-      "summary": "AI-generated code introduces 15 vulnerabilities on average per codebase, but the actual risk depends on framework pairing more than the model used.",
-      "published": "Tue, 21 Jul 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

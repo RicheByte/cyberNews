@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 640,
+      "count": 641,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -307,7 +307,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2184,
+      "count": 2185,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -563,7 +563,7 @@
       ]
     },
     "real life identity": {
-      "count": 245,
+      "count": 246,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1874,7 +1874,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 511,
+      "count": 512,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1970,7 +1970,8 @@
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
-        "2026-07-21"
+        "2026-07-21",
+        "2026-07-23"
       ]
     },
     "model agnostic abstractions": {
@@ -20182,7 +20183,7 @@
       ]
     },
     "public github repository": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20737,7 +20738,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23033,7 +23034,7 @@
       ]
     },
     "software almost triple": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23041,7 +23042,8 @@
         "2026-07-18",
         "2026-07-19",
         "2026-07-20",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-23"
       ]
     },
     "spanish police dismantled": {
@@ -23902,14 +23904,14 @@
       ]
     },
     "residential proxy node": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-22",
         "2026-07-23"
       ]
     },
     "ban residential proxies": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-22",
         "2026-07-23"
@@ -24064,7 +24066,7 @@
       ]
     },
     "logistics firm disrupts": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-23"
       ]
@@ -24094,7 +24096,7 @@
       ]
     },
     "chaos ransomware gang": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-23"
       ]
@@ -24106,7 +24108,7 @@
       ]
     },
     "synthetic identity fraud": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-23"
       ]
@@ -24118,13 +24120,13 @@
       ]
     },
     "businesses easy targets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-23"
       ]
     },
     "hacker news ahead": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
@@ -24136,25 +24138,25 @@
       ]
     },
     "nearly 50 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
     },
     "group ib tracks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
     },
     "write files anywhere": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-23"
       ]
     },
     "guilty pleas came": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-23"
       ]
@@ -24164,20 +24166,21 @@
       "dates": [
         "2026-07-23"
       ]
+    },
+    "zimbra's webmail client": {
+      "count": 1,
+      "dates": [
+        "2026-07-23"
+      ]
+    },
+    "turn one's television": {
+      "count": 1,
+      "dates": [
+        "2026-07-23"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-13 10:54",
-      "articles": 48,
-      "top_keywords": [
-        "storage zone controllers",
-        "redhook android malware",
-        "cybercrime group known",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-07-13 14:21",
       "articles": 48,
@@ -25265,6 +25268,17 @@
         "gain root privileges",
         "residential proxy node",
         "cve 2026 16232"
+      ]
+    },
+    {
+      "timestamp": "2026-07-23 19:06",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "windows operating systems",
+        "residential proxy node",
+        "twitter whistleblower complaint",
+        "synthetic identity fraud"
       ]
     }
   ]

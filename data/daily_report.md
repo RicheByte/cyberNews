@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-23 17:14 UTC  
+> **Last Updated:** 2026-07-23 19:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **windows operating systems** • **gain root privileges** • **residential proxy node** • **cve 2026 16232** • **twitter whistleblower complaint** • **synthetic identity fraud** • **public github repository** • **logistics firm disrupts** • **hacker news ahead** • **guilty pleas came** • **email theft cisa** • **chaos ransomware gang** • **businesses easy targets** • **mid april 2026** • **ban residential proxies** • **real life identity** • **nearly 50 million** • **group ib tracks** • **write files anywhere**
+**cybercrime group known** • **windows operating systems** • **residential proxy node** • **twitter whistleblower complaint** • **synthetic identity fraud** • **public github repository** • **logistics firm disrupts** • **hacker news ahead** • **guilty pleas came** • **chaos ransomware gang** • **businesses easy targets** • **ban residential proxies** • **real life identity** • **nearly 50 million** • **group ib tracks** • **zimbra's webmail client** • **write files anywhere** • **turn one's television** • **sprawling phishing campaign** • **software almost triple**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html)
 - [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
 - [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
 - [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
@@ -23,7 +24,6 @@
 - [How Synthetic Identity Fraud is Coming for Machine Identities](https://thehackernews.com/2026/07/how-synthetic-identity-fraud-is-coming.html)
 - [Attackers Weaponize GitHub Actions Runners to Target cPanel and WHM Servers](https://thehackernews.com/2026/07/attackers-weaponize-github-actions.html)
 - [Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts](https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html)
-- [Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs](https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html)
 
 ### BleepingComputer
 

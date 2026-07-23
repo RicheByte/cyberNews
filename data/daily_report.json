@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-07-23 17:14",
+  "last_updated": "2026-07-23 19:06",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "windows operating systems",
-    "gain root privileges",
     "residential proxy node",
-    "cve 2026 16232",
     "twitter whistleblower complaint",
     "synthetic identity fraud",
     "public github repository",
     "logistics firm disrupts",
     "hacker news ahead",
     "guilty pleas came",
-    "email theft cisa",
     "chaos ransomware gang",
     "businesses easy targets",
-    "mid april 2026",
     "ban residential proxies",
     "real life identity",
     "nearly 50 million",
     "group ib tracks",
-    "write files anywhere"
+    "zimbra's webmail client",
+    "write files anywhere",
+    "turn one's television",
+    "sprawling phishing campaign",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 260
+      "mentions": 261
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 640
-    },
-    {
-      "keyword": "gain root privileges",
-      "mentions": 3
+      "mentions": 641
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 15
-    },
-    {
-      "keyword": "cve 2026 16232",
-      "mentions": 4
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2184
+      "mentions": 2185
     },
     {
       "keyword": "synthetic identity fraud",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "public github repository",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "logistics firm disrupts",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "hacker news ahead",
+      "mentions": 3
+    },
+    {
+      "keyword": "guilty pleas came",
       "mentions": 2
+    },
+    {
+      "keyword": "chaos ransomware gang",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes",
+      "link": "https://thehackernews.com/2026/07/russian-espionage-group-exploited.html",
+      "summary": "A Russian state-supported espionage group spent months reading Western mailboxes through a then-unknown flaw in Zimbra's webmail client. The payload goes after the last 90 days of email, the organization's entire email directory, the password saved in the browser and the codes kept for two-factor recovery. Opening the message was enough to start it. The NSA, CISA and partner agencies published",
+      "published": "Fri, 24 Jul 2026 00:06:08 +0530",
+      "value_score": 61,
+      "value_signals": [
+        "Zero-day",
+        "CISA/KEV",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories",
@@ -133,18 +146,6 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "summary": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation. The company demonstrated the race",
-      "published": "Thu, 23 Jul 2026 13:34:35 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
       "source": "BleepingComputer",
       "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
       "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
@@ -170,7 +171,7 @@
       "source": "BleepingComputer",
       "title": "Microsoft 365 outage affects Teams, SharePoint and other services",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/",
-      "summary": "Microsoft Teams and several Microsoft 365 services are experiencing an ongoing outage, with users reporting problems accessing Teams, SharePoint, Excel and the Microsoft 365 Admin Center. [...]",
+      "summary": "Microsoft is impacted by a massive outage affecting Teams and Microsoft 365 services, primarily affecting users in North America. [...]",
       "published": "Thu, 23 Jul 2026 11:34:43 -0400",
       "value_score": 10,
       "value_signals": []

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 19:17",
+  "last_updated": "2026-07-24 20:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -16,54 +16,54 @@
     "clickfix style campaigns",
     "businesses easy targets",
     "nearly 50 million",
+    "ai agent security",
     "ban residential proxies",
     "4 14 2",
     "4 14 0",
-    "ai agent security",
     "sprawling phishing campaign",
     "six hour review",
-    "secure data vaults"
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "ai security layer",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 270
+      "mentions": 271
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "single phishing link",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "seeing ai agents",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "enforcing least privilege",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2194
+      "mentions": 2195
     },
     {
       "keyword": "resulting kerberos credential",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "real life identity",
-      "mentions": 254
+      "mentions": 255
     },
     {
       "keyword": "logistics firm disrupts",
-      "mentions": 16
+      "mentions": 17
     }
   ],
   "articles": [
@@ -157,6 +157,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OnTrac notifies customers of data breach after network hack",
+      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
+      "published": "Fri, 24 Jul 2026 15:55:01 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
       "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
       "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
@@ -224,17 +235,6 @@
       "published": "Fri, 24 Jul 2026 07:17:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Clop ransomware targets Windchill, FlexPLM in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
-      "summary": "The Clop ransomware gang (also tracked as Cl0p) is targeting Internet-exposed PTC Windchill and FlexPLM instances in a new data theft extortion campaign. [...]",
-      "published": "Fri, 24 Jul 2026 03:36:39 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+      "published": "Fri, 24 Jul 2026 19:45:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
       "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
       "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
@@ -388,17 +397,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
-      "link": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
-      "summary": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
-      "published": "Wed, 22 Jul 2026 23:50:01 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

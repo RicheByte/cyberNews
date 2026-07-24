@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-24 10:11 UTC |
+| 🕐 Last Updated | 2026-07-24 13:24 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `residential proxy node` • `businesses easy targets` • `windows operating systems` • `compromise windows systems` • `anthropic's claude cowork` • `twitter whistleblower complaint` • `logistics firm disrupts` • `legitimate notepad application` • `guilty pleas came`
+`ai security layer` • `email theft cisa` • `cybercrime group known` • `residential proxy node` • `businesses easy targets` • `single phishing link` • `seeing ai agents` • `enforcing least privilege` • `twitter whistleblower complaint` • `real life identity`
 
 ## 📄 Reports
 

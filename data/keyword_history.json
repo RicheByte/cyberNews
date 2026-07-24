@@ -308,7 +308,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2190,
+      "count": 2191,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -565,7 +565,7 @@
       ]
     },
     "real life identity": {
-      "count": 250,
+      "count": 251,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1151,7 +1151,7 @@
       ]
     },
     "national security risk": {
-      "count": 297,
+      "count": 298,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1207,7 +1207,8 @@
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-24"
       ]
     },
     "open source millions": {
@@ -20742,7 +20743,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 266,
+      "count": 267,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23909,7 +23910,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23917,7 +23918,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24073,7 +24074,7 @@
       ]
     },
     "logistics firm disrupts": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24129,7 +24130,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24149,7 +24150,7 @@
       ]
     },
     "nearly 50 million": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24177,9 +24178,10 @@
       ]
     },
     "email theft cisa": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-24"
       ]
     },
     "zimbra's webmail client": {
@@ -24203,7 +24205,7 @@
       ]
     },
     "legitimate notepad application": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24217,7 +24219,7 @@
       ]
     },
     "us ukraine targets": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24248,13 +24250,13 @@
       ]
     },
     "4 14 0": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-24"
       ]
     },
     "ai security layer": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-24"
       ]
@@ -24264,20 +24266,45 @@
       "dates": [
         "2026-07-24"
       ]
+    },
+    "single phishing link": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
+    },
+    "seeing ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
+    },
+    "enforcing least privilege": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
+    },
+    "4 14 2": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
+    },
+    "six hour review": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
+    },
+    "aikido security rates": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-14 01:58",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "remote code execution",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "resetting account passwords"
-      ]
-    },
     {
       "timestamp": "2026-07-14 04:54",
       "articles": 48,
@@ -25365,6 +25392,17 @@
         "businesses easy targets",
         "windows operating systems",
         "compromise windows systems"
+      ]
+    },
+    {
+      "timestamp": "2026-07-24 13:24",
+      "articles": 48,
+      "top_keywords": [
+        "ai security layer",
+        "email theft cisa",
+        "cybercrime group known",
+        "residential proxy node",
+        "businesses easy targets"
       ]
     }
   ]

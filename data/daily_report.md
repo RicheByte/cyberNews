@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-24 10:11 UTC  
+> **Last Updated:** 2026-07-24 13:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **businesses easy targets** • **windows operating systems** • **compromise windows systems** • **anthropic's claude cowork** • **twitter whistleblower complaint** • **logistics firm disrupts** • **legitimate notepad application** • **guilty pleas came** • **8 8 0** • **4 14 0** • **ai security layer** • **us ukraine targets** • **ban residential proxies** • **nearly 50 million** • **secure data vaults** • **package stole data** • **russia aligned group** • **zimbra's webmail client**
+**ai security layer** • **email theft cisa** • **cybercrime group known** • **residential proxy node** • **businesses easy targets** • **single phishing link** • **seeing ai agents** • **enforcing least privilege** • **twitter whistleblower complaint** • **real life identity** • **logistics firm disrupts** • **legitimate notepad application** • **nearly 50 million** • **us ukraine targets** • **ban residential proxies** • **4 14 2** • **4 14 0** • **six hour review** • **national security risk** • **aikido security rates**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
+- [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
+- [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
+- [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
+- [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
 - [NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats](https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html)
 - [Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say](https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html)
 - [Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks](https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html)
-- [Russian Espionage Group Exploited Zimbra Zero-Day to Steal Mail and 2FA Codes](https://thehackernews.com/2026/07/russian-espionage-group-exploited.html)
-- [ThreatsDay: Android Spyware, PLC Attacks, AI Image Prompt Injection + 12 More Stories](https://thehackernews.com/2026/07/threatsday-android-spyware-plc-attacks.html)
-- [Claude Cowork Flaw Could Let AI Agent Escape Its VM and Access Mac Files](https://thehackernews.com/2026/07/claude-cowork-flaw-could-let-ai-agent.html)
-- [Chaos Ransomware Uses msaRAT to Route C2 Traffic Through Headless Chrome and Edge](https://thehackernews.com/2026/07/chaos-ransomware-uses-msarat-to-route.html)
-- [China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks](https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html)
 
 ### BleepingComputer
 
+- [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
+- [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
 - [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
 - [New Dolphin X malware uses AI to rank high-value targets](https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/)
 - [Australian energy provider Origin says data breach exposes client data](https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/)
 - [Fake Claude app promoted by Bing ads pushes SectopRAT malware](https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/)
 - [Russian hackers exploit Zimbra zero-click flaw for email theft](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/)
 - [Hackers abuse Notepad++ plugins to stealthily install malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/)
-- [Microsoft 365 outage affects Teams, SharePoint and other services](https://www.bleepingcomputer.com/news/microsoft/microsoft-365-outage-affects-teams-sharepoint-and-other-services/)
-- [FedRAMP Rev5 Is Ending: What the 20x Transition Really Requires](https://www.bleepingcomputer.com/news/security/fedramp-rev5-is-ending-what-the-20x-transition-really-requires/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Vatican's Official Prayer App Leaks 700K+ Global Users' PII](https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii)
 - [Europe's Multilingual Reality Exposes AI Security Gaps](https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps)
 - [Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets)
 - [Agentic AI Challenges Progress in Confidential Computing](https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing)
@@ -56,18 +57,17 @@
 - [Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain)
 - [Flaws in Passkey Implementation Show Old Attacks Still Work](https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work)
 - [Attackers Are Learning to Live Off the AI Toolchain](https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain)
-- [Fake Bahrain Alert App Deploys Android Surveillance Malware](https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware)
 
 ### Security Week
 
+- [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
+- [Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday](https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/)
 - [Data Breach Confirmed After Australian Energy Giant Origin Is Hacked](https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/)
 - [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
 - [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
 - [Chick-fil-A Accounts Get Fried in Credential Stuffing Attack](https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/)
 - [Abstract Raises $25 Million to Expand Composable Security Operations Platform](https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/)
 - [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
-- [Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses](https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/)
-- [Assaf Keren Appointed New CISO of Meta](https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/)
 
 ### Threatpost
 

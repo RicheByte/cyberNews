@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 02:09",
+  "last_updated": "2026-07-24 06:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -13,57 +13,57 @@
     "public github repository",
     "logistics firm disrupts",
     "legitimate notepad application",
-    "hacker news ahead",
     "guilty pleas came",
     "us ukraine targets",
     "ban residential proxies",
     "real life identity",
     "nearly 50 million",
+    "secure data vaults",
+    "package stole data",
     "group ib tracks",
     "zimbra's webmail client",
-    "write files anywhere",
-    "unauthorized party accessed"
+    "write files anywhere"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 264
+      "mentions": 265
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 644
+      "mentions": 645
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "businesses easy targets",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "anthropic's claude cowork",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2188
+      "mentions": 2189
     },
     {
       "keyword": "synthetic identity fraud",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "public github repository",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "logistics firm disrupts",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "legitimate notepad application",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -394,6 +394,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
+      "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
+      "summary": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek .",
+      "published": "Fri, 24 Jul 2026 05:52:31 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
       "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
       "summary": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider appeared first on SecurityWeek .",
@@ -459,20 +470,6 @@
       "published": "Thu, 23 Jul 2026 09:53:51 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
-      "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
-      "summary": "The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations. The post New Check Point Zero-Day Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Thu, 23 Jul 2026 09:06:04 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

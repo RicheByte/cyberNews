@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-24 02:09 UTC  
+> **Last Updated:** 2026-07-24 06:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **windows operating systems** • **residential proxy node** • **businesses easy targets** • **anthropic's claude cowork** • **twitter whistleblower complaint** • **synthetic identity fraud** • **public github repository** • **logistics firm disrupts** • **legitimate notepad application** • **hacker news ahead** • **guilty pleas came** • **us ukraine targets** • **ban residential proxies** • **real life identity** • **nearly 50 million** • **group ib tracks** • **zimbra's webmail client** • **write files anywhere** • **unauthorized party accessed**
+**cybercrime group known** • **windows operating systems** • **residential proxy node** • **businesses easy targets** • **anthropic's claude cowork** • **twitter whistleblower complaint** • **synthetic identity fraud** • **public github repository** • **logistics firm disrupts** • **legitimate notepad application** • **guilty pleas came** • **us ukraine targets** • **ban residential proxies** • **real life identity** • **nearly 50 million** • **secure data vaults** • **package stole data** • **group ib tracks** • **zimbra's webmail client** • **write files anywhere**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Data Breach Confirmed After Australian Energy Giant Origin Is Hacked](https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/)
 - [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
 - [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
 - [Chick-fil-A Accounts Get Fried in Credential Stuffing Attack](https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/)
@@ -67,7 +68,6 @@
 - [Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models](https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/)
 - [Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses](https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/)
 - [Assaf Keren Appointed New CISO of Meta](https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/)
-- [New Check Point Zero-Day Vulnerability Exploited in the Wild](https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/)
 
 ### Threatpost
 

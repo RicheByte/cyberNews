@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-24 20:57 UTC  
+> **Last Updated:** 2026-07-24 22:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai security layer** • **cybercrime group known** • **residential proxy node** • **single phishing link** • **seeing ai agents** • **enforcing least privilege** • **twitter whistleblower complaint** • **resulting kerberos credential** • **real life identity** • **logistics firm disrupts** • **clickfix style campaigns** • **businesses easy targets** • **nearly 50 million** • **ai agent security** • **ban residential proxies** • **4 14 2** • **4 14 0** • **sprawling phishing campaign** • **six hour review** • **national security risk**
+**ai security layer** • **cybercrime group known** • **residential proxy node** • **single phishing link** • **seeing ai agents** • **enforcing least privilege** • **twitter whistleblower complaint** • **resulting kerberos credential** • **real life identity** • **clickfix style campaigns** • **businesses easy targets** • **nearly 50 million** • **ban residential proxies** • **4 14 2** • **4 14 0** • **ai agent security** • **sprawling phishing campaign** • **six hour review** • **secure data vaults** • **national security risk**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [CISOs vs. Boards: Myth or Misunderstanding?](https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-)
 - [Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation](https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation)
 - [Vatican's Official Prayer App Leaks 700K+ Global Users' PII](https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii)
 - [Default Azure Automation Setting Enables Cross-Tenant Identity Takeover](https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover)
@@ -56,7 +57,6 @@
 - [Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets)
 - [Agentic AI Challenges Progress in Confidential Computing](https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing)
 - [Brazilian Banking Trojan Actively Spreading in Portugal](https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal)
-- [Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain)
 
 ### Security Week
 

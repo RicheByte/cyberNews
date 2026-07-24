@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-24 20:57 UTC |
+| 🕐 Last Updated | 2026-07-24 22:56 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`ai security layer` • `cybercrime group known` • `residential proxy node` • `single phishing link` • `seeing ai agents` • `enforcing least privilege` • `twitter whistleblower complaint` • `resulting kerberos credential` • `real life identity` • `logistics firm disrupts`
+`ai security layer` • `cybercrime group known` • `residential proxy node` • `single phishing link` • `seeing ai agents` • `enforcing least privilege` • `twitter whistleblower complaint` • `resulting kerberos credential` • `real life identity` • `clickfix style campaigns`
 
 ## 📄 Reports
 

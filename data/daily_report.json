@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-24 20:57",
+  "last_updated": "2026-07-24 22:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,58 +12,58 @@
     "twitter whistleblower complaint",
     "resulting kerberos credential",
     "real life identity",
-    "logistics firm disrupts",
     "clickfix style campaigns",
     "businesses easy targets",
     "nearly 50 million",
-    "ai agent security",
     "ban residential proxies",
     "4 14 2",
     "4 14 0",
+    "ai agent security",
     "sprawling phishing campaign",
     "six hour review",
+    "secure data vaults",
     "national security risk"
   ],
   "trending": [
     {
       "keyword": "ai security layer",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 271
+      "mentions": 272
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "single phishing link",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "seeing ai agents",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "enforcing least privilege",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2195
+      "mentions": 2196
     },
     {
       "keyword": "resulting kerberos credential",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "real life identity",
-      "mentions": 255
+      "mentions": 256
     },
     {
-      "keyword": "logistics firm disrupts",
-      "mentions": 17
+      "keyword": "clickfix style campaigns",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -323,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+      "published": "Fri, 24 Jul 2026 21:31:53 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
       "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
       "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
@@ -387,17 +396,6 @@
       "published": "Thu, 23 Jul 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
-      "summary": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
-      "published": "Thu, 23 Jul 2026 01:00:00 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Security Week",

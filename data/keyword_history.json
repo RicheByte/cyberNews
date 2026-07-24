@@ -308,7 +308,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2192,
+      "count": 2193,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -565,7 +565,7 @@
       ]
     },
     "real life identity": {
-      "count": 252,
+      "count": 253,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1878,7 +1878,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 512,
+      "count": 513,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1975,7 +1975,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-21",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-24"
       ]
     },
     "model agnostic abstractions": {
@@ -20743,7 +20744,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 268,
+      "count": 269,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23910,7 +23911,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23918,7 +23919,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24074,7 +24075,7 @@
       ]
     },
     "logistics firm disrupts": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24130,7 +24131,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24150,7 +24151,7 @@
       ]
     },
     "nearly 50 million": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-23",
         "2026-07-24"
@@ -24219,14 +24220,14 @@
       ]
     },
     "us ukraine targets": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-23",
         "2026-07-24"
       ]
     },
     "secure data vaults": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-24"
       ]
@@ -24250,13 +24251,13 @@
       ]
     },
     "4 14 0": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-24"
       ]
     },
     "ai security layer": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-24"
       ]
@@ -24268,31 +24269,31 @@
       ]
     },
     "single phishing link": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-24"
       ]
     },
     "seeing ai agents": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-24"
       ]
     },
     "enforcing least privilege": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-24"
       ]
     },
     "4 14 2": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-24"
       ]
     },
     "six hour review": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-24"
       ]
@@ -24304,7 +24305,7 @@
       ]
     },
     "resulting kerberos credential": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-24"
       ]
@@ -24314,20 +24315,15 @@
       "dates": [
         "2026-07-24"
       ]
+    },
+    "clickfix style campaigns": {
+      "count": 1,
+      "dates": [
+        "2026-07-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-14 07:53",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "remote code execution",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint",
-        "resetting account passwords"
-      ]
-    },
     {
       "timestamp": "2026-07-14 09:52",
       "articles": 48,
@@ -25415,6 +25411,17 @@
         "single phishing link",
         "residential proxy node",
         "businesses easy targets"
+      ]
+    },
+    {
+      "timestamp": "2026-07-24 17:24",
+      "articles": 48,
+      "top_keywords": [
+        "ai security layer",
+        "cybercrime group known",
+        "residential proxy node",
+        "businesses easy targets",
+        "single phishing link"
       ]
     }
   ]

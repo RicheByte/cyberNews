@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-24 15:21",
+  "last_updated": "2026-07-24 17:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "ai security layer",
     "cybercrime group known",
-    "single phishing link",
     "residential proxy node",
     "businesses easy targets",
+    "single phishing link",
     "seeing ai agents",
     "enforcing least privilege",
     "twitter whistleblower complaint",
     "resulting kerberos credential",
     "real life identity",
     "logistics firm disrupts",
+    "clickfix style campaigns",
     "nearly 50 million",
     "us ukraine targets",
     "ban residential proxies",
     "4 14 2",
     "4 14 0",
+    "sprawling phishing campaign",
     "six hour review",
-    "national security risk",
-    "aikido security rates",
-    "tenants data credentials"
+    "secure data vaults"
   ],
   "trending": [
     {
       "keyword": "ai security layer",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 268
-    },
-    {
-      "keyword": "single phishing link",
-      "mentions": 2
+      "mentions": 269
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "businesses easy targets",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "single phishing link",
+      "mentions": 3
     },
     {
       "keyword": "seeing ai agents",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "enforcing least privilege",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2192
+      "mentions": 2193
     },
     {
       "keyword": "resulting kerberos credential",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "real life identity",
-      "mentions": 252
+      "mentions": 253
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
+      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
+      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
+      "published": "Fri, 24 Jul 2026 20:42:35 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
@@ -145,16 +156,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "summary": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution. Redis 6.2.23, 7.2.15, and 7.4.10",
-      "published": "Fri, 24 Jul 2026 12:28:27 +0530",
-      "value_score": 56,
-      "value_signals": [
-        "RCE ×3",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
+      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
+      "published": "Fri, 24 Jul 2026 11:41:44 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -226,15 +234,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Fake Claude app promoted by Bing ads pushes SectopRAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
-      "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
-      "published": "Thu, 23 Jul 2026 15:48:30 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -334,7 +333,7 @@
       "source": "Dark Reading",
       "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
       "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "summary": "Microsoft addressed a public-by-default configuration and chain of code flaws in Azure Automation which could have let attackers seize another tenant's identity and access other tenants' data, credentials, and cloud workloads.",
+      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
       "published": "Fri, 24 Jul 2026 12:48:16 GMT",
       "value_score": 10,
       "value_signals": []

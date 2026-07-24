@@ -1,20 +1,19 @@
 {
-  "last_updated": "2026-07-24 13:24",
+  "last_updated": "2026-07-24 15:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "ai security layer",
-    "email theft cisa",
     "cybercrime group known",
+    "single phishing link",
     "residential proxy node",
     "businesses easy targets",
-    "single phishing link",
     "seeing ai agents",
     "enforcing least privilege",
     "twitter whistleblower complaint",
+    "resulting kerberos credential",
     "real life identity",
     "logistics firm disrupts",
-    "legitimate notepad application",
     "nearly 50 million",
     "us ukraine targets",
     "ban residential proxies",
@@ -22,51 +21,63 @@
     "4 14 0",
     "six hour review",
     "national security risk",
-    "aikido security rates"
+    "aikido security rates",
+    "tenants data credentials"
   ],
   "trending": [
     {
       "keyword": "ai security layer",
-      "mentions": 2
-    },
-    {
-      "keyword": "email theft cisa",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 267
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 22
-    },
-    {
-      "keyword": "businesses easy targets",
-      "mentions": 10
+      "mentions": 268
     },
     {
       "keyword": "single phishing link",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 23
+    },
+    {
+      "keyword": "businesses easy targets",
+      "mentions": 11
     },
     {
       "keyword": "seeing ai agents",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "enforcing least privilege",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2191
+      "mentions": 2192
+    },
+    {
+      "keyword": "resulting kerberos credential",
+      "mentions": 1
     },
     {
       "keyword": "real life identity",
-      "mentions": 251
+      "mentions": 252
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
+      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
+      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
+      "published": "Fri, 24 Jul 2026 19:45:21 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
@@ -146,13 +157,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to",
-      "published": "Fri, 24 Jul 2026 12:20:57 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Chick-fil-A data breach affects more than 13,000 customers",
+      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
+      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
+      "published": "Fri, 24 Jul 2026 10:04:29 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
+      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
+      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters the pipeline. [...]",
+      "published": "Fri, 24 Jul 2026 10:01:11 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -209,28 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
       "summary": "A malvertising campaign on the Bing search service is pushing a fake Claude desktop app installer hosted on a legitimate Claude.ai domain to deliver the SectopRAT malware. [...]",
       "published": "Thu, 23 Jul 2026 15:48:30 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers exploit Zimbra zero-click flaw for email theft",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-zimbra-zero-click-flaw-for-email-theft/",
-      "summary": "CISA is warning that the Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is targeting organizations using Zimbra Collaboration email servers by combining phishing attacks with the exploitation of a now-patched Zimbra vulnerability. [...]",
-      "published": "Thu, 23 Jul 2026 12:49:27 -0400",
-      "value_score": 44,
-      "value_signals": [
-        "Phishing",
-        "CISA/KEV",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse Notepad++ plugins to stealthily install malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-notepad-plus-plus-plugins-to-stealthily-install-malware/",
-      "summary": "Ukraine's CERT has uncovered attacks distributing an archive containing the legitimate Notepad++ application and a malicious utility called LunchPoke disguised as a plugin to establish persistence. [...]",
-      "published": "Thu, 23 Jul 2026 12:32:35 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -323,8 +325,17 @@
       "source": "Dark Reading",
       "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
       "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "summary": "A porous API endpoint exposes, names, email addresses, location, and site status, all of which can be easily gleaned by anyone with a browser.",
+      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
       "published": "Fri, 24 Jul 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
+      "summary": "Microsoft addressed a public-by-default configuration and chain of code flaws in Azure Automation which could have let attackers seize another tenant's identity and access other tenants' data, credentials, and cloud workloads.",
+      "published": "Fri, 24 Jul 2026 12:48:16 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -391,14 +402,14 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Attackers Are Learning to Live Off the AI Toolchain",
-      "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
-      "summary": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
-      "published": "Wed, 22 Jul 2026 21:29:01 GMT",
-      "value_score": 16,
+      "source": "Security Week",
+      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
+      "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
+      "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws appeared first on SecurityWeek .",
+      "published": "Fri, 24 Jul 2026 14:20:00 +0000",
+      "value_score": 28,
       "value_signals": [
-        "Exploit wording"
+        "Ransomware"
       ]
     },
     {
@@ -466,15 +477,6 @@
       "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
       "summary": "The latest investment round brings the total raised by Abstract to nearly $50 million. The post Abstract Raises $25 Million to Expand Composable Security Operations Platform appeared first on SecurityWeek .",
       "published": "Thu, 23 Jul 2026 13:54:56 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
-      "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
-      "summary": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared first on SecurityWeek .",
-      "published": "Thu, 23 Jul 2026 12:42:12 +0000",
       "value_score": 10,
       "value_signals": []
     },

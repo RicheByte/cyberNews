@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-24 17:24 UTC  
+> **Last Updated:** 2026-07-24 19:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai security layer** • **cybercrime group known** • **residential proxy node** • **businesses easy targets** • **single phishing link** • **seeing ai agents** • **enforcing least privilege** • **twitter whistleblower complaint** • **resulting kerberos credential** • **real life identity** • **logistics firm disrupts** • **clickfix style campaigns** • **nearly 50 million** • **us ukraine targets** • **ban residential proxies** • **4 14 2** • **4 14 0** • **sprawling phishing campaign** • **six hour review** • **secure data vaults**
+**ai security layer** • **cybercrime group known** • **residential proxy node** • **single phishing link** • **seeing ai agents** • **enforcing least privilege** • **twitter whistleblower complaint** • **resulting kerberos credential** • **real life identity** • **logistics firm disrupts** • **clickfix style campaigns** • **businesses easy targets** • **nearly 50 million** • **ban residential proxies** • **4 14 2** • **4 14 0** • **ai agent security** • **sprawling phishing campaign** • **six hour review** • **secure data vaults**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
+- [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 - [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 - [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
 - [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
 - [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
 - [Man gets six years for hacking 750 women's Snapchat accounts](https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/)
 - [Clop ransomware targets Windchill, FlexPLM in data theft attacks](https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/)
-- [New Dolphin X malware uses AI to rank high-value targets](https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/)
-- [Australian energy provider Origin says data breach exposes client data](https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/)
 
 ### Krebs on Security
 

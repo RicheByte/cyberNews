@@ -1,12 +1,11 @@
 {
-  "last_updated": "2026-07-24 17:24",
+  "last_updated": "2026-07-24 19:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "ai security layer",
     "cybercrime group known",
     "residential proxy node",
-    "businesses easy targets",
     "single phishing link",
     "seeing ai agents",
     "enforcing least privilege",
@@ -15,11 +14,12 @@
     "real life identity",
     "logistics firm disrupts",
     "clickfix style campaigns",
+    "businesses easy targets",
     "nearly 50 million",
-    "us ukraine targets",
     "ban residential proxies",
     "4 14 2",
     "4 14 0",
+    "ai agent security",
     "sprawling phishing campaign",
     "six hour review",
     "secure data vaults"
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "ai security layer",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 269
+      "mentions": 270
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 24
-    },
-    {
-      "keyword": "businesses easy targets",
-      "mentions": 12
+      "mentions": 25
     },
     {
       "keyword": "single phishing link",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "seeing ai agents",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "enforcing least privilege",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2193
+      "mentions": 2194
     },
     {
       "keyword": "resulting kerberos credential",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "real life identity",
-      "mentions": 253
+      "mentions": 254
+    },
+    {
+      "keyword": "logistics firm disrupts",
+      "mentions": 16
     }
   ],
   "articles": [
@@ -157,6 +157,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
+      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
+      "published": "Fri, 24 Jul 2026 15:09:09 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
+      "published": "Fri, 24 Jul 2026 13:50:37 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
       "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
@@ -213,26 +234,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Dolphin X malware uses AI to rank high-value targets",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
-      "summary": "A new Dolphin X remote access trojan claims to use an AI-powered profiling feature to score and rank infected users, helping cybercriminals identify which victims should be targeted first. [...]",
-      "published": "Thu, 23 Jul 2026 17:20:34 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Australian energy provider Origin says data breach exposes client data",
-      "link": "https://www.bleepingcomputer.com/news/security/australian-energy-provider-origin-says-data-breach-exposes-client-data/",
-      "summary": "Origin Energy has confirmed that an unauthorized party accessed and subsequently leaked customer data online, exposing sensitive personally identifiable information (PII), among others. [...]",
-      "published": "Thu, 23 Jul 2026 16:14:35 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-07-25 06:11",
+  "last_updated": "2026-07-25 09:40",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "ai security layer",
     "cybercrime group known",
+    "ai security layer",
     "residential proxy node",
     "single phishing link",
-    "seeing ai agents",
     "enforcing least privilege",
     "twitter whistleblower complaint",
+    "software giant fixed",
     "resulting kerberos credential",
     "real life identity",
     "clickfix style campaigns",
     "businesses easy targets",
-    "nearly 50 million",
+    "seeing ai agents",
     "ban residential proxies",
-    "4 14 2",
-    "4 14 0",
-    "ai agent security",
     "sprawling phishing campaign",
-    "six hour review",
+    "ai agent security",
     "secure data vaults",
-    "national security risk"
+    "national security risk",
+    "xbow's testing got",
+    "we've collectively landed",
+    "we've collectively discovered"
   ],
   "trending": [
     {
-      "keyword": "ai security layer",
-      "mentions": 9
+      "keyword": "cybercrime group known",
+      "mentions": 275
     },
     {
-      "keyword": "cybercrime group known",
-      "mentions": 274
+      "keyword": "ai security layer",
+      "mentions": 10
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "single phishing link",
-      "mentions": 8
-    },
-    {
-      "keyword": "seeing ai agents",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "enforcing least privilege",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2198
+      "mentions": 2199
+    },
+    {
+      "keyword": "software giant fixed",
+      "mentions": 28
     },
     {
       "keyword": "resulting kerberos credential",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "real life identity",
-      "mentions": 258
+      "mentions": 259
     },
     {
       "keyword": "clickfix style campaigns",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
+      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "summary": "Security researcher Yuhang Wu at depthfirst has published a working proof-of-concept (PoC) exploit that executes commands as git on an unpatched self-managed GitLab 18.11.3 server. An ordinary authenticated user triggers it by committing two crafted Jupyter notebooks and requesting their diff. The chain needs no administrator rights, continuous integration (CI) runner access, victim interaction",
+      "published": "Sat, 25 Jul 2026 14:04:15 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "RCE",
+        "PoC available ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
@@ -143,17 +156,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "NodeBB Patches Eight AI-Found Flaws Exposing Admin Access and Private Chats",
-      "link": "https://thehackernews.com/2026/07/nodebb-patches-eight-ai-found-flaws.html",
-      "summary": "Eight security flaws in NodeBB went public on Wednesday, along with the code to exploit them. Aikido Security rates all eight as high severity and says its AI pentest agents found them in a six-hour review of the forum software's source code. Every version before 4.14.0 is affected. NodeBB has fixed them all, and administrators should be on 4.14.2. The simplest one takes a settings change. A",
-      "published": "Fri, 24 Jul 2026 13:11:06 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "Patch/update",
-        "High severity",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "OpenAI confirms ChatGPT is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
+      "published": "Sat, 25 Jul 2026 05:31:09 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,15 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
       "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
       "published": "Fri, 24 Jul 2026 08:56:53 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Man gets six years for hacking 750 women's Snapchat accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
-      "summary": "An Illinois man was sentenced on Tuesday to 76 months in prison and three years of supervised release for hacking the Snapchat accounts of over 750 women to steal nude photos. [...]",
-      "published": "Fri, 24 Jul 2026 07:17:19 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -399,6 +399,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
+      "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
+      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek .",
+      "published": "Sat, 25 Jul 2026 08:30:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
       "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
       "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws appeared first on SecurityWeek .",
@@ -464,15 +475,6 @@
       "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
       "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek .",
       "published": "Thu, 23 Jul 2026 14:55:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Abstract Raises $25 Million to Expand Composable Security Operations Platform",
-      "link": "https://www.securityweek.com/abstract-raises-25-million-to-expand-composable-security-operations-platform/",
-      "summary": "The latest investment round brings the total raised by Abstract to nearly $50 million. The post Abstract Raises $25 Million to Expand Composable Security Operations Platform appeared first on SecurityWeek .",
-      "published": "Thu, 23 Jul 2026 13:54:56 +0000",
       "value_score": 10,
       "value_signals": []
     },

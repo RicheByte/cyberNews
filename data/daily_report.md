@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-25 11:05 UTC  
+> **Last Updated:** 2026-07-25 13:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **ai security layer** • **residential proxy node** • **single phishing link** • **enforcing least privilege** • **twitter whistleblower complaint** • **software giant fixed** • **resulting kerberos credential** • **real life identity** • **clickfix style campaigns** • **businesses easy targets** • **seeing ai agents** • **ban residential proxies** • **sprawling phishing campaign** • **ai agent security** • **secure data vaults** • **national security risk** • **xbow's testing got** • **we've collectively landed** • **we've collectively discovered**
+**cybercrime group known** • **residential proxy node** • **ai security layer** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **stealthily build authorize** • **software giant fixed** • **single phishing link** • **service raas scheme** • **resulting kerberos credential** • **real life identity** • **pre fetch verification** • **clickfix style campaigns** • **businesses easy targets** • **ban residential proxies** • **secure data vaults** • **post mythos era** • **xbow's testing got** • **windows operating systems** • **us ukraine targets**
 
 ---
 
@@ -17,13 +17,13 @@
 ### The Hacker News
 
 - [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
+- [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
+- [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
+- [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
 - [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 - [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 - [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
 - [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
-- [Seeing AI Agents Is Not Enough. Security Teams Must Enforce What They Can Do](https://thehackernews.com/2026/07/seeing-ai-agents-is-not-enough-security.html)
-- [Hacker Runs Hermes AI Agent Unattended for Post-Exploitation at Thai Finance Ministry](https://thehackernews.com/2026/07/hacker-runs-hermes-ai-agent-unattended.html)
-- [Golden Chickens Resurfaces With Four New Malware Families and Modular Implants](https://thehackernews.com/2026/07/golden-chickens-resurfaces-with-four.html)
 
 ### BleepingComputer
 

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 646,
+      "count": 647,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -304,11 +304,12 @@
         "2026-07-17",
         "2026-07-20",
         "2026-07-23",
-        "2026-07-24"
+        "2026-07-24",
+        "2026-07-25"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2200,
+      "count": 2201,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -566,7 +567,7 @@
       ]
     },
     "real life identity": {
-      "count": 260,
+      "count": 261,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1881,7 +1882,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 520,
+      "count": 521,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -19491,10 +19492,11 @@
       ]
     },
     "post mythos era": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-10",
-        "2026-06-11"
+        "2026-06-11",
+        "2026-07-25"
       ]
     },
     "credential theft machines": {
@@ -20748,7 +20750,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 276,
+      "count": 277,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23105,7 +23107,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23917,7 +23919,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23926,7 +23928,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24139,7 +24141,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24230,14 +24232,15 @@
       ]
     },
     "us ukraine targets": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-23",
-        "2026-07-24"
+        "2026-07-24",
+        "2026-07-25"
       ]
     },
     "secure data vaults": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24269,7 +24272,7 @@
       ]
     },
     "ai security layer": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24282,7 +24285,7 @@
       ]
     },
     "single phishing link": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24323,7 +24326,7 @@
       ]
     },
     "resulting kerberos credential": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24336,7 +24339,7 @@
       ]
     },
     "clickfix style campaigns": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24350,7 +24353,7 @@
       ]
     },
     "xbow's testing got": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-25"
       ]
@@ -24366,20 +24369,27 @@
       "dates": [
         "2026-07-25"
       ]
+    },
+    "stealthily build authorize": {
+      "count": 1,
+      "dates": [
+        "2026-07-25"
+      ]
+    },
+    "service raas scheme": {
+      "count": 1,
+      "dates": [
+        "2026-07-25"
+      ]
+    },
+    "pre fetch verification": {
+      "count": 1,
+      "dates": [
+        "2026-07-25"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-14 22:53",
-      "articles": 48,
-      "top_keywords": [
-        "us allies warn",
-        "cybercrime group known",
-        "version 25h2 24h2",
-        "twitter whistleblower complaint",
-        "real life identity"
-      ]
-    },
     {
       "timestamp": "2026-07-15 01:55",
       "articles": 48,
@@ -25467,6 +25477,17 @@
         "residential proxy node",
         "single phishing link",
         "enforcing least privilege"
+      ]
+    },
+    {
+      "timestamp": "2026-07-25 13:12",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "residential proxy node",
+        "ai security layer",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint"
       ]
     }
   ]

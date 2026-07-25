@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-25 14:57 UTC  
+> **Last Updated:** 2026-07-25 16:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **ai security layer** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **stealthily build authorize** • **software giant fixed** • **single phishing link** • **shinyhunters extortion group** • **service raas scheme** • **resulting kerberos credential** • **real life identity** • **pre fetch verification** • **malicious json request** • **clickfix style campaigns** • **businesses easy targets** • **ban residential proxies** • **secure data vaults** • **data breaches leaked** • **post mythos era**
+**cybercrime group known** • **residential proxy node** • **ai security layer** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **software giant fixed** • **single phishing link** • **shinyhunters extortion group** • **service raas scheme** • **resulting kerberos credential** • **real life identity** • **massive malvertising campaign** • **clickfix style campaigns** • **businesses easy targets** • **ban residential proxies** • **secure data vaults** • **data breaches leaked** • **post mythos era** • **windows operating systems** • **us ukraine targets**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
 - [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
 - [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 - [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
@@ -34,7 +35,6 @@
 - [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 - [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 - [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
-- [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
 
 ### Krebs on Security
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-25 14:57 UTC |
+| 🕐 Last Updated | 2026-07-25 16:51 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `residential proxy node` • `ai security layer` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `stealthily build authorize` • `software giant fixed` • `single phishing link` • `shinyhunters extortion group` • `service raas scheme`
+`cybercrime group known` • `residential proxy node` • `ai security layer` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `software giant fixed` • `single phishing link` • `shinyhunters extortion group` • `service raas scheme` • `resulting kerberos credential`
 
 ## 📄 Reports
 

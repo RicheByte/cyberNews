@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-25 14:57",
+  "last_updated": "2026-07-25 16:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "residential proxy node",
     "ai security layer",
-    "sprawling phishing campaign",
     "twitter whistleblower complaint",
-    "stealthily build authorize",
+    "sprawling phishing campaign",
     "software giant fixed",
     "single phishing link",
     "shinyhunters extortion group",
     "service raas scheme",
     "resulting kerberos credential",
     "real life identity",
-    "pre fetch verification",
-    "malicious json request",
+    "massive malvertising campaign",
     "clickfix style campaigns",
     "businesses easy targets",
     "ban residential proxies",
     "secure data vaults",
     "data breaches leaked",
-    "post mythos era"
+    "post mythos era",
+    "windows operating systems",
+    "us ukraine targets"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 278
+      "mentions": 279
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "ai security layer",
-      "mentions": 13
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 522
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2202
+      "mentions": 2203
     },
     {
-      "keyword": "stealthily build authorize",
-      "mentions": 2
+      "keyword": "sprawling phishing campaign",
+      "mentions": 523
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "single phishing link",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "resulting kerberos credential",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -165,6 +165,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Malicious sites use JavaScript to build malware in browser memory",
+      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
+      "published": "Sat, 25 Jul 2026 11:21:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
       "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
       "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
@@ -231,17 +240,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack",
-      "link": "https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/",
-      "summary": "Slopsquatting, phantom squatting, and HalluSquatting all exploit the same late-binding attack pattern, where AI coding agents trust hallucinated package, repo, or domain names. ActiveState explains how pre-fetch verification and governed dependency management can help stop these attacks before malicious code enters the pipeline. [...]",
-      "published": "Fri, 24 Jul 2026 10:01:11 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

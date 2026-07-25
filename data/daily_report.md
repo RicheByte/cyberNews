@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-25 20:43 UTC  
+> **Last Updated:** 2026-07-25 22:49 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 40
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **twitter whistleblower complaint** • **shinyhunters extortion group** • **service raas scheme** • **resulting kerberos credential** • **real life identity** • **malicious json request** • **cve 2026 16723** • **clickfix style campaigns** • **august 2024 cyberattack** • **massive malvertising campaign** • **ban residential proxies** • **post mythos era** • **national security risk** • **data breaches leaked** • **windows operating systems** • **unattended yolo mode** • **turn one's television** • **target retail traders**
+**cybercrime group known** • **residential proxy node** • **ai security layer** • **twitter whistleblower complaint** • **shinyhunters extortion group** • **service raas scheme** • **rogue openai agent** • **real life identity** • **malicious json request** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **massive malvertising campaign** • **ban residential proxies** • **secure data vaults** • **data breaches leaked** • **post mythos era** • **data breach confirmed** • **windows operating systems** • **us ukraine targets**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 - [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
 - [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
 - [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
@@ -34,7 +35,6 @@
 - [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 - [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 - [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
-- [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
 
 ### Krebs on Security
 
@@ -46,6 +46,17 @@
 - [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/)
 - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
+
+### Dark Reading
+
+- [CISOs vs. Boards: Myth or Misunderstanding?](https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-)
+- [Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation](https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation)
+- [Vatican's Official Prayer App Leaks 700K+ Global Users' PII](https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii)
+- [Default Azure Automation Setting Enables Cross-Tenant Identity Takeover](https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover)
+- [Europe's Multilingual Reality Exposes AI Security Gaps](https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps)
+- [Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets)
+- [Agentic AI Challenges Progress in Confidential Computing](https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing)
+- [Brazilian Banking Trojan Actively Spreading in Portugal](https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal)
 
 ### Security Week
 

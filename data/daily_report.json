@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-25 20:43",
+  "last_updated": "2026-07-25 22:49",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "residential proxy node",
+    "ai security layer",
     "twitter whistleblower complaint",
     "shinyhunters extortion group",
     "service raas scheme",
-    "resulting kerberos credential",
+    "rogue openai agent",
     "real life identity",
     "malicious json request",
     "cve 2026 16723",
-    "clickfix style campaigns",
+    "businesses easy targets",
     "august 2024 cyberattack",
     "massive malvertising campaign",
     "ban residential proxies",
-    "post mythos era",
-    "national security risk",
+    "secure data vaults",
     "data breaches leaked",
+    "post mythos era",
+    "data breach confirmed",
     "windows operating systems",
-    "unattended yolo mode",
-    "turn one's television",
-    "target retail traders"
+    "us ukraine targets"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 281
+      "mentions": 282
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 36
+      "mentions": 37
+    },
+    {
+      "keyword": "ai security layer",
+      "mentions": 16
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2205
+      "mentions": 2206
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "resulting kerberos credential",
-      "mentions": 14
-    },
-    {
-      "keyword": "real life identity",
-      "mentions": 265
-    },
-    {
-      "keyword": "malicious json request",
-      "mentions": 2
-    },
-    {
-      "keyword": "cve 2026 16723",
+      "keyword": "rogue openai agent",
       "mentions": 1
     },
     {
-      "keyword": "clickfix style campaigns",
-      "mentions": 13
+      "keyword": "real life identity",
+      "mentions": 266
+    },
+    {
+      "keyword": "malicious json request",
+      "mentions": 3
+    },
+    {
+      "keyword": "cve 2026 16723",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -164,6 +164,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
+      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
+      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
+      "published": "Sat, 25 Jul 2026 18:37:47 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
       "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
@@ -229,17 +238,6 @@
       "published": "Fri, 24 Jul 2026 11:41:44 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chick-fil-A data breach affects more than 13,000 customers",
-      "link": "https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/",
-      "summary": "Chick-fil-A has confirmed that over 13,000 customers had their accounts breached in a wave of credential stuffing attacks targeting its website and mobile app between June 17 and June 19. [...]",
-      "published": "Fri, 24 Jul 2026 10:04:29 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +323,82 @@
       "value_signals": [
         "Ransomware ×3"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+      "published": "Fri, 24 Jul 2026 21:31:53 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+      "published": "Fri, 24 Jul 2026 19:45:02 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
+      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
+      "published": "Fri, 24 Jul 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
+      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
+      "published": "Fri, 24 Jul 2026 12:48:16 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
+      "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
+      "summary": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
+      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
+      "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
+      "published": "Thu, 23 Jul 2026 21:23:18 GMT",
+      "value_score": 49,
+      "value_signals": [
+        "Zero-day",
+        "Phishing",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Agentic AI Challenges Progress in Confidential Computing",
+      "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
+      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
+      "published": "Thu, 23 Jul 2026 11:17:51 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
+      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",

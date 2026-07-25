@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-25 20:43 UTC |
-| 📰 Articles Analyzed | 40 |
+| 🕐 Last Updated | 2026-07-25 22:49 UTC |
+| 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `residential proxy node` • `twitter whistleblower complaint` • `shinyhunters extortion group` • `service raas scheme` • `resulting kerberos credential` • `real life identity` • `malicious json request` • `cve 2026 16723` • `clickfix style campaigns`
+`cybercrime group known` • `residential proxy node` • `ai security layer` • `twitter whistleblower complaint` • `shinyhunters extortion group` • `service raas scheme` • `rogue openai agent` • `real life identity` • `malicious json request` • `cve 2026 16723`
 
 ## 📄 Reports
 

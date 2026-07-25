@@ -308,7 +308,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2199,
+      "count": 2200,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -566,7 +566,7 @@
       ]
     },
     "real life identity": {
-      "count": 259,
+      "count": 260,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1153,7 +1153,7 @@
       ]
     },
     "national security risk": {
-      "count": 304,
+      "count": 305,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1881,7 +1881,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 519,
+      "count": 520,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20748,7 +20748,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 275,
+      "count": 276,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23105,7 +23105,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23917,7 +23917,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23926,7 +23926,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24139,7 +24139,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24237,7 +24237,7 @@
       ]
     },
     "secure data vaults": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24269,7 +24269,7 @@
       ]
     },
     "ai security layer": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24282,21 +24282,21 @@
       ]
     },
     "single phishing link": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-24",
         "2026-07-25"
       ]
     },
     "seeing ai agents": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-24",
         "2026-07-25"
       ]
     },
     "enforcing least privilege": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24323,7 +24323,7 @@
       ]
     },
     "resulting kerberos credential": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24336,50 +24336,39 @@
       ]
     },
     "clickfix style campaigns": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-24",
         "2026-07-25"
       ]
     },
     "ai agent security": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-24",
         "2026-07-25"
       ]
     },
     "xbow's testing got": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-25"
       ]
     },
     "we've collectively landed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-25"
       ]
     },
     "we've collectively discovered": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-14 20:54",
-      "articles": 48,
-      "top_keywords": [
-        "us allies warn",
-        "address multiple vulnerabilities",
-        "570 vulnerabilities along",
-        "cybercrime group known",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-14 22:53",
       "articles": 48,
@@ -25460,6 +25449,17 @@
     },
     {
       "timestamp": "2026-07-25 09:40",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "ai security layer",
+        "residential proxy node",
+        "single phishing link",
+        "enforcing least privilege"
+      ]
+    },
+    {
+      "timestamp": "2026-07-25 11:05",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

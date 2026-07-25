@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-25 18:59",
+  "last_updated": "2026-07-25 20:43",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "cybercrime group known",
     "residential proxy node",
-    "ai security layer",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "software giant fixed",
-    "single phishing link",
     "shinyhunters extortion group",
     "service raas scheme",
     "resulting kerberos credential",
     "real life identity",
-    "massive malvertising campaign",
+    "malicious json request",
+    "cve 2026 16723",
     "clickfix style campaigns",
-    "businesses easy targets",
+    "august 2024 cyberattack",
+    "massive malvertising campaign",
     "ban residential proxies",
-    "secure data vaults",
-    "data breaches leaked",
     "post mythos era",
+    "national security risk",
+    "data breaches leaked",
     "windows operating systems",
-    "us ukraine targets"
+    "unattended yolo mode",
+    "turn one's television",
+    "target retail traders"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 280
+      "mentions": 281
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 35
-    },
-    {
-      "keyword": "ai security layer",
-      "mentions": 15
+      "mentions": 36
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2204
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 524
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 33
-    },
-    {
-      "keyword": "single phishing link",
-      "mentions": 14
+      "mentions": 2205
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "resulting kerberos credential",
+      "mentions": 14
+    },
+    {
+      "keyword": "real life identity",
+      "mentions": 265
+    },
+    {
+      "keyword": "malicious json request",
+      "mentions": 2
+    },
+    {
+      "keyword": "cve 2026 16723",
+      "mentions": 1
+    },
+    {
+      "keyword": "clickfix style campaigns",
       "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
+      "published": "Sun, 26 Jul 2026 00:18:44 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
@@ -149,18 +160,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "summary": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
-      "published": "Fri, 24 Jul 2026 17:23:55 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Phishing ×2",
-        "High severity"
       ]
     },
     {
@@ -326,82 +325,6 @@
       "value_signals": [
         "Ransomware ×3"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
-      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
-      "published": "Fri, 24 Jul 2026 21:31:53 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
-      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
-      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
-      "published": "Fri, 24 Jul 2026 19:45:02 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-      "published": "Fri, 24 Jul 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
-      "published": "Fri, 24 Jul 2026 12:48:16 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
-      "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
-      "summary": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
-      "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
-      "published": "Thu, 23 Jul 2026 21:23:18 GMT",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "Phishing",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Agentic AI Challenges Progress in Confidential Computing",
-      "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
-      "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
-      "published": "Thu, 23 Jul 2026 11:17:51 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
-      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

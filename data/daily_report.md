@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-25 13:12 UTC  
+> **Last Updated:** 2026-07-25 14:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **ai security layer** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **stealthily build authorize** • **software giant fixed** • **single phishing link** • **service raas scheme** • **resulting kerberos credential** • **real life identity** • **pre fetch verification** • **clickfix style campaigns** • **businesses easy targets** • **ban residential proxies** • **secure data vaults** • **post mythos era** • **xbow's testing got** • **windows operating systems** • **us ukraine targets**
+**cybercrime group known** • **residential proxy node** • **ai security layer** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **stealthily build authorize** • **software giant fixed** • **single phishing link** • **shinyhunters extortion group** • **service raas scheme** • **resulting kerberos credential** • **real life identity** • **pre fetch verification** • **malicious json request** • **clickfix style campaigns** • **businesses easy targets** • **ban residential proxies** • **secure data vaults** • **data breaches leaked** • **post mythos era**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 - [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
 - [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
 - [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
@@ -23,10 +24,10 @@
 - [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
 - [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 - [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html)
-- [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html)
 
 ### BleepingComputer
 
+- [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
 - [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 - [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 - [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
@@ -34,7 +35,6 @@
 - [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 - [Chick-fil-A data breach affects more than 13,000 customers](https://www.bleepingcomputer.com/news/security/chick-fil-a-data-breach-affects-more-than-13-000-customers/)
 - [Slopsquatting, Phantom Domains, and HalluSquatting Are the Same AI Attack](https://www.bleepingcomputer.com/news/security/slopsquatting-phantom-domains-and-hallusquatting-are-the-same-ai-attack/)
-- [Europol flags 4,340 URLs for removal in 'The Com' crackdown](https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/)
 
 ### Krebs on Security
 

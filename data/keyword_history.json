@@ -309,7 +309,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2201,
+      "count": 2202,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -567,7 +567,7 @@
       ]
     },
     "real life identity": {
-      "count": 261,
+      "count": 262,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1882,7 +1882,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 521,
+      "count": 522,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -8800,14 +8800,15 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-02-24",
         "2026-02-25",
         "2026-06-15",
         "2026-06-16",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-25"
       ]
     },
     "delivers valuable data": {
@@ -19492,7 +19493,7 @@
       ]
     },
     "post mythos era": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -20750,7 +20751,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 277,
+      "count": 278,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23107,7 +23108,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23919,7 +23920,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23928,7 +23929,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24141,7 +24142,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24240,7 +24241,7 @@
       ]
     },
     "secure data vaults": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24272,7 +24273,7 @@
       ]
     },
     "ai security layer": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24285,7 +24286,7 @@
       ]
     },
     "single phishing link": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24326,7 +24327,7 @@
       ]
     },
     "resulting kerberos credential": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24339,7 +24340,7 @@
       ]
     },
     "clickfix style campaigns": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-24",
         "2026-07-25"
@@ -24371,18 +24372,30 @@
       ]
     },
     "stealthily build authorize": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-25"
       ]
     },
     "service raas scheme": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-25"
       ]
     },
     "pre fetch verification": {
+      "count": 2,
+      "dates": [
+        "2026-07-25"
+      ]
+    },
+    "malicious json request": {
+      "count": 1,
+      "dates": [
+        "2026-07-25"
+      ]
+    },
+    "data breaches leaked": {
       "count": 1,
       "dates": [
         "2026-07-25"
@@ -24390,17 +24403,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-15 01:55",
-      "articles": 48,
-      "top_keywords": [
-        "us allies warn",
-        "cybercrime group known",
-        "version 25h2 24h2",
-        "twitter whistleblower complaint",
-        "real life identity"
-      ]
-    },
     {
       "timestamp": "2026-07-15 04:47",
       "articles": 48,
@@ -25481,6 +25483,17 @@
     },
     {
       "timestamp": "2026-07-25 13:12",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "residential proxy node",
+        "ai security layer",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-25 14:57",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

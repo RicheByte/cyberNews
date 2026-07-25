@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-25 13:12",
+  "last_updated": "2026-07-25 14:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,62 +11,75 @@
     "stealthily build authorize",
     "software giant fixed",
     "single phishing link",
+    "shinyhunters extortion group",
     "service raas scheme",
     "resulting kerberos credential",
     "real life identity",
     "pre fetch verification",
+    "malicious json request",
     "clickfix style campaigns",
     "businesses easy targets",
     "ban residential proxies",
     "secure data vaults",
-    "post mythos era",
-    "xbow's testing got",
-    "windows operating systems",
-    "us ukraine targets"
+    "data breaches leaked",
+    "post mythos era"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 277
+      "mentions": 278
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "ai security layer",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 521
+      "mentions": 522
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2201
+      "mentions": 2202
     },
     {
       "keyword": "stealthily build authorize",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "single phishing link",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "shinyhunters extortion group",
+      "mentions": 20
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 1
-    },
-    {
-      "keyword": "resulting kerberos credential",
-      "mentions": 10
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
+      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
+      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
+      "published": "Sat, 25 Jul 2026 18:22:43 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
@@ -151,16 +164,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers",
-      "link": "https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html",
-      "summary": "A crafted SVG submitted to Bing's image search ran commands as NT AUTHORITY\\SYSTEM on Microsoft's production image-processing workers, and as root on the Linux machines in the same fleet. XBOW's testing got the same result on workers across different hosts and network ranges, so the problem sat in Bing's image tier, not on one bad machine. Microsoft issued two critical CVEs, CVE-2026-32194 and",
-      "published": "Fri, 24 Jul 2026 17:15:17 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity"
-      ]
+      "source": "BleepingComputer",
+      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+      "summary": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
+      "published": "Sat, 25 Jul 2026 10:16:26 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -233,15 +243,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Europol flags 4,340 URLs for removal in 'The Com' crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/europol-flags-4-340-urls-for-removal-in-the-com-crackdown/",
-      "summary": "Europol has flagged 4,340 URLs for removal during a multi-week operation targeting online content linked to \"The Com,\" a loosely organized network of nihilistic violent extremist groups. [...]",
-      "published": "Fri, 24 Jul 2026 08:56:53 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

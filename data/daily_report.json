@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 19:02",
+  "last_updated": "2026-07-26 20:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 290
+      "mentions": 291
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "ai security layer",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2214
+      "mentions": 2215
     },
     {
       "keyword": "time based mechanism",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 32
+      "mentions": 33
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "rogue openai agent",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "real life identity",
-      "mentions": 274
+      "mentions": 275
     },
     {
       "keyword": "malicious json request",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -164,7 +164,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
       "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
       "published": "Sun, 26 Jul 2026 10:13:39 -0400",

@@ -310,7 +310,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2214,
+      "count": 2215,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -569,7 +569,7 @@
       ]
     },
     "real life identity": {
-      "count": 274,
+      "count": 275,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -8803,7 +8803,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -19497,7 +19497,7 @@
       ]
     },
     "post mythos era": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -20756,7 +20756,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 290,
+      "count": 291,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22342,7 +22342,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -23928,7 +23928,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23938,7 +23938,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24152,7 +24152,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24254,7 +24254,7 @@
       ]
     },
     "secure data vaults": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-24",
         "2026-07-25",
@@ -24287,7 +24287,7 @@
       ]
     },
     "ai security layer": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-24",
         "2026-07-25",
@@ -24393,7 +24393,7 @@
       ]
     },
     "service raas scheme": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-25",
         "2026-07-26"
@@ -24406,28 +24406,28 @@
       ]
     },
     "malicious json request": {
-      "count": 11,
-      "dates": [
-        "2026-07-25",
-        "2026-07-26"
-      ]
-    },
-    "data breaches leaked": {
-      "count": 13,
-      "dates": [
-        "2026-07-25",
-        "2026-07-26"
-      ]
-    },
-    "massive malvertising campaign": {
       "count": 12,
       "dates": [
         "2026-07-25",
         "2026-07-26"
       ]
     },
+    "data breaches leaked": {
+      "count": 14,
+      "dates": [
+        "2026-07-25",
+        "2026-07-26"
+      ]
+    },
+    "massive malvertising campaign": {
+      "count": 13,
+      "dates": [
+        "2026-07-25",
+        "2026-07-26"
+      ]
+    },
     "cve 2026 16723": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-25",
         "2026-07-26"
@@ -24446,7 +24446,7 @@
       ]
     },
     "rogue openai agent": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-25",
         "2026-07-26"
@@ -24460,36 +24460,25 @@
       ]
     },
     "time based mechanism": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-26"
       ]
     },
     "wi fi devices": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-26"
       ]
     },
     "actually infect devices": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-26"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-16 13:38",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "run root commands",
-        "multiple individuals suspected",
-        "bypass secure boot",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-16 15:28",
       "articles": 48,
@@ -25570,6 +25559,17 @@
     },
     {
       "timestamp": "2026-07-26 19:02",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "residential proxy node",
+        "ai security layer",
+        "twitter whistleblower complaint",
+        "time based mechanism"
+      ]
+    },
+    {
+      "timestamp": "2026-07-26 20:51",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-26 13:07",
+  "last_updated": "2026-07-26 14:59",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,6 +7,7 @@
     "residential proxy node",
     "ai security layer",
     "twitter whistleblower complaint",
+    "time based mechanism",
     "shinyhunters extortion group",
     "service raas scheme",
     "rogue openai agent",
@@ -15,55 +16,54 @@
     "cve 2026 16723",
     "businesses easy targets",
     "august 2024 cyberattack",
+    "wi fi devices",
     "massive malvertising campaign",
     "ban residential proxies",
+    "actually infect devices",
     "secure data vaults",
     "data breaches leaked",
-    "post mythos era",
-    "data breach confirmed",
-    "windows operating systems",
-    "us ukraine targets"
+    "post mythos era"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 287
+      "mentions": 288
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "ai security layer",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2211
+      "mentions": 2212
+    },
+    {
+      "keyword": "time based mechanism",
+      "mentions": 1
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 29
+      "mentions": 30
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "rogue openai agent",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "real life identity",
-      "mentions": 271
+      "mentions": 272
     },
     {
       "keyword": "malicious json request",
-      "mentions": 8
-    },
-    {
-      "keyword": "cve 2026 16723",
-      "mentions": 7
+      "mentions": 9
     }
   ],
   "articles": [
@@ -164,6 +164,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "GitHub, PyPI add time-absed defenses against supply chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
+      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
       "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
       "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
@@ -227,15 +236,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
       "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
       "published": "Fri, 24 Jul 2026 13:50:37 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft blames massive Microsoft 365 outage on maintenance bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/",
-      "summary": "Microsoft says a bug in its automated network maintenance request system caused Thursday's massive outage by mistakenly removing IP routes from more devices than intended, disrupting Azure and Microsoft 365 services. [...]",
-      "published": "Fri, 24 Jul 2026 11:41:44 -0400",
       "value_score": 10,
       "value_signals": []
     },

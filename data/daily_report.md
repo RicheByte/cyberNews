@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-26 13:07 UTC  
+> **Last Updated:** 2026-07-26 14:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **ai security layer** • **twitter whistleblower complaint** • **shinyhunters extortion group** • **service raas scheme** • **rogue openai agent** • **real life identity** • **malicious json request** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **massive malvertising campaign** • **ban residential proxies** • **secure data vaults** • **data breaches leaked** • **post mythos era** • **data breach confirmed** • **windows operating systems** • **us ukraine targets**
+**cybercrime group known** • **residential proxy node** • **ai security layer** • **twitter whistleblower complaint** • **time based mechanism** • **shinyhunters extortion group** • **service raas scheme** • **rogue openai agent** • **real life identity** • **malicious json request** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **wi fi devices** • **massive malvertising campaign** • **ban residential proxies** • **actually infect devices** • **secure data vaults** • **data breaches leaked** • **post mythos era**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [GitHub, PyPI add time-absed defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 - [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 - [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
 - [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
@@ -34,7 +35,6 @@
 - [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 - [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 - [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
-- [Microsoft blames massive Microsoft 365 outage on maintenance bug](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-massive-microsoft-365-outage-on-maintenance-bug/)
 
 ### Krebs on Security
 

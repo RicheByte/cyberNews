@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-27 14:20 UTC  
+> **Last Updated:** 2026-07-27 17:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 31 5** • **residential proxy node** • **cybercrime group known** • **shadow ai agents** • **covert remote access** • **twitter whistleblower complaint** • **rogue openai agent** • **lookout msec aims** • **legitimate bun runtime** • **businesses easy targets** • **august 2024 cyberattack** • **actually infect devices** • **protecting ai models** • **cve 2026 27577** • **cve 2026 16723** • **ban residential proxies** • **anubis cybercrime group** • **ai security layer** • **harvest corporate credentials** • **govern ai agents**
+**2 31 5** • **residential proxy node** • **cybercrime group known** • **covert remote access** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **lookout msec aims** • **legitimate bun runtime** • **july 27 show** • **dairy subsidiary fairlife** • **cve 2026 27577** • **businesses easy targets** • **august 2024 cyberattack** • **actually infect devices** • **account administrative access** • **ban residential proxies** • **anubis cybercrime group** • **different cooldown parameter** • **protecting ai models** • **ai security layer**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
+- [⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
 - [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
 - [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
 - [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
 - [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 - [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 - [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
-- [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
-- [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
 
 ### BleepingComputer
 
+- [Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin](https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/)
+- [Coca-Cola confirms data theft in Fairlife ransomware attack](https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/)
+- [Ernst & Young data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/)
 - [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
 - [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 - [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 - [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
 - [ShinyHunters data leaks fuel $2,000 sextortion email scam](https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/)
-- [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
-- [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
-- [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [New GitHub, PyPI Policies Boost Supply Chain Security](https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/)
 - [PTC Windchill Vulnerability Exploited in Ransomware Campaign](https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/)
 - [MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection](https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/)
 - [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/)
@@ -67,7 +68,6 @@
 - [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
 - [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
 - [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
-- [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
 
 ### Threatpost
 

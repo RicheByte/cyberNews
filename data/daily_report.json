@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-07-27 14:20",
+  "last_updated": "2026-07-27 17:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "2 31 5",
     "residential proxy node",
     "cybercrime group known",
-    "shadow ai agents",
     "covert remote access",
+    "vulnerability discoveries aided",
     "twitter whistleblower complaint",
-    "rogue openai agent",
     "lookout msec aims",
     "legitimate bun runtime",
+    "july 27 show",
+    "dairy subsidiary fairlife",
+    "cve 2026 27577",
     "businesses easy targets",
     "august 2024 cyberattack",
     "actually infect devices",
-    "protecting ai models",
-    "cve 2026 27577",
-    "cve 2026 16723",
+    "account administrative access",
     "ban residential proxies",
     "anubis cybercrime group",
-    "ai security layer",
-    "harvest corporate credentials",
-    "govern ai agents"
+    "different cooldown parameter",
+    "protecting ai models",
+    "ai security layer"
   ],
   "trending": [
     {
       "keyword": "2 31 5",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 51
+      "mentions": 52
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 296
-    },
-    {
-      "keyword": "shadow ai agents",
-      "mentions": 1
+      "mentions": 297
     },
     {
       "keyword": "covert remote access",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 38
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2220
-    },
-    {
-      "keyword": "rogue openai agent",
-      "mentions": 15
+      "mentions": 2221
     },
     {
       "keyword": "lookout msec aims",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "legitimate bun runtime",
+      "mentions": 2
+    },
+    {
+      "keyword": "july 27 show",
       "mentions": 1
     },
     {
-      "keyword": "businesses easy targets",
-      "mentions": 38
+      "keyword": "dairy subsidiary fairlife",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
+      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version",
+      "published": "Mon, 27 Jul 2026 20:10:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
+      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
+      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That is the mood. Here is the full recap. ⚡ Threat of the Week OpenAI Says Its AI Agent Went Rogue",
+      "published": "Mon, 27 Jul 2026 19:40:54 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
@@ -132,30 +154,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
-      "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
-      "summary": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
-      "published": "Sat, 25 Jul 2026 18:22:43 +0530",
-      "value_score": 56,
+      "source": "BleepingComputer",
+      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
+      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
+      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
+      "published": "Mon, 27 Jul 2026 13:29:07 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
+      "published": "Mon, 27 Jul 2026 11:39:51 -0400",
+      "value_score": 46,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity"
+        "Ransomware ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git",
-      "link": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
-      "summary": "Security researchers at depthfirst published working exploit code on July 24 for a GitLab flaw that GitLab patched six weeks earlier, on June 10. It runs commands as git on any self-managed 18.11.3 server that has not taken the update. Any authenticated user who can push to a project can run it. The attacker commits a crafted Jupyter notebook and opens its commit diff, which leaks a heap",
-      "published": "Sat, 25 Jul 2026 15:44:26 +0530",
-      "value_score": 54,
+      "source": "BleepingComputer",
+      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
+      "published": "Mon, 27 Jul 2026 11:12:27 -0400",
+      "value_score": 34,
       "value_signals": [
-        "RCE",
-        "PoC available",
-        "Patch/update",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
     },
     {
@@ -202,38 +228,6 @@
       "published": "Sat, 25 Jul 2026 10:16:26 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI confirms ChatGPT is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
-      "summary": "ChatGPT, the famous artificial intelligence chatbot that allows users to converse with various personalities and topics, has connectivity issues worldwide. [...]",
-      "published": "Sat, 25 Jul 2026 05:31:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OnTrac notifies customers of data breach after network hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
-      "summary": "OnTrac parcel delivery company is informing that hackers breached its corporate network and may have accessed personal details belonging to its customers. [...]",
-      "published": "Fri, 24 Jul 2026 15:55:01 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hermes AI agent used to automate attack on Thai Finance Ministry",
-      "link": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
-      "summary": "A threat actor used the open-source Hermes AI agent in unattended \"YOLO\" mode to automate post-exploitation activity during an alleged breach of Thailand's Ministry of Finance. [...]",
-      "published": "Fri, 24 Jul 2026 15:09:09 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +392,15 @@
     },
     {
       "source": "Security Week",
+      "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
+      "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
+      "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 14:26:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
       "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
       "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .",
@@ -465,17 +468,6 @@
       "published": "Mon, 27 Jul 2026 10:50:19 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-      "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-      "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 10:02:41 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

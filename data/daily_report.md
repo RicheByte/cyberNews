@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-27 17:37 UTC  
+> **Last Updated:** 2026-07-27 19:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 31 5** • **residential proxy node** • **cybercrime group known** • **covert remote access** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **lookout msec aims** • **legitimate bun runtime** • **july 27 show** • **dairy subsidiary fairlife** • **cve 2026 27577** • **businesses easy targets** • **august 2024 cyberattack** • **actually infect devices** • **account administrative access** • **ban residential proxies** • **anubis cybercrime group** • **different cooldown parameter** • **protecting ai models** • **ai security layer**
+**2 31 5** • **residential proxy node** • **cybercrime group known** • **covert remote access** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **lookout msec aims** • **dairy subsidiary fairlife** • **actually infect devices** • **account administrative access** • **ban residential proxies** • **anubis cybercrime group** • **different cooldown parameter** • **protecting ai models** • **management rmm tools** • **ai security layer** • **windows operating systems** • **us ukraine targets** • **turn one's television** • **traveling corporate employees**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
 - [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
 - [⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More](https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html)
 - [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
@@ -23,7 +24,6 @@
 - [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
 - [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 - [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
-- [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Adversaries Don't Need a Zero-Day — They Read Your Rulebook](https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook)
 - [CISOs vs. Boards: Myth or Misunderstanding?](https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-)
 - [Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation](https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation)
 - [Vatican's Official Prayer App Leaks 700K+ Global Users' PII](https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii)
@@ -56,7 +57,6 @@
 - [Europe's Multilingual Reality Exposes AI Security Gaps](https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps)
 - [Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets)
 - [Agentic AI Challenges Progress in Confidential Computing](https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing)
-- [Brazilian Banking Trojan Actively Spreading in Portugal](https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal)
 
 ### Security Week
 

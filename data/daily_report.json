@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 17:37",
+  "last_updated": "2026-07-27 19:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,63 +10,74 @@
     "vulnerability discoveries aided",
     "twitter whistleblower complaint",
     "lookout msec aims",
-    "legitimate bun runtime",
-    "july 27 show",
     "dairy subsidiary fairlife",
-    "cve 2026 27577",
-    "businesses easy targets",
-    "august 2024 cyberattack",
     "actually infect devices",
     "account administrative access",
     "ban residential proxies",
     "anubis cybercrime group",
     "different cooldown parameter",
     "protecting ai models",
-    "ai security layer"
+    "management rmm tools",
+    "ai security layer",
+    "windows operating systems",
+    "us ukraine targets",
+    "turn one's television",
+    "traveling corporate employees"
   ],
   "trending": [
     {
       "keyword": "2 31 5",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 297
+      "mentions": 298
     },
     {
       "keyword": "covert remote access",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2221
+      "mentions": 2222
     },
     {
       "keyword": "lookout msec aims",
-      "mentions": 2
-    },
-    {
-      "keyword": "legitimate bun runtime",
-      "mentions": 2
-    },
-    {
-      "keyword": "july 27 show",
-      "mentions": 1
+      "mentions": 3
     },
     {
       "keyword": "dairy subsidiary fairlife",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "actually infect devices",
+      "mentions": 11
+    },
+    {
+      "keyword": "account administrative access",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
+      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
+      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese",
+      "published": "Mon, 27 Jul 2026 22:46:28 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
@@ -141,17 +152,6 @@
       "published": "Mon, 27 Jul 2026 13:31:23 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
-      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "summary": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
-      "published": "Sun, 26 Jul 2026 00:18:44 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -316,6 +316,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "summary": "Confidence in autonomous security tools is declining, and here's why.",
+      "published": "Mon, 27 Jul 2026 17:31:18 GMT",
+      "value_score": 35,
+      "value_signals": [
+        "Zero-day"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISOs vs. Boards: Myth or Misunderstanding?",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
       "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
@@ -378,15 +389,6 @@
       "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
       "summary": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
       "published": "Thu, 23 Jul 2026 11:17:51 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
-      "summary": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
-      "published": "Thu, 23 Jul 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-07-27 06:57",
+  "last_updated": "2026-07-27 11:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
+    "23 million people",
     "residential proxy node",
-    "ai security layer",
     "shinyhunters extortion group",
+    "ai security layer",
     "twitter whistleblower complaint",
     "time based mechanism",
     "service raas scheme",
     "rogue openai agent",
     "real life identity",
-    "malicious json request",
     "cve 2026 16723",
     "businesses easy targets",
     "august 2024 cyberattack",
     "wi fi devices",
-    "massive malvertising campaign",
     "ban residential proxies",
     "actually infect devices",
+    "massive malvertising campaign",
     "secure data vaults",
     "data breaches leaked",
-    "post mythos era"
+    "windows operating systems"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 294
+      "mentions": 295
+    },
+    {
+      "keyword": "23 million people",
+      "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 49
-    },
-    {
-      "keyword": "ai security layer",
-      "mentions": 28
+      "mentions": 50
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 36
+      "mentions": 37
+    },
+    {
+      "keyword": "ai security layer",
+      "mentions": 29
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2218
+      "mentions": 2219
     },
     {
       "keyword": "time based mechanism",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "rogue openai agent",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "real life identity",
-      "mentions": 278
-    },
-    {
-      "keyword": "malicious json request",
-      "mentions": 15
+      "mentions": 279
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
+      "published": "Mon, 27 Jul 2026 14:18:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+      "summary": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits your project,\" the Microsoft-owned subsidiary said. According to GitHub, the",
+      "published": "Mon, 27 Jul 2026 13:31:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
@@ -138,28 +156,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "summary": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
-      "published": "Fri, 24 Jul 2026 20:42:35 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "summary": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
-      "published": "Fri, 24 Jul 2026 19:45:21 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {
@@ -402,6 +398,55 @@
     },
     {
       "source": "Security Week",
+      "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
+      "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
+      "summary": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 11:06:24 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
+      "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
+      "summary": "The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks. The post What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
+      "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
+      "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 10:50:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
+      "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
+      "summary": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 10:02:41 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
+      "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
+      "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 09:34:12 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "MCBS Data Breach Affects 1.2 Million Individuals",
       "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
       "summary": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek .",
@@ -432,56 +477,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AegisAI Raises $36 Million for AI-Powered Email Security",
-      "link": "https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/",
-      "summary": "The company has raised a total of $49 million in funding, including from Battery Ventures, Accel and Foundation Capital. The post AegisAI Raises $36 Million for AI-Powered Email Security appeared first on SecurityWeek .",
-      "published": "Fri, 24 Jul 2026 12:01:18 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/",
-      "summary": "Industry professionals debate whether it represents a lab containment failure or an unprecedented agentic capability milestone. The post Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday appeared first on SecurityWeek .",
-      "published": "Fri, 24 Jul 2026 11:19:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
-      "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
-      "summary": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek .",
-      "published": "Fri, 24 Jul 2026 05:52:31 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider",
-      "link": "https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/",
-      "summary": "AgentForger allows an attacker to create, insert and remotely control an invisible autonomous AI agent inside a victim organization. The post OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider appeared first on SecurityWeek .",
-      "published": "Thu, 23 Jul 2026 15:09:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Is Patching Dead? Vulnerability Management in the Post-Mythos Era",
-      "link": "https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/",
-      "summary": "You cannot out-patch a machine that writes a working exploit from a vulnerability description in twenty hours. Stop trying to optimize a game you cannot win. The post Is Patching Dead? Vulnerability Management in the Post-Mythos Era appeared first on SecurityWeek .",
-      "published": "Thu, 23 Jul 2026 15:00:00 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "Patch/update",
-        "Exploit wording"
       ]
     },
     {

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-27 06:57 UTC |
+| 🕐 Last Updated | 2026-07-27 11:14 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `residential proxy node` • `ai security layer` • `shinyhunters extortion group` • `twitter whistleblower complaint` • `time based mechanism` • `service raas scheme` • `rogue openai agent` • `real life identity` • `malicious json request`
+`cybercrime group known` • `23 million people` • `residential proxy node` • `shinyhunters extortion group` • `ai security layer` • `twitter whistleblower complaint` • `time based mechanism` • `service raas scheme` • `rogue openai agent` • `real life identity`
 
 ## 📄 Reports
 

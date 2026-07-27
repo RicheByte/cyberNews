@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-27 06:57 UTC  
+> **Last Updated:** 2026-07-27 11:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **ai security layer** • **shinyhunters extortion group** • **twitter whistleblower complaint** • **time based mechanism** • **service raas scheme** • **rogue openai agent** • **real life identity** • **malicious json request** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **wi fi devices** • **massive malvertising campaign** • **ban residential proxies** • **actually infect devices** • **secure data vaults** • **data breaches leaked** • **post mythos era**
+**cybercrime group known** • **23 million people** • **residential proxy node** • **shinyhunters extortion group** • **ai security layer** • **twitter whistleblower complaint** • **time based mechanism** • **service raas scheme** • **rogue openai agent** • **real life identity** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **wi fi devices** • **ban residential proxies** • **actually infect devices** • **massive malvertising campaign** • **secure data vaults** • **data breaches leaked** • **windows operating systems**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
+- [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 - [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
 - [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 - [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
 - [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
 - [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
 - [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
-- [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html)
-- [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
+- [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
+- [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
+- [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
+- [DentaQuest Data Breach Potentially Impacts Over 23 Million People](https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/)
 - [MCBS Data Breach Affects 1.2 Million Individuals](https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/)
 - [Rockwell Patches Code Execution Flaws in Arena Simulation Software](https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/)
 - [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
-- [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
-- [Industry Reactions to OpenAI Models Hacking Hugging Face: Feedback Friday](https://www.securityweek.com/industry-reactions-to-openai-models-hacking-hugging-face-feedback-friday/)
-- [Data Breach Confirmed After Australian Energy Giant Origin Is Hacked](https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/)
-- [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
-- [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
 
 ### Threatpost
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-27 02:26 UTC  
+> **Last Updated:** 2026-07-27 06:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **ai security layer** • **twitter whistleblower complaint** • **time based mechanism** • **shinyhunters extortion group** • **service raas scheme** • **rogue openai agent** • **real life identity** • **malicious json request** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **wi fi devices** • **massive malvertising campaign** • **ban residential proxies** • **actually infect devices** • **secure data vaults** • **data breaches leaked** • **post mythos era**
+**cybercrime group known** • **residential proxy node** • **ai security layer** • **shinyhunters extortion group** • **twitter whistleblower complaint** • **time based mechanism** • **service raas scheme** • **rogue openai agent** • **real life identity** • **malicious json request** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **wi fi devices** • **massive malvertising campaign** • **ban residential proxies** • **actually infect devices** • **secure data vaults** • **data breaches leaked** • **post mythos era**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [MCBS Data Breach Affects 1.2 Million Individuals](https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/)
 - [Rockwell Patches Code Execution Flaws in Arena Simulation Software](https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/)
 - [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
 - [AegisAI Raises $36 Million for AI-Powered Email Security](https://www.securityweek.com/aegisai-raises-36-million-for-ai-powered-email-security/)
@@ -67,7 +68,6 @@
 - [Data Breach Confirmed After Australian Energy Giant Origin Is Hacked](https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/)
 - [OpenAI Fixes ChatGPT Agent Flaw That Could Let Attackers Forge an AI Insider](https://www.securityweek.com/openai-fixes-chatgpt-agent-flaw-that-could-let-attackers-forge-an-ai-insider/)
 - [Is Patching Dead? Vulnerability Management in the Post-Mythos Era](https://www.securityweek.com/is-patching-dead-vulnerability-management-in-the-post-mythos-era/)
-- [Chick-fil-A Accounts Get Fried in Credential Stuffing Attack](https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/)
 
 ### Threatpost
 

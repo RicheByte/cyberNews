@@ -1,14 +1,14 @@
 {
-  "last_updated": "2026-07-27 02:26",
+  "last_updated": "2026-07-27 06:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
     "residential proxy node",
     "ai security layer",
+    "shinyhunters extortion group",
     "twitter whistleblower complaint",
     "time based mechanism",
-    "shinyhunters extortion group",
     "service raas scheme",
     "rogue openai agent",
     "real life identity",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 293
+      "mentions": 294
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 48
+      "mentions": 49
     },
     {
       "keyword": "ai security layer",
-      "mentions": 27
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2217
-    },
-    {
-      "keyword": "time based mechanism",
-      "mentions": 6
+      "mentions": 28
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 35
+      "mentions": 36
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2218
+    },
+    {
+      "keyword": "time based mechanism",
+      "mentions": 7
     },
     {
       "keyword": "service raas scheme",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "rogue openai agent",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "real life identity",
-      "mentions": 277
+      "mentions": 278
     },
     {
       "keyword": "malicious json request",
-      "mentions": 14
+      "mentions": 15
     }
   ],
   "articles": [
@@ -402,6 +402,18 @@
     },
     {
       "source": "Security Week",
+      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
+      "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
+      "summary": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 04:51:32 +0000",
+      "value_score": 52,
+      "value_signals": [
+        "Ransomware",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
       "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
       "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek .",
@@ -471,15 +483,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chick-fil-A Accounts Get Fried in Credential Stuffing Attack",
-      "link": "https://www.securityweek.com/chick-fil-a-accounts-get-fried-in-credential-stuffing-attack/",
-      "summary": "Threat actors used credentials obtained from other companies to hack into Chick-fil-A One accounts. The post Chick-fil-A Accounts Get Fried in Credential Stuffing Attack appeared first on SecurityWeek .",
-      "published": "Thu, 23 Jul 2026 14:55:19 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

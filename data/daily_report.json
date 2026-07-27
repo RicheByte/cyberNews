@@ -1,72 +1,107 @@
 {
-  "last_updated": "2026-07-27 11:14",
+  "last_updated": "2026-07-27 14:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cybercrime group known",
-    "23 million people",
+    "2 31 5",
     "residential proxy node",
-    "shinyhunters extortion group",
-    "ai security layer",
+    "cybercrime group known",
+    "shadow ai agents",
+    "covert remote access",
     "twitter whistleblower complaint",
-    "time based mechanism",
-    "service raas scheme",
     "rogue openai agent",
-    "real life identity",
-    "cve 2026 16723",
+    "lookout msec aims",
+    "legitimate bun runtime",
     "businesses easy targets",
     "august 2024 cyberattack",
-    "wi fi devices",
-    "ban residential proxies",
     "actually infect devices",
-    "massive malvertising campaign",
-    "secure data vaults",
-    "data breaches leaked",
-    "windows operating systems"
+    "protecting ai models",
+    "cve 2026 27577",
+    "cve 2026 16723",
+    "ban residential proxies",
+    "anubis cybercrime group",
+    "ai security layer",
+    "harvest corporate credentials",
+    "govern ai agents"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 295
-    },
-    {
-      "keyword": "23 million people",
+      "keyword": "2 31 5",
       "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 50
+      "mentions": 51
     },
     {
-      "keyword": "shinyhunters extortion group",
-      "mentions": 37
+      "keyword": "cybercrime group known",
+      "mentions": 296
     },
     {
-      "keyword": "ai security layer",
-      "mentions": 29
+      "keyword": "shadow ai agents",
+      "mentions": 1
+    },
+    {
+      "keyword": "covert remote access",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2219
-    },
-    {
-      "keyword": "time based mechanism",
-      "mentions": 8
-    },
-    {
-      "keyword": "service raas scheme",
-      "mentions": 19
+      "mentions": 2220
     },
     {
       "keyword": "rogue openai agent",
-      "mentions": 14
+      "mentions": 15
     },
     {
-      "keyword": "real life identity",
-      "mentions": 279
+      "keyword": "lookout msec aims",
+      "mentions": 1
+    },
+    {
+      "keyword": "legitimate bun runtime",
+      "mentions": 1
+    },
+    {
+      "keyword": "businesses easy targets",
+      "mentions": 38
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process",
+      "link": "https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html",
+      "summary": "n8n has patched a high-severity expression-sandbox escape that could let an authenticated workflow editor execute operating-system commands on the server running the automation platform. Security Joes found the flaw while probing n8n's February fix for CVE-2026-27577 for another bypass. The affected ranges are <2.31.5 and >=2.32.0,<2.32.1. n8n fixed the flaw in versions 2.31.5 and",
+      "published": "Mon, 27 Jul 2026 18:35:15 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update",
+      "link": "https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html",
+      "summary": "Cybersecurity researchers have flagged a Microsoft Teams-themed phishing campaign that employs \"secure document\" lures to deliver legitimate remote monitoring and management (RMM) tools. \"The victim was directed through compromised web infrastructure to a counterfeit Microsoft Store page claiming that Microsoft Teams had to be updated before the shared document could be opened,\" ZeroBEC said in",
+      "published": "Mon, 27 Jul 2026 18:07:49 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware",
+      "link": "https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html",
+      "summary": "The China-linked cybercrime group behind the use of income tax-related phishing lures targeting Indian taxpayers, tax professionals, and corporate finance teams has been observed using a sophisticated crypter service called Cruciferra. According to a new analysis by Proofpoint, Cruciferra has been utilized by various unrelated cybercriminal threat clusters to deliver a wide array of remote",
+      "published": "Mon, 27 Jul 2026 16:21:45 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
@@ -124,39 +159,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "summary": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
-      "published": "Sat, 25 Jul 2026 15:44:21 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "summary": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
-      "published": "Sat, 25 Jul 2026 15:44:03 +0530",
-      "value_score": 54,
-      "value_signals": [
-        "Ransomware",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "summary": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis. \"The portal combined build generation, finance,",
-      "published": "Sat, 25 Jul 2026 15:23:41 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
+      "source": "BleepingComputer",
+      "title": "Shadow AI agents are multiplying. Here's how to find and secure them.",
+      "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+      "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
+      "published": "Mon, 27 Jul 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -225,15 +234,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
-      "summary": "Hackers are changing the DNS settings on Wi-Fi devices at hotels and conference centers to redirect users to fake Microsoft 365 login pages. [...]",
-      "published": "Fri, 24 Jul 2026 13:50:37 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -398,6 +398,49 @@
     },
     {
       "source": "Security Week",
+      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
+      "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
+      "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 13:19:30 +0000",
+      "value_score": 60,
+      "value_signals": [
+        "Ransomware ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection",
+      "link": "https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/",
+      "summary": "The malware-as-a-service operation launches legitimate browsers on an invisible desktop, giving attackers persistent and covert remote access to compromised Windows systems. The post MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Nvidia and Tech Giants Launch AI Security Alliance",
+      "link": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+      "summary": "The Nvidia-led coalition aims to give defenders more open tools for testing, auditing and protecting AI models and agents. The post Nvidia and Tech Giants Launch AI Security Alliance appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 12:25:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack",
+      "link": "https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/",
+      "summary": "The Anubis cybercrime group has taken credit for the attack and is threatening to leak data. The post Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Mon, 27 Jul 2026 11:29:03 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Beelzebub Raises $3.4 Million for Hacker-Trapping Platform",
       "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
       "summary": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek .",
@@ -432,51 +475,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "DentaQuest Data Breach Potentially Impacts Over 23 Million People",
-      "link": "https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/",
-      "summary": "In May 2026, hackers stole personal and dental health information from DentaQuest’s computer network. The post DentaQuest Data Breach Potentially Impacts Over 23 Million People appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 09:34:12 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
-      "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
-      "summary": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 04:51:32 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware",
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rockwell Patches Code Execution Flaws in Arena Simulation Software",
-      "link": "https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/",
-      "summary": "A researcher has explained how an attacker could exploit these vulnerabilities to target industrial organizations. The post Rockwell Patches Code Execution Flaws in Arena Simulation Software appeared first on SecurityWeek .",
-      "published": "Sat, 25 Jul 2026 08:30:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws",
-      "link": "https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/",
-      "summary": "Noteworthy stories that might have slipped under the radar: Siemens ROX II industrial switch vulnerabilities, Russian Zimbra webmail espionage campaign, Stadler Rail ransomware extortion attempt. The post In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws appeared first on SecurityWeek .",
-      "published": "Fri, 24 Jul 2026 14:20:00 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {

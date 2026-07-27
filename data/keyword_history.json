@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2219,
+      "count": 2220,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20761,7 +20761,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 295,
+      "count": 296,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -22348,7 +22348,7 @@
       ]
     },
     "august 2024 cyberattack": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-07-09",
         "2026-07-16",
@@ -23935,7 +23935,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23946,7 +23946,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24161,7 +24161,7 @@
       ]
     },
     "businesses easy targets": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24298,7 +24298,7 @@
       ]
     },
     "ai security layer": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-07-24",
         "2026-07-25",
@@ -24443,7 +24443,7 @@
       ]
     },
     "cve 2026 16723": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-25",
         "2026-07-26",
@@ -24463,7 +24463,7 @@
       ]
     },
     "rogue openai agent": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-25",
         "2026-07-26",
@@ -24492,7 +24492,7 @@
       ]
     },
     "actually infect devices": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-26",
         "2026-07-27"
@@ -24503,20 +24503,69 @@
       "dates": [
         "2026-07-27"
       ]
+    },
+    "2 31 5": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "shadow ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "covert remote access": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "lookout msec aims": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "legitimate bun runtime": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "protecting ai models": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "cve 2026 27577": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "anubis cybercrime group": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "harvest corporate credentials": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
+    },
+    "govern ai agents": {
+      "count": 1,
+      "dates": [
+        "2026-07-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-16 22:52",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "windows operating systems",
-        "twitter whistleblower complaint",
-        "traditional security workflows",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-07-17 02:09",
       "articles": 48,
@@ -25604,6 +25653,17 @@
         "residential proxy node",
         "shinyhunters extortion group",
         "ai security layer"
+      ]
+    },
+    {
+      "timestamp": "2026-07-27 14:20",
+      "articles": 48,
+      "top_keywords": [
+        "2 31 5",
+        "residential proxy node",
+        "cybercrime group known",
+        "shadow ai agents",
+        "covert remote access"
       ]
     }
   ]

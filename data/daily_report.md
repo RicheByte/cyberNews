@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-27 11:14 UTC  
+> **Last Updated:** 2026-07-27 14:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **23 million people** • **residential proxy node** • **shinyhunters extortion group** • **ai security layer** • **twitter whistleblower complaint** • **time based mechanism** • **service raas scheme** • **rogue openai agent** • **real life identity** • **cve 2026 16723** • **businesses easy targets** • **august 2024 cyberattack** • **wi fi devices** • **ban residential proxies** • **actually infect devices** • **massive malvertising campaign** • **secure data vaults** • **data breaches leaked** • **windows operating systems**
+**2 31 5** • **residential proxy node** • **cybercrime group known** • **shadow ai agents** • **covert remote access** • **twitter whistleblower complaint** • **rogue openai agent** • **lookout msec aims** • **legitimate bun runtime** • **businesses easy targets** • **august 2024 cyberattack** • **actually infect devices** • **protecting ai models** • **cve 2026 27577** • **cve 2026 16723** • **ban residential proxies** • **anubis cybercrime group** • **ai security layer** • **harvest corporate credentials** • **govern ai agents**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
+- [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
+- [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
 - [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 - [GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption](https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html)
 - [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html)
 - [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html)
 - [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html)
-- [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html)
-- [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html)
-- [DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts](https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html)
 
 ### BleepingComputer
 
+- [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
 - [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 - [Steam forum ClickFix attacks infect gamers with XMRig cryptominers](https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/)
 - [Malicious sites use JavaScript to build malware in browser memory](https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/)
@@ -34,7 +35,6 @@
 - [OpenAI confirms ChatGPT is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/)
 - [OnTrac notifies customers of data breach after network hack](https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/)
 - [Hermes AI agent used to automate attack on Thai Finance Ministry](https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/)
-- [Hackers hijack hotel Wi-Fi DNS to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [PTC Windchill Vulnerability Exploited in Ransomware Campaign](https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/)
+- [MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection](https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/)
+- [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/)
+- [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
 - [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
 - [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
 - [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
 - [Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits](https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/)
-- [DentaQuest Data Breach Potentially Impacts Over 23 Million People](https://www.securityweek.com/dentaquest-data-breach-potentially-impacts-over-23-million-people/)
-- [MCBS Data Breach Affects 1.2 Million Individuals](https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/)
-- [Rockwell Patches Code Execution Flaws in Arena Simulation Software](https://www.securityweek.com/rockwell-patches-code-execution-flaws-in-arena-simulation-software/)
-- [In Other News: Dolphin X AI-Powered Malware, Car Anti-Theft Device Hack, 400 Linux Kernel Flaws](https://www.securityweek.com/in-other-news-dolphin-x-ai-powered-malware-car-anti-theft-device-hack-400-linux-kernel-flaws/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 21:05",
+  "last_updated": "2026-07-27 22:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,10 +9,11 @@
     "covert remote access",
     "vulnerability discoveries aided",
     "twitter whistleblower complaint",
+    "traffic relay operations",
     "lookout msec aims",
     "fbi agent explains",
-    "actually infect devices",
     "account administrative access",
+    "200k devices worldwide",
     "protecting ai models",
     "ban residential proxies",
     "anubis cybercrime group",
@@ -20,50 +21,49 @@
     "ai security layer",
     "shadow ai agents",
     "govern ai agents",
-    "us ukraine targets",
     "turn one's television",
     "traveling corporate employees"
   ],
   "trending": [
     {
       "keyword": "2 31 5",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 299
+      "mentions": 300
     },
     {
       "keyword": "covert remote access",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2223
+      "mentions": 2224
     },
     {
-      "keyword": "lookout msec aims",
-      "mentions": 4
-    },
-    {
-      "keyword": "fbi agent explains",
+      "keyword": "traffic relay operations",
       "mentions": 1
     },
     {
-      "keyword": "actually infect devices",
-      "mentions": 12
+      "keyword": "lookout msec aims",
+      "mentions": 5
+    },
+    {
+      "keyword": "fbi agent explains",
+      "mentions": 2
     },
     {
       "keyword": "account administrative access",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -155,6 +155,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
+      "published": "Mon, 27 Jul 2026 18:49:44 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
+      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
+      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
+      "published": "Mon, 27 Jul 2026 17:08:15 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
       "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
       "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
@@ -211,24 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
       "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
       "published": "Sun, 26 Jul 2026 10:13:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "summary": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "published": "Sat, 25 Jul 2026 18:37:47 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "summary": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "published": "Sat, 25 Jul 2026 11:21:09 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -319,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+      "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+      "published": "Mon, 27 Jul 2026 20:57:26 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
       "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
       "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
@@ -383,19 +398,6 @@
       "published": "Fri, 24 Jul 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
-      "summary": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
-      "published": "Thu, 23 Jul 2026 21:23:18 GMT",
-      "value_score": 49,
-      "value_signals": [
-        "Zero-day",
-        "Phishing",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2229,
+      "count": 2230,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1087,13 +1087,14 @@
       ]
     },
     "specops software explains": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-19",
         "2026-02-23",
         "2026-05-27",
         "2026-05-28",
-        "2026-07-22"
+        "2026-07-22",
+        "2026-07-28"
       ]
     },
     "software backdoor implanted": {
@@ -2035,7 +2036,7 @@
       ]
     },
     "latest version following": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2226,7 +2227,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -3191,7 +3192,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 267,
+      "count": 268,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3235,7 +3236,8 @@
         "2026-07-10",
         "2026-07-11",
         "2026-07-12",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-07-28"
       ]
     },
     "authenticated remote attacker": {
@@ -10966,7 +10968,7 @@
       ]
     },
     "startup will invest": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -20212,7 +20214,7 @@
       ]
     },
     "public github repository": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20770,7 +20772,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 305,
+      "count": 306,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23133,7 +23135,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23141,7 +23143,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-22",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ]
     },
     "windows bind links": {
@@ -23946,7 +23949,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23958,7 +23961,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24623,21 +24626,21 @@
       ]
     },
     "fbi agent explains": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "traffic relay operations": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "200k devices worldwide": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24674,7 +24677,7 @@
       ]
     },
     "ai agent governance": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28"
       ]
@@ -24704,7 +24707,7 @@
       ]
     },
     "act security emerges": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28"
       ]
@@ -24716,7 +24719,7 @@
       ]
     },
     "dhcpv6 server overwrite": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28"
       ]
@@ -24728,7 +24731,7 @@
       ]
     },
     "existing cloud environments": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28"
       ]
@@ -24740,7 +24743,7 @@
       ]
     },
     "autonomous security tools": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
@@ -24750,20 +24753,15 @@
       "dates": [
         "2026-07-28"
       ]
+    },
+    "ordinary local user": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-17 22:42",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 01:58",
       "articles": 48,
@@ -25851,6 +25849,17 @@
         "residential proxy node",
         "autonomous security tools",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28 19:14",
+      "articles": 48,
+      "top_keywords": [
+        "act security emerges",
+        "cybercrime group known",
+        "arbitrary code execution",
+        "residential proxy node",
+        "autonomous security tools"
       ]
     }
   ]

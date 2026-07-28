@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-28 16:01",
+  "last_updated": "2026-07-28 19:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "act security emerges",
     "cybercrime group known",
+    "arbitrary code execution",
     "residential proxy node",
     "autonomous security tools",
     "twitter whistleblower complaint",
     "traffic relay operations",
     "startup will invest",
     "rated 9 8",
-    "public github repository",
-    "move comes less",
+    "ordinary local user",
     "latest version following",
     "fbi agent explains",
     "dhcpv6 server overwrite",
-    "ai s ability",
-    "ai agent governance",
     "200k devices worldwide",
-    "critical security issue",
+    "public github repository",
     "existing cloud environments",
-    "cvss 3 1",
-    "ban residential proxies"
+    "ban residential proxies",
+    "ai agent governance",
+    "specops software explains",
+    "software giant fixed"
   ],
   "trending": [
     {
       "keyword": "act security emerges",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 305
+      "mentions": 306
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 268
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 60
+      "mentions": 61
     },
     {
       "keyword": "autonomous security tools",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2229
+      "mentions": 2230
     },
     {
       "keyword": "traffic relay operations",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "startup will invest",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 45
+      "mentions": 46
     },
     {
-      "keyword": "public github repository",
-      "mentions": 28
-    },
-    {
-      "keyword": "move comes less",
-      "mentions": 4
+      "keyword": "ordinary local user",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
+      "published": "Wed, 29 Jul 2026 00:29:07 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
@@ -149,13 +160,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "summary": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current best MDASH combination of GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex. Access is limited to approved",
-      "published": "Tue, 28 Jul 2026 11:37:22 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "published": "Tue, 28 Jul 2026 14:41:04 -0400",
+      "value_score": 38,
+      "value_signals": [
+        "CISA/KEV",
+        "High severity"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "published": "Tue, 28 Jul 2026 14:08:50 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -226,27 +253,6 @@
       "value_signals": [
         "Botnet ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Certighost PoC exploit lets attackers hijack Windows domains",
-      "link": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
-      "summary": "A proof-of-concept exploit for \"Certighost,\" a Windows Active Directory Certificate Services vulnerability, has been released that can allow authenticated attackers to potentially compromise a Windows domain. [...]",
-      "published": "Mon, 27 Jul 2026 17:00:25 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "PoC available",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
-      "link": "https://www.bleepingcomputer.com/news/apple/apple-sued-over-fake-app-store-crypto-wallet-app-stealing-18m-in-bitcoin/",
-      "summary": "Apple is being sued by three people who claim approximately $1.8 million in Bitcoin was stolen after downloading and using a fraudulent Sparrow Wallet application from the App Store. [...]",
-      "published": "Mon, 27 Jul 2026 13:29:07 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -335,6 +341,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+      "published": "Tue, 28 Jul 2026 16:38:48 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
       "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
       "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
@@ -399,15 +414,6 @@
       "value_signals": [
         "Zero-day"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
-      "summary": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
-      "published": "Fri, 24 Jul 2026 21:31:53 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

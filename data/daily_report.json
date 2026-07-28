@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-07-28 13:51",
+  "last_updated": "2026-07-28 16:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "velocloud orchestrator vco",
-    "cybercrime group known",
     "act security emerges",
+    "cybercrime group known",
     "residential proxy node",
-    "public github repository",
-    "ai s ability",
-    "ai agent governance",
+    "autonomous security tools",
     "twitter whistleblower complaint",
     "traffic relay operations",
     "startup will invest",
     "rated 9 8",
+    "public github repository",
     "move comes less",
     "latest version following",
     "fbi agent explains",
-    "exploited without authentication",
     "dhcpv6 server overwrite",
+    "ai s ability",
+    "ai agent governance",
     "200k devices worldwide",
-    "network services enabled",
+    "critical security issue",
     "existing cloud environments",
-    "cvss 3 1"
+    "cvss 3 1",
+    "ban residential proxies"
   ],
   "trending": [
     {
-      "keyword": "velocloud orchestrator vco",
-      "mentions": 3
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 304
-    },
-    {
       "keyword": "act security emerges",
-      "mentions": 1
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 59
-    },
-    {
-      "keyword": "public github repository",
-      "mentions": 27
-    },
-    {
-      "keyword": "ai s ability",
-      "mentions": 1
-    },
-    {
-      "keyword": "ai agent governance",
       "mentions": 2
     },
     {
+      "keyword": "cybercrime group known",
+      "mentions": 305
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 60
+    },
+    {
+      "keyword": "autonomous security tools",
+      "mentions": 1
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2228
+      "mentions": 2229
     },
     {
       "keyword": "traffic relay operations",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "startup will invest",
-      "mentions": 25
+      "mentions": 26
+    },
+    {
+      "keyword": "rated 9 8",
+      "mentions": 45
+    },
+    {
+      "keyword": "public github repository",
+      "mentions": 28
+    },
+    {
+      "keyword": "move comes less",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu supports 25 distributed denial-of-service (",
+      "published": "Tue, 28 Jul 2026 20:31:33 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
+      "published": "Tue, 28 Jul 2026 20:11:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
@@ -138,26 +158,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrary code execution. \"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
-      "published": "Tue, 28 Jul 2026 10:13:53 +0530",
-      "value_score": 59,
+      "source": "BleepingComputer",
+      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
+      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
+      "published": "Tue, 28 Jul 2026 10:00:10 -0400",
+      "value_score": 18,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Exploit wording"
+        "Phishing"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "summary": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
-      "published": "Mon, 27 Jul 2026 23:40:05 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -238,17 +247,6 @@
       "published": "Mon, 27 Jul 2026 13:29:07 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Coca-Cola confirms data theft in Fairlife ransomware attack",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
-      "summary": "The Coca-Cola Company has confirmed that hackers stole data from its dairy subsidiary, Fairlife, during a ransomware attack earlier this month. [...]",
-      "published": "Mon, 27 Jul 2026 11:39:51 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -413,6 +411,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
+      "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
+      "summary": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 14:55:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
+      "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
+      "summary": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems. The post Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 14:19:31 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "OT Security Startup Frenos Raises $1.52 Million",
       "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
       "summary": "The company will use the fresh investment to grow its customer success and AI R&D teams. The post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek .",
@@ -466,32 +482,6 @@
       "published": "Tue, 28 Jul 2026 08:42:52 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
-      "summary": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 07:27:55 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "RCE",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
-      "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
-      "summary": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 06:40:36 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

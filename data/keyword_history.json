@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2228,
+      "count": 2229,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2035,7 +2035,7 @@
       ]
     },
     "latest version following": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2226,7 +2226,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -10966,7 +10966,7 @@
       ]
     },
     "startup will invest": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -20212,7 +20212,7 @@
       ]
     },
     "public github repository": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20770,7 +20770,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 304,
+      "count": 305,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23946,7 +23946,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23958,7 +23958,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23970,7 +23970,7 @@
       ]
     },
     "move comes less": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-22",
         "2026-07-28"
@@ -24623,21 +24623,21 @@
       ]
     },
     "fbi agent explains": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "traffic relay operations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "200k devices worldwide": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24674,7 +24674,7 @@
       ]
     },
     "ai agent governance": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28"
       ]
@@ -24704,19 +24704,19 @@
       ]
     },
     "act security emerges": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
     },
     "ai s ability": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
     },
     "dhcpv6 server overwrite": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
@@ -24728,12 +24728,24 @@
       ]
     },
     "existing cloud environments": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
     },
     "cvss 3 1": {
+      "count": 2,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "autonomous security tools": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "critical security issue": {
       "count": 1,
       "dates": [
         "2026-07-28"
@@ -24741,17 +24753,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-17 20:48",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-17 22:42",
       "articles": 48,
@@ -25839,6 +25840,17 @@
         "act security emerges",
         "residential proxy node",
         "public github repository"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28 16:01",
+      "articles": 48,
+      "top_keywords": [
+        "act security emerges",
+        "cybercrime group known",
+        "residential proxy node",
+        "autonomous security tools",
+        "twitter whistleblower complaint"
       ]
     }
   ]

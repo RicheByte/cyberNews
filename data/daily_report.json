@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-07-28 02:02",
+  "last_updated": "2026-07-28 06:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "velocloud orchestrator vco",
     "2 31 5",
+    "rogue agent hacked",
     "residential proxy node",
     "cybercrime group known",
-    "covert remote access",
     "twitter whistleblower complaint",
     "traffic relay operations",
-    "lookout msec aims",
+    "terminator skynet looks",
+    "guilty pleas came",
     "fbi agent explains",
+    "covert remote access",
     "allow authenticated attackers",
     "account administrative access",
     "200k devices worldwide",
     "protecting ai models",
+    "rogue openai agent",
     "ban residential proxies",
     "anubis cybercrime group",
     "shadow ai agents",
-    "govern ai agents",
-    "unrestricted yolo mode",
-    "turn one's television",
-    "traveling corporate employees",
-    "shinyhunters extortion gang"
+    "govern ai agents"
   ],
   "trending": [
     {
-      "keyword": "2 31 5",
-      "mentions": 6
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 56
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 301
-    },
-    {
-      "keyword": "covert remote access",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2225
-    },
-    {
-      "keyword": "traffic relay operations",
-      "mentions": 2
-    },
-    {
-      "keyword": "lookout msec aims",
-      "mentions": 6
-    },
-    {
-      "keyword": "fbi agent explains",
-      "mentions": 3
-    },
-    {
-      "keyword": "allow authenticated attackers",
+      "keyword": "velocloud orchestrator vco",
       "mentions": 1
     },
     {
-      "keyword": "account administrative access",
-      "mentions": 5
+      "keyword": "2 31 5",
+      "mentions": 7
+    },
+    {
+      "keyword": "rogue agent hacked",
+      "mentions": 1
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 57
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 302
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2226
+    },
+    {
+      "keyword": "traffic relay operations",
+      "mentions": 3
+    },
+    {
+      "keyword": "terminator skynet looks",
+      "mentions": 1
+    },
+    {
+      "keyword": "guilty pleas came",
+      "mentions": 8
+    },
+    {
+      "keyword": "fbi agent explains",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "summary": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrary code execution. \"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
+      "published": "Tue, 28 Jul 2026 10:13:53 +0530",
+      "value_score": 59,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
@@ -143,15 +156,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
-      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
-      "summary": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
-      "published": "Mon, 27 Jul 2026 14:18:47 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -405,6 +409,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Origin Energy Data Breach Affects 900,000 Australians",
+      "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
+      "summary": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 05:01:05 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
+      "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
+      "summary": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 02:28:03 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
       "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
       "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
@@ -461,24 +485,6 @@
       "link": "https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/",
       "summary": "The company plans to expand its research team, open new offices in Rome and San Francisco, and acquire new clients. The post Beelzebub Raises $3.4 Million for Hacker-Trapping Platform appeared first on SecurityWeek .",
       "published": "Mon, 27 Jul 2026 11:06:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out",
-      "link": "https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/",
-      "summary": "The new Mobile Security Exposure Center creates SBOMs for enterprise mobile apps to uncover vulnerable components, dependencies and hidden risks. The post What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-      "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-      "summary": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 10:50:19 +0000",
       "value_score": 10,
       "value_signals": []
     },

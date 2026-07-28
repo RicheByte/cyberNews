@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-28 02:02 UTC  
+> **Last Updated:** 2026-07-28 06:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 31 5** • **residential proxy node** • **cybercrime group known** • **covert remote access** • **twitter whistleblower complaint** • **traffic relay operations** • **lookout msec aims** • **fbi agent explains** • **allow authenticated attackers** • **account administrative access** • **200k devices worldwide** • **protecting ai models** • **ban residential proxies** • **anubis cybercrime group** • **shadow ai agents** • **govern ai agents** • **unrestricted yolo mode** • **turn one's television** • **traveling corporate employees** • **shinyhunters extortion gang**
+**velocloud orchestrator vco** • **2 31 5** • **rogue agent hacked** • **residential proxy node** • **cybercrime group known** • **twitter whistleblower complaint** • **traffic relay operations** • **terminator skynet looks** • **guilty pleas came** • **fbi agent explains** • **covert remote access** • **allow authenticated attackers** • **account administrative access** • **200k devices worldwide** • **protecting ai models** • **rogue openai agent** • **ban residential proxies** • **anubis cybercrime group** • **shadow ai agents** • **govern ai agents**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw](https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html)
 - [NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework](https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html)
 - [Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption](https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html)
 - [Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw](https://thehackernews.com/2026/07/public-exploit-released-for-patched.html)
@@ -23,7 +24,6 @@
 - [n8n Sandbox Escape Lets Workflow Editors Run OS Commands as the n8n Process](https://thehackernews.com/2026/07/n8n-sandbox-escape-lets-workflow.html)
 - [Operation BlueDash Deploys Level RMM and ScreenConnect via Fake Teams Update](https://thehackernews.com/2026/07/operation-bluedash-deploys-level-rmm.html)
 - [Cruciferra Crypter Uses BYOVD and Process Ghosting to Hide Windows Malware](https://thehackernews.com/2026/07/cruciferra-crypter-uses-byovd-and.html)
-- [TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments](https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Origin Energy Data Breach Affects 900,000 Australians](https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/)
+- [For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup](https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/)
 - [New GitHub, PyPI Policies Boost Supply Chain Security](https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/)
 - [PTC Windchill Vulnerability Exploited in Ransomware Campaign](https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/)
 - [MedusaHVNC Malware Uses Hidden Windows Desktops to Evade Detection](https://www.securityweek.com/medusahvnc-malware-uses-hidden-windows-desktops-to-evade-detection/)
 - [Nvidia and Tech Giants Launch AI Security Alliance](https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/)
 - [Coca-Cola Confirms Data Breach After Fairlife Ransomware Attack](https://www.securityweek.com/coca-cola-confirms-data-breach-after-fairlife-ransomware-attack/)
 - [Beelzebub Raises $3.4 Million for Hacker-Trapping Platform](https://www.securityweek.com/beelzebub-raises-3-4-million-for-hacker-trapping-platform/)
-- [What’s Hiding in Your Mobile Apps? Lookout MSEC Aims to Find Out](https://www.securityweek.com/whats-hiding-in-your-mobile-apps-lookout-msec-aims-to-find-out/)
-- [Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials](https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/)
 
 ### Threatpost
 

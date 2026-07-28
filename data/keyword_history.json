@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2225,
+      "count": 2226,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20765,7 +20765,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 301,
+      "count": 302,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23941,7 +23941,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23953,7 +23953,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24214,10 +24214,11 @@
       ]
     },
     "guilty pleas came": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-23",
-        "2026-07-24"
+        "2026-07-24",
+        "2026-07-28"
       ]
     },
     "email theft cisa": {
@@ -24474,11 +24475,12 @@
       ]
     },
     "rogue openai agent": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-25",
         "2026-07-26",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-28"
       ]
     },
     "data breach confirmed": {
@@ -24516,21 +24518,21 @@
       ]
     },
     "2 31 5": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "shadow ai agents": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "covert remote access": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24550,7 +24552,7 @@
       ]
     },
     "protecting ai models": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24563,7 +24565,7 @@
       ]
     },
     "anubis cybercrime group": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24576,7 +24578,7 @@
       ]
     },
     "govern ai agents": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24595,7 +24597,7 @@
       ]
     },
     "account administrative access": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24615,28 +24617,28 @@
       ]
     },
     "fbi agent explains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "traffic relay operations": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "200k devices worldwide": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "allow authenticated attackers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
@@ -24646,20 +24648,27 @@
       "dates": [
         "2026-07-28"
       ]
+    },
+    "velocloud orchestrator vco": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "rogue agent hacked": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "terminator skynet looks": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-17 15:09",
-      "articles": 48,
-      "top_keywords": [
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "cybercrime group known",
-        "twitter whistleblower complaint",
-        "system login password"
-      ]
-    },
     {
       "timestamp": "2026-07-17 17:06",
       "articles": 48,
@@ -25747,6 +25756,17 @@
         "cybercrime group known",
         "covert remote access",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28 06:21",
+      "articles": 48,
+      "top_keywords": [
+        "velocloud orchestrator vco",
+        "2 31 5",
+        "rogue agent hacked",
+        "residential proxy node",
+        "cybercrime group known"
       ]
     }
   ]

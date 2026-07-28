@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-27 22:55 UTC  
+> **Last Updated:** 2026-07-28 02:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**2 31 5** • **residential proxy node** • **cybercrime group known** • **covert remote access** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **traffic relay operations** • **lookout msec aims** • **fbi agent explains** • **account administrative access** • **200k devices worldwide** • **protecting ai models** • **ban residential proxies** • **anubis cybercrime group** • **public github repository** • **ai security layer** • **shadow ai agents** • **govern ai agents** • **turn one's television** • **traveling corporate employees**
+**2 31 5** • **residential proxy node** • **cybercrime group known** • **covert remote access** • **twitter whistleblower complaint** • **traffic relay operations** • **lookout msec aims** • **fbi agent explains** • **allow authenticated attackers** • **account administrative access** • **200k devices worldwide** • **protecting ai models** • **ban residential proxies** • **anubis cybercrime group** • **shadow ai agents** • **govern ai agents** • **unrestricted yolo mode** • **turn one's television** • **traveling corporate employees** • **shinyhunters extortion gang**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
 - [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 - [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
 - [New Certighost PoC exploit lets attackers hijack Windows domains](https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/)
@@ -34,7 +35,6 @@
 - [Coca-Cola confirms data theft in Fairlife ransomware attack](https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/)
 - [Ernst & Young data breach claimed by ShinyHunters extortion gang](https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/)
 - [Shadow AI agents are multiplying. Here's how to find and secure them.](https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/)
-- [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Agent Drives Espionage Attack on Thai Ministry of Finance](https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance)
 - ['Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure](https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure)
 - [FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown](https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown)
 - [Adversaries Don't Need a Zero-Day — They Read Your Rulebook](https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook)
@@ -56,7 +57,6 @@
 - [Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation](https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation)
 - [Vatican's Official Prayer App Leaks 700K+ Global Users' PII](https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii)
 - [Default Azure Automation Setting Enables Cross-Tenant Identity Takeover](https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover)
-- [Europe's Multilingual Reality Exposes AI Security Gaps](https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps)
 
 ### Security Week
 

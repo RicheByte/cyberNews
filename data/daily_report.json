@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-27 22:55",
+  "last_updated": "2026-07-28 02:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "residential proxy node",
     "cybercrime group known",
     "covert remote access",
-    "vulnerability discoveries aided",
     "twitter whistleblower complaint",
     "traffic relay operations",
     "lookout msec aims",
     "fbi agent explains",
+    "allow authenticated attackers",
     "account administrative access",
     "200k devices worldwide",
     "protecting ai models",
     "ban residential proxies",
     "anubis cybercrime group",
-    "public github repository",
-    "ai security layer",
     "shadow ai agents",
     "govern ai agents",
+    "unrestricted yolo mode",
     "turn one's television",
-    "traveling corporate employees"
+    "traveling corporate employees",
+    "shinyhunters extortion gang"
   ],
   "trending": [
     {
       "keyword": "2 31 5",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 55
+      "mentions": 56
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 300
+      "mentions": 301
     },
     {
       "keyword": "covert remote access",
-      "mentions": 5
-    },
-    {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 41
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2224
+      "mentions": 2225
     },
     {
       "keyword": "traffic relay operations",
-      "mentions": 1
-    },
-    {
-      "keyword": "lookout msec aims",
-      "mentions": 5
-    },
-    {
-      "keyword": "fbi agent explains",
       "mentions": 2
     },
     {
+      "keyword": "lookout msec aims",
+      "mentions": 6
+    },
+    {
+      "keyword": "fbi agent explains",
+      "mentions": 3
+    },
+    {
+      "keyword": "allow authenticated attackers",
+      "mentions": 1
+    },
+    {
       "keyword": "account administrative access",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -155,6 +155,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+      "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
+      "published": "Mon, 27 Jul 2026 19:49:44 -0400",
+      "value_score": 81,
+      "value_signals": [
+        "Zero-day",
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
       "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
@@ -226,15 +239,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
       "summary": "Shadow AI agents are rapidly spreading across enterprise platforms, often without IT or security visibility. Nudge Security explains how organizations can discover, assess, and govern AI agents before unmanaged permissions and autonomous actions create security risks. [...]",
       "published": "Mon, 27 Jul 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "summary": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "published": "Sun, 26 Jul 2026 10:13:39 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -325,6 +329,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+      "published": "Tue, 28 Jul 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
       "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
       "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
@@ -387,15 +400,6 @@
       "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
       "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
       "published": "Fri, 24 Jul 2026 12:48:16 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
-      "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
-      "summary": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
-      "published": "Fri, 24 Jul 2026 07:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

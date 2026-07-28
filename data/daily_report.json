@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-28 21:02",
+  "last_updated": "2026-07-28 22:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "open source tool",
     "act security emerges",
     "cybercrime group known",
     "attacking hugging face",
     "arbitrary code execution",
     "residential proxy node",
+    "modern credential attacks",
     "self hosted artifactory",
     "twitter whistleblower complaint",
     "startup will invest",
     "rated 9 8",
     "latest version following",
-    "fbi agent explains",
+    "drones uavs announced",
     "dhcpv6 server overwrite",
+    "designs flight controllers",
     "cisa shares advice",
     "public github repository",
-    "existing cloud environments",
     "ban residential proxies",
     "ai agent governance",
-    "national security risk",
-    "great security leader",
-    "critical security issue"
+    "national security risk"
   ],
   "trending": [
     {
+      "keyword": "open source tool",
+      "mentions": 1
+    },
+    {
       "keyword": "act security emerges",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 307
+      "mentions": 308
     },
     {
       "keyword": "attacking hugging face",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 269
+      "mentions": 270
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 62
+      "mentions": 63
     },
     {
-      "keyword": "self hosted artifactory",
+      "keyword": "modern credential attacks",
       "mentions": 1
     },
     {
+      "keyword": "self hosted artifactory",
+      "mentions": 2
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2231
+      "mentions": 2232
     },
     {
       "keyword": "startup will invest",
-      "mentions": 28
-    },
-    {
-      "keyword": "rated 9 8",
-      "mentions": 47
-    },
-    {
-      "keyword": "latest version following",
-      "mentions": 12
+      "mentions": 29
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "published": "Tue, 28 Jul 2026 17:17:39 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI models used Artifactory zero-days to escape to the internet",
       "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
@@ -239,19 +248,6 @@
       "value_signals": [
         "Zero-day",
         "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arista patches VeloCloud Orchestrator zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-      "summary": "Arista has patched a maximum-severity command injection vulnerability in on-premises VeloCloud Orchestrator deployments that is being actively exploited in attacks. [...]",
-      "published": "Mon, 27 Jul 2026 18:49:44 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
         "Exploit wording"
       ]
     },
@@ -342,6 +338,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+      "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+      "summary": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+      "published": "Tue, 28 Jul 2026 21:33:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Thousands of Data Center Controllers Open to Takeover",
+      "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+      "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "published": "Tue, 28 Jul 2026 21:07:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
       "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
       "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
@@ -387,32 +401,12 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Agentic Browsers Rewind Web Security by 20 years",
+      "title": "Agentic Browsers Rewind Web Security by 20 Years",
       "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
       "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
       "published": "Mon, 27 Jul 2026 21:39:09 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
-      "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
-      "summary": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
-      "published": "Mon, 27 Jul 2026 20:57:26 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-      "summary": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
-      "published": "Mon, 27 Jul 2026 20:33:29 GMT",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Security Week",

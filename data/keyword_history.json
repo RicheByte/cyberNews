@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2231,
+      "count": 2232,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1162,7 +1162,7 @@
       ]
     },
     "national security risk": {
-      "count": 307,
+      "count": 308,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2037,7 +2037,7 @@
       ]
     },
     "latest version following": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2228,7 +2228,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -3193,7 +3193,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 269,
+      "count": 270,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10969,7 +10969,7 @@
       ]
     },
     "startup will invest": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -20215,7 +20215,7 @@
       ]
     },
     "public github repository": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20773,7 +20773,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 307,
+      "count": 308,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23950,7 +23950,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23962,7 +23962,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24678,7 +24678,7 @@
       ]
     },
     "ai agent governance": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-28"
       ]
@@ -24708,7 +24708,7 @@
       ]
     },
     "act security emerges": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-28"
       ]
@@ -24720,7 +24720,7 @@
       ]
     },
     "dhcpv6 server overwrite": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-28"
       ]
@@ -24762,19 +24762,19 @@
       ]
     },
     "attacking hugging face": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
     },
     "self hosted artifactory": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
     },
     "cisa shares advice": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
@@ -24784,20 +24784,33 @@
       "dates": [
         "2026-07-28"
       ]
+    },
+    "open source tool": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "modern credential attacks": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "drones uavs announced": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "designs flight controllers": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 04:50",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 07:40",
       "articles": 48,
@@ -25885,6 +25898,17 @@
         "attacking hugging face",
         "arbitrary code execution",
         "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28 22:53",
+      "articles": 48,
+      "top_keywords": [
+        "open source tool",
+        "act security emerges",
+        "cybercrime group known",
+        "attacking hugging face",
+        "arbitrary code execution"
       ]
     }
   ]

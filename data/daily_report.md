@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-28 21:02 UTC  
+> **Last Updated:** 2026-07-28 22:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**act security emerges** • **cybercrime group known** • **attacking hugging face** • **arbitrary code execution** • **residential proxy node** • **self hosted artifactory** • **twitter whistleblower complaint** • **startup will invest** • **rated 9 8** • **latest version following** • **fbi agent explains** • **dhcpv6 server overwrite** • **cisa shares advice** • **public github repository** • **existing cloud environments** • **ban residential proxies** • **ai agent governance** • **national security risk** • **great security leader** • **critical security issue**
+**open source tool** • **act security emerges** • **cybercrime group known** • **attacking hugging face** • **arbitrary code execution** • **residential proxy node** • **modern credential attacks** • **self hosted artifactory** • **twitter whistleblower complaint** • **startup will invest** • **rated 9 8** • **latest version following** • **drones uavs announced** • **dhcpv6 server overwrite** • **designs flight controllers** • **cisa shares advice** • **public github repository** • **ban residential proxies** • **ai agent governance** • **national security risk**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [CubePilot drone software dev hit by DNS hijacking to intercept traffic](https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/)
 - [OpenAI models used Artifactory zero-days to escape to the internet](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/)
 - [CISA shares advice on isolating vital systems during cyberattacks](https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/)
 - [vBulletin fixes critical pre-auth RCE flaw with public exploit](https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/)
@@ -34,7 +35,6 @@
 - [Over 24,000 exposed server BMCs leak password hash via decades-old flaw](https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/)
 - [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
 - [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
-- [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Ghost Credentials Expose Cloud Systems to Hidden Identity Risks](https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path)
+- [Thousands of Data Center Controllers Open to Takeover](https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover)
 - [When AI Agents Escape Sandboxes, Old Security Rules Apply](https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply)
 - [Stronger AI Safety Requires Peeking Inside the 'Black Box'](https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box)
 - ['Certighost' Flaw Haunts Microsoft Active Directory Certificates](https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates)
 - [Former Citigroup CISO Blauner on What Makes A Great Security Leader](https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader)
 - [AI Agent Drives Espionage Attack on Thai Ministry of Finance](https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance)
-- [Agentic Browsers Rewind Web Security by 20 years](https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years)
-- ['Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure](https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure)
-- [FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown](https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown)
+- [Agentic Browsers Rewind Web Security by 20 Years](https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years)
 
 ### Security Week
 

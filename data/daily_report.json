@@ -1,72 +1,108 @@
 {
-  "last_updated": "2026-07-28 10:28",
+  "last_updated": "2026-07-28 13:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "velocloud orchestrator vco",
     "cybercrime group known",
-    "rogue agent hacked",
+    "act security emerges",
     "residential proxy node",
-    "exploited without authentication",
+    "public github repository",
+    "ai s ability",
     "ai agent governance",
-    "unpatched forum server",
     "twitter whistleblower complaint",
     "traffic relay operations",
-    "terminator skynet looks",
+    "startup will invest",
+    "rated 9 8",
     "move comes less",
     "latest version following",
-    "guilty pleas came",
     "fbi agent explains",
-    "allow authenticated attackers",
-    "2026 1 3",
+    "exploited without authentication",
+    "dhcpv6 server overwrite",
     "200k devices worldwide",
-    "another ai company",
-    "rogue openai agent",
-    "coca cola company"
+    "network services enabled",
+    "existing cloud environments",
+    "cvss 3 1"
   ],
   "trending": [
     {
       "keyword": "velocloud orchestrator vco",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 303
+      "mentions": 304
     },
     {
-      "keyword": "rogue agent hacked",
-      "mentions": 2
+      "keyword": "act security emerges",
+      "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 58
+      "mentions": 59
     },
     {
-      "keyword": "exploited without authentication",
-      "mentions": 10
+      "keyword": "public github repository",
+      "mentions": 27
+    },
+    {
+      "keyword": "ai s ability",
+      "mentions": 1
     },
     {
       "keyword": "ai agent governance",
-      "mentions": 1
-    },
-    {
-      "keyword": "unpatched forum server",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2227
+      "mentions": 2228
     },
     {
       "keyword": "traffic relay operations",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "terminator skynet looks",
-      "mentions": 2
+      "keyword": "startup will invest",
+      "mentions": 25
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
+      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
+      "published": "Tue, 28 Jul 2026 19:03:47 +0530",
+      "value_score": 78,
+      "value_signals": [
+        "Zero-day ×2",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
+      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
+      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6",
+      "published": "Tue, 28 Jul 2026 18:26:14 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
+      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
+      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previously undocumented Windows backdoor called NightLedger and two custom WebSocket tunnelers,",
+      "published": "Tue, 28 Jul 2026 17:25:20 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
@@ -124,36 +160,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Dysphoria IoT Botnet Adds Blockchain C2 and Victim Relays After JackSkid Disruption",
-      "link": "https://thehackernews.com/2026/07/dysphoria-iot-botnet-adds-blockchain-c2.html",
-      "summary": "Dysphoria, an Internet of Things (IoT) botnet line tracked by CNCERT and XLab, has adopted blockchain-based name services and infected-device relays after a March law-enforcement operation against JackSkid infrastructure. The researchers say the design makes the botnet harder to disrupt. CNCERT, China's national computer emergency response team, and XLab, the threat-intelligence lab of Chinese",
-      "published": "Mon, 27 Jul 2026 22:46:28 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
+      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
+      "published": "Tue, 28 Jul 2026 08:10:23 -0400",
+      "value_score": 22,
       "value_signals": [
-        "Botnet ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Public Exploit Released for Patched vBulletin Pre-Auth Code Execution Flaw",
-      "link": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
-      "summary": "Public exploit details released on July 27 show how an unauthenticated request can reach PHP's eval() function inside vBulletin and execute code on an unpatched forum server. The attack requires no account, administrative access, or interaction from another user. SSD Secure Disclosure lists vBulletin 6.2.1 and earlier, and 6.1.6 and earlier, as affected, but does not give a lower version",
-      "published": "Mon, 27 Jul 2026 20:10:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Rogue AI Agents, Check Point Exploit, Slopsquatting, ClickFix Lures and More",
-      "link": "https://thehackernews.com/2026/07/weekly-recap-rogue-ai-agents-check.html",
-      "summary": "Monday starts with the usual promise that everything is under control. Then the logs wake up. This week, trusted tools crossed lines, old flaws found new work, exposed systems stayed exposed, and attackers kept hiding inside normal-looking services. Nothing looked strange at first. That helped. That is the mood. Here is the full recap. ⚡ Threat of the Week OpenAI Says Its AI Agent Went Rogue",
-      "published": "Mon, 27 Jul 2026 19:40:54 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
@@ -234,17 +248,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
-      "summary": "The ShinyHunters extortion gang has claimed responsibility for a recently disclosed Ernst & Young data breach, saying it obtained credentials for some of the company's systems via a supply-chain attack. [...]",
-      "published": "Mon, 27 Jul 2026 11:12:27 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -334,10 +337,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+      "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+      "published": "Tue, 28 Jul 2026 12:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
       "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
       "published": "Tue, 28 Jul 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Agentic Browsers Rewind Web Security by 20 years",
+      "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+      "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+      "published": "Mon, 27 Jul 2026 21:39:09 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -363,6 +384,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Why Resetting Passwords No Longer Stops Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+      "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+      "published": "Mon, 27 Jul 2026 18:39:50 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
       "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
       "summary": "Confidence in autonomous security tools is declining, and here's why.",
@@ -382,31 +412,42 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
-      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
-      "summary": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
-      "published": "Fri, 24 Jul 2026 19:45:02 GMT",
+      "source": "Security Week",
+      "title": "OT Security Startup Frenos Raises $1.52 Million",
+      "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
+      "summary": "The company will use the fresh investment to grow its customer success and AI R&D teams. The post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 13:05:25 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
-      "summary": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
-      "published": "Fri, 24 Jul 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
+      "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
+      "summary": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing. The post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 11:11:48 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
-      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
-      "summary": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
-      "published": "Fri, 24 Jul 2026 12:48:16 GMT",
+      "source": "Security Week",
+      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
+      "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
+      "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 11:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Act Security Emerges from Stealth to Fight the Patch Problem",
+      "link": "https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/",
+      "summary": "Act Security tackles the spiraling patch problem caused by AI’s ability to find new vulnerabilities in existing cloud environments. The post Act Security Emerges from Stealth to Fight the Patch Problem appeared first on SecurityWeek .",
+      "published": "Tue, 28 Jul 2026 11:00:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
     },
     {
       "source": "Security Week",
@@ -449,48 +490,6 @@
       "value_signals": [
         "Zero-day ×2",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Origin Energy Data Breach Affects 900,000 Australians",
-      "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
-      "summary": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 05:01:05 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
-      "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
-      "summary": "Decades after it appeared in “The Terminator,” Skynet looks more like a forecast of the cyber incident in which a rogue AI system hacked into another AI company on its own. The post For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 02:28:03 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New GitHub, PyPI Policies Boost Supply Chain Security",
-      "link": "https://www.securityweek.com/new-github-pypi-policies-boost-supply-chain-security/",
-      "summary": "Dependabot gets a three-day cooldown window before opening pull requests, and PyPI rejects file uploads to releases older than 14 days. The post New GitHub, PyPI Policies Boost Supply Chain Security appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 14:26:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "PTC Windchill Vulnerability Exploited in Ransomware Campaign",
-      "link": "https://www.securityweek.com/ptc-windchill-vulnerability-exploited-in-ransomware-campaign/",
-      "summary": "The critical unsafe deserialization flaw allows attackers to execute arbitrary code remotely, without authentication. The post PTC Windchill Vulnerability Exploited in Ransomware Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 27 Jul 2026 13:19:30 +0000",
-      "value_score": 60,
-      "value_signals": [
-        "Ransomware ×2",
-        "High severity",
         "Exploit wording"
       ]
     },

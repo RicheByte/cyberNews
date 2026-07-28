@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2227,
+      "count": 2228,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2035,7 +2035,7 @@
       ]
     },
     "latest version following": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2226,7 +2226,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2234,7 +2234,8 @@
         "2026-01-22",
         "2026-01-23",
         "2026-01-24",
-        "2026-06-15"
+        "2026-06-15",
+        "2026-07-28"
       ]
     },
     "raspberry pi devices": {
@@ -7252,7 +7253,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -10965,14 +10966,15 @@
       ]
     },
     "startup will invest": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-03-18",
         "2026-03-19",
         "2026-03-26",
         "2026-03-27",
         "2026-05-06",
-        "2026-05-07"
+        "2026-05-07",
+        "2026-07-28"
       ]
     },
     "send crypto scams": {
@@ -20210,7 +20212,7 @@
       ]
     },
     "public github repository": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20219,7 +20221,8 @@
         "2026-07-21",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-28"
       ]
     },
     "tech giant describing": {
@@ -20767,7 +20770,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 303,
+      "count": 304,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23943,7 +23946,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23967,7 +23970,7 @@
       ]
     },
     "move comes less": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-22",
         "2026-07-28"
@@ -24620,21 +24623,21 @@
       ]
     },
     "fbi agent explains": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "traffic relay operations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-27",
         "2026-07-28"
       ]
     },
     "200k devices worldwide": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24653,7 +24656,7 @@
       ]
     },
     "velocloud orchestrator vco": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28"
       ]
@@ -24671,7 +24674,7 @@
       ]
     },
     "ai agent governance": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
@@ -24699,20 +24702,45 @@
       "dates": [
         "2026-07-28"
       ]
+    },
+    "act security emerges": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "ai s ability": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "dhcpv6 server overwrite": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "network services enabled": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "existing cloud environments": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "cvss 3 1": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-17 18:59",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "system login password"
-      ]
-    },
     {
       "timestamp": "2026-07-17 20:48",
       "articles": 48,
@@ -25800,6 +25828,17 @@
         "rogue agent hacked",
         "residential proxy node",
         "exploited without authentication"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28 13:51",
+      "articles": 48,
+      "top_keywords": [
+        "velocloud orchestrator vco",
+        "cybercrime group known",
+        "act security emerges",
+        "residential proxy node",
+        "public github repository"
       ]
     }
   ]

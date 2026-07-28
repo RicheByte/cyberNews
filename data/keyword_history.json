@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2230,
+      "count": 2231,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1162,7 +1162,7 @@
       ]
     },
     "national security risk": {
-      "count": 306,
+      "count": 307,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1220,7 +1220,8 @@
         "2026-07-22",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-28"
       ]
     },
     "open source millions": {
@@ -2036,7 +2037,7 @@
       ]
     },
     "latest version following": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2227,7 +2228,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -3192,7 +3193,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 268,
+      "count": 269,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10968,7 +10969,7 @@
       ]
     },
     "startup will invest": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -20214,7 +20215,7 @@
       ]
     },
     "public github repository": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20772,7 +20773,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 306,
+      "count": 307,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23949,7 +23950,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23961,7 +23962,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24626,7 +24627,7 @@
       ]
     },
     "fbi agent explains": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-27",
         "2026-07-28"
@@ -24677,7 +24678,7 @@
       ]
     },
     "ai agent governance": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-28"
       ]
@@ -24707,7 +24708,7 @@
       ]
     },
     "act security emerges": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28"
       ]
@@ -24719,7 +24720,7 @@
       ]
     },
     "dhcpv6 server overwrite": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28"
       ]
@@ -24731,7 +24732,7 @@
       ]
     },
     "existing cloud environments": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28"
       ]
@@ -24749,7 +24750,7 @@
       ]
     },
     "critical security issue": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-28"
       ]
@@ -24759,20 +24760,33 @@
       "dates": [
         "2026-07-28"
       ]
+    },
+    "attacking hugging face": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "self hosted artifactory": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "cisa shares advice": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
+    },
+    "great security leader": {
+      "count": 1,
+      "dates": [
+        "2026-07-28"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 01:58",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 04:50",
       "articles": 48,
@@ -25860,6 +25874,17 @@
         "arbitrary code execution",
         "residential proxy node",
         "autonomous security tools"
+      ]
+    },
+    {
+      "timestamp": "2026-07-28 21:02",
+      "articles": 48,
+      "top_keywords": [
+        "act security emerges",
+        "cybercrime group known",
+        "attacking hugging face",
+        "arbitrary code execution",
+        "residential proxy node"
       ]
     }
   ]

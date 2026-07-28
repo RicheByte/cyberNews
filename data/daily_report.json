@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-28 19:14",
+  "last_updated": "2026-07-28 21:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "act security emerges",
     "cybercrime group known",
+    "attacking hugging face",
     "arbitrary code execution",
     "residential proxy node",
-    "autonomous security tools",
+    "self hosted artifactory",
     "twitter whistleblower complaint",
-    "traffic relay operations",
     "startup will invest",
     "rated 9 8",
-    "ordinary local user",
     "latest version following",
     "fbi agent explains",
     "dhcpv6 server overwrite",
-    "200k devices worldwide",
+    "cisa shares advice",
     "public github repository",
     "existing cloud environments",
     "ban residential proxies",
     "ai agent governance",
-    "specops software explains",
-    "software giant fixed"
+    "national security risk",
+    "great security leader",
+    "critical security issue"
   ],
   "trending": [
     {
       "keyword": "act security emerges",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 306
+      "mentions": 307
+    },
+    {
+      "keyword": "attacking hugging face",
+      "mentions": 1
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 268
+      "mentions": 269
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 61
+      "mentions": 62
     },
     {
-      "keyword": "autonomous security tools",
-      "mentions": 2
+      "keyword": "self hosted artifactory",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2230
-    },
-    {
-      "keyword": "traffic relay operations",
-      "mentions": 7
+      "mentions": 2231
     },
     {
       "keyword": "startup will invest",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "rated 9 8",
-      "mentions": 46
+      "mentions": 47
     },
     {
-      "keyword": "ordinary local user",
-      "mentions": 1
+      "keyword": "latest version following",
+      "mentions": 12
     }
   ],
   "articles": [
@@ -161,6 +161,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "published": "Tue, 28 Jul 2026 16:37:06 -0400",
+      "value_score": 41,
+      "value_signals": [
+        "Zero-day",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA shares advice on isolating vital systems during cyberattacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
       "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
@@ -241,17 +253,6 @@
         "Zero-day",
         "Active exploitation",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
-      "link": "https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/",
-      "summary": "A botnet called Dysphoria has compromised around 200,000 devices across the world and is using them for distributed denial of service (DDoS) attacks and traffic relay operations. [...]",
-      "published": "Mon, 27 Jul 2026 17:08:15 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
       ]
     },
     {
@@ -341,6 +342,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "published": "Tue, 28 Jul 2026 20:27:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "published": "Tue, 28 Jul 2026 20:05:32 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
       "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
       "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
@@ -393,26 +412,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Why Resetting Passwords No Longer Stops Attackers",
-      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
-      "summary": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
-      "published": "Mon, 27 Jul 2026 18:39:50 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
-      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
-      "summary": "Confidence in autonomous security tools is declining, and here's why.",
-      "published": "Mon, 27 Jul 2026 17:31:18 GMT",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
       ]
     },
     {

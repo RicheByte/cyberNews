@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-28 19:14 UTC |
+| 🕐 Last Updated | 2026-07-28 21:02 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`act security emerges` • `cybercrime group known` • `arbitrary code execution` • `residential proxy node` • `autonomous security tools` • `twitter whistleblower complaint` • `traffic relay operations` • `startup will invest` • `rated 9 8` • `ordinary local user`
+`act security emerges` • `cybercrime group known` • `attacking hugging face` • `arbitrary code execution` • `residential proxy node` • `self hosted artifactory` • `twitter whistleblower complaint` • `startup will invest` • `rated 9 8` • `latest version following`
 
 ## 📄 Reports
 

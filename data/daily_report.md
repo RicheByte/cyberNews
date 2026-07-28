@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-28 19:14 UTC  
+> **Last Updated:** 2026-07-28 21:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**act security emerges** • **cybercrime group known** • **arbitrary code execution** • **residential proxy node** • **autonomous security tools** • **twitter whistleblower complaint** • **traffic relay operations** • **startup will invest** • **rated 9 8** • **ordinary local user** • **latest version following** • **fbi agent explains** • **dhcpv6 server overwrite** • **200k devices worldwide** • **public github repository** • **existing cloud environments** • **ban residential proxies** • **ai agent governance** • **specops software explains** • **software giant fixed**
+**act security emerges** • **cybercrime group known** • **attacking hugging face** • **arbitrary code execution** • **residential proxy node** • **self hosted artifactory** • **twitter whistleblower complaint** • **startup will invest** • **rated 9 8** • **latest version following** • **fbi agent explains** • **dhcpv6 server overwrite** • **cisa shares advice** • **public github repository** • **existing cloud environments** • **ban residential proxies** • **ai agent governance** • **national security risk** • **great security leader** • **critical security issue**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [OpenAI models used Artifactory zero-days to escape to the internet](https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/)
 - [CISA shares advice on isolating vital systems during cyberattacks](https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/)
 - [vBulletin fixes critical pre-auth RCE flaw with public exploit](https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/)
 - [Is Your SSO Protected Against Modern Credential Attacks?](https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/)
@@ -34,7 +35,6 @@
 - [Data breach at medical billing firm MCBS affects 1.26 million people](https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/)
 - [Hackers target US firms in FastJson RCE zero-day attacks](https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/)
 - [Arista patches VeloCloud Orchestrator zero-day exploited in attacks](https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/)
-- [New Dysphoria DDoS botnet spreads to 200k devices worldwide](https://www.bleepingcomputer.com/news/security/new-dysphoria-ddos-botnet-spreads-to-200k-devices-worldwide/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [When AI Agents Escape Sandboxes, Old Security Rules Apply](https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply)
+- [Stronger AI Safety Requires Peeking Inside the 'Black Box'](https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box)
 - ['Certighost' Flaw Haunts Microsoft Active Directory Certificates](https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates)
 - [Former Citigroup CISO Blauner on What Makes A Great Security Leader](https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader)
 - [AI Agent Drives Espionage Attack on Thai Ministry of Finance](https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance)
 - [Agentic Browsers Rewind Web Security by 20 years](https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years)
 - ['Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure](https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure)
 - [FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown](https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown)
-- [Why Resetting Passwords No Longer Stops Attackers](https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks)
-- [Adversaries Don't Need a Zero-Day — They Read Your Rulebook](https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook)
 
 ### Security Week
 

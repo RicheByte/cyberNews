@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-28 06:21 UTC |
+| 🕐 Last Updated | 2026-07-28 10:28 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`velocloud orchestrator vco` • `2 31 5` • `rogue agent hacked` • `residential proxy node` • `cybercrime group known` • `twitter whistleblower complaint` • `traffic relay operations` • `terminator skynet looks` • `guilty pleas came` • `fbi agent explains`
+`velocloud orchestrator vco` • `cybercrime group known` • `rogue agent hacked` • `residential proxy node` • `exploited without authentication` • `ai agent governance` • `unpatched forum server` • `twitter whistleblower complaint` • `traffic relay operations` • `terminator skynet looks`
 
 ## 📄 Reports
 

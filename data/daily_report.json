@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 20:48",
+  "last_updated": "2026-07-29 22:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,60 +10,60 @@
     "shared additional information",
     "real life identity",
     "goes something like",
-    "designs flight controllers",
     "anthropic claude code",
     "statewide cybersecurity response",
     "ban residential proxies",
     "target hugging face",
     "hugging face expanding",
-    "attacking hugging face",
     "token security explains",
     "security scanners embedded",
     "security circles right",
     "released security updates",
     "national security risks",
-    "national security risk"
+    "national security risk",
+    "growing security risk",
+    "windows 11 24h2"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 316
+      "mentions": 317
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 71
+      "mentions": 72
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2240
+      "mentions": 2241
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 529
+      "mentions": 530
     },
     {
       "keyword": "shared additional information",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "real life identity",
-      "mentions": 284
+      "mentions": 285
     },
     {
       "keyword": "goes something like",
-      "mentions": 4
-    },
-    {
-      "keyword": "designs flight controllers",
-      "mentions": 9
+      "mentions": 5
     },
     {
       "keyword": "anthropic claude code",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "statewide cybersecurity response",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "ban residential proxies",
+      "mentions": 70
     }
   ],
   "articles": [
@@ -156,6 +156,29 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic confirms Claude is down worldwide",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
+      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
+      "published": "Wed, 29 Jul 2026 17:39:29 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
+      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
+      "published": "Wed, 29 Jul 2026 17:35:40 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
       "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
       "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
@@ -212,27 +235,6 @@
       "published": "Wed, 29 Jul 2026 07:12:19 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
-      "summary": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
-      "published": "Tue, 28 Jul 2026 17:17:39 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
-      "summary": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
-      "published": "Tue, 28 Jul 2026 16:37:06 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -321,8 +323,8 @@
     },
     {
       "source": "Dark Reading",
-      "title": "OpenAI Rogue AI Incident Hit More Services Than Initially Thought",
-      "link": "https://www.darkreading.com/application-security/openai-rogue-ai-incident-services-initially-thought",
+      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+      "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
       "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
       "published": "Wed, 29 Jul 2026 19:48:12 GMT",
       "value_score": 10,

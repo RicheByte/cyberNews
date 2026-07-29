@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-29 20:48 UTC |
+| 🕐 Last Updated | 2026-07-29 22:56 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `residential proxy node` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `shared additional information` • `real life identity` • `goes something like` • `designs flight controllers` • `anthropic claude code` • `statewide cybersecurity response`
+`cybercrime group known` • `residential proxy node` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `shared additional information` • `real life identity` • `goes something like` • `anthropic claude code` • `statewide cybersecurity response` • `ban residential proxies`
 
 ## 📄 Reports
 

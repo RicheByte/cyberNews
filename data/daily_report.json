@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 19:05",
+  "last_updated": "2026-07-29 20:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 315
+      "mentions": 316
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 70
+      "mentions": 71
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2239
+      "mentions": 2240
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 528
+      "mentions": 529
     },
     {
       "keyword": "shared additional information",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "real life identity",
-      "mentions": 283
+      "mentions": 284
     },
     {
       "keyword": "goes something like",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "designs flight controllers",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "anthropic claude code",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "statewide cybersecurity response",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -321,6 +321,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "OpenAI Rogue AI Incident Hit More Services Than Initially Thought",
+      "link": "https://www.darkreading.com/application-security/openai-rogue-ai-incident-services-initially-thought",
+      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
+      "published": "Wed, 29 Jul 2026 19:48:12 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+      "published": "Wed, 29 Jul 2026 19:46:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
       "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
@@ -374,24 +392,6 @@
       "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
       "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
       "published": "Tue, 28 Jul 2026 21:07:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
-      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
-      "summary": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
-      "published": "Tue, 28 Jul 2026 20:27:36 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
-      "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
-      "published": "Tue, 28 Jul 2026 20:05:32 GMT",
       "value_score": 10,
       "value_signals": []
     },

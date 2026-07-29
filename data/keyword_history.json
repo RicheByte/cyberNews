@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2239,
+      "count": 2240,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -573,7 +573,7 @@
       ]
     },
     "real life identity": {
-      "count": 283,
+      "count": 284,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1165,7 +1165,7 @@
       ]
     },
     "national security risk": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1895,7 +1895,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 528,
+      "count": 529,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2529,7 +2529,7 @@
       ]
     },
     "token security explains": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -4117,7 +4117,7 @@
       ]
     },
     "released security updates": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -18690,7 +18690,7 @@
       ]
     },
     "national security risks": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-06-02",
         "2026-06-03",
@@ -20786,7 +20786,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 315,
+      "count": 316,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23965,7 +23965,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23978,7 +23978,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24785,7 +24785,7 @@
       ]
     },
     "attacking hugging face": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24833,7 +24833,7 @@
       ]
     },
     "designs flight controllers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24864,7 +24864,7 @@
       ]
     },
     "shared additional information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-29"
       ]
@@ -24900,19 +24900,19 @@
       ]
     },
     "security circles right": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-29"
       ]
     },
     "anthropic claude code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-29"
       ]
     },
     "goes something like": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-29"
       ]
@@ -24924,13 +24924,13 @@
       ]
     },
     "statewide cybersecurity response": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
     },
     "hugging face expanding": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
@@ -24942,30 +24942,19 @@
       ]
     },
     "target hugging face": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
     },
     "security scanners embedded": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 20:40",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 22:42",
       "articles": 48,
@@ -26046,6 +26035,17 @@
     },
     {
       "timestamp": "2026-07-29 19:05",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "residential proxy node",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "shared additional information"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 20:48",
       "articles": 48,
       "top_keywords": [
         "cybercrime group known",

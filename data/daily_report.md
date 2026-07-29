@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-29 19:05 UTC  
+> **Last Updated:** 2026-07-29 20:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [OpenAI Rogue AI Incident Hit More Services Than Initially Thought](https://www.darkreading.com/application-security/openai-rogue-ai-incident-services-initially-thought)
+- [Red Agents vs. Blue Agents: How to Make AI Better At Defense](https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense)
 - [Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
 - [Hugging Face Hack Lessons for Cyber Defenders](https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders)
 - [When AppSec Scanners Become a Supply Chain Attack Vector](https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector)
 - [Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms](https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms)
 - [Ghost Credentials Expose Cloud Systems to Hidden Identity Risks](https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path)
 - [Thousands of Data Center Controllers Open to Takeover](https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover)
-- [When AI Agents Escape Sandboxes, Old Security Rules Apply](https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply)
-- [Stronger AI Safety Requires Peeking Inside the 'Black Box'](https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box)
 
 ### Security Week
 

@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2234,
+      "count": 2235,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1088,14 +1088,15 @@
       ]
     },
     "specops software explains": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2025-12-19",
         "2026-02-23",
         "2026-05-27",
         "2026-05-28",
         "2026-07-22",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "software backdoor implanted": {
@@ -1893,7 +1894,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 524,
+      "count": 525,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -1992,7 +1993,8 @@
         "2026-07-21",
         "2026-07-23",
         "2026-07-24",
-        "2026-07-25"
+        "2026-07-25",
+        "2026-07-29"
       ]
     },
     "model agnostic abstractions": {
@@ -20221,7 +20223,7 @@
       ]
     },
     "public github repository": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20780,7 +20782,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 310,
+      "count": 311,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23958,7 +23960,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23971,7 +23973,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24256,12 +24258,13 @@
       ]
     },
     "turn one's television": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-23",
         "2026-07-25",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "anthropic's claude cowork": {
@@ -24664,9 +24667,10 @@
       ]
     },
     "unrestricted yolo mode": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "velocloud orchestrator vco": {
@@ -24776,7 +24780,7 @@
       ]
     },
     "attacking hugging face": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24790,7 +24794,7 @@
       ]
     },
     "cisa shares advice": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24803,28 +24807,28 @@
       ]
     },
     "open source tool": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "modern credential attacks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "drones uavs announced": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "designs flight controllers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24835,20 +24839,39 @@
       "dates": [
         "2026-07-29"
       ]
+    },
+    "gitea service account": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "run shell commands": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "internal security test": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "shared additional information": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "ip intelligence platform": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 10:57",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 13:02",
       "articles": 48,
@@ -25936,6 +25959,17 @@
         "cybercrime group known",
         "attacking hugging face",
         "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 10:33",
+      "articles": 48,
+      "top_keywords": [
+        "open source tool",
+        "attacking hugging face",
+        "gitea service account",
+        "cybercrime group known",
+        "residential proxy node"
       ]
     }
   ]

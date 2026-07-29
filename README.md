@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-29 06:26 UTC |
+| 🕐 Last Updated | 2026-07-29 10:33 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`open source tool` • `act security emerges` • `cybercrime group known` • `attacking hugging face` • `arbitrary code execution` • `residential proxy node` • `modern credential attacks` • `self hosted artifactory` • `ai agent governance` • `twitter whistleblower complaint`
+`open source tool` • `attacking hugging face` • `gitea service account` • `cybercrime group known` • `residential proxy node` • `modern credential attacks` • `run shell commands` • `twitter whistleblower complaint` • `internal security test` • `drones uavs announced`
 
 ## 📄 Reports
 

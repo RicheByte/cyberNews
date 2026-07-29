@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-29 06:26 UTC  
+> **Last Updated:** 2026-07-29 10:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**open source tool** • **act security emerges** • **cybercrime group known** • **attacking hugging face** • **arbitrary code execution** • **residential proxy node** • **modern credential attacks** • **self hosted artifactory** • **ai agent governance** • **twitter whistleblower complaint** • **turns victim systems** • **startup will invest** • **public github repository** • **latest version following** • **drones uavs announced** • **dhcpv6 server overwrite** • **designs flight controllers** • **cisa shares advice** • **ai s ability** • **ban residential proxies**
+**open source tool** • **attacking hugging face** • **gitea service account** • **cybercrime group known** • **residential proxy node** • **modern credential attacks** • **run shell commands** • **twitter whistleblower complaint** • **internal security test** • **drones uavs announced** • **designs flight controllers** • **cisa shares advice** • **shared additional information** • **ban residential proxies** • **ip intelligence platform** • **public github repository** • **unrestricted yolo mode** • **turn one's television** • **sprawling phishing campaign** • **specops software explains**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass](https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html)
+- [OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach](https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html)
+- [New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands](https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html)
+- [Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates](https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html)
 - [Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js](https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html)
 - [Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack](https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html)
 - [Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process](https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html)
 - [24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login](https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html)
-- [JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach](https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html)
-- [Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root](https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html)
-- [Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays](https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html)
-- [Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In](https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [OpenAI’s Rogue AI Ventured Beyond Hugging Face](https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/)
+- [Spur Raises $200 Million for IP Intelligence Platform](https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/)
+- [JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack](https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/)
+- [Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks](https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/)
 - [ShinyHunters Claims Ernst & Young Hack](https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/)
 - [Cyera Acquiring Oasis Security in $1 Billion Deal](https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/)
 - [Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe](https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/)
 - [OT Security Startup Frenos Raises $1.52 Million](https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/)
-- [Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model](https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/)
-- [Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker](https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/)
-- [Act Security Emerges from Stealth to Fight the Patch Problem](https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/)
-- [Hush Security Raises $30 Million for AI Agent Governance](https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/)
 
 ### Threatpost
 

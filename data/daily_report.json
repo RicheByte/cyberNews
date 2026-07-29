@@ -1,72 +1,122 @@
 {
-  "last_updated": "2026-07-29 06:26",
+  "last_updated": "2026-07-29 10:33",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "open source tool",
-    "act security emerges",
-    "cybercrime group known",
     "attacking hugging face",
-    "arbitrary code execution",
+    "gitea service account",
+    "cybercrime group known",
     "residential proxy node",
     "modern credential attacks",
-    "self hosted artifactory",
-    "ai agent governance",
+    "run shell commands",
     "twitter whistleblower complaint",
-    "turns victim systems",
-    "startup will invest",
-    "public github repository",
-    "latest version following",
+    "internal security test",
     "drones uavs announced",
-    "dhcpv6 server overwrite",
     "designs flight controllers",
     "cisa shares advice",
-    "ai s ability",
-    "ban residential proxies"
+    "shared additional information",
+    "ban residential proxies",
+    "ip intelligence platform",
+    "public github repository",
+    "unrestricted yolo mode",
+    "turn one's television",
+    "sprawling phishing campaign",
+    "specops software explains"
   ],
   "trending": [
     {
       "keyword": "open source tool",
-      "mentions": 3
-    },
-    {
-      "keyword": "act security emerges",
-      "mentions": 7
-    },
-    {
-      "keyword": "cybercrime group known",
-      "mentions": 310
+      "mentions": 4
     },
     {
       "keyword": "attacking hugging face",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 272
+      "keyword": "gitea service account",
+      "mentions": 1
+    },
+    {
+      "keyword": "cybercrime group known",
+      "mentions": 311
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 65
+      "mentions": 66
     },
     {
       "keyword": "modern credential attacks",
-      "mentions": 3
-    },
-    {
-      "keyword": "self hosted artifactory",
       "mentions": 4
     },
     {
-      "keyword": "ai agent governance",
-      "mentions": 8
+      "keyword": "run shell commands",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2234
+      "mentions": 2235
+    },
+    {
+      "keyword": "internal security test",
+      "mentions": 1
+    },
+    {
+      "keyword": "drones uavs announced",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
+      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
+      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
+      "published": "Wed, 29 Jul 2026 14:28:27 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Auth bypass ×2",
+        "PoC available",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
+      "published": "Wed, 29 Jul 2026 13:21:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
+      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
+      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
+      "published": "Wed, 29 Jul 2026 13:17:19 +0530",
+      "value_score": 92,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE ×2",
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
+      "published": "Wed, 29 Jul 2026 12:37:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
@@ -106,55 +156,6 @@
       "published": "Tue, 28 Jul 2026 20:11:36 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "JFrog Confirms OpenAI Models Exploited Artifactory Zero-Day Before Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/jfrog-confirms-openai-models-exploited.html",
-      "summary": "JFrog has confirmed that OpenAI models exploited a zero-day in self-hosted Artifactory while trying to reach the open internet from a sealed evaluation environment. Artifactory is JFrog's software repository manager. OpenAI says the models then escalated privileges and moved laterally until they reached an internet-connected node. JFrog says it has since developed and released fixes for cloud",
-      "published": "Tue, 28 Jul 2026 19:03:47 +0530",
-      "value_score": 78,
-      "value_signals": [
-        "Zero-day ×2",
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical OpenWrt DHCPv6 Flaw Could Let Unauthenticated Attackers Run Code as Root",
-      "link": "https://thehackernews.com/2026/07/critical-openwrt-dhcpv6-flaw-could-let.html",
-      "summary": "OpenWrt has shipped version 24.10.8 to close a critical DHCPv6 stack overflow and a wider set of remotely triggerable flaws in network services enabled by default. The critical issue, tracked as CVE-2026-53921 and rated 9.8 on CVSS 3.1 in OpenWrt's GitHub advisory, lets an unauthenticated attacker able to reach the DHCPv6 server overwrite a stack buffer in odhcpd through a crafted DHCPv6",
-      "published": "Tue, 28 Jul 2026 18:26:14 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Nimbus Manticore Deploys NightLedger and Turns Victim Systems Into Covert Relays",
-      "link": "https://thehackernews.com/2026/07/nimbus-manticore-deploys-nightledger.html",
-      "summary": "The Iranian state-backed hacking group tracked as Nimbus Manticore (aka GalaxyGato, Mirage Kitten, Smoke Sandstorm, Subtle Snail, and UNC1549) has been attributed to a fresh set of attacks targeting entities across the Middle East, Africa, and South Asia. The intrusions involve the use of a previously undocumented Windows backdoor called NightLedger and two custom WebSocket tunnelers,",
-      "published": "Tue, 28 Jul 2026 17:25:20 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical TeamCity Flaw Could Let Attackers Run OS Commands Without Logging In",
-      "link": "https://thehackernews.com/2026/07/critical-teamcity-flaw-could-let.html",
-      "summary": "JetBrains is urging customers of on-premise versions of TeamCity to update to the latest version following the discovery of a critical security issue that could result in arbitrary code execution. The vulnerability, assigned CVE-2026-63077 (CVSS score: 9.8), affects all TeamCity On-Premises versions. It has been addressed in versions 2025.11.7 and 2026.1.3. TeamCity Cloud instances have already",
-      "published": "Tue, 28 Jul 2026 13:41:22 +0530",
-      "value_score": 52,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update",
-        "High severity ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -407,6 +408,44 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
+      "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
+      "summary": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation. The post OpenAI’s Rogue AI Ventured Beyond Hugging Face appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 10:10:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Spur Raises $200 Million for IP Intelligence Platform",
+      "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
+      "summary": "The IP intelligence company will use the fresh investment to accelerate and scale its operations. The post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 09:12:19 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
+      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
+      "summary": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 08:46:30 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 07:53:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "ShinyHunters Claims Ernst & Young Hack",
       "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
       "summary": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek .",
@@ -438,44 +477,6 @@
       "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
       "summary": "The company will use the fresh investment to grow its customer success and AI R&D teams. The post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek .",
       "published": "Tue, 28 Jul 2026 13:05:25 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model",
-      "link": "https://www.securityweek.com/microsoft-unveils-mai-cyber-1-flash-its-first-cybersecurity-ai-model/",
-      "summary": "The company claims MAI-Cyber-1-Flash tops Anthropic’s Mythos and OpenAI’s GPT-5.6 Sol in CyberGym testing. The post Microsoft Unveils MAI-Cyber-1-Flash, Its First Cybersecurity AI Model appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 11:11:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker",
-      "link": "https://www.securityweek.com/hacker-conversations-tal-kollanders-journey-from-black-hat-to-hack-blocker/",
-      "summary": "Tal Kollander’s history divides neatly into two halves: first as an active hacker and then as the block that stops hacks. The post Hacker Conversations: Tal Kollander’s Journey From Black Hat to Hack Blocker appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Act Security Emerges from Stealth to Fight the Patch Problem",
-      "link": "https://www.securityweek.com/act-security-emerges-from-stealth-to-fight-the-patch-problem/",
-      "summary": "Act Security tackles the spiraling patch problem caused by AI’s ability to find new vulnerabilities in existing cloud environments. The post Act Security Emerges from Stealth to Fight the Patch Problem appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 11:00:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hush Security Raises $30 Million for AI Agent Governance",
-      "link": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
-      "summary": "The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships. The post Hush Security Raises $30 Million for AI Agent Governance appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 10:17:27 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 02:04",
+  "last_updated": "2026-07-29 06:26",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,62 +11,71 @@
     "residential proxy node",
     "modern credential attacks",
     "self hosted artifactory",
+    "ai agent governance",
     "twitter whistleblower complaint",
+    "turns victim systems",
     "startup will invest",
-    "rated 9 8",
+    "public github repository",
     "latest version following",
     "drones uavs announced",
     "dhcpv6 server overwrite",
     "designs flight controllers",
     "cisa shares advice",
-    "public github repository",
-    "ban residential proxies",
-    "ai agent governance",
-    "national security risk"
+    "ai s ability",
+    "ban residential proxies"
   ],
   "trending": [
     {
       "keyword": "open source tool",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "act security emerges",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 309
+      "mentions": 310
     },
     {
       "keyword": "attacking hugging face",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 271
+      "mentions": 272
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "modern credential attacks",
-      "mentions": 2
-    },
-    {
-      "keyword": "self hosted artifactory",
       "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2233
+      "keyword": "self hosted artifactory",
+      "mentions": 4
     },
     {
-      "keyword": "startup will invest",
-      "mentions": 30
+      "keyword": "ai agent governance",
+      "mentions": 8
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2234
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages \"contain an import-time JavaScript implant that resolves encrypted code",
+      "published": "Wed, 29 Jul 2026 09:50:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
@@ -145,18 +154,6 @@
         "CVE mentioned",
         "Patch/update",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "summary": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificial intelligence (AI) helped him find the bug and speed up exploit development. This is local",
-      "published": "Tue, 28 Jul 2026 13:34:44 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
       ]
     },
     {
@@ -410,6 +407,15 @@
     },
     {
       "source": "Security Week",
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "summary": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 06:23:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
       "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
       "summary": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek .",
@@ -470,15 +476,6 @@
       "link": "https://www.securityweek.com/hush-security-raises-30-million-for-ai-agent-governance/",
       "summary": "The startup will invest in expanding engineering and sales teams, accelerating ecosystem support, and expanding corporate partnerships. The post Hush Security Raises $30 Million for AI Agent Governance appeared first on SecurityWeek .",
       "published": "Tue, 28 Jul 2026 10:17:27 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Adopts New Threat Actor Naming System",
-      "link": "https://www.securityweek.com/google-adopts-new-threat-actor-naming-system/",
-      "summary": "The new two-word naming convention uses a memorable term utilized in public reporting and a cluster-categorization word. The post Google Adopts New Threat Actor Naming System appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 08:42:52 +0000",
       "value_score": 10,
       "value_signals": []
     },

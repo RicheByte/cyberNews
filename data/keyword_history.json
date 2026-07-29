@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2233,
+      "count": 2234,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2039,7 +2039,7 @@
       ]
     },
     "latest version following": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -3197,7 +3197,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 271,
+      "count": 272,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -10974,7 +10974,7 @@
       ]
     },
     "startup will invest": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -20221,7 +20221,7 @@
       ]
     },
     "public github repository": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20780,7 +20780,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 309,
+      "count": 310,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23958,7 +23958,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23971,7 +23971,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24688,7 +24688,7 @@
       ]
     },
     "ai agent governance": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24719,20 +24719,21 @@
       ]
     },
     "act security emerges": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "ai s ability": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "dhcpv6 server overwrite": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24775,21 +24776,21 @@
       ]
     },
     "attacking hugging face": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "self hosted artifactory": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "cisa shares advice": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24802,46 +24803,41 @@
       ]
     },
     "open source tool": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "modern credential attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "drones uavs announced": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28",
         "2026-07-29"
       ]
     },
     "designs flight controllers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-28",
+        "2026-07-29"
+      ]
+    },
+    "turns victim systems": {
+      "count": 1,
+      "dates": [
         "2026-07-29"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 09:18",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 10:57",
       "articles": 48,
@@ -25922,6 +25918,17 @@
     },
     {
       "timestamp": "2026-07-29 02:04",
+      "articles": 48,
+      "top_keywords": [
+        "open source tool",
+        "act security emerges",
+        "cybercrime group known",
+        "attacking hugging face",
+        "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 06:26",
       "articles": 48,
       "top_keywords": [
         "open source tool",

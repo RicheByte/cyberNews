@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2238,
+      "count": 2239,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -573,7 +573,7 @@
       ]
     },
     "real life identity": {
-      "count": 282,
+      "count": 283,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1165,7 +1165,7 @@
       ]
     },
     "national security risk": {
-      "count": 311,
+      "count": 312,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1895,7 +1895,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 527,
+      "count": 528,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2529,7 +2529,7 @@
       ]
     },
     "token security explains": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -4117,7 +4117,7 @@
       ]
     },
     "released security updates": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -18690,7 +18690,7 @@
       ]
     },
     "national security risks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-02",
         "2026-06-03",
@@ -20786,7 +20786,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 314,
+      "count": 315,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23965,7 +23965,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23978,7 +23978,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24785,7 +24785,7 @@
       ]
     },
     "attacking hugging face": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24833,7 +24833,7 @@
       ]
     },
     "designs flight controllers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24864,7 +24864,7 @@
       ]
     },
     "shared additional information": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
@@ -24900,19 +24900,19 @@
       ]
     },
     "security circles right": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-29"
       ]
     },
     "anthropic claude code": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
     },
     "goes something like": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
@@ -24924,13 +24924,13 @@
       ]
     },
     "statewide cybersecurity response": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
     },
     "hugging face expanding": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
@@ -24940,20 +24940,21 @@
       "dates": [
         "2026-07-29"
       ]
+    },
+    "target hugging face": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "security scanners embedded": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 18:55",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 20:40",
       "articles": 48,
@@ -26041,6 +26042,17 @@
         "twitter whistleblower complaint",
         "sprawling phishing campaign",
         "remove prohibited information"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 19:05",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "residential proxy node",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "shared additional information"
       ]
     }
   ]

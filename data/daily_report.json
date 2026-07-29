@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 17:09",
+  "last_updated": "2026-07-29 19:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,78 @@
     "residential proxy node",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
-    "remove prohibited information",
+    "shared additional information",
     "real life identity",
-    "hugging face expanding",
     "goes something like",
     "designs flight controllers",
-    "cisa shares advice",
-    "attacking hugging face",
     "anthropic claude code",
-    "aiding terrorist activity",
-    "released security updates",
+    "statewide cybersecurity response",
     "ban residential proxies",
+    "target hugging face",
+    "hugging face expanding",
+    "attacking hugging face",
     "token security explains",
+    "security scanners embedded",
     "security circles right",
+    "released security updates",
     "national security risks",
-    "national security risk",
-    "growing security risk"
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 314
+      "mentions": 315
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 69
+      "mentions": 70
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2238
+      "mentions": 2239
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 527
+      "mentions": 528
     },
     {
-      "keyword": "remove prohibited information",
+      "keyword": "shared additional information",
       "mentions": 3
     },
     {
       "keyword": "real life identity",
-      "mentions": 282
-    },
-    {
-      "keyword": "hugging face expanding",
-      "mentions": 1
+      "mentions": 283
     },
     {
       "keyword": "goes something like",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "designs flight controllers",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "cisa shares advice",
-      "mentions": 8
+      "keyword": "anthropic claude code",
+      "mentions": 3
+    },
+    {
+      "keyword": "statewide cybersecurity response",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
+      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
+      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
+      "published": "Wed, 29 Jul 2026 23:40:00 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
@@ -143,11 +155,11 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
-      "published": "Wed, 29 Jul 2026 16:30:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
+      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
+      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
+      "published": "Wed, 29 Jul 2026 13:54:05 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -165,7 +177,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
       "published": "Wed, 29 Jul 2026 10:55:57 -0400",
@@ -220,18 +232,6 @@
       "value_signals": [
         "Zero-day",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA shares advice on isolating vital systems during cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
-      "summary": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
-      "published": "Tue, 28 Jul 2026 14:41:04 -0400",
-      "value_score": 38,
-      "value_signals": [
-        "CISA/KEV",
-        "High severity"
       ]
     },
     {
@@ -321,6 +321,35 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+      "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+      "published": "Wed, 29 Jul 2026 17:43:38 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hugging Face Hack Lessons for Cyber Defenders",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "published": "Wed, 29 Jul 2026 17:35:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+      "published": "Wed, 29 Jul 2026 17:06:52 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
       "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
       "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
@@ -363,33 +392,6 @@
       "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
       "summary": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
       "published": "Tue, 28 Jul 2026 20:05:32 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
-      "summary": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
-      "published": "Tue, 28 Jul 2026 16:38:48 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
-      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
-      "summary": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
-      "published": "Tue, 28 Jul 2026 12:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
-      "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
-      "published": "Tue, 28 Jul 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

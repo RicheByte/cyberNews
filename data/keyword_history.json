@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-06-29",
     "2026-06-30",
     "2026-07-01",
     "2026-07-02",
@@ -29,7 +28,8 @@
     "2026-07-25",
     "2026-07-26",
     "2026-07-27",
-    "2026-07-28"
+    "2026-07-28",
+    "2026-07-29"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2232,
+      "count": 2233,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -536,7 +536,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "supposed wayward package": {
@@ -1162,7 +1163,7 @@
       ]
     },
     "national security risk": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1221,7 +1222,8 @@
         "2026-07-23",
         "2026-07-24",
         "2026-07-25",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "open source millions": {
@@ -2037,11 +2039,12 @@
       ]
     },
     "latest version following": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-29",
         "2025-12-30",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "cve 2020 12812": {
@@ -2228,7 +2231,7 @@
       ]
     },
     "rated 9 8": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -2237,7 +2240,8 @@
         "2026-01-23",
         "2026-01-24",
         "2026-06-15",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "raspberry pi devices": {
@@ -3193,7 +3197,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 270,
+      "count": 271,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3238,7 +3242,8 @@
         "2026-07-11",
         "2026-07-12",
         "2026-07-13",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "authenticated remote attacker": {
@@ -10969,7 +10974,7 @@
       ]
     },
     "startup will invest": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-03-18",
         "2026-03-19",
@@ -10977,7 +10982,8 @@
         "2026-03-27",
         "2026-05-06",
         "2026-05-07",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "send crypto scams": {
@@ -20215,7 +20221,7 @@
       ]
     },
     "public github repository": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20225,7 +20231,8 @@
         "2026-07-23",
         "2026-07-24",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "tech giant describing": {
@@ -20773,7 +20780,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 308,
+      "count": 309,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20810,7 +20817,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "users must layer": {
@@ -23950,7 +23958,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23958,11 +23966,12 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "ban residential proxies": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23970,7 +23979,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "move comes less": {
@@ -24678,9 +24688,10 @@
       ]
     },
     "ai agent governance": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "unpatched forum server": {
@@ -24708,9 +24719,10 @@
       ]
     },
     "act security emerges": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "ai s ability": {
@@ -24720,9 +24732,10 @@
       ]
     },
     "dhcpv6 server overwrite": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "network services enabled": {
@@ -24762,21 +24775,24 @@
       ]
     },
     "attacking hugging face": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "self hosted artifactory": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "cisa shares advice": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "great security leader": {
@@ -24786,42 +24802,35 @@
       ]
     },
     "open source tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "modern credential attacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "drones uavs announced": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     },
     "designs flight controllers": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-07-28"
+        "2026-07-28",
+        "2026-07-29"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 07:40",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 09:18",
       "articles": 48,
@@ -25902,6 +25911,17 @@
     },
     {
       "timestamp": "2026-07-28 22:53",
+      "articles": 48,
+      "top_keywords": [
+        "open source tool",
+        "act security emerges",
+        "cybercrime group known",
+        "attacking hugging face",
+        "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 02:04",
       "articles": 48,
       "top_keywords": [
         "open source tool",

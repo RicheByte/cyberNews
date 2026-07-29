@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-28 22:53",
+  "last_updated": "2026-07-29 02:04",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "open source tool",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "act security emerges",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 308
+      "mentions": 309
     },
     {
       "keyword": "attacking hugging face",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 270
+      "mentions": 271
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "modern credential attacks",
-      "mentions": 1
-    },
-    {
-      "keyword": "self hosted artifactory",
       "mentions": 2
     },
     {
+      "keyword": "self hosted artifactory",
+      "mentions": 3
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2232
+      "mentions": 2233
     },
     {
       "keyword": "startup will invest",
-      "mentions": 29
+      "mentions": 30
     }
   ],
   "articles": [
@@ -340,7 +340,7 @@
       "source": "Dark Reading",
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-      "summary": "Security researcher Aleksandr Krasnov reveals dormant non-human identities can create security blind spots and releases NHI Hound, an open source tool to sniff out trust paths.",
+      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
       "published": "Tue, 28 Jul 2026 21:33:23 GMT",
       "value_score": 10,
       "value_signals": []

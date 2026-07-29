@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2235,
+      "count": 2236,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -573,7 +573,7 @@
       ]
     },
     "real life identity": {
-      "count": 279,
+      "count": 280,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -618,7 +618,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-29"
       ]
     },
     "got1000 series devices": {
@@ -1164,7 +1165,7 @@
       ]
     },
     "national security risk": {
-      "count": 309,
+      "count": 310,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -18687,10 +18688,11 @@
       ]
     },
     "national security risks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-06-02",
-        "2026-06-03"
+        "2026-06-03",
+        "2026-07-29"
       ]
     },
     "android operating system": {
@@ -20223,7 +20225,7 @@
       ]
     },
     "public github repository": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20782,7 +20784,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 311,
+      "count": 312,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23515,7 +23517,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23523,7 +23525,8 @@
         "2026-07-20",
         "2026-07-21",
         "2026-07-22",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-29"
       ]
     },
     "shodan harvester keeps": {
@@ -23960,7 +23963,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23973,7 +23976,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24780,7 +24783,7 @@
       ]
     },
     "attacking hugging face": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24794,7 +24797,7 @@
       ]
     },
     "cisa shares advice": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24828,7 +24831,7 @@
       ]
     },
     "designs flight controllers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24841,13 +24844,13 @@
       ]
     },
     "gitea service account": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
     },
     "run shell commands": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
@@ -24859,7 +24862,7 @@
       ]
     },
     "shared additional information": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
@@ -24869,20 +24872,39 @@
       "dates": [
         "2026-07-29"
       ]
+    },
+    "remove prohibited information": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "criminal telegram channels": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "aiding terrorist activity": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "additional feature improvements": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "security circles right": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 13:02",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 14:46",
       "articles": 48,
@@ -25970,6 +25992,17 @@
         "gitea service account",
         "cybercrime group known",
         "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 13:56",
+      "articles": 48,
+      "top_keywords": [
+        "attacking hugging face",
+        "gitea service account",
+        "cybercrime group known",
+        "residential proxy node",
+        "shared additional information"
       ]
     }
   ]

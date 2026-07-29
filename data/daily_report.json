@@ -1,72 +1,113 @@
 {
-  "last_updated": "2026-07-29 10:33",
+  "last_updated": "2026-07-29 13:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "open source tool",
     "attacking hugging face",
     "gitea service account",
     "cybercrime group known",
     "residential proxy node",
-    "modern credential attacks",
+    "shared additional information",
     "run shell commands",
     "twitter whistleblower complaint",
-    "internal security test",
-    "drones uavs announced",
+    "remove prohibited information",
+    "real life identity",
     "designs flight controllers",
+    "criminal telegram channels",
     "cisa shares advice",
-    "shared additional information",
+    "aiding terrorist activity",
     "ban residential proxies",
-    "ip intelligence platform",
+    "vulnerability discoveries aided",
     "public github repository",
-    "unrestricted yolo mode",
-    "turn one's television",
-    "sprawling phishing campaign",
-    "specops software explains"
+    "additional feature improvements",
+    "security circles right",
+    "national security risks",
+    "national security risk"
   ],
   "trending": [
     {
-      "keyword": "open source tool",
-      "mentions": 4
-    },
-    {
       "keyword": "attacking hugging face",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "gitea service account",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cybercrime group known",
-      "mentions": 311
+      "mentions": 312
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 66
+      "mentions": 67
     },
     {
-      "keyword": "modern credential attacks",
-      "mentions": 4
+      "keyword": "shared additional information",
+      "mentions": 2
     },
     {
       "keyword": "run shell commands",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2235
+      "mentions": 2236
     },
     {
-      "keyword": "internal security test",
+      "keyword": "remove prohibited information",
       "mentions": 1
     },
     {
-      "keyword": "drones uavs announced",
-      "mentions": 4
+      "keyword": "real life identity",
+      "mentions": 280
+    },
+    {
+      "keyword": "designs flight controllers",
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
+      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
+      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change? The honest answer is",
+      "published": "Wed, 29 Jul 2026 17:45:00 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
+      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
+      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update. \"No settings or additional user interaction are required,\" Eten Zou,",
+      "published": "Wed, 29 Jul 2026 17:27:00 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
+      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
+      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack. According to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
+      "published": "Wed, 29 Jul 2026 16:43:10 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
+      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
+      "summary": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
+      "published": "Wed, 29 Jul 2026 16:30:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
@@ -118,42 +159,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
-      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
-      "summary": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages \"contain an import-time JavaScript implant that resolves encrypted code",
-      "published": "Wed, 29 Jul 2026 09:50:57 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
-      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
-      "summary": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
-      "published": "Wed, 29 Jul 2026 00:29:07 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
+      "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
+      "published": "Wed, 29 Jul 2026 09:56:22 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Exploit wording"
+        "Patch/update ×2"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
-      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
-      "summary": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu supports 25 distributed denial-of-service (",
-      "published": "Tue, 28 Jul 2026 20:31:33 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
-      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
-      "summary": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
-      "published": "Tue, 28 Jul 2026 20:11:36 +0530",
+      "source": "BleepingComputer",
+      "title": "These near-mint ASUS Chromebook refurbs are only $145",
+      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
+      "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
+      "published": "Wed, 29 Jul 2026 07:12:19 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -223,30 +244,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
-      "summary": "Healthcare billing company Medical Computer Business Services (MCBS) has disclosed that a 2025 network breach exposed the sensitive information of more than 1.2 million people. [...]",
-      "published": "Tue, 28 Jul 2026 05:10:03 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target US firms in FastJson RCE zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
-      "summary": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
-      "published": "Mon, 27 Jul 2026 19:49:44 -0400",
-      "value_score": 81,
-      "value_signals": [
-        "Zero-day",
-        "RCE ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -338,7 +335,7 @@
       "source": "Dark Reading",
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
       "published": "Tue, 28 Jul 2026 21:33:23 GMT",
       "value_score": 10,
       "value_signals": []
@@ -408,6 +405,55 @@
     },
     {
       "source": "Security Week",
+      "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
+      "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
+      "summary": "The agency said imports of advanced robots pose cybersecurity and other national security risks. The post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 13:31:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Mate Security Raises $35 Million for Agentic SOC",
+      "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
+      "summary": "The startup will use the investment to expand its customer support, sales, and R&D teams. The post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 12:47:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "ThreatLocker Raises $190 Million in Series F Funding",
+      "link": "https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/",
+      "summary": "The company was previously valued at $1.6 billion, and the latest raise has significantly increased that valuation. The post ThreatLocker Raises $190 Million in Series F Funding appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 12:17:14 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical VM Escape Vulnerability Patched in VMware ESXi",
+      "link": "https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/",
+      "summary": "A total of five vulnerabilities have been patched in VMware ESXi, vCenter, Workstation, and Fusion. The post Critical VM Escape Vulnerability Patched in VMware ESXi appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 11:42:38 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "US, Australia Release OT Isolation Guidance for Critical Infrastructure",
+      "link": "https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/",
+      "summary": "The guidance details steps organizations can take to isolate vital OT and supporting systems, and operate in isolation for an extended period. The post US, Australia Release OT Isolation Guidance for Critical Infrastructure appeared first on SecurityWeek .",
+      "published": "Wed, 29 Jul 2026 10:58:44 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "OpenAI’s Rogue AI Ventured Beyond Hugging Face",
       "link": "https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/",
       "summary": "Hugging Face has published an anatomy of the attack and OpenAI has shared additional information from its investigation. The post OpenAI’s Rogue AI Ventured Beyond Hugging Face appeared first on SecurityWeek .",
@@ -434,51 +480,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "summary": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 29 Jul 2026 07:53:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "summary": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek .",
-      "published": "Wed, 29 Jul 2026 06:23:34 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
-      "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
-      "summary": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 14:55:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
-      "link": "https://www.securityweek.com/apple-patches-87-vulnerabilities-in-ios-155-in-macos-tahoe/",
-      "summary": "Apple announced that dozens of vulnerabilities have been patched in each of its operating systems. The post Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 14:19:31 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OT Security Startup Frenos Raises $1.52 Million",
-      "link": "https://www.securityweek.com/ot-security-startup-frenos-raises-1-52-million/",
-      "summary": "The company will use the fresh investment to grow its customer success and AI R&D teams. The post OT Security Startup Frenos Raises $1.52 Million appeared first on SecurityWeek .",
-      "published": "Tue, 28 Jul 2026 13:05:25 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

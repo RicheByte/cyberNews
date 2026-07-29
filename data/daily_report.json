@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-29 15:47",
+  "last_updated": "2026-07-29 17:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cybercrime group known",
-    "attacking hugging face",
     "residential proxy node",
-    "anthropic claude code",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "remove prohibited information",
     "real life identity",
+    "hugging face expanding",
     "goes something like",
     "designs flight controllers",
     "cisa shares advice",
+    "attacking hugging face",
+    "anthropic claude code",
     "aiding terrorist activity",
-    "ban residential proxies",
     "released security updates",
-    "isolating vital systems",
-    "vulnerability discoveries aided",
+    "ban residential proxies",
     "token security explains",
-    "statewide cybersecurity response",
     "security circles right",
-    "national security risks"
+    "national security risks",
+    "national security risk",
+    "growing security risk"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 313
-    },
-    {
-      "keyword": "attacking hugging face",
-      "mentions": 7
+      "mentions": 314
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 68
-    },
-    {
-      "keyword": "anthropic claude code",
-      "mentions": 1
+      "mentions": 69
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2237
+      "mentions": 2238
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 526
+      "mentions": 527
     },
     {
       "keyword": "remove prohibited information",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "real life identity",
-      "mentions": 281
+      "mentions": 282
     },
     {
-      "keyword": "goes something like",
+      "keyword": "hugging face expanding",
       "mentions": 1
     },
     {
+      "keyword": "goes something like",
+      "mentions": 2
+    },
+    {
       "keyword": "designs flight controllers",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "cisa shares advice",
+      "mentions": 8
     }
   ],
   "articles": [
@@ -153,6 +153,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
+      "published": "Wed, 29 Jul 2026 12:04:59 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "Patch/update",
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
       "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
@@ -220,19 +232,6 @@
       "value_signals": [
         "CISA/KEV",
         "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "summary": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
-      "published": "Tue, 28 Jul 2026 14:08:50 -0400",
-      "value_score": 52,
-      "value_signals": [
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -322,6 +321,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "published": "Wed, 29 Jul 2026 14:40:33 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
       "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
@@ -380,15 +390,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
       "summary": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
       "published": "Tue, 28 Jul 2026 01:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Agentic Browsers Rewind Web Security by 20 Years",
-      "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
-      "summary": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
-      "published": "Mon, 27 Jul 2026 21:39:09 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2237,
+      "count": 2238,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -573,7 +573,7 @@
       ]
     },
     "real life identity": {
-      "count": 281,
+      "count": 282,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1165,7 +1165,7 @@
       ]
     },
     "national security risk": {
-      "count": 310,
+      "count": 311,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1895,7 +1895,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 526,
+      "count": 527,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2529,7 +2529,7 @@
       ]
     },
     "token security explains": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -4117,7 +4117,7 @@
       ]
     },
     "released security updates": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -18690,7 +18690,7 @@
       ]
     },
     "national security risks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-06-02",
         "2026-06-03",
@@ -20786,7 +20786,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 313,
+      "count": 314,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23965,7 +23965,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23978,7 +23978,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24785,7 +24785,7 @@
       ]
     },
     "attacking hugging face": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24799,7 +24799,7 @@
       ]
     },
     "cisa shares advice": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24833,7 +24833,7 @@
       ]
     },
     "designs flight controllers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24876,7 +24876,7 @@
       ]
     },
     "remove prohibited information": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
@@ -24888,7 +24888,7 @@
       ]
     },
     "aiding terrorist activity": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
@@ -24900,19 +24900,19 @@
       ]
     },
     "security circles right": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-29"
       ]
     },
     "anthropic claude code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
     },
     "goes something like": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
@@ -24928,20 +24928,21 @@
       "dates": [
         "2026-07-29"
       ]
+    },
+    "hugging face expanding": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "growing security risk": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 16:51",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 18:55",
       "articles": 48,
@@ -26029,6 +26030,17 @@
         "residential proxy node",
         "anthropic claude code",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 17:09",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "residential proxy node",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "remove prohibited information"
       ]
     }
   ]

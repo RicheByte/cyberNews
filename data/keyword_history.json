@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2236,
+      "count": 2237,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -573,7 +573,7 @@
       ]
     },
     "real life identity": {
-      "count": 280,
+      "count": 281,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1895,7 +1895,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 525,
+      "count": 526,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2529,7 +2529,7 @@
       ]
     },
     "token security explains": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2538,7 +2538,8 @@
         "2026-03-31",
         "2026-04-01",
         "2026-07-16",
-        "2026-07-17"
+        "2026-07-17",
+        "2026-07-29"
       ]
     },
     "advanced ai technologies": {
@@ -4116,7 +4117,7 @@
       ]
     },
     "released security updates": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4141,7 +4142,8 @@
         "2026-06-17",
         "2026-07-14",
         "2026-07-15",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-07-29"
       ]
     },
     "auditability collide daily": {
@@ -18688,7 +18690,7 @@
       ]
     },
     "national security risks": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-02",
         "2026-06-03",
@@ -20784,7 +20786,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23517,7 +23519,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23963,7 +23965,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23976,7 +23978,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24783,7 +24785,7 @@
       ]
     },
     "attacking hugging face": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24797,7 +24799,7 @@
       ]
     },
     "cisa shares advice": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24831,7 +24833,7 @@
       ]
     },
     "designs flight controllers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-28",
         "2026-07-29"
@@ -24874,7 +24876,7 @@
       ]
     },
     "remove prohibited information": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
@@ -24886,7 +24888,7 @@
       ]
     },
     "aiding terrorist activity": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-29"
       ]
@@ -24898,6 +24900,30 @@
       ]
     },
     "security circles right": {
+      "count": 2,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "anthropic claude code": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "goes something like": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "isolating vital systems": {
+      "count": 1,
+      "dates": [
+        "2026-07-29"
+      ]
+    },
+    "statewide cybersecurity response": {
       "count": 1,
       "dates": [
         "2026-07-29"
@@ -24905,17 +24931,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-18 14:46",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-18 16:51",
       "articles": 48,
@@ -26003,6 +26018,17 @@
         "cybercrime group known",
         "residential proxy node",
         "shared additional information"
+      ]
+    },
+    {
+      "timestamp": "2026-07-29 15:47",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "attacking hugging face",
+        "residential proxy node",
+        "anthropic claude code",
+        "twitter whistleblower complaint"
       ]
     }
   ]

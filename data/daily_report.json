@@ -1,72 +1,115 @@
 {
-  "last_updated": "2026-07-29 13:56",
+  "last_updated": "2026-07-29 15:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "attacking hugging face",
-    "gitea service account",
     "cybercrime group known",
+    "attacking hugging face",
     "residential proxy node",
-    "shared additional information",
-    "run shell commands",
+    "anthropic claude code",
     "twitter whistleblower complaint",
+    "sprawling phishing campaign",
     "remove prohibited information",
     "real life identity",
+    "goes something like",
     "designs flight controllers",
-    "criminal telegram channels",
     "cisa shares advice",
     "aiding terrorist activity",
     "ban residential proxies",
+    "released security updates",
+    "isolating vital systems",
     "vulnerability discoveries aided",
-    "public github repository",
-    "additional feature improvements",
+    "token security explains",
+    "statewide cybersecurity response",
     "security circles right",
-    "national security risks",
-    "national security risk"
+    "national security risks"
   ],
   "trending": [
     {
-      "keyword": "attacking hugging face",
-      "mentions": 6
-    },
-    {
-      "keyword": "gitea service account",
-      "mentions": 2
-    },
-    {
       "keyword": "cybercrime group known",
-      "mentions": 312
+      "mentions": 313
+    },
+    {
+      "keyword": "attacking hugging face",
+      "mentions": 7
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 67
+      "mentions": 68
     },
     {
-      "keyword": "shared additional information",
-      "mentions": 2
-    },
-    {
-      "keyword": "run shell commands",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2236
-    },
-    {
-      "keyword": "remove prohibited information",
+      "keyword": "anthropic claude code",
       "mentions": 1
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2237
+    },
+    {
+      "keyword": "sprawling phishing campaign",
+      "mentions": 526
+    },
+    {
+      "keyword": "remove prohibited information",
+      "mentions": 2
+    },
+    {
       "keyword": "real life identity",
-      "mentions": 280
+      "mentions": 281
+    },
+    {
+      "keyword": "goes something like",
+      "mentions": 1
     },
     {
       "keyword": "designs flight controllers",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
+      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
+      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
+      "published": "Wed, 29 Jul 2026 21:09:30 +0530",
+      "value_score": 48,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
+      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
+      "summary": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter. \"A malicious actor with network access to vCenter",
+      "published": "Wed, 29 Jul 2026 21:01:15 +0530",
+      "value_score": 74,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline",
+      "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
+      "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls. Braham's water plant went offline, and the city asked residents to minimize",
+      "published": "Wed, 29 Jul 2026 19:18:36 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
+      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
+      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
+      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
@@ -109,52 +152,20 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Public PoC Released for Exploited Check Point SmartConsole Authentication Bypass",
-      "link": "https://thehackernews.com/2026/07/rapid7-releases-poc-for-exploited-check.html",
-      "summary": "Cybersecurity researchers have shared additional technical details about a recently patched critical security flaw impacting Check Point Security Management Server and Multi-Domain Security Management Server (MDS) that has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass in the SmartConsole login process that",
-      "published": "Wed, 29 Jul 2026 14:28:27 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Auth bypass ×2",
-        "PoC available",
-        "High severity",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Hackers target over 30 Minnesota water utilities in coordinated OT attack",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
+      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
+      "published": "Wed, 29 Jul 2026 10:55:57 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
-      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
-      "summary": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
-      "published": "Wed, 29 Jul 2026 13:21:00 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Gitea RCE Lets Repository Writers Plant a Git Hook to Run Shell Commands",
-      "link": "https://thehackernews.com/2026/07/new-gitea-rce-lets-repository-writers.html",
-      "summary": "Gitea, the self-hosted Git platform, has patched a critical remote code execution vulnerability. A user with ordinary repository write access can turn attacker-controlled patch content into a live Git hook and run shell commands as the Gitea service account. Tracked as CVE-2026-60004 (CVSS score: 9.8), the flaw affects Gitea versions 1.17 and later before 1.27.1 and is fixed in 1.27.1. The",
-      "published": "Wed, 29 Jul 2026 13:17:19 +0530",
-      "value_score": 92,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE ×2",
-        "Patch/update ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
-      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
-      "summary": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
-      "published": "Wed, 29 Jul 2026 12:37:23 +0530",
+      "source": "BleepingComputer",
+      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
+      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
+      "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
+      "published": "Wed, 29 Jul 2026 10:02:12 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -222,28 +233,6 @@
         "RCE",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Is Your SSO Protected Against Modern Credential Attacks?",
-      "link": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
-      "summary": "A compromised SSO login can provide attackers with access to multiple enterprise applications and services. Specops Software explains how stronger passwords, phishing-resistant MFA, and identity hardening help secure modern SSO environments and the applications they protect. [...]",
-      "published": "Tue, 28 Jul 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/over-24-000-exposed-server-bmcs-leak-password-hash-via-decades-old-flaw/",
-      "summary": "More than 24,000 internet-exposed servers are leaking authentication password hashes due to a 20-year-old vulnerability in their Baseboard Management Controller (BMC) interface. [...]",
-      "published": "Tue, 28 Jul 2026 08:10:23 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

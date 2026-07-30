@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2249,
+      "count": 2250,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4123,7 +4123,7 @@
       ]
     },
     "released security updates": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6318,7 +6318,7 @@
       ]
     },
     "company will invest": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -10641,12 +10641,13 @@
       ]
     },
     "state sponsored campaign": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-03-13",
         "2026-03-14",
         "2026-03-15",
-        "2026-03-16"
+        "2026-03-16",
+        "2026-07-30"
       ]
     },
     "threat actor tracked": {
@@ -23533,7 +23534,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23980,7 +23981,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23994,7 +23995,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24280,7 +24281,7 @@
       ]
     },
     "turn one's television": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24305,7 +24306,7 @@
       ]
     },
     "unauthorized party accessed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24981,7 +24982,7 @@
       ]
     },
     "least 88 billion": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-30"
       ]
@@ -25005,7 +25006,7 @@
       ]
     },
     "keep mailbox access": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-30"
       ]
@@ -25023,7 +25024,7 @@
       ]
     },
     "four security firms": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-30"
       ]
@@ -25047,7 +25048,7 @@
       ]
     },
     "global supply chains": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-30"
       ]
@@ -25071,7 +25072,7 @@
       ]
     },
     "telecommunications financial hospitality": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-30"
       ]
@@ -25083,42 +25084,43 @@
       ]
     },
     "ai generated websites": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-30"
       ]
     },
     "infect targeted visitors": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-30"
       ]
     },
     "consumer tv boxes": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-30"
       ]
     },
     "red agents vs": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "involves redirecting users": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "typical ai harness": {
+      "count": 1,
       "dates": [
         "2026-07-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-19 20:40",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "gain root access",
-        "coordinate vulnerability response",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-19 22:44",
       "articles": 48,
@@ -26199,6 +26201,17 @@
     },
     {
       "timestamp": "2026-07-30 19:16",
+      "articles": 48,
+      "top_keywords": [
+        "released security updates",
+        "ai generated websites",
+        "residential proxy node",
+        "least 88 billion",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-30 21:01",
       "articles": 48,
       "top_keywords": [
         "released security updates",

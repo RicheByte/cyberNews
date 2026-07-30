@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 19:16",
+  "last_updated": "2026-07-30 21:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,65 +8,76 @@
     "residential proxy node",
     "least 88 billion",
     "twitter whistleblower complaint",
+    "involves redirecting users",
     "infect targeted visitors",
     "four security firms",
     "consumer tv boxes",
     "company will invest",
     "ban residential proxies",
-    "software supply chain",
+    "state sponsored campaign",
     "red agents vs",
     "keep mailbox access",
     "global supply chains",
-    "devices people already",
     "vulnerability discoveries aided",
     "unauthorized party accessed",
+    "typical ai harness",
     "turn one's television",
-    "telecommunications financial hospitality",
-    "target u s"
+    "telecommunications financial hospitality"
   ],
   "trending": [
     {
       "keyword": "released security updates",
-      "mentions": 83
+      "mentions": 84
     },
     {
       "keyword": "ai generated websites",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 80
+      "mentions": 81
     },
     {
       "keyword": "least 88 billion",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2249
+      "mentions": 2250
+    },
+    {
+      "keyword": "involves redirecting users",
+      "mentions": 1
     },
     {
       "keyword": "infect targeted visitors",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "four security firms",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "company will invest",
-      "mentions": 12
-    },
-    {
-      "keyword": "ban residential proxies",
-      "mentions": 78
+      "mentions": 13
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
+      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
+      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
+      "published": "Thu, 30 Jul 2026 23:48:24 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
@@ -139,15 +150,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
-      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
-      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
-      "published": "Thu, 30 Jul 2026 12:58:43 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -322,6 +324,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Harnesses Burst With Potential Exploit Opps",
+      "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
+      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
+      "published": "Thu, 30 Jul 2026 19:40:40 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
       "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
       "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
@@ -382,15 +395,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
       "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
       "published": "Wed, 29 Jul 2026 17:35:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-      "published": "Wed, 29 Jul 2026 17:06:52 GMT",
       "value_score": 10,
       "value_signals": []
     },

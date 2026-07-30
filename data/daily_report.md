@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-30 21:01 UTC  
+> **Last Updated:** 2026-07-30 22:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**released security updates** • **ai generated websites** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **involves redirecting users** • **infect targeted visitors** • **four security firms** • **consumer tv boxes** • **company will invest** • **ban residential proxies** • **state sponsored campaign** • **red agents vs** • **keep mailbox access** • **global supply chains** • **vulnerability discoveries aided** • **unauthorized party accessed** • **typical ai harness** • **turn one's television** • **telecommunications financial hospitality**
+**released security updates** • **ai generated websites** • **residential proxy node** • **least 88 billion** • **data protection violations** • **us critical infrastructure** • **twitter whistleblower complaint** • **involves redirecting users** • **infect targeted visitors** • **industrial manufacturing sector** • **four security firms** • **consumer tv boxes** • **company will invest** • **ban residential proxies** • **red agents vs** • **vulnerability discoveries aided** • **unauthorized party accessed** • **typical ai harness** • **turn one's television** • **telecommunications financial hospitality**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
+- [JetBrains warns of critical TeamCity remote code execution flaw](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/)
 - [Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers](https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/)
 - [VMware fixes three critical flaws allowing auth bypass, VM escapes](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/)
 - [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
 - [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
 - [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
 - [Analog Devices discloses data breach, says operations unaffected](https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/)
-- [After the Break-In: What Attackers Do Once They're Already Inside](https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/)
-- [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Minnesota Water Utility Attacks Expose Sector's Cyber-Risks](https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks)
 - [AI Harnesses Burst With Potential Exploit Opps](https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps)
 - [Claude Mythos — Hype vs. Reality: What Security Teams Need to Know](https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality)
 - [SE Asian Cybercriminal Syndicates Become a Global Power](https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power)
@@ -56,18 +57,17 @@
 - [OpenAI's Rogue Model Claims More Victims Beyond Hugging Face](https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face)
 - [Red Agents vs. Blue Agents: How to Make AI Better at Defense](https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense)
 - [Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
-- [Hugging Face Hack: Lessons for Cyber Defenders](https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders)
 
 ### Security Week
 
+- [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
+- [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
 - [Okta to Acquire Identity Threat Detection Firm Permiso](https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/)
 - [Timeless Compliance: Why Better Questions Beat Bigger Frameworks](https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/)
 - [DataBahn Raises $40 Million for Agentic Data Pipeline Management](https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/)
 - [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
 - [Discern Security Raises $13 Million in Series A Funding](https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/)
 - [Onyx Security Raises $113 Million to Control AI Agents in the Enterprise](https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/)
-- [‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale](https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/)
-- [Semiconductor Firm Analog Devices Discloses Data Breach](https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/)
 
 ### Threatpost
 

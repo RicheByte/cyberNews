@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-30 21:01",
+  "last_updated": "2026-07-30 22:59",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,17 +7,17 @@
     "ai generated websites",
     "residential proxy node",
     "least 88 billion",
+    "data protection violations",
+    "us critical infrastructure",
     "twitter whistleblower complaint",
     "involves redirecting users",
     "infect targeted visitors",
+    "industrial manufacturing sector",
     "four security firms",
     "consumer tv boxes",
     "company will invest",
     "ban residential proxies",
-    "state sponsored campaign",
     "red agents vs",
-    "keep mailbox access",
-    "global supply chains",
     "vulnerability discoveries aided",
     "unauthorized party accessed",
     "typical ai harness",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "released security updates",
-      "mentions": 84
+      "mentions": 85
     },
     {
       "keyword": "ai generated websites",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 81
+      "mentions": 82
     },
     {
       "keyword": "least 88 billion",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2250
-    },
-    {
-      "keyword": "involves redirecting users",
+      "keyword": "data protection violations",
       "mentions": 1
     },
     {
+      "keyword": "us critical infrastructure",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2251
+    },
+    {
+      "keyword": "involves redirecting users",
+      "mentions": 2
+    },
+    {
       "keyword": "infect targeted visitors",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "four security firms",
-      "mentions": 6
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 3
-    },
-    {
-      "keyword": "company will invest",
-      "mentions": 13
+      "keyword": "industrial manufacturing sector",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -153,6 +153,31 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "South Korea fines telco giant KT $39 million for customer data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+      "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
+      "published": "Thu, 30 Jul 2026 18:28:30 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "JetBrains warns of critical TeamCity remote code execution flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+      "summary": "JetBrains is warning of a critical authentication bypass vulnerability affecting TeamCity On-Premises that could be exploited to achieve remote code execution. [...]",
+      "published": "Thu, 30 Jul 2026 18:01:31 -0400",
+      "value_score": 87,
+      "value_signals": [
+        "RCE ×2",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
       "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
       "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
@@ -215,28 +240,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
-      "published": "Thu, 30 Jul 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "published": "Wed, 29 Jul 2026 19:44:07 -0400",
-      "value_score": 53,
-      "value_signals": [
-        "Zero-day",
-        "Backdoor",
-        "Exploit wording"
       ]
     },
     {
@@ -324,6 +327,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
+      "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
+      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
+      "published": "Thu, 30 Jul 2026 21:16:13 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Harnesses Burst With Potential Exploit Opps",
       "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
       "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
@@ -390,11 +404,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Hugging Face Hack: Lessons for Cyber Defenders",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-      "published": "Wed, 29 Jul 2026 17:35:23 GMT",
+      "source": "Security Week",
+      "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
+      "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
+      "summary": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems. The post CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 22:18:36 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Bank of America to Acquire Cybersecurity Firm MDSec",
+      "link": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
+      "summary": "The acquisition will add approximately 65 cybersecurity professionals to Bank of America’s operations in the United Kingdom. The post Bank of America to Acquire Cybersecurity Firm MDSec appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 21:02:21 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -451,26 +476,6 @@
       "published": "Thu, 30 Jul 2026 12:29:03 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
-      "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
-      "summary": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post ‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 12:15:24 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-      "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-      "summary": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 11:16:23 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

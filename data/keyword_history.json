@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2250,
+      "count": 2251,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4123,7 +4123,7 @@
       ]
     },
     "released security updates": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -6318,7 +6318,7 @@
       ]
     },
     "company will invest": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-02-03",
         "2026-02-04",
@@ -23534,7 +23534,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23981,7 +23981,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23995,7 +23995,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24281,7 +24281,7 @@
       ]
     },
     "turn one's television": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24306,7 +24306,7 @@
       ]
     },
     "unauthorized party accessed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24982,7 +24982,7 @@
       ]
     },
     "least 88 billion": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-30"
       ]
@@ -25024,7 +25024,7 @@
       ]
     },
     "four security firms": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-30"
       ]
@@ -25072,7 +25072,7 @@
       ]
     },
     "telecommunications financial hospitality": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-30"
       ]
@@ -25084,36 +25084,54 @@
       ]
     },
     "ai generated websites": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-30"
       ]
     },
     "infect targeted visitors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-30"
       ]
     },
     "consumer tv boxes": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-30"
       ]
     },
     "red agents vs": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-30"
       ]
     },
     "involves redirecting users": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
     },
     "typical ai harness": {
+      "count": 2,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "data protection violations": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "us critical infrastructure": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "industrial manufacturing sector": {
       "count": 1,
       "dates": [
         "2026-07-30"
@@ -25121,17 +25139,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-19 22:44",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "gain root access",
-        "coordinate vulnerability response",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-20 02:29",
       "articles": 48,
@@ -26219,6 +26226,17 @@
         "residential proxy node",
         "least 88 billion",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-30 22:59",
+      "articles": 48,
+      "top_keywords": [
+        "released security updates",
+        "ai generated websites",
+        "residential proxy node",
+        "least 88 billion",
+        "data protection violations"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-29 22:56 UTC  
+> **Last Updated:** 2026-07-30 01:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shared additional information** • **real life identity** • **goes something like** • **anthropic claude code** • **statewide cybersecurity response** • **ban residential proxies** • **target hugging face** • **hugging face expanding** • **token security explains** • **security scanners embedded** • **security circles right** • **released security updates** • **national security risks** • **national security risk** • **growing security risk** • **windows 11 24h2**
+**cybercrime group known** • **residential proxy node** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shared additional information** • **real life identity** • **goes something like** • **statewide cybersecurity response** • **ban residential proxies** • **target hugging face** • **hugging face expanding** • **least 88 billion** • **token security explains** • **security scanners embedded** • **security circles right** • **released security updates** • **national security risks** • **national security risk** • **growing security risk** • **windows 11 24h2**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Russian hackers exploit Exchange OWA zero-day for long-term mailbox access](https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/)
 - [Anthropic confirms Claude is down worldwide](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/)
 - [Cisco warns of FMC static credential flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/)
 - [Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare](https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/)
@@ -34,7 +35,6 @@
 - [Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack](https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/)
 - [Your AI Agents Are Guessing at Scale: Permissions Decide the Damage](https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/)
 - [Windows 11 KB5101684 update released with 42 changes and fixes](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/)
-- [These near-mint ASUS Chromebook refurbs are only $145](https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [SE Asian Cybercriminal Syndicates Become a Global Power](https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power)
+- ['Flying Eagle' Full-Service Mobile RAT Builder Wings Across China](https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china)
 - [OpenAI's Rogue Model Claims More Victims Beyond Hugging Face](https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face)
 - [Red Agents vs. Blue Agents: How to Make AI Better At Defense](https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense)
 - [Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
 - [Hugging Face Hack Lessons for Cyber Defenders](https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders)
 - [When AppSec Scanners Become a Supply Chain Attack Vector](https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector)
 - [Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms](https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms)
-- [Ghost Credentials Expose Cloud Systems to Hidden Identity Risks](https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path)
-- [Thousands of Data Center Controllers Open to Takeover](https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover)
 
 ### Security Week
 

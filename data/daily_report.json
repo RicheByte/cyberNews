@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-29 22:56",
+  "last_updated": "2026-07-30 01:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,11 +10,11 @@
     "shared additional information",
     "real life identity",
     "goes something like",
-    "anthropic claude code",
     "statewide cybersecurity response",
     "ban residential proxies",
     "target hugging face",
     "hugging face expanding",
+    "least 88 billion",
     "token security explains",
     "security scanners embedded",
     "security circles right",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 317
+      "mentions": 318
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 72
+      "mentions": 73
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2241
+      "mentions": 2242
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 530
+      "mentions": 531
     },
     {
       "keyword": "shared additional information",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "real life identity",
-      "mentions": 285
+      "mentions": 286
     },
     {
       "keyword": "goes something like",
-      "mentions": 5
-    },
-    {
-      "keyword": "anthropic claude code",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "statewide cybersecurity response",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ban residential proxies",
-      "mentions": 70
+      "mentions": 71
+    },
+    {
+      "keyword": "target hugging face",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -156,6 +156,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
+      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+      "summary": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
+      "published": "Wed, 29 Jul 2026 19:44:07 -0400",
+      "value_score": 53,
+      "value_signals": [
+        "Zero-day",
+        "Backdoor",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Anthropic confirms Claude is down worldwide",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
       "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
@@ -226,15 +239,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "These near-mint ASUS Chromebook refurbs are only $145",
-      "link": "https://www.bleepingcomputer.com/news/security/these-near-mint-asus-chromebook-refurbs-are-only-145/",
-      "summary": "Buying a new computer in 2026 is a unique experience. Rather than deal with incredibly high tech prices, more shoppers are opting for high-quality refurbished tech. This ASUS Chromebook CM30 refurb is in near-mint condition with a grade \"A\" rating, but it still only costs $144.97 (reg. $369.99) on sale. [...]",
-      "published": "Wed, 29 Jul 2026 07:12:19 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +327,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+      "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+      "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "published": "Thu, 30 Jul 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+      "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+      "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+      "published": "Thu, 30 Jul 2026 00:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
       "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
       "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
@@ -378,24 +400,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
-      "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
-      "summary": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
-      "published": "Tue, 28 Jul 2026 21:33:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Thousands of Data Center Controllers Open to Takeover",
-      "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
-      "summary": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
-      "published": "Tue, 28 Jul 2026 21:07:55 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

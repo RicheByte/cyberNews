@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-30 13:46",
+  "last_updated": "2026-07-30 15:47",
   "sources_count": 8,
-  "articles_count": 40,
+  "articles_count": 48,
   "keywords": [
     "cybercrime group known",
+    "least 88 billion",
     "four security firms",
+    "company will invest",
     "npm packages debug",
     "residential proxy node",
-    "scale permissions decide",
-    "global supply chains",
+    "unauthorized party accessed",
     "twitter whistleblower complaint",
-    "keep mailbox access",
-    "devices people already",
     "cve 2026 20316",
+    "make ai better",
     "ban residential proxies",
-    "analog devices systems",
-    "token security explains",
+    "software supply chain",
+    "keep mailbox access",
+    "global supply chains",
+    "security scanners embedded",
     "national security risk",
-    "growing security risk",
-    "within easy reach",
-    "windows 11 24h2",
-    "vulnerability discoveries aided",
-    "unauthenticated remote attacker",
-    "turn one's television"
+    "control ai agents",
+    "turn one's television",
+    "telecommunications financial hospitality",
+    "target u s"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 322
+      "mentions": 323
+    },
+    {
+      "keyword": "least 88 billion",
+      "mentions": 5
     },
     {
       "keyword": "four security firms",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "company will invest",
+      "mentions": 10
     },
     {
       "keyword": "npm packages debug",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 77
+      "mentions": 78
     },
     {
-      "keyword": "scale permissions decide",
-      "mentions": 1
-    },
-    {
-      "keyword": "global supply chains",
-      "mentions": 1
+      "keyword": "unauthorized party accessed",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2246
-    },
-    {
-      "keyword": "keep mailbox access",
-      "mentions": 3
-    },
-    {
-      "keyword": "devices people already",
-      "mentions": 1
+      "mentions": 2247
     },
     {
       "keyword": "cve 2026 20316",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "make ai better",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
+      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
+      "summary": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a",
+      "published": "Thu, 30 Jul 2026 19:04:09 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
@@ -137,19 +148,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
-      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
-      "published": "Thu, 30 Jul 2026 10:38:39 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Analog Devices discloses data breach, says operations unaffected",
+      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
+      "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
+      "published": "Thu, 30 Jul 2026 11:12:25 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
-        "CISA/KEV ×3",
-        "Exploit wording"
+        "Breach/leak"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
+      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
+      "summary": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
+      "published": "Thu, 30 Jul 2026 10:01:11 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -216,26 +232,6 @@
       "published": "Wed, 29 Jul 2026 10:55:57 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your AI Agents Are Guessing at Scale: Permissions Decide the Damage",
-      "link": "https://www.bleepingcomputer.com/news/security/your-ai-agents-are-guessing-at-scale-permissions-decide-the-damage/",
-      "summary": "AI agents are designed to improvise as they complete tasks, making broad permissions a growing security risk. Token Security explains why identity, intent-based access controls, and least privilege are becoming the foundation for securing agentic AI. [...]",
-      "published": "Wed, 29 Jul 2026 10:02:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5101684 update released with 42 changes and fixes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101684-update-released-with-42-changes-and-fixes/",
-      "summary": "​​Microsoft has released the KB5101684 preview cumulative update for Windows 11 24H2 and 25H2, which 42 bug fixes and additional feature improvements for the operating system. [...]",
-      "published": "Wed, 29 Jul 2026 09:56:22 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -323,10 +319,113 @@
       ]
     },
     {
+      "source": "Dark Reading",
+      "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
+      "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
+      "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
+      "published": "Thu, 30 Jul 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
+      "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
+      "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
+      "published": "Thu, 30 Jul 2026 00:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
+      "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
+      "summary": "OpenAI's goal-seeking agent compromised a Modal customer environment and others during its sandbox escape.",
+      "published": "Wed, 29 Jul 2026 19:48:12 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Red Agents vs. Blue Agents: How to Make AI Better at Defense",
+      "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
+      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
+      "published": "Wed, 29 Jul 2026 19:46:20 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
+      "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
+      "published": "Wed, 29 Jul 2026 17:43:38 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hugging Face Hack: Lessons for Cyber Defenders",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
+      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
+      "published": "Wed, 29 Jul 2026 17:35:23 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
+      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
+      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
+      "published": "Wed, 29 Jul 2026 17:06:52 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
+      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
+      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
+      "published": "Wed, 29 Jul 2026 14:40:33 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
+      "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
+      "summary": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why Better Questions Beat Bigger Frameworks appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 15:46:17 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
+      "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
+      "summary": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
       "source": "Security Week",
       "title": "Cantina Emerges From Stealth With $8 Million in Funding",
       "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
       "summary": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Discern Security Raises $13 Million in Series A Funding",
+      "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
+      "summary": "The company will invest in accelerating the development and adoption of its agentic platform. The post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek .",
       "published": "Thu, 30 Jul 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
@@ -369,38 +468,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "1 in 5 Data Center Assets Are Within Easy Reach of Attackers",
-      "link": "https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/",
-      "summary": "Claroty has analyzed 750,000 cyber-physical systems across some of the world’s largest data center facilities. The post 1 in 5 Data Center Assets Are Within Easy Reach of Attackers appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 09:28:37 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US and Allies Update SBOM Guidance",
-      "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
-      "summary": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 08:21:19 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome 151 Patches 370 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
-      "summary": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 07:51:24 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
       ]
     },
     {

@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2245,
+      "count": 2246,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1167,7 +1167,7 @@
       ]
     },
     "national security risk": {
-      "count": 318,
+      "count": 319,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2533,7 +2533,7 @@
       ]
     },
     "token security explains": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -2798,7 +2798,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -12100,7 +12100,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -20798,7 +20798,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 321,
+      "count": 322,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23532,7 +23532,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23541,7 +23541,8 @@
         "2026-07-21",
         "2026-07-22",
         "2026-07-27",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "shodan harvester keeps": {
@@ -23978,7 +23979,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23992,7 +23993,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24278,7 +24279,7 @@
       ]
     },
     "turn one's television": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24957,7 +24958,7 @@
       ]
     },
     "growing security risk": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-29",
         "2026-07-30"
@@ -24984,7 +24985,7 @@
       ]
     },
     "npm packages debug": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-30"
       ]
@@ -24996,13 +24997,13 @@
       ]
     },
     "cve 2026 20316": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-30"
       ]
     },
     "keep mailbox access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-30"
       ]
@@ -25020,18 +25021,36 @@
       ]
     },
     "four security firms": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
     },
     "analog devices systems": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
     },
     "within easy reach": {
+      "count": 2,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "scale permissions decide": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "global supply chains": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "devices people already": {
       "count": 1,
       "dates": [
         "2026-07-30"
@@ -25039,17 +25058,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-19 13:04",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-19 14:49",
       "articles": 48,
@@ -26137,6 +26145,17 @@
         "npm packages debug",
         "least 88 billion",
         "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-07-30 13:46",
+      "articles": 40,
+      "top_keywords": [
+        "cybercrime group known",
+        "four security firms",
+        "npm packages debug",
+        "residential proxy node",
+        "scale permissions decide"
       ]
     }
   ]

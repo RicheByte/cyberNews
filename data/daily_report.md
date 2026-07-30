@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-30 11:47 UTC  
+> **Last Updated:** 2026-07-30 13:46 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **four security firms** • **npm packages debug** • **least 88 billion** • **residential proxy node** • **twitter whistleblower complaint** • **software supply chain** • **keep mailbox access** • **cve 2026 20316** • **ban residential proxies** • **securing agentic ai** • **persistent remote access** • **token security explains** • **security scanners embedded** • **national security risk** • **growing security risk** • **analog devices systems** • **within easy reach** • **windows 11 24h2** • **turn one's television**
+**cybercrime group known** • **four security firms** • **npm packages debug** • **residential proxy node** • **scale permissions decide** • **global supply chains** • **twitter whistleblower complaint** • **keep mailbox access** • **devices people already** • **cve 2026 20316** • **ban residential proxies** • **analog devices systems** • **token security explains** • **national security risk** • **growing security risk** • **within easy reach** • **windows 11 24h2** • **vulnerability discoveries aided** • **unauthenticated remote attacker** • **turn one's television**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
+- [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
 - [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
 - [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
 - [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
 - [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
 - [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
 - [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
-- [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
-- [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
 
 ### BleepingComputer
 
@@ -47,27 +47,16 @@
 - [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/)
 - [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/)
 
-### Dark Reading
-
-- [SE Asian Cybercriminal Syndicates Become a Global Power](https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power)
-- ['Flying Eagle' Full-Service Mobile RAT Builder Wings Across China](https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china)
-- [OpenAI's Rogue Model Claims More Victims Beyond Hugging Face](https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face)
-- [Red Agents vs. Blue Agents: How to Make AI Better At Defense](https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense)
-- [Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
-- [Hugging Face Hack Lessons for Cyber Defenders](https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders)
-- [When AppSec Scanners Become a Supply Chain Attack Vector](https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector)
-- [Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms](https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms)
-
 ### Security Week
 
+- [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
+- [Onyx Security Raises $113 Million to Control AI Agents in the Enterprise](https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/)
+- [‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale](https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/)
 - [Semiconductor Firm Analog Devices Discloses Data Breach](https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/)
 - [Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms](https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/)
 - [1 in 5 Data Center Assets Are Within Easy Reach of Attackers](https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/)
 - [US and Allies Update SBOM Guidance](https://www.securityweek.com/us-and-allies-update-sbom-guidance/)
 - [Chrome 151 Patches 370 Vulnerabilities](https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/)
-- [Cisco Secure FMC Zero-Day Exploited in the Wild](https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/)
-- [US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security](https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/)
-- [Mate Security Raises $35 Million for Agentic SOC](https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/)
 
 ### Threatpost
 

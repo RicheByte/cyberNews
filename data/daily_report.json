@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-07-30 11:47",
+  "last_updated": "2026-07-30 13:46",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
     "cybercrime group known",
     "four security firms",
     "npm packages debug",
-    "least 88 billion",
     "residential proxy node",
+    "scale permissions decide",
+    "global supply chains",
     "twitter whistleblower complaint",
-    "software supply chain",
     "keep mailbox access",
+    "devices people already",
     "cve 2026 20316",
     "ban residential proxies",
-    "securing agentic ai",
-    "persistent remote access",
+    "analog devices systems",
     "token security explains",
-    "security scanners embedded",
     "national security risk",
     "growing security risk",
-    "analog devices systems",
     "within easy reach",
     "windows 11 24h2",
+    "vulnerability discoveries aided",
+    "unauthenticated remote attacker",
     "turn one's television"
   ],
   "trending": [
     {
       "keyword": "cybercrime group known",
-      "mentions": 321
+      "mentions": 322
     },
     {
       "keyword": "four security firms",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "npm packages debug",
-      "mentions": 2
-    },
-    {
-      "keyword": "least 88 billion",
-      "mentions": 4
+      "mentions": 3
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 76
+      "mentions": 77
+    },
+    {
+      "keyword": "scale permissions decide",
+      "mentions": 1
+    },
+    {
+      "keyword": "global supply chains",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2245
-    },
-    {
-      "keyword": "software supply chain",
-      "mentions": 7
+      "mentions": 2246
     },
     {
       "keyword": "keep mailbox access",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "devices people already",
+      "mentions": 1
     },
     {
       "keyword": "cve 2026 20316",
-      "mentions": 2
-    },
-    {
-      "keyword": "ban residential proxies",
-      "mentions": 74
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents",
+      "link": "https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html",
+      "summary": "Hidden instructions in a Word document can make Microsoft 365 Copilot rewrite figures in a report, then copy the same instructions into the finished file. Håkon Måløy disclosed the technique on July 28, 144 days after reporting it to Microsoft. In his proof of concept, the internally generated file triggered the same behavior when it was used in a second Copilot drafting session. Måløy's",
+      "published": "Thu, 30 Jul 2026 17:24:49 +0530",
+      "value_score": 20,
+      "value_signals": [
+        "PoC available"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Network Has Become the Control Plane for AI Security",
+      "link": "https://thehackernews.com/2026/07/the-network-has-become-control-plane.html",
+      "summary": "Network firewalls are the workhorses of modern cybersecurity. They are trusted to protect the network, blocking malicious traffic and preventing intrusions and breaches. And for decades, network security teams have built controls around a relatively stable model: users connect to applications, applications exchange data, and security tools inspect packets, protocols, and destinations. Firewalls",
+      "published": "Thu, 30 Jul 2026 17:02:46 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts",
@@ -129,30 +149,6 @@
         "Active exploitation",
         "CISA/KEV ×3",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
-      "link": "https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html",
-      "summary": "Ruby on Rails has released fixes for a critical Active Storage vulnerability that could let unauthenticated attackers read arbitrary files from application servers through crafted image uploads. Tracked as CVE-2026-66066 (CVSS score: 9.5), the flaw can expose the Rails process environment and secrets such as secret_key_base, the Rails master key, database passwords, cloud storage credentials,",
-      "published": "Wed, 29 Jul 2026 23:40:00 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory",
-      "link": "https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html",
-      "summary": "Cybersecurity researchers have flagged a maximum-severity security flaw in Ruflo, an open-source agent meta-harness for Anthropic Claude Code and OpenAI Codex, that could result in unauthenticated remote code execution. The vulnerability, tracked as CVE-2026-59726 (CVSS score: 10.0), impacts all versions of the project before version 3.16.3. It has been codenamed RufRoot by Noma Security's",
-      "published": "Wed, 29 Jul 2026 21:09:30 +0530",
-      "value_score": 48,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE"
       ]
     },
     {
@@ -327,80 +323,31 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
-      "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
-      "summary": "The groups move from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
-      "published": "Thu, 30 Jul 2026 01:00:00 GMT",
+      "source": "Security Week",
+      "title": "Cantina Emerges From Stealth With $8 Million in Funding",
+      "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
+      "summary": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Flying Eagle' Full-Service Mobile RAT Builder Wings Across China",
-      "link": "https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china",
-      "summary": "A premium-grade malware-as-a-service offering takes flight with multiple threat groups, building infostealers that drain victims' bank accounts.",
-      "published": "Thu, 30 Jul 2026 00:30:00 GMT",
+      "source": "Security Week",
+      "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
+      "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
+      "summary": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 12:29:03 +0000",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
-      "link": "https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face",
-      "summary": "OpenAI revealed rogue AI models compromised more services than initially disclosed, including a Modal customer environment and others.",
-      "published": "Wed, 29 Jul 2026 19:48:12 GMT",
+      "source": "Security Week",
+      "title": "‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale",
+      "link": "https://www.securityweek.com/danglegeddon-ai-could-weaponize-forgotten-dns-records-at-global-scale/",
+      "summary": "Researchers warn that AI could turn dangling DNS takeovers into a nation-state weapon capable of disrupting governments, banks and global supply chains. The post ‘DangleGeddon’: AI Could Weaponize Forgotten DNS Records at Global Scale appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 12:15:24 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Red Agents vs. Blue Agents: How to Make AI Better At Defense",
-      "link": "https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense",
-      "summary": "The agentic AI playing field was heavily tilted toward offense, so researchers began using red team agents to help teach their blue counterparts.",
-      "published": "Wed, 29 Jul 2026 19:46:20 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-      "summary": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
-      "published": "Wed, 29 Jul 2026 17:43:38 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hugging Face Hack Lessons for Cyber Defenders",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-      "summary": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-      "published": "Wed, 29 Jul 2026 17:35:23 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-      "summary": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-      "published": "Wed, 29 Jul 2026 17:06:52 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
-      "published": "Wed, 29 Jul 2026 14:40:33 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",
@@ -455,38 +402,6 @@
         "Patch/update",
         "High severity"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
-      "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
-      "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 06:31:31 +0000",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
-      "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
-      "summary": "The agency said imports of advanced robots pose cybersecurity and other national security risks. The post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on SecurityWeek .",
-      "published": "Wed, 29 Jul 2026 13:31:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Mate Security Raises $35 Million for Agentic SOC",
-      "link": "https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/",
-      "summary": "The startup will use the investment to expand its customer support, sales, and R&D teams. The post Mate Security Raises $35 Million for Agentic SOC appeared first on SecurityWeek .",
-      "published": "Wed, 29 Jul 2026 12:47:13 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

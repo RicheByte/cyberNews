@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-07-30 15:47",
+  "last_updated": "2026-07-30 17:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cybercrime group known",
-    "least 88 billion",
-    "four security firms",
     "company will invest",
-    "npm packages debug",
+    "ai generated websites",
     "residential proxy node",
-    "unauthorized party accessed",
+    "least 88 billion",
     "twitter whistleblower complaint",
+    "infect targeted visitors",
+    "four security firms",
     "cve 2026 20316",
-    "make ai better",
+    "consumer tv boxes",
     "ban residential proxies",
-    "software supply chain",
     "keep mailbox access",
+    "software supply chain",
+    "red agents vs",
     "global supply chains",
-    "security scanners embedded",
-    "national security risk",
-    "control ai agents",
+    "vulnerability discoveries aided",
+    "unauthorized party accessed",
     "turn one's television",
     "telecommunications financial hospitality",
-    "target u s"
+    "target u s",
+    "target hugging face"
   ],
   "trending": [
     {
-      "keyword": "cybercrime group known",
-      "mentions": 323
-    },
-    {
-      "keyword": "least 88 billion",
-      "mentions": 5
-    },
-    {
-      "keyword": "four security firms",
-      "mentions": 3
-    },
-    {
       "keyword": "company will invest",
-      "mentions": 10
+      "mentions": 11
     },
     {
-      "keyword": "npm packages debug",
-      "mentions": 4
+      "keyword": "ai generated websites",
+      "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 78
+      "mentions": 79
     },
     {
-      "keyword": "unauthorized party accessed",
-      "mentions": 4
+      "keyword": "least 88 billion",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2247
+      "mentions": 2248
     },
     {
-      "keyword": "cve 2026 20316",
+      "keyword": "infect targeted visitors",
+      "mentions": 1
+    },
+    {
+      "keyword": "four security firms",
       "mentions": 4
     },
     {
-      "keyword": "make ai better",
+      "keyword": "cve 2026 20316",
+      "mentions": 5
+    },
+    {
+      "keyword": "consumer tv boxes",
       "mentions": 1
+    },
+    {
+      "keyword": "ban residential proxies",
+      "mentions": 77
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
+      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder. Some defenses improved. The loose parts still got found first. Anyway,",
+      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
@@ -139,13 +150,37 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
-      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
-      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them. The original Aikido and Wiz reports did not attribute the",
-      "published": "Thu, 30 Jul 2026 11:35:17 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
+      "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
+      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
+      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+      "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
+      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams vishing attacks lead to Chaos ransomware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/",
+      "summary": "Threat actors are impersonating IT support staff in Microsoft Teams calls to gain remote access to corporate devices and deploy Chaos ransomware in attacks targeting North American organizations. [...]",
+      "published": "Thu, 30 Jul 2026 11:56:33 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -204,32 +239,11 @@
       ]
     },
     {
-      "source": "BleepingComputer",
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "summary": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-      "published": "Wed, 29 Jul 2026 13:54:05 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI agent used exposed credentials at 4 services in Hugging Face breach",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
-      "summary": "In a new update, OpenAI says its AI models also used publicly exposed credentials to compromise accounts on four third-party services during the recent attack on Hugging Face, expanding the scope of the four-day security incident to other organizations. [...]",
-      "published": "Wed, 29 Jul 2026 12:04:59 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Patch/update",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "summary": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "published": "Wed, 29 Jul 2026 10:55:57 -0400",
+      "source": "Krebs on Security",
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "link": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "summary": "Security experts have been sounding the alarm for years about the risks of using generic TV boxes that promise unlimited content streaming for a one-time fee, warning that they secretly rent the user's Internet connection out to strangers. But a groundbreaking new analysis finds these devices also routinely spoof themselves as mobile phones clicking ads on AI-generated websites as part of sprawling operation that seeks to defraud online merchants and advertising networks.",
+      "published": "Thu, 30 Jul 2026 16:49:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -308,15 +322,13 @@
       ]
     },
     {
-      "source": "Krebs on Security",
-      "title": "Who Runs the Ransomware Group ‘The Gentlemen?’",
-      "link": "https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/",
-      "summary": "A cybercrime group known as The Gentlemen has emerged as the second most active ransomware gang by victim count, rapidly attracting a talented pool of hackers through an aggressive recruitment strategy that promises affiliates 90 percent of any ransom paid by victims. This post examines clues pointing to a real life identity for the administrator of The Gentlemen ransomware group.",
-      "published": "Wed, 10 Jun 2026 14:03:44 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
+      "source": "Dark Reading",
+      "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
+      "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
+      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
+      "published": "Thu, 30 Jul 2026 15:28:43 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -382,17 +394,6 @@
       "published": "Wed, 29 Jul 2026 17:06:52 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
-      "link": "https://www.darkreading.com/cyber-risk/patch-resistant-rufroot-flaw-malicious-ai-agent-swarms",
-      "summary": "The vulnerability in the AI hosting platform Ruflo allows an unauthenticated attacker to take over the system and corrupt memory, so bad behavior can persist after patching.",
-      "published": "Wed, 29 Jul 2026 14:40:33 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-30 15:47 UTC |
+| 🕐 Last Updated | 2026-07-30 17:20 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `least 88 billion` • `four security firms` • `company will invest` • `npm packages debug` • `residential proxy node` • `unauthorized party accessed` • `twitter whistleblower complaint` • `cve 2026 20316` • `make ai better`
+`company will invest` • `ai generated websites` • `residential proxy node` • `least 88 billion` • `twitter whistleblower complaint` • `infect targeted visitors` • `four security firms` • `cve 2026 20316` • `consumer tv boxes` • `ban residential proxies`
 
 ## 📄 Reports
 

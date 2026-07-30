@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-30 17:20",
+  "last_updated": "2026-07-30 19:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "company will invest",
+    "released security updates",
     "ai generated websites",
     "residential proxy node",
     "least 88 billion",
     "twitter whistleblower complaint",
     "infect targeted visitors",
     "four security firms",
-    "cve 2026 20316",
     "consumer tv boxes",
+    "company will invest",
     "ban residential proxies",
-    "keep mailbox access",
     "software supply chain",
     "red agents vs",
+    "keep mailbox access",
     "global supply chains",
+    "devices people already",
     "vulnerability discoveries aided",
     "unauthorized party accessed",
     "turn one's television",
     "telecommunications financial hospitality",
-    "target u s",
-    "target hugging face"
+    "target u s"
   ],
   "trending": [
     {
-      "keyword": "company will invest",
-      "mentions": 11
+      "keyword": "released security updates",
+      "mentions": 83
     },
     {
       "keyword": "ai generated websites",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 79
+      "mentions": 80
     },
     {
       "keyword": "least 88 billion",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2248
+      "mentions": 2249
     },
     {
       "keyword": "infect targeted visitors",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "four security firms",
-      "mentions": 4
-    },
-    {
-      "keyword": "cve 2026 20316",
       "mentions": 5
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "company will invest",
+      "mentions": 12
     },
     {
       "keyword": "ban residential proxies",
-      "mentions": 77
+      "mentions": 78
     }
   ],
   "articles": [
@@ -151,6 +151,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "summary": "Amazon linked multiple high-profile open-source software supply chain attacks targeting the Node Package Manager (npm) ecosystem to North Korean hackers. [...]",
+      "published": "Thu, 30 Jul 2026 14:13:24 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
+      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
+      "published": "Thu, 30 Jul 2026 14:00:51 -0400",
+      "value_score": 49,
+      "value_signals": [
+        "Auth bypass",
+        "Patch/update",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
       "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
       "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
@@ -212,29 +234,6 @@
       "value_signals": [
         "Zero-day",
         "Backdoor",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic confirms Claude is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "summary": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
-      "published": "Wed, 29 Jul 2026 17:39:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "summary": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "published": "Wed, 29 Jul 2026 17:35:40 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Active exploitation",
         "Exploit wording"
       ]
     },
@@ -397,6 +396,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
+      "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
+      "summary": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response. The post Okta to Acquire Identity Threat Detection Firm Permiso appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 19:10:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
       "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
       "summary": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why Better Questions Beat Bigger Frameworks appeared first on SecurityWeek .",
@@ -458,17 +466,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms",
-      "link": "https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/",
-      "summary": "Unauthenticated attackers could send HTTP requests to an exposed endpoint to execute commands inside the MCP bridge container. The post Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 09:56:10 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

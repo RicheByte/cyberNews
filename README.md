@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-30 08:14 UTC |
+| 🕐 Last Updated | 2026-07-30 11:47 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`npm packages debug` • `cybercrime group known` • `residential proxy node` • `least 88 billion` • `twitter whistleblower complaint` • `shared additional information` • `initially disclosed including` • `cve 2026 20316` • `ban residential proxies` • `keep mailbox access`
+`cybercrime group known` • `four security firms` • `npm packages debug` • `least 88 billion` • `residential proxy node` • `twitter whistleblower complaint` • `software supply chain` • `keep mailbox access` • `cve 2026 20316` • `ban residential proxies`
 
 ## 📄 Reports
 

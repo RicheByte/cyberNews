@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-30 08:14 UTC  
+> **Last Updated:** 2026-07-30 11:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**npm packages debug** • **cybercrime group known** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **shared additional information** • **initially disclosed including** • **cve 2026 20316** • **ban residential proxies** • **keep mailbox access** • **securing agentic ai** • **statewide cybersecurity response** • **token security explains** • **security scanners embedded** • **released security updates** • **national security risk** • **growing security risk** • **windows 11 24h2** • **vm escape broadcom** • **unauthenticated remote attacker**
+**cybercrime group known** • **four security firms** • **npm packages debug** • **least 88 billion** • **residential proxy node** • **twitter whistleblower complaint** • **software supply chain** • **keep mailbox access** • **cve 2026 20316** • **ban residential proxies** • **securing agentic ai** • **persistent remote access** • **token security explains** • **security scanners embedded** • **national security risk** • **growing security risk** • **analog devices systems** • **within easy reach** • **windows 11 24h2** • **turn one's television**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
+- [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
 - [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
 - [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
 - [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
 - [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
 - [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
 - [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
-- [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
-- [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Semiconductor Firm Analog Devices Discloses Data Breach](https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/)
+- [Critical Ruflo Flaw Lets Attackers Spawn Rogue AI Swarms](https://www.securityweek.com/critical-ruflo-flaw-lets-attackers-spawn-rogue-ai-swarms/)
+- [1 in 5 Data Center Assets Are Within Easy Reach of Attackers](https://www.securityweek.com/1-in-5-data-center-assets-are-within-easy-reach-of-attackers/)
+- [US and Allies Update SBOM Guidance](https://www.securityweek.com/us-and-allies-update-sbom-guidance/)
 - [Chrome 151 Patches 370 Vulnerabilities](https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/)
 - [Cisco Secure FMC Zero-Day Exploited in the Wild](https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/)
 - [US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security](https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/)
 - [Mate Security Raises $35 Million for Agentic SOC](https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/)
-- [ThreatLocker Raises $190 Million in Series F Funding](https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/)
-- [Critical VM Escape Vulnerability Patched in VMware ESXi](https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/)
-- [US, Australia Release OT Isolation Guidance for Critical Infrastructure](https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/)
-- [OpenAI’s Rogue AI Ventured Beyond Hugging Face](https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/)
 
 ### Threatpost
 

@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2244,
+      "count": 2245,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1167,7 +1167,7 @@
       ]
     },
     "national security risk": {
-      "count": 317,
+      "count": 318,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2533,7 +2533,7 @@
       ]
     },
     "token security explains": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-01-05",
         "2026-01-06",
@@ -5039,12 +5039,13 @@
       ]
     },
     "persistent remote access": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-01-23",
         "2026-01-24",
         "2026-01-25",
-        "2026-01-26"
+        "2026-01-26",
+        "2026-07-30"
       ]
     },
     "executive order signed": {
@@ -11013,11 +11014,12 @@
       ]
     },
     "software supply chain": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-18",
         "2026-04-03",
-        "2026-04-06"
+        "2026-04-06",
+        "2026-07-30"
       ]
     },
     "shadow ai risk": {
@@ -12098,7 +12100,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -20796,7 +20798,7 @@
       ]
     },
     "cybercrime group known": {
-      "count": 320,
+      "count": 321,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -23976,7 +23978,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -23990,7 +23992,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24276,13 +24278,14 @@
       ]
     },
     "turn one's television": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-23",
         "2026-07-25",
         "2026-07-27",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-07-30"
       ]
     },
     "anthropic's claude cowork": {
@@ -24954,7 +24957,7 @@
       ]
     },
     "growing security risk": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-29",
         "2026-07-30"
@@ -24968,20 +24971,20 @@
       ]
     },
     "security scanners embedded": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-29",
         "2026-07-30"
       ]
     },
     "least 88 billion": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-30"
       ]
     },
     "npm packages debug": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
@@ -24993,19 +24996,19 @@
       ]
     },
     "cve 2026 20316": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
     },
     "keep mailbox access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
     },
     "securing agentic ai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-30"
       ]
@@ -25015,20 +25018,27 @@
       "dates": [
         "2026-07-30"
       ]
+    },
+    "four security firms": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "analog devices systems": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
+    },
+    "within easy reach": {
+      "count": 1,
+      "dates": [
+        "2026-07-30"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-19 11:06",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "cyberattack disrupts operations",
-        "rival ai assistants",
-        "twitter whistleblower complaint",
-        "multiple questions linger"
-      ]
-    },
     {
       "timestamp": "2026-07-19 13:04",
       "articles": 48,
@@ -26116,6 +26126,17 @@
         "residential proxy node",
         "least 88 billion",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-07-30 11:47",
+      "articles": 48,
+      "top_keywords": [
+        "cybercrime group known",
+        "four security firms",
+        "npm packages debug",
+        "least 88 billion",
+        "residential proxy node"
       ]
     }
   ]

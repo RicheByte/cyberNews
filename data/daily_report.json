@@ -1,72 +1,116 @@
 {
-  "last_updated": "2026-07-30 04:53",
+  "last_updated": "2026-07-30 08:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "npm packages debug",
     "cybercrime group known",
     "residential proxy node",
-    "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "shared additional information",
-    "real life identity",
-    "goes something like",
-    "statewide cybersecurity response",
-    "ban residential proxies",
-    "target hugging face",
-    "hugging face expanding",
     "least 88 billion",
+    "twitter whistleblower complaint",
+    "shared additional information",
+    "initially disclosed including",
+    "cve 2026 20316",
+    "ban residential proxies",
+    "keep mailbox access",
+    "securing agentic ai",
+    "statewide cybersecurity response",
     "token security explains",
     "security scanners embedded",
-    "security circles right",
     "released security updates",
-    "national security risks",
     "national security risk",
     "growing security risk",
-    "windows 11 24h2"
+    "windows 11 24h2",
+    "vm escape broadcom",
+    "unauthenticated remote attacker"
   ],
   "trending": [
     {
+      "keyword": "npm packages debug",
+      "mentions": 1
+    },
+    {
       "keyword": "cybercrime group known",
-      "mentions": 319
+      "mentions": 320
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 74
+      "mentions": 75
+    },
+    {
+      "keyword": "least 88 billion",
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2243
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 532
+      "mentions": 2244
     },
     {
       "keyword": "shared additional information",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "real life identity",
-      "mentions": 287
+      "keyword": "initially disclosed including",
+      "mentions": 1
     },
     {
-      "keyword": "goes something like",
-      "mentions": 7
-    },
-    {
-      "keyword": "statewide cybersecurity response",
-      "mentions": 6
+      "keyword": "cve 2026 20316",
+      "mentions": 1
     },
     {
       "keyword": "ban residential proxies",
-      "mentions": 72
+      "mentions": 73
     },
     {
-      "keyword": "target hugging face",
-      "mentions": 5
+      "keyword": "keep mailbox access",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "summary": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors. The activity, which began on July 22, 2026, involves the",
+      "published": "Thu, 30 Jul 2026 13:10:48 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "summary": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+      "published": "Thu, 30 Jul 2026 12:58:43 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "summary": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them. The original Aikido and Wiz reports did not attribute the",
+      "published": "Thu, 30 Jul 2026 11:35:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+      "published": "Thu, 30 Jul 2026 10:38:39 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation",
+        "CISA/KEV ×3",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads",
@@ -110,47 +154,6 @@
       "link": "https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html",
       "summary": "A coordinated cyberattack targeted operational technology at more than 30 Minnesota community water systems on July 26 and 27, triggering a statewide cybersecurity response. Braham, Plymouth, South St. Paul and Maple Plain have publicly described a plant outage, communications failures or affected automated controls. Braham's water plant went offline, and the city asked residents to minimize",
       "published": "Wed, 29 Jul 2026 19:18:36 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "summary": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
-      "published": "Wed, 29 Jul 2026 19:12:57 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "summary": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change? The honest answer is",
-      "published": "Wed, 29 Jul 2026 17:45:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "summary": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update. \"No settings or additional user interaction are required,\" Eten Zou,",
-      "published": "Wed, 29 Jul 2026 17:27:00 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "summary": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack. According to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
-      "published": "Wed, 29 Jul 2026 16:43:10 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -403,6 +406,32 @@
     },
     {
       "source": "Security Week",
+      "title": "Chrome 151 Patches 370 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+      "summary": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 07:51:24 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+      "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+      "summary": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Thu, 30 Jul 2026 06:31:31 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Active exploitation ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security",
       "link": "https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/",
       "summary": "The agency said imports of advanced robots pose cybersecurity and other national security risks. The post US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security appeared first on SecurityWeek .",
@@ -458,26 +487,6 @@
       "published": "Wed, 29 Jul 2026 10:10:09 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Spur Raises $200 Million for IP Intelligence Platform",
-      "link": "https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/",
-      "summary": "The IP intelligence company will use the fresh investment to accelerate and scale its operations. The post Spur Raises $200 Million for IP Intelligence Platform appeared first on SecurityWeek .",
-      "published": "Wed, 29 Jul 2026 09:12:19 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-      "summary": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek .",
-      "published": "Wed, 29 Jul 2026 08:46:30 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

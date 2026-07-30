@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-30 04:53 UTC |
+| 🕐 Last Updated | 2026-07-30 08:14 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cybercrime group known` • `residential proxy node` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `shared additional information` • `real life identity` • `goes something like` • `statewide cybersecurity response` • `ban residential proxies` • `target hugging face`
+`npm packages debug` • `cybercrime group known` • `residential proxy node` • `least 88 billion` • `twitter whistleblower complaint` • `shared additional information` • `initially disclosed including` • `cve 2026 20316` • `ban residential proxies` • `keep mailbox access`
 
 ## 📄 Reports
 

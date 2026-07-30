@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-30 04:53 UTC  
+> **Last Updated:** 2026-07-30 08:14 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cybercrime group known** • **residential proxy node** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **shared additional information** • **real life identity** • **goes something like** • **statewide cybersecurity response** • **ban residential proxies** • **target hugging face** • **hugging face expanding** • **least 88 billion** • **token security explains** • **security scanners embedded** • **security circles right** • **released security updates** • **national security risks** • **national security risk** • **growing security risk** • **windows 11 24h2**
+**npm packages debug** • **cybercrime group known** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **shared additional information** • **initially disclosed including** • **cve 2026 20316** • **ban residential proxies** • **keep mailbox access** • **securing agentic ai** • **statewide cybersecurity response** • **token security explains** • **security scanners embedded** • **released security updates** • **national security risk** • **growing security risk** • **windows 11 24h2** • **vm escape broadcom** • **unauthenticated remote attacker**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
+- [FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks](https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html)
+- [Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet](https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html)
+- [Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data](https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html)
 - [Critical Rails Flaw Could Let Unauthenticated Attackers Read Server Files via Image Uploads](https://thehackernews.com/2026/07/critical-rails-flaw-could-let.html)
 - [Ruflo MCP Flaw Lets Unauthenticated Attackers Run Commands and Poison AI Memory](https://thehackernews.com/2026/07/ruflo-mcp-flaw-lets-unauthenticated.html)
 - [Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape](https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html)
 - [Coordinated Cyberattack Targets 30+ Minnesota Water Systems as One Plant Goes Offline](https://thehackernews.com/2026/07/coordinated-cyberattack-targets-30.html)
-- [Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments](https://thehackernews.com/2026/07/nine-year-fraud-campaign.html)
-- [Mythos Asks the Right Question. It Doesn't Answer It.](https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html)
-- [Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser](https://thehackernews.com/2026/07/researchers-show-single-malicious.html)
-- [73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack](https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Chrome 151 Patches 370 Vulnerabilities](https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/)
+- [Cisco Secure FMC Zero-Day Exploited in the Wild](https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/)
 - [US Bans Foreign-Made Humanoid Robots, Targeting China Over National Security](https://www.securityweek.com/us-bans-foreign-made-humanoid-robots-targeting-china-over-national-security/)
 - [Mate Security Raises $35 Million for Agentic SOC](https://www.securityweek.com/mate-security-raises-35-million-for-agentic-soc/)
 - [ThreatLocker Raises $190 Million in Series F Funding](https://www.securityweek.com/threatlocker-raises-190-million-in-series-f-funding/)
 - [Critical VM Escape Vulnerability Patched in VMware ESXi](https://www.securityweek.com/critical-vm-escape-vulnerability-patched-in-vmware-esxi/)
 - [US, Australia Release OT Isolation Guidance for Critical Infrastructure](https://www.securityweek.com/us-australia-release-ot-isolation-guidance-for-critical-infrastructure/)
 - [OpenAI’s Rogue AI Ventured Beyond Hugging Face](https://www.securityweek.com/openais-rogue-ai-ventured-beyond-hugging-face/)
-- [Spur Raises $200 Million for IP Intelligence Platform](https://www.securityweek.com/spur-raises-200-million-for-ip-intelligence-platform/)
-- [JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack](https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/)
 
 ### Threatpost
 

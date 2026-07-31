@@ -1,16 +1,16 @@
 {
-  "last_updated": "2026-07-31 19:16",
+  "last_updated": "2026-07-31 20:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "device code phishing",
     "malicious python package",
     "critical flaw allowed",
+    "spear phishing attack",
     "consumer tv boxes",
     "us critical infrastructure",
     "residential proxy node",
     "iranian hackers iran",
-    "spear phishing attack",
     "deepseek ai model",
     "session hijacking flaw",
     "windows operating systems",
@@ -22,51 +22,60 @@
     "cybersecurity testing without",
     "15 real systems",
     "130 companies tangled",
-    "sprawling phishing campaign"
+    "north korean hackers"
   ],
   "trending": [
     {
       "keyword": "device code phishing",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "malicious python package",
-      "mentions": 7
-    },
-    {
-      "keyword": "critical flaw allowed",
-      "mentions": 3
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 11
-    },
-    {
-      "keyword": "us critical infrastructure",
       "mentions": 8
     },
     {
-      "keyword": "residential proxy node",
-      "mentions": 89
-    },
-    {
-      "keyword": "iranian hackers iran",
-      "mentions": 3
+      "keyword": "critical flaw allowed",
+      "mentions": 4
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "consumer tv boxes",
+      "mentions": 12
+    },
+    {
+      "keyword": "us critical infrastructure",
+      "mentions": 9
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 90
+    },
+    {
+      "keyword": "iranian hackers iran",
+      "mentions": 4
     },
     {
       "keyword": "deepseek ai model",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "session hijacking flaw",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "summary": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices,",
+      "published": "Sat, 01 Aug 2026 00:22:04 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
@@ -140,17 +149,6 @@
       "published": "Fri, 31 Jul 2026 12:11:44 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "summary": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
-      "published": "Thu, 30 Jul 2026 23:48:24 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -351,7 +349,7 @@
       "source": "Dark Reading",
       "title": "DROP Platform Lets Californians Reduce Digital Footprint",
       "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
-      "summary": "The Delete Request and Opt-out Platform (DROP) launches Aug. 1 and hundreds of thousands of California residents already registered. Other states could follow if the process goes smoothly.",
+      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
       "published": "Fri, 31 Jul 2026 13:19:36 GMT",
       "value_score": 10,
       "value_signals": []

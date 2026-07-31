@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-31 19:16 UTC  
+> **Last Updated:** 2026-07-31 20:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**device code phishing** • **malicious python package** • **critical flaw allowed** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **iranian hackers iran** • **spear phishing attack** • **deepseek ai model** • **session hijacking flaw** • **windows operating systems** • **wastewater systems sector** • **unnamed research model** • **twitter whistleblower complaint** • **multi stage chain** • **malicious ai skills** • **cybersecurity testing without** • **15 real systems** • **130 companies tangled** • **sprawling phishing campaign**
+**device code phishing** • **malicious python package** • **critical flaw allowed** • **spear phishing attack** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **iranian hackers iran** • **deepseek ai model** • **session hijacking flaw** • **windows operating systems** • **wastewater systems sector** • **unnamed research model** • **twitter whistleblower complaint** • **multi stage chain** • **malicious ai skills** • **cybersecurity testing without** • **15 real systems** • **130 companies tangled** • **north korean hackers**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 - [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 - [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
 - [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
@@ -23,7 +24,6 @@
 - [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
 - [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
 - [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
-- [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
 
 ### BleepingComputer
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-31 20:58 UTC  
+> **Last Updated:** 2026-07-31 22:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**device code phishing** • **malicious python package** • **critical flaw allowed** • **spear phishing attack** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **iranian hackers iran** • **deepseek ai model** • **session hijacking flaw** • **windows operating systems** • **wastewater systems sector** • **unnamed research model** • **twitter whistleblower complaint** • **multi stage chain** • **malicious ai skills** • **cybersecurity testing without** • **15 real systems** • **130 companies tangled** • **north korean hackers**
+**device code phishing** • **critical flaw allowed** • **spear phishing attack** • **malicious python package** • **iranian hackers iran** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **deepseek ai model** • **session hijacking flaw** • **windows operating systems** • **wastewater systems sector** • **15 real systems** • **unnamed research model** • **twitter whistleblower complaint** • **multi stage chain** • **cybersecurity testing without** • **130 companies tangled** • **industrial scale threat** • **fastest growing threat**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
+- [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
+- [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
 - [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
 - [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
 - [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
 - [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
 - [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
-- [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
-- [JetBrains warns of critical TeamCity remote code execution flaw](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/)
-- [Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers](https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/)
 
 ### Krebs on Security
 

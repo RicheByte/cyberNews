@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-30 22:59 UTC |
+| 🕐 Last Updated | 2026-07-31 02:13 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`released security updates` • `ai generated websites` • `residential proxy node` • `least 88 billion` • `data protection violations` • `us critical infrastructure` • `twitter whistleblower complaint` • `involves redirecting users` • `infect targeted visitors` • `industrial manufacturing sector`
+`ai generated websites` • `released security updates` • `residential proxy node` • `least 88 billion` • `data protection violations` • `us critical infrastructure` • `twitter whistleblower complaint` • `malicious python package` • `involves redirecting users` • `infect targeted visitors`
 
 ## 📄 Reports
 

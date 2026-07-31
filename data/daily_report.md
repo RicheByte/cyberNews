@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-30 22:59 UTC  
+> **Last Updated:** 2026-07-31 02:13 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**released security updates** • **ai generated websites** • **residential proxy node** • **least 88 billion** • **data protection violations** • **us critical infrastructure** • **twitter whistleblower complaint** • **involves redirecting users** • **infect targeted visitors** • **industrial manufacturing sector** • **four security firms** • **consumer tv boxes** • **company will invest** • **ban residential proxies** • **red agents vs** • **vulnerability discoveries aided** • **unauthorized party accessed** • **typical ai harness** • **turn one's television** • **telecommunications financial hospitality**
+**ai generated websites** • **released security updates** • **residential proxy node** • **least 88 billion** • **data protection violations** • **us critical infrastructure** • **twitter whistleblower complaint** • **malicious python package** • **involves redirecting users** • **infect targeted visitors** • **industrial manufacturing sector** • **consumer tv boxes** • **company will invest** • **four security firms** • **ban residential proxies** • **red agents vs** • **vulnerability discoveries aided** • **typical ai harness** • **turn one's television** • **telecommunications financial hospitality**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
 - [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
 - [JetBrains warns of critical TeamCity remote code execution flaw](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/)
 - [Amazon links Debug, Chalk NPM supply-chain attacks to North Korean hackers](https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/)
@@ -34,7 +35,6 @@
 - [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
 - [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
 - [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
-- [Analog Devices discloses data breach, says operations unaffected](https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/)
 
 ### Krebs on Security
 

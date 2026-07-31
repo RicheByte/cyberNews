@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-30 22:59",
+  "last_updated": "2026-07-31 02:13",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "released security updates",
     "ai generated websites",
+    "released security updates",
     "residential proxy node",
     "least 88 billion",
     "data protection violations",
     "us critical infrastructure",
     "twitter whistleblower complaint",
+    "malicious python package",
     "involves redirecting users",
     "infect targeted visitors",
     "industrial manufacturing sector",
-    "four security firms",
     "consumer tv boxes",
     "company will invest",
+    "four security firms",
     "ban residential proxies",
     "red agents vs",
     "vulnerability discoveries aided",
-    "unauthorized party accessed",
     "typical ai harness",
     "turn one's television",
     "telecommunications financial hospitality"
   ],
   "trending": [
     {
-      "keyword": "released security updates",
-      "mentions": 85
+      "keyword": "ai generated websites",
+      "mentions": 5
     },
     {
-      "keyword": "ai generated websites",
-      "mentions": 4
+      "keyword": "released security updates",
+      "mentions": 86
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 82
+      "mentions": 83
     },
     {
       "keyword": "least 88 billion",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "data protection violations",
-      "mentions": 1
-    },
-    {
-      "keyword": "us critical infrastructure",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2251
-    },
-    {
-      "keyword": "involves redirecting users",
       "mentions": 2
     },
     {
-      "keyword": "infect targeted visitors",
-      "mentions": 4
+      "keyword": "us critical infrastructure",
+      "mentions": 2
     },
     {
-      "keyword": "industrial manufacturing sector",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2252
+    },
+    {
+      "keyword": "malicious python package",
       "mentions": 1
+    },
+    {
+      "keyword": "involves redirecting users",
+      "mentions": 3
+    },
+    {
+      "keyword": "infect targeted visitors",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -153,6 +153,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
+      "published": "Thu, 30 Jul 2026 20:57:25 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
       "summary": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
@@ -229,17 +238,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "summary": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-      "published": "Thu, 30 Jul 2026 11:12:25 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

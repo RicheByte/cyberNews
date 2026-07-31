@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-31 15:58 UTC |
+| 🕐 Last Updated | 2026-07-31 17:41 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`device code phishing` • `malicious python package` • `critical flaw allowed` • `consumer tv boxes` • `us critical infrastructure` • `residential proxy node` • `least 88 billion` • `session hijacking flaw` • `unnamed research model` • `twitter whistleblower complaint`
+`device code phishing` • `malicious python package` • `critical flaw allowed` • `consumer tv boxes` • `us critical infrastructure` • `residential proxy node` • `iranian hackers iran` • `least 88 billion` • `session hijacking flaw` • `windows operating systems`
 
 ## 📄 Reports
 

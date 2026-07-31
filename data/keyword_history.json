@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 659,
+      "count": 660,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -312,7 +312,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2256,
+      "count": 2257,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1900,7 +1900,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 534,
+      "count": 535,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2592,7 +2592,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4127,7 +4127,7 @@
       ]
     },
     "released security updates": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -23988,7 +23988,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 87,
+      "count": 88,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24992,7 +24992,7 @@
       ]
     },
     "least 88 billion": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25112,7 +25112,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25147,7 +25147,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25161,7 +25161,7 @@
       ]
     },
     "malicious python package": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-31"
       ]
@@ -25185,13 +25185,13 @@
       ]
     },
     "device code phishing": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-31"
       ]
     },
     "unnamed research model": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-31"
       ]
@@ -25221,24 +25221,48 @@
       ]
     },
     "critical flaw allowed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
     },
     "session hijacking flaw": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
     },
     "iranian hackers iran": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
     },
     "malicious ai skills": {
+      "count": 2,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "wastewater systems sector": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "15 real systems": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "industrial scale threat": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "fastest growing threat": {
       "count": 1,
       "dates": [
         "2026-07-31"
@@ -25246,17 +25270,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-20 17:54",
-      "articles": 48,
-      "top_keywords": [
-        "autonomous ai agent",
-        "hugging face hacked",
-        "agentic defense platform",
-        "cve 2026 15410",
-        "cybercrime group known"
-      ]
-    },
     {
       "timestamp": "2026-07-20 19:37",
       "articles": 48,
@@ -26337,6 +26350,17 @@
     },
     {
       "timestamp": "2026-07-31 15:58",
+      "articles": 48,
+      "top_keywords": [
+        "device code phishing",
+        "malicious python package",
+        "critical flaw allowed",
+        "consumer tv boxes",
+        "us critical infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-07-31 17:41",
       "articles": 48,
       "top_keywords": [
         "device code phishing",

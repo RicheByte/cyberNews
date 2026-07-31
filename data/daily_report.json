@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 15:58",
+  "last_updated": "2026-07-31 17:41",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,61 +9,61 @@
     "consumer tv boxes",
     "us critical infrastructure",
     "residential proxy node",
+    "iranian hackers iran",
     "least 88 billion",
     "session hijacking flaw",
+    "windows operating systems",
+    "wastewater systems sector",
     "unnamed research model",
     "twitter whistleblower complaint",
-    "iranian hackers iran",
+    "15 real systems",
     "130 companies tangled",
-    "malicious ai skills",
-    "data protection violations",
     "released security updates",
+    "malicious ai skills",
     "sprawling phishing campaign",
-    "cve 2026 63077",
-    "ban residential proxies",
-    "april 2026 adding",
-    "windows operating systems"
+    "industrial scale threat",
+    "fastest growing threat"
   ],
   "trending": [
     {
       "keyword": "device code phishing",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "malicious python package",
-      "mentions": 5
-    },
-    {
-      "keyword": "critical flaw allowed",
-      "mentions": 1
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 9
-    },
-    {
-      "keyword": "us critical infrastructure",
       "mentions": 6
     },
     {
-      "keyword": "residential proxy node",
-      "mentions": 87
-    },
-    {
-      "keyword": "least 88 billion",
-      "mentions": 14
-    },
-    {
-      "keyword": "session hijacking flaw",
-      "mentions": 1
-    },
-    {
-      "keyword": "unnamed research model",
+      "keyword": "critical flaw allowed",
       "mentions": 2
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2256
+      "keyword": "consumer tv boxes",
+      "mentions": 10
+    },
+    {
+      "keyword": "us critical infrastructure",
+      "mentions": 7
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 88
+    },
+    {
+      "keyword": "iranian hackers iran",
+      "mentions": 2
+    },
+    {
+      "keyword": "least 88 billion",
+      "mentions": 15
+    },
+    {
+      "keyword": "session hijacking flaw",
+      "mentions": 2
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 660
     }
   ],
   "articles": [
@@ -153,6 +153,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+      "published": "Fri, 31 Jul 2026 13:35:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+      "published": "Fri, 31 Jul 2026 12:49:49 -0400",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ESET tracks rise in malicious AI skills and adaptable malware",
       "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
       "summary": "Attackers are adapting established techniques to AI platforms, emerging technologies, and changing user behavior. ESET's new threat report examines the rise of malicious AI skills, AI-assisted malware, ClickFix attacks, record quishing activity, and ransomware tools designed to disable security software. [...]",
@@ -216,28 +236,6 @@
         "Auth bypass",
         "Patch/update",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google says AI helped Chrome fix 1,072 security bugs in two releases",
-      "link": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
-      "summary": "Google says artificial intelligence is dramatically increasing the number of security vulnerabilities it can find and fix in Chrome, with more than 1,000 security bugs patched across the browser's two most recent releases as it expands its use of AI. [...]",
-      "published": "Thu, 30 Jul 2026 13:00:00 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ShinyHunters claims Brinks Home breach, threatens to leak stolen data",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
-      "summary": "Residential security company Brinks Home has disclosed that hackers breached some of its systems and are threatening to leak allegedly stolen data. [...]",
-      "published": "Thu, 30 Jul 2026 12:46:15 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {

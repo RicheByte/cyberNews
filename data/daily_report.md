@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-31 06:38 UTC  
+> **Last Updated:** 2026-07-31 10:32 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**ai generated websites** • **released security updates** • **residential proxy node** • **least 88 billion** • **data protection violations** • **us critical infrastructure** • **twitter whistleblower complaint** • **malicious python package** • **involves redirecting users** • **infect targeted visitors** • **industrial manufacturing sector** • **consumer tv boxes** • **company will invest** • **four security firms** • **ban residential proxies** • **red agents vs** • **vulnerability discoveries aided** • **typical ai harness** • **turn one's television** • **telecommunications financial hospitality**
+**malicious python package** • **critical flaw led** • **released security updates** • **ai generated websites** • **us critical infrastructure** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **modal customer environment** • **involves redirecting users** • **infect targeted visitors** • **industrial manufacturing sector** • **four security firms** • **data protection violations** • **cve 2026 63077** • **consumer tv boxes** • **target u s** • **ban residential proxies** • **red agents vs** • **turn one's television**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
+- [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
+- [Critical Flaw Led to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
+- [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
+- [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
 - [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
 - [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
 - [Okta to Acquire Identity Threat Detection Firm Permiso](https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/)
-- [Timeless Compliance: Why Better Questions Beat Bigger Frameworks](https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/)
-- [DataBahn Raises $40 Million for Agentic Data Pipeline Management](https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/)
-- [Cantina Emerges From Stealth With $8 Million in Funding](https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/)
-- [Discern Security Raises $13 Million in Series A Funding](https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/)
-- [Onyx Security Raises $113 Million to Control AI Agents in the Enterprise](https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/)
 
 ### Threatpost
 

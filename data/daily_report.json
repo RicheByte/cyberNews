@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-07-31 06:38",
+  "last_updated": "2026-07-31 10:32",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "ai generated websites",
+    "malicious python package",
+    "critical flaw led",
     "released security updates",
+    "ai generated websites",
+    "us critical infrastructure",
     "residential proxy node",
     "least 88 billion",
-    "data protection violations",
-    "us critical infrastructure",
     "twitter whistleblower complaint",
-    "malicious python package",
+    "modal customer environment",
     "involves redirecting users",
     "infect targeted visitors",
     "industrial manufacturing sector",
-    "consumer tv boxes",
-    "company will invest",
     "four security firms",
+    "data protection violations",
+    "cve 2026 63077",
+    "consumer tv boxes",
+    "target u s",
     "ban residential proxies",
     "red agents vs",
-    "vulnerability discoveries aided",
-    "typical ai harness",
-    "turn one's television",
-    "telecommunications financial hospitality"
+    "turn one's television"
   ],
   "trending": [
     {
-      "keyword": "ai generated websites",
-      "mentions": 6
+      "keyword": "malicious python package",
+      "mentions": 3
+    },
+    {
+      "keyword": "critical flaw led",
+      "mentions": 1
     },
     {
       "keyword": "released security updates",
-      "mentions": 87
+      "mentions": 88
     },
     {
-      "keyword": "residential proxy node",
-      "mentions": 84
-    },
-    {
-      "keyword": "least 88 billion",
-      "mentions": 11
-    },
-    {
-      "keyword": "data protection violations",
-      "mentions": 3
+      "keyword": "ai generated websites",
+      "mentions": 7
     },
     {
       "keyword": "us critical infrastructure",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2253
-    },
-    {
-      "keyword": "malicious python package",
-      "mentions": 2
-    },
-    {
-      "keyword": "involves redirecting users",
       "mentions": 4
     },
     {
-      "keyword": "infect targeted visitors",
-      "mentions": 6
+      "keyword": "residential proxy node",
+      "mentions": 85
+    },
+    {
+      "keyword": "least 88 billion",
+      "mentions": 12
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2254
+    },
+    {
+      "keyword": "modal customer environment",
+      "mentions": 1
+    },
+    {
+      "keyword": "involves redirecting users",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -403,6 +403,59 @@
     },
     {
       "source": "Security Week",
+      "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
+      "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
+      "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek .",
+      "published": "Fri, 31 Jul 2026 10:28:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations",
+      "link": "https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/",
+      "summary": "A security company’s systems were hacked after it installed a malicious Python package deployed by Claude. The post Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations appeared first on SecurityWeek .",
+      "published": "Fri, 31 Jul 2026 09:39:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Flaw Led to Azure Cosmos DB Pwnage",
+      "link": "https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/",
+      "summary": "Named CosmosEscape, the vulnerability exposed the primary key for Cosmos DB accounts, granting full read and write access. The post Critical Flaw Led to Azure Cosmos DB Pwnage appeared first on SecurityWeek .",
+      "published": "Fri, 31 Jul 2026 09:04:02 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CareCloud Data Breach Impacts Over 350,000",
+      "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
+      "summary": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .",
+      "published": "Fri, 31 Jul 2026 07:51:43 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+      "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+      "summary": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek .",
+      "published": "Fri, 31 Jul 2026 06:50:30 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs",
       "link": "https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/",
       "summary": "CISA is urging water and wastewater utilities to lock down internet-exposed controllers, days after intrusions hit dozens of Minnesota systems. The post CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs appeared first on SecurityWeek .",
@@ -427,51 +480,6 @@
       "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
       "summary": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response. The post Okta to Acquire Identity Threat Detection Firm Permiso appeared first on SecurityWeek .",
       "published": "Thu, 30 Jul 2026 19:10:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
-      "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
-      "summary": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why Better Questions Beat Bigger Frameworks appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 15:46:17 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "DataBahn Raises $40 Million for Agentic Data Pipeline Management",
-      "link": "https://www.securityweek.com/databahn-raises-40-million-for-agentic-data-pipeline-management/",
-      "summary": "The company will accelerate investments in R&D and product innovation to expand its agentic data control plane. The post DataBahn Raises $40 Million for Agentic Data Pipeline Management appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cantina Emerges From Stealth With $8 Million in Funding",
-      "link": "https://www.securityweek.com/cantina-emerges-from-stealth-with-8-million-in-funding/",
-      "summary": "The startup’s community-powered agentic security platform helps proactively identify, prioritize, and remediate vulnerabilities. The post Cantina Emerges From Stealth With $8 Million in Funding appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Discern Security Raises $13 Million in Series A Funding",
-      "link": "https://www.securityweek.com/discern-security-raises-13-million-in-series-a-funding/",
-      "summary": "The company will invest in accelerating the development and adoption of its agentic platform. The post Discern Security Raises $13 Million in Series A Funding appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Onyx Security Raises $113 Million to Control AI Agents in the Enterprise",
-      "link": "https://www.securityweek.com/onyx-security-raises-113-million-to-control-ai-agents-in-the-enterprise/",
-      "summary": "The Series B funding round brings the total raised by Onyx Security to $153 million. The post Onyx Security Raises $113 Million to Control AI Agents in the Enterprise appeared first on SecurityWeek .",
-      "published": "Thu, 30 Jul 2026 12:29:03 +0000",
       "value_score": 10,
       "value_signals": []
     },

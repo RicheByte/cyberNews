@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 17:41",
+  "last_updated": "2026-07-31 19:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,63 +10,75 @@
     "us critical infrastructure",
     "residential proxy node",
     "iranian hackers iran",
-    "least 88 billion",
+    "spear phishing attack",
+    "deepseek ai model",
     "session hijacking flaw",
     "windows operating systems",
     "wastewater systems sector",
     "unnamed research model",
     "twitter whistleblower complaint",
+    "multi stage chain",
+    "malicious ai skills",
+    "cybersecurity testing without",
     "15 real systems",
     "130 companies tangled",
-    "released security updates",
-    "malicious ai skills",
-    "sprawling phishing campaign",
-    "industrial scale threat",
-    "fastest growing threat"
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "device code phishing",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "malicious python package",
-      "mentions": 6
-    },
-    {
-      "keyword": "critical flaw allowed",
-      "mentions": 2
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 10
-    },
-    {
-      "keyword": "us critical infrastructure",
       "mentions": 7
     },
     {
+      "keyword": "critical flaw allowed",
+      "mentions": 3
+    },
+    {
+      "keyword": "consumer tv boxes",
+      "mentions": 11
+    },
+    {
+      "keyword": "us critical infrastructure",
+      "mentions": 8
+    },
+    {
       "keyword": "residential proxy node",
-      "mentions": 88
+      "mentions": 89
     },
     {
       "keyword": "iranian hackers iran",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "least 88 billion",
-      "mentions": 15
+      "keyword": "spear phishing attack",
+      "mentions": 1
+    },
+    {
+      "keyword": "deepseek ai model",
+      "mentions": 1
     },
     {
       "keyword": "session hijacking flaw",
-      "mentions": 2
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 660
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "summary": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
+      "published": "Fri, 31 Jul 2026 22:09:31 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "Backdoor",
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
@@ -141,15 +153,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "summary": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder. Some defenses improved. The loose parts still got found first. Anyway,",
-      "published": "Thu, 30 Jul 2026 20:55:57 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+      "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
+      "published": "Fri, 31 Jul 2026 14:52:44 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -224,19 +234,6 @@
       "published": "Thu, 30 Jul 2026 14:13:24 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "VMware fixes three critical flaws allowing auth bypass, VM escapes",
-      "link": "https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/",
-      "summary": "Broadcom has released security updates to fix five vulnerabilities in VMware vCenter, ESX, Workstation, and Fusion, including three critical flaws that allow attackers to bypass authentication, execute arbitrary code, or escape from a virtual machine to the host. [...]",
-      "published": "Thu, 30 Jul 2026 14:00:51 -0400",
-      "value_score": 49,
-      "value_signals": [
-        "Auth bypass",
-        "Patch/update",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +320,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "published": "Fri, 31 Jul 2026 18:13:11 GMT",
+      "value_score": 30,
+      "value_signals": [
+        "CISA/KEV"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
       "link": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
       "summary": "The most valuable move any security team can make is building a certificate and key inventory.",
@@ -385,15 +393,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
       "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
       "published": "Thu, 30 Jul 2026 15:28:43 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
-      "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
-      "summary": "The organized crime groups have moved from goods to services and continue to traffic people from at least 80 countries, costing nations in the region at least $88 billion in 2025 alone.",
-      "published": "Thu, 30 Jul 2026 01:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

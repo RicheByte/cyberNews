@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-07-31 10:32 UTC |
+| 🕐 Last Updated | 2026-07-31 13:51 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`malicious python package` • `critical flaw led` • `released security updates` • `ai generated websites` • `us critical infrastructure` • `residential proxy node` • `least 88 billion` • `twitter whistleblower complaint` • `modal customer environment` • `involves redirecting users`
+`malicious python package` • `critical flaw led` • `device code phishing` • `unnamed research model` • `released security updates` • `us critical infrastructure` • `residential proxy node` • `least 88 billion` • `twitter whistleblower complaint` • `modal customer environment`
 
 ## 📄 Reports
 

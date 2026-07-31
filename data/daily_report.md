@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-31 10:32 UTC  
+> **Last Updated:** 2026-07-31 13:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious python package** • **critical flaw led** • **released security updates** • **ai generated websites** • **us critical infrastructure** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **modal customer environment** • **involves redirecting users** • **infect targeted visitors** • **industrial manufacturing sector** • **four security firms** • **data protection violations** • **cve 2026 63077** • **consumer tv boxes** • **target u s** • **ban residential proxies** • **red agents vs** • **turn one's television**
+**malicious python package** • **critical flaw led** • **device code phishing** • **unnamed research model** • **released security updates** • **us critical infrastructure** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **modal customer environment** • **data protection violations** • **consumer tv boxes** • **130 companies tangled** • **sprawling phishing campaign** • **hidden identity challenge** • **cve 2026 63077** • **ban residential proxies** • **april 2026 adding** • **cybersecurity testing without** • **ai harnesses burst**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
+- [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
+- [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
 - [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
 - [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
 - [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
 - [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
 - [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
-- [Hackers Exploit AnySign4PC via Hacked Korean Sites to Install Backdoors Without Prompts](https://thehackernews.com/2026/07/hackers-exploit-anysign4pc-via-hacked.html)
-- [SilverFox Targets Japanese Manufacturer with 3-Driver BYOVD Chain and ValleyRAT](https://thehackernews.com/2026/07/silverfox-targets-japanese-manufacturer.html)
-- [Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation](https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html)
 
 ### BleepingComputer
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [Interpol Leverages Global System to Curtail Fraud Payments](https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments)
+- [USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports](https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports)
 - [Minnesota Water Utility Attacks Expose Sector's Cyber-Risks](https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks)
 - [AI Harnesses Burst With Potential Exploit Opps](https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps)
 - [Claude Mythos — Hype vs. Reality: What Security Teams Need to Know](https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality)
 - [SE Asian Cybercriminal Syndicates Become a Global Power](https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power)
 - ['Flying Eagle' Full-Service Mobile RAT Builder Wings Across China](https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china)
 - [OpenAI's Rogue Model Claims More Victims Beyond Hugging Face](https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face)
-- [Red Agents vs. Blue Agents: How to Make AI Better at Defense](https://www.darkreading.com/cybersecurity-operations/red-agents-vs-blue-agents-make-ai-better-defense)
-- [Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions](https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions)
 
 ### Security Week
 
 - [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
+- [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
 - [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
 - [Critical Flaw Led to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
 - [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
 - [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
 - [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
 - [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
-- [Okta to Acquire Identity Threat Detection Firm Permiso](https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/)
 
 ### Threatpost
 

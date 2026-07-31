@@ -311,7 +311,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2254,
+      "count": 2255,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1899,7 +1899,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 532,
+      "count": 533,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2000,7 +2000,8 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-29",
-        "2026-07-30"
+        "2026-07-30",
+        "2026-07-31"
       ]
     },
     "model agnostic abstractions": {
@@ -2590,7 +2591,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 370,
+      "count": 371,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2641,7 +2642,8 @@
         "2026-05-23",
         "2026-05-24",
         "2026-05-25",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-07-31"
       ]
     },
     "corporate data stolen": {
@@ -4124,7 +4126,7 @@
       ]
     },
     "released security updates": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -23985,7 +23987,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24000,7 +24002,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24989,7 +24991,7 @@
       ]
     },
     "least 88 billion": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25109,7 +25111,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25137,14 +25139,14 @@
       ]
     },
     "data protection violations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-30",
         "2026-07-31"
       ]
     },
     "us critical infrastructure": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25158,24 +25160,60 @@
       ]
     },
     "malicious python package": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-31"
       ]
     },
     "critical flaw led": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
     },
     "modal customer environment": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
     },
     "cve 2026 63077": {
+      "count": 2,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "device code phishing": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "unnamed research model": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "hidden identity challenge": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "april 2026 adding": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "cybersecurity testing without": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "ai harnesses burst": {
       "count": 1,
       "dates": [
         "2026-07-31"
@@ -25183,17 +25221,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-20 13:54",
-      "articles": 48,
-      "top_keywords": [
-        "autonomous ai agent",
-        "hugging face hacked",
-        "heap buffer overflow",
-        "agentic defense platform",
-        "cybercrime group known"
-      ]
-    },
     {
       "timestamp": "2026-07-20 15:46",
       "articles": 48,
@@ -26281,6 +26308,17 @@
         "released security updates",
         "ai generated websites",
         "us critical infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-07-31 13:51",
+      "articles": 48,
+      "top_keywords": [
+        "malicious python package",
+        "critical flaw led",
+        "device code phishing",
+        "unnamed research model",
+        "released security updates"
       ]
     }
   ]

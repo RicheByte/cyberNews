@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 658,
+      "count": 659,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -307,11 +307,12 @@
         "2026-07-24",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-07-31"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2255,
+      "count": 2256,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1899,7 +1900,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 533,
+      "count": 534,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2591,7 +2592,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 371,
+      "count": 372,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4126,7 +4127,7 @@
       ]
     },
     "released security updates": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -23987,7 +23988,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24002,7 +24003,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24991,7 +24992,7 @@
       ]
     },
     "least 88 billion": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25111,7 +25112,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25139,14 +25140,14 @@
       ]
     },
     "data protection violations": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-30",
         "2026-07-31"
       ]
     },
     "us critical infrastructure": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-30",
         "2026-07-31"
@@ -25160,7 +25161,7 @@
       ]
     },
     "malicious python package": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-31"
       ]
@@ -25178,19 +25179,19 @@
       ]
     },
     "cve 2026 63077": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-07-31"
       ]
     },
     "device code phishing": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
     },
     "unnamed research model": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
@@ -25202,7 +25203,7 @@
       ]
     },
     "april 2026 adding": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-07-31"
       ]
@@ -25218,20 +25219,33 @@
       "dates": [
         "2026-07-31"
       ]
+    },
+    "critical flaw allowed": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "session hijacking flaw": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "iranian hackers iran": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
+    },
+    "malicious ai skills": {
+      "count": 1,
+      "dates": [
+        "2026-07-31"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-20 15:46",
-      "articles": 48,
-      "top_keywords": [
-        "autonomous ai agent",
-        "hugging face hacked",
-        "agentic defense platform",
-        "cve 2026 15410",
-        "calendar events dated"
-      ]
-    },
     {
       "timestamp": "2026-07-20 17:54",
       "articles": 48,
@@ -26319,6 +26333,17 @@
         "device code phishing",
         "unnamed research model",
         "released security updates"
+      ]
+    },
+    {
+      "timestamp": "2026-07-31 15:58",
+      "articles": 48,
+      "top_keywords": [
+        "device code phishing",
+        "malicious python package",
+        "critical flaw allowed",
+        "consumer tv boxes",
+        "us critical infrastructure"
       ]
     }
   ]

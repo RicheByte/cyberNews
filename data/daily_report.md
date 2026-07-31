@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-07-31 13:51 UTC  
+> **Last Updated:** 2026-07-31 15:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**malicious python package** • **critical flaw led** • **device code phishing** • **unnamed research model** • **released security updates** • **us critical infrastructure** • **residential proxy node** • **least 88 billion** • **twitter whistleblower complaint** • **modal customer environment** • **data protection violations** • **consumer tv boxes** • **130 companies tangled** • **sprawling phishing campaign** • **hidden identity challenge** • **cve 2026 63077** • **ban residential proxies** • **april 2026 adding** • **cybersecurity testing without** • **ai harnesses burst**
+**device code phishing** • **malicious python package** • **critical flaw allowed** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **least 88 billion** • **session hijacking flaw** • **unnamed research model** • **twitter whistleblower complaint** • **iranian hackers iran** • **130 companies tangled** • **malicious ai skills** • **data protection violations** • **released security updates** • **sprawling phishing campaign** • **cve 2026 63077** • **ban residential proxies** • **april 2026 adding** • **windows operating systems**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
+- [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
+- [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
 - [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
 - [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
 - [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
 - [DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware](https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html)
 - [ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories](https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html)
-- [Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database](https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html)
-- [Microsoft Copilot for Word Can Copy Hidden Prompts Into New Documents](https://thehackernews.com/2026/07/microsoft-copilot-for-word-can-copy.html)
-- [The Network Has Become the Control Plane for AI Security](https://thehackernews.com/2026/07/the-network-has-become-control-plane.html)
 
 ### BleepingComputer
 
+- [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
 - [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
 - [South Korea fines telco giant KT $39 million for customer data breach](https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/)
 - [JetBrains warns of critical TeamCity remote code execution flaw](https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/)
@@ -34,7 +35,6 @@
 - [VMware fixes three critical flaws allowing auth bypass, VM escapes](https://www.bleepingcomputer.com/news/security/vmware-fixes-three-critical-flaws-allowing-auth-bypass-vm-escapes/)
 - [Google says AI helped Chrome fix 1,072 security bugs in two releases](https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/)
 - [ShinyHunters claims Brinks Home breach, threatens to leak stolen data](https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/)
-- [Microsoft Teams vishing attacks lead to Chaos ransomware attacks](https://www.bleepingcomputer.com/news/security/microsoft-teams-vishing-attacks-lead-to-chaos-ransomware-attacks/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [The Morning After We Pull a Root of Trust, Nobody Owns It](https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it)
 - [Interpol Leverages Global System to Curtail Fraud Payments](https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments)
+- [DROP Platform Lets Californians Reduce Digital Footprint](https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data)
 - [USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports](https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports)
 - [Minnesota Water Utility Attacks Expose Sector's Cyber-Risks](https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks)
 - [AI Harnesses Burst With Potential Exploit Opps](https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps)
 - [Claude Mythos — Hype vs. Reality: What Security Teams Need to Know](https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality)
 - [SE Asian Cybercriminal Syndicates Become a Global Power](https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power)
-- ['Flying Eagle' Full-Service Mobile RAT Builder Wings Across China](https://www.darkreading.com/endpoint-security/flying-eagle-mobile-rat-builder-china)
-- [OpenAI's Rogue Model Claims More Victims Beyond Hugging Face](https://www.darkreading.com/application-security/openai-rogue-model-claims-more-victims-beyond-hugging-face)
 
 ### Security Week
 
+- [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
+- [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
 - [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
 - [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
 - [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
-- [Critical Flaw Led to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
+- [Critical Flaw Allowed to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
 - [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
 - [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
-- [CISA Urges Water Sector to Protect OT After Coordinated Attacks on PLCs](https://www.securityweek.com/cisa-urges-water-sector-to-protect-ot-after-coordinated-attacks-on-plcs/)
-- [Bank of America to Acquire Cybersecurity Firm MDSec](https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-01 09:53",
+  "last_updated": "2026-08-01 11:12",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "session hijacking flaw",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "critical flaw allowed",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "iranian hackers iran",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "cve 2026 63077",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "malicious python package",
-      "mentions": 12
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 16
-    },
-    {
-      "keyword": "us critical infrastructure",
       "mentions": 13
     },
     {
+      "keyword": "consumer tv boxes",
+      "mentions": 17
+    },
+    {
+      "keyword": "us critical infrastructure",
+      "mentions": 14
+    },
+    {
       "keyword": "residential proxy node",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "deepseek ai model",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [

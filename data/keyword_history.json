@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 666,
+      "count": 667,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -313,7 +313,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2263,
+      "count": 2264,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2305,7 +2305,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2595,7 +2595,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 379,
+      "count": 380,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4131,7 +4131,7 @@
       ]
     },
     "released security updates": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -23993,7 +23993,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24009,7 +24009,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25119,7 +25119,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25155,7 +25155,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25170,7 +25170,7 @@
       ]
     },
     "malicious python package": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25189,7 +25189,7 @@
       ]
     },
     "cve 2026 63077": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25235,21 +25235,21 @@
       ]
     },
     "critical flaw allowed": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "session hijacking flaw": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "iranian hackers iran": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25262,14 +25262,14 @@
       ]
     },
     "wastewater systems sector": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "15 real systems": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25290,21 +25290,21 @@
       ]
     },
     "spear phishing attack": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "deepseek ai model": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "multi stage chain": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25317,24 +25317,13 @@
       ]
     },
     "browser side tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-21 13:26",
-      "articles": 48,
-      "top_keywords": [
-        "industrial cybersecurity winners",
-        "sandbox escape vulnerability",
-        "vulnerability discoveries aided",
-        "twitter whistleblower complaint",
-        "dire critical rating"
-      ]
-    },
     {
       "timestamp": "2026-07-21 15:38",
       "articles": 48,
@@ -26415,6 +26404,17 @@
     },
     {
       "timestamp": "2026-08-01 09:53",
+      "articles": 48,
+      "top_keywords": [
+        "session hijacking flaw",
+        "critical flaw allowed",
+        "iranian hackers iran",
+        "cve 2026 63077",
+        "spear phishing attack"
+      ]
+    },
+    {
+      "timestamp": "2026-08-01 11:12",
       "articles": 48,
       "top_keywords": [
         "session hijacking flaw",

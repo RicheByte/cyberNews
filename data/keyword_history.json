@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 672,
+      "count": 673,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -313,7 +313,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2269,
+      "count": 2270,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2305,7 +2305,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2595,7 +2595,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 385,
+      "count": 386,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3215,7 +3215,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 276,
+      "count": 277,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4132,7 +4132,7 @@
       ]
     },
     "released security updates": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -11523,7 +11523,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -23995,7 +23995,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24011,7 +24011,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25121,7 +25121,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25157,7 +25157,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25237,7 +25237,7 @@
       ]
     },
     "critical flaw allowed": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25251,7 +25251,7 @@
       ]
     },
     "iranian hackers iran": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25265,7 +25265,7 @@
       ]
     },
     "wastewater systems sector": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25293,21 +25293,21 @@
       ]
     },
     "spear phishing attack": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "deepseek ai model": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "multi stage chain": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25320,36 +25320,25 @@
       ]
     },
     "browser side tool": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-01"
       ]
     },
     "70 2 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-01"
       ]
     },
     "canadian firm coinkite": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-22 02:06",
-      "articles": 48,
-      "top_keywords": [
-        "larger ai models",
-        "industrial cybersecurity winners",
-        "steal machine keys",
-        "residential proxy node",
-        "cybercrime group known"
-      ]
-    },
     {
       "timestamp": "2026-07-22 06:23",
       "articles": 48,
@@ -26430,6 +26419,17 @@
     },
     {
       "timestamp": "2026-08-01 20:43",
+      "articles": 48,
+      "top_keywords": [
+        "70 2 million",
+        "released security updates",
+        "spear phishing attack",
+        "iranian hackers iran",
+        "arbitrary code execution"
+      ]
+    },
+    {
+      "timestamp": "2026-08-01 22:49",
       "articles": 48,
       "top_keywords": [
         "70 2 million",

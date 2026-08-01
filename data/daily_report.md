@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-01 16:54 UTC  
+> **Last Updated:** 2026-08-01 19:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iranian hackers iran** • **spear phishing attack** • **arbitrary code execution** • **consumer tv boxes** • **session hijacking flaw** • **residential proxy node** • **us critical infrastructure** • **critical flaw allowed** • **deepseek ai model** • **windows operating systems** • **wastewater systems sector** • **cvss scoring system** • **released security updates** • **twitter whistleblower complaint** • **multi stage chain** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack** • **malicious ai skills**
+**70 2 million** • **released security updates** • **spear phishing attack** • **iranian hackers iran** • **arbitrary code execution** • **consumer tv boxes** • **residential proxy node** • **us critical infrastructure** • **deepseek ai model** • **windows operating systems** • **wastewater systems sector** • **cvss scoring system** • **canadian firm coinkite** • **twitter whistleblower complaint** • **multi stage chain** • **critical flaw allowed** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
 - [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
 - [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
 - [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
@@ -23,7 +24,6 @@
 - [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 - [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
 - [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
-- [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
 
 ### BleepingComputer
 

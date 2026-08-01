@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-01 16:54 UTC |
+| 🕐 Last Updated | 2026-08-01 19:00 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`iranian hackers iran` • `spear phishing attack` • `arbitrary code execution` • `consumer tv boxes` • `session hijacking flaw` • `residential proxy node` • `us critical infrastructure` • `critical flaw allowed` • `deepseek ai model` • `windows operating systems`
+`70 2 million` • `released security updates` • `spear phishing attack` • `iranian hackers iran` • `arbitrary code execution` • `consumer tv boxes` • `residential proxy node` • `us critical infrastructure` • `deepseek ai model` • `windows operating systems`
 
 ## 📄 Reports
 

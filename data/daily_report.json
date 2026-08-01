@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-01 16:54",
+  "last_updated": "2026-08-01 19:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "iranian hackers iran",
+    "70 2 million",
+    "released security updates",
     "spear phishing attack",
+    "iranian hackers iran",
     "arbitrary code execution",
     "consumer tv boxes",
-    "session hijacking flaw",
     "residential proxy node",
     "us critical infrastructure",
-    "critical flaw allowed",
     "deepseek ai model",
     "windows operating systems",
     "wastewater systems sector",
     "cvss scoring system",
-    "released security updates",
+    "canadian firm coinkite",
     "twitter whistleblower complaint",
     "multi stage chain",
+    "critical flaw allowed",
     "browser side tool",
     "130 companies tangled",
     "ban residential proxies",
-    "supply chain attack",
-    "malicious ai skills"
+    "supply chain attack"
   ],
   "trending": [
     {
-      "keyword": "iranian hackers iran",
-      "mentions": 12
+      "keyword": "70 2 million",
+      "mentions": 1
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 97
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "iranian hackers iran",
+      "mentions": 13
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 274
+      "mentions": 275
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 20
-    },
-    {
-      "keyword": "session hijacking flaw",
-      "mentions": 12
+      "mentions": 21
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 98
+      "mentions": 99
     },
     {
       "keyword": "us critical infrastructure",
-      "mentions": 17
-    },
-    {
-      "keyword": "critical flaw allowed",
-      "mentions": 12
+      "mentions": 18
     },
     {
       "keyword": "deepseek ai model",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 670
+      "mentions": 671
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+      "published": "Sat, 01 Aug 2026 22:47:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
@@ -137,17 +146,6 @@
       "value_score": 26,
       "value_signals": [
         "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw",
-      "link": "https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html",
-      "summary": "An academic study has disclosed a \"widespread class\" of security vulnerabilities impacting 4G and 5G core networks that, if successfully exploited, could trigger denial-of-service (DoS) attacks and even session hijacking, allowing an attacker to seize control of a user's network session. The findings have been released by a group of researchers from Singapore's Nanyang Technological University",
-      "published": "Fri, 31 Jul 2026 17:25:00 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

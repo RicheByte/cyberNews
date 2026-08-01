@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-01 11:12 UTC |
+| 🕐 Last Updated | 2026-08-01 13:06 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`session hijacking flaw` • `critical flaw allowed` • `iranian hackers iran` • `cve 2026 63077` • `spear phishing attack` • `malicious python package` • `consumer tv boxes` • `us critical infrastructure` • `residential proxy node` • `deepseek ai model`
+`iranian hackers iran` • `spear phishing attack` • `us critical infrastructure` • `malicious python package` • `critical flaw allowed` • `consumer tv boxes` • `session hijacking flaw` • `residential proxy node` • `deepseek ai model` • `cvss scoring system`
 
 ## 📄 Reports
 

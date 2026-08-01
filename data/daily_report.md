@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-01 11:12 UTC  
+> **Last Updated:** 2026-08-01 13:06 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**session hijacking flaw** • **critical flaw allowed** • **iranian hackers iran** • **cve 2026 63077** • **spear phishing attack** • **malicious python package** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **deepseek ai model** • **cvss scoring system** • **windows operating systems** • **wastewater systems sector** • **15 real systems** • **twitter whistleblower complaint** • **released security updates** • **multi stage chain** • **browser side tool** • **130 companies tangled** • **ban residential proxies**
+**iranian hackers iran** • **spear phishing attack** • **us critical infrastructure** • **malicious python package** • **critical flaw allowed** • **consumer tv boxes** • **session hijacking flaw** • **residential proxy node** • **deepseek ai model** • **cvss scoring system** • **windows operating systems** • **wastewater systems sector** • **15 real systems** • **released security updates** • **twitter whistleblower complaint** • **multi stage chain** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
+- [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
 - [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
 - [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
 - [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
 - [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
 - [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
 - [Critical Flaw Allowed to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
-- [CareCloud Data Breach Impacts Over 350,000](https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/)
-- [Critical Code Execution Vulnerability Patched in TeamCity](https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/)
 
 ### Threatpost
 

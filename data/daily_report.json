@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-01 11:12",
+  "last_updated": "2026-08-01 13:06",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "session hijacking flaw",
-    "critical flaw allowed",
     "iranian hackers iran",
-    "cve 2026 63077",
     "spear phishing attack",
-    "malicious python package",
-    "consumer tv boxes",
     "us critical infrastructure",
+    "malicious python package",
+    "critical flaw allowed",
+    "consumer tv boxes",
+    "session hijacking flaw",
     "residential proxy node",
     "deepseek ai model",
     "cvss scoring system",
     "windows operating systems",
     "wastewater systems sector",
     "15 real systems",
-    "twitter whistleblower complaint",
     "released security updates",
+    "twitter whistleblower complaint",
     "multi stage chain",
     "browser side tool",
     "130 companies tangled",
-    "ban residential proxies"
+    "ban residential proxies",
+    "supply chain attack"
   ],
   "trending": [
     {
-      "keyword": "session hijacking flaw",
-      "mentions": 9
-    },
-    {
-      "keyword": "critical flaw allowed",
-      "mentions": 9
-    },
-    {
       "keyword": "iranian hackers iran",
-      "mentions": 9
-    },
-    {
-      "keyword": "cve 2026 63077",
-      "mentions": 5
+      "mentions": 10
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 7
-    },
-    {
-      "keyword": "malicious python package",
-      "mentions": 13
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 17
+      "mentions": 8
     },
     {
       "keyword": "us critical infrastructure",
+      "mentions": 15
+    },
+    {
+      "keyword": "malicious python package",
       "mentions": 14
     },
     {
+      "keyword": "critical flaw allowed",
+      "mentions": 10
+    },
+    {
+      "keyword": "consumer tv boxes",
+      "mentions": 18
+    },
+    {
+      "keyword": "session hijacking flaw",
+      "mentions": 10
+    },
+    {
       "keyword": "residential proxy node",
-      "mentions": 95
+      "mentions": 96
     },
     {
       "keyword": "deepseek ai model",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 81
     }
   ],
   "articles": [
@@ -391,6 +391,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
+      "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
+      "summary": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. The post Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments appeared first on SecurityWeek .",
+      "published": "Sat, 01 Aug 2026 12:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ruby on Rails Patches Critical Vulnerability",
+      "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
+      "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek .",
+      "published": "Sat, 01 Aug 2026 11:15:00 +0000",
+      "value_score": 72,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
       "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
       "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek .",
@@ -443,30 +465,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CareCloud Data Breach Impacts Over 350,000",
-      "link": "https://www.securityweek.com/carecloud-data-breach-impacts-over-350000/",
-      "summary": "In March 2026, hackers stole personal, financial, and medical information from the company’s AWS environment. The post CareCloud Data Breach Impacts Over 350,000 appeared first on SecurityWeek .",
-      "published": "Fri, 31 Jul 2026 07:51:43 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Code Execution Vulnerability Patched in TeamCity",
-      "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
-      "summary": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek .",
-      "published": "Fri, 31 Jul 2026 06:50:30 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31 22:54",
+  "last_updated": "2026-08-01 02:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "device code phishing",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "critical flaw allowed",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "malicious python package",
-      "mentions": 9
-    },
-    {
-      "keyword": "iranian hackers iran",
-      "mentions": 5
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 13
-    },
-    {
-      "keyword": "us critical infrastructure",
       "mentions": 10
     },
     {
+      "keyword": "iranian hackers iran",
+      "mentions": 6
+    },
+    {
+      "keyword": "consumer tv boxes",
+      "mentions": 14
+    },
+    {
+      "keyword": "us critical infrastructure",
+      "mentions": 11
+    },
+    {
       "keyword": "residential proxy node",
-      "mentions": 91
+      "mentions": 92
     },
     {
       "keyword": "deepseek ai model",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "session hijacking flaw",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [

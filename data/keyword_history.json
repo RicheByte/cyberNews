@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 665,
+      "count": 666,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -313,7 +313,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2262,
+      "count": 2263,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2305,7 +2305,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2323,7 +2323,8 @@
         "2026-06-13",
         "2026-06-14",
         "2026-06-15",
-        "2026-07-13"
+        "2026-07-13",
+        "2026-08-01"
       ]
     },
     "cybercrime looks like": {
@@ -2594,7 +2595,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 378,
+      "count": 379,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4130,7 +4131,7 @@
       ]
     },
     "released security updates": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4158,7 +4159,8 @@
         "2026-07-23",
         "2026-07-29",
         "2026-07-30",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     "auditability collide daily": {
@@ -23991,7 +23993,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24007,7 +24009,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24018,7 +24020,8 @@
         "2026-07-28",
         "2026-07-29",
         "2026-07-30",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     "move comes less": {
@@ -25116,7 +25119,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25152,7 +25155,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25167,7 +25170,7 @@
       ]
     },
     "malicious python package": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25186,9 +25189,10 @@
       ]
     },
     "cve 2026 63077": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     "device code phishing": {
@@ -25231,21 +25235,21 @@
       ]
     },
     "critical flaw allowed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "session hijacking flaw": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "iranian hackers iran": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25258,14 +25262,14 @@
       ]
     },
     "wastewater systems sector": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "15 real systems": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25286,21 +25290,21 @@
       ]
     },
     "spear phishing attack": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "deepseek ai model": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "multi stage chain": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25311,20 +25315,15 @@
       "dates": [
         "2026-07-31"
       ]
+    },
+    "browser side tool": {
+      "count": 1,
+      "dates": [
+        "2026-08-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-21 10:20",
-      "articles": 48,
-      "top_keywords": [
-        "real ai threat",
-        "sandbox escape vulnerability",
-        "threat actor tracked",
-        "calendar events dated",
-        "encrypting ai assets"
-      ]
-    },
     {
       "timestamp": "2026-07-21 13:26",
       "articles": 48,
@@ -26412,6 +26411,17 @@
         "spear phishing attack",
         "malicious python package",
         "iranian hackers iran"
+      ]
+    },
+    {
+      "timestamp": "2026-08-01 09:53",
+      "articles": 48,
+      "top_keywords": [
+        "session hijacking flaw",
+        "critical flaw allowed",
+        "iranian hackers iran",
+        "cve 2026 63077",
+        "spear phishing attack"
       ]
     }
   ]

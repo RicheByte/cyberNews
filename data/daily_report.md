@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-01 06:23 UTC  
+> **Last Updated:** 2026-08-01 09:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**device code phishing** • **critical flaw allowed** • **spear phishing attack** • **malicious python package** • **iranian hackers iran** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **deepseek ai model** • **session hijacking flaw** • **windows operating systems** • **wastewater systems sector** • **15 real systems** • **unnamed research model** • **twitter whistleblower complaint** • **multi stage chain** • **cybersecurity testing without** • **130 companies tangled** • **industrial scale threat** • **fastest growing threat**
+**session hijacking flaw** • **critical flaw allowed** • **iranian hackers iran** • **cve 2026 63077** • **spear phishing attack** • **malicious python package** • **consumer tv boxes** • **us critical infrastructure** • **residential proxy node** • **deepseek ai model** • **cvss scoring system** • **windows operating systems** • **wastewater systems sector** • **15 real systems** • **twitter whistleblower complaint** • **released security updates** • **multi stage chain** • **browser side tool** • **130 companies tangled** • **ban residential proxies**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
+- [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
+- [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
 - [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
 - [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
 - [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
 - [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
 - [Researchers Report 84 Flaws in 4G and 5G Cores, Including a Session Hijacking Flaw](https://thehackernews.com/2026/07/researchers-report-84-flaws-in-4g-and.html)
-- [6 Reasons Why Device Code Phishing is the Fastest-Growing Threat of 2026](https://thehackernews.com/2026/07/6-reasons-why-device-code-phishing-is.html)
-- [Chinese Hacker Commands DeepSeek via Telegram to Launch Autonomous Attacks](https://thehackernews.com/2026/07/chinese-hacker-commands-deepseek-via.html)
-- [Anthropic Says Claude Mistook the Open Internet for a CTF and Breached Three Organizations](https://thehackernews.com/2026/07/anthropic-says-claude-mistook-open.html)
 
 ### BleepingComputer
 

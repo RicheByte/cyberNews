@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-01 13:06 UTC  
+> **Last Updated:** 2026-08-01 14:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**iranian hackers iran** • **spear phishing attack** • **us critical infrastructure** • **malicious python package** • **critical flaw allowed** • **consumer tv boxes** • **session hijacking flaw** • **residential proxy node** • **deepseek ai model** • **cvss scoring system** • **windows operating systems** • **wastewater systems sector** • **15 real systems** • **released security updates** • **twitter whistleblower complaint** • **multi stage chain** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack**
+**iranian hackers iran** • **spear phishing attack** • **arbitrary code execution** • **consumer tv boxes** • **session hijacking flaw** • **residential proxy node** • **us critical infrastructure** • **critical flaw allowed** • **deepseek ai model** • **windows operating systems** • **wastewater systems sector** • **cvss scoring system** • **released security updates** • **twitter whistleblower complaint** • **multi stage chain** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack** • **malicious ai skills**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 - [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
 - [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
 - [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
@@ -34,7 +35,6 @@
 - [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
 - [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
 - [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
-- [Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests](https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/)
 
 ### Krebs on Security
 

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 668,
+      "count": 669,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -313,7 +313,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2265,
+      "count": 2266,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2305,7 +2305,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 81,
+      "count": 82,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2595,7 +2595,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 381,
+      "count": 382,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3215,7 +3215,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 272,
+      "count": 273,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3261,7 +3261,8 @@
         "2026-07-12",
         "2026-07-13",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-08-01"
       ]
     },
     "authenticated remote attacker": {
@@ -4131,7 +4132,7 @@
       ]
     },
     "released security updates": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -11522,7 +11523,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -23994,7 +23995,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24010,7 +24011,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25120,7 +25121,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25156,7 +25157,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25236,34 +25237,35 @@
       ]
     },
     "critical flaw allowed": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "session hijacking flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "iranian hackers iran": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "malicious ai skills": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-01"
       ]
     },
     "wastewater systems sector": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25291,21 +25293,21 @@
       ]
     },
     "spear phishing attack": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "deepseek ai model": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
         "2026-08-01"
       ]
     },
     "multi stage chain": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
         "2026-08-01"
@@ -25318,24 +25320,13 @@
       ]
     },
     "browser side tool": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-21 17:10",
-      "articles": 48,
-      "top_keywords": [
-        "industrial cybersecurity winners",
-        "vulnerable vpn appliances",
-        "twitter whistleblower complaint",
-        "investigated multiple intrusions",
-        "cybercrime group known"
-      ]
-    },
     {
       "timestamp": "2026-07-21 19:11",
       "articles": 48,
@@ -26423,6 +26414,17 @@
         "us critical infrastructure",
         "malicious python package",
         "critical flaw allowed"
+      ]
+    },
+    {
+      "timestamp": "2026-08-01 14:55",
+      "articles": 48,
+      "top_keywords": [
+        "iranian hackers iran",
+        "spear phishing attack",
+        "arbitrary code execution",
+        "consumer tv boxes",
+        "session hijacking flaw"
       ]
     }
   ]

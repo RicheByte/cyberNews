@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-01 13:06",
+  "last_updated": "2026-08-01 14:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "iranian hackers iran",
     "spear phishing attack",
-    "us critical infrastructure",
-    "malicious python package",
-    "critical flaw allowed",
+    "arbitrary code execution",
     "consumer tv boxes",
     "session hijacking flaw",
     "residential proxy node",
+    "us critical infrastructure",
+    "critical flaw allowed",
     "deepseek ai model",
-    "cvss scoring system",
     "windows operating systems",
     "wastewater systems sector",
-    "15 real systems",
+    "cvss scoring system",
     "released security updates",
     "twitter whistleblower complaint",
     "multi stage chain",
     "browser side tool",
     "130 companies tangled",
     "ban residential proxies",
-    "supply chain attack"
+    "supply chain attack",
+    "malicious ai skills"
   ],
   "trending": [
     {
       "keyword": "iranian hackers iran",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "us critical infrastructure",
-      "mentions": 15
-    },
-    {
-      "keyword": "malicious python package",
-      "mentions": 14
-    },
-    {
-      "keyword": "critical flaw allowed",
-      "mentions": 10
+      "keyword": "arbitrary code execution",
+      "mentions": 273
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "session hijacking flaw",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 96
+      "mentions": 97
+    },
+    {
+      "keyword": "us critical infrastructure",
+      "mentions": 16
+    },
+    {
+      "keyword": "critical flaw allowed",
+      "mentions": 11
     },
     {
       "keyword": "deepseek ai model",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "cvss scoring system",
-      "mentions": 81
+      "keyword": "windows operating systems",
+      "mentions": 669
     }
   ],
   "articles": [
@@ -152,6 +152,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Rails patches critical Active Storage flaw with RCE potential",
+      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
+      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
+      "published": "Sat, 01 Aug 2026 10:20:30 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×3",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Amgen says cloud data breach exposed patient health, proprietary info",
       "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
       "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
@@ -218,15 +230,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
-      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
-      "summary": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
-      "published": "Thu, 30 Jul 2026 20:57:25 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

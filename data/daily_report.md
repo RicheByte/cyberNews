@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-02 13:08 UTC  
+> **Last Updated:** 2026-08-02 14:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**70 2 million** • **released security updates** • **spear phishing attack** • **iranian hackers iran** • **arbitrary code execution** • **consumer tv boxes** • **residential proxy node** • **us critical infrastructure** • **deepseek ai model** • **windows operating systems** • **wastewater systems sector** • **cvss scoring system** • **canadian firm coinkite** • **twitter whistleblower complaint** • **multi stage chain** • **critical flaw allowed** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack**
+**released security updates** • **70 2 million** • **spear phishing attack** • **iranian hackers iran** • **arbitrary code execution** • **consumer tv boxes** • **residential proxy node** • **us critical infrastructure** • **windows operating systems** • **wastewater systems sector** • **cvss scoring system** • **canadian firm coinkite** • **deepseek ai model** • **twitter whistleblower complaint** • **multi stage chain** • **critical flaw allowed** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
 - [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 - [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
 - [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
@@ -34,7 +35,6 @@
 - [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
 - [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
 - [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
-- [ESET tracks rise in malicious AI skills and adaptable malware](https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/)
 
 ### Krebs on Security
 

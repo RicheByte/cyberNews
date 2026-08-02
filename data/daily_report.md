@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-02 20:47 UTC  
+> **Last Updated:** 2026-08-02 22:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**released security updates** • **70 2 million** • **spear phishing attack** • **iranian hackers iran** • **arbitrary code execution** • **consumer tv boxes** • **residential proxy node** • **us critical infrastructure** • **windows operating systems** • **wastewater systems sector** • **cvss scoring system** • **canadian firm coinkite** • **deepseek ai model** • **twitter whistleblower complaint** • **multi stage chain** • **critical flaw allowed** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **supply chain attack**
+**70 2 million** • **released security updates** • **iranian hackers iran** • **arbitrary code execution** • **consumer tv boxes** • **spear phishing attack** • **residential proxy node** • **windows operating systems** • **us critical infrastructure** • **cvss scoring system** • **canadian firm coinkite** • **unreleased model designed** • **twitter whistleblower complaint** • **multi stage chain** • **critical flaw allowed** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **national security risk** • **ai harnesses burst**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
+- [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
 - [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
 - [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/)
 - [Amgen says cloud data breach exposed patient health, proprietary info](https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/)
 - [Arch Linux disables AUR package adoption to stop malware flood](https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/)
 - [Online ad firm Adform’s script compromised to steal cryptocurrency](https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/)
 - [OpenAI says its new GPT 5.6 models are becoming more cost-efficient](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/)
-- [Hacker uses DeepSeek AI to autonomously attack vulnerable servers](https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/)
-- [CISA warns of cyberattacks disrupting U.S. water utilities](https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/)
 
 ### Krebs on Security
 

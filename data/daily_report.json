@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-02 20:47",
+  "last_updated": "2026-08-02 22:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "released security updates",
     "70 2 million",
-    "spear phishing attack",
+    "released security updates",
     "iranian hackers iran",
     "arbitrary code execution",
     "consumer tv boxes",
+    "spear phishing attack",
     "residential proxy node",
-    "us critical infrastructure",
     "windows operating systems",
-    "wastewater systems sector",
+    "us critical infrastructure",
     "cvss scoring system",
     "canadian firm coinkite",
-    "deepseek ai model",
+    "unreleased model designed",
     "twitter whistleblower complaint",
     "multi stage chain",
     "critical flaw allowed",
     "browser side tool",
     "130 companies tangled",
     "ban residential proxies",
-    "supply chain attack"
+    "national security risk",
+    "ai harnesses burst"
   ],
   "trending": [
     {
-      "keyword": "released security updates",
-      "mentions": 108
-    },
-    {
       "keyword": "70 2 million",
-      "mentions": 12
+      "mentions": 13
     },
     {
-      "keyword": "spear phishing attack",
-      "mentions": 22
+      "keyword": "released security updates",
+      "mentions": 109
     },
     {
       "keyword": "iranian hackers iran",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 286
+      "mentions": 287
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 32
+      "mentions": 33
+    },
+    {
+      "keyword": "spear phishing attack",
+      "mentions": 23
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 110
-    },
-    {
-      "keyword": "us critical infrastructure",
-      "mentions": 29
+      "mentions": 111
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 682
+      "mentions": 683
     },
     {
-      "keyword": "wastewater systems sector",
-      "mentions": 23
+      "keyword": "us critical infrastructure",
+      "mentions": 30
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 96
     }
   ],
   "articles": [
@@ -150,6 +150,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
+      "published": "Sun, 02 Aug 2026 18:31:41 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
+      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
+      "published": "Sun, 02 Aug 2026 17:14:29 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Google Chrome may soon block New Tab hijacker extensions by default",
       "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
       "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
@@ -206,26 +224,6 @@
       "published": "Fri, 31 Jul 2026 14:52:44 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
-      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
-      "summary": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
-      "published": "Fri, 31 Jul 2026 13:35:35 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
-      "published": "Fri, 31 Jul 2026 12:49:49 -0400",
-      "value_score": 50,
-      "value_signals": [
-        "CISA/KEV ×2"
-      ]
     },
     {
       "source": "Krebs on Security",

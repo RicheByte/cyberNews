@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-02 16:53",
+  "last_updated": "2026-08-02 19:01",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "released security updates",
-      "mentions": 106
+      "mentions": 107
     },
     {
       "keyword": "70 2 million",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "spear phishing attack",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "iranian hackers iran",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 284
+      "mentions": 285
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 108
+      "mentions": 109
     },
     {
       "keyword": "us critical infrastructure",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 680
+      "mentions": 681
     },
     {
       "keyword": "wastewater systems sector",
-      "mentions": 21
+      "mentions": 22
     }
   ],
   "articles": [
@@ -314,7 +314,7 @@
       "source": "Dark Reading",
       "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
-      "summary": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
       "published": "Fri, 31 Jul 2026 18:13:11 GMT",
       "value_score": 30,
       "value_signals": [

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-03 06:54 UTC |
+| 🕐 Last Updated | 2026-08-03 11:16 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`70 2 million` • `released security updates` • `iranian hackers iran` • `arbitrary code execution` • `consumer tv boxes` • `spear phishing attack` • `residential proxy node` • `windows operating systems` • `us critical infrastructure` • `cvss scoring system`
+`arbitrary code execution` • `cve 2026 17583` • `released security updates` • `residential proxy node` • `publicly leaked version` • `iranian hackers iran` • `70 2 million` • `windows operating systems` • `cvss scoring system` • `customer systems managed`
 
 ## 📄 Reports
 

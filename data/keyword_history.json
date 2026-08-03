@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 685,
+      "count": 686,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2282,
+      "count": 2283,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2311,7 +2311,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -3225,7 +3225,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 289,
+      "count": 290,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4144,7 +4144,7 @@
       ]
     },
     "released security updates": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -13441,9 +13441,10 @@
       ]
     },
     "iran linked hackers": {
-      "count": 4,
+      "count": 5,
       "dates": [
-        "2026-04-10"
+        "2026-04-10",
+        "2026-08-03"
       ]
     },
     "genai consumption there's": {
@@ -24010,7 +24011,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24028,7 +24029,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25140,7 +25141,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25178,7 +25179,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25278,7 +25279,7 @@
       ]
     },
     "iranian hackers iran": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25363,7 +25364,7 @@
       ]
     },
     "70 2 million": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25371,7 +25372,7 @@
       ]
     },
     "canadian firm coinkite": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25384,20 +25385,51 @@
         "2026-08-02",
         "2026-08-03"
       ]
+    },
+    "cve 2026 17583": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "publicly leaked version": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "customer systems managed": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "stop unreviewed code": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "hardware wallet made": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "wallets whose seeds": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "convicted felons whose": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-23 15:50",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "released security updates",
-        "gain root privileges",
-        "residential proxy node",
-        "cve 2026 16232"
-      ]
-    },
     {
       "timestamp": "2026-07-23 17:14",
       "articles": 48,
@@ -26485,6 +26517,17 @@
         "iranian hackers iran",
         "arbitrary code execution",
         "consumer tv boxes"
+      ]
+    },
+    {
+      "timestamp": "2026-08-03 11:16",
+      "articles": 48,
+      "top_keywords": [
+        "arbitrary code execution",
+        "cve 2026 17583",
+        "released security updates",
+        "residential proxy node",
+        "publicly leaked version"
       ]
     }
   ]

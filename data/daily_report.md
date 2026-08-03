@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-03 06:54 UTC  
+> **Last Updated:** 2026-08-03 11:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**70 2 million** • **released security updates** • **iranian hackers iran** • **arbitrary code execution** • **consumer tv boxes** • **spear phishing attack** • **residential proxy node** • **windows operating systems** • **us critical infrastructure** • **cvss scoring system** • **canadian firm coinkite** • **unreleased model designed** • **twitter whistleblower complaint** • **multi stage chain** • **critical flaw allowed** • **browser side tool** • **130 companies tangled** • **ban residential proxies** • **national security risk** • **ai harnesses burst**
+**arbitrary code execution** • **cve 2026 17583** • **released security updates** • **residential proxy node** • **publicly leaked version** • **iranian hackers iran** • **70 2 million** • **windows operating systems** • **cvss scoring system** • **customer systems managed** • **stop unreviewed code** • **us critical infrastructure** • **twitter whistleblower complaint** • **hardware wallet made** • **consumer tv boxes** • **canadian firm coinkite** • **wallets whose seeds** • **iran linked hackers** • **convicted felons whose** • **ban residential proxies**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
+- [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
+- [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
+- [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
+- [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
 - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
 - [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
 - [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
-- [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html)
-- [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html)
-- [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html)
-- [Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies](https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html)
-- [Three Recent Chrome Releases Fix 1,442 Flaws, More Than Prior 23 Updates Combined](https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
+- [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
+- [US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States](https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/)
 - [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
 - [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
 - [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
 - [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
 - [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
-- [EU to Crack Down on AI Deepfakes, Illicit Imagery and Hacking With New Team in Brussels](https://www.securityweek.com/eu-to-crack-down-on-ai-deepfakes-illicit-imagery-and-hacking-with-new-team-in-brussels/)
-- [Prompted by OpenAI Disclosure, Anthropic Finds Its Own Models Hacked 3 Organizations](https://www.securityweek.com/after-openai-disclosure-anthropic-finds-its-own-models-hacked-3-organizations/)
-- [Critical Flaw Allowed to Azure Cosmos DB Pwnage](https://www.securityweek.com/critical-flaw-led-to-azure-cosmos-db-pwnage/)
 
 ### Threatpost
 

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-08-03 11:16",
+  "last_updated": "2026-08-03 14:26",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "arbitrary code execution",
-    "cve 2026 17583",
-    "released security updates",
     "residential proxy node",
     "publicly leaked version",
-    "iranian hackers iran",
     "70 2 million",
-    "windows operating systems",
-    "cvss scoring system",
-    "customer systems managed",
     "stop unreviewed code",
-    "us critical infrastructure",
+    "canadian firm coinkite",
+    "windows operating systems",
+    "customer systems managed",
     "twitter whistleblower complaint",
     "hardware wallet made",
+    "dangling dns hijacks",
+    "cve 2026 17583",
     "consumer tv boxes",
-    "canadian firm coinkite",
+    "bank holding company",
+    "automate repetitive work",
     "wallets whose seeds",
-    "iran linked hackers",
     "convicted felons whose",
-    "ban residential proxies"
+    "ban residential proxies",
+    "analysis software loads",
+    "inc ransomware gang",
+    "whether ai belongs"
   ],
   "trending": [
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 290
-    },
-    {
-      "keyword": "cve 2026 17583",
-      "mentions": 1
-    },
-    {
-      "keyword": "released security updates",
-      "mentions": 112
-    },
-    {
       "keyword": "residential proxy node",
-      "mentions": 114
+      "mentions": 115
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 1
-    },
-    {
-      "keyword": "iranian hackers iran",
-      "mentions": 28
+      "mentions": 2
     },
     {
       "keyword": "70 2 million",
-      "mentions": 16
+      "mentions": 17
+    },
+    {
+      "keyword": "stop unreviewed code",
+      "mentions": 2
+    },
+    {
+      "keyword": "canadian firm coinkite",
+      "mentions": 17
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 686
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 99
+      "mentions": 687
     },
     {
       "keyword": "customer systems managed",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2284
+    },
+    {
+      "keyword": "hardware wallet made",
+      "mentions": 2
+    },
+    {
+      "keyword": "dangling dns hijacks",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
+      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
+      "published": "Mon, 03 Aug 2026 19:33:11 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
+      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
+      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
+      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
@@ -131,26 +149,6 @@
       "published": "Sat, 01 Aug 2026 22:47:22 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites",
-      "link": "https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html",
-      "summary": "Attackers modified a JavaScript file served by advertising technology company Adform, turning it into a browser-side tool that rewrites cryptocurrency wallet addresses. Adform detected the incident on July 27, 2026, removed the malicious code, notified affected clients, and reported it to authorities. Anyone who visited a site carrying the affected script on July 27 and copied a Bitcoin,",
-      "published": "Sat, 01 Aug 2026 14:33:07 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
-      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
-      "summary": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect authorization that could result in",
-      "published": "Sat, 01 Aug 2026 12:42:42 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -314,6 +312,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Is There Really a Fix for CISO Fatigue?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
+      "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
+      "published": "Mon, 03 Aug 2026 14:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
       "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
@@ -382,13 +391,49 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
-      "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
-      "summary": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
-      "published": "Thu, 30 Jul 2026 15:28:43 GMT",
+      "source": "Security Week",
+      "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
+      "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
+      "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 13:02:06 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
+      "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
+      "summary": "Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why. The post Horizon3 Raises $250 Million to Fund Continuing Growth appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 13:00:00 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
+      "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
+      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 12:34:06 +0000",
+      "value_score": 67,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
+      "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
+      "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 11:45:14 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×4"
+      ]
     },
     {
       "source": "Security Week",
@@ -426,46 +471,6 @@
       "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
       "summary": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. The post Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments appeared first on SecurityWeek .",
       "published": "Sat, 01 Aug 2026 12:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Ruby on Rails Patches Critical Vulnerability",
-      "link": "https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/",
-      "summary": "The flaw can be exploited by unauthenticated attackers to read arbitrary files and potentially achieve remote code execution (RCE). The post Ruby on Rails Patches Critical Vulnerability appeared first on SecurityWeek .",
-      "published": "Sat, 01 Aug 2026 11:15:00 +0000",
-      "value_score": 72,
-      "value_signals": [
-        "RCE ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
-      "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
-      "summary": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek .",
-      "published": "Fri, 31 Jul 2026 15:47:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
-      "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
-      "summary": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared first on SecurityWeek .",
-      "published": "Fri, 31 Jul 2026 15:17:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace",
-      "link": "https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/",
-      "summary": "The internet giant has built an agent harness to find vulnerabilities across Chrome’s codebase. The post Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace appeared first on SecurityWeek .",
-      "published": "Fri, 31 Jul 2026 10:28:45 +0000",
       "value_score": 10,
       "value_signals": []
     },

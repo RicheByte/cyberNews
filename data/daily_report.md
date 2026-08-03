@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-03 11:16 UTC  
+> **Last Updated:** 2026-08-03 14:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**arbitrary code execution** • **cve 2026 17583** • **released security updates** • **residential proxy node** • **publicly leaked version** • **iranian hackers iran** • **70 2 million** • **windows operating systems** • **cvss scoring system** • **customer systems managed** • **stop unreviewed code** • **us critical infrastructure** • **twitter whistleblower complaint** • **hardware wallet made** • **consumer tv boxes** • **canadian firm coinkite** • **wallets whose seeds** • **iran linked hackers** • **convicted felons whose** • **ban residential proxies**
+**residential proxy node** • **publicly leaked version** • **70 2 million** • **stop unreviewed code** • **canadian firm coinkite** • **windows operating systems** • **customer systems managed** • **twitter whistleblower complaint** • **hardware wallet made** • **dangling dns hijacks** • **cve 2026 17583** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **wallets whose seeds** • **convicted felons whose** • **ban residential proxies** • **analysis software loads** • **inc ransomware gang** • **whether ai belongs**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
+- [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
 - [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
 - [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
 - [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
 - [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
 - [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html)
 - [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html)
-- [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html)
-- [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Is There Really a Fix for CISO Fatigue?](https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue)
 - [CISA Issues Fresh SBOM Guidance. Did They Get It Right?](https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance)
 - [The Morning After We Pull a Root of Trust, Nobody Owns It](https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it)
 - [Interpol Leverages Global System to Curtail Fraud Payments](https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments)
@@ -56,18 +57,17 @@
 - [USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports](https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports)
 - [Minnesota Water Utility Attacks Expose Sector's Cyber-Risks](https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks)
 - [AI Harnesses Burst With Potential Exploit Opps](https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps)
-- [Claude Mythos — Hype vs. Reality: What Security Teams Need to Know](https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality)
 
 ### Security Week
 
+- [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
+- [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
+- [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
+- [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
 - [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
 - [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
 - [US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States](https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/)
 - [Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments](https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/)
-- [Ruby on Rails Patches Critical Vulnerability](https://www.securityweek.com/ruby-on-rails-patches-critical-vulnerability/)
-- [In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research](https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/)
-- [Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers](https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/)
-- [Google AI Uncovers 13-Year-Old Chrome Flaw Amid Record Patching Pace](https://www.securityweek.com/googles-ai-agent-uncovers-13-year-old-chrome-flaw-amid-record-patching-pace/)
 
 ### Threatpost
 

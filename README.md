@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-03 11:16 UTC |
+| 🕐 Last Updated | 2026-08-03 14:26 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`arbitrary code execution` • `cve 2026 17583` • `released security updates` • `residential proxy node` • `publicly leaked version` • `iranian hackers iran` • `70 2 million` • `windows operating systems` • `cvss scoring system` • `customer systems managed`
+`residential proxy node` • `publicly leaked version` • `70 2 million` • `stop unreviewed code` • `canadian firm coinkite` • `windows operating systems` • `customer systems managed` • `twitter whistleblower complaint` • `hardware wallet made` • `dangling dns hijacks`
 
 ## 📄 Reports
 

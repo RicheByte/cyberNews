@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 686,
+      "count": 687,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2283,
+      "count": 2284,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -24011,7 +24011,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24029,7 +24029,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25141,7 +25141,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25364,7 +25364,7 @@
       ]
     },
     "70 2 million": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25372,7 +25372,7 @@
       ]
     },
     "canadian firm coinkite": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25387,42 +25387,78 @@
       ]
     },
     "cve 2026 17583": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "publicly leaked version": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "customer systems managed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "stop unreviewed code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "hardware wallet made": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "wallets whose seeds": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "convicted felons whose": {
+      "count": 2,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "dangling dns hijacks": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "bank holding company": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "automate repetitive work": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "analysis software loads": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "inc ransomware gang": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "whether ai belongs": {
       "count": 1,
       "dates": [
         "2026-08-03"
@@ -25430,17 +25466,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-23 17:14",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "windows operating systems",
-        "gain root privileges",
-        "residential proxy node",
-        "cve 2026 16232"
-      ]
-    },
     {
       "timestamp": "2026-07-23 19:06",
       "articles": 48,
@@ -26528,6 +26553,17 @@
         "released security updates",
         "residential proxy node",
         "publicly leaked version"
+      ]
+    },
+    {
+      "timestamp": "2026-08-03 14:26",
+      "articles": 48,
+      "top_keywords": [
+        "residential proxy node",
+        "publicly leaked version",
+        "70 2 million",
+        "stop unreviewed code",
+        "canadian firm coinkite"
       ]
     }
   ]

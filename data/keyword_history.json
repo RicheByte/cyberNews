@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 684,
+      "count": 685,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2281,
+      "count": 2282,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1175,7 +1175,7 @@
       ]
     },
     "national security risk": {
-      "count": 322,
+      "count": 323,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2311,7 +2311,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2603,7 +2603,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 397,
+      "count": 398,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -3225,7 +3225,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 288,
+      "count": 289,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -4144,7 +4144,7 @@
       ]
     },
     "released security updates": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -24010,7 +24010,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24028,7 +24028,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25140,7 +25140,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25178,7 +25178,7 @@
       ]
     },
     "us critical infrastructure": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25254,7 +25254,7 @@
       ]
     },
     "ai harnesses burst": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-31",
         "2026-08-02",
@@ -25262,7 +25262,7 @@
       ]
     },
     "critical flaw allowed": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25278,7 +25278,7 @@
       ]
     },
     "iranian hackers iran": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25323,7 +25323,7 @@
       ]
     },
     "spear phishing attack": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25340,7 +25340,7 @@
       ]
     },
     "multi stage chain": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25355,7 +25355,7 @@
       ]
     },
     "browser side tool": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25363,7 +25363,7 @@
       ]
     },
     "70 2 million": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25371,7 +25371,7 @@
       ]
     },
     "canadian firm coinkite": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-01",
         "2026-08-02",
@@ -25379,7 +25379,7 @@
       ]
     },
     "unreleased model designed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-02",
         "2026-08-03"
@@ -25387,17 +25387,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-23 13:44",
-      "articles": 48,
-      "top_keywords": [
-        "palo alto networks",
-        "released security updates",
-        "cybercrime group known",
-        "cve 2026 16232",
-        "residential proxy node"
-      ]
-    },
     {
       "timestamp": "2026-07-23 15:50",
       "articles": 48,
@@ -26478,6 +26467,17 @@
     },
     {
       "timestamp": "2026-08-03 02:19",
+      "articles": 48,
+      "top_keywords": [
+        "70 2 million",
+        "released security updates",
+        "iranian hackers iran",
+        "arbitrary code execution",
+        "consumer tv boxes"
+      ]
+    },
+    {
+      "timestamp": "2026-08-03 06:54",
       "articles": 48,
       "top_keywords": [
         "70 2 million",

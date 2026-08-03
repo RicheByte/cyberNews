@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 20:57",
+  "last_updated": "2026-08-03 22:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -17,53 +17,53 @@
     "data leak site",
     "ban residential proxies",
     "130 companies tangled",
-    "whether ai belongs",
+    "attacks n able",
     "hackers leak files",
-    "national security risk",
-    "every security leader",
     "inc ransomware gang",
-    "inc ransomware accelerating"
+    "inc ransomware accelerating",
+    "national security risk",
+    "every security leader"
   ],
   "trending": [
     {
       "keyword": "people behind companies",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2287
+      "mentions": 2288
     },
     {
       "keyword": "n able warns",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "dangling dns hijacks",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "bank holding company",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "automate repetitive work",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "analysis software loads",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -312,6 +312,20 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
+      "summary": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
+      "published": "Mon, 03 Aug 2026 21:21:11 GMT",
+      "value_score": 57,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "New Tool Traces AI Videos Back to Their Source",
       "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
       "summary": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
@@ -321,9 +335,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues",
+      "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
       "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
-      "summary": "Last month's incidents in which Claude breached real-world systems derived from over-permissioning, especially with Internet access.",
+      "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
       "published": "Mon, 03 Aug 2026 20:31:12 GMT",
       "value_score": 10,
       "value_signals": []
@@ -332,7 +346,7 @@
       "source": "Dark Reading",
       "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-      "summary": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
+      "summary": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
       "published": "Mon, 03 Aug 2026 15:42:18 GMT",
       "value_score": 10,
       "value_signals": []
@@ -374,15 +388,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
       "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
       "published": "Fri, 31 Jul 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "DROP Platform Lets Californians Reduce Digital Footprint",
-      "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
-      "summary": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
-      "published": "Fri, 31 Jul 2026 13:19:36 GMT",
       "value_score": 10,
       "value_signals": []
     },

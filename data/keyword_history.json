@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2287,
+      "count": 2288,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1175,7 +1175,7 @@
       ]
     },
     "national security risk": {
-      "count": 326,
+      "count": 327,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2603,7 +2603,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 400,
+      "count": 401,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -24011,7 +24011,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24029,7 +24029,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25141,7 +25141,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25393,7 +25393,7 @@
       ]
     },
     "publicly leaked version": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-03"
       ]
@@ -25429,31 +25429,31 @@
       ]
     },
     "dangling dns hijacks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-03"
       ]
     },
     "bank holding company": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-03"
       ]
     },
     "automate repetitive work": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-03"
       ]
     },
     "analysis software loads": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-03"
       ]
     },
     "inc ransomware gang": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-03"
       ]
@@ -25471,42 +25471,48 @@
       ]
     },
     "threat actor running": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-03"
       ]
     },
     "every security leader": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-03"
       ]
     },
     "data leak site": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-03"
       ]
     },
     "inc ransomware accelerating": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-03"
       ]
     },
     "people behind companies": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-03"
       ]
     },
     "n able warns": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-03"
       ]
     },
     "hackers leak files": {
+      "count": 2,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "attacks n able": {
       "count": 1,
       "dates": [
         "2026-08-03"
@@ -25514,17 +25520,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-24 02:09",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "windows operating systems",
-        "residential proxy node",
-        "businesses easy targets",
-        "anthropic's claude cowork"
-      ]
-    },
     {
       "timestamp": "2026-07-24 06:20",
       "articles": 48,
@@ -26605,6 +26600,17 @@
     },
     {
       "timestamp": "2026-08-03 20:57",
+      "articles": 48,
+      "top_keywords": [
+        "people behind companies",
+        "publicly leaked version",
+        "residential proxy node",
+        "twitter whistleblower complaint",
+        "n able warns"
+      ]
+    },
+    {
+      "timestamp": "2026-08-03 22:55",
       "articles": 48,
       "top_keywords": [
         "people behind companies",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-03 20:57 UTC  
+> **Last Updated:** 2026-08-03 22:55 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **data leak site** • **ban residential proxies** • **130 companies tangled** • **whether ai belongs** • **hackers leak files** • **national security risk** • **every security leader** • **inc ransomware gang** • **inc ransomware accelerating**
+**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **data leak site** • **ban residential proxies** • **130 companies tangled** • **attacks n able** • **hackers leak files** • **inc ransomware gang** • **inc ransomware accelerating** • **national security risk** • **every security leader**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Attackers Exploit N-able Patch Bypass Flaw on RMM Servers](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw)
 - [New Tool Traces AI Videos Back to Their Source](https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection)
-- [Anthropic: AI Issues Result of Security Gaps, Not Model Issues](https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps)
+- [Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues](https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps)
 - [Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm)
 - [Is There Really a Fix for CISO Fatigue?](https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue)
 - [CISA Issues Fresh SBOM Guidance. Did They Get It Right?](https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance)
 - [The Morning After We Pull a Root of Trust, Nobody Owns It](https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it)
 - [Interpol Leverages Global System to Curtail Fraud Payments](https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments)
-- [DROP Platform Lets Californians Reduce Digital Footprint](https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data)
 
 ### Security Week
 

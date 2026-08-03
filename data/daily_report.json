@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-03 17:45",
+  "last_updated": "2026-08-03 19:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "residential proxy node",
+    "people behind companies",
     "publicly leaked version",
+    "residential proxy node",
     "twitter whistleblower complaint",
+    "n able warns",
     "dangling dns hijacks",
-    "customer systems managed",
     "consumer tv boxes",
     "bank holding company",
     "automate repetitive work",
     "analysis software loads",
-    "n central servers",
     "threat actor running",
     "ban residential proxies",
+    "130 companies tangled",
     "national security risk",
     "every security leader",
+    "windows operating systems",
     "data leak site",
     "inc ransomware gang",
     "inc ransomware accelerating",
-    "windows operating systems",
-    "whether ai belongs",
-    "wallets whose seeds"
+    "whether ai belongs"
   ],
   "trending": [
     {
-      "keyword": "residential proxy node",
-      "mentions": 116
+      "keyword": "people behind companies",
+      "mentions": 1
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 117
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2285
+      "mentions": 2286
+    },
+    {
+      "keyword": "n able warns",
+      "mentions": 1
     },
     {
       "keyword": "dangling dns hijacks",
-      "mentions": 2
-    },
-    {
-      "keyword": "customer systems managed",
       "mentions": 3
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 38
+      "mentions": 39
     },
     {
       "keyword": "bank holding company",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "automate repetitive work",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "analysis software loads",
-      "mentions": 2
-    },
-    {
-      "keyword": "n central servers",
-      "mentions": 1
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
+      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
+      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
+      "published": "Tue, 04 Aug 2026 00:13:53 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
@@ -138,20 +147,6 @@
       "value_score": 28,
       "value_signals": [
         "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "summary": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version. N-central is the remote monitoring and management platform",
-      "published": "Mon, 03 Aug 2026 12:11:46 +0530",
-      "value_score": 65,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "Patch/update ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -418,6 +413,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
+      "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
+      "summary": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing. The post Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 15:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
       "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
       "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
@@ -472,15 +476,6 @@
         "Ransomware ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
-      "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
-      "summary": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 09:17:37 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-03 17:45 UTC  
+> **Last Updated:** 2026-08-03 19:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**residential proxy node** • **publicly leaked version** • **twitter whistleblower complaint** • **dangling dns hijacks** • **customer systems managed** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **n central servers** • **threat actor running** • **ban residential proxies** • **national security risk** • **every security leader** • **data leak site** • **inc ransomware gang** • **inc ransomware accelerating** • **windows operating systems** • **whether ai belongs** • **wallets whose seeds**
+**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **ban residential proxies** • **130 companies tangled** • **national security risk** • **every security leader** • **windows operating systems** • **data leak site** • **inc ransomware gang** • **inc ransomware accelerating** • **whether ai belongs**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
 - [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
 - [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
 - [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
@@ -23,7 +24,6 @@
 - [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
 - [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html)
 - [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html)
-- [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html)
 
 ### BleepingComputer
 
@@ -62,12 +62,12 @@
 
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
 - [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
+- [Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations](https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/)
 - [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
 - [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
 - [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
 - [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
 - [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
-- [Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking](https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 19:23",
+  "last_updated": "2026-08-03 20:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -14,56 +14,56 @@
     "automate repetitive work",
     "analysis software loads",
     "threat actor running",
+    "data leak site",
     "ban residential proxies",
     "130 companies tangled",
+    "whether ai belongs",
+    "hackers leak files",
     "national security risk",
     "every security leader",
-    "windows operating systems",
-    "data leak site",
     "inc ransomware gang",
-    "inc ransomware accelerating",
-    "whether ai belongs"
+    "inc ransomware accelerating"
   ],
   "trending": [
     {
       "keyword": "people behind companies",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 117
+      "mentions": 118
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2286
+      "mentions": 2287
     },
     {
       "keyword": "n able warns",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "dangling dns hijacks",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "bank holding company",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "automate repetitive work",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "analysis software loads",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -151,6 +151,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
+      "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
+      "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
+      "published": "Mon, 03 Aug 2026 16:01:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
+      "summary": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
+      "published": "Mon, 03 Aug 2026 15:25:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
       "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
@@ -208,29 +226,6 @@
       "published": "Sun, 02 Aug 2026 10:17:16 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rails patches critical Active Storage flaw with RCE potential",
-      "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
-      "summary": "A critical vulnerability in the Active Storage framework can allow an unauthenticated attacker to read arbitrary files from a Rails application, and potentially escalate to remote code execution (RCE). [...]",
-      "published": "Sat, 01 Aug 2026 10:20:30 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×3",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
-      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
-      "summary": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
-      "published": "Fri, 31 Jul 2026 18:16:42 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -317,6 +312,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "New Tool Traces AI Videos Back to Their Source",
+      "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
+      "summary": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
+      "published": "Mon, 03 Aug 2026 20:42:28 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Anthropic: AI Issues Result of Security Gaps, Not Model Issues",
+      "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
+      "summary": "Last month's incidents in which Claude breached real-world systems derived from over-permissioning, especially with Internet access.",
+      "published": "Mon, 03 Aug 2026 20:31:12 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
       "summary": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
@@ -372,26 +385,6 @@
       "published": "Fri, 31 Jul 2026 13:19:36 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "USA Fencing Lunges Into the Hidden Identity Challenge in Amateur Sports",
-      "link": "https://www.darkreading.com/identity-access-management-security/usa-fencing-hidden-identity-challenge-amateur-sports",
-      "summary": "The organization behind Team USA's Olympic/Paralympic fencing teams has automated identity verification to handle growing membership, cutting manual review time while ensuring athletes compete in the correct categories.",
-      "published": "Fri, 31 Jul 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Minnesota Water Utility Attacks Expose Sector's Cyber-Risks",
-      "link": "https://www.darkreading.com/ics-ot-security/minnesota-water-utility-attacks-expose-sector-cyber-risks",
-      "summary": "A likely Iran-backed actor targeted more than 30 community water systems in Minnesota in a sobering reminder of rising threats to US critical infrastructure.",
-      "published": "Thu, 30 Jul 2026 21:16:13 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

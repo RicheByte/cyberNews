@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-08-03 14:26",
+  "last_updated": "2026-08-03 17:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "residential proxy node",
     "publicly leaked version",
-    "70 2 million",
-    "stop unreviewed code",
-    "canadian firm coinkite",
-    "windows operating systems",
-    "customer systems managed",
     "twitter whistleblower complaint",
-    "hardware wallet made",
     "dangling dns hijacks",
-    "cve 2026 17583",
+    "customer systems managed",
     "consumer tv boxes",
     "bank holding company",
     "automate repetitive work",
-    "wallets whose seeds",
-    "convicted felons whose",
-    "ban residential proxies",
     "analysis software loads",
+    "n central servers",
+    "threat actor running",
+    "ban residential proxies",
+    "national security risk",
+    "every security leader",
+    "data leak site",
     "inc ransomware gang",
-    "whether ai belongs"
+    "inc ransomware accelerating",
+    "windows operating systems",
+    "whether ai belongs",
+    "wallets whose seeds"
   ],
   "trending": [
     {
       "keyword": "residential proxy node",
-      "mentions": 115
+      "mentions": 116
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 2
-    },
-    {
-      "keyword": "70 2 million",
-      "mentions": 17
-    },
-    {
-      "keyword": "stop unreviewed code",
-      "mentions": 2
-    },
-    {
-      "keyword": "canadian firm coinkite",
-      "mentions": 17
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 687
-    },
-    {
-      "keyword": "customer systems managed",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2284
-    },
-    {
-      "keyword": "hardware wallet made",
-      "mentions": 2
+      "mentions": 2285
     },
     {
       "keyword": "dangling dns hijacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "customer systems managed",
+      "mentions": 3
+    },
+    {
+      "keyword": "consumer tv boxes",
+      "mentions": 38
+    },
+    {
+      "keyword": "bank holding company",
+      "mentions": 2
+    },
+    {
+      "keyword": "automate repetitive work",
+      "mentions": 2
+    },
+    {
+      "keyword": "analysis software loads",
+      "mentions": 2
+    },
+    {
+      "keyword": "n central servers",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
+      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
+      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
+      "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
+      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
+      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
+      "published": "Mon, 03 Aug 2026 21:45:13 +0530",
+      "value_score": 64,
+      "value_signals": [
+        "Ransomware ×3",
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
@@ -89,7 +111,7 @@
       "source": "The Hacker News",
       "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
       "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit toolkit. \"",
+      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
       "published": "Mon, 03 Aug 2026 16:19:06 +0530",
       "value_score": 16,
       "value_signals": [
@@ -133,20 +155,35 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code",
-      "link": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
-      "summary": "Three high-severity security flaws have been disclosed in Hugging Face's Diffusers library that could allow crafted model repositories to stealthily execute arbitrary code on machines that load it, opening the artificial intelligence (AI) supply chain to security risk. \"These vulnerabilities are bypassing trust_remote_code, the safeguard designed to stop unreviewed code from running in the",
-      "published": "Mon, 03 Aug 2026 12:10:31 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
+      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
+      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
+      "value_score": 64,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass ×2",
+        "Exploit wording"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
-      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
-      "summary": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
-      "published": "Sat, 01 Aug 2026 22:47:22 +0530",
+      "source": "BleepingComputer",
+      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
+      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
+      "published": "Mon, 03 Aug 2026 11:04:39 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
+      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
+      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
+      "published": "Mon, 03 Aug 2026 10:45:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -199,33 +236,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Arch Linux disables AUR package adoption to stop malware flood",
-      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
-      "summary": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
-      "published": "Fri, 31 Jul 2026 17:38:08 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
-      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
-      "summary": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
-      "published": "Fri, 31 Jul 2026 17:09:25 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
-      "summary": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
-      "published": "Fri, 31 Jul 2026 14:52:44 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -312,6 +322,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
+      "summary": "Researchers from Jesta intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking and to launch further attacks",
+      "published": "Mon, 03 Aug 2026 15:42:18 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Is There Really a Fix for CISO Fatigue?",
       "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
       "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
@@ -380,15 +399,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Harnesses Burst With Potential Exploit Opps",
-      "link": "https://www.darkreading.com/application-security/ai-harnesses-potential-exploit-opps",
-      "summary": "A myriad of software makes up the typical AI harness, and trust issues between the components can create concerning attack vectors.",
-      "published": "Thu, 30 Jul 2026 19:40:40 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "Security Week",
+      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
+      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
+      "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 15:50:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
+      "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
+      "summary": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion appeared first on SecurityWeek .",
+      "published": "Mon, 03 Aug 2026 15:32:05 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -453,24 +479,6 @@
       "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
       "summary": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on SecurityWeek .",
       "published": "Mon, 03 Aug 2026 09:17:37 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
-      "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
-      "summary": "Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers. The post US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 08:48:02 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments",
-      "link": "https://www.securityweek.com/balance-theory-raises-19-million-to-help-enterprises-manage-cybersecurity-investments/",
-      "summary": "The funding round was led by SYN Ventures, with participation from existing investors DataTribe and TEDCO. The post Balance Theory Raises $19 Million to Help Enterprises Manage Cybersecurity Investments appeared first on SecurityWeek .",
-      "published": "Sat, 01 Aug 2026 12:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

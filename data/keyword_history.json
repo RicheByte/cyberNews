@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 687,
+      "count": 688,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2284,
+      "count": 2285,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1175,7 +1175,7 @@
       ]
     },
     "national security risk": {
-      "count": 323,
+      "count": 324,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -24011,7 +24011,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24029,7 +24029,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25141,7 +25141,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25393,13 +25393,13 @@
       ]
     },
     "publicly leaked version": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-03"
       ]
     },
     "customer systems managed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-03"
       ]
@@ -25417,7 +25417,7 @@
       ]
     },
     "wallets whose seeds": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-03"
       ]
@@ -25429,36 +25429,66 @@
       ]
     },
     "dangling dns hijacks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "bank holding company": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "automate repetitive work": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "analysis software loads": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "inc ransomware gang": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-03"
       ]
     },
     "whether ai belongs": {
+      "count": 2,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "n central servers": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "threat actor running": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "every security leader": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "data leak site": {
+      "count": 1,
+      "dates": [
+        "2026-08-03"
+      ]
+    },
+    "inc ransomware accelerating": {
       "count": 1,
       "dates": [
         "2026-08-03"
@@ -25466,17 +25496,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-23 19:06",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "windows operating systems",
-        "residential proxy node",
-        "twitter whistleblower complaint",
-        "synthetic identity fraud"
-      ]
-    },
     {
       "timestamp": "2026-07-23 20:56",
       "articles": 48,
@@ -26564,6 +26583,17 @@
         "70 2 million",
         "stop unreviewed code",
         "canadian firm coinkite"
+      ]
+    },
+    {
+      "timestamp": "2026-08-03 17:45",
+      "articles": 48,
+      "top_keywords": [
+        "residential proxy node",
+        "publicly leaked version",
+        "twitter whistleblower complaint",
+        "dangling dns hijacks",
+        "customer systems managed"
       ]
     }
   ]

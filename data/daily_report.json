@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-04 02:00",
+  "last_updated": "2026-08-04 06:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -17,7 +17,7 @@
     "data leak site",
     "ban residential proxies",
     "130 companies tangled",
-    "hackers leak files",
+    "july 1 2025",
     "153 water systems",
     "attacks n able",
     "whether ai belongs",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "people behind companies",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 120
+      "mentions": 121
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2289
+      "mentions": 2290
     },
     {
       "keyword": "n able warns",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "dangling dns hijacks",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 42
+      "mentions": 43
     },
     {
       "keyword": "bank holding company",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "automate repetitive work",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "analysis software loads",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -395,6 +395,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
+      "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
+      "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 05:18:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
       "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
       "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek .",
@@ -461,17 +470,6 @@
         "Active exploitation",
         "Patch/update",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-      "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-      "summary": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 11:45:14 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×4"
       ]
     },
     {

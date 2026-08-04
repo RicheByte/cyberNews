@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-04 02:00 UTC  
+> **Last Updated:** 2026-08-04 06:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **data leak site** • **ban residential proxies** • **130 companies tangled** • **hackers leak files** • **153 water systems** • **attacks n able** • **whether ai belongs** • **vulnerability discoveries aided** • **turn one's television**
+**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **data leak site** • **ban residential proxies** • **130 companies tangled** • **july 1 2025** • **153 water systems** • **attacks n able** • **whether ai belongs** • **vulnerability discoveries aided** • **turn one's television**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers](https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/)
 - [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
 - [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
@@ -67,7 +68,6 @@
 - [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
 - [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
 - [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
-- [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
 
 ### Threatpost
 

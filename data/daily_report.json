@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-08-04 13:57",
+  "last_updated": "2026-08-04 16:11",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "150 000 impacted",
+    "accelerate product innovation",
     "residential proxy node",
-    "ai generated websites",
     "inexperienced attackers dismissed",
+    "ai generated websites",
     "twitter whistleblower complaint",
+    "system maintenance utilities",
     "script kiddies sat",
     "potentially join calls",
+    "ping identity shares",
     "facilitate financial fraud",
     "consumer tv boxes",
-    "n able warns",
+    "codenamed smoke screen",
+    "vs code hooks",
     "device code phishing",
+    "n able warns",
+    "driving ciso burnout",
     "criminal justice professionals",
     "criminal charges stemming",
     "ban residential proxies",
-    "victims browser cache",
-    "turn one's television",
-    "theoretical computer science",
-    "targeted security release",
-    "steganographic png image",
-    "spent decades assuming"
+    "provides remote access"
   ],
   "trending": [
     {
-      "keyword": "150 000 impacted",
-      "mentions": 2
+      "keyword": "accelerate product innovation",
+      "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 123
-    },
-    {
-      "keyword": "ai generated websites",
-      "mentions": 8
+      "mentions": 124
     },
     {
       "keyword": "inexperienced attackers dismissed",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "ai generated websites",
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2292
+      "mentions": 2293
     },
     {
-      "keyword": "script kiddies sat",
+      "keyword": "system maintenance utilities",
       "mentions": 1
     },
     {
+      "keyword": "script kiddies sat",
+      "mentions": 2
+    },
+    {
       "keyword": "potentially join calls",
+      "mentions": 2
+    },
+    {
+      "keyword": "ping identity shares",
       "mentions": 1
     },
     {
       "keyword": "facilitate financial fraud",
-      "mentions": 1
-    },
-    {
-      "keyword": "consumer tv boxes",
-      "mentions": 45
-    },
-    {
-      "keyword": "n able warns",
-      "mentions": 7
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
+      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
+      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages",
+      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html",
+      "summary": "Cybersecurity researchers have disclosed details of an active, multi-wave campaign that employs social engineering lures themed around Adobe and Zoom software updates, business document reviews, and system maintenance utilities to stealthily deploy Remote Monitoring and Management (RMM) programs like ConnectWise ScreenConnect. The campaign has been codenamed SMOKE#SCREEN by Securonix Threat",
+      "published": "Tue, 04 Aug 2026 18:41:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
@@ -133,26 +151,22 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
-      "link": "https://thehackernews.com/2026/08/google-password-manager-attacks-could.html",
-      "summary": "Malware running as an ordinary user on a Windows machine can sign into a victim's passkey-protected accounts without a fingerprint, a PIN, or anything at all appearing on the victim's screen. Unit 42 detailed three attack paths against Chrome's Google Password Manager cloud authenticator, which it calls Pass-ta-key, Silver Pass-ta-key and Golden Pass-ta-key; the strongest targets the master key",
-      "published": "Mon, 03 Aug 2026 21:54:47 +0530",
+      "source": "BleepingComputer",
+      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
+      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws",
-      "link": "https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html",
-      "summary": "The INC Ransomware operation has emerged as the \"dominant threat actor\" exploiting the recently disclosed security flaws in SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances. In a report published over the weekend, Resecurity said it observed the INC Ransomware accelerating its activity since the beginning of August 2026, listing multiple victims on its data leak site. Per",
-      "published": "Mon, 03 Aug 2026 21:45:13 +0530",
-      "value_score": 64,
-      "value_signals": [
-        "Ransomware ×3",
-        "Breach/leak",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
+      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
+      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -215,24 +229,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "summary": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-      "published": "Mon, 03 Aug 2026 10:45:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-      "published": "Sun, 02 Aug 2026 18:31:41 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -402,6 +398,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Oligo Raises $60 Million for Runtime Security",
+      "link": "https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/",
+      "summary": "The company will use the investment to accelerate product innovation and expand go-to-market operations. The post Oligo Raises $60 Million for Runtime Security appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 15:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout",
+      "link": "https://www.securityweek.com/ciso-conversation-russ-kirby-passion-is-the-antidote-to-burnout/",
+      "summary": "Russ Kirby, CISO at Ping Identity, shares how passion, courage, and “good enough” thinking shaped his path from HP to the C-suite—and what keeps him up at night. The post CISO Conversations: Russ Kirby – Passion Is the Antidote to Burnout appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
       "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
       "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Assistants Could Help Attackers Hijack Accounts appeared first on SecurityWeek .",
@@ -451,26 +465,6 @@
       "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
       "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek .",
       "published": "Tue, 04 Aug 2026 09:56:06 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
-      "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
-      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 08:33:45 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
-      "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
-      "summary": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 05:18:34 +0000",
       "value_score": 10,
       "value_signals": []
     },

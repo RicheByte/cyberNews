@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-04 10:31 UTC |
+| 🕐 Last Updated | 2026-08-04 13:57 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`150 000 impacted` • `publicly leaked version` • `residential proxy node` • `people behind companies` • `twitter whistleblower complaint` • `threat actor running` • `doublecup uses clickfix` • `dangling dns hijacks` • `consumer tv boxes` • `bank holding company`
+`150 000 impacted` • `residential proxy node` • `ai generated websites` • `inexperienced attackers dismissed` • `twitter whistleblower complaint` • `script kiddies sat` • `potentially join calls` • `facilitate financial fraud` • `consumer tv boxes` • `n able warns`
 
 ## 📄 Reports
 

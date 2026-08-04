@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2291,
+      "count": 2292,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20909,7 +20909,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -20919,7 +20919,8 @@
         "2026-07-13",
         "2026-07-14",
         "2026-07-15",
-        "2026-07-16"
+        "2026-07-16",
+        "2026-08-04"
       ]
     },
     "salesforce attacks expands": {
@@ -24014,7 +24015,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24033,7 +24034,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24324,7 +24325,7 @@
       ]
     },
     "turn one's television": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25133,10 +25134,11 @@
       ]
     },
     "ai generated websites": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-30",
-        "2026-07-31"
+        "2026-07-31",
+        "2026-08-04"
       ]
     },
     "infect targeted visitors": {
@@ -25147,7 +25149,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25229,10 +25231,11 @@
       ]
     },
     "device code phishing": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-31",
-        "2026-08-01"
+        "2026-08-01",
+        "2026-08-04"
       ]
     },
     "unnamed research model": {
@@ -25517,7 +25520,7 @@
       ]
     },
     "n able warns": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-03",
         "2026-08-04"
@@ -25550,7 +25553,7 @@
       ]
     },
     "150 000 impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-04"
       ]
@@ -25568,7 +25571,7 @@
       ]
     },
     "victims browser cache": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-04"
       ]
@@ -25580,6 +25583,54 @@
       ]
     },
     "theoretical computer science": {
+      "count": 2,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "inexperienced attackers dismissed": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "script kiddies sat": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "potentially join calls": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "facilitate financial fraud": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "criminal justice professionals": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "targeted security release": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "steganographic png image": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "spent decades assuming": {
       "count": 1,
       "dates": [
         "2026-08-04"
@@ -25587,17 +25638,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-24 15:21",
-      "articles": 48,
-      "top_keywords": [
-        "ai security layer",
-        "cybercrime group known",
-        "single phishing link",
-        "residential proxy node",
-        "businesses easy targets"
-      ]
-    },
     {
       "timestamp": "2026-07-24 17:24",
       "articles": 48,
@@ -26684,6 +26724,17 @@
         "publicly leaked version",
         "residential proxy node",
         "people behind companies",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-04 13:57",
+      "articles": 48,
+      "top_keywords": [
+        "150 000 impacted",
+        "residential proxy node",
+        "ai generated websites",
+        "inexperienced attackers dismissed",
         "twitter whistleblower complaint"
       ]
     }

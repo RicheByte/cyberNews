@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-04 10:31 UTC  
+> **Last Updated:** 2026-08-04 13:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**150 000 impacted** • **publicly leaked version** • **residential proxy node** • **people behind companies** • **twitter whistleblower complaint** • **threat actor running** • **doublecup uses clickfix** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **100 web properties** • **n able warns** • **ban residential proxies** • **130 companies tangled** • **153 water systems** • **whether ai belongs** • **victims browser cache** • **turn one's television** • **trust nobody owns** • **theoretical computer science**
+**150 000 impacted** • **residential proxy node** • **ai generated websites** • **inexperienced attackers dismissed** • **twitter whistleblower complaint** • **script kiddies sat** • **potentially join calls** • **facilitate financial fraud** • **consumer tv boxes** • **n able warns** • **device code phishing** • **criminal justice professionals** • **criminal charges stemming** • **ban residential proxies** • **victims browser cache** • **turn one's television** • **theoretical computer science** • **targeted security release** • **steganographic png image** • **spent decades assuming**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted](https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html)
+- [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
+- [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
 - [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
 - [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
 - [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html)
 - [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html)
 - [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html)
-- [⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks](https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html)
-- [FOMO in the SOC: Where AI Platforms like Claude Actually Fit](https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html)
-- [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls](https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls)
 - [Device Code Phishing Up 1,500% in 2026; Vishing Doubles](https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles)
 - [Attackers Exploit N-able Patch Bypass Flaw on RMM Servers](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw)
 - [New Tool Traces AI Videos Back to Their Source](https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection)
@@ -56,18 +57,17 @@
 - [Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm)
 - [Is There Really a Fix for CISO Fatigue?](https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue)
 - [CISA Issues Fresh SBOM Guidance. Did They Get It Right?](https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance)
-- [The Morning After We Pull a Root of Trust, Nobody Owns It](https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it)
 
 ### Security Week
 
+- [Weaponized Email AI Assistants Could Help Attackers Hijack Accounts](https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/)
+- [Zenity Raises $125 Million in Series C Funding](https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/)
+- [TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover](https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/)
+- [Obsidian Security Raises $85 Million at $1.1 Billion Valuation](https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/)
+- [Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering](https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/)
 - [Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks](https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/)
 - [150,000 Impacted by Madera Community Hospital Data Breach](https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/)
 - [Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers](https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/)
-- [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
-- [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
-- [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
-- [Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations](https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/)
-- [River Bank Says Hackers Deleted Data Stolen in Ransomware Attack](https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/)
 
 ### Threatpost
 

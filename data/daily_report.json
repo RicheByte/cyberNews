@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-08-04 10:31",
+  "last_updated": "2026-08-04 13:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "150 000 impacted",
-    "publicly leaked version",
     "residential proxy node",
-    "people behind companies",
+    "ai generated websites",
+    "inexperienced attackers dismissed",
     "twitter whistleblower complaint",
-    "threat actor running",
-    "doublecup uses clickfix",
-    "dangling dns hijacks",
+    "script kiddies sat",
+    "potentially join calls",
+    "facilitate financial fraud",
     "consumer tv boxes",
-    "bank holding company",
-    "100 web properties",
     "n able warns",
+    "device code phishing",
+    "criminal justice professionals",
+    "criminal charges stemming",
     "ban residential proxies",
-    "130 companies tangled",
-    "153 water systems",
-    "whether ai belongs",
     "victims browser cache",
     "turn one's television",
-    "trust nobody owns",
-    "theoretical computer science"
+    "theoretical computer science",
+    "targeted security release",
+    "steganographic png image",
+    "spent decades assuming"
   ],
   "trending": [
     {
       "keyword": "150 000 impacted",
-      "mentions": 1
-    },
-    {
-      "keyword": "publicly leaked version",
-      "mentions": 9
+      "mentions": 2
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 122
+      "mentions": 123
     },
     {
-      "keyword": "people behind companies",
-      "mentions": 6
+      "keyword": "ai generated websites",
+      "mentions": 8
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2291
-    },
-    {
-      "keyword": "threat actor running",
-      "mentions": 7
-    },
-    {
-      "keyword": "doublecup uses clickfix",
+      "keyword": "inexperienced attackers dismissed",
       "mentions": 1
     },
     {
-      "keyword": "dangling dns hijacks",
-      "mentions": 8
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2292
+    },
+    {
+      "keyword": "script kiddies sat",
+      "mentions": 1
+    },
+    {
+      "keyword": "potentially join calls",
+      "mentions": 1
+    },
+    {
+      "keyword": "facilitate financial fraud",
+      "mentions": 1
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 44
+      "mentions": 45
     },
     {
-      "keyword": "bank holding company",
-      "mentions": 8
+      "keyword": "n able warns",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "When Vibe Hacking Turns AI into the Junior Hacker Every Adversary Always Wanted",
+      "link": "https://thehackernews.com/2026/08/when-vibe-hacking-turns-ai-into-junior.html",
+      "summary": "The cybersecurity industry has spent decades assuming that offensive capability scales with technical expertise. That assumption is starting to break. Security teams have long estimated risk by ranking attacker sophistication. Nation-state actors sat at one end. Organized criminal groups followed. Inexperienced attackers, dismissed as \"script kiddies,\" sat at the other end, running public",
+      "published": "Tue, 04 Aug 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "link": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "summary": "Google deleted three AI agent workflows from its Agent Development Kit (ADK) Python repository. Pillar Security showed that a public GitHub issue could manipulate a triage agent into triggering a privileged code-fixing agent. The researchers said the public agent could be prompt-injected into posting /adk-issue-fix as adk-bot. They identified the bot as a collaborator, so that comment satisfied",
+      "published": "Tue, 04 Aug 2026 16:46:23 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "summary": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past account boundaries. The database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects",
+      "published": "Tue, 04 Aug 2026 16:06:27 +0530",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
@@ -119,35 +151,6 @@
       "value_signals": [
         "Ransomware ×3",
         "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "summary": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
-      "published": "Mon, 03 Aug 2026 19:33:11 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "summary": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
-      "published": "Mon, 03 Aug 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "summary": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
-      "published": "Mon, 03 Aug 2026 16:19:06 +0530",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },
@@ -316,6 +319,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
+      "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
+      "summary": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
+      "published": "Tue, 04 Aug 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
       "link": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
       "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
@@ -389,11 +401,47 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "The Morning After We Pull a Root of Trust, Nobody Owns It",
-      "link": "https://www.darkreading.com/cyber-risk/morning-after-we-pull-root-of-trust-nobody-owns-it",
-      "summary": "The most valuable move any security team can make is building a certificate and key inventory.",
-      "published": "Fri, 31 Jul 2026 14:00:00 GMT",
+      "source": "Security Week",
+      "title": "Weaponized Email AI Assistants Could Help Attackers Hijack Accounts",
+      "link": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+      "summary": "Researchers demonstrate how attackers could abuse built-in email chatbots to evade detection, impersonate trusted employees, compromise executive accounts, and facilitate financial fraud. The post Weaponized Email AI Assistants Could Help Attackers Hijack Accounts appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 13:54:13 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Zenity Raises $125 Million in Series C Funding",
+      "link": "https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/",
+      "summary": "The AI security company will invest in product innovation, global expansion, and customer experience. The post Zenity Raises $125 Million in Series C Funding appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 13:40:42 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
+      "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
+      "summary": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
+      "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
+      "summary": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 12:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+      "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 10:54:30 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -425,53 +473,6 @@
       "published": "Tue, 04 Aug 2026 05:18:34 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
-      "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
-      "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 01:54:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
-      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
-      "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 15:50:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion",
-      "link": "https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/",
-      "summary": "The payments giant says BioCatch’s behavioral and device intelligence will help financial institutions combat account takeovers, scams and other forms of digital fraud. The post Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 15:32:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations",
-      "link": "https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/",
-      "summary": "The list of people behind companies, foundations and trusteeships is part of efforts to combat money laundering and terror financing. The post Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 15:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "River Bank Says Hackers Deleted Data Stolen in Ransomware Attack",
-      "link": "https://www.securityweek.com/river-bank-says-hackers-deleted-data-stolen-in-ransomware-attack/",
-      "summary": "The bank holding company was hacked in June, but the investigation into the incident continues. The post River Bank Says Hackers Deleted Data Stolen in Ransomware Attack appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 13:02:06 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Threatpost",

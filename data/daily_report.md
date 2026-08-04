@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-03 22:55 UTC  
+> **Last Updated:** 2026-08-04 02:00 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **data leak site** • **ban residential proxies** • **130 companies tangled** • **attacks n able** • **hackers leak files** • **inc ransomware gang** • **inc ransomware accelerating** • **national security risk** • **every security leader**
+**people behind companies** • **publicly leaked version** • **residential proxy node** • **twitter whistleblower complaint** • **n able warns** • **dangling dns hijacks** • **consumer tv boxes** • **bank holding company** • **automate repetitive work** • **analysis software loads** • **threat actor running** • **data leak site** • **ban residential proxies** • **130 companies tangled** • **hackers leak files** • **153 water systems** • **attacks n able** • **whether ai belongs** • **vulnerability discoveries aided** • **turn one's television**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
+- [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
 - [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
 - [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
 - [N-able warns of N-central auth bypass flaw exploited in attacks](https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/)
 - [ExfilSquad hackers leak info of over 100,000 UK police officers, staff](https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/)
 - [Inside the Underground Business of the Android BTMOB RAT malware](https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/)
 - [OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/)
-- [COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft](https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/)
-- [Google Chrome may soon block New Tab hijacker extensions by default](https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems](https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/)
 - [Visa to Acquire Fraud Intelligence Firm BioCatch for $2.4 Billion](https://www.securityweek.com/visa-to-acquire-fraud-intelligence-firm-biocatch-for-2-4-billion/)
 - [Cyberattack Hits Liechtenstein’s Register of People Behind Companies and Foundations](https://www.securityweek.com/cyberattack-hits-liechtensteins-register-of-people-behind-companies-and-foundations/)
@@ -67,7 +68,6 @@
 - [Horizon3 Raises $250 Million to Fund Continuing Growth](https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/)
 - [N‑able Patches Vulnerability Exploited to Hack N-central Servers](https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/)
 - [Brinks Home Discloses Data Breach as Hackers Leak Files](https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/)
-- [Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks](https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/)
 
 ### Threatpost
 

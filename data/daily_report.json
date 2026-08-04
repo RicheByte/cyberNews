@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03 22:55",
+  "last_updated": "2026-08-04 02:00",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -17,53 +17,53 @@
     "data leak site",
     "ban residential proxies",
     "130 companies tangled",
-    "attacks n able",
     "hackers leak files",
-    "inc ransomware gang",
-    "inc ransomware accelerating",
-    "national security risk",
-    "every security leader"
+    "153 water systems",
+    "attacks n able",
+    "whether ai belongs",
+    "vulnerability discoveries aided",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "people behind companies",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 119
+      "mentions": 120
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2288
+      "mentions": 2289
     },
     {
       "keyword": "n able warns",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "dangling dns hijacks",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "bank holding company",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "automate repetitive work",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "analysis software loads",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -151,6 +151,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
+      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
+      "published": "Mon, 03 Aug 2026 20:17:15 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "New Pass-ta-key attacks let malware hijack Google-synced passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/",
+      "summary": "Security researchers have discovered three attacks that allow malware on already-compromised Windows devices to abuse Google Password Manager's synced passkeys to take over accounts, bypass user verification, and extract passkey private keys. [...]",
+      "published": "Mon, 03 Aug 2026 19:58:01 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New DOUBLECUP ClickFix service hides malware in browser cache images",
       "link": "https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/",
       "summary": "A new Russian loader-as-a-service named DOUBLECUP uses ClickFix attacks to hide malicious code in PNG images cached by victims' browsers, ultimately delivering CountLoader to Windows and macOS devices and a new remote access trojan named DeviceManager to Windows systems. [...]",
@@ -206,24 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
       "summary": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
       "published": "Sun, 02 Aug 2026 18:31:41 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "COLDCARD wallet RNG flaw likely linked to $88 million Bitcoin theft",
-      "link": "https://www.bleepingcomputer.com/news/security/coldcard-wallet-rng-flaw-likely-linked-to-88-million-bitcoin-theft/",
-      "summary": "A vulnerability in COLDCARD hardware wallet firmware allowed attackers to steal an estimated $88.6 million in Bitcoin from thousands of wallets whose seeds were generated using a flawed random number generator. [...]",
-      "published": "Sun, 02 Aug 2026 17:14:29 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Google Chrome may soon block New Tab hijacker extensions by default",
-      "link": "https://www.bleepingcomputer.com/news/google/google-chrome-may-soon-block-new-tab-hijacker-extensions-by-default/",
-      "summary": "Google is preparing a new Chrome security feature that would block policy-installed extensions from hijacking the New Tab page or changing the default search engine. [...]",
-      "published": "Sun, 02 Aug 2026 10:17:16 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -393,6 +395,15 @@
     },
     {
       "source": "Security Week",
+      "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
+      "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
+      "summary": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 01:54:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 1)",
       "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-1/",
       "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 1) appeared first on SecurityWeek .",
@@ -461,18 +472,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
-      "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
-      "summary": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement. The post Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 10:39:41 +0000",
-      "value_score": 52,
-      "value_signals": [
-        "Ransomware ×3",
-        "Exploit wording"
       ]
     },
     {

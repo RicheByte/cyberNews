@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-08-04 16:11",
+  "last_updated": "2026-08-04 19:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "rethinking ai security",
     "accelerate product innovation",
     "residential proxy node",
     "inexperienced attackers dismissed",
-    "ai generated websites",
     "twitter whistleblower complaint",
     "system maintenance utilities",
     "script kiddies sat",
     "potentially join calls",
     "ping identity shares",
     "facilitate financial fraud",
+    "criminal charges stemming",
     "consumer tv boxes",
     "codenamed smoke screen",
+    "ai generated websites",
     "vs code hooks",
-    "device code phishing",
-    "n able warns",
+    "hide malicious code",
     "driving ciso burnout",
-    "criminal justice professionals",
-    "criminal charges stemming",
     "ban residential proxies",
-    "provides remote access"
+    "steals sensitive information",
+    "1 300 packages"
   ],
   "trending": [
     {
-      "keyword": "accelerate product innovation",
+      "keyword": "rethinking ai security",
       "mentions": 1
+    },
+    {
+      "keyword": "accelerate product innovation",
+      "mentions": 2
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 124
+      "mentions": 125
     },
     {
       "keyword": "inexperienced attackers dismissed",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai generated websites",
-      "mentions": 9
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2293
+      "mentions": 2294
     },
     {
       "keyword": "system maintenance utilities",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "script kiddies sat",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "potentially join calls",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "ping identity shares",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "facilitate financial fraud",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
+      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
+      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. \"Greatness supports AiTM [adversary-in-the-middle] credential and",
+      "published": "Tue, 04 Aug 2026 22:57:39 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
@@ -142,11 +153,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
-      "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
-      "summary": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
-      "published": "Tue, 04 Aug 2026 00:13:53 +0530",
+      "source": "BleepingComputer",
+      "title": "New XCSSET variant targets macOS devs via compromised Xcode projects",
+      "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
+      "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
+      "published": "Tue, 04 Aug 2026 15:03:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "77 Open VSX extensions found harvesting developer info",
+      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
+      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
+      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -205,30 +225,6 @@
       "published": "Mon, 03 Aug 2026 15:25:10 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "summary": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "published": "Mon, 03 Aug 2026 13:00:56 -0400",
-      "value_score": 64,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "summary": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "published": "Mon, 03 Aug 2026 11:04:39 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -315,6 +311,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
+      "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
+      "published": "Tue, 04 Aug 2026 18:37:35 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
       "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
       "summary": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
@@ -386,15 +391,22 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
-      "summary": "A couple dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
-      "published": "Fri, 31 Jul 2026 18:13:11 GMT",
-      "value_score": 30,
-      "value_signals": [
-        "CISA/KEV"
-      ]
+      "source": "Security Week",
+      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
+      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
+      "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 2) appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 16:49:39 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
+      "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
+      "summary": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 16:15:00 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -447,24 +459,6 @@
       "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
       "summary": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek .",
       "published": "Tue, 04 Aug 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
-      "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
-      "summary": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 10:54:30 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
-      "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
-      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 09:56:06 +0000",
       "value_score": 10,
       "value_signals": []
     },

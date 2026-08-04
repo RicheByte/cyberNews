@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2290,
+      "count": 2291,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2604,7 +2604,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 403,
+      "count": 404,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -24014,7 +24014,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24033,7 +24033,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24324,7 +24324,7 @@
       ]
     },
     "turn one's television": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25147,7 +25147,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25400,7 +25400,7 @@
       ]
     },
     "publicly leaked version": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-03",
         "2026-08-04"
@@ -25437,14 +25437,14 @@
       ]
     },
     "dangling dns hijacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-03",
         "2026-08-04"
       ]
     },
     "bank holding company": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-03",
         "2026-08-04"
@@ -25471,7 +25471,7 @@
       ]
     },
     "whether ai belongs": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-03",
         "2026-08-04"
@@ -25484,7 +25484,7 @@
       ]
     },
     "threat actor running": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-03",
         "2026-08-04"
@@ -25510,14 +25510,14 @@
       ]
     },
     "people behind companies": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-03",
         "2026-08-04"
       ]
     },
     "n able warns": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-03",
         "2026-08-04"
@@ -25538,7 +25538,7 @@
       ]
     },
     "153 water systems": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-04"
       ]
@@ -25548,20 +25548,45 @@
       "dates": [
         "2026-08-04"
       ]
+    },
+    "150 000 impacted": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "doublecup uses clickfix": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "100 web properties": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "victims browser cache": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "trust nobody owns": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
+    },
+    "theoretical computer science": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-24 13:24",
-      "articles": 48,
-      "top_keywords": [
-        "ai security layer",
-        "email theft cisa",
-        "cybercrime group known",
-        "residential proxy node",
-        "businesses easy targets"
-      ]
-    },
     {
       "timestamp": "2026-07-24 15:21",
       "articles": 48,
@@ -26649,6 +26674,17 @@
         "residential proxy node",
         "twitter whistleblower complaint",
         "n able warns"
+      ]
+    },
+    {
+      "timestamp": "2026-08-04 10:31",
+      "articles": 48,
+      "top_keywords": [
+        "150 000 impacted",
+        "publicly leaked version",
+        "residential proxy node",
+        "people behind companies",
+        "twitter whistleblower complaint"
       ]
     }
   ]

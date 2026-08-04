@@ -1,72 +1,96 @@
 {
-  "last_updated": "2026-08-04 06:22",
+  "last_updated": "2026-08-04 10:31",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "people behind companies",
+    "150 000 impacted",
     "publicly leaked version",
     "residential proxy node",
+    "people behind companies",
     "twitter whistleblower complaint",
-    "n able warns",
+    "threat actor running",
+    "doublecup uses clickfix",
     "dangling dns hijacks",
     "consumer tv boxes",
     "bank holding company",
-    "automate repetitive work",
-    "analysis software loads",
-    "threat actor running",
-    "data leak site",
+    "100 web properties",
+    "n able warns",
     "ban residential proxies",
     "130 companies tangled",
-    "july 1 2025",
     "153 water systems",
-    "attacks n able",
     "whether ai belongs",
-    "vulnerability discoveries aided",
-    "turn one's television"
+    "victims browser cache",
+    "turn one's television",
+    "trust nobody owns",
+    "theoretical computer science"
   ],
   "trending": [
     {
-      "keyword": "people behind companies",
-      "mentions": 5
+      "keyword": "150 000 impacted",
+      "mentions": 1
     },
     {
       "keyword": "publicly leaked version",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 121
+      "mentions": 122
+    },
+    {
+      "keyword": "people behind companies",
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2290
+      "mentions": 2291
     },
     {
-      "keyword": "n able warns",
-      "mentions": 5
+      "keyword": "threat actor running",
+      "mentions": 7
+    },
+    {
+      "keyword": "doublecup uses clickfix",
+      "mentions": 1
     },
     {
       "keyword": "dangling dns hijacks",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "consumer tv boxes",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "bank holding company",
-      "mentions": 7
-    },
-    {
-      "keyword": "automate repetitive work",
-      "mentions": 7
-    },
-    {
-      "keyword": "analysis software loads",
-      "mentions": 7
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "summary": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
+      "published": "Tue, 04 Aug 2026 14:33:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
+      "published": "Tue, 04 Aug 2026 12:30:13 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
@@ -125,28 +149,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "summary": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
-      "published": "Mon, 03 Aug 2026 14:43:56 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "summary": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
-      "published": "Mon, 03 Aug 2026 13:35:30 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
       ]
     },
     {
@@ -314,6 +316,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
+      "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
+      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
       "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
       "summary": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
@@ -385,13 +398,24 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Interpol Leverages Global System to Curtail Fraud Payments",
-      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-leverages-global-system-curtail-fraud-payments",
-      "summary": "When a fraudulent transaction occurs, law enforcement agencies must work quickly to halt payments before cybercriminals cash out.",
-      "published": "Fri, 31 Jul 2026 13:30:00 GMT",
+      "source": "Security Week",
+      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+      "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+      "summary": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 09:56:06 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
+      "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
+      "summary": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 04 Aug 2026 08:33:45 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -447,29 +471,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
-      "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
-      "summary": "Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why. The post Horizon3 Raises $250 Million to Fund Continuing Growth appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "summary": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek .",
-      "published": "Mon, 03 Aug 2026 12:34:06 +0000",
-      "value_score": 67,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "Patch/update",
-        "Exploit wording"
       ]
     },
     {

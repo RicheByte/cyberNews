@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-04 06:22 UTC |
+| 🕐 Last Updated | 2026-08-04 10:31 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`people behind companies` • `publicly leaked version` • `residential proxy node` • `twitter whistleblower complaint` • `n able warns` • `dangling dns hijacks` • `consumer tv boxes` • `bank holding company` • `automate repetitive work` • `analysis software loads`
+`150 000 impacted` • `publicly leaked version` • `residential proxy node` • `people behind companies` • `twitter whistleblower complaint` • `threat actor running` • `doublecup uses clickfix` • `dangling dns hijacks` • `consumer tv boxes` • `bank holding company`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-04 21:05 UTC  
+> **Last Updated:** 2026-08-04 22:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**rethinking ai security** • **accelerate product innovation** • **residential proxy node** • **inexperienced attackers dismissed** • **twitter whistleblower complaint** • **system maintenance utilities** • **script kiddies sat** • **potentially join calls** • **ping identity shares** • **facilitate financial fraud** • **criminal charges stemming** • **consumer tv boxes** • **codenamed smoke screen** • **ai generated websites** • **vs code hooks** • **hide malicious code** • **driving ciso burnout** • **ban residential proxies** • **steals sensitive information** • **1 300 packages**
+**rethinking ai security** • **accelerate product innovation** • **residential proxy node** • **omada network devices** • **inexperienced attackers dismissed** • **vs code hooks** • **twitter whistleblower complaint** • **system maintenance utilities** • **script kiddies sat** • **potentially join calls** • **ping identity shares** • **facilitate financial fraud** • **criminal charges stemming** • **consumer tv boxes** • **codenamed smoke screen** • **ai generated websites** • **driving ciso burnout** • **ban residential proxies** • **service phaas platform** • **persistent remote access**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
+- [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
 - [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
 - [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
 - [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
 - [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
 - [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
 - [New Pass-ta-key attacks let malware hijack Google-synced passkeys](https://www.bleepingcomputer.com/news/security/new-pass-ta-key-attacks-let-malware-hijack-google-synced-passkeys/)
-- [New DOUBLECUP ClickFix service hides malware in browser cache images](https://www.bleepingcomputer.com/news/security/new-doublecup-clickfix-service-hides-malware-in-browser-cache-images/)
-- [Fake Roblox Xeno script launcher pushes infostealer, RAT malware](https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/)
 
 ### Krebs on Security
 

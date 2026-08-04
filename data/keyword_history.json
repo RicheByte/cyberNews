@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2295,
+      "count": 2296,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5066,13 +5066,14 @@
       ]
     },
     "persistent remote access": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-01-23",
         "2026-01-24",
         "2026-01-25",
         "2026-01-26",
-        "2026-07-30"
+        "2026-07-30",
+        "2026-08-04"
       ]
     },
     "executive order signed": {
@@ -11701,9 +11702,10 @@
       ]
     },
     "service phaas platform": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-03-24"
+        "2026-03-24",
+        "2026-08-04"
       ]
     },
     "yanluowang ransomware crew": {
@@ -20909,7 +20911,7 @@
       ]
     },
     "criminal charges stemming": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-06-23",
         "2026-06-24",
@@ -24015,7 +24017,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24034,7 +24036,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25134,7 +25136,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25149,7 +25151,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25589,25 +25591,25 @@
       ]
     },
     "inexperienced attackers dismissed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-04"
       ]
     },
     "script kiddies sat": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-04"
       ]
     },
     "potentially join calls": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-04"
       ]
     },
     "facilitate financial fraud": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-04"
       ]
@@ -25637,37 +25639,37 @@
       ]
     },
     "accelerate product innovation": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-04"
       ]
     },
     "system maintenance utilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-04"
       ]
     },
     "ping identity shares": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-04"
       ]
     },
     "codenamed smoke screen": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-04"
       ]
     },
     "vs code hooks": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-04"
       ]
     },
     "driving ciso burnout": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-04"
       ]
@@ -25679,7 +25681,7 @@
       ]
     },
     "rethinking ai security": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-04"
       ]
@@ -25701,20 +25703,15 @@
       "dates": [
         "2026-08-04"
       ]
+    },
+    "omada network devices": {
+      "count": 1,
+      "dates": [
+        "2026-08-04"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-24 22:56",
-      "articles": 48,
-      "top_keywords": [
-        "ai security layer",
-        "cybercrime group known",
-        "residential proxy node",
-        "single phishing link",
-        "seeing ai agents"
-      ]
-    },
     {
       "timestamp": "2026-07-25 02:08",
       "articles": 48,
@@ -26802,6 +26799,17 @@
         "residential proxy node",
         "inexperienced attackers dismissed",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-04 22:57",
+      "articles": 48,
+      "top_keywords": [
+        "rethinking ai security",
+        "accelerate product innovation",
+        "residential proxy node",
+        "omada network devices",
+        "inexperienced attackers dismissed"
       ]
     }
   ]

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-05 08:26 UTC |
+| 🕐 Last Updated | 2026-08-05 11:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`service phaas platform` • `omada network devices` • `accelerate product innovation` • `residential proxy node` • `rethinking ai security` • `least august 2025` • `inexperienced attackers dismissed` • `vs code hooks` • `twitter whistleblower complaint` • `system maintenance utilities`
+`311 000 impacted` • `service phaas platform` • `omada network devices` • `supply chain attack` • `least august 2025` • `rethinking ai security` • `residential proxy node` • `1 27 0` • `twitter whistleblower complaint` • `potentially join calls`
 
 ## 📄 Reports
 

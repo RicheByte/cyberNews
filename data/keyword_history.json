@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2299,
+      "count": 2300,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -11541,7 +11541,7 @@
       ]
     },
     "supply chain attack": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-03-21",
         "2026-03-22",
@@ -11559,7 +11559,8 @@
         "2026-06-22",
         "2026-06-23",
         "2026-08-01",
-        "2026-08-02"
+        "2026-08-02",
+        "2026-08-05"
       ]
     },
     "threat actors known": {
@@ -11703,7 +11704,7 @@
       ]
     },
     "service phaas platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-03-24",
         "2026-08-04",
@@ -24020,7 +24021,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24040,7 +24041,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25141,7 +25142,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25157,7 +25158,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25612,7 +25613,7 @@
       ]
     },
     "potentially join calls": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-04",
         "2026-08-05"
@@ -25698,7 +25699,7 @@
       ]
     },
     "rethinking ai security": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-04",
         "2026-08-05"
@@ -25717,25 +25718,68 @@
       ]
     },
     "1 300 packages": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-05"
       ]
     },
     "omada network devices": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-04",
         "2026-08-05"
       ]
     },
     "cyber tests openai": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05"
       ]
     },
     "least august 2025": {
+      "count": 2,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "311 000 impacted": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "1 27 0": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "bystander publicly warned": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "access sensitive data": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "n central flaws": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "public github commits": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "1 255 hostnames": {
       "count": 1,
       "dates": [
         "2026-08-05"
@@ -25743,17 +25787,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-25 11:05",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "ai security layer",
-        "residential proxy node",
-        "single phishing link",
-        "enforcing least privilege"
-      ]
-    },
     {
       "timestamp": "2026-07-25 13:12",
       "articles": 48,
@@ -26841,6 +26874,17 @@
         "accelerate product innovation",
         "residential proxy node",
         "rethinking ai security"
+      ]
+    },
+    {
+      "timestamp": "2026-08-05 11:53",
+      "articles": 48,
+      "top_keywords": [
+        "311 000 impacted",
+        "service phaas platform",
+        "omada network devices",
+        "supply chain attack",
+        "least august 2025"
       ]
     }
   ]

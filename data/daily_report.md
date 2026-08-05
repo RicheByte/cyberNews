@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 19:21 UTC  
+> **Last Updated:** 2026-08-05 21:01 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **false positive claimed** • **residential proxy node** • **control plane details** • **via stolen npm** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **control c2 technique** • **ban residential proxies** • **open source projects** • **omada network devices** • **device code phishing** • **infrastructure security agency** • **turn one's television** • **sonnet 4 6** • **software almost triple**
+**311 000 impacted** • **false positive claimed** • **residential proxy node** • **control plane details** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **control c2 technique** • **ban residential proxies** • **device code phishing** • **samsung account applications** • **blockchain cybersecurity researchers** • **infrastructure security agency** • **omada network devices** • **vendors aren't prepared** • **users meeting information** • **turn one's television**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
 - [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
 - [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
 - [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
@@ -34,7 +35,6 @@
 - [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
 - [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
 - [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
-- [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [CSS: The Hidden Threat Lurking in Your Inbox](https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox)
+- [15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning](https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning)
 - [Flaws in Google APK for Python Unlock Agent-to-Agent Attack](https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack)
 - [Angola's Largest Telco Breached Hours Before IPO](https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo)
 - [Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook](https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook)
 - [AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls](https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls)
 - [Device Code Phishing Up 1,500% in 2026; Vishing Doubles](https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles)
 - [Attackers Exploit N-able Patch Bypass Flaw on RMM Servers](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw)
-- [New Tool Traces AI Videos Back to Their Source](https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection)
-- [Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues](https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps)
 
 ### Security Week
 
+- [How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones](https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
 - [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
 - [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
@@ -67,7 +68,6 @@
 - [Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data](https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/)
 - [AI Agents Targeted Real People and Projects During Cybersecurity Tests](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
 - [CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/)
-- [Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack](https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/)
 
 ### Threatpost
 

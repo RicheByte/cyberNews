@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2304,
+      "count": 2305,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -24023,7 +24023,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24043,7 +24043,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24335,7 +24335,7 @@
       ]
     },
     "turn one's television": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25161,7 +25161,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25244,7 +25244,7 @@
       ]
     },
     "device code phishing": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25617,7 +25617,7 @@
       ]
     },
     "potentially join calls": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-04",
         "2026-08-05"
@@ -25729,14 +25729,14 @@
       ]
     },
     "omada network devices": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-04",
         "2026-08-05"
       ]
     },
     "cyber tests openai": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-05"
       ]
@@ -25748,7 +25748,7 @@
       ]
     },
     "311 000 impacted": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-05"
       ]
@@ -25808,19 +25808,19 @@
       ]
     },
     "false positive claimed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05"
       ]
     },
     "infrastructure security agency": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05"
       ]
     },
     "known bad indicators": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05"
       ]
@@ -25838,19 +25838,19 @@
       ]
     },
     "control plane details": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "underground cybercrime forums": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "control c2 technique": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
@@ -25860,20 +25860,33 @@
       "dates": [
         "2026-08-05"
       ]
+    },
+    "samsung account applications": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "blockchain cybersecurity researchers": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "vendors aren't prepared": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "users meeting information": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-25 20:43",
-      "articles": 40,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "twitter whistleblower complaint",
-        "shinyhunters extortion group",
-        "service raas scheme"
-      ]
-    },
     {
       "timestamp": "2026-07-25 22:49",
       "articles": 48,
@@ -26961,6 +26974,17 @@
         "residential proxy node",
         "control plane details",
         "via stolen npm"
+      ]
+    },
+    {
+      "timestamp": "2026-08-05 21:01",
+      "articles": 48,
+      "top_keywords": [
+        "311 000 impacted",
+        "false positive claimed",
+        "residential proxy node",
+        "control plane details",
+        "underground cybercrime forums"
       ]
     }
   ]

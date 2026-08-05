@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2303,
+      "count": 2304,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -19462,9 +19462,10 @@
       ]
     },
     "open source projects": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-06-10"
+        "2026-06-10",
+        "2026-08-05"
       ]
     },
     "report looks stable": {
@@ -23144,7 +23145,7 @@
       ]
     },
     "software almost triple": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23153,7 +23154,8 @@
         "2026-07-19",
         "2026-07-20",
         "2026-07-22",
-        "2026-07-23"
+        "2026-07-23",
+        "2026-08-05"
       ]
     },
     "spanish police dismantled": {
@@ -24021,7 +24023,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24041,7 +24043,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24333,7 +24335,7 @@
       ]
     },
     "turn one's television": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25159,7 +25161,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25242,7 +25244,7 @@
       ]
     },
     "device code phishing": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-31",
         "2026-08-01",
@@ -25615,7 +25617,7 @@
       ]
     },
     "potentially join calls": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-04",
         "2026-08-05"
@@ -25727,14 +25729,14 @@
       ]
     },
     "omada network devices": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-04",
         "2026-08-05"
       ]
     },
     "cyber tests openai": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-05"
       ]
@@ -25746,7 +25748,7 @@
       ]
     },
     "311 000 impacted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-05"
       ]
@@ -25788,7 +25790,7 @@
       ]
     },
     "via stolen npm": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05"
       ]
@@ -25806,19 +25808,19 @@
       ]
     },
     "false positive claimed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "infrastructure security agency": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "known bad indicators": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
@@ -25836,18 +25838,24 @@
       ]
     },
     "control plane details": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-05"
       ]
     },
     "underground cybercrime forums": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-05"
       ]
     },
     "control c2 technique": {
+      "count": 2,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "sonnet 4 6": {
       "count": 1,
       "dates": [
         "2026-08-05"
@@ -25855,17 +25863,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-25 18:59",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "twitter whistleblower complaint",
-        "sprawling phishing campaign"
-      ]
-    },
     {
       "timestamp": "2026-07-25 20:43",
       "articles": 40,
@@ -26953,6 +26950,17 @@
         "infrastructure security agency",
         "residential proxy node",
         "control plane details"
+      ]
+    },
+    {
+      "timestamp": "2026-08-05 19:21",
+      "articles": 48,
+      "top_keywords": [
+        "311 000 impacted",
+        "false positive claimed",
+        "residential proxy node",
+        "control plane details",
+        "via stolen npm"
       ]
     }
   ]

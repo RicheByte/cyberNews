@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 17:42 UTC  
+> **Last Updated:** 2026-08-05 19:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **false positive claimed** • **infrastructure security agency** • **residential proxy node** • **control plane details** • **1 27 0** • **via stolen npm** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **control c2 technique** • **ban residential proxies** • **omada network devices** • **public github commits** • **device code phishing** • **1 255 hostnames** • **1 200 hosts**
+**311 000 impacted** • **false positive claimed** • **residential proxy node** • **control plane details** • **via stolen npm** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **control c2 technique** • **ban residential proxies** • **open source projects** • **omada network devices** • **device code phishing** • **infrastructure security agency** • **turn one's television** • **sonnet 4 6** • **software almost triple**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
+- [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
 - [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
 - [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
 - [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
 - [Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
 - [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
 - [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
-- [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
-- [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
 
 ### BleepingComputer
 
+- [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
 - [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
 - [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
 - [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
@@ -34,7 +35,6 @@
 - [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
 - [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
 - [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
-- [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Flaws in Google APK for Python Unlock Agent-to-Agent Attack](https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack)
 - [Angola's Largest Telco Breached Hours Before IPO](https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo)
 - [Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook](https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook)
 - [AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls](https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls)
@@ -56,7 +57,6 @@
 - [Attackers Exploit N-able Patch Bypass Flaw on RMM Servers](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw)
 - [New Tool Traces AI Videos Back to Their Source](https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection)
 - [Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues](https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps)
-- [Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm)
 
 ### Security Week
 

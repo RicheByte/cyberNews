@@ -1,14 +1,12 @@
 {
-  "last_updated": "2026-08-05 17:42",
+  "last_updated": "2026-08-05 19:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "311 000 impacted",
     "false positive claimed",
-    "infrastructure security agency",
     "residential proxy node",
     "control plane details",
-    "1 27 0",
     "via stolen npm",
     "underground cybercrime forums",
     "twitter whistleblower complaint",
@@ -18,55 +16,75 @@
     "consumer tv boxes",
     "control c2 technique",
     "ban residential proxies",
+    "open source projects",
     "omada network devices",
-    "public github commits",
     "device code phishing",
-    "1 255 hostnames",
-    "1 200 hosts"
+    "infrastructure security agency",
+    "turn one's television",
+    "sonnet 4 6",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "311 000 impacted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "false positive claimed",
-      "mentions": 2
-    },
-    {
-      "keyword": "infrastructure security agency",
-      "mentions": 2
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 134
-    },
-    {
-      "keyword": "control plane details",
-      "mentions": 1
-    },
-    {
-      "keyword": "1 27 0",
-      "mentions": 4
-    },
-    {
-      "keyword": "via stolen npm",
       "mentions": 3
     },
     {
+      "keyword": "residential proxy node",
+      "mentions": 135
+    },
+    {
+      "keyword": "control plane details",
+      "mentions": 2
+    },
+    {
+      "keyword": "via stolen npm",
+      "mentions": 4
+    },
+    {
       "keyword": "underground cybercrime forums",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2303
+      "mentions": 2304
     },
     {
       "keyword": "potentially join calls",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "known bad indicators",
+      "mentions": 3
+    },
+    {
+      "keyword": "cyber tests openai",
+      "mentions": 8
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "summary": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+      "published": "Thu, 06 Aug 2026 00:14:31 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "summary": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+      "published": "Thu, 06 Aug 2026 00:03:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
@@ -130,26 +148,14 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
-      "link": "https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html",
-      "summary": "An unauthenticated attacker can read any file the service account can access on Gitea, the self-hosted Git platform, in versions 1.22.1 through 1.27.0. No login, no repository write access. A public repository and crafted Org-mode markup are enough. The flaw is fixed in Gitea 1.27.1. The file-read flaw is tracked as CVE-2026-59774, rated Critical with a CVSS score of 9.8, and received its",
-      "published": "Wed, 05 Aug 2026 16:34:23 +0530",
-      "value_score": 52,
+      "source": "BleepingComputer",
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "summary": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
+      "published": "Wed, 05 Aug 2026 13:49:41 -0400",
+      "value_score": 32,
       "value_signals": [
-        "CVE mentioned",
-        "Patch/update",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Leaked n8n API Tokens Exposed Live Instances to Credential Theft",
-      "link": "https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html",
-      "summary": "GitGuardian researchers found 321 n8n instances accepting API tokens exposed in public GitHub commits and demonstrated four ways attackers could use them to access sensitive data and downstream credentials without exploiting a software vulnerability. We scanned public GitHub commits for exposed n8n API tokens and identified 4,576 unique credentials associated with 1,255 hostnames. Of the 896",
-      "published": "Wed, 05 Aug 2026 16:05:29 +0530",
-      "value_score": 16,
-      "value_signals": [
+        "Phishing ×2",
         "Exploit wording"
       ]
     },
@@ -224,15 +230,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/",
       "summary": "A new version of the XCSSET malware is targeting thousands of macOS users through compromised Xcode projects and GitHub repositories. [...]",
       "published": "Tue, 04 Aug 2026 15:03:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "77 Open VSX extensions found harvesting developer info",
-      "link": "https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/",
-      "summary": "77 extensions on the Open VSX marketplace impersonated legitimate developer tools while transmitting information about the systems and development environments where they were installed. [...]",
-      "published": "Tue, 04 Aug 2026 14:50:55 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -321,6 +318,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
+      "summary": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
+      "published": "Wed, 05 Aug 2026 18:03:31 GMT",
+      "value_score": 24,
+      "value_signals": [
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Angola's Largest Telco Breached Hours Before IPO",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
       "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
@@ -386,15 +395,6 @@
       "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
       "summary": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
       "published": "Mon, 03 Aug 2026 20:31:12 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-      "summary": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
-      "published": "Mon, 03 Aug 2026 15:42:18 GMT",
       "value_score": 10,
       "value_signals": []
     },

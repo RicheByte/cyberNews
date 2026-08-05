@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-05 17:42 UTC |
+| 🕐 Last Updated | 2026-08-05 19:21 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`311 000 impacted` • `false positive claimed` • `infrastructure security agency` • `residential proxy node` • `control plane details` • `1 27 0` • `via stolen npm` • `underground cybercrime forums` • `twitter whistleblower complaint` • `potentially join calls`
+`311 000 impacted` • `false positive claimed` • `residential proxy node` • `control plane details` • `via stolen npm` • `underground cybercrime forums` • `twitter whistleblower complaint` • `potentially join calls` • `known bad indicators` • `cyber tests openai`
 
 ## 📄 Reports
 

@@ -1,10 +1,11 @@
 {
-  "last_updated": "2026-08-05 21:01",
+  "last_updated": "2026-08-05 22:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "311 000 impacted",
     "false positive claimed",
+    "accessing company accounts",
     "residential proxy node",
     "control plane details",
     "underground cybercrime forums",
@@ -13,57 +14,56 @@
     "known bad indicators",
     "cyber tests openai",
     "consumer tv boxes",
+    "cloud resources creating",
+    "least 165 organizations",
     "control c2 technique",
     "ban residential proxies",
     "device code phishing",
     "samsung account applications",
     "blockchain cybersecurity researchers",
     "infrastructure security agency",
-    "omada network devices",
-    "vendors aren't prepared",
-    "users meeting information",
-    "turn one's television"
+    "omada network devices"
   ],
   "trending": [
     {
       "keyword": "311 000 impacted",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "false positive claimed",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "accessing company accounts",
+      "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 136
+      "mentions": 137
     },
     {
       "keyword": "control plane details",
-      "mentions": 3
-    },
-    {
-      "keyword": "underground cybercrime forums",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2305
-    },
-    {
-      "keyword": "potentially join calls",
-      "mentions": 14
-    },
-    {
-      "keyword": "known bad indicators",
       "mentions": 4
     },
     {
-      "keyword": "cyber tests openai",
-      "mentions": 9
+      "keyword": "underground cybercrime forums",
+      "mentions": 4
     },
     {
-      "keyword": "consumer tv boxes",
-      "mentions": 58
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2306
+    },
+    {
+      "keyword": "potentially join calls",
+      "mentions": 15
+    },
+    {
+      "keyword": "known bad indicators",
+      "mentions": 5
+    },
+    {
+      "keyword": "cyber tests openai",
+      "mentions": 10
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+      "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
+      "published": "Wed, 05 Aug 2026 17:53:26 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
       "summary": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
@@ -223,17 +232,6 @@
       "value_signals": [
         "RCE ×2",
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Phishing service spoofs RingCentral to steal Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/",
-      "summary": "The Greatness phishing-as-a-service (PhaaS) platform has expanded from credential phishing to adversary-in-the-middle attacks and device-code phishing targeting Microsoft 365 accounts. [...]",
-      "published": "Tue, 04 Aug 2026 17:45:36 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×4"
       ]
     },
     {
@@ -351,6 +349,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+      "published": "Wed, 05 Aug 2026 17:57:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Angola's Largest Telco Breached Hours Before IPO",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
       "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
@@ -385,20 +392,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Attackers Exploit N-able Patch Bypass Flaw on RMM Servers",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw",
-      "summary": "Over the weekend, the vendor discovered another vector of authentication bypass CVE-2026-18577 that gives attackers administrator access.",
-      "published": "Mon, 03 Aug 2026 21:21:11 GMT",
-      "value_score": 57,
-      "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "Patch/update",
-        "Exploit wording"
       ]
     },
     {

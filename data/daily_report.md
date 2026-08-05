@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 21:01 UTC  
+> **Last Updated:** 2026-08-05 22:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **false positive claimed** • **residential proxy node** • **control plane details** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **control c2 technique** • **ban residential proxies** • **device code phishing** • **samsung account applications** • **blockchain cybersecurity researchers** • **infrastructure security agency** • **omada network devices** • **vendors aren't prepared** • **users meeting information** • **turn one's television**
+**311 000 impacted** • **false positive claimed** • **accessing company accounts** • **residential proxy node** • **control plane details** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **cloud resources creating** • **least 165 organizations** • **control c2 technique** • **ban residential proxies** • **device code phishing** • **samsung account applications** • **blockchain cybersecurity researchers** • **infrastructure security agency** • **omada network devices**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Canadian pleads guilty to Snowflake cloud data-theft attacks](https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/)
 - [Hackers run khunt post-exploitation toolkit from Oracle database](https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/)
 - [COLDCARD security audit phishing attack installs remote access tool](https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/)
 - [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
@@ -34,7 +35,6 @@
 - [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
 - [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
 - [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
-- [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
 
 ### Krebs on Security
 
@@ -52,11 +52,11 @@
 - [CSS: The Hidden Threat Lurking in Your Inbox](https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox)
 - [15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning](https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning)
 - [Flaws in Google APK for Python Unlock Agent-to-Agent Attack](https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack)
+- [AI Sends Global Crime Syndicates Into Fraud Nirvana](https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana)
 - [Angola's Largest Telco Breached Hours Before IPO](https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo)
 - [Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook](https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook)
 - [AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls](https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls)
 - [Device Code Phishing Up 1,500% in 2026; Vishing Doubles](https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles)
-- [Attackers Exploit N-able Patch Bypass Flaw on RMM Servers](https://www.darkreading.com/vulnerabilities-threats/attackers-exploit-n-able-patch-bypass-flaw)
 
 ### Security Week
 

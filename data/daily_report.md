@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 15:58 UTC  
+> **Last Updated:** 2026-08-05 17:42 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **false positive claimed** • **infrastructure security agency** • **residential proxy node** • **1 27 0** • **omada network devices** • **via stolen npm** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **consumer tv boxes** • **bystander publicly warned** • **cyber tests openai** • **ban residential proxies** • **public github commits** • **1 255 hostnames** • **1 200 hosts** • **turn one's television** • **rewritten branch history** • **rapidly evolving toolkits**
+**311 000 impacted** • **false positive claimed** • **infrastructure security agency** • **residential proxy node** • **control plane details** • **1 27 0** • **via stolen npm** • **underground cybercrime forums** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **cyber tests openai** • **consumer tv boxes** • **control c2 technique** • **ban residential proxies** • **omada network devices** • **public github commits** • **device code phishing** • **1 255 hostnames** • **1 200 hosts**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
+- [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
 - [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
-- [Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
+- [Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
 - [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
 - [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
 - [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
 - [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
-- [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
-- [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
 
 ### BleepingComputer
 

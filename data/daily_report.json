@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05 15:58",
+  "last_updated": "2026-08-05 17:42",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,84 @@
     "false positive claimed",
     "infrastructure security agency",
     "residential proxy node",
+    "control plane details",
     "1 27 0",
-    "omada network devices",
     "via stolen npm",
+    "underground cybercrime forums",
     "twitter whistleblower complaint",
     "potentially join calls",
     "known bad indicators",
-    "consumer tv boxes",
-    "bystander publicly warned",
     "cyber tests openai",
+    "consumer tv boxes",
+    "control c2 technique",
     "ban residential proxies",
+    "omada network devices",
     "public github commits",
+    "device code phishing",
     "1 255 hostnames",
-    "1 200 hosts",
-    "turn one's television",
-    "rewritten branch history",
-    "rapidly evolving toolkits"
+    "1 200 hosts"
   ],
   "trending": [
     {
       "keyword": "311 000 impacted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "false positive claimed",
-      "mentions": 1
-    },
-    {
-      "keyword": "infrastructure security agency",
-      "mentions": 1
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 133
-    },
-    {
-      "keyword": "1 27 0",
-      "mentions": 3
-    },
-    {
-      "keyword": "omada network devices",
-      "mentions": 7
-    },
-    {
-      "keyword": "via stolen npm",
       "mentions": 2
     },
     {
+      "keyword": "infrastructure security agency",
+      "mentions": 2
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 134
+    },
+    {
+      "keyword": "control plane details",
+      "mentions": 1
+    },
+    {
+      "keyword": "1 27 0",
+      "mentions": 4
+    },
+    {
+      "keyword": "via stolen npm",
+      "mentions": 3
+    },
+    {
+      "keyword": "underground cybercrime forums",
+      "mentions": 1
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2302
+      "mentions": 2303
     },
     {
       "keyword": "potentially join calls",
-      "mentions": 11
-    },
-    {
-      "keyword": "known bad indicators",
-      "mentions": 1
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude",
+      "published": "Wed, 05 Aug 2026 21:06:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
+      "published": "Wed, 05 Aug 2026 20:44:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
@@ -81,9 +99,9 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
       "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm package \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
       "published": "Wed, 05 Aug 2026 19:11:27 +0530",
       "value_score": 10,
       "value_signals": []
@@ -133,26 +151,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data",
-      "link": "https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html",
-      "summary": "A cluster of 77 extensions on the Open VSX marketplace has been found to impersonate legitimate developer tools while transmitting information about the systems and development environments on which they were installed. The \"evil twin\" extensions were uploaded to the repository between July 26 and August 1, 2026, according to Manifold Security. The packages have been removed from Open VSX as of",
-      "published": "Wed, 05 Aug 2026 14:53:03 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself",
-      "link": "https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html",
-      "summary": "An agent running Anthropic's Claude Mythos 5 spent 34 hours trying to get a malware dropper merged into a real open-source project during a cyber evaluation by the UK's AI Security Institute. When a bystander publicly warned that the code was malicious, the agent denied it, force-pushed a rewritten branch history to erase the evidence, and posted from a second account it controlled to vouch for",
-      "published": "Wed, 05 Aug 2026 13:23:50 +0530",
-      "value_score": 22,
-      "value_signals": [
-        "Backdoor"
       ]
     },
     {

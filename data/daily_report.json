@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-08-05 13:54",
+  "last_updated": "2026-08-05 15:58",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "311 000 impacted",
-    "omada network devices",
-    "least august 2025",
-    "supply chain attack",
+    "false positive claimed",
+    "infrastructure security agency",
     "residential proxy node",
     "1 27 0",
+    "omada network devices",
     "via stolen npm",
     "twitter whistleblower complaint",
-    "service phaas platform",
     "potentially join calls",
+    "known bad indicators",
     "consumer tv boxes",
     "bystander publicly warned",
-    "ai generated websites",
-    "n central flaws",
     "cyber tests openai",
     "ban residential proxies",
     "public github commits",
     "1 255 hostnames",
     "1 200 hosts",
-    "overseas chinese users"
+    "turn one's television",
+    "rewritten branch history",
+    "rapidly evolving toolkits"
   ],
   "trending": [
     {
       "keyword": "311 000 impacted",
-      "mentions": 2
-    },
-    {
-      "keyword": "omada network devices",
-      "mentions": 6
-    },
-    {
-      "keyword": "least august 2025",
       "mentions": 3
     },
     {
-      "keyword": "supply chain attack",
-      "mentions": 81
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 132
-    },
-    {
-      "keyword": "1 27 0",
-      "mentions": 2
-    },
-    {
-      "keyword": "via stolen npm",
+      "keyword": "false positive claimed",
       "mentions": 1
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2301
+      "keyword": "infrastructure security agency",
+      "mentions": 1
     },
     {
-      "keyword": "service phaas platform",
-      "mentions": 8
+      "keyword": "residential proxy node",
+      "mentions": 133
+    },
+    {
+      "keyword": "1 27 0",
+      "mentions": 3
+    },
+    {
+      "keyword": "omada network devices",
+      "mentions": 7
+    },
+    {
+      "keyword": "via stolen npm",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2302
     },
     {
       "keyword": "potentially join calls",
-      "mentions": 10
+      "mentions": 11
+    },
+    {
+      "keyword": "known bad indicators",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
+      "published": "Wed, 05 Aug 2026 19:57:30 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses",
+      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm package \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+      "published": "Wed, 05 Aug 2026 19:11:27 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
@@ -135,29 +156,36 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA), on August 5, 2026, added three flaws to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation in the wild. The list of vulnerabilities is as follows - CVE-2026-9198 (CVSS score: 9.8) - A code injection vulnerability in Langflow that allows unauthenticated attackers to achieve full remote",
-      "published": "Wed, 05 Aug 2026 13:10:39 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+      "published": "Wed, 05 Aug 2026 11:51:33 -0400",
+      "value_score": 61,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
-        "RCE",
-        "CISA/KEV ×4",
+        "Active exploitation",
+        "CISA/KEV",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
-      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
-      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a",
-      "published": "Wed, 05 Aug 2026 11:17:19 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Google Blogger locks hundreds of blogs in malware false positive",
+      "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+      "summary": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+      "published": "Wed, 05 Aug 2026 10:59:29 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "How AI-powered phishing killed blocklists for good",
+      "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "summary": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
+      "published": "Wed, 05 Aug 2026 10:01:11 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Backdoor"
+        "Phishing ×2"
       ]
     },
     {
@@ -209,35 +237,6 @@
       "published": "Tue, 04 Aug 2026 14:50:55 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
-      "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
-      "summary": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
-      "published": "Tue, 04 Aug 2026 11:24:35 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Varonis Agent IBAC keeps AI agents within their intended boundaries",
-      "link": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
-      "summary": "AI agents need broad access to be useful, but traditional access controls cannot determine whether an action aligns with a user's intent. Varonis explains how Agent IBAC detects intent drift and enforces real-time guardrails to keep agents within their intended boundaries. [...]",
-      "published": "Tue, 04 Aug 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
-      "summary": "Microsoft has linked a global campaign targeting hospitality Wi-Fi networks to the Russian threat actor Midnight Blizzard, also known as APT29. [...]",
-      "published": "Mon, 03 Aug 2026 20:17:15 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -403,6 +402,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
+      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
+      "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 3) appeared first on SecurityWeek .",
+      "published": "Wed, 05 Aug 2026 14:36:29 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
       "link": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
       "summary": "CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield. The post The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict appeared first on SecurityWeek .",
@@ -468,15 +476,6 @@
       "link": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
       "summary": "The malware was designed to steal and exfiltrate secrets, and to propagate itself via stolen NPM and GitHub credentials. The post Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack appeared first on SecurityWeek .",
       "published": "Wed, 05 Aug 2026 08:56:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
-      "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
-      "summary": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek .",
-      "published": "Wed, 05 Aug 2026 07:24:52 +0000",
       "value_score": 10,
       "value_signals": []
     },

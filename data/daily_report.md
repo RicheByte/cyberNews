@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 13:54 UTC  
+> **Last Updated:** 2026-08-05 15:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **omada network devices** • **least august 2025** • **supply chain attack** • **residential proxy node** • **1 27 0** • **via stolen npm** • **twitter whistleblower complaint** • **service phaas platform** • **potentially join calls** • **consumer tv boxes** • **bystander publicly warned** • **ai generated websites** • **n central flaws** • **cyber tests openai** • **ban residential proxies** • **public github commits** • **1 255 hostnames** • **1 200 hosts** • **overseas chinese users**
+**311 000 impacted** • **false positive claimed** • **infrastructure security agency** • **residential proxy node** • **1 27 0** • **omada network devices** • **via stolen npm** • **twitter whistleblower complaint** • **potentially join calls** • **known bad indicators** • **consumer tv boxes** • **bystander publicly warned** • **cyber tests openai** • **ban residential proxies** • **public github commits** • **1 255 hostnames** • **1 200 hosts** • **turn one's television** • **rewritten branch history** • **rapidly evolving toolkits**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
+- [Trojanized npm Packages Decode C2 IP From Ethereum Recipient Addresses](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
 - [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
 - [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
 - [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
 - [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
 - [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
 - [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
-- [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
-- [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
 
 ### BleepingComputer
 
+- [CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/)
+- [Google Blogger locks hundreds of blogs in malware false positive](https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/)
+- [How AI-powered phishing killed blocklists for good](https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/)
 - [OpenAI, Anthropic AI agents targeted real people and systems in cyber tests](https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/)
 - [TP-Link patches Omada ZTP flaws allowing hackers to breach networks](https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/)
 - [Phishing service spoofs RingCentral to steal Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/phishing-service-spoofs-ringcentral-to-steal-microsoft-365-accounts/)
 - [New XCSSET variant targets macOS devs via compromised Xcode projects](https://www.bleepingcomputer.com/news/security/new-xcsset-variant-targets-macos-devs-via-compromised-xcode-projects/)
 - [77 Open VSX extensions found harvesting developer info](https://www.bleepingcomputer.com/news/security/77-open-vsx-extensions-found-harvesting-developer-info/)
-- [Massive ChainDrop npm supply-chain attack infects hundreds of packages](https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/)
-- [Varonis Agent IBAC keeps AI agents within their intended boundaries](https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/)
-- [Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts](https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
 - [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
 - [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
 - [311,000 Impacted by Brown Health Medical Group-MA Data Breach](https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/)
@@ -67,7 +68,6 @@
 - [AI Agents Targeted Real People and Projects During Cybersecurity Tests](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
 - [CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/)
 - [Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack](https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/)
-- [Water Sector Cyberattacks Reportedly Hit at Least 12 States](https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/)
 
 ### Threatpost
 

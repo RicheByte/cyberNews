@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2301,
+      "count": 2302,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -24021,7 +24021,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24041,7 +24041,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24333,7 +24333,7 @@
       ]
     },
     "turn one's television": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24342,7 +24342,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-05"
       ]
     },
     "anthropic's claude cowork": {
@@ -25158,7 +25159,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25613,7 +25614,7 @@
       ]
     },
     "potentially join calls": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-04",
         "2026-08-05"
@@ -25725,14 +25726,14 @@
       ]
     },
     "omada network devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-04",
         "2026-08-05"
       ]
     },
     "cyber tests openai": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-05"
       ]
@@ -25744,19 +25745,19 @@
       ]
     },
     "311 000 impacted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "1 27 0": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "bystander publicly warned": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
@@ -25774,25 +25775,25 @@
       ]
     },
     "public github commits": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "1 255 hostnames": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-05"
       ]
     },
     "via stolen npm": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-05"
       ]
     },
     "1 200 hosts": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-05"
       ]
@@ -25802,20 +25803,39 @@
       "dates": [
         "2026-08-05"
       ]
+    },
+    "false positive claimed": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "infrastructure security agency": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "known bad indicators": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "rewritten branch history": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
+    },
+    "rapidly evolving toolkits": {
+      "count": 1,
+      "dates": [
+        "2026-08-05"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-25 14:57",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "sprawling phishing campaign",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-25 16:51",
       "articles": 48,
@@ -26903,6 +26923,17 @@
         "least august 2025",
         "supply chain attack",
         "residential proxy node"
+      ]
+    },
+    {
+      "timestamp": "2026-08-05 15:58",
+      "articles": 48,
+      "top_keywords": [
+        "311 000 impacted",
+        "false positive claimed",
+        "infrastructure security agency",
+        "residential proxy node",
+        "1 27 0"
       ]
     }
   ]

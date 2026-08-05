@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-05 13:54 UTC |
+| 🕐 Last Updated | 2026-08-05 15:58 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`311 000 impacted` • `omada network devices` • `least august 2025` • `supply chain attack` • `residential proxy node` • `1 27 0` • `via stolen npm` • `twitter whistleblower complaint` • `service phaas platform` • `potentially join calls`
+`311 000 impacted` • `false positive claimed` • `infrastructure security agency` • `residential proxy node` • `1 27 0` • `omada network devices` • `via stolen npm` • `twitter whistleblower complaint` • `potentially join calls` • `known bad indicators`
 
 ## 📄 Reports
 

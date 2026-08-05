@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-08-05 11:53",
+  "last_updated": "2026-08-05 13:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "311 000 impacted",
-    "service phaas platform",
     "omada network devices",
-    "supply chain attack",
     "least august 2025",
-    "rethinking ai security",
+    "supply chain attack",
     "residential proxy node",
     "1 27 0",
+    "via stolen npm",
     "twitter whistleblower complaint",
+    "service phaas platform",
     "potentially join calls",
-    "cyber tests openai",
     "consumer tv boxes",
     "bystander publicly warned",
-    "1 300 packages",
-    "access sensitive data",
     "ai generated websites",
     "n central flaws",
+    "cyber tests openai",
     "ban residential proxies",
     "public github commits",
-    "1 255 hostnames"
+    "1 255 hostnames",
+    "1 200 hosts",
+    "overseas chinese users"
   ],
   "trending": [
     {
       "keyword": "311 000 impacted",
-      "mentions": 1
-    },
-    {
-      "keyword": "service phaas platform",
-      "mentions": 7
-    },
-    {
-      "keyword": "omada network devices",
-      "mentions": 5
-    },
-    {
-      "keyword": "supply chain attack",
-      "mentions": 80
-    },
-    {
-      "keyword": "least august 2025",
       "mentions": 2
     },
     {
-      "keyword": "rethinking ai security",
-      "mentions": 7
+      "keyword": "omada network devices",
+      "mentions": 6
+    },
+    {
+      "keyword": "least august 2025",
+      "mentions": 3
+    },
+    {
+      "keyword": "supply chain attack",
+      "mentions": 81
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 131
+      "mentions": 132
     },
     {
       "keyword": "1 27 0",
+      "mentions": 2
+    },
+    {
+      "keyword": "via stolen npm",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2300
+      "mentions": 2301
+    },
+    {
+      "keyword": "service phaas platform",
+      "mentions": 8
     },
     {
       "keyword": "potentially join calls",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
+      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
+      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
+      "published": "Wed, 05 Aug 2026 17:13:27 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
+      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
+      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
+      "published": "Wed, 05 Aug 2026 17:13:19 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup",
@@ -136,26 +159,6 @@
       "value_signals": [
         "Backdoor"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
-      "link": "https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html",
-      "summary": "The commercial phishing-as-a-service (PhaaS) toolkit known as Greatness has become the latest crimeware solution to add support for device code phishing, a rapidly growing cyber threat that abuses the legitimate OAuth 2.0 Device Authorization Grant to bypass Multi-Factor Authentication (MFA) and seize control of user accounts. \"Greatness supports AiTM [adversary-in-the-middle] credential and",
-      "published": "Tue, 04 Aug 2026 22:57:39 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks",
-      "link": "https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html",
-      "summary": "A credential-stealing npm worm that first appeared in keyv@6.0.0 spread beyond the Keyv and Cacheable namespaces into hundreds of packages across multiple organizations on August 4, 2026. SafeDep verified 353 poisoned versions across 79 package names in the npm registry. Its monitoring put the wider footprint at 442 versions across 353 names, while Aikido later reported at least 868 packages",
-      "published": "Tue, 04 Aug 2026 19:00:23 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -400,6 +403,24 @@
     },
     {
       "source": "Security Week",
+      "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
+      "link": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
+      "summary": "CrowdStrike co-founder Dmitri Alperovitch discusses how cyber operations support kinetic warfare, signal coming conflicts, and reshape the global battlefield. The post The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict appeared first on SecurityWeek .",
+      "published": "Wed, 05 Aug 2026 13:00:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts",
+      "link": "https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/",
+      "summary": "Palo Alto Networks researchers have demonstrated attacks against Google’s synced passkey implementation. The post New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts appeared first on SecurityWeek .",
+      "published": "Wed, 05 Aug 2026 12:48:49 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
       "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
       "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek .",
@@ -420,9 +441,9 @@
     },
     {
       "source": "Security Week",
-      "title": "AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations",
+      "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
       "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
-      "summary": "In one instance, an unsanctioned model attempted to inject malicious code into an open source repository. The post AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations appeared first on SecurityWeek .",
+      "summary": "AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects. The post AI Agents Targeted Real People and Projects During Cybersecurity Tests appeared first on SecurityWeek .",
       "published": "Wed, 05 Aug 2026 10:33:41 +0000",
       "value_score": 10,
       "value_signals": []
@@ -456,24 +477,6 @@
       "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
       "summary": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek .",
       "published": "Wed, 05 Aug 2026 07:24:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
-      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
-      "summary": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 2) appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 16:49:39 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
-      "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
-      "summary": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 16:15:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 11:53 UTC  
+> **Last Updated:** 2026-08-05 13:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **service phaas platform** • **omada network devices** • **supply chain attack** • **least august 2025** • **rethinking ai security** • **residential proxy node** • **1 27 0** • **twitter whistleblower complaint** • **potentially join calls** • **cyber tests openai** • **consumer tv boxes** • **bystander publicly warned** • **1 300 packages** • **access sensitive data** • **ai generated websites** • **n central flaws** • **ban residential proxies** • **public github commits** • **1 255 hostnames**
+**311 000 impacted** • **omada network devices** • **least august 2025** • **supply chain attack** • **residential proxy node** • **1 27 0** • **via stolen npm** • **twitter whistleblower complaint** • **service phaas platform** • **potentially join calls** • **consumer tv boxes** • **bystander publicly warned** • **ai generated websites** • **n central flaws** • **cyber tests openai** • **ban residential proxies** • **public github commits** • **1 255 hostnames** • **1 200 hosts** • **overseas chinese users**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
+- [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
 - [Critical Gitea Flaw Let Unauthenticated Attackers Read Server Files via Org-Mode Markup](https://thehackernews.com/2026/08/critical-gitea-flaw-let-unauthenticated.html)
 - [Leaked n8n API Tokens Exposed Live Instances to Credential Theft](https://thehackernews.com/2026/08/leaked-n8n-api-tokens-exposed-live.html)
 - [Open VSX Removes 77 Malicious Evil Twin Extensions Exfiltrating Developer Data](https://thehackernews.com/2026/08/open-vsx-removes-77-malicious-evil-twin.html)
 - [Claude Mythos 5 Tried to Backdoor a Real Open-Source Project in Testing, Then Vouched for Itself](https://thehackernews.com/2026/08/claude-mythos-5-tried-to-backdoor-real.html)
 - [CISA Flags Langflow RCE, Tomcat, and N-central Flaws as Actively Exploited](https://thehackernews.com/2026/08/cisa-flags-langflow-rce-tomcat-and-n.html)
 - [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
-- [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
-- [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
+- [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
 - [311,000 Impacted by Brown Health Medical Group-MA Data Breach](https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/)
 - [Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data](https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/)
-- [AI Security Institute Reports Anthropic and OpenAI Models Going Rogue Against Organizations](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
+- [AI Agents Targeted Real People and Projects During Cybersecurity Tests](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
 - [CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/)
 - [Over 400 NPM Packages Infected in ChainDrop Supply Chain Attack](https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/)
 - [Water Sector Cyberattacks Reportedly Hit at Least 12 States](https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/)
-- [Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/)
-- [Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer](https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/)
 
 ### Threatpost
 

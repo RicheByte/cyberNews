@@ -1,12 +1,14 @@
 {
-  "last_updated": "2026-08-05 05:20",
+  "last_updated": "2026-08-05 08:26",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "service phaas platform",
+    "omada network devices",
     "accelerate product innovation",
     "residential proxy node",
     "rethinking ai security",
-    "omada network devices",
+    "least august 2025",
     "inexperienced attackers dismissed",
     "vs code hooks",
     "twitter whistleblower complaint",
@@ -19,54 +21,63 @@
     "criminal charges stemming",
     "consumer tv boxes",
     "codenamed smoke screen",
-    "driving ciso burnout",
     "ban residential proxies",
-    "ai generated websites",
-    "service phaas platform"
+    "ai generated websites"
   ],
   "trending": [
     {
-      "keyword": "accelerate product innovation",
+      "keyword": "service phaas platform",
       "mentions": 6
-    },
-    {
-      "keyword": "residential proxy node",
-      "mentions": 129
-    },
-    {
-      "keyword": "rethinking ai security",
-      "mentions": 5
     },
     {
       "keyword": "omada network devices",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "accelerate product innovation",
+      "mentions": 7
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 130
+    },
+    {
+      "keyword": "rethinking ai security",
+      "mentions": 6
+    },
+    {
+      "keyword": "least august 2025",
+      "mentions": 1
     },
     {
       "keyword": "inexperienced attackers dismissed",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "vs code hooks",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2298
-    },
-    {
-      "keyword": "system maintenance utilities",
-      "mentions": 6
-    },
-    {
-      "keyword": "script kiddies sat",
       "mentions": 7
     },
     {
-      "keyword": "potentially join calls",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2299
+    },
+    {
+      "keyword": "system maintenance utilities",
       "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer",
+      "link": "https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html",
+      "summary": "Cybersecurity researchers have disclosed what has been described as a \"long-standing supply chain attack\" on QuickFox, a virtual private network (VPN) and network acceleration tool designed for overseas Chinese users. According to Fortinet FortiGuard Labs, the supply chain attack has been ongoing since at least August 2025 and involves a trojanized version of the application to deliver FDMTP, a",
+      "published": "Wed, 05 Aug 2026 11:17:19 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens",
@@ -136,21 +147,6 @@
       "published": "Tue, 04 Aug 2026 14:33:23 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
-      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
-      "published": "Tue, 04 Aug 2026 12:30:13 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Active exploitation",
-        "CISA/KEV ×5",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -316,6 +312,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Angola's Largest Telco Breached Hours Before IPO",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
+      "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
+      "published": "Wed, 05 Aug 2026 08:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
       "summary": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
@@ -385,15 +390,13 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Is There Really a Fix for CISO Fatigue?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
-      "summary": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
-      "published": "Mon, 03 Aug 2026 14:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
+      "source": "Security Week",
+      "title": "Water Sector Cyberattacks Reportedly Hit at Least 12 States",
+      "link": "https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/",
+      "summary": "Georgia has been confirmed as one of the attacked states after Clayton County reported a pump station disruption. The post Water Sector Cyberattacks Reportedly Hit at Least 12 States appeared first on SecurityWeek .",
+      "published": "Wed, 05 Aug 2026 07:24:52 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -454,15 +457,6 @@
       "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
       "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
       "summary": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek .",
-      "published": "Tue, 04 Aug 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Obsidian Security Raises $85 Million at $1.1 Billion Valuation",
-      "link": "https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/",
-      "summary": "Obsidian Security has developed a platform for governing AI agents across third-party applications. The post Obsidian Security Raises $85 Million at $1.1 Billion Valuation appeared first on SecurityWeek .",
       "published": "Tue, 04 Aug 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []

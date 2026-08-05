@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-05 05:20 UTC  
+> **Last Updated:** 2026-08-05 08:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**accelerate product innovation** • **residential proxy node** • **rethinking ai security** • **omada network devices** • **inexperienced attackers dismissed** • **vs code hooks** • **twitter whistleblower complaint** • **system maintenance utilities** • **script kiddies sat** • **potentially join calls** • **ping identity shares** • **facilitate financial fraud** • **cyber tests openai** • **criminal charges stemming** • **consumer tv boxes** • **codenamed smoke screen** • **driving ciso burnout** • **ban residential proxies** • **ai generated websites** • **service phaas platform**
+**service phaas platform** • **omada network devices** • **accelerate product innovation** • **residential proxy node** • **rethinking ai security** • **least august 2025** • **inexperienced attackers dismissed** • **vs code hooks** • **twitter whistleblower complaint** • **system maintenance utilities** • **script kiddies sat** • **potentially join calls** • **ping identity shares** • **facilitate financial fraud** • **cyber tests openai** • **criminal charges stemming** • **consumer tv boxes** • **codenamed smoke screen** • **ban residential proxies** • **ai generated websites**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [QuickFox Supply Chain Attack Delivers FDMTP Backdoor via Trojanized Windows Installer](https://thehackernews.com/2026/08/quickfox-supply-chain-attack-delivers.html)
 - [Greatness PhaaS Adds Device Code Phishing to Bypass MFA and Steal Tokens](https://thehackernews.com/2026/08/greatness-phaas-adds-device-code.html)
 - [Keyv-Linked npm Worm Poisons Hundreds of Packages, Plants Claude Code and VS Code Hooks](https://thehackernews.com/2026/08/keyv-linked-npm-worm-poisons-hundreds.html)
 - [Fake Adobe and Zoom Updates Install ScreenConnect for Persistent Remote Access](https://thehackernews.com/2026/08/fake-adobe-and-zoom-updates-install.html)
@@ -23,7 +24,6 @@
 - [Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent](https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html)
 - [New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root](https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html)
 - [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html)
-- [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Angola's Largest Telco Breached Hours Before IPO](https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo)
 - [Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook](https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook)
 - [AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls](https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls)
 - [Device Code Phishing Up 1,500% in 2026; Vishing Doubles](https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles)
@@ -56,10 +57,10 @@
 - [New Tool Traces AI Videos Back to Their Source](https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection)
 - [Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues](https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps)
 - [Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm](https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm)
-- [Is There Really a Fix for CISO Fatigue?](https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue)
 
 ### Security Week
 
+- [Water Sector Cyberattacks Reportedly Hit at Least 12 States](https://www.securityweek.com/water-sector-cyberattacks-reportedly-hit-at-least-12-states/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/)
 - [Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer](https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/)
 - [Oligo Raises $60 Million for Runtime Security](https://www.securityweek.com/oligo-raises-60-million-for-runtime-security/)
@@ -67,7 +68,6 @@
 - [Weaponized Email AI Assistants Could Help Attackers Hijack Accounts](https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/)
 - [Zenity Raises $125 Million in Series C Funding](https://www.securityweek.com/zenity-raises-125-million-in-series-c-funding/)
 - [TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover](https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/)
-- [Obsidian Security Raises $85 Million at $1.1 Billion Valuation](https://www.securityweek.com/obsidian-security-raises-85-million-at-1-1-billion-valuation/)
 
 ### Threatpost
 

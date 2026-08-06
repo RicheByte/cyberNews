@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-06 10:33 UTC  
+> **Last Updated:** 2026-08-06 13:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**running ransom cartel** • **false positive claimed** • **snowflake customer accounts** • **residential proxy node** • **accessing company accounts** • **least 495 000** • **vendors aren't prepared** • **twitter whistleblower complaint** • **known bad indicators** • **consumer tv boxes** • **130 companies tangled** • **remote code execution** • **concept poc code** • **ban residential proxies** • **samsung account applications** • **organization's oracle database** • **khunt aws google** • **least 165 organizations** • **vercel let untrusted** • **testing environment set**
+**running ransom cartel** • **false positive claimed** • **residential proxy node** • **vercel let untrusted** • **vendors aren't prepared** • **twitter whistleblower complaint** • **safari web traffic** • **malicious instructions hidden** • **known bad indicators** • **consumer tv boxes** • **130 companies tangled** • **infrastructure security agency** • **ban residential proxies** • **samsung account applications** • **organization's oracle database** • **least 165 organizations** • **khunt aws google** • **mobile carrier network** • **vulnerability discoveries aided** • **user's internet connection**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities](https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html)
+- [CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps](https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html)
+- [Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses](https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html)
+- [AI Recommendation Poisoning: How "Ask AI" Buttons Silently Alter LLM Memory](https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html)
 - [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
 - [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
 - [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
 - [Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
-- [CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
-- [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
-- [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
-- [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
+- [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
+- [Critical Paperclip Flaw Allowed Admin Access, Code Execution](https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/)
 - [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
 - [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
 - [Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/)
 - [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
 - [How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones](https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/)
-- [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
-- [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
-- [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
 
 ### Threatpost
 

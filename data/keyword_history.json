@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2309,
+      "count": 2310,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2607,7 +2607,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 407,
+      "count": 408,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -23577,7 +23577,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23589,7 +23589,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
-        "2026-08-04"
+        "2026-08-04",
+        "2026-08-06"
       ]
     },
     "shodan harvester keeps": {
@@ -24026,7 +24027,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24047,7 +24048,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25167,7 +25168,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25817,21 +25818,21 @@
       ]
     },
     "false positive claimed": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-05",
         "2026-08-06"
       ]
     },
     "infrastructure security agency": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-05",
         "2026-08-06"
       ]
     },
     "known bad indicators": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25877,7 +25878,7 @@
       ]
     },
     "samsung account applications": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25891,7 +25892,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25918,14 +25919,14 @@
       ]
     },
     "least 165 organizations": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-05",
         "2026-08-06"
       ]
     },
     "running ransom cartel": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-06"
       ]
@@ -25949,19 +25950,19 @@
       ]
     },
     "organization's oracle database": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-06"
       ]
     },
     "khunt aws google": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-06"
       ]
     },
     "vercel let untrusted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-06"
       ]
@@ -25971,20 +25972,33 @@
       "dates": [
         "2026-08-06"
       ]
+    },
+    "safari web traffic": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "malicious instructions hidden": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "mobile carrier network": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "user's internet connection": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-26 11:15",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "twitter whistleblower complaint",
-        "shinyhunters extortion group"
-      ]
-    },
     {
       "timestamp": "2026-07-26 13:07",
       "articles": 48,
@@ -27072,6 +27086,17 @@
         "snowflake customer accounts",
         "residential proxy node",
         "accessing company accounts"
+      ]
+    },
+    {
+      "timestamp": "2026-08-06 13:52",
+      "articles": 48,
+      "top_keywords": [
+        "running ransom cartel",
+        "false positive claimed",
+        "residential proxy node",
+        "vercel let untrusted",
+        "vendors aren't prepared"
       ]
     }
   ]

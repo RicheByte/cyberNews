@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-06 10:33 UTC |
+| 🕐 Last Updated | 2026-08-06 13:52 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`running ransom cartel` • `false positive claimed` • `snowflake customer accounts` • `residential proxy node` • `accessing company accounts` • `least 495 000` • `vendors aren't prepared` • `twitter whistleblower complaint` • `known bad indicators` • `consumer tv boxes`
+`running ransom cartel` • `false positive claimed` • `residential proxy node` • `vercel let untrusted` • `vendors aren't prepared` • `twitter whistleblower complaint` • `safari web traffic` • `malicious instructions hidden` • `known bad indicators` • `consumer tv boxes`
 
 ## 📄 Reports
 

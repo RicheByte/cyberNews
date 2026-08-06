@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-06 13:52 UTC |
+| 🕐 Last Updated | 2026-08-06 23:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`running ransom cartel` • `false positive claimed` • `residential proxy node` • `vercel let untrusted` • `vendors aren't prepared` • `twitter whistleblower complaint` • `safari web traffic` • `malicious instructions hidden` • `known bad indicators` • `consumer tv boxes`
+`outpacing law enforcement` • `ios xe software` • `vendors aren't prepared` • `us water utilities` • `twitter whistleblower complaint` • `text history records` • `mobile carrier network` • `exploited without authentication` • `chatgpt secure sandbox` • `chain analysis puts`
 
 ## 📄 Reports
 

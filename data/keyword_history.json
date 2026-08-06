@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 689,
+      "count": 690,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -311,11 +311,12 @@
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-06"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2310,
+      "count": 2311,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2607,7 +2608,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 408,
+      "count": 409,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -7308,14 +7309,15 @@
       ]
     },
     "exploited without authentication": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-02-11",
         "2026-05-21",
         "2026-05-22",
         "2026-06-02",
         "2026-06-03",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-08-06"
       ]
     },
     "vulnerabilities found recently": {
@@ -23577,7 +23579,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24319,11 +24321,12 @@
       ]
     },
     "guilty pleas came": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-23",
         "2026-07-24",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-08-06"
       ]
     },
     "email theft cisa": {
@@ -24341,7 +24344,7 @@
       ]
     },
     "turn one's television": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25152,12 +25155,13 @@
       ]
     },
     "ai generated websites": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-30",
         "2026-07-31",
         "2026-08-04",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-06"
       ]
     },
     "infect targeted visitors": {
@@ -25892,7 +25896,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25968,7 +25972,7 @@
       ]
     },
     "testing environment set": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-06"
       ]
@@ -25986,7 +25990,7 @@
       ]
     },
     "mobile carrier network": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-06"
       ]
@@ -25996,20 +26000,63 @@
       "dates": [
         "2026-08-06"
       ]
+    },
+    "outpacing law enforcement": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "ios xe software": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "us water utilities": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "text history records": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "chatgpt secure sandbox": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "chain analysis puts": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "democratic party built": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "supply chain resilience": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "stories apparently opening": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-26 13:07",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "twitter whistleblower complaint",
-        "shinyhunters extortion group"
-      ]
-    },
     {
       "timestamp": "2026-07-26 14:59",
       "articles": 48,
@@ -27097,6 +27144,17 @@
         "residential proxy node",
         "vercel let untrusted",
         "vendors aren't prepared"
+      ]
+    },
+    {
+      "timestamp": "2026-08-06 23:53",
+      "articles": 48,
+      "top_keywords": [
+        "outpacing law enforcement",
+        "ios xe software",
+        "vendors aren't prepared",
+        "us water utilities",
+        "twitter whistleblower complaint"
       ]
     }
   ]

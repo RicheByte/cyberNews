@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05 22:52",
+  "last_updated": "2026-08-06 02:03",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "false positive claimed",
     "accessing company accounts",
     "residential proxy node",
-    "control plane details",
+    "vendors aren't prepared",
     "underground cybercrime forums",
     "twitter whistleblower complaint",
-    "potentially join calls",
+    "least 165 organizations",
     "known bad indicators",
     "cyber tests openai",
+    "control plane details",
     "consumer tv boxes",
     "cloud resources creating",
-    "least 165 organizations",
-    "control c2 technique",
+    "130 companies tangled",
     "ban residential proxies",
-    "device code phishing",
     "samsung account applications",
     "blockchain cybersecurity researchers",
     "infrastructure security agency",
-    "omada network devices"
+    "turn one's television",
+    "sonnet 4 6"
   ],
   "trending": [
     {
       "keyword": "311 000 impacted",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "false positive claimed",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "accessing company accounts",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 137
+      "mentions": 138
     },
     {
-      "keyword": "control plane details",
-      "mentions": 4
+      "keyword": "vendors aren't prepared",
+      "mentions": 2
     },
     {
       "keyword": "underground cybercrime forums",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2306
-    },
-    {
-      "keyword": "potentially join calls",
-      "mentions": 15
-    },
-    {
-      "keyword": "known bad indicators",
       "mentions": 5
     },
     {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2307
+    },
+    {
+      "keyword": "least 165 organizations",
+      "mentions": 2
+    },
+    {
+      "keyword": "known bad indicators",
+      "mentions": 6
+    },
+    {
       "keyword": "cyber tests openai",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -149,6 +149,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
+      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
+      "published": "Wed, 05 Aug 2026 19:00:50 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Canadian pleads guilty to Snowflake cloud data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
       "summary": "A Canadian man pleaded guilty today to his role in accessing company accounts at cloud storage provider Snowflake and stealing data from at least 165 organizations in a scheme to extort millions of dollars from victims. [...]",
@@ -221,18 +232,6 @@
       "published": "Tue, 04 Aug 2026 19:39:59 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TP-Link patches Omada ZTP flaws allowing hackers to breach networks",
-      "link": "https://www.bleepingcomputer.com/news/security/tp-link-patches-omada-ztp-flaws-allowing-hackers-to-breach-networks/",
-      "summary": "TP-Link has patched 15 vulnerabilities in the zero-touch provisioning (ZTP) mechanism of its Omada network devices that could be chained with previously disclosed flaws to achieve remote code execution (RCE). [...]",
-      "published": "Tue, 04 Aug 2026 18:18:20 -0400",
-      "value_score": 62,
-      "value_signals": [
-        "RCE ×2",
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +318,37 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
+      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
+      "published": "Wed, 05 Aug 2026 23:35:28 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking",
+      "link": "https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking",
+      "summary": "Attackers can take control of agents through malicious instructions hidden in content supplied to AI browsers, and there's no simple fix for the threat.",
+      "published": "Wed, 05 Aug 2026 23:30:00 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "No Perfect Fix for AI Browser Prompt Injection Flaws",
+      "link": "https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws",
+      "summary": "AI browsers from top vendors remain vulnerable to prompt injection attacks despite multiple security guardrails, according to new research.",
+      "published": "Wed, 05 Aug 2026 22:18:25 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "CSS: The Hidden Threat Lurking in Your Inbox",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
       "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
@@ -349,15 +379,6 @@
     },
     {
       "source": "Dark Reading",
-      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-      "published": "Wed, 05 Aug 2026 17:57:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
       "title": "Angola's Largest Telco Breached Hours Before IPO",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/angolas-largest-telco-breached-hours-before-ipo",
       "summary": "Unitel, Angola's dominant mobile operator, continues to recover from a cyberattack that caused outages the day of the government-owned telco's public offering.",
@@ -373,26 +394,6 @@
       "published": "Tue, 04 Aug 2026 18:37:35 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Notetaker Lets Hackers Spy on Government, Corporate Video Calls",
-      "link": "https://www.darkreading.com/application-security/ai-notetaker-spy-government-corporate-video-calls",
-      "summary": "A Google Firebase misconfiguration lets users of tl;dv, an AI meeting tool, query any other users' meeting information and potentially join calls.",
-      "published": "Tue, 04 Aug 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
-      "summary": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
-      "published": "Tue, 04 Aug 2026 07:00:00 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "Security Week",

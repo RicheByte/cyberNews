@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-06 06:24 UTC  
+> **Last Updated:** 2026-08-06 10:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**311 000 impacted** • **false positive claimed** • **accessing company accounts** • **residential proxy node** • **vendors aren't prepared** • **underground cybercrime forums** • **twitter whistleblower complaint** • **least 165 organizations** • **known bad indicators** • **cyber tests openai** • **control plane details** • **consumer tv boxes** • **cloud resources creating** • **130 companies tangled** • **ban residential proxies** • **samsung account applications** • **blockchain cybersecurity researchers** • **infrastructure security agency** • **turn one's television** • **sonnet 4 6**
+**running ransom cartel** • **false positive claimed** • **snowflake customer accounts** • **residential proxy node** • **accessing company accounts** • **least 495 000** • **vendors aren't prepared** • **twitter whistleblower complaint** • **known bad indicators** • **consumer tv boxes** • **130 companies tangled** • **remote code execution** • **concept poc code** • **ban residential proxies** • **samsung account applications** • **organization's oracle database** • **khunt aws google** • **least 165 organizations** • **vercel let untrusted** • **testing environment set**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access](https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html)
+- [AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model](https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html)
+- [Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells](https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html)
+- [Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service](https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html)
+- [CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild](https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html)
+- [Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People](https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html)
 - [Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures](https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html)
 - [OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes](https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html)
-- [Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt](https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html)
-- [Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports](https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html)
-- [Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug](https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html)
-- [Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain](https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html)
-- [New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch](https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html)
-- [Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk](https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
+- [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
+- [Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/)
+- [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
 - [How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones](https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/)
 - [The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict](https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/)
 - [New Attack Methods Enable Malware to Hijack Passkey-Protected Accounts](https://www.securityweek.com/new-attack-methods-enable-malware-to-hijack-passkey-protected-accounts/)
-- [311,000 Impacted by Brown Health Medical Group-MA Data Breach](https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/)
-- [Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data](https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/)
-- [AI Agents Targeted Real People and Projects During Cybersecurity Tests](https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/)
-- [CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities](https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/)
 
 ### Threatpost
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-06 06:24 UTC |
+| 🕐 Last Updated | 2026-08-06 10:33 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`311 000 impacted` • `false positive claimed` • `accessing company accounts` • `residential proxy node` • `vendors aren't prepared` • `underground cybercrime forums` • `twitter whistleblower complaint` • `least 165 organizations` • `known bad indicators` • `cyber tests openai`
+`running ransom cartel` • `false positive claimed` • `snowflake customer accounts` • `residential proxy node` • `accessing company accounts` • `least 495 000` • `vendors aren't prepared` • `twitter whistleblower complaint` • `known bad indicators` • `consumer tv boxes`
 
 ## 📄 Reports
 

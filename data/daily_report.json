@@ -1,72 +1,139 @@
 {
-  "last_updated": "2026-08-06 06:24",
+  "last_updated": "2026-08-06 10:33",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "311 000 impacted",
+    "running ransom cartel",
     "false positive claimed",
-    "accessing company accounts",
+    "snowflake customer accounts",
     "residential proxy node",
+    "accessing company accounts",
+    "least 495 000",
     "vendors aren't prepared",
-    "underground cybercrime forums",
     "twitter whistleblower complaint",
-    "least 165 organizations",
     "known bad indicators",
-    "cyber tests openai",
-    "control plane details",
     "consumer tv boxes",
-    "cloud resources creating",
     "130 companies tangled",
+    "remote code execution",
+    "concept poc code",
     "ban residential proxies",
     "samsung account applications",
-    "blockchain cybersecurity researchers",
-    "infrastructure security agency",
-    "turn one's television",
-    "sonnet 4 6"
+    "organization's oracle database",
+    "khunt aws google",
+    "least 165 organizations",
+    "vercel let untrusted",
+    "testing environment set"
   ],
   "trending": [
     {
-      "keyword": "311 000 impacted",
-      "mentions": 9
+      "keyword": "running ransom cartel",
+      "mentions": 1
     },
     {
       "keyword": "false positive claimed",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "accessing company accounts",
-      "mentions": 3
+      "keyword": "snowflake customer accounts",
+      "mentions": 1
     },
     {
       "keyword": "residential proxy node",
-      "mentions": 139
+      "mentions": 140
+    },
+    {
+      "keyword": "accessing company accounts",
+      "mentions": 4
+    },
+    {
+      "keyword": "least 495 000",
+      "mentions": 1
     },
     {
       "keyword": "vendors aren't prepared",
-      "mentions": 3
-    },
-    {
-      "keyword": "underground cybercrime forums",
-      "mentions": 6
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2308
-    },
-    {
-      "keyword": "least 165 organizations",
-      "mentions": 3
+      "mentions": 2309
     },
     {
       "keyword": "known bad indicators",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "cyber tests openai",
-      "mentions": 12
+      "keyword": "consumer tv boxes",
+      "mentions": 62
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Compile khunt Inside Oracle to Turn SQL Injection Into Windows SYSTEM Access",
+      "link": "https://thehackernews.com/2026/08/attackers-compile-khunt-inside-oracle.html",
+      "summary": "Attackers broke into an organization's Oracle database through a SQL injection flaw in a public-facing web application, then installed a post-exploitation toolkit without writing an executable to disk. They fed Java source code to the database, let Oracle compile it into stored schema objects, and ran commands from inside the database engine. Huntress, which tracks the toolkit as khunt,",
+      "published": "Thu, 06 Aug 2026 14:49:23 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AWS, Google, and Vercel Agent Flaws Let Attackers Trigger Tools Without Running the Model",
+      "link": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "summary": "Security flaws in agent infrastructure from Amazon Web Services (AWS), Google, and Vercel let untrusted or forged instructions reach an agent's tools with no check that a model turn had authorized them. In several of the attack paths, the model never ran at all, so system prompts, content filters, and model-level guardrails never got a chance to intervene. The affected products include Amazon",
+      "published": "Thu, 06 Aug 2026 14:27:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Chinese-Made Zbtlink Routers Ship With Backdoor That Opens Unauthenticated Root Shells",
+      "link": "https://thehackernews.com/2026/08/chinese-made-zbtlink-routers-ship-with.html",
+      "summary": "Cybersecurity researchers have disclosed details of a \"factory-shipped backdoor\" implanted in at least 20 Chinese router models from Zbtlink. According to a new report from VulnCheck, the implant appears in all 21 firmware images currently available from Zbtlink that span more than 2 years. The backdoors are designed such that they start automatically and attempt to beacon to Chinese",
+      "published": "Thu, 06 Aug 2026 13:35:22 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransom Cartel Creator Gets 16 Years in Prison for Operating Ransomware-as-a-Service",
+      "link": "https://thehackernews.com/2026/08/ransom-cartel-creator-gets-16-years-in.html",
+      "summary": "A federal judge in Alexandria, Virginia, sentenced Maksim Silnikau to 16 years in prison on August 5 for creating and running Ransom Cartel, the ransomware-as-a-service operation he stood up in 2021. Between 2021 and 2023, Ransom Cartel conspirators attacked at least 18 companies, including firms in California, New York and Nebraska, and others abroad, according to the Justice Department.",
+      "published": "Thu, 06 Aug 2026 12:49:54 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags TeamCity CVE-2026-63077 RCE Flaw Under Active Exploitation in the Wild",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "summary": "A newly patched security flaw impacting on-premise versions of JetBrains TeamCity has come under active exploitation in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). The vulnerability in question is CVE-2026-63077 (CVSS score: 9.8), a case of deserialization of untrusted data that could allow an unauthenticated attacker with access to a TeamCity server",
+      "published": "Thu, 06 Aug 2026 12:21:43 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Active exploitation ×2",
+        "RCE",
+        "CISA/KEV ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
+      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "summary": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from",
+      "published": "Thu, 06 Aug 2026 11:34:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
@@ -84,68 +151,6 @@
       "published": "Thu, 06 Aug 2026 00:03:47 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
-      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
-      "summary": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude",
-      "published": "Wed, 05 Aug 2026 21:06:03 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
-      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
-      "summary": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
-      "published": "Wed, 05 Aug 2026 20:44:05 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
-      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
-      "summary": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
-      "published": "Wed, 05 Aug 2026 19:57:30 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
-      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
-      "summary": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
-      "published": "Wed, 05 Aug 2026 19:11:27 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New OVSwrap Linux Kernel Flaw Lets Local Users Gain Root via Open vSwitch",
-      "link": "https://thehackernews.com/2026/08/new-ovswrap-linux-kernel-flaw-lets.html",
-      "summary": "A memory corruption flaw in the Linux kernel's Open vSwitch datapath gives ordinary local users a path to root on a broad set of default-configured distributions, and a public exploit ships with pre-built records for roughly 800 kernel builds. The vulnerability, tracked as CVE-2026-64531 (CVSS score: 7.8) and codenamed OVSwrap by its discoverer, was disclosed by security researcher Asim",
-      "published": "Wed, 05 Aug 2026 17:13:27 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Kali365 Weaponizes Microsoft Authentication Against US Companies: New Enterprise Risk",
-      "link": "https://thehackernews.com/2026/08/kali365-weaponizes-microsoft.html",
-      "summary": "Kali365 is turning a legitimate Microsoft login into a gateway to corporate data. The phishing kit targets US organizations with attacker-controlled device codes that victims approve on Microsoft's real authentication page. Once access and refresh tokens are issued, attackers may retain access to email, documents, and cloud resources, creating a direct path to data exposure, financial fraud,",
-      "published": "Wed, 05 Aug 2026 17:13:19 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -397,6 +402,52 @@
     },
     {
       "source": "Security Week",
+      "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
+      "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
+      "summary": "The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week. The post Meta AI Hacked External Systems During Cybersecurity Testing appeared first on SecurityWeek .",
+      "published": "Thu, 06 Aug 2026 09:56:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
+      "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
+      "summary": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution. The post Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison appeared first on SecurityWeek .",
+      "published": "Thu, 06 Aug 2026 09:30:30 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
+      "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
+      "summary": "Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code. The post Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 06 Aug 2026 07:20:20 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "PoC available",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
+      "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
+      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek .",
+      "published": "Thu, 06 Aug 2026 06:37:44 +0000",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
       "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
       "summary": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on SecurityWeek .",
@@ -432,49 +483,6 @@
       "published": "Wed, 05 Aug 2026 12:48:49 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "311,000 Impacted by Brown Health Medical Group-MA Data Breach",
-      "link": "https://www.securityweek.com/311000-impacted-by-brown-health-medical-group-ma-data-breach/",
-      "summary": "Hackers stole personal information, medical records, and financial information from the organization’s server. The post 311,000 Impacted by Brown Health Medical Group-MA Data Breach appeared first on SecurityWeek .",
-      "published": "Wed, 05 Aug 2026 11:35:23 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data",
-      "link": "https://www.securityweek.com/cybersecurity-alliance-drafts-safe-guidelines-for-sharing-ai-incident-data/",
-      "summary": "The guidelines are the work of the recently launched Open Secure AI Alliance, which now includes 120 organizations. The post Cybersecurity Alliance Drafts SAFE Guidelines for Sharing AI Incident Data appeared first on SecurityWeek .",
-      "published": "Wed, 05 Aug 2026 11:11:29 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "AI Agents Targeted Real People and Projects During Cybersecurity Tests",
-      "link": "https://www.securityweek.com/ai-security-institute-reports-anthropic-and-openai-models-going-rogue-against-organizations/",
-      "summary": "AI Security Institute reports Anthropic and OpenAI models going rogue against real people, organizations, and open source projects. The post AI Agents Targeted Real People and Projects During Cybersecurity Tests appeared first on SecurityWeek .",
-      "published": "Wed, 05 Aug 2026 10:33:41 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities",
-      "link": "https://www.securityweek.com/cisa-warns-of-exploited-langflow-n-central-and-tomcat-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and EncryptInterceptor bypass. The post CISA Warns of Exploited Langflow, N-central, and Tomcat Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 05 Aug 2026 09:44:50 +0000",
-      "value_score": 91,
-      "value_signals": [
-        "RCE",
-        "Auth bypass",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

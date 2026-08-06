@@ -315,7 +315,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2308,
+      "count": 2309,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -841,7 +841,7 @@
       ]
     },
     "remote code execution": {
-      "count": 481,
+      "count": 482,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -925,7 +925,8 @@
         "2026-06-20",
         "2026-07-13",
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-08-06"
       ]
     },
     "attacker remotely control": {
@@ -2606,7 +2607,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 406,
+      "count": 407,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -24025,7 +24026,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24046,7 +24047,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -25166,7 +25167,7 @@
       ]
     },
     "consumer tv boxes": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25816,7 +25817,7 @@
       ]
     },
     "false positive claimed": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25830,7 +25831,7 @@
       ]
     },
     "known bad indicators": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25876,7 +25877,7 @@
       ]
     },
     "samsung account applications": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25890,7 +25891,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25903,7 +25904,7 @@
       ]
     },
     "accessing company accounts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05",
         "2026-08-06"
@@ -25917,25 +25918,62 @@
       ]
     },
     "least 165 organizations": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-05",
+        "2026-08-06"
+      ]
+    },
+    "running ransom cartel": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "snowflake customer accounts": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "least 495 000": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "concept poc code": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "organization's oracle database": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "khunt aws google": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "vercel let untrusted": {
+      "count": 1,
+      "dates": [
+        "2026-08-06"
+      ]
+    },
+    "testing environment set": {
+      "count": 1,
+      "dates": [
         "2026-08-06"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-26 09:54",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "twitter whistleblower complaint",
-        "shinyhunters extortion group"
-      ]
-    },
     {
       "timestamp": "2026-07-26 11:15",
       "articles": 48,
@@ -27023,6 +27061,17 @@
         "accessing company accounts",
         "residential proxy node",
         "vendors aren't prepared"
+      ]
+    },
+    {
+      "timestamp": "2026-08-06 10:33",
+      "articles": 48,
+      "top_keywords": [
+        "running ransom cartel",
+        "false positive claimed",
+        "snowflake customer accounts",
+        "residential proxy node",
+        "accessing company accounts"
       ]
     }
   ]

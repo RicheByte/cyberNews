@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-08-07 08:52",
+  "last_updated": "2026-08-07 10:46",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "black hat usa",
     "outpacing law enforcement",
     "ios xe software",
-    "software supply chain",
+    "black hat conference",
     "supply chain resilience",
+    "software supply chain",
     "vendors aren't prepared",
-    "us water utilities",
     "twitter whistleblower complaint",
     "text history records",
-    "mobile carrier network",
     "chatgpt secure sandbox",
     "130 companies tangled",
     "browser refresh eliminates",
     "guilty pleas came",
-    "chain analysis puts",
+    "bypass recent mitigations",
+    "skyhigh security explains",
+    "novee security ran",
     "windows operating systems",
     "vulnerability discoveries aided",
     "turn one's television",
-    "testing environment set",
-    "stories apparently opening",
-    "sprawling phishing campaign"
+    "stories apparently opening"
   ],
   "trending": [
     {
+      "keyword": "black hat usa",
+      "mentions": 1
+    },
+    {
       "keyword": "outpacing law enforcement",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ios xe software",
-      "mentions": 5
+      "mentions": 6
     },
     {
-      "keyword": "software supply chain",
-      "mentions": 11
+      "keyword": "black hat conference",
+      "mentions": 1
     },
     {
       "keyword": "supply chain resilience",
-      "mentions": 5
+      "mentions": 6
+    },
+    {
+      "keyword": "software supply chain",
+      "mentions": 12
     },
     {
       "keyword": "vendors aren't prepared",
-      "mentions": 10
-    },
-    {
-      "keyword": "us water utilities",
-      "mentions": 5
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2315
+      "mentions": 2316
     },
     {
       "keyword": "text history records",
-      "mentions": 5
-    },
-    {
-      "keyword": "mobile carrier network",
       "mentions": 6
     },
     {
       "keyword": "chatgpt secure sandbox",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
+      "published": "Fri, 07 Aug 2026 15:02:57 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
+      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, Stagg said the techniques were demonstrated across network infrastructure devices",
+      "published": "Fri, 07 Aug 2026 14:22:11 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
+      "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
+      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.",
+      "published": "Fri, 07 Aug 2026 13:48:35 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
@@ -118,33 +145,6 @@
         "RCE",
         "Backdoor"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Over 4,400 Rockwell PLCs Exposed Online, 22 Found in Water Attack Cities",
-      "link": "https://thehackernews.com/2026/08/over-4400-rockwell-plcs-exposed-online.html",
-      "summary": "Forescout found 22 internet-facing Rockwell Automation programmable logic controllers (PLCs) in cities hit by recent cyberattacks on US water utilities. Nineteen used the same mobile carrier network. Its August 3 scan counted 4,407 exposed Rockwell controllers worldwide, including 2,844 in the United States, but Forescout could not confirm any were compromised. That figure counts exposed",
-      "published": "Thu, 06 Aug 2026 17:46:58 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CryptoJS Weak RNG Behind $5.7 Million in Drains Affects Five Crypto Wallet Apps",
-      "link": "https://thehackernews.com/2026/08/cryptojs-weak-rng-behind-57-million-in.html",
-      "summary": "Coinspect has identified CryptoJS.lib.WordArray.random() as the weak random number generator behind the Ill Bloom wallet drains. Introduced in the JavaScript cryptography library 12 years ago, the function supplied weak entropy that affected wallet apps used to generate recovery phrases. Coinspect's on-chain analysis puts the measured theft across two sweeps since late May at a lower bound of",
-      "published": "Thu, 06 Aug 2026 17:19:48 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple iCloud Private Relay Can Expose Real IPs Through WebKit Proxy Bypasses",
-      "link": "https://thehackernews.com/2026/08/webkit-proxy-bypasses-can-expose-real.html",
-      "summary": "Cybersecurity researchers have disclosed a security issue with Apple's iCloud Private Relay tool that can expose a user's real IP address. Introduced with iOS 15, iCloud Private Relay employs a dual-hop architecture to ensure users' privacy by routing their Safari web traffic through two relays so that no single third-party, including Apple, can determine where the request is originating from",
-      "published": "Thu, 06 Aug 2026 17:03:08 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -387,6 +387,40 @@
     },
     {
       "source": "Security Week",
+      "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
+      "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
+      "summary": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities. The post Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
+      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
+      "summary": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 4) appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 09:24:22 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Microsoft, Apple Release Fresh Security Updates",
+      "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
+      "summary": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 09:09:54 +0000",
+      "value_score": 41,
+      "value_signals": [
+        "Auth bypass",
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
       "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
       "summary": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek .",
@@ -434,37 +468,6 @@
       "published": "Thu, 06 Aug 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Paperclip Flaw Allowed Admin Access, Code Execution",
-      "link": "https://www.securityweek.com/critical-paperclip-flaw-allowed-admin-access-code-execution/",
-      "summary": "An attacker could self-register, sign in for board-level API access, and import a new company for code execution. The post Critical Paperclip Flaw Allowed Admin Access, Code Execution appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 11:09:11 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Meta AI Hacked External Systems During Cybersecurity Testing",
-      "link": "https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/",
-      "summary": "The incident involved a testing environment set up by Irregular, similar to what Anthropic reported last week. The post Meta AI Hacked External Systems During Cybersecurity Testing appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 09:56:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison",
-      "link": "https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/",
-      "summary": "Maksim Silnikau was the creator and administrator of the ransomware group and involved in Angler EK’s distribution. The post Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 09:30:30 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Threatpost",

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 694,
+      "count": 695,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2315,
+      "count": 2316,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2611,7 +2611,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 413,
+      "count": 414,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -11056,7 +11056,7 @@
       ]
     },
     "software supply chain": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-18",
         "2026-04-03",
@@ -23585,7 +23585,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 58,
+      "count": 59,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24328,7 +24328,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24352,7 +24352,7 @@
       ]
     },
     "turn one's television": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25906,7 +25906,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-05",
         "2026-08-06",
@@ -26015,14 +26015,14 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "ios xe software": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26036,14 +26036,14 @@
       ]
     },
     "text history records": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26064,38 +26064,57 @@
       ]
     },
     "supply chain resilience": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "stories apparently opening": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "browser refresh eliminates": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "black hat usa": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "black hat conference": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "bypass recent mitigations": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "skyhigh security explains": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "novee security ran": {
+      "count": 1,
       "dates": [
         "2026-08-07"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-26 22:55",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "twitter whistleblower complaint",
-        "time based mechanism"
-      ]
-    },
     {
       "timestamp": "2026-07-27 02:26",
       "articles": 48,
@@ -27183,6 +27202,17 @@
         "software supply chain",
         "supply chain resilience",
         "vendors aren't prepared"
+      ]
+    },
+    {
+      "timestamp": "2026-08-07 10:46",
+      "articles": 48,
+      "top_keywords": [
+        "black hat usa",
+        "outpacing law enforcement",
+        "ios xe software",
+        "black hat conference",
+        "supply chain resilience"
       ]
     }
   ]

@@ -1,72 +1,84 @@
 {
-  "last_updated": "2026-08-07 12:51",
+  "last_updated": "2026-08-07 14:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "black hat usa",
     "outpacing law enforcement",
-    "software supply chain",
-    "browser refresh eliminates",
-    "ban residential proxies",
     "black hat conference",
     "vendors aren't prepared",
     "twitter whistleblower complaint",
     "text history records",
-    "national security risk",
     "malicious instructions hidden",
+    "content management system",
     "chatgpt secure sandbox",
-    "130 companies tangled",
     "residential proxy node",
+    "national security risk",
+    "ban residential proxies",
+    "php code execution",
     "guilty pleas came",
-    "sprawling phishing campaign",
     "microsoft 365 accounts",
+    "banking malware campaign",
     "vulnerability discoveries aided",
     "turn one's television",
-    "software giant fixed"
+    "software almost triple",
+    "similar incidents continue"
   ],
   "trending": [
     {
       "keyword": "black hat usa",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 7
-    },
-    {
-      "keyword": "software supply chain",
-      "mentions": 13
-    },
-    {
-      "keyword": "browser refresh eliminates",
-      "mentions": 4
-    },
-    {
-      "keyword": "ban residential proxies",
-      "mentions": 134
+      "mentions": 8
     },
     {
       "keyword": "black hat conference",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "vendors aren't prepared",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2317
+      "mentions": 2318
     },
     {
       "keyword": "text history records",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "national security risk",
-      "mentions": 328
+      "keyword": "malicious instructions hidden",
+      "mentions": 3
+    },
+    {
+      "keyword": "content management system",
+      "mentions": 1
+    },
+    {
+      "keyword": "chatgpt secure sandbox",
+      "mentions": 8
+    },
+    {
+      "keyword": "residential proxy node",
+      "mentions": 143
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
+      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
+      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
+      "published": "Fri, 07 Aug 2026 18:26:23 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Growing Up The Hard Way",
@@ -137,11 +149,20 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
-      "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
-      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
-      "published": "Fri, 07 Aug 2026 12:20:05 +0530",
+      "source": "BleepingComputer",
+      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
+      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
+      "published": "Fri, 07 Aug 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "North Carolina Ports confirms cyberattack disrupting operations",
+      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
+      "published": "Fri, 07 Aug 2026 09:34:40 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -204,28 +225,6 @@
       "published": "Thu, 06 Aug 2026 12:11:39 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How AI Exposed a Browser Security Gap that Enterprises Cannot Ignore",
-      "link": "https://www.bleepingcomputer.com/news/security/how-ai-exposed-a-browser-security-gap-that-enterprises-cannot-ignore/",
-      "summary": "AI did not create a new browser security problem. It exposed one that enterprises have long been able to ignore. Skyhigh Security explains why browsers have become a critical control point for governing data movement, AI interactions, and modern work. [...]",
-      "published": "Thu, 06 Aug 2026 10:02:12 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ransom Cartel ransomware creator sentenced to 16 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
-      "summary": "Maksim Silnikau, the creator and administrator of the Ransom Cartel ransomware operation, was sentenced to 16 years in prison for his role in ransomware attacks against at least 18 companies worldwide. [...]",
-      "published": "Wed, 05 Aug 2026 19:00:50 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -386,6 +385,17 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
+      "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
+      "summary": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 14:26:42 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
       "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
       "summary": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek .",
@@ -456,15 +466,6 @@
       "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
       "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek .",
       "published": "Thu, 06 Aug 2026 14:56:31 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts",
-      "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
-      "summary": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 12:54:09 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2317,
+      "count": 2318,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1182,7 +1182,7 @@
       ]
     },
     "national security risk": {
-      "count": 328,
+      "count": 329,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23157,7 +23157,7 @@
       ]
     },
     "software almost triple": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23167,7 +23167,8 @@
         "2026-07-20",
         "2026-07-22",
         "2026-07-23",
-        "2026-08-05"
+        "2026-08-05",
+        "2026-08-07"
       ]
     },
     "spanish police dismantled": {
@@ -23587,7 +23588,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24038,7 +24039,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24060,7 +24061,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24332,7 +24333,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24356,7 +24357,7 @@
       ]
     },
     "turn one's television": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25910,7 +25911,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-05",
         "2026-08-06",
@@ -26000,7 +26001,7 @@
       ]
     },
     "malicious instructions hidden": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26020,7 +26021,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26041,14 +26042,14 @@
       ]
     },
     "text history records": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26089,13 +26090,13 @@
       ]
     },
     "black hat usa": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
     },
     "black hat conference": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
@@ -26119,6 +26120,30 @@
       ]
     },
     "microsoft 365 accounts": {
+      "count": 2,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "content management system": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "php code execution": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "banking malware campaign": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "similar incidents continue": {
       "count": 1,
       "dates": [
         "2026-08-07"
@@ -26126,17 +26151,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-27 06:57",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "shinyhunters extortion group",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-27 11:14",
       "articles": 48,
@@ -27224,6 +27238,17 @@
         "software supply chain",
         "browser refresh eliminates",
         "ban residential proxies"
+      ]
+    },
+    {
+      "timestamp": "2026-08-07 14:47",
+      "articles": 48,
+      "top_keywords": [
+        "black hat usa",
+        "outpacing law enforcement",
+        "black hat conference",
+        "vendors aren't prepared",
+        "twitter whistleblower complaint"
       ]
     }
   ]

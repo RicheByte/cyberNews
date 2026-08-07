@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-07 05:35 UTC  
+> **Last Updated:** 2026-08-07 07:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**outpacing law enforcement** • **ios xe software** • **vendors aren't prepared** • **us water utilities** • **twitter whistleblower complaint** • **text history records** • **mobile carrier network** • **exploited without authentication** • **chatgpt secure sandbox** • **chain analysis puts** • **ai generated websites** • **130 companies tangled** • **guilty pleas came** • **democratic party built** • **windows operating systems** • **vulnerability discoveries aided** • **turn one's television** • **testing environment set** • **supply chain resilience** • **stories apparently opening**
+**outpacing law enforcement** • **ios xe software** • **vendors aren't prepared** • **us water utilities** • **twitter whistleblower complaint** • **text history records** • **mobile carrier network** • **chatgpt secure sandbox** • **chain analysis puts** • **ai generated websites** • **130 companies tangled** • **browser refresh eliminates** • **guilty pleas came** • **democratic party built** • **windows operating systems** • **vulnerability discoveries aided** • **turn one's television** • **testing environment set** • **supply chain resilience** • **stories apparently opening**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
 - [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 - [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
 - [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
@@ -67,7 +68,6 @@
 - [Meta AI Hacked External Systems During Cybersecurity Testing](https://www.securityweek.com/meta-ai-hacked-external-systems-during-cybersecurity-testing/)
 - [Belarusian Ransom Cartel Mastermind Gets 16 Years in Prison](https://www.securityweek.com/belarusian-ransom-cartel-mastermind-gets-16-years-in-prison/)
 - [Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/)
-- [Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability](https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/)
 
 ### Threatpost
 

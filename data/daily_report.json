@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 05:35",
+  "last_updated": "2026-08-07 07:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,11 +10,11 @@
     "twitter whistleblower complaint",
     "text history records",
     "mobile carrier network",
-    "exploited without authentication",
     "chatgpt secure sandbox",
     "chain analysis puts",
     "ai generated websites",
     "130 companies tangled",
+    "browser refresh eliminates",
     "guilty pleas came",
     "democratic party built",
     "windows operating systems",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 3
-    },
-    {
-      "keyword": "ios xe software",
-      "mentions": 3
-    },
-    {
-      "keyword": "vendors aren't prepared",
-      "mentions": 8
-    },
-    {
-      "keyword": "us water utilities",
-      "mentions": 3
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2313
-    },
-    {
-      "keyword": "text history records",
-      "mentions": 3
-    },
-    {
-      "keyword": "mobile carrier network",
       "mentions": 4
     },
     {
-      "keyword": "exploited without authentication",
-      "mentions": 14
+      "keyword": "ios xe software",
+      "mentions": 4
+    },
+    {
+      "keyword": "vendors aren't prepared",
+      "mentions": 9
+    },
+    {
+      "keyword": "us water utilities",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2314
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 4
+    },
+    {
+      "keyword": "mobile carrier network",
+      "mentions": 5
     },
     {
       "keyword": "chatgpt secure sandbox",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "chain analysis puts",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "ai generated websites",
+      "mentions": 21
     }
   ],
   "articles": [
@@ -390,6 +390,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
+      "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
+      "summary": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 06:56:56 +0000",
+      "value_score": 42,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Snowflake Hacker Pleads Guilty in US Court",
       "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
       "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek .",
@@ -456,20 +468,6 @@
       "value_signals": [
         "PoC available",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability",
-      "link": "https://www.securityweek.com/hackers-start-exploiting-recent-jetbrains-teamcity-vulnerability/",
-      "summary": "Tracked as CVE-2026-63077, the critical bug can be exploited without authentication for remote code execution. The post Hackers Start Exploiting Recent JetBrains TeamCity Vulnerability appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 06:37:44 +0000",
-      "value_score": 62,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity",
-        "Exploit wording"
       ]
     },
     {

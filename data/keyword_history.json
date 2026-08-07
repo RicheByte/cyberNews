@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2321,
+      "count": 2322,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1182,7 +1182,7 @@
       ]
     },
     "national security risk": {
-      "count": 332,
+      "count": 333,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7747,7 +7747,7 @@
       ]
     },
     "crypto theft attacks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-02-16",
         "2026-08-07"
@@ -8157,7 +8157,7 @@
       ]
     },
     "voice phishing vishing": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-02-19",
         "2026-08-07"
@@ -23590,7 +23590,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24041,7 +24041,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24063,7 +24063,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24335,7 +24335,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24359,7 +24359,7 @@
       ]
     },
     "turn one's television": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26003,7 +26003,7 @@
       ]
     },
     "malicious instructions hidden": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26023,7 +26023,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26044,14 +26044,14 @@
       ]
     },
     "text history records": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26098,7 +26098,7 @@
       ]
     },
     "black hat conference": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-07"
       ]
@@ -26128,19 +26128,19 @@
       ]
     },
     "content management system": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-07"
       ]
     },
     "php code execution": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-07"
       ]
     },
     "banking malware campaign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-07"
       ]
@@ -26152,36 +26152,25 @@
       ]
     },
     "levi strauss co": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-07"
       ]
     },
     "even working patches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
     },
     "steal saas data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-07"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-27 19:18",
-      "articles": 48,
-      "top_keywords": [
-        "2 31 5",
-        "residential proxy node",
-        "cybercrime group known",
-        "covert remote access",
-        "vulnerability discoveries aided"
-      ]
-    },
     {
       "timestamp": "2026-07-27 21:05",
       "articles": 48,
@@ -27262,6 +27251,17 @@
     },
     {
       "timestamp": "2026-08-07 20:34",
+      "articles": 48,
+      "top_keywords": [
+        "levi strauss co",
+        "steal saas data",
+        "outpacing law enforcement",
+        "black hat conference",
+        "banking malware campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-08-07 22:28",
       "articles": 48,
       "top_keywords": [
         "levi strauss co",

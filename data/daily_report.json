@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-07 07:05",
+  "last_updated": "2026-08-07 08:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "outpacing law enforcement",
     "ios xe software",
+    "software supply chain",
+    "supply chain resilience",
     "vendors aren't prepared",
     "us water utilities",
     "twitter whistleblower complaint",
     "text history records",
     "mobile carrier network",
     "chatgpt secure sandbox",
-    "chain analysis puts",
-    "ai generated websites",
     "130 companies tangled",
     "browser refresh eliminates",
     "guilty pleas came",
-    "democratic party built",
+    "chain analysis puts",
     "windows operating systems",
     "vulnerability discoveries aided",
     "turn one's television",
     "testing environment set",
-    "supply chain resilience",
-    "stories apparently opening"
+    "stories apparently opening",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 4
-    },
-    {
-      "keyword": "ios xe software",
-      "mentions": 4
-    },
-    {
-      "keyword": "vendors aren't prepared",
-      "mentions": 9
-    },
-    {
-      "keyword": "us water utilities",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2314
-    },
-    {
-      "keyword": "text history records",
-      "mentions": 4
-    },
-    {
-      "keyword": "mobile carrier network",
       "mentions": 5
     },
     {
+      "keyword": "ios xe software",
+      "mentions": 5
+    },
+    {
+      "keyword": "software supply chain",
+      "mentions": 11
+    },
+    {
+      "keyword": "supply chain resilience",
+      "mentions": 5
+    },
+    {
+      "keyword": "vendors aren't prepared",
+      "mentions": 10
+    },
+    {
+      "keyword": "us water utilities",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2315
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 5
+    },
+    {
+      "keyword": "mobile carrier network",
+      "mentions": 6
+    },
+    {
       "keyword": "chatgpt secure sandbox",
-      "mentions": 4
-    },
-    {
-      "keyword": "chain analysis puts",
-      "mentions": 4
-    },
-    {
-      "keyword": "ai generated websites",
-      "mentions": 21
+      "mentions": 5
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html",
+      "summary": "A new analysis has uncovered that the threat actor tracked as TeamPCP has been active on the cybercrime scene as far back as 2020, indicating the group has been compromising internet-facing infrastructure for years before training their sights on the software supply chain. \"The connection is supported by overlapping domains, malware deployment paths, staging techniques, backend infrastructure,",
+      "published": "Fri, 07 Aug 2026 12:20:05 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
@@ -80,7 +89,7 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.8 CVSS Score Bugs",
+      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
       "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
       "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found",
       "published": "Thu, 06 Aug 2026 22:43:15 +0530",
@@ -136,18 +145,6 @@
       "published": "Thu, 06 Aug 2026 17:03:08 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI Recommendation Poisoning: How \"Ask AI\" Buttons Silently Alter LLM Memory",
-      "link": "https://thehackernews.com/2026/08/ai-recommendation-poisoning-how-ask-ai.html",
-      "summary": "A new class of prompt injection is spreading across commercial websites. It requires no malware, no stolen credentials, and no zero-day exploit. It abuses a standard feature built into almost every major AI assistant: pre-filled deep links. We observed production websites embedding hidden prompt injection payloads inside \"Ask AI\" buttons on marketing and competitor comparison pages. When a user",
-      "published": "Thu, 06 Aug 2026 17:00:00 +0530",
-      "value_score": 41,
-      "value_signals": [
-        "Zero-day",
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -390,6 +387,17 @@
     },
     {
       "source": "Security Week",
+      "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
+      "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
+      "summary": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 07:22:05 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
       "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
       "summary": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek .",
@@ -456,18 +464,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities",
-      "link": "https://www.securityweek.com/cisco-patches-critical-sd-wan-ios-xe-fmc-vulnerabilities/",
-      "summary": "Patches were rolled out for two dozen vulnerabilities, including one with public proof-of-concept (PoC) code. The post Cisco Patches Critical SD-WAN, IOS XE, FMC Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 07:20:20 +0000",
-      "value_score": 36,
-      "value_signals": [
-        "PoC available",
-        "High severity ×2"
       ]
     },
     {

@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-08-07 18:46",
+  "last_updated": "2026-08-07 20:34",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "levi strauss co",
-    "black hat usa",
+    "steal saas data",
     "outpacing law enforcement",
     "black hat conference",
+    "banking malware campaign",
+    "crypto theft attacks",
+    "malicious instructions hidden",
     "twitter whistleblower complaint",
     "text history records",
-    "malicious instructions hidden",
+    "php code execution",
     "even working patches",
     "content management system",
     "chatgpt secure sandbox",
     "residential proxy node",
-    "national security risk",
     "ban residential proxies",
-    "php code execution",
+    "national security risk",
     "guilty pleas came",
-    "microsoft 365 accounts",
-    "banking malware campaign",
     "vulnerability discoveries aided",
-    "turn one's television",
-    "software almost triple"
+    "voice phishing vishing",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 2
-    },
-    {
-      "keyword": "black hat usa",
-      "mentions": 5
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 10
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2320
-    },
-    {
-      "keyword": "text history records",
-      "mentions": 10
-    },
-    {
-      "keyword": "malicious instructions hidden",
-      "mentions": 5
-    },
-    {
-      "keyword": "even working patches",
-      "mentions": 1
-    },
-    {
-      "keyword": "content management system",
       "mentions": 3
     },
     {
-      "keyword": "chatgpt secure sandbox",
-      "mentions": 10
+      "keyword": "steal saas data",
+      "mentions": 1
+    },
+    {
+      "keyword": "outpacing law enforcement",
+      "mentions": 11
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 6
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 4
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 2
+    },
+    {
+      "keyword": "malicious instructions hidden",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2321
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 11
+    },
+    {
+      "keyword": "php code execution",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
+      "published": "Sat, 08 Aug 2026 00:18:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture. \"",
+      "published": "Fri, 07 Aug 2026 23:59:08 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their",
+      "published": "Fri, 07 Aug 2026 23:46:13 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
@@ -120,33 +149,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
-      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
-      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where",
-      "published": "Fri, 07 Aug 2026 15:39:54 +0530",
-      "value_score": 60,
+      "source": "BleepingComputer",
+      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
+      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
+      "published": "Fri, 07 Aug 2026 16:14:46 -0400",
+      "value_score": 86,
       "value_signals": [
-        "Zero-day ×2"
+        "Zero-day ×2",
+        "Breach/leak",
+        "High severity",
+        "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
-      "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies",
-      "published": "Fri, 07 Aug 2026 14:22:11 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets",
-      "link": "https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html",
-      "summary": "A GitHub issue opened by an account with no repository privileges was enough to execute code on the CI runners behind Anthropic's and Google's own coding-agent repositories. On OpenAI's, it was enough to hijack the next agent run. Novee Security ran the attack against each vendor's agent in the configuration that the vendor ships by default, and presented the work at Black Hat USA on August 5.",
-      "published": "Fri, 07 Aug 2026 13:48:35 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
+      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
+      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
+      "published": "Fri, 07 Aug 2026 15:30:41 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -201,30 +226,6 @@
       "published": "Thu, 06 Aug 2026 16:07:24 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Swiss government SharePoint breach compromised 200 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/",
-      "summary": "Switzerland's federal IT office says hackers exploited vulnerabilities to breach its Microsoft SharePoint servers and compromised approximately 200 accounts. [...]",
-      "published": "Thu, 06 Aug 2026 14:14:19 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/",
-      "summary": "Researchers found a way to bypass recent mitigations for Spectre v2 speculative execution side-channel attacks and developed an exploit to leak secrets from Linux machines. [...]",
-      "published": "Thu, 06 Aug 2026 14:03:45 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

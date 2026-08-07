@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-07 18:46 UTC  
+> **Last Updated:** 2026-08-07 20:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**levi strauss co** • **black hat usa** • **outpacing law enforcement** • **black hat conference** • **twitter whistleblower complaint** • **text history records** • **malicious instructions hidden** • **even working patches** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **national security risk** • **ban residential proxies** • **php code execution** • **guilty pleas came** • **microsoft 365 accounts** • **banking malware campaign** • **vulnerability discoveries aided** • **turn one's television** • **software almost triple**
+**levi strauss co** • **steal saas data** • **outpacing law enforcement** • **black hat conference** • **banking malware campaign** • **crypto theft attacks** • **malicious instructions hidden** • **twitter whistleblower complaint** • **text history records** • **php code execution** • **even working patches** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **ban residential proxies** • **national security risk** • **guilty pleas came** • **vulnerability discoveries aided** • **voice phishing vishing** • **turn one's television**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
+- [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
+- [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
 - [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
 - [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
 - [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
 - [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
 - [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
-- [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
-- [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
-- [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
 
 ### BleepingComputer
 
+- [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
+- [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/)
 - [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
 - [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
 - [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
 - [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
 - [ClickFix attack pushes macOS infostealer for crypto theft attacks](https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/)
 - [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
-- [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
-- [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
 
 ### Krebs on Security
 

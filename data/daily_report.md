@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-07 14:47 UTC  
+> **Last Updated:** 2026-08-07 16:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**black hat usa** • **outpacing law enforcement** • **black hat conference** • **vendors aren't prepared** • **twitter whistleblower complaint** • **text history records** • **malicious instructions hidden** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **national security risk** • **ban residential proxies** • **php code execution** • **guilty pleas came** • **microsoft 365 accounts** • **banking malware campaign** • **vulnerability discoveries aided** • **turn one's television** • **software almost triple** • **similar incidents continue**
+**levi strauss co** • **black hat usa** • **outpacing law enforcement** • **black hat conference** • **vendors aren't prepared** • **twitter whistleblower complaint** • **text history records** • **malicious instructions hidden** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **national security risk** • **ban residential proxies** • **php code execution** • **guilty pleas came** • **microsoft 365 accounts** • **banking malware campaign** • **vulnerability discoveries aided** • **turn one's television** • **software almost triple**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/)
 - [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/)
 - [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/)
 - [OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/)
@@ -34,7 +35,6 @@
 - [Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group](https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/)
 - [Swiss government SharePoint breach compromised 200 accounts](https://www.bleepingcomputer.com/news/security/swiss-government-sharepoint-breach-compromised-200-accounts/)
 - [New TONTOU CPU attack bypasses Spectre v2 fixes, leaks Linux password hashes](https://www.bleepingcomputer.com/news/security/new-tontou-cpu-attack-bypasses-spectre-v2-fixes-leaks-linux-password-hashes/)
-- [Meta AI model hacked a company during misconfigured cyber test](https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/)
 
 ### Krebs on Security
 
@@ -50,13 +50,13 @@
 ### Dark Reading
 
 - [The Coordination Gap: How Attackers Are Outpacing Law Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement)
+- [Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride](https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride)
 - [Researcher Claims Control of ChatGPT Secure Sandbox](https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox)
 - [From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture](https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture)
 - [AI Sends Global Crime Syndicates Into Fraud Nirvana](https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana)
 - [AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking](https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking)
 - [No Perfect Fix for AI Browser Prompt Injection Flaws](https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws)
 - [CSS: The Hidden Threat Lurking in Your Inbox](https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox)
-- [15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning](https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning)
 
 ### Security Week
 

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2318,
+      "count": 2319,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1182,7 +1182,7 @@
       ]
     },
     "national security risk": {
-      "count": 329,
+      "count": 330,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23157,7 +23157,7 @@
       ]
     },
     "software almost triple": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23588,7 +23588,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24039,7 +24039,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24061,7 +24061,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24333,7 +24333,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24357,7 +24357,7 @@
       ]
     },
     "turn one's television": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25911,7 +25911,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-05",
         "2026-08-06",
@@ -26001,7 +26001,7 @@
       ]
     },
     "malicious instructions hidden": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26021,7 +26021,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26042,14 +26042,14 @@
       ]
     },
     "text history records": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26090,13 +26090,13 @@
       ]
     },
     "black hat usa": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-07"
       ]
     },
     "black hat conference": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-07"
       ]
@@ -26120,25 +26120,25 @@
       ]
     },
     "microsoft 365 accounts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
     },
     "content management system": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-07"
       ]
     },
     "php code execution": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-07"
       ]
     },
     "banking malware campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-07"
       ]
@@ -26148,20 +26148,15 @@
       "dates": [
         "2026-08-07"
       ]
+    },
+    "levi strauss co": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-27 11:14",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "23 million people",
-        "residential proxy node",
-        "shinyhunters extortion group",
-        "ai security layer"
-      ]
-    },
     {
       "timestamp": "2026-07-27 14:20",
       "articles": 48,
@@ -27249,6 +27244,17 @@
         "black hat conference",
         "vendors aren't prepared",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-07 16:47",
+      "articles": 48,
+      "top_keywords": [
+        "levi strauss co",
+        "black hat usa",
+        "outpacing law enforcement",
+        "black hat conference",
+        "vendors aren't prepared"
       ]
     }
   ]

@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-08-07 14:47",
+  "last_updated": "2026-08-07 16:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "levi strauss co",
     "black hat usa",
     "outpacing law enforcement",
     "black hat conference",
@@ -21,49 +22,48 @@
     "banking malware campaign",
     "vulnerability discoveries aided",
     "turn one's television",
-    "software almost triple",
-    "similar incidents continue"
+    "software almost triple"
   ],
   "trending": [
     {
-      "keyword": "black hat usa",
-      "mentions": 3
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 8
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 3
-    },
-    {
-      "keyword": "vendors aren't prepared",
-      "mentions": 13
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2318
-    },
-    {
-      "keyword": "text history records",
-      "mentions": 8
-    },
-    {
-      "keyword": "malicious instructions hidden",
-      "mentions": 3
-    },
-    {
-      "keyword": "content management system",
+      "keyword": "levi strauss co",
       "mentions": 1
     },
     {
-      "keyword": "chatgpt secure sandbox",
-      "mentions": 8
+      "keyword": "black hat usa",
+      "mentions": 4
     },
     {
-      "keyword": "residential proxy node",
-      "mentions": 143
+      "keyword": "outpacing law enforcement",
+      "mentions": 9
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 4
+    },
+    {
+      "keyword": "vendors aren't prepared",
+      "mentions": 14
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2319
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 9
+    },
+    {
+      "keyword": "malicious instructions hidden",
+      "mentions": 4
+    },
+    {
+      "keyword": "content management system",
+      "mentions": 2
+    },
+    {
+      "keyword": "chatgpt secure sandbox",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -150,6 +150,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
+      "published": "Fri, 07 Aug 2026 11:48:20 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
       "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
       "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
@@ -216,15 +225,6 @@
         "Breach/leak",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Meta AI model hacked a company during misconfigured cyber test",
-      "link": "https://www.bleepingcomputer.com/news/security/meta-ai-model-hacked-a-company-during-misconfigured-cyber-test/",
-      "summary": "Meta has become the latest AI company to confirm that one of its models hacked a real organization during cybersecurity testing, as similar incidents continue to emerge following OpenAI'sOpenAI's initial disclosure that its agents breached Hugging Face. [...]",
-      "published": "Thu, 06 Aug 2026 12:11:39 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +318,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride",
+      "summary": "In the span of three weeks, OpenAI, Anthropic, and Meta have all disclosed AI agent sandbox escape events affecting real organizations.",
+      "published": "Thu, 06 Aug 2026 20:39:30 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Researcher Claims Control of ChatGPT Secure Sandbox",
       "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
       "summary": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
@@ -371,15 +380,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
       "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
       "published": "Wed, 05 Aug 2026 19:47:55 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
-      "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
-      "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
-      "published": "Wed, 05 Aug 2026 19:08:36 GMT",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-07 16:47 UTC  
+> **Last Updated:** 2026-08-07 18:46 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**levi strauss co** • **black hat usa** • **outpacing law enforcement** • **black hat conference** • **vendors aren't prepared** • **twitter whistleblower complaint** • **text history records** • **malicious instructions hidden** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **national security risk** • **ban residential proxies** • **php code execution** • **guilty pleas came** • **microsoft 365 accounts** • **banking malware campaign** • **vulnerability discoveries aided** • **turn one's television** • **software almost triple**
+**levi strauss co** • **black hat usa** • **outpacing law enforcement** • **black hat conference** • **twitter whistleblower complaint** • **text history records** • **malicious instructions hidden** • **even working patches** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **national security risk** • **ban residential proxies** • **php code execution** • **guilty pleas came** • **microsoft 365 accounts** • **banking malware campaign** • **vulnerability discoveries aided** • **turn one's television** • **software almost triple**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI-Generated Patches Fail Half the Time](https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time)
 - [The Coordination Gap: How Attackers Are Outpacing Law Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement)
 - [Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride](https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride)
 - [Researcher Claims Control of ChatGPT Secure Sandbox](https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox)
@@ -56,7 +57,6 @@
 - [AI Sends Global Crime Syndicates Into Fraud Nirvana](https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana)
 - [AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking](https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking)
 - [No Perfect Fix for AI Browser Prompt Injection Flaws](https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws)
-- [CSS: The Hidden Threat Lurking in Your Inbox](https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox)
 
 ### Security Week
 

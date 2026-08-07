@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07 16:47",
+  "last_updated": "2026-08-07 18:46",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,10 +7,10 @@
     "black hat usa",
     "outpacing law enforcement",
     "black hat conference",
-    "vendors aren't prepared",
     "twitter whistleblower complaint",
     "text history records",
     "malicious instructions hidden",
+    "even working patches",
     "content management system",
     "chatgpt secure sandbox",
     "residential proxy node",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 1
-    },
-    {
-      "keyword": "black hat usa",
-      "mentions": 4
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 9
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 4
-    },
-    {
-      "keyword": "vendors aren't prepared",
-      "mentions": 14
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2319
-    },
-    {
-      "keyword": "text history records",
-      "mentions": 9
-    },
-    {
-      "keyword": "malicious instructions hidden",
-      "mentions": 4
-    },
-    {
-      "keyword": "content management system",
       "mentions": 2
     },
     {
+      "keyword": "black hat usa",
+      "mentions": 5
+    },
+    {
+      "keyword": "outpacing law enforcement",
+      "mentions": 10
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2320
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 10
+    },
+    {
+      "keyword": "malicious instructions hidden",
+      "mentions": 5
+    },
+    {
+      "keyword": "even working patches",
+      "mentions": 1
+    },
+    {
+      "keyword": "content management system",
+      "mentions": 3
+    },
+    {
       "keyword": "chatgpt secure sandbox",
-      "mentions": 9
+      "mentions": 10
     }
   ],
   "articles": [
@@ -309,6 +309,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "AI-Generated Patches Fail Half the Time",
+      "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
+      "summary": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
+      "published": "Fri, 07 Aug 2026 16:47:43 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
       "summary": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
@@ -373,15 +382,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
-      "summary": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
-      "published": "Wed, 05 Aug 2026 19:47:55 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

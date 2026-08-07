@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2319,
+      "count": 2320,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1182,7 +1182,7 @@
       ]
     },
     "national security risk": {
-      "count": 330,
+      "count": 331,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23157,7 +23157,7 @@
       ]
     },
     "software almost triple": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23588,7 +23588,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24039,7 +24039,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24061,7 +24061,7 @@
       ]
     },
     "ban residential proxies": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24333,7 +24333,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24357,7 +24357,7 @@
       ]
     },
     "turn one's television": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26001,7 +26001,7 @@
       ]
     },
     "malicious instructions hidden": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26021,7 +26021,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26042,14 +26042,14 @@
       ]
     },
     "text history records": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26090,13 +26090,13 @@
       ]
     },
     "black hat usa": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-07"
       ]
     },
     "black hat conference": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-07"
       ]
@@ -26120,25 +26120,25 @@
       ]
     },
     "microsoft 365 accounts": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-07"
       ]
     },
     "content management system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
     },
     "php code execution": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
     },
     "banking malware campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-07"
       ]
@@ -26150,6 +26150,12 @@
       ]
     },
     "levi strauss co": {
+      "count": 2,
+      "dates": [
+        "2026-08-07"
+      ]
+    },
+    "even working patches": {
       "count": 1,
       "dates": [
         "2026-08-07"
@@ -26157,17 +26163,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-27 14:20",
-      "articles": 48,
-      "top_keywords": [
-        "2 31 5",
-        "residential proxy node",
-        "cybercrime group known",
-        "shadow ai agents",
-        "covert remote access"
-      ]
-    },
     {
       "timestamp": "2026-07-27 17:37",
       "articles": 48,
@@ -27255,6 +27250,17 @@
         "outpacing law enforcement",
         "black hat conference",
         "vendors aren't prepared"
+      ]
+    },
+    {
+      "timestamp": "2026-08-07 18:46",
+      "articles": 48,
+      "top_keywords": [
+        "levi strauss co",
+        "black hat usa",
+        "outpacing law enforcement",
+        "black hat conference",
+        "twitter whistleblower complaint"
       ]
     }
   ]

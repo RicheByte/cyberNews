@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-07 10:46 UTC |
+| 🕐 Last Updated | 2026-08-07 12:51 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`black hat usa` • `outpacing law enforcement` • `ios xe software` • `black hat conference` • `supply chain resilience` • `software supply chain` • `vendors aren't prepared` • `twitter whistleblower complaint` • `text history records` • `chatgpt secure sandbox`
+`black hat usa` • `outpacing law enforcement` • `software supply chain` • `browser refresh eliminates` • `ban residential proxies` • `black hat conference` • `vendors aren't prepared` • `twitter whistleblower complaint` • `text history records` • `national security risk`
 
 ## 📄 Reports
 

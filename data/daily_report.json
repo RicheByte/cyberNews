@@ -1,86 +1,128 @@
 {
-  "last_updated": "2026-08-07 10:46",
+  "last_updated": "2026-08-07 12:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "black hat usa",
     "outpacing law enforcement",
-    "ios xe software",
-    "black hat conference",
-    "supply chain resilience",
     "software supply chain",
+    "browser refresh eliminates",
+    "ban residential proxies",
+    "black hat conference",
     "vendors aren't prepared",
     "twitter whistleblower complaint",
     "text history records",
+    "national security risk",
+    "malicious instructions hidden",
     "chatgpt secure sandbox",
     "130 companies tangled",
-    "browser refresh eliminates",
+    "residential proxy node",
     "guilty pleas came",
-    "bypass recent mitigations",
-    "skyhigh security explains",
-    "novee security ran",
-    "windows operating systems",
+    "sprawling phishing campaign",
+    "microsoft 365 accounts",
     "vulnerability discoveries aided",
     "turn one's television",
-    "stories apparently opening"
+    "software giant fixed"
   ],
   "trending": [
     {
       "keyword": "black hat usa",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 6
-    },
-    {
-      "keyword": "ios xe software",
-      "mentions": 6
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 1
-    },
-    {
-      "keyword": "supply chain resilience",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "software supply chain",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "browser refresh eliminates",
+      "mentions": 4
+    },
+    {
+      "keyword": "ban residential proxies",
+      "mentions": 134
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 2
     },
     {
       "keyword": "vendors aren't prepared",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2316
+      "mentions": 2317
     },
     {
       "keyword": "text history records",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "chatgpt secure sandbox",
-      "mentions": 6
+      "keyword": "national security risk",
+      "mentions": 328
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
-      "published": "Fri, 07 Aug 2026 15:02:57 +0530",
+      "title": "Growing Up The Hard Way",
+      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
+      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral. Then,",
+      "published": "Fri, 07 Aug 2026 17:25:26 +0530",
       "value_score": 10,
       "value_signals": []
     },
     {
       "source": "The Hacker News",
+      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
+      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.",
+      "published": "Fri, 07 Aug 2026 16:40:33 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
+      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
+      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
+      "published": "Fri, 07 Aug 2026 16:28:38 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
+      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
+      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
+      "published": "Fri, 07 Aug 2026 16:08:27 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day",
+      "link": "https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html",
+      "summary": "PortSwigger says HTTP Terminator, an artificial intelligence (AI)-assisted research system built by James Kettle, generated and proved new HTTP desynchronization techniques after exploring 30,000 candidate desync vectors. PortSwigger said a separate human-guided discovery cascade also exposed a zero-day in Apache Traffic Server. Kettle said HTTP Terminator tested 30,000 websites where",
+      "published": "Fri, 07 Aug 2026 15:39:54 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "Zero-day ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
       "title": "Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access",
       "link": "https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, disclose victim IP addresses and mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, Stagg said the techniques were demonstrated across network infrastructure devices",
+      "summary": "Entra ID researcher Dirk-jan Mollema demonstrated that malware already running in a signed-in Windows session can silently use the victim's Windows Hello for Business key to authenticate to Microsoft Entra ID. The attacker can then establish longer-term cloud access, register a device it controls, obtain a Primary Refresh Token (PRT), and add further authentication methods where tenant policies",
       "published": "Fri, 07 Aug 2026 14:22:11 +0530",
       "value_score": 10,
       "value_signals": []
@@ -102,49 +144,6 @@
       "published": "Fri, 07 Aug 2026 12:20:05 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts",
-      "link": "https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html",
-      "summary": "Zapscape, a new Linux kernel vulnerability, could allow an attacker with kernel privileges inside an L1 guest virtual machine (VM) to escape KVM isolation and execute code on the host. The risk applies when nested virtualization is exposed to untrusted guests. The flaw is tracked as CVE-2026-64561 and affects KVM/x86's shadow memory management unit (MMU), which manages shadow page",
-      "published": "Thu, 06 Aug 2026 23:28:30 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html",
-      "summary": "Cisco has rolled out updates to address multiple critical security vulnerabilities impacting Catalyst SD-WAN and IOS XE Software as part of a comprehensive internal security review. The security issues affect Cisco Catalyst SD-WAN Software, regardless of device configuration, and Cisco IOS XE Software when it is running in autonomous or controller mode. \"These vulnerabilities were found",
-      "published": "Thu, 06 Aug 2026 22:43:15 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs",
-      "link": "https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html",
-      "summary": "An unprivileged Linux program can time a hardware interrupt to land in the gap between a processor sanitizing its branch predictor and the kernel using it, re-poisoning the predictor after the defense has run. MIT CSAIL researchers Daniël Trujillo and Mengjia Yan named the technique INTERRUPT INJECTION. On an AMD Zen 2 machine running Linux 6.14 with every default Spectre v2 mitigation on,",
-      "published": "Thu, 06 Aug 2026 21:47:13 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories",
-      "link": "https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html",
-      "summary": "Apparently, opening the thing is now enough. A repo can run before the first prompt, a package can hide among hundreds, and a harmless-looking PDF can finish the job. This week runs on cheap leverage: exposed servers, recycled bugs, poisoned agent instructions, remote-access tools dressed as support software, and trusted defaults doing attackers a favor. Nothing here is especially mystical.",
-      "published": "Thu, 06 Aug 2026 20:54:31 +0530",
-      "value_score": 42,
-      "value_signals": [
-        "RCE",
-        "Backdoor"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -331,7 +330,7 @@
       "source": "Dark Reading",
       "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
       "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-      "summary": "Former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support – and a dose of absurdity.",
+      "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
       "published": "Thu, 06 Aug 2026 19:00:11 GMT",
       "value_score": 10,
       "value_signals": []
@@ -382,6 +381,15 @@
       "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
       "summary": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
       "published": "Wed, 05 Aug 2026 19:08:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
+      "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
+      "summary": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek .",
+      "published": "Fri, 07 Aug 2026 11:06:01 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -457,15 +465,6 @@
       "link": "https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/",
       "summary": "Zenity researchers reported the findings to Anthropic and OpenAI in late 2025 and early 2026, but they remain unpatched. The post Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts appeared first on SecurityWeek .",
       "published": "Thu, 06 Aug 2026 12:54:09 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway",
-      "link": "https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/",
-      "summary": "(Video) In this podcast, we share insights from Edna Conway, a recognized leader in cybersecurity and supply chain resilience with over 40 years of experience in the field. The post Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 12:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

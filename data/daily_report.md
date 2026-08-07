@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-07 10:46 UTC  
+> **Last Updated:** 2026-08-07 12:51 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**black hat usa** • **outpacing law enforcement** • **ios xe software** • **black hat conference** • **supply chain resilience** • **software supply chain** • **vendors aren't prepared** • **twitter whistleblower complaint** • **text history records** • **chatgpt secure sandbox** • **130 companies tangled** • **browser refresh eliminates** • **guilty pleas came** • **bypass recent mitigations** • **skyhigh security explains** • **novee security ran** • **windows operating systems** • **vulnerability discoveries aided** • **turn one's television** • **stories apparently opening**
+**black hat usa** • **outpacing law enforcement** • **software supply chain** • **browser refresh eliminates** • **ban residential proxies** • **black hat conference** • **vendors aren't prepared** • **twitter whistleblower complaint** • **text history records** • **national security risk** • **malicious instructions hidden** • **chatgpt secure sandbox** • **130 companies tangled** • **residential proxy node** • **guilty pleas came** • **sprawling phishing campaign** • **microsoft 365 accounts** • **vulnerability discoveries aided** • **turn one's television** • **software giant fixed**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
+- [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
 - [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
+- [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
+- [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html)
 - [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html)
 - [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html)
 - [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html)
-- [New Zapscape KVM Flaw Could Let Privileged L1 Guest Code Escape to Linux Hosts](https://thehackernews.com/2026/08/new-zapscape-kvm-flaw-could-let.html)
-- [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html)
-- [New Interrupt Injection Attack Can Bypass Spectre v2 Defenses on Intel and AMD CPUs](https://thehackernews.com/2026/08/new-interrupt-injection-attack-can.html)
-- [ThreatsDay: Odysseus RCE, Samsung One-Click Takeover, iCloud Backdoor Fight + 27 More Stories](https://thehackernews.com/2026/08/threatsday-odysseus-rce-samsung-one.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
 - [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
 - [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
@@ -67,7 +68,6 @@
 - [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
 - [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 - [Zero-Click AI Browser Hacking: Claude and ChatGPT Atlas Hijacked via Emails, X Posts](https://www.securityweek.com/zero-click-ai-browser-hacking-claude-and-chatgpt-atlas-hijacked-via-emails-x-posts/)
-- [Podcast: Compliance Won’t Save You: The Future of Cyber Risk with Edna Conway](https://www.securityweek.com/podcast-compliance-wont-save-you-the-future-of-cyber-risk-with-edna-conway/)
 
 ### Threatpost
 

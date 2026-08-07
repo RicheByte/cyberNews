@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2316,
+      "count": 2317,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1182,7 +1182,7 @@
       ]
     },
     "national security risk": {
-      "count": 327,
+      "count": 328,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1245,7 +1245,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-08-02",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-07"
       ]
     },
     "open source millions": {
@@ -1915,7 +1916,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 537,
+      "count": 538,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2611,7 +2612,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 414,
+      "count": 415,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -11056,7 +11057,7 @@
       ]
     },
     "software supply chain": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-03-18",
         "2026-04-03",
@@ -23216,7 +23217,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23225,7 +23226,8 @@
         "2026-07-20",
         "2026-07-22",
         "2026-07-25",
-        "2026-07-28"
+        "2026-07-28",
+        "2026-08-07"
       ]
     },
     "windows bind links": {
@@ -23585,7 +23587,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24036,7 +24038,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 141,
+      "count": 142,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24053,11 +24055,12 @@
         "2026-08-03",
         "2026-08-04",
         "2026-08-05",
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-07"
       ]
     },
     "ban residential proxies": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24074,7 +24077,8 @@
         "2026-08-03",
         "2026-08-04",
         "2026-08-05",
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-07"
       ]
     },
     "move comes less": {
@@ -24328,7 +24332,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24352,7 +24356,7 @@
       ]
     },
     "turn one's television": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25906,7 +25910,7 @@
       ]
     },
     "vendors aren't prepared": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-05",
         "2026-08-06",
@@ -25996,9 +26000,10 @@
       ]
     },
     "malicious instructions hidden": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-07"
       ]
     },
     "mobile carrier network": {
@@ -26015,7 +26020,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26036,14 +26041,14 @@
       ]
     },
     "text history records": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-06",
         "2026-08-07"
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-06",
         "2026-08-07"
@@ -26078,19 +26083,19 @@
       ]
     },
     "browser refresh eliminates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-07"
       ]
     },
     "black hat usa": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-07"
       ]
     },
     "black hat conference": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-07"
       ]
@@ -26112,20 +26117,15 @@
       "dates": [
         "2026-08-07"
       ]
+    },
+    "microsoft 365 accounts": {
+      "count": 1,
+      "dates": [
+        "2026-08-07"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-27 02:26",
-      "articles": 48,
-      "top_keywords": [
-        "cybercrime group known",
-        "residential proxy node",
-        "ai security layer",
-        "twitter whistleblower complaint",
-        "time based mechanism"
-      ]
-    },
     {
       "timestamp": "2026-07-27 06:57",
       "articles": 48,
@@ -27213,6 +27213,17 @@
         "ios xe software",
         "black hat conference",
         "supply chain resilience"
+      ]
+    },
+    {
+      "timestamp": "2026-08-07 12:51",
+      "articles": 48,
+      "top_keywords": [
+        "black hat usa",
+        "outpacing law enforcement",
+        "software supply chain",
+        "browser refresh eliminates",
+        "ban residential proxies"
       ]
     }
   ]

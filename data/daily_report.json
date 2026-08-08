@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 04:50",
+  "last_updated": "2026-08-08 06:41",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "steal saas data",
-      "mentions": 5
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 15
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 10
-    },
-    {
-      "keyword": "banking malware campaign",
-      "mentions": 8
-    },
-    {
-      "keyword": "crypto theft attacks",
       "mentions": 6
     },
     {
+      "keyword": "outpacing law enforcement",
+      "mentions": 16
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 11
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 9
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 7
+    },
+    {
       "keyword": "malicious instructions hidden",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2325
+      "mentions": 2326
     },
     {
       "keyword": "text history records",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "php code execution",
-      "mentions": 8
+      "mentions": 9
     }
   ],
   "articles": [
@@ -89,7 +89,7 @@
       "source": "The Hacker News",
       "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
       "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their",
+      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via",
       "published": "Fri, 07 Aug 2026 23:46:13 +0530",
       "value_score": 18,
       "value_signals": [

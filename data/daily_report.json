@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 10:25",
+  "last_updated": "2026-08-08 12:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -15,55 +15,55 @@
     "command injection flaw",
     "chatgpt secure sandbox",
     "steal saas data",
-    "guilty pleas came",
+    "concept attack chain",
     "software giant fixed",
     "software almost triple",
     "manipulate ai tools",
     "malicious instructions hidden",
     "ai generated websites",
     "ai browsers vulnerable",
-    "voice phishing vishing"
+    "vulnerability discoveries aided"
   ],
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 10
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 18
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 13
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 9
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 339
-    },
-    {
-      "keyword": "banking malware campaign",
       "mentions": 11
     },
     {
+      "keyword": "outpacing law enforcement",
+      "mentions": 19
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 14
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 10
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 340
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 12
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2328
+      "mentions": 2329
     },
     {
       "keyword": "text history records",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "even working patches",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "command injection flaw",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -393,6 +393,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
+      "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
+      "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data appeared first on SecurityWeek .",
+      "published": "Sat, 08 Aug 2026 11:30:00 +0000",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
       "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
       "summary": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .",
@@ -467,15 +479,6 @@
         "Patch/update ×2",
         "High severity ×3"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Snowflake Hacker Pleads Guilty in US Court",
-      "link": "https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/",
-      "summary": "Connor Riley Moucka was extradited to the United States in July 2025 after he was arrested in Canada. The post Snowflake Hacker Pleads Guilty in US Court appeared first on SecurityWeek .",
-      "published": "Thu, 06 Aug 2026 14:56:31 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

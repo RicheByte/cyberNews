@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-08 10:25 UTC  
+> **Last Updated:** 2026-08-08 12:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**levi strauss co** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **national security risk** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **steal saas data** • **guilty pleas came** • **software giant fixed** • **software almost triple** • **manipulate ai tools** • **malicious instructions hidden** • **ai generated websites** • **ai browsers vulnerable** • **voice phishing vishing**
+**levi strauss co** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **national security risk** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **steal saas data** • **concept attack chain** • **software giant fixed** • **software almost triple** • **manipulate ai tools** • **malicious instructions hidden** • **ai generated websites** • **ai browsers vulnerable** • **vulnerability discoveries aided**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data](https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/)
 - [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
 - [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
 - [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
@@ -67,7 +68,6 @@
 - [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
 - [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
 - [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
-- [Snowflake Hacker Pleads Guilty in US Court](https://www.securityweek.com/snowflake-hacker-pleads-guilty-in-us-court/)
 
 ### Threatpost
 

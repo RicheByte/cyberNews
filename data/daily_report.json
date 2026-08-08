@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 12:35",
+  "last_updated": "2026-08-08 14:26",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -19,51 +19,51 @@
     "software giant fixed",
     "software almost triple",
     "manipulate ai tools",
-    "malicious instructions hidden",
     "ai generated websites",
     "ai browsers vulnerable",
-    "vulnerability discoveries aided"
+    "vulnerability discoveries aided",
+    "voice phishing vishing"
   ],
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 11
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 19
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 14
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 10
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 340
-    },
-    {
-      "keyword": "banking malware campaign",
       "mentions": 12
     },
     {
+      "keyword": "outpacing law enforcement",
+      "mentions": 20
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 15
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 11
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 341
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 13
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2329
+      "mentions": 2330
     },
     {
       "keyword": "text history records",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "even working patches",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "command injection flaw",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
@@ -157,6 +157,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
+      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
+      "published": "Sat, 08 Aug 2026 10:16:23 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
       "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
@@ -222,15 +234,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
       "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
       "published": "Thu, 06 Aug 2026 18:37:17 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hedge fund cyberattacks tied to BlackFile-linked UNC6671 extortion group",
-      "link": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
-      "summary": "A recent wave of cyberattacks targeting hedge funds, private-equity firms, and other financial organizations has been linked to UNC6671, an extortion group reportedly associated with the BlackFile threat actors. [...]",
-      "published": "Thu, 06 Aug 2026 16:07:24 -0400",
       "value_score": 10,
       "value_signals": []
     },

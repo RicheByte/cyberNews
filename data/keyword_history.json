@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2326,
+      "count": 2327,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1183,7 +1183,7 @@
       ]
     },
     "national security risk": {
-      "count": 337,
+      "count": 338,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7749,7 +7749,7 @@
       ]
     },
     "crypto theft attacks": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-02-16",
         "2026-08-07",
@@ -8160,7 +8160,7 @@
       ]
     },
     "voice phishing vishing": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-19",
         "2026-08-07",
@@ -23163,7 +23163,7 @@
       ]
     },
     "software almost triple": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23174,7 +23174,8 @@
         "2026-07-22",
         "2026-07-23",
         "2026-08-05",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-08"
       ]
     },
     "spanish police dismantled": {
@@ -24046,7 +24047,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24342,7 +24343,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -24367,7 +24368,7 @@
       ]
     },
     "turn one's television": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26012,7 +26013,7 @@
       ]
     },
     "malicious instructions hidden": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26033,7 +26034,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26055,7 +26056,7 @@
       ]
     },
     "text history records": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26063,7 +26064,7 @@
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26111,7 +26112,7 @@
       ]
     },
     "black hat conference": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-07",
         "2026-08-08"
@@ -26142,7 +26143,7 @@
       ]
     },
     "content management system": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-07",
         "2026-08-08"
@@ -26156,7 +26157,7 @@
       ]
     },
     "banking malware campaign": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-07",
         "2026-08-08"
@@ -26169,39 +26170,40 @@
       ]
     },
     "levi strauss co": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-07",
         "2026-08-08"
       ]
     },
     "even working patches": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-07",
         "2026-08-08"
       ]
     },
     "steal saas data": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-07",
+        "2026-08-08"
+      ]
+    },
+    "redirect cryptocurrency payments": {
+      "count": 1,
+      "dates": [
+        "2026-08-08"
+      ]
+    },
+    "redact pink helix": {
+      "count": 1,
+      "dates": [
         "2026-08-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-28 10:28",
-      "articles": 48,
-      "top_keywords": [
-        "velocloud orchestrator vco",
-        "cybercrime group known",
-        "rogue agent hacked",
-        "residential proxy node",
-        "exploited without authentication"
-      ]
-    },
     {
       "timestamp": "2026-07-28 13:51",
       "articles": 48,
@@ -27289,6 +27291,17 @@
         "outpacing law enforcement",
         "black hat conference",
         "banking malware campaign"
+      ]
+    },
+    {
+      "timestamp": "2026-08-08 08:33",
+      "articles": 48,
+      "top_keywords": [
+        "levi strauss co",
+        "steal saas data",
+        "outpacing law enforcement",
+        "black hat conference",
+        "crypto theft attacks"
       ]
     }
   ]

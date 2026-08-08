@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-08 06:41",
+  "last_updated": "2026-08-08 08:33",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,105 @@
     "steal saas data",
     "outpacing law enforcement",
     "black hat conference",
-    "banking malware campaign",
     "crypto theft attacks",
-    "malicious instructions hidden",
+    "banking malware campaign",
     "twitter whistleblower complaint",
     "text history records",
-    "php code execution",
+    "national security risk",
+    "malicious instructions hidden",
     "even working patches",
     "content management system",
     "chatgpt secure sandbox",
-    "residential proxy node",
-    "ban residential proxies",
-    "national security risk",
     "guilty pleas came",
-    "vulnerability discoveries aided",
+    "software almost triple",
     "voice phishing vishing",
-    "turn one's television"
+    "turn one's television",
+    "residential proxy node",
+    "redirect cryptocurrency payments",
+    "redact pink helix"
   ],
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "steal saas data",
-      "mentions": 6
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 16
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 11
-    },
-    {
-      "keyword": "banking malware campaign",
-      "mentions": 9
-    },
-    {
-      "keyword": "crypto theft attacks",
       "mentions": 7
     },
     {
-      "keyword": "malicious instructions hidden",
-      "mentions": 11
+      "keyword": "outpacing law enforcement",
+      "mentions": 17
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 12
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 8
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 10
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2326
+      "mentions": 2327
     },
     {
       "keyword": "text history records",
-      "mentions": 16
+      "mentions": 17
     },
     {
-      "keyword": "php code execution",
-      "mentions": 9
+      "keyword": "national security risk",
+      "mentions": 338
+    },
+    {
+      "keyword": "malicious instructions hidden",
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
+      "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
+      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
+      "published": "Sat, 08 Aug 2026 12:28:31 +0530",
+      "value_score": 91,
+      "value_signals": [
+        "Zero-day ×2",
+        "Active exploitation",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
+      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
+      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said. \"This is not a duplicate of our",
+      "published": "Sat, 08 Aug 2026 12:27:43 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
+      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary",
+      "published": "Sat, 08 Aug 2026 12:22:16 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "CISA/KEV ×5",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
@@ -116,37 +155,6 @@
       "published": "Fri, 07 Aug 2026 17:25:26 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers",
-      "link": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
-      "summary": "A use-after-free bug in Linux's SCTP networking code can be turned into full root on a host, and Tencent researchers say they used it to escape a container and reach the machine underneath. The flaw has existed since 2008. The fix already shipped: stable kernels 7.1.6, 6.18.42, 6.12.101 and 6.6.148, released August 3, close it. Anyone running an older kernel with SCTP reachable should update.",
-      "published": "Fri, 07 Aug 2026 16:40:33 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables",
-      "link": "https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html",
-      "summary": "Security researcher Malcolm Stagg has disclosed a new attack class called NatJack that manipulates network address translation (NAT) connection state to hijack active TCP sessions, spoof DNS responses, expose mapped ports, and exhaust NAT tables. Presented at Black Hat USA 2026, the research found affected behavior across independently developed implementations, including Windows and",
-      "published": "Fri, 07 Aug 2026 16:28:38 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails",
-      "link": "https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html",
-      "summary": "Cybersecurity researchers have called attention to an active \"widespread email-driven phishing campaign\" that employs adversary-in-the-middle (AitM) techniques to take control of Microsoft 365 accounts with an aim to identify key personnel involved in financial workflows and gather related email. \"The campaign uses residential proxies to disguise malicious sign-ins as ordinary consumer traffic,",
-      "published": "Fri, 07 Aug 2026 16:08:27 +0530",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
     },
     {
       "source": "BleepingComputer",

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-08 06:41 UTC  
+> **Last Updated:** 2026-08-08 08:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**levi strauss co** • **steal saas data** • **outpacing law enforcement** • **black hat conference** • **banking malware campaign** • **crypto theft attacks** • **malicious instructions hidden** • **twitter whistleblower complaint** • **text history records** • **php code execution** • **even working patches** • **content management system** • **chatgpt secure sandbox** • **residential proxy node** • **ban residential proxies** • **national security risk** • **guilty pleas came** • **vulnerability discoveries aided** • **voice phishing vishing** • **turn one's television**
+**levi strauss co** • **steal saas data** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **national security risk** • **malicious instructions hidden** • **even working patches** • **content management system** • **chatgpt secure sandbox** • **guilty pleas came** • **software almost triple** • **voice phishing vishing** • **turn one's television** • **residential proxy node** • **redirect cryptocurrency payments** • **redact pink helix**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
+- [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
+- [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
 - [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
 - [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
 - [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
 - [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
 - [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
-- [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html)
-- [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html)
-- [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html)
 
 ### BleepingComputer
 

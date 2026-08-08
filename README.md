@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-08 08:33 UTC |
+| 🕐 Last Updated | 2026-08-08 10:25 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`levi strauss co` • `steal saas data` • `outpacing law enforcement` • `black hat conference` • `crypto theft attacks` • `banking malware campaign` • `twitter whistleblower complaint` • `text history records` • `national security risk` • `malicious instructions hidden`
+`levi strauss co` • `outpacing law enforcement` • `black hat conference` • `crypto theft attacks` • `national security risk` • `banking malware campaign` • `twitter whistleblower complaint` • `text history records` • `even working patches` • `command injection flaw`
 
 ## 📄 Reports
 

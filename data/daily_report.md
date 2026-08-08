@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-08 08:33 UTC  
+> **Last Updated:** 2026-08-08 10:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**levi strauss co** • **steal saas data** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **national security risk** • **malicious instructions hidden** • **even working patches** • **content management system** • **chatgpt secure sandbox** • **guilty pleas came** • **software almost triple** • **voice phishing vishing** • **turn one's television** • **residential proxy node** • **redirect cryptocurrency payments** • **redact pink helix**
+**levi strauss co** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **national security risk** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **steal saas data** • **guilty pleas came** • **software giant fixed** • **software almost triple** • **manipulate ai tools** • **malicious instructions hidden** • **ai generated websites** • **ai browsers vulnerable** • **voice phishing vishing**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
+- [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
 - [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html)
 - [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
 - [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
 - [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
 - [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
 - [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html)
-- [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html)
-- [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html)
 
 ### BleepingComputer
 

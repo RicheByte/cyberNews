@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-08-08 08:33",
+  "last_updated": "2026-08-08 10:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "levi strauss co",
-    "steal saas data",
     "outpacing law enforcement",
     "black hat conference",
     "crypto theft attacks",
+    "national security risk",
     "banking malware campaign",
     "twitter whistleblower complaint",
     "text history records",
-    "national security risk",
-    "malicious instructions hidden",
     "even working patches",
-    "content management system",
+    "command injection flaw",
     "chatgpt secure sandbox",
+    "steal saas data",
     "guilty pleas came",
+    "software giant fixed",
     "software almost triple",
-    "voice phishing vishing",
-    "turn one's television",
-    "residential proxy node",
-    "redirect cryptocurrency payments",
-    "redact pink helix"
+    "manipulate ai tools",
+    "malicious instructions hidden",
+    "ai generated websites",
+    "ai browsers vulnerable",
+    "voice phishing vishing"
   ],
   "trending": [
     {
       "keyword": "levi strauss co",
-      "mentions": 9
-    },
-    {
-      "keyword": "steal saas data",
-      "mentions": 7
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 17
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 12
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 8
-    },
-    {
-      "keyword": "banking malware campaign",
       "mentions": 10
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2327
+      "keyword": "outpacing law enforcement",
+      "mentions": 18
     },
     {
-      "keyword": "text history records",
-      "mentions": 17
+      "keyword": "black hat conference",
+      "mentions": 13
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 9
     },
     {
       "keyword": "national security risk",
-      "mentions": 338
+      "mentions": 339
     },
     {
-      "keyword": "malicious instructions hidden",
-      "mentions": 12
+      "keyword": "banking malware campaign",
+      "mentions": 11
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2328
+    },
+    {
+      "keyword": "text history records",
+      "mentions": 18
+    },
+    {
+      "keyword": "even working patches",
+      "mentions": 9
+    },
+    {
+      "keyword": "command injection flaw",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
+      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
+      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
+      "published": "Sat, 08 Aug 2026 14:24:50 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens",
+      "link": "https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html",
+      "summary": "New research shows content inside an email can escape its message boundary and interfere with the webmail interface. Across attack chains spanning Outlook, Gmail, Fastmail, Proton Mail, Yahoo Mail, and AOL Mail, the techniques can capture passwords, take over third-party accounts, leak tokens, hijack trusted UI actions, and manipulate AI tools that read email. PortSwigger researcher Gareth",
+      "published": "Sat, 08 Aug 2026 13:33:57 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
@@ -134,27 +154,6 @@
       "value_signals": [
         "Phishing"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
-      "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
-      "summary": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the",
-      "published": "Fri, 07 Aug 2026 18:26:23 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Growing Up The Hard Way",
-      "link": "https://thehackernews.com/2026/08/growing-up-hard-way.html",
-      "summary": "Open Source had a great childhood. For two decades it got to be a kid. It ran around barefoot, gave everything away, trusted strangers, and never once thought about who was watching. It ran the kind of lemonade stand that took IOUs from anyone who wandered up — take what you need, pay me back whenever, no need to leave a name. It was idyllic. It was also, in retrospect, a little feral. Then,",
-      "published": "Fri, 07 Aug 2026 17:25:26 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2331,
+      "count": 2332,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1183,7 +1183,7 @@
       ]
     },
     "national security risk": {
-      "count": 342,
+      "count": 343,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7749,7 +7749,7 @@
       ]
     },
     "crypto theft attacks": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-16",
         "2026-08-07",
@@ -8160,7 +8160,7 @@
       ]
     },
     "voice phishing vishing": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-02-19",
         "2026-08-07",
@@ -23163,7 +23163,7 @@
       ]
     },
     "software almost triple": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23225,7 +23225,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23596,7 +23596,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -25182,7 +25182,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26036,7 +26036,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26058,7 +26058,7 @@
       ]
     },
     "text history records": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26066,7 +26066,7 @@
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26114,7 +26114,7 @@
       ]
     },
     "black hat conference": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-07",
         "2026-08-08"
@@ -26159,7 +26159,7 @@
       ]
     },
     "banking malware campaign": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-07",
         "2026-08-08"
@@ -26172,21 +26172,21 @@
       ]
     },
     "levi strauss co": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-07",
         "2026-08-08"
       ]
     },
     "even working patches": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-07",
         "2026-08-08"
       ]
     },
     "steal saas data": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-07",
         "2026-08-08"
@@ -26205,42 +26205,31 @@
       ]
     },
     "command injection flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-08"
       ]
     },
     "manipulate ai tools": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-08"
       ]
     },
     "ai browsers vulnerable": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-08"
       ]
     },
     "concept attack chain": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-08"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-28 22:53",
-      "articles": 48,
-      "top_keywords": [
-        "open source tool",
-        "act security emerges",
-        "cybercrime group known",
-        "attacking hugging face",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-07-29 02:04",
       "articles": 48,
@@ -27321,6 +27310,17 @@
     },
     {
       "timestamp": "2026-08-08 16:25",
+      "articles": 48,
+      "top_keywords": [
+        "levi strauss co",
+        "outpacing law enforcement",
+        "black hat conference",
+        "crypto theft attacks",
+        "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-08-08 18:28",
       "articles": 48,
       "top_keywords": [
         "levi strauss co",

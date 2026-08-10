@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-08-10 12:55",
+  "last_updated": "2026-08-10 14:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "critical flaws discovered",
-    "levi strauss co",
-    "corporate data stolen",
     "outpacing law enforcement",
-    "software giant fixed",
     "vulnerability discoveries aided",
-    "2 million people",
-    "unauthenticated remote attacker",
+    "software giant fixed",
     "twitter whistleblower complaint",
+    "turn one's television",
     "trigger pause openai",
+    "traditional trust signals",
     "shipping 10 50",
+    "maximum critical threshold",
     "democratic party built",
+    "internal evaluation found",
+    "high cybersecurity threshold",
+    "even working patches",
+    "threat actor known",
+    "software parts needed",
     "software development sectors",
     "software almost triple",
-    "threat actor known",
-    "internal evaluation found",
-    "even working patches",
-    "diligence metabase api",
     "security teams still",
-    "national security risk"
+    "national security risk",
+    "unpatched trueconf servers"
   ],
   "trending": [
     {
-      "keyword": "critical flaws discovered",
-      "mentions": 5
-    },
-    {
-      "keyword": "levi strauss co",
-      "mentions": 35
-    },
-    {
-      "keyword": "corporate data stolen",
-      "mentions": 15
-    },
-    {
       "keyword": "outpacing law enforcement",
-      "mentions": 43
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 61
+      "mentions": 44
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 91
+      "mentions": 92
     },
     {
-      "keyword": "2 million people",
-      "mentions": 5
-    },
-    {
-      "keyword": "unauthenticated remote attacker",
-      "mentions": 24
+      "keyword": "software giant fixed",
+      "mentions": 62
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2353
+      "mentions": 2354
+    },
+    {
+      "keyword": "turn one's television",
+      "mentions": 46
     },
     {
       "keyword": "trigger pause openai",
+      "mentions": 2
+    },
+    {
+      "keyword": "traditional trust signals",
       "mentions": 1
+    },
+    {
+      "keyword": "shipping 10 50",
+      "mentions": 2
+    },
+    {
+      "keyword": "maximum critical threshold",
+      "mentions": 1
+    },
+    {
+      "keyword": "democratic party built",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development",
+      "link": "https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html",
+      "summary": "North Korea's state hackers are no longer content to type prompts into public chatbots. One of the country's main espionage groups has begun running artificial intelligence (AI) offline on its own servers, connecting document-search tools to files in its possession, and collecting the software parts needed to build AI into its malware. South Korean security firm Genians says it uncovered the",
+      "published": "Mon, 10 Aug 2026 18:49:58 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
@@ -137,17 +148,37 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication",
-      "link": "https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html",
-      "summary": "Metabase has warned that a maximum-severity security flaw impacting its business intelligence and data visualization software package has been exploited in the wild as a zero-day. The vulnerability (CVSS score: 10.0), which does not carry a CVE identifier, allows an unauthenticated remote attacker to inject arbitrary SQL into the Metabase application database, enabling them to gain",
-      "published": "Sat, 08 Aug 2026 12:28:31 +0530",
-      "value_score": 91,
+      "source": "BleepingComputer",
+      "title": "CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+      "summary": "CISA has confirmed that ransomware gangs have begun exploiting two recently patched SonicWall SMA1000 vulnerabilities, including a maximum-severity server-side request forgery (SSRF) flaw. [...]",
+      "published": "Mon, 10 Aug 2026 10:34:32 -0400",
+      "value_score": 92,
       "value_signals": [
-        "Zero-day ×2",
-        "Active exploitation",
+        "Ransomware ×2",
+        "CISA/KEV ×2",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "When Credentials Are No Longer Enough: Device Trust in the AI Era",
+      "link": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+      "summary": "AI is making phishing, credential theft, and social engineering faster and more efficient, while traditional trust signals such as passwords, MFA, IP reputation, and geolocation become easier to bypass. Specops explains why organizations are increasingly adding device trust to their Zero Trust strategies. [...]",
+      "published": "Mon, 10 Aug 2026 10:01:11 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Member of The Com sent to prison for blackmail, sextortion",
+      "link": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+      "summary": "A member of \"The Com,\" a loose-knit online cybercrime collective that targets children and teenagers, has been sentenced to two years in prison for blackmail and sextortion offenses against nearly 120 victims worldwide. [...]",
+      "published": "Mon, 10 Aug 2026 08:56:28 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -208,35 +239,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Unlimited Technology Systems breach impacts 3.8 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/",
-      "summary": "Healthcare software company Unlimited Technology Systems reported that more than 3.8 million people were impacted by a data breach incident that occurred in October 2025. [...]",
-      "published": "Fri, 07 Aug 2026 15:30:41 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Levi Strauss & Co. says hackers stole corporate data in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
-      "summary": "Levi Strauss & Co. (Levi's) says that hackers used social engineering on three of its employees to gain access to and steal corporate data stored on their machines. [...]",
-      "published": "Fri, 07 Aug 2026 11:48:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Real emails, hijacked payments: Two H1 2026 attack chains",
-      "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
-      "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
-      "published": "Fri, 07 Aug 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -397,6 +399,47 @@
     },
     {
       "source": "Security Week",
+      "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
+      "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
+      "summary": "The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold. The post OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 14:33:36 +0000",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds",
+      "link": "https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/",
+      "summary": "The startup analyzes subtle telemetry signals to detect attacks that traditional security tools cannot see inside accelerator-powered AI infrastructure. The post Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 14:19:36 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC",
+      "link": "https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/",
+      "summary": "Remote, unauthenticated attackers could exploit the bugs to cause a denial-of-service (DoS) condition. The post Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 14:07:48 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "PoC available ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad",
+      "link": "https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/",
+      "summary": "An AI agent executes instructions that an attacker has planted in the log or alert that records a blocked request word for word. The post ‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 12:59:34 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
       "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
       "summary": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek .",
@@ -436,49 +479,6 @@
         "CISA/KEV ×2",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
-      "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
-      "summary": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek .",
-      "published": "Mon, 10 Aug 2026 08:55:44 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
-      "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
-      "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek .",
-      "published": "Mon, 10 Aug 2026 04:44:32 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
-      "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
-      "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data appeared first on SecurityWeek .",
-      "published": "Sat, 08 Aug 2026 11:30:00 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street",
-      "link": "https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/",
-      "summary": "Noteworthy stories that might have slipped under the radar: ban on Chinese data center tech, QuickFox VPN supply chain attack, IEH Corporation mailbox breached via phishing. The post In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 14:26:42 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2353,
+      "count": 2354,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "threat actor known": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1186,7 +1186,7 @@
       ]
     },
     "national security risk": {
-      "count": 364,
+      "count": 365,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23174,7 +23174,7 @@
       ]
     },
     "software almost triple": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23238,7 +23238,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23611,7 +23611,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 91,
+      "count": 92,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24386,7 +24386,7 @@
       ]
     },
     "turn one's television": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26056,7 +26056,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26107,7 +26107,7 @@
       ]
     },
     "democratic party built": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26212,7 +26212,7 @@
       ]
     },
     "even working patches": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26286,25 +26286,25 @@
       ]
     },
     "internal evaluation found": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10"
       ]
     },
     "trigger pause openai": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-10"
       ]
     },
     "shipping 10 50": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-10"
       ]
     },
     "software development sectors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-10"
       ]
@@ -26316,6 +26316,36 @@
       ]
     },
     "security teams still": {
+      "count": 2,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "traditional trust signals": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "maximum critical threshold": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "high cybersecurity threshold": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "software parts needed": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "unpatched trueconf servers": {
       "count": 1,
       "dates": [
         "2026-08-10"
@@ -26323,17 +26353,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-31 10:32",
-      "articles": 48,
-      "top_keywords": [
-        "malicious python package",
-        "critical flaw led",
-        "released security updates",
-        "ai generated websites",
-        "us critical infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-07-31 13:51",
       "articles": 48,
@@ -27421,6 +27440,17 @@
         "corporate data stolen",
         "outpacing law enforcement",
         "software giant fixed"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10 14:52",
+      "articles": 48,
+      "top_keywords": [
+        "outpacing law enforcement",
+        "vulnerability discoveries aided",
+        "software giant fixed",
+        "twitter whistleblower complaint",
+        "turn one's television"
       ]
     }
   ]

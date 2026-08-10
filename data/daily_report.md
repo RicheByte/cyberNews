@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-10 16:48 UTC  
+> **Last Updated:** 2026-08-10 18:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**outpacing law enforcement** • **democratic party built** • **vulnerability discoveries aided** • **threat actor known** • **software giant fixed** • **twitter whistleblower complaint** • **turn one's television** • **trigger pause openai** • **traditional trust signals** • **shipping 10 50** • **replace reusable passwords** • **maximum critical threshold** • **security teams still** • **internal evaluation found** • **high cybersecurity threshold** • **even working patches** • **ai era ai** • **nonethical hat hackers** • **software parts needed** • **software development sectors**
+**outpacing law enforcement** • **organized cybercrime groups** • **vulnerability discoveries aided** • **cvss backed patching** • **software giant fixed** • **twitter whistleblower complaint** • **trigger pause openai** • **traditional trust signals** • **threat actor known** • **shipping 10 50** • **replace reusable passwords** • **five point framework** • **security teams still** • **high cybersecurity threshold** • **even working patches** • **nonethical hat hackers** • **former medusa affiliate** • **software parts needed** • **software development sectors** • **software almost triple**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
+- [China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw](https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html)
 - [⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors](https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html)
 - [Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development](https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html)
 - [New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
-- [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
 - [TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore](https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html)
 - [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html)
 - [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
-- [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
 
 ### BleepingComputer
 
+- [New StormEncryptor ransomware used by former Medusa affiliate](https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/)
 - [CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/)
 - [When Credentials Are No Longer Enough: Device Trust in the AI Era](https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/)
 - [Member of The Com sent to prison for blackmail, sextortion](https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/)
@@ -34,7 +35,6 @@
 - [Valve notifies Steam hardware customers of a data breach](https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/)
 - [Critical Progress LoadMaster flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/)
 - [Hackers breach TrueConf to trojanize client installers with backdoors](https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/)
-- [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists](https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists)
+- [Coruna, DarkSword iOS Exploits Proliferate Globally](https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally)
 - [Outdated Cybercrime Laws Put Security Researchers at Risk](https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk)
 - [Sherlock Holmes was the “OG” Social Engineer](https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer)
 - [AI-Generated Patches Fail Half the Time](https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time)
 - [The Coordination Gap: How Attackers Are Outpacing Law Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement)
 - [Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride](https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride)
 - [Researcher Claims Control of ChatGPT Secure Sandbox](https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox)
-- [From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture](https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture)
-- [AI Sends Global Crime Syndicates Into Fraud Nirvana](https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana)
 
 ### Security Week
 

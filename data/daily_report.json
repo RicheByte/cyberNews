@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-08-10 16:48",
+  "last_updated": "2026-08-10 18:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "outpacing law enforcement",
-    "democratic party built",
+    "organized cybercrime groups",
     "vulnerability discoveries aided",
-    "threat actor known",
+    "cvss backed patching",
     "software giant fixed",
     "twitter whistleblower complaint",
-    "turn one's television",
     "trigger pause openai",
     "traditional trust signals",
+    "threat actor known",
     "shipping 10 50",
     "replace reusable passwords",
-    "maximum critical threshold",
+    "five point framework",
     "security teams still",
-    "internal evaluation found",
     "high cybersecurity threshold",
     "even working patches",
-    "ai era ai",
     "nonethical hat hackers",
+    "former medusa affiliate",
     "software parts needed",
-    "software development sectors"
+    "software development sectors",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 45
+      "mentions": 46
     },
     {
-      "keyword": "democratic party built",
-      "mentions": 7
+      "keyword": "organized cybercrime groups",
+      "mentions": 1
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 93
+      "mentions": 94
     },
     {
-      "keyword": "threat actor known",
-      "mentions": 51
+      "keyword": "cvss backed patching",
+      "mentions": 1
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 63
+      "mentions": 64
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2355
-    },
-    {
-      "keyword": "turn one's television",
-      "mentions": 47
+      "mentions": 2356
     },
     {
       "keyword": "trigger pause openai",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "traditional trust signals",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "threat actor known",
+      "mentions": 52
     },
     {
       "keyword": "shipping 10 50",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
+      "published": "Mon, 10 Aug 2026 22:59:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw",
+      "link": "https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html",
+      "summary": "Microsoft has disclosed that Storm-1175, a financially motivated threat actor linked to China, has deployed a previously undocumented ransomware strain called StormEncryptor. The use of StormEncryptor marks a shift from the adversary's previous use of Medusa ransomware, the Microsoft Threat Intelligence Team said. \"StormEncryptor is written in C++ and appends the file name extension .encrypted",
+      "published": "Mon, 10 Aug 2026 22:08:37 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors",
@@ -102,15 +122,6 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
-      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
-      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
-      "published": "Mon, 10 Aug 2026 17:22:16 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
       "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
       "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
       "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026. The activity involves exploiting a vulnerability chain",
@@ -139,13 +150,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
-      "link": "https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html",
-      "summary": "Attacker-controlled instructions can make Atlassian's Rovo assistant collect Jira or Confluence data that a signed-in user can access, then send it to an outside server. Two security firms found that behavior independently, by different routes. Only one of those routes is confirmed closed. PromptArmor, an AI security firm, hid the instructions in content Rovo reads. It said an uploaded file was",
-      "published": "Sat, 08 Aug 2026 14:24:50 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "New StormEncryptor ransomware used by former Medusa affiliate",
+      "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
+      "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
+      "published": "Mon, 10 Aug 2026 13:42:00 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -223,20 +236,6 @@
       "value_score": 28,
       "value_signals": [
         "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Metabase SQLi zero-day exploited in customer data-theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/",
-      "summary": "A critical Metabase SQL injection vulnerability was exploited in zero-day attacks to breach customer instances in data theft attacks, known to impact Framework and Tally. [...]",
-      "published": "Fri, 07 Aug 2026 16:14:46 -0400",
-      "value_score": 86,
-      "value_signals": [
-        "Zero-day ×2",
-        "Breach/leak",
-        "High severity",
         "Exploit wording"
       ]
     },
@@ -323,6 +322,29 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
+      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
+      "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
+      "published": "Mon, 10 Aug 2026 17:56:34 GMT",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
+      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
+      "published": "Mon, 10 Aug 2026 17:09:20 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
       "link": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
       "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
@@ -372,24 +394,6 @@
       "link": "https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox",
       "summary": "A researcher demonstrated a proof-of-concept attack chain that provided C2-style influence over ChatGPT's isolated sandbox during a session at Black Hat USA 2026.",
       "published": "Thu, 06 Aug 2026 20:38:51 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture",
-      "link": "https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture",
-      "summary": "Two former chief security officers of the Democratic National Committee explain that a strong security-first mindset requires executive support — and a dose of absurdity.",
-      "published": "Thu, 06 Aug 2026 19:00:11 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "AI Sends Global Crime Syndicates Into Fraud Nirvana",
-      "link": "https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana",
-      "summary": "Organized crime is convincingly scamming at scale, making billions thanks to AI-enabled voice cloning, deepfake real-time video overlays, LLM-driven persona management, and automated translation.",
-      "published": "Wed, 05 Aug 2026 23:35:28 GMT",
       "value_score": 10,
       "value_signals": []
     },

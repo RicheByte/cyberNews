@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2355,
+      "count": 2356,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "threat actor known": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -23174,7 +23174,7 @@
       ]
     },
     "software almost triple": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23238,7 +23238,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23611,7 +23611,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -26056,7 +26056,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26212,7 +26212,7 @@
       ]
     },
     "even working patches": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26292,19 +26292,19 @@
       ]
     },
     "trigger pause openai": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
     },
     "shipping 10 50": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
     },
     "software development sectors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
@@ -26316,13 +26316,13 @@
       ]
     },
     "security teams still": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
     },
     "traditional trust signals": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
@@ -26334,13 +26334,13 @@
       ]
     },
     "high cybersecurity threshold": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
     },
     "software parts needed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
@@ -26352,7 +26352,7 @@
       ]
     },
     "replace reusable passwords": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-10"
       ]
@@ -26364,6 +26364,30 @@
       ]
     },
     "nonethical hat hackers": {
+      "count": 2,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "organized cybercrime groups": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "cvss backed patching": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "five point framework": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "former medusa affiliate": {
       "count": 1,
       "dates": [
         "2026-08-10"
@@ -26371,17 +26395,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-31 15:58",
-      "articles": 48,
-      "top_keywords": [
-        "device code phishing",
-        "malicious python package",
-        "critical flaw allowed",
-        "consumer tv boxes",
-        "us critical infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-07-31 17:41",
       "articles": 48,
@@ -27468,6 +27481,17 @@
         "democratic party built",
         "vulnerability discoveries aided",
         "threat actor known",
+        "software giant fixed"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10 18:48",
+      "articles": 48,
+      "top_keywords": [
+        "outpacing law enforcement",
+        "organized cybercrime groups",
+        "vulnerability discoveries aided",
+        "cvss backed patching",
         "software giant fixed"
       ]
     }

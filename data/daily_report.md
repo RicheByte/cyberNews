@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-10 07:20 UTC  
+> **Last Updated:** 2026-08-10 09:12 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical flaws discovered** • **levi strauss co** • **outpacing law enforcement** • **black hat conference** • **2 million people** • **crypto theft attacks** • **national security risk** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **software giant fixed** • **software almost triple** • **internal evaluation found** • **concept attack chain** • **manipulate ai tools** • **ai generated websites** • **ai browsers vulnerable**
+**critical flaws discovered** • **levi strauss co** • **corporate data stolen** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **national security risk** • **2 million people** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **banking malware campaign** • **software giant fixed** • **software almost triple** • **internal evaluation found** • **manipulate ai tools** • **ai generated websites** • **ai browsers vulnerable**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html)
 - [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
 - [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
 - [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
@@ -23,7 +24,6 @@
 - [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html)
 - [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html)
 - [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html)
-- [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Corporate Data Stolen in Levi Strauss Cyberattack](https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/)
 - [Critical Flaws Discovered in Belgian eID Software Used by 2 Million People](https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/)
 - [Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data](https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/)
 - [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
@@ -67,7 +68,6 @@
 - [Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix](https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/)
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
 - [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
-- [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
 
 ### Threatpost
 

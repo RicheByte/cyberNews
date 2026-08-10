@@ -1,25 +1,25 @@
 {
-  "last_updated": "2026-08-10 07:20",
+  "last_updated": "2026-08-10 09:12",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "critical flaws discovered",
     "levi strauss co",
+    "corporate data stolen",
     "outpacing law enforcement",
     "black hat conference",
-    "2 million people",
     "crypto theft attacks",
     "national security risk",
-    "banking malware campaign",
+    "2 million people",
     "twitter whistleblower complaint",
     "text history records",
     "even working patches",
     "command injection flaw",
     "chatgpt secure sandbox",
+    "banking malware campaign",
     "software giant fixed",
     "software almost triple",
     "internal evaluation found",
-    "concept attack chain",
     "manipulate ai tools",
     "ai generated websites",
     "ai browsers vulnerable"
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "critical flaws discovered",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "levi strauss co",
-      "mentions": 32
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 40
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 35
-    },
-    {
-      "keyword": "2 million people",
-      "mentions": 2
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 31
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 361
-    },
-    {
-      "keyword": "banking malware campaign",
       "mentions": 33
     },
     {
+      "keyword": "corporate data stolen",
+      "mentions": 13
+    },
+    {
+      "keyword": "outpacing law enforcement",
+      "mentions": 41
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 36
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 32
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 362
+    },
+    {
+      "keyword": "2 million people",
+      "mentions": 3
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2350
+      "mentions": 2351
     },
     {
       "keyword": "text history records",
-      "mentions": 40
+      "mentions": 41
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
+      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
+      "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions are below - helper-beeps.solidity-pro web3devtoolsx.solidity-pro Although neither of the extensions is now available on Open VSX, the GitHub repository",
+      "published": "Mon, 10 Aug 2026 13:08:23 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
@@ -141,15 +150,6 @@
       "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
       "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
       "published": "Sat, 08 Aug 2026 00:18:17 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
-      "summary": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture. \"",
-      "published": "Fri, 07 Aug 2026 23:59:08 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,6 +394,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
+      "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
+      "summary": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 08:55:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
       "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
       "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek .",
@@ -467,17 +476,6 @@
         "Auth bypass",
         "Patch/update",
         "High severity"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "3.8 Million Impacted by Unlimited Technology Systems Data Breach",
-      "link": "https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/",
-      "summary": "Hackers stole personal, medical, and health insurance information from a company’s data center. The post 3.8 Million Impacted by Unlimited Technology Systems Data Breach appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 07:22:05 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

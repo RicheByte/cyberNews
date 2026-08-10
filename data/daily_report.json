@@ -1,11 +1,13 @@
 {
-  "last_updated": "2026-08-10 03:47",
+  "last_updated": "2026-08-10 05:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "critical flaws discovered",
     "levi strauss co",
     "outpacing law enforcement",
     "black hat conference",
+    "2 million people",
     "crypto theft attacks",
     "national security risk",
     "banking malware campaign",
@@ -14,56 +16,54 @@
     "even working patches",
     "command injection flaw",
     "chatgpt secure sandbox",
-    "steal saas data",
-    "concept attack chain",
     "software giant fixed",
     "software almost triple",
+    "steal saas data",
+    "concept attack chain",
     "manipulate ai tools",
     "ai generated websites",
-    "ai browsers vulnerable",
-    "vulnerability discoveries aided",
-    "voice phishing vishing"
+    "ai browsers vulnerable"
   ],
   "trending": [
     {
+      "keyword": "critical flaws discovered",
+      "mentions": 1
+    },
+    {
       "keyword": "levi strauss co",
-      "mentions": 30
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 38
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 33
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 29
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 359
-    },
-    {
-      "keyword": "banking malware campaign",
       "mentions": 31
     },
     {
+      "keyword": "outpacing law enforcement",
+      "mentions": 39
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 34
+    },
+    {
+      "keyword": "2 million people",
+      "mentions": 1
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 30
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 360
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 32
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2348
+      "mentions": 2349
     },
     {
       "keyword": "text history records",
-      "mentions": 38
-    },
-    {
-      "keyword": "even working patches",
-      "mentions": 29
-    },
-    {
-      "keyword": "command injection flaw",
-      "mentions": 21
+      "mentions": 39
     }
   ],
   "articles": [
@@ -396,6 +396,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Flaws Discovered in Belgian eID Software Used by 2 Million People",
+      "link": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+      "summary": "The vulnerabilities affected software used by eight of Belgium’s ten largest banks and over 60 government agencies. The post Critical Flaws Discovered in Belgian eID Software Used by 2 Million People appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 04:44:32 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data",
       "link": "https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/",
       "summary": "The RovoBlast attack method identified by Varonis researchers could have been exploited to steal Confluence, Jira and SharePoint data. The post Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data appeared first on SecurityWeek .",
@@ -469,18 +480,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Vulnerabilities Patched With Chrome 151 Update",
-      "link": "https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/",
-      "summary": "The browser refresh eliminates over two dozen memory safety bugs, including critical use-after-free flaws. The post Critical Vulnerabilities Patched With Chrome 151 Update appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 06:56:56 +0000",
-      "value_score": 42,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×3"
       ]
     },
     {

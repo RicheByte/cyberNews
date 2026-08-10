@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-10 03:47 UTC  
+> **Last Updated:** 2026-08-10 05:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**levi strauss co** • **outpacing law enforcement** • **black hat conference** • **crypto theft attacks** • **national security risk** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **steal saas data** • **concept attack chain** • **software giant fixed** • **software almost triple** • **manipulate ai tools** • **ai generated websites** • **ai browsers vulnerable** • **vulnerability discoveries aided** • **voice phishing vishing**
+**critical flaws discovered** • **levi strauss co** • **outpacing law enforcement** • **black hat conference** • **2 million people** • **crypto theft attacks** • **national security risk** • **banking malware campaign** • **twitter whistleblower complaint** • **text history records** • **even working patches** • **command injection flaw** • **chatgpt secure sandbox** • **software giant fixed** • **software almost triple** • **steal saas data** • **concept attack chain** • **manipulate ai tools** • **ai generated websites** • **ai browsers vulnerable**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Critical Flaws Discovered in Belgian eID Software Used by 2 Million People](https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/)
 - [Critical One-Click Vulnerability in Atlassian’s Rovo AI Exposed Enterprise Data](https://www.securityweek.com/critical-one-click-vulnerability-in-atlassians-rovo-ai-exposed-enterprise-data/)
 - [In Other News: AI Slop Limits Apple Bounties, North Carolina Port Attacks, Hackers Target Wall Street](https://www.securityweek.com/in-other-news-ai-slop-limits-apple-bounties-north-carolina-port-attacks-hackers-target-wall-street/)
 - [Vishing Extortion Group UNC6671 Rebrands After Making Millions](https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/)
@@ -67,7 +68,6 @@
 - [Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)](https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/)
 - [Microsoft, Apple Release Fresh Security Updates](https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/)
 - [3.8 Million Impacted by Unlimited Technology Systems Data Breach](https://www.securityweek.com/3-8-million-impacted-by-unlimited-technology-systems-data-breach/)
-- [Critical Vulnerabilities Patched With Chrome 151 Update](https://www.securityweek.com/critical-vulnerabilities-patched-with-chrome-151-update/)
 
 ### Threatpost
 

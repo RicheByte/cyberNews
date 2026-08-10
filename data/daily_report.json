@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 18:48",
+  "last_updated": "2026-08-10 20:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,61 +9,61 @@
     "cvss backed patching",
     "software giant fixed",
     "twitter whistleblower complaint",
-    "trigger pause openai",
     "traditional trust signals",
     "threat actor known",
     "shipping 10 50",
     "replace reusable passwords",
     "five point framework",
+    "trigger pause openai",
+    "approved users openai",
     "security teams still",
     "high cybersecurity threshold",
     "even working patches",
-    "nonethical hat hackers",
+    "unpatched trueconf servers",
     "former medusa affiliate",
     "software parts needed",
-    "software development sectors",
-    "software almost triple"
+    "software development sectors"
   ],
   "trending": [
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 46
+      "mentions": 47
     },
     {
       "keyword": "organized cybercrime groups",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 94
+      "mentions": 95
     },
     {
       "keyword": "cvss backed patching",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 64
+      "mentions": 65
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2356
-    },
-    {
-      "keyword": "trigger pause openai",
-      "mentions": 4
+      "mentions": 2357
     },
     {
       "keyword": "traditional trust signals",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "threat actor known",
-      "mentions": 52
+      "mentions": 53
     },
     {
       "keyword": "shipping 10 50",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "replace reusable passwords",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
+      "summary": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
+      "published": "Mon, 10 Aug 2026 15:24:40 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New StormEncryptor ransomware used by former Medusa affiliate",
       "link": "https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/",
       "summary": "A financially motivated threat actor previously associated with the Medusa ransomware operation is now deploying a new ransomware strain called StormEncryptor. [...]",
@@ -224,18 +233,6 @@
         "Active exploitation",
         "CISA/KEV",
         "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
-      "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
-      "published": "Sat, 08 Aug 2026 10:16:23 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
         "Exploit wording"
       ]
     },

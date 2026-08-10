@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-10 14:52 UTC  
+> **Last Updated:** 2026-08-10 16:48 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**outpacing law enforcement** • **vulnerability discoveries aided** • **software giant fixed** • **twitter whistleblower complaint** • **turn one's television** • **trigger pause openai** • **traditional trust signals** • **shipping 10 50** • **maximum critical threshold** • **democratic party built** • **internal evaluation found** • **high cybersecurity threshold** • **even working patches** • **threat actor known** • **software parts needed** • **software development sectors** • **software almost triple** • **security teams still** • **national security risk** • **unpatched trueconf servers**
+**outpacing law enforcement** • **democratic party built** • **vulnerability discoveries aided** • **threat actor known** • **software giant fixed** • **twitter whistleblower complaint** • **turn one's television** • **trigger pause openai** • **traditional trust signals** • **shipping 10 50** • **replace reusable passwords** • **maximum critical threshold** • **security teams still** • **internal evaluation found** • **high cybersecurity threshold** • **even working patches** • **ai era ai** • **nonethical hat hackers** • **software parts needed** • **software development sectors**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: AI Goes Rogue, Metabase 0-Day, MCP Supply-Chain Attacks, and Router Backdoors](https://thehackernews.com/2026/08/weekly-recap-ai-goes-rogue-metabase-0.html)
 - [Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development](https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html)
 - [New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
 - [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
@@ -23,7 +24,6 @@
 - [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html)
 - [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html)
 - [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html)
-- [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Outdated Cybercrime Laws Put Security Researchers at Risk](https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk)
+- [Sherlock Holmes was the “OG” Social Engineer](https://www.darkreading.com/cyber-risk/sherlock-holmes-was-the-og-social-engineer)
 - [AI-Generated Patches Fail Half the Time](https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time)
 - [The Coordination Gap: How Attackers Are Outpacing Law Enforcement](https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement)
 - [Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride](https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride)
 - [Researcher Claims Control of ChatGPT Secure Sandbox](https://www.darkreading.com/cloud-security/researcher-claims-control-chatgpt-secure-sandbox)
 - [From Bobmojis to Bobbleheads: How the Democratic Party Built a Security-First Culture](https://www.darkreading.com/cybersecurity-operations/from-bobmojis-to-bobbleheads-how-the-democratic-party-built-a-security-first-culture)
 - [AI Sends Global Crime Syndicates Into Fraud Nirvana](https://www.darkreading.com/threat-intelligence/ai-global-crime-syndicates-fraud-nirvana)
-- [AI Browsers Vulnerable to 'PleaseFix' Zero-Click Agent Hijacking](https://www.darkreading.com/cyber-risk/ai-browsers-zero-click-agent-hijacking)
-- [No Perfect Fix for AI Browser Prompt Injection Flaws](https://www.darkreading.com/application-security/no-perfect-fix-ai-browser-prompt-injection-flaws)
 
 ### Security Week
 

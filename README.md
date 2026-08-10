@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-10 14:52 UTC |
+| 🕐 Last Updated | 2026-08-10 16:48 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`outpacing law enforcement` • `vulnerability discoveries aided` • `software giant fixed` • `twitter whistleblower complaint` • `turn one's television` • `trigger pause openai` • `traditional trust signals` • `shipping 10 50` • `maximum critical threshold` • `democratic party built`
+`outpacing law enforcement` • `democratic party built` • `vulnerability discoveries aided` • `threat actor known` • `software giant fixed` • `twitter whistleblower complaint` • `turn one's television` • `trigger pause openai` • `traditional trust signals` • `shipping 10 50`
 
 ## 📄 Reports
 

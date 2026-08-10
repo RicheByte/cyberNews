@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 11:02",
+  "last_updated": "2026-08-10 12:55",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,97 @@
     "levi strauss co",
     "corporate data stolen",
     "outpacing law enforcement",
-    "national security risk",
-    "2 million people",
-    "twitter whistleblower complaint",
-    "text history records",
-    "even working patches",
-    "command injection flaw",
-    "chatgpt secure sandbox",
     "software giant fixed",
-    "software almost triple",
     "vulnerability discoveries aided",
-    "internal evaluation found",
-    "manipulate ai tools",
-    "ai generated websites",
-    "ai browsers vulnerable",
+    "2 million people",
     "unauthenticated remote attacker",
-    "turn one's television"
+    "twitter whistleblower complaint",
+    "trigger pause openai",
+    "shipping 10 50",
+    "democratic party built",
+    "software development sectors",
+    "software almost triple",
+    "threat actor known",
+    "internal evaluation found",
+    "even working patches",
+    "diligence metabase api",
+    "security teams still",
+    "national security risk"
   ],
   "trending": [
     {
       "keyword": "critical flaws discovered",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "levi strauss co",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "corporate data stolen",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 42
+      "mentions": 43
     },
     {
-      "keyword": "national security risk",
-      "mentions": 363
+      "keyword": "software giant fixed",
+      "mentions": 61
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 91
     },
     {
       "keyword": "2 million people",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "unauthenticated remote attacker",
+      "mentions": 24
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2352
+      "mentions": 2353
     },
     {
-      "keyword": "text history records",
-      "mentions": 42
-    },
-    {
-      "keyword": "even working patches",
-      "mentions": 33
-    },
-    {
-      "keyword": "command injection flaw",
-      "mentions": 25
+      "keyword": "trigger pause openai",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
+      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
+      "summary": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a",
+      "published": "Mon, 10 Aug 2026 17:55:04 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
+      "link": "https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html",
+      "summary": "AI is helping development teams produce far more code, far faster. But security teams still have to review vulnerabilities, manage dependencies, prioritize fixes, and control risk at human speed. When software output jumps 10 to 50 times, the problem is no longer just finding vulnerabilities. It is keeping security from becoming the bottleneck, or worse, losing control of what gets shipped.",
+      "published": "Mon, 10 Aug 2026 17:22:16 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
+      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
+      "summary": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026. The activity involves exploiting a vulnerability chain",
+      "published": "Mon, 10 Aug 2026 17:03:41 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
@@ -119,39 +150,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist",
-      "link": "https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html",
-      "summary": "N-able has released a fresh round of hotfixes for N‑central as part of its investigation into ongoing exploitation of a recently disclosed security flaw in the Remote Monitoring and Management (RMM) product. \"We are proactively expanding protections in response to ongoing monitoring of threat actors as they evolve their attack techniques,\" the company said. \"This is not a duplicate of our",
-      "published": "Sat, 08 Aug 2026 12:27:43 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts",
-      "link": "https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a critical-severity security flaw impacting Progress Kemp LoadMaster to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-8037 (CVSS score: 9.6), is a command injection flaw that could be weaponized to achieve arbitrary",
-      "published": "Sat, 08 Aug 2026 12:22:16 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×5",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
-      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
-      "summary": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
-      "published": "Sat, 08 Aug 2026 00:18:17 +0530",
+      "source": "BleepingComputer",
+      "title": "LexisNexis shuts down services after suspicious activity on servers",
+      "link": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+      "summary": "LexisNexis took its Diligence, Metabase API, and Newsdesk services offline as part of its response to unusual activity on servers hosted and managed by an unnamed third-party vendor. [...]",
+      "published": "Mon, 10 Aug 2026 08:11:52 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Valve notifies Steam hardware customers of a data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
+      "published": "Mon, 10 Aug 2026 07:47:55 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -219,24 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
       "summary": "Gen's H1 2026 Threat Report examines two separate attack chains. One used compromised business inboxes and browser manipulation in a banking-malware campaign, while the other used clipboard hijacking to redirect cryptocurrency payments. [...]",
       "published": "Fri, 07 Aug 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "North Carolina Ports confirms cyberattack disrupting operations",
-      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-      "summary": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
-      "published": "Fri, 07 Aug 2026 09:34:40 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
-      "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
-      "published": "Thu, 06 Aug 2026 18:48:22 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -399,6 +397,27 @@
     },
     {
       "source": "Security Week",
+      "title": "New Jersey, Alabama Join States Targeted in Water Cyberattacks",
+      "link": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+      "summary": "Hackers linked to Iran targeted industrial control systems (ICS) at water facilities in at least a dozen US states. The post New Jersey, Alabama Join States Targeted in Water Cyberattacks appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 11:44:26 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Metabase Patches Vulnerability Exploited as Zero-Day",
+      "link": "https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/",
+      "summary": "The security defect allows unauthenticated, remote attackers to gain administrative access to Metabase instances. The post Metabase Patches Vulnerability Exploited as Zero-Day appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 11:03:55 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
       "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
       "summary": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek .",
@@ -460,27 +479,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Vishing Extortion Group UNC6671 Rebrands After Making Millions",
-      "link": "https://www.securityweek.com/vishing-extortion-group-unc6671-rebrands-after-making-millions/",
-      "summary": "Initially calling itself BlackFile, the group has expanded operations to the Redact, Pink, Helix, and Falcon brands. The post Vishing Extortion Group UNC6671 Rebrands After Making Millions appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 11:06:01 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix",
-      "link": "https://www.securityweek.com/truck-brake-controllers-safety-recall-doubled-as-hidden-security-fix/",
-      "summary": "NMFTA research shows a Bendix EC80 brake controller safety recall also patched remote code execution and DoS vulnerabilities. The post Truck Brake Controller’s Safety Recall Doubled as Hidden Security Fix appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 10:00:00 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "RCE",
-        "Patch/update ×2"
       ]
     },
     {

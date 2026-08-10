@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2352,
+      "count": 2353,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "threat actor known": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -697,7 +697,8 @@
         "2026-06-05",
         "2026-06-06",
         "2026-07-02",
-        "2026-07-03"
+        "2026-07-03",
+        "2026-08-10"
       ]
     },
     "firefox web browser": {
@@ -1185,7 +1186,7 @@
       ]
     },
     "national security risk": {
-      "count": 363,
+      "count": 364,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2680,7 +2681,7 @@
       ]
     },
     "corporate data stolen": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-06",
         "2026-08-10"
@@ -2835,7 +2836,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -23173,7 +23174,7 @@
       ]
     },
     "software almost triple": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23237,7 +23238,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23610,7 +23611,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -26055,7 +26056,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26106,10 +26107,11 @@
       ]
     },
     "democratic party built": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-10"
       ]
     },
     "supply chain resilience": {
@@ -26201,7 +26203,7 @@
       ]
     },
     "levi strauss co": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26210,7 +26212,7 @@
       ]
     },
     "even working patches": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26272,36 +26274,55 @@
       ]
     },
     "critical flaws discovered": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10"
       ]
     },
     "2 million people": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10"
       ]
     },
     "internal evaluation found": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "trigger pause openai": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "shipping 10 50": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "software development sectors": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "diligence metabase api": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "security teams still": {
+      "count": 1,
       "dates": [
         "2026-08-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-31 06:38",
-      "articles": 48,
-      "top_keywords": [
-        "ai generated websites",
-        "released security updates",
-        "residential proxy node",
-        "least 88 billion",
-        "data protection violations"
-      ]
-    },
     {
       "timestamp": "2026-07-31 10:32",
       "articles": 48,
@@ -27389,6 +27410,17 @@
         "corporate data stolen",
         "outpacing law enforcement",
         "national security risk"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10 12:55",
+      "articles": 48,
+      "top_keywords": [
+        "critical flaws discovered",
+        "levi strauss co",
+        "corporate data stolen",
+        "outpacing law enforcement",
+        "software giant fixed"
       ]
     }
   ]

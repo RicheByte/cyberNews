@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2351,
+      "count": 2352,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1185,7 +1185,7 @@
       ]
     },
     "national security risk": {
-      "count": 362,
+      "count": 363,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2680,7 +2680,7 @@
       ]
     },
     "corporate data stolen": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-06",
         "2026-08-10"
@@ -2835,7 +2835,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2843,7 +2843,8 @@
         "2026-04-22",
         "2026-05-22",
         "2026-05-23",
-        "2026-07-30"
+        "2026-07-30",
+        "2026-08-10"
       ]
     },
     "remote authenticated attacker": {
@@ -23172,7 +23173,7 @@
       ]
     },
     "software almost triple": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23236,7 +23237,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23609,7 +23610,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24384,7 +24385,7 @@
       ]
     },
     "turn one's television": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24397,7 +24398,8 @@
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-08-10"
       ]
     },
     "anthropic's claude cowork": {
@@ -25197,7 +25199,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26053,7 +26055,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26077,7 +26079,7 @@
       ]
     },
     "text history records": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26087,7 +26089,7 @@
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26199,7 +26201,7 @@
       ]
     },
     "levi strauss co": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26208,7 +26210,7 @@
       ]
     },
     "even working patches": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26238,7 +26240,7 @@
       ]
     },
     "command injection flaw": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26246,7 +26248,7 @@
       ]
     },
     "manipulate ai tools": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26254,7 +26256,7 @@
       ]
     },
     "ai browsers vulnerable": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26270,36 +26272,25 @@
       ]
     },
     "critical flaws discovered": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
     },
     "2 million people": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
     },
     "internal evaluation found": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-31 02:13",
-      "articles": 48,
-      "top_keywords": [
-        "ai generated websites",
-        "released security updates",
-        "residential proxy node",
-        "least 88 billion",
-        "data protection violations"
-      ]
-    },
     {
       "timestamp": "2026-07-31 06:38",
       "articles": 48,
@@ -27387,6 +27378,17 @@
         "corporate data stolen",
         "outpacing law enforcement",
         "black hat conference"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10 11:02",
+      "articles": 48,
+      "top_keywords": [
+        "critical flaws discovered",
+        "levi strauss co",
+        "corporate data stolen",
+        "outpacing law enforcement",
+        "national security risk"
       ]
     }
   ]

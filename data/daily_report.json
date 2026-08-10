@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 09:12",
+  "last_updated": "2026-08-10 11:02",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,8 +7,6 @@
     "levi strauss co",
     "corporate data stolen",
     "outpacing law enforcement",
-    "black hat conference",
-    "crypto theft attacks",
     "national security risk",
     "2 million people",
     "twitter whistleblower complaint",
@@ -16,54 +14,56 @@
     "even working patches",
     "command injection flaw",
     "chatgpt secure sandbox",
-    "banking malware campaign",
     "software giant fixed",
     "software almost triple",
+    "vulnerability discoveries aided",
     "internal evaluation found",
     "manipulate ai tools",
     "ai generated websites",
-    "ai browsers vulnerable"
+    "ai browsers vulnerable",
+    "unauthenticated remote attacker",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "critical flaws discovered",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "levi strauss co",
-      "mentions": 33
+      "mentions": 34
     },
     {
       "keyword": "corporate data stolen",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "outpacing law enforcement",
-      "mentions": 41
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 36
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 32
+      "mentions": 42
     },
     {
       "keyword": "national security risk",
-      "mentions": 362
+      "mentions": 363
     },
     {
       "keyword": "2 million people",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2351
+      "mentions": 2352
     },
     {
       "keyword": "text history records",
-      "mentions": 41
+      "mentions": 42
+    },
+    {
+      "keyword": "even working patches",
+      "mentions": 33
+    },
+    {
+      "keyword": "command injection flaw",
+      "mentions": 25
     }
   ],
   "articles": [
@@ -155,6 +155,20 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical Progress LoadMaster flaw now actively exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-progress-loadmaster-flaw-exploited-in-attacks/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity Progress Kemp LoadMaster command injection vulnerability. [...]",
+      "published": "Mon, 10 Aug 2026 05:49:37 -0400",
+      "value_score": 77,
+      "value_signals": [
+        "Active exploitation",
+        "CISA/KEV",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers breach TrueConf to trojanize client installers with backdoors",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-trueconf-to-trojanize-client-installers-with-backdoors/",
       "summary": "The Head Mare hacktivist group has been exploiting vulnerabilities in unpatched TrueConf video conferencing servers to replace client installers with malicious versions that deliver backdoors. [...]",
@@ -223,15 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
       "summary": "OpenAI is rolling out a more reliable version of ChatGPT GPT-5.6 Sol for Plus and Pro users, while Free users are getting unlimited text chats with GPT-5.6 Luna. [...]",
       "published": "Thu, 06 Aug 2026 18:48:22 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ClickFix attack pushes macOS infostealer for crypto theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clickfix-attack-pushes-macos-infostealer-for-crypto-theft-attacks/",
-      "summary": "A Go-based malware delivered in ClickFix attacks targeting macOS users is stealing cryptocurrency assets, browser-stored passwords, Apple Keychain data, and cached credentials. [...]",
-      "published": "Thu, 06 Aug 2026 18:37:17 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,6 +399,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility",
+      "link": "https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/",
+      "summary": "CERT.PL said this appears to be the first instance of a private APN being used as an attack vector. The post Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 10:01:52 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
+      "summary": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek .",
+      "published": "Mon, 10 Aug 2026 09:31:51 +0000",
+      "value_score": 64,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Corporate Data Stolen in Levi Strauss Cyberattack",
       "link": "https://www.securityweek.com/corporate-data-stolen-in-levi-strauss-cyberattack/",
       "summary": "Using social engineering, a threat actor accessed the computers of three employees and exfiltrated data from them. The post Corporate Data Stolen in Levi Strauss Cyberattack appeared first on SecurityWeek .",
@@ -454,28 +481,6 @@
       "value_signals": [
         "RCE",
         "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 4)",
-      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-4/",
-      "summary": "Companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 4) appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 09:24:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft, Apple Release Fresh Security Updates",
-      "link": "https://www.securityweek.com/microsoft-apple-release-fresh-security-updates/",
-      "summary": "Microsoft fixed critical vulnerabilities across Azure, Entra, and SharePoint, while Apple patched a high-severity authentication bypass. The post Microsoft, Apple Release Fresh Security Updates appeared first on SecurityWeek .",
-      "published": "Fri, 07 Aug 2026 09:09:54 +0000",
-      "value_score": 41,
-      "value_signals": [
-        "Auth bypass",
-        "Patch/update",
-        "High severity"
       ]
     },
     {

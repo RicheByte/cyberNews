@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2349,
+      "count": 2350,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1185,7 +1185,7 @@
       ]
     },
     "national security risk": {
-      "count": 360,
+      "count": 361,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7753,7 +7753,7 @@
       ]
     },
     "crypto theft attacks": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-02-16",
         "2026-08-07",
@@ -23171,7 +23171,7 @@
       ]
     },
     "software almost triple": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23235,7 +23235,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -25196,7 +25196,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26052,7 +26052,7 @@
       ]
     },
     "outpacing law enforcement": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26076,7 +26076,7 @@
       ]
     },
     "text history records": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26086,7 +26086,7 @@
       ]
     },
     "chatgpt secure sandbox": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26136,7 +26136,7 @@
       ]
     },
     "black hat conference": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26183,7 +26183,7 @@
       ]
     },
     "banking malware campaign": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26198,7 +26198,7 @@
       ]
     },
     "levi strauss co": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26207,7 +26207,7 @@
       ]
     },
     "even working patches": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26237,7 +26237,7 @@
       ]
     },
     "command injection flaw": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26245,7 +26245,7 @@
       ]
     },
     "manipulate ai tools": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26253,7 +26253,7 @@
       ]
     },
     "ai browsers vulnerable": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26261,7 +26261,7 @@
       ]
     },
     "concept attack chain": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-08",
         "2026-08-09",
@@ -26269,12 +26269,18 @@
       ]
     },
     "critical flaws discovered": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-10"
       ]
     },
     "2 million people": {
+      "count": 2,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "internal evaluation found": {
       "count": 1,
       "dates": [
         "2026-08-10"
@@ -26282,17 +26288,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-30 21:01",
-      "articles": 48,
-      "top_keywords": [
-        "released security updates",
-        "ai generated websites",
-        "residential proxy node",
-        "least 88 billion",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-07-30 22:59",
       "articles": 48,
@@ -27373,6 +27368,17 @@
     },
     {
       "timestamp": "2026-08-10 05:20",
+      "articles": 48,
+      "top_keywords": [
+        "critical flaws discovered",
+        "levi strauss co",
+        "outpacing law enforcement",
+        "black hat conference",
+        "2 million people"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10 07:20",
       "articles": 48,
       "top_keywords": [
         "critical flaws discovered",

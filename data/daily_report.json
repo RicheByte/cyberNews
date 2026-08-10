@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 05:20",
+  "last_updated": "2026-08-10 07:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -18,7 +18,7 @@
     "chatgpt secure sandbox",
     "software giant fixed",
     "software almost triple",
-    "steal saas data",
+    "internal evaluation found",
     "concept attack chain",
     "manipulate ai tools",
     "ai generated websites",
@@ -27,46 +27,55 @@
   "trending": [
     {
       "keyword": "critical flaws discovered",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "levi strauss co",
-      "mentions": 31
-    },
-    {
-      "keyword": "outpacing law enforcement",
-      "mentions": 39
-    },
-    {
-      "keyword": "black hat conference",
-      "mentions": 34
-    },
-    {
-      "keyword": "2 million people",
-      "mentions": 1
-    },
-    {
-      "keyword": "crypto theft attacks",
-      "mentions": 30
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 360
-    },
-    {
-      "keyword": "banking malware campaign",
       "mentions": 32
     },
     {
+      "keyword": "outpacing law enforcement",
+      "mentions": 40
+    },
+    {
+      "keyword": "black hat conference",
+      "mentions": 35
+    },
+    {
+      "keyword": "2 million people",
+      "mentions": 2
+    },
+    {
+      "keyword": "crypto theft attacks",
+      "mentions": 31
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 361
+    },
+    {
+      "keyword": "banking malware campaign",
+      "mentions": 33
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2349
+      "mentions": 2350
     },
     {
       "keyword": "text history records",
-      "mentions": 39
+      "mentions": 40
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
+      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
+      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
+      "published": "Mon, 10 Aug 2026 11:20:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers",
@@ -143,17 +152,6 @@
       "published": "Fri, 07 Aug 2026 23:59:08 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
-      "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
-      "summary": "A recent wave of cyber attacks targeting financial services, private equity, and professional services has been attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via",
-      "published": "Fri, 07 Aug 2026 23:46:13 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
     },
     {
       "source": "BleepingComputer",

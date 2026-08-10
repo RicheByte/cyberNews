@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2357,
+      "count": 2358,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -684,7 +684,7 @@
       ]
     },
     "threat actor known": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -950,12 +950,13 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2025-12-18",
         "2025-12-19",
         "2026-04-07",
-        "2026-04-08"
+        "2026-04-08",
+        "2026-08-10"
       ]
     },
     "remote work requires": {
@@ -20717,10 +20718,11 @@
       ]
     },
     "hijack ai agents": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-06-22",
-        "2026-06-23"
+        "2026-06-23",
+        "2026-08-10"
       ]
     },
     "ai agents earlier": {
@@ -23238,7 +23240,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23611,7 +23613,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -26212,7 +26214,7 @@
       ]
     },
     "even working patches": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26298,13 +26300,13 @@
       ]
     },
     "shipping 10 50": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-10"
       ]
     },
     "software development sectors": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-10"
       ]
@@ -26322,7 +26324,7 @@
       ]
     },
     "traditional trust signals": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10"
       ]
@@ -26334,25 +26336,25 @@
       ]
     },
     "high cybersecurity threshold": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10"
       ]
     },
     "software parts needed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10"
       ]
     },
     "unpatched trueconf servers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
     },
     "replace reusable passwords": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-10"
       ]
@@ -26370,25 +26372,25 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
     },
     "cvss backed patching": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
     },
     "five point framework": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
     },
     "former medusa affiliate": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-10"
       ]
@@ -26398,20 +26400,21 @@
       "dates": [
         "2026-08-10"
       ]
+    },
+    "zero trust strategies": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
+    },
+    "today s ethical": {
+      "count": 1,
+      "dates": [
+        "2026-08-10"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-07-31 19:16",
-      "articles": 48,
-      "top_keywords": [
-        "device code phishing",
-        "malicious python package",
-        "critical flaw allowed",
-        "consumer tv boxes",
-        "us critical infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-07-31 20:58",
       "articles": 48,
@@ -27497,6 +27500,17 @@
         "outpacing law enforcement",
         "organized cybercrime groups",
         "vulnerability discoveries aided",
+        "cvss backed patching",
+        "software giant fixed"
+      ]
+    },
+    {
+      "timestamp": "2026-08-10 22:30",
+      "articles": 48,
+      "top_keywords": [
+        "organized cybercrime groups",
+        "maximum severity vulnerability",
+        "threat actor known",
         "cvss backed patching",
         "software giant fixed"
       ]

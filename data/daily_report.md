@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-11 08:47 UTC  
+> **Last Updated:** 2026-08-11 10:44 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**organized cybercrime groups** • **maximum severity vulnerability** • **threat actor known** • **shipping 10 50** • **zero trust strategies** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **traditional trust signals** • **replace reusable passwords** • **reach remote equipment** • **protecting ethical hackers** • **nonethical hat hackers** • **hijack ai agents** • **five point framework** • **cvss backed patching** • **even working patches** • **unpatched trueconf servers** • **today s ethical** • **high cybersecurity threshold** • **former medusa affiliate**
+**organized cybercrime groups** • **threat actor known** • **shipping 10 50** • **zero trust strategies** • **unpatched trueconf servers** • **twitter whistleblower complaint** • **traditional trust signals** • **replace reusable passwords** • **reach remote equipment** • **maximum severity vulnerability** • **five point framework** • **cvss backed patching** • **hijack ai agents** • **private cellular network** • **today s ethical** • **high cybersecurity threshold** • **former medusa affiliate** • **software parts needed** • **software giant fixed** • **software development sectors**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [US and South Korea warn of Gunra ransomware targeting govt agencies](https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/)
 - [Hackers breached a small Polish energy plant via private APN last year](https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/)
 - [BdThemes plugins supply-chain hack creates rogue WordPress admins](https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/)
 - [OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users](https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/)
@@ -34,7 +35,6 @@
 - [CISA: SonicWall SMA1000 flaws now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/)
 - [When Credentials Are No Longer Enough: Device Trust in the AI Era](https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/)
 - [Member of The Com sent to prison for blackmail, sextortion](https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/)
-- [LexisNexis shuts down services after suspicious activity on servers](https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption](https://www.securityweek.com/hacker-conversations-marcus-hutchins/)
+- [OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber](https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/)
 - [Mozilla Issues New Firefox GPG Key Following Exposure](https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/)
 - [OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns](https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/)
 - [Stealthium Targets Security Blind Spots in AI Accelerators and Neo-Clouds](https://www.securityweek.com/stealthium-targets-security-blind-spots-in-ai-accelerators-and-neo-clouds/)
 - [Cisco Warns of High-Severity ClamAV Vulnerabilities With Public PoC](https://www.securityweek.com/cisco-warns-of-high-severity-clamav-vulnerabilities-with-public-poc/)
 - [‘Ghostjacking’ Attack Uses Poisoned Logs to Turn AI Agents Bad](https://www.securityweek.com/ghostjacking-attack-uses-poisoned-logs-to-turn-ai-agents-bad/)
 - [New Jersey, Alabama Join States Targeted in Water Cyberattacks](https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/)
-- [Metabase Patches Vulnerability Exploited as Zero-Day](https://www.securityweek.com/metabase-patches-vulnerability-exploited-as-zero-day/)
-- [Novel Private APN Pivot Let Hackers Sabotage Second Polish Energy Facility](https://www.securityweek.com/novel-private-apn-pivot-let-hackers-sabotage-second-polish-energy-facility/)
 
 ### Threatpost
 

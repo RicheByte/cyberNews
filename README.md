@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-11 08:47 UTC |
+| 🕐 Last Updated | 2026-08-11 10:44 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`organized cybercrime groups` • `maximum severity vulnerability` • `threat actor known` • `shipping 10 50` • `zero trust strategies` • `vulnerability discoveries aided` • `twitter whistleblower complaint` • `traditional trust signals` • `replace reusable passwords` • `reach remote equipment`
+`organized cybercrime groups` • `threat actor known` • `shipping 10 50` • `zero trust strategies` • `unpatched trueconf servers` • `twitter whistleblower complaint` • `traditional trust signals` • `replace reusable passwords` • `reach remote equipment` • `maximum severity vulnerability`
 
 ## 📄 Reports
 

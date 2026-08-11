@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2363,
+      "count": 2364,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -685,7 +685,7 @@
       ]
     },
     "threat actor known": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -952,7 +952,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -20721,7 +20721,7 @@
       ]
     },
     "hijack ai agents": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -23244,7 +23244,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23257,7 +23257,8 @@
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-11"
       ]
     },
     "windows bind links": {
@@ -26306,16 +26307,17 @@
       ]
     },
     "shipping 10 50": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "software development sectors": {
-      "count": 6,
+      "count": 7,
       "dates": [
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-11"
       ]
     },
     "diligence metabase api": {
@@ -26331,7 +26333,7 @@
       ]
     },
     "traditional trust signals": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26344,28 +26346,28 @@
       ]
     },
     "high cybersecurity threshold": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "software parts needed": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "unpatched trueconf servers": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "replace reusable passwords": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26385,28 +26387,28 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "former medusa affiliate": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26419,14 +26421,14 @@
       ]
     },
     "zero trust strategies": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "today s ethical": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26445,6 +26447,12 @@
       ]
     },
     "reach remote equipment": {
+      "count": 2,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "private cellular network": {
       "count": 1,
       "dates": [
         "2026-08-11"
@@ -26452,17 +26460,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 11:12",
-      "articles": 48,
-      "top_keywords": [
-        "session hijacking flaw",
-        "critical flaw allowed",
-        "iranian hackers iran",
-        "cve 2026 63077",
-        "spear phishing attack"
-      ]
-    },
     {
       "timestamp": "2026-08-01 13:06",
       "articles": 48,
@@ -27550,6 +27547,17 @@
         "threat actor known",
         "shipping 10 50",
         "zero trust strategies"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 10:44",
+      "articles": 48,
+      "top_keywords": [
+        "organized cybercrime groups",
+        "threat actor known",
+        "shipping 10 50",
+        "zero trust strategies",
+        "unpatched trueconf servers"
       ]
     }
   ]

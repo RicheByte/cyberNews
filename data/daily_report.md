@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-11 14:52 UTC  
+> **Last Updated:** 2026-08-11 16:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**water watch center** • **fake crypto startup** • **clamav scanning process** • **assistant already uses** • **allow threat actors** • **300 000 installs** • **maximum severity vulnerability** • **organized cybercrime groups** • **4 6 rating** • **twitter whistleblower complaint** • **schneider electric flaws** • **reach remote equipment** • **private code repositories** • **hijack ai agents** • **guilty pleas came** • **five point framework** • **cvss backed patching** • **vulnerability discoveries aided** • **malicious sim card** • **malicious mcp servers**
+**water watch center** • **fake crypto startup** • **clamav scanning process** • **assistant already uses** • **allow threat actors** • **hijack ai agents** • **300 000 installs** • **maximum severity vulnerability** • **organized cybercrime groups** • **cvss backed patching** • **4 6 rating** • **twitter whistleblower complaint** • **schneider electric flaws** • **guilty pleas came** • **five point framework** • **every virtual machine** • **vulnerability discoveries aided** • **malicious sim card** • **malicious mcp servers** • **critical severity bugs**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
 - [Mozilla updates GPG signing key for Firefox releases after exposure](https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/)
 - [Vague Task, Total Access: When AI Delegation Becomes a Security Risk](https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/)
 - [DDoS attacks over 1 Tbps surged fivefold in the second quarter](https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/)
@@ -34,7 +35,6 @@
 - [Cisco warns of high-severity ClamAV flaws with public exploits](https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/)
 - [US and South Korea warn of Gunra ransomware targeting govt agencies](https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/)
 - [Hackers breached a small Polish energy plant via private APN last year](https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/)
-- [BdThemes plugins supply-chain hack creates rogue WordPress admins](https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws](https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/)
+- [Zoom Patches Zero-Click Code Execution Vulnerability](https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/)
+- [The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It](https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/)
 - [SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities](https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/)
 - [US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’](https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/)
 - [Corma Raises $60 Million for Defensive Cybersecurity AI Model](https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/)
 - [Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities](https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/)
 - [Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption](https://www.securityweek.com/hacker-conversations-marcus-hutchins/)
-- [OpenAI Unveils New Cybersecurity Model GPT-5.6-Cyber](https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/)
-- [Mozilla Issues New Firefox GPG Key Following Exposure](https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/)
-- [OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns](https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/)
 
 ### Threatpost
 

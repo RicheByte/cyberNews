@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-11 14:52 UTC |
+| 🕐 Last Updated | 2026-08-11 16:53 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`water watch center` • `fake crypto startup` • `clamav scanning process` • `assistant already uses` • `allow threat actors` • `300 000 installs` • `maximum severity vulnerability` • `organized cybercrime groups` • `4 6 rating` • `twitter whistleblower complaint`
+`water watch center` • `fake crypto startup` • `clamav scanning process` • `assistant already uses` • `allow threat actors` • `hijack ai agents` • `300 000 installs` • `maximum severity vulnerability` • `organized cybercrime groups` • `cvss backed patching`
 
 ## 📄 Reports
 

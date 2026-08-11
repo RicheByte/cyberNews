@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-11 16:53 UTC  
+> **Last Updated:** 2026-08-11 18:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**water watch center** • **fake crypto startup** • **clamav scanning process** • **assistant already uses** • **allow threat actors** • **hijack ai agents** • **300 000 installs** • **maximum severity vulnerability** • **organized cybercrime groups** • **cvss backed patching** • **4 6 rating** • **twitter whistleblower complaint** • **schneider electric flaws** • **guilty pleas came** • **five point framework** • **every virtual machine** • **vulnerability discoveries aided** • **malicious sim card** • **malicious mcp servers** • **critical severity bugs**
+**water watch center** • **fake crypto startup** • **def con aims** • **ransomware group known** • **organized cybercrime groups** • **cvss backed patching** • **4 6 rating** • **hijack ai agents** • **comes security updates** • **twitter whistleblower complaint** • **sharepoint server 2016** • **guilty pleas came** • **five point framework** • **every virtual machine** • **distribution giant wesco** • **300 000 installs** • **fix security vulnerabilities** • **vulnerability discoveries aided** • **session messaging network** • **maximum severity vulnerability**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands](https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html)
+- [Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE](https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html)
+- [DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt](https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html)
 - [OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development](https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html)
 - [A Malicious SIM Card Can Run Attacker Code Inside the Modems Behind Cellular IoT Devices](https://thehackernews.com/2026/08/a-malicious-sim-card-can-run-attacker.html)
 - [Mozilla Revokes Firefox and Thunderbird Linux Signing Key After Key Lands in Private Repo](https://thehackernews.com/2026/08/mozilla-revokes-firefox-and-thunderbird.html)
 - [Researchers Built a Fake Crypto Startup and Hired Three Suspected North Korean IT Workers](https://thehackernews.com/2026/08/researchers-built-fake-crypto-startup.html)
 - [Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11](https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html)
-- [Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets](https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html)
-- [Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks](https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html)
-- [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html)
 
 ### BleepingComputer
 
+- [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
+- [Windows 10 KB5120249 cumulative update released with fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
+- [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
+- [Windows 11 KB5121003 & KB5120240 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/)
 - [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
 - [Mozilla updates GPG signing key for Firefox releases after exposure](https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/)
 - [Vague Task, Total Access: When AI Delegation Becomes a Security Risk](https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/)
 - [DDoS attacks over 1 Tbps surged fivefold in the second quarter](https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/)
-- [CISA: Microsoft SharePoint flaw now exploited in ransomware attacks](https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/)
-- [Cisco warns of high-severity ClamAV flaws with public exploits](https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/)
-- [US and South Korea warn of Gunra ransomware targeting govt agencies](https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/)
-- [Hackers breached a small Polish energy plant via private APN last year](https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day](https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/)
 - [Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws](https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/)
 - [Zoom Patches Zero-Click Code Execution Vulnerability](https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/)
 - [The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It](https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/)
@@ -67,7 +68,6 @@
 - [US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’](https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/)
 - [Corma Raises $60 Million for Defensive Cybersecurity AI Model](https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/)
 - [Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities](https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/)
-- [Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption](https://www.securityweek.com/hacker-conversations-marcus-hutchins/)
 
 ### Threatpost
 

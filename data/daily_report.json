@@ -1,72 +1,106 @@
 {
-  "last_updated": "2026-08-11 16:53",
+  "last_updated": "2026-08-11 18:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "water watch center",
     "fake crypto startup",
-    "clamav scanning process",
-    "assistant already uses",
-    "allow threat actors",
-    "hijack ai agents",
-    "300 000 installs",
-    "maximum severity vulnerability",
+    "def con aims",
+    "ransomware group known",
     "organized cybercrime groups",
     "cvss backed patching",
     "4 6 rating",
+    "hijack ai agents",
+    "comes security updates",
     "twitter whistleblower complaint",
-    "schneider electric flaws",
+    "sharepoint server 2016",
     "guilty pleas came",
     "five point framework",
     "every virtual machine",
+    "distribution giant wesco",
+    "300 000 installs",
+    "fix security vulnerabilities",
     "vulnerability discoveries aided",
-    "malicious sim card",
-    "malicious mcp servers",
-    "critical severity bugs"
+    "session messaging network",
+    "maximum severity vulnerability"
   ],
   "trending": [
     {
       "keyword": "water watch center",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "fake crypto startup",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "clamav scanning process",
-      "mentions": 3
+      "keyword": "def con aims",
+      "mentions": 1
     },
     {
-      "keyword": "assistant already uses",
-      "mentions": 3
-    },
-    {
-      "keyword": "allow threat actors",
-      "mentions": 3
-    },
-    {
-      "keyword": "hijack ai agents",
-      "mentions": 14
-    },
-    {
-      "keyword": "300 000 installs",
-      "mentions": 3
-    },
-    {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 33
+      "keyword": "ransomware group known",
+      "mentions": 1
     },
     {
       "keyword": "organized cybercrime groups",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "cvss backed patching",
-      "mentions": 12
+      "mentions": 13
+    },
+    {
+      "keyword": "4 6 rating",
+      "mentions": 4
+    },
+    {
+      "keyword": "hijack ai agents",
+      "mentions": 15
+    },
+    {
+      "keyword": "comes security updates",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2368
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
+      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
+      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
+      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/08/researchers-disclose-ai-assisted.html",
+      "summary": "Security researchers found a way to enter Microsoft SharePoint servers as any user, including an administrator, with no valid account. A significant part of the work that found it was done through an AI agent. The flaw, tracked as CVE-2026-55040 (CVSS 9.1), affects SharePoint Server Subscription Edition, SharePoint Server 2019, and SharePoint Server 2016. Microsoft's",
+      "published": "Tue, 11 Aug 2026 22:17:44 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "DeadLock Ransomware Uses Polygon Smart Contracts to Make Extortion Infra Harder to Disrupt",
+      "link": "https://thehackernews.com/2026/08/deadlock-ransomware-uses-polygon-smart.html",
+      "summary": "The ransomware group known as DeadLock has been observed using decentralized infrastructure to facilitate victim communications and data leak operations in a bid to improve operational resilience. \"Its recovery ecosystem combines the Session messaging network with blockchain-backed services that store and deliver resources used throughout the extortion process,\" the Microsoft Threat",
+      "published": "Tue, 11 Aug 2026 22:05:27 +0530",
+      "value_score": 58,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "OpenAI Launches GPT-5.6-Cyber with Reduced Safeguards for Exploit Development",
@@ -116,37 +150,48 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Malicious MCP Servers Can Split Instructions to Make AI Coding Agents Exfiltrate Secrets",
-      "link": "https://thehackernews.com/2026/08/malicious-mcp-servers-can-split.html",
-      "summary": "A malicious tool server connected to an AI coding assistant can quietly walk off with SSH keys, environment secrets, source code, and customer data without ever sending one obviously harmful instruction. The trick can work even after a blunt version of the same theft is refused: split the request into fragments that each look routine, place them in channels the assistant already uses, and let",
-      "published": "Tue, 11 Aug 2026 15:54:00 +0530",
+      "source": "BleepingComputer",
+      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
+      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
+      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
+      "published": "Tue, 11 Aug 2026 14:34:23 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
-      "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
-      "summary": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
-      "published": "Tue, 11 Aug 2026 14:46:24 +0530",
-      "value_score": 72,
+      "source": "BleepingComputer",
+      "title": "Windows 10 KB5120249 cumulative update released with fixes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
+      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
+      "published": "Tue, 11 Aug 2026 14:26:03 -0400",
+      "value_score": 26,
       "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak",
-        "High severity",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
+      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
+      "published": "Tue, 11 Aug 2026 14:08:50 -0400",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day",
+        "Active exploitation",
+        "Patch/update ×2",
         "Exploit wording"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
-      "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
-      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the intruders were still active inside the network, and customers lost neither heat",
-      "published": "Tue, 11 Aug 2026 12:25:45 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
+      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "published": "Tue, 11 Aug 2026 13:38:42 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Breach/leak"
+        "Patch/update"
       ]
     },
     {
@@ -182,53 +227,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/",
       "summary": "Cloudflare says it mitigated more than 800 network-layer distributed denial-of-service (DDoS) attacks exceeding 1 Tbps in the second quarter of the year. [...]",
       "published": "Tue, 11 Aug 2026 09:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Microsoft SharePoint flaw now exploited in ransomware attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
-      "summary": "CISA confirmed today that ransomware gangs have begun abusing a high-severity Microsoft SharePoint remote code execution vulnerability, which has been flagged as actively exploited since early July. [...]",
-      "published": "Tue, 11 Aug 2026 08:12:16 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "Ransomware ×2",
-        "RCE",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "summary": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "published": "Tue, 11 Aug 2026 07:03:01 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "summary": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "published": "Tue, 11 Aug 2026 05:47:06 -0400",
-      "value_score": 54,
-      "value_signals": [
-        "Ransomware ×2",
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breached a small Polish energy plant via private APN last year",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
-      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
-      "published": "Mon, 10 Aug 2026 19:07:21 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -394,6 +392,19 @@
     },
     {
       "source": "Security Week",
+      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
+      "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .",
+      "published": "Tue, 11 Aug 2026 18:46:07 +0000",
+      "value_score": 82,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
       "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
       "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek .",
@@ -459,15 +470,6 @@
       "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
       "summary": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data. The post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities appeared first on SecurityWeek .",
       "published": "Tue, 11 Aug 2026 11:15:15 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption",
-      "link": "https://www.securityweek.com/hacker-conversations-marcus-hutchins/",
-      "summary": "Marcus Hutchins doesn’t personally consider himself a hacker – but he accepts the epithet because it’s a widely used term for what he once did. The post Hacker Conversations: Marcus Hutchins and the Journey From the Gray Zone to Redemption appeared first on SecurityWeek .",
-      "published": "Tue, 11 Aug 2026 10:00:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2367,
+      "count": 2368,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -952,7 +952,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -20721,7 +20721,7 @@
       ]
     },
     "hijack ai agents": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -23153,10 +23153,11 @@
       ]
     },
     "comes security updates": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-14",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-08-11"
       ]
     },
     "versions 25h2 24h2": {
@@ -23618,7 +23619,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24369,7 +24370,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -26388,21 +26389,21 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26466,7 +26467,7 @@
       ]
     },
     "fake crypto startup": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11"
       ]
@@ -26484,7 +26485,7 @@
       ]
     },
     "300 000 installs": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11"
       ]
@@ -26502,7 +26503,7 @@
       ]
     },
     "4 6 rating": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11"
       ]
@@ -26526,13 +26527,13 @@
       ]
     },
     "water watch center": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
     },
     "every virtual machine": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
@@ -26542,20 +26543,45 @@
       "dates": [
         "2026-08-11"
       ]
+    },
+    "def con aims": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "ransomware group known": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "sharepoint server 2016": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "distribution giant wesco": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "fix security vulnerabilities": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "session messaging network": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 19:00",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-01 20:43",
       "articles": 48,
@@ -27643,6 +27669,17 @@
         "clamav scanning process",
         "assistant already uses",
         "allow threat actors"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 18:54",
+      "articles": 48,
+      "top_keywords": [
+        "water watch center",
+        "fake crypto startup",
+        "def con aims",
+        "ransomware group known",
+        "organized cybercrime groups"
       ]
     }
   ]

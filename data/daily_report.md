@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-11 06:56 UTC  
+> **Last Updated:** 2026-08-11 08:47 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**organized cybercrime groups** • **threat actor known** • **maximum severity vulnerability** • **zero trust strategies** • **twitter whistleblower complaint** • **traditional trust signals** • **shipping 10 50** • **replace reusable passwords** • **protecting ethical hackers** • **nonethical hat hackers** • **hijack ai agents** • **five point framework** • **cvss backed patching** • **vulnerability discoveries aided** • **high cybersecurity threshold** • **even working patches** • **unpatched trueconf servers** • **today s ethical** • **former medusa affiliate** • **software parts needed**
+**organized cybercrime groups** • **maximum severity vulnerability** • **threat actor known** • **shipping 10 50** • **zero trust strategies** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **traditional trust signals** • **replace reusable passwords** • **reach remote equipment** • **protecting ethical hackers** • **nonethical hat hackers** • **hijack ai agents** • **five point framework** • **cvss backed patching** • **even working patches** • **unpatched trueconf servers** • **today s ethical** • **high cybersecurity threshold** • **former medusa affiliate**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine](https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html)
 - [BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins](https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html)
 - [Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development](https://thehackernews.com/2026/08/shipping-1050-more-code-watch-this.html)
 - [China-Linked Hackers Deploy New StormEncryptor Ransomware, Likely via N-central Flaw](https://thehackernews.com/2026/08/china-linked-hackers-deploy-new.html)
@@ -23,7 +24,6 @@
 - [Kimsuky Builds Offline AI Stack to Boost Phishing and Automate Malware Development](https://thehackernews.com/2026/08/kimsuky-builds-offline-ai-stack-that.html)
 - [New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA](https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html)
 - [TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore](https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html)
-- [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html)
 
 ### BleepingComputer
 

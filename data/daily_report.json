@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-08-11 06:56",
+  "last_updated": "2026-08-11 08:47",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "organized cybercrime groups",
-    "threat actor known",
     "maximum severity vulnerability",
+    "threat actor known",
+    "shipping 10 50",
     "zero trust strategies",
+    "vulnerability discoveries aided",
     "twitter whistleblower complaint",
     "traditional trust signals",
-    "shipping 10 50",
     "replace reusable passwords",
+    "reach remote equipment",
     "protecting ethical hackers",
     "nonethical hat hackers",
     "hijack ai agents",
     "five point framework",
     "cvss backed patching",
-    "vulnerability discoveries aided",
-    "high cybersecurity threshold",
     "even working patches",
     "unpatched trueconf servers",
     "today s ethical",
-    "former medusa affiliate",
-    "software parts needed"
+    "high cybersecurity threshold",
+    "former medusa affiliate"
   ],
   "trending": [
     {
       "keyword": "organized cybercrime groups",
-      "mentions": 7
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 58
+      "mentions": 8
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 28
+      "mentions": 29
     },
     {
-      "keyword": "zero trust strategies",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2362
-    },
-    {
-      "keyword": "traditional trust signals",
-      "mentions": 9
+      "keyword": "threat actor known",
+      "mentions": 59
     },
     {
       "keyword": "shipping 10 50",
+      "mentions": 11
+    },
+    {
+      "keyword": "zero trust strategies",
+      "mentions": 6
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 101
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2363
+    },
+    {
+      "keyword": "traditional trust signals",
       "mentions": 10
     },
     {
       "keyword": "replace reusable passwords",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "protecting ethical hackers",
-      "mentions": 4
-    },
-    {
-      "keyword": "nonethical hat hackers",
-      "mentions": 6
+      "keyword": "reach remote equipment",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
+      "link": "https://thehackernews.com/2026/08/hackers-breach-polish-power-plant.html",
+      "summary": "Attackers shut down a steam turbine and the process-water treatment system at a Polish combined heat and power plant by coming in over the private cellular network the local grid operator uses to reach remote equipment. The plant supplies heat to roughly 50,000 residents. Recovery began at about 7:30 a.m. while the intruders were still active inside the network, and customers lost neither heat",
+      "published": "Tue, 11 Aug 2026 12:25:45 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
@@ -139,15 +150,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials",
-      "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
-      "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions are below - helper-beeps.solidity-pro web3devtoolsx.solidity-pro Although neither of the extensions is now available on Open VSX, the GitHub repository",
-      "published": "Mon, 10 Aug 2026 13:08:23 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

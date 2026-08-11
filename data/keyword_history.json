@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2369,
+      "count": 2370,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -23181,7 +23181,7 @@
       ]
     },
     "software almost triple": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23246,7 +23246,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 68,
+      "count": 69,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23620,7 +23620,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -26390,21 +26390,21 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26504,7 +26504,7 @@
       ]
     },
     "4 6 rating": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11"
       ]
@@ -26528,7 +26528,7 @@
       ]
     },
     "water watch center": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11"
       ]
@@ -26546,42 +26546,66 @@
       ]
     },
     "def con aims": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
     },
     "ransomware group known": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
     },
     "sharepoint server 2016": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
     },
     "distribution giant wesco": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
     },
     "fix security vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
     },
     "session messaging network": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "crash devices cisco": {
+      "count": 2,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "checklists it's time": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "blockchain backed services": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "monthly security updates": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "resist infrastructure takedown": {
       "count": 1,
       "dates": [
         "2026-08-11"
@@ -26589,17 +26613,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 22:49",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 02:12",
       "articles": 48,
@@ -27687,6 +27700,17 @@
         "def con aims",
         "ransomware group known",
         "crash devices cisco"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 22:35",
+      "articles": 48,
+      "top_keywords": [
+        "water watch center",
+        "def con aims",
+        "crash devices cisco",
+        "fix security vulnerabilities",
+        "session messaging network"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-10 22:30 UTC  
+> **Last Updated:** 2026-08-11 01:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**organized cybercrime groups** • **maximum severity vulnerability** • **threat actor known** • **cvss backed patching** • **software giant fixed** • **zero trust strategies** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **traditional trust signals** • **shipping 10 50** • **replace reusable passwords** • **hijack ai agents** • **five point framework** • **high cybersecurity threshold** • **even working patches** • **unpatched trueconf servers** • **today s ethical** • **former medusa affiliate** • **software parts needed** • **software development sectors**
+**organized cybercrime groups** • **maximum severity vulnerability** • **threat actor known** • **cvss backed patching** • **zero trust strategies** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **traditional trust signals** • **shipping 10 50** • **replace reusable passwords** • **hijack ai agents** • **five point framework** • **protecting ethical hackers** • **nonethical hat hackers** • **isolated hackers breached** • **high cybersecurity threshold** • **even working patches** • **unpatched trueconf servers** • **today s ethical** • **former medusa affiliate**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hackers breached a small Polish energy plant via private APN last year](https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/)
 - [BdThemes plugins supply-chain hack creates rogue WordPress admins](https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/)
 - [OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users](https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/)
 - [New StormEncryptor ransomware used by former Medusa affiliate](https://www.bleepingcomputer.com/news/security/new-stormencryptor-ransomware-used-by-former-medusa-affiliate/)
@@ -34,7 +35,6 @@
 - [When Credentials Are No Longer Enough: Device Trust in the AI Era](https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/)
 - [Member of The Com sent to prison for blackmail, sextortion](https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/)
 - [LexisNexis shuts down services after suspicious activity on servers](https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/)
-- [Valve notifies Steam hardware customers of a data breach](https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/)
 
 ### Krebs on Security
 

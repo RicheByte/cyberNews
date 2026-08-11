@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-10 22:30",
+  "last_updated": "2026-08-11 01:15",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,7 +7,6 @@
     "maximum severity vulnerability",
     "threat actor known",
     "cvss backed patching",
-    "software giant fixed",
     "zero trust strategies",
     "vulnerability discoveries aided",
     "twitter whistleblower complaint",
@@ -16,54 +15,55 @@
     "replace reusable passwords",
     "hijack ai agents",
     "five point framework",
+    "protecting ethical hackers",
+    "nonethical hat hackers",
+    "isolated hackers breached",
     "high cybersecurity threshold",
     "even working patches",
     "unpatched trueconf servers",
     "today s ethical",
-    "former medusa affiliate",
-    "software parts needed",
-    "software development sectors"
+    "former medusa affiliate"
   ],
   "trending": [
     {
       "keyword": "organized cybercrime groups",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "threat actor known",
-      "mentions": 54
+      "mentions": 55
     },
     {
       "keyword": "cvss backed patching",
-      "mentions": 3
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 66
+      "mentions": 4
     },
     {
       "keyword": "zero trust strategies",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 96
+      "mentions": 97
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2358
+      "mentions": 2359
     },
     {
       "keyword": "traditional trust signals",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "shipping 10 50",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "replace reusable passwords",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -151,6 +151,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "summary": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "published": "Mon, 10 Aug 2026 19:07:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
       "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
       "summary": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
@@ -219,17 +228,6 @@
       "published": "Mon, 10 Aug 2026 08:11:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Valve notifies Steam hardware customers of a data breach",
-      "link": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
-      "summary": "Video game publisher and digital distribution giant Valve is notifying Steam hardware customers in Europe that hackers stole their data after hacking its shipping partner, CEVA Logistics. [...]",
-      "published": "Mon, 10 Aug 2026 07:47:55 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",

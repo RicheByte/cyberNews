@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-11 05:01",
+  "last_updated": "2026-08-11 06:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "organized cybercrime groups",
-    "maximum severity vulnerability",
     "threat actor known",
-    "cvss backed patching",
+    "maximum severity vulnerability",
     "zero trust strategies",
-    "vulnerability discoveries aided",
     "twitter whistleblower complaint",
     "traditional trust signals",
     "shipping 10 50",
     "replace reusable passwords",
-    "hijack ai agents",
-    "five point framework",
     "protecting ethical hackers",
     "nonethical hat hackers",
-    "isolated hackers breached",
+    "hijack ai agents",
+    "five point framework",
+    "cvss backed patching",
+    "vulnerability discoveries aided",
     "high cybersecurity threshold",
     "even working patches",
     "unpatched trueconf servers",
     "today s ethical",
-    "former medusa affiliate"
+    "former medusa affiliate",
+    "software parts needed"
   ],
   "trending": [
     {
       "keyword": "organized cybercrime groups",
-      "mentions": 6
-    },
-    {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 27
+      "mentions": 7
     },
     {
       "keyword": "threat actor known",
-      "mentions": 57
+      "mentions": 58
     },
     {
-      "keyword": "cvss backed patching",
-      "mentions": 6
+      "keyword": "maximum severity vulnerability",
+      "mentions": 28
     },
     {
       "keyword": "zero trust strategies",
-      "mentions": 4
-    },
-    {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 99
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2361
+      "mentions": 2362
     },
     {
       "keyword": "traditional trust signals",
-      "mentions": 8
-    },
-    {
-      "keyword": "shipping 10 50",
       "mentions": 9
     },
     {
+      "keyword": "shipping 10 50",
+      "mentions": 10
+    },
+    {
       "keyword": "replace reusable passwords",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "protecting ethical hackers",
+      "mentions": 4
+    },
+    {
+      "keyword": "nonethical hat hackers",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "BdThemes Supply Chain Attack Poisons JSON to Create Rogue WordPress Admins",
+      "link": "https://thehackernews.com/2026/08/bdthemes-supply-chain-attack-poisons.html",
+      "summary": "Cybersecurity researchers have warned of a supply chain compromise impacting WordPress plugin vendor BdThemes, prompting the content management systems (CMS) platform's plugins team to temporarily disable their downloads. \"Unlike traditional software supply chain attacks, zero source code files were modified within the official WordPress.org repository,\" Wordfence researcher Paolo Tresso said.",
+      "published": "Tue, 11 Aug 2026 11:18:44 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Shipping 10–50× More Code? Watch This Webinar on Securing AI-Speed Development",
@@ -137,15 +146,6 @@
       "link": "https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html",
       "summary": "Cybersecurity researchers have flagged a malicious Microsoft Visual Studio Code (VS Code) extension named Solidity Pro (\"solidity-pro\") that has been observed delivering a browser wallet and credential stealer. The names of the extensions are below - helper-beeps.solidity-pro web3devtoolsx.solidity-pro Although neither of the extensions is now available on Open VSX, the GitHub repository",
       "published": "Mon, 10 Aug 2026 13:08:23 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause",
-      "link": "https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html",
-      "summary": "OpenAI has announced that it's pausing some \"internal activities\" involving its upcoming artificial intelligence (AI) model Astra after an internal evaluation found it had made significant advancements in agentic coding and cybersecurity. In response to the discovery, the AI upstart said it's implementing security controls for higher-capability models and associated activities, such as isolated",
-      "published": "Mon, 10 Aug 2026 11:20:03 +0530",
       "value_score": 10,
       "value_signals": []
     },
@@ -391,6 +391,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Mozilla Issues New Firefox GPG Key Following Exposure",
+      "link": "https://www.securityweek.com/mozilla-issues-new-firefox-gpg-key-following-exposure/",
+      "summary": "The previous GPG signing subkey was inadvertently added to a GitHub repository and Mozilla decided to revoke it. The post Mozilla Issues New Firefox GPG Key Following Exposure appeared first on SecurityWeek .",
+      "published": "Tue, 11 Aug 2026 06:16:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns",
       "link": "https://www.securityweek.com/openais-upcoming-astra-model-raises-autonomous-cyberattack-concerns/",
       "summary": "The current GPT-5.6-Sol has been assigned a ‘high’ cybersecurity threshold, but Astra could reach the maximum ‘critical’ threshold. The post OpenAI’s Upcoming Astra Model Raises Autonomous Cyberattack Concerns appeared first on SecurityWeek .",
@@ -459,19 +468,6 @@
       "published": "Mon, 10 Aug 2026 10:01:52 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-progress-loadmaster-vulnerability/",
-      "summary": "The critical-severity flaw allows unauthenticated, remote attackers to execute arbitrary commands. The post CISA Urges Immediate Patching of Exploited Progress LoadMaster Vulnerability appeared first on SecurityWeek .",
-      "published": "Mon, 10 Aug 2026 09:31:51 +0000",
-      "value_score": 64,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

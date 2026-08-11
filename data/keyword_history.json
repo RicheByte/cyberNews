@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2361,
+      "count": 2362,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -685,7 +685,7 @@
       ]
     },
     "threat actor known": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -952,7 +952,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -20721,7 +20721,7 @@
       ]
     },
     "hijack ai agents": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -23617,7 +23617,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -26219,7 +26219,7 @@
       ]
     },
     "even working patches": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-08-07",
         "2026-08-08",
@@ -26306,7 +26306,7 @@
       ]
     },
     "shipping 10 50": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26331,7 +26331,7 @@
       ]
     },
     "traditional trust signals": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26344,27 +26344,28 @@
       ]
     },
     "high cybersecurity threshold": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "software parts needed": {
-      "count": 5,
-      "dates": [
-        "2026-08-10"
-      ]
-    },
-    "unpatched trueconf servers": {
       "count": 6,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
-    "replace reusable passwords": {
+    "unpatched trueconf servers": {
       "count": 7,
+      "dates": [
+        "2026-08-10",
+        "2026-08-11"
+      ]
+    },
+    "replace reusable passwords": {
+      "count": 8,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26377,35 +26378,35 @@
       ]
     },
     "nonethical hat hackers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "organized cybercrime groups": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "former medusa affiliate": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26418,21 +26419,21 @@
       ]
     },
     "zero trust strategies": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "today s ethical": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "protecting ethical hackers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11"
       ]
@@ -26445,17 +26446,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 06:23",
-      "articles": 48,
-      "top_keywords": [
-        "device code phishing",
-        "critical flaw allowed",
-        "spear phishing attack",
-        "malicious python package",
-        "iranian hackers iran"
-      ]
-    },
     {
       "timestamp": "2026-08-01 09:53",
       "articles": 48,
@@ -27543,6 +27533,17 @@
         "threat actor known",
         "cvss backed patching",
         "zero trust strategies"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 06:56",
+      "articles": 48,
+      "top_keywords": [
+        "organized cybercrime groups",
+        "threat actor known",
+        "maximum severity vulnerability",
+        "zero trust strategies",
+        "twitter whistleblower complaint"
       ]
     }
   ]

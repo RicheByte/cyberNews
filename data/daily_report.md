@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-11 18:54 UTC  
+> **Last Updated:** 2026-08-11 20:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**water watch center** • **fake crypto startup** • **def con aims** • **ransomware group known** • **organized cybercrime groups** • **cvss backed patching** • **4 6 rating** • **hijack ai agents** • **comes security updates** • **twitter whistleblower complaint** • **sharepoint server 2016** • **guilty pleas came** • **five point framework** • **every virtual machine** • **distribution giant wesco** • **300 000 installs** • **fix security vulnerabilities** • **vulnerability discoveries aided** • **session messaging network** • **maximum severity vulnerability**
+**water watch center** • **fake crypto startup** • **def con aims** • **ransomware group known** • **crash devices cisco** • **organized cybercrime groups** • **cvss backed patching** • **4 6 rating** • **hijack ai agents** • **comes security updates** • **twitter whistleblower complaint** • **sharepoint server 2016** • **guilty pleas came** • **five point framework** • **every virtual machine** • **distribution giant wesco** • **300 000 installs** • **fix security vulnerabilities** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
 - [Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees](https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/)
-- [Windows 10 KB5120249 cumulative update released with fixes](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
+- [Microsoft releases Windows 10 KB5120249 extended security update](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
 - [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
 - [Windows 11 KB5121003 & KB5120240 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/)
 - [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
 - [Mozilla updates GPG signing key for Firefox releases after exposure](https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/)
 - [Vague Task, Total Access: When AI Delegation Becomes a Security Risk](https://www.bleepingcomputer.com/news/security/vague-task-total-access-when-ai-delegation-becomes-a-security-risk/)
-- [DDoS attacks over 1 Tbps surged fivefold in the second quarter](https://www.bleepingcomputer.com/news/security/ddos-attacks-over-1-tbps-surged-fivefold-in-the-second-quarter/)
 
 ### Krebs on Security
 

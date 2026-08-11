@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2368,
+      "count": 2369,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -20721,7 +20721,7 @@
       ]
     },
     "hijack ai agents": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -23153,7 +23153,7 @@
       ]
     },
     "comes security updates": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23181,7 +23181,7 @@
       ]
     },
     "software almost triple": {
-      "count": 65,
+      "count": 66,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23195,7 +23195,8 @@
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-11"
       ]
     },
     "spanish police dismantled": {
@@ -23245,7 +23246,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24370,7 +24371,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -26389,21 +26390,21 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26467,7 +26468,7 @@
       ]
     },
     "fake crypto startup": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11"
       ]
@@ -26485,7 +26486,7 @@
       ]
     },
     "300 000 installs": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11"
       ]
@@ -26503,7 +26504,7 @@
       ]
     },
     "4 6 rating": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11"
       ]
@@ -26527,13 +26528,13 @@
       ]
     },
     "water watch center": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11"
       ]
     },
     "every virtual machine": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
@@ -26545,31 +26546,31 @@
       ]
     },
     "def con aims": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "ransomware group known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "sharepoint server 2016": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "distribution giant wesco": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "fix security vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
@@ -26579,20 +26580,15 @@
       "dates": [
         "2026-08-11"
       ]
+    },
+    "crash devices cisco": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 20:43",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-01 22:49",
       "articles": 48,
@@ -27680,6 +27676,17 @@
         "def con aims",
         "ransomware group known",
         "organized cybercrime groups"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 20:37",
+      "articles": 48,
+      "top_keywords": [
+        "water watch center",
+        "fake crypto startup",
+        "def con aims",
+        "ransomware group known",
+        "crash devices cisco"
       ]
     }
   ]

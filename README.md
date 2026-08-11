@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-11 18:54 UTC |
+| 🕐 Last Updated | 2026-08-11 20:37 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`water watch center` • `fake crypto startup` • `def con aims` • `ransomware group known` • `organized cybercrime groups` • `cvss backed patching` • `4 6 rating` • `hijack ai agents` • `comes security updates` • `twitter whistleblower complaint`
+`water watch center` • `fake crypto startup` • `def con aims` • `ransomware group known` • `crash devices cisco` • `organized cybercrime groups` • `cvss backed patching` • `4 6 rating` • `hijack ai agents` • `comes security updates`
 
 ## 📄 Reports
 

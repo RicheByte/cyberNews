@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2365,
+      "count": 2366,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -952,7 +952,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -20721,7 +20721,7 @@
       ]
     },
     "hijack ai agents": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -23618,7 +23618,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24369,7 +24369,7 @@
       ]
     },
     "guilty pleas came": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-07-23",
         "2026-07-24",
@@ -26388,21 +26388,21 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26448,7 +26448,7 @@
       ]
     },
     "reach remote equipment": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11"
       ]
@@ -26460,61 +26460,61 @@
       ]
     },
     "clamav scanning process": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "fake crypto startup": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "assistant already uses": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "allow threat actors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "300 000 installs": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "schneider electric flaws": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "private code repositories": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "4 6 rating": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "malicious sim card": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
     },
     "malicious mcp servers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-11"
       ]
@@ -26524,20 +26524,15 @@
       "dates": [
         "2026-08-11"
       ]
+    },
+    "water watch center": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 14:55",
-      "articles": 48,
-      "top_keywords": [
-        "iranian hackers iran",
-        "spear phishing attack",
-        "arbitrary code execution",
-        "consumer tv boxes",
-        "session hijacking flaw"
-      ]
-    },
     {
       "timestamp": "2026-08-01 16:54",
       "articles": 48,
@@ -27625,6 +27620,17 @@
         "assistant already uses",
         "allow threat actors",
         "300 000 installs"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 14:52",
+      "articles": 48,
+      "top_keywords": [
+        "water watch center",
+        "fake crypto startup",
+        "clamav scanning process",
+        "assistant already uses",
+        "allow threat actors"
       ]
     }
   ]

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2364,
+      "count": 2365,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -952,7 +952,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 30,
+      "count": 31,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -24369,14 +24369,15 @@
       ]
     },
     "guilty pleas came": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-07-23",
         "2026-07-24",
         "2026-07-28",
         "2026-08-06",
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-08-11"
       ]
     },
     "email theft cisa": {
@@ -26346,7 +26347,7 @@
       ]
     },
     "high cybersecurity threshold": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26387,28 +26388,28 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "cvss backed patching": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "five point framework": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-10",
         "2026-08-11"
       ]
     },
     "former medusa affiliate": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-10",
         "2026-08-11"
@@ -26447,7 +26448,7 @@
       ]
     },
     "reach remote equipment": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-11"
       ]
@@ -26457,20 +26458,75 @@
       "dates": [
         "2026-08-11"
       ]
+    },
+    "clamav scanning process": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "fake crypto startup": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "assistant already uses": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "allow threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "300 000 installs": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "schneider electric flaws": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "private code repositories": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "4 6 rating": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "malicious sim card": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "malicious mcp servers": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
+    },
+    "ransomware gangs cisa": {
+      "count": 1,
+      "dates": [
+        "2026-08-11"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-01 13:06",
-      "articles": 48,
-      "top_keywords": [
-        "iranian hackers iran",
-        "spear phishing attack",
-        "us critical infrastructure",
-        "malicious python package",
-        "critical flaw allowed"
-      ]
-    },
     {
       "timestamp": "2026-08-01 14:55",
       "articles": 48,
@@ -27558,6 +27614,17 @@
         "shipping 10 50",
         "zero trust strategies",
         "unpatched trueconf servers"
+      ]
+    },
+    {
+      "timestamp": "2026-08-11 12:51",
+      "articles": 48,
+      "top_keywords": [
+        "clamav scanning process",
+        "fake crypto startup",
+        "assistant already uses",
+        "allow threat actors",
+        "300 000 installs"
       ]
     }
   ]

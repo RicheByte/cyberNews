@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-11 10:44 UTC |
+| 🕐 Last Updated | 2026-08-11 12:51 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`organized cybercrime groups` • `threat actor known` • `shipping 10 50` • `zero trust strategies` • `unpatched trueconf servers` • `twitter whistleblower complaint` • `traditional trust signals` • `replace reusable passwords` • `reach remote equipment` • `maximum severity vulnerability`
+`clamav scanning process` • `fake crypto startup` • `assistant already uses` • `allow threat actors` • `300 000 installs` • `schneider electric flaws` • `organized cybercrime groups` • `maximum severity vulnerability` • `twitter whistleblower complaint` • `reach remote equipment`
 
 ## 📄 Reports
 

@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-08-12 16:52",
+  "last_updated": "2026-08-12 18:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "fake remote workers",
     "vmware vcenter server",
+    "operation dream job",
     "twitter whistleblower complaint",
+    "target critical infrastructure",
     "steal nude photos",
     "eight ceva warehouses",
     "cybersecurity company rapid7",
-    "cvss backed patching",
-    "checklists it's time",
     "130 companies tangled",
     "insufficient authorization checks",
     "biometric liveness checks",
-    "target critical infrastructure",
+    "gain system privileges",
+    "cvss scoring system",
     "maximum severity vulnerability",
     "wide blast radius",
+    "turn one's television",
     "text history records",
     "specops software explains",
     "software giant fixed",
-    "software almost triple",
-    "rated 10 0",
-    "publicly detailed prior"
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "fake remote workers",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "operation dream job",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2378
+      "mentions": 2379
+    },
+    {
+      "keyword": "target critical infrastructure",
+      "mentions": 2
     },
     {
       "keyword": "steal nude photos",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "eight ceva warehouses",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cybersecurity company rapid7",
-      "mentions": 3
-    },
-    {
-      "keyword": "cvss backed patching",
-      "mentions": 23
-    },
-    {
-      "keyword": "checklists it's time",
-      "mentions": 9
+      "mentions": 4
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 416
+      "mentions": 417
     },
     {
       "keyword": "insufficient authorization checks",
-      "mentions": 2
+      "mentions": 3
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
+      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
+      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
+      "published": "Wed, 12 Aug 2026 23:09:27 +0530",
+      "value_score": 90,
+      "value_signals": [
+        "Zero-day ×2",
+        "Backdoor ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
@@ -139,20 +152,6 @@
       "value_score": 28,
       "value_signals": [
         "CVE mentioned"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access",
-      "link": "https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html",
-      "summary": "The security researcher going by the name Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has released a proof-of-concept (PoC) for a new Microsoft zero-day called ShieldBreak. The vulnerability, rooted in Microsoft Defender for Windows, demonstrates a patch bypass for CVE-2026-50656 (CVSS score: 7.8), otherwise known as RoguePlanet. RoguePlanet has been described",
-      "published": "Wed, 12 Aug 2026 12:11:38 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "PoC available ×2",
-        "Patch/update ×2"
       ]
     },
     {
@@ -327,6 +326,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
+      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
+      "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+      "published": "Wed, 12 Aug 2026 16:28:04 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
       "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
@@ -397,18 +405,6 @@
       "value_score": 35,
       "value_signals": [
         "Zero-day"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
-      "link": "https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists",
-      "summary": "It's time to turn from CVSS-backed patching to choke-point patching focused on breaking chains to critical assets.",
-      "published": "Mon, 10 Aug 2026 17:56:34 GMT",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update",
-        "High severity"
       ]
     },
     {

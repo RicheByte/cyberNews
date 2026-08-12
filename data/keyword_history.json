@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2378,
+      "count": 2379,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -953,7 +953,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1117,7 +1117,7 @@
       ]
     },
     "specops software explains": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2025-12-19",
         "2026-02-23",
@@ -2335,7 +2335,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2356,7 +2356,8 @@
         "2026-07-13",
         "2026-08-01",
         "2026-08-02",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-12"
       ]
     },
     "cybercrime looks like": {
@@ -2627,7 +2628,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 416,
+      "count": 417,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -14862,12 +14863,13 @@
       ]
     },
     "gain system privileges": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-04-23",
         "2026-04-24",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-08-12"
       ]
     },
     "feels familiar like": {
@@ -23191,7 +23193,7 @@
       ]
     },
     "software almost triple": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23257,7 +23259,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 77,
+      "count": 78,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24411,7 +24413,7 @@
       ]
     },
     "turn one's television": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24425,7 +24427,8 @@
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-12"
       ]
     },
     "anthropic's claude cowork": {
@@ -26105,7 +26108,7 @@
       ]
     },
     "text history records": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26654,7 +26657,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12"
       ]
@@ -26666,7 +26669,7 @@
       ]
     },
     "eight ceva warehouses": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-12"
       ]
@@ -26678,37 +26681,37 @@
       ]
     },
     "cybersecurity company rapid7": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-12"
       ]
     },
     "fake remote workers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "steal nude photos": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "insufficient authorization checks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "biometric liveness checks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "wide blast radius": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
@@ -26720,6 +26723,12 @@
       ]
     },
     "target critical infrastructure": {
+      "count": 2,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "operation dream job": {
       "count": 1,
       "dates": [
         "2026-08-12"
@@ -26727,17 +26736,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 20:47",
-      "articles": 48,
-      "top_keywords": [
-        "released security updates",
-        "70 2 million",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 22:50",
       "articles": 48,
@@ -27825,6 +27823,17 @@
         "twitter whistleblower complaint",
         "steal nude photos",
         "eight ceva warehouses"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 18:54",
+      "articles": 48,
+      "top_keywords": [
+        "fake remote workers",
+        "vmware vcenter server",
+        "operation dream job",
+        "twitter whistleblower complaint",
+        "target critical infrastructure"
       ]
     }
   ]

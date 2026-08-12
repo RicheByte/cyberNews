@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-12 16:52 UTC  
+> **Last Updated:** 2026-08-12 18:54 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake remote workers** • **vmware vcenter server** • **twitter whistleblower complaint** • **steal nude photos** • **eight ceva warehouses** • **cybersecurity company rapid7** • **cvss backed patching** • **checklists it's time** • **130 companies tangled** • **insufficient authorization checks** • **biometric liveness checks** • **target critical infrastructure** • **maximum severity vulnerability** • **wide blast radius** • **text history records** • **specops software explains** • **software giant fixed** • **software almost triple** • **rated 10 0** • **publicly detailed prior**
+**fake remote workers** • **vmware vcenter server** • **operation dream job** • **twitter whistleblower complaint** • **target critical infrastructure** • **steal nude photos** • **eight ceva warehouses** • **cybersecurity company rapid7** • **130 companies tangled** • **insufficient authorization checks** • **biometric liveness checks** • **gain system privileges** • **cvss scoring system** • **maximum severity vulnerability** • **wide blast radius** • **turn one's television** • **text history records** • **specops software explains** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor](https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html)
 - [737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One](https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html)
 - [OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning](https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html)
 - [Enterprise Defenses Recovered at the Edge and Collapsed Inside](https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html)
@@ -23,7 +24,6 @@
 - [Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access](https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html)
 - [Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations](https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html)
 - [SAP Commerce Cloud Flaw Could Let Unauthenticated Attackers Execute Arbitrary Code](https://thehackernews.com/2026/08/sap-commerce-cloud-flaw-could-let.html)
-- [ShieldBreak Zero-Day PoC Claims Microsoft Defender Patch Bypass With SYSTEM Access](https://thehackernews.com/2026/08/shieldbreak-zero-day-poc-claims.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming](https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming)
 - [Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition)
 - [Walmart Leaders Transform Security Operations Without Going Bananas](https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas)
 - [Microsoft's Patch Tuesday Deluge Continues With August Updates](https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues)
@@ -56,7 +57,6 @@
 - ['GhostJacking' Exposes Identity Governance Gaps in AI Agents](https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents)
 - [Multistate Water System Attacks Widen, Iran Suspected](https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected)
 - [Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius](https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius)
-- [The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists](https://www.darkreading.com/cybersecurity-operations/patch-gap-defenders-chains-not-checklists)
 
 ### Security Week
 

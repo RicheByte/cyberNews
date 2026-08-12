@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-12 14:52 UTC  
+> **Last Updated:** 2026-08-12 16:52 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake remote workers** • **vmware vcenter server** • **twitter whistleblower complaint** • **steal nude photos** • **eight ceva warehouses** • **cybersecurity company rapid7** • **cvss backed patching** • **checklists it's time** • **insufficient authorization checks** • **biometric liveness checks** • **maximum severity vulnerability** • **wide blast radius** • **text history records** • **specops software explains** • **software giant fixed** • **software almost triple** • **sandworm hackers target** • **rated 10 0** • **publicly detailed prior** • **public github repository**
+**fake remote workers** • **vmware vcenter server** • **twitter whistleblower complaint** • **steal nude photos** • **eight ceva warehouses** • **cybersecurity company rapid7** • **cvss backed patching** • **checklists it's time** • **130 companies tangled** • **insufficient authorization checks** • **biometric liveness checks** • **target critical infrastructure** • **maximum severity vulnerability** • **wide blast radius** • **text history records** • **specops software explains** • **software giant fixed** • **software almost triple** • **rated 10 0** • **publicly detailed prior**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
+- [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
 - [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
 - [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
 - [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
 - [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
 - [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
 - [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
-- [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
-- [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
 
 ### Krebs on Security
 

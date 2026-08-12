@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 14:52",
+  "last_updated": "2026-08-12 16:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,59 +11,59 @@
     "cybersecurity company rapid7",
     "cvss backed patching",
     "checklists it's time",
+    "130 companies tangled",
     "insufficient authorization checks",
     "biometric liveness checks",
+    "target critical infrastructure",
     "maximum severity vulnerability",
     "wide blast radius",
     "text history records",
     "specops software explains",
     "software giant fixed",
     "software almost triple",
-    "sandworm hackers target",
     "rated 10 0",
-    "publicly detailed prior",
-    "public github repository"
+    "publicly detailed prior"
   ],
   "trending": [
     {
       "keyword": "fake remote workers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2377
+      "mentions": 2378
     },
     {
       "keyword": "steal nude photos",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "eight ceva warehouses",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cybersecurity company rapid7",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cvss backed patching",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "checklists it's time",
-      "mentions": 8
+      "mentions": 9
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 416
     },
     {
       "keyword": "insufficient authorization checks",
-      "mentions": 1
-    },
-    {
-      "keyword": "biometric liveness checks",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -157,6 +157,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Plug and Pwn attack uses fake USB devices for Windows SYSTEM access",
+      "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
+      "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
+      "published": "Wed, 12 Aug 2026 12:05:12 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
+      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
+      "published": "Wed, 12 Aug 2026 11:38:08 -0400",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI: Hackers target online accounts to steal nude photos",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
       "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
@@ -216,27 +238,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
       "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
       "published": "Tue, 11 Aug 2026 21:15:55 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "published": "Tue, 11 Aug 2026 18:15:22 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-      "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-      "published": "Tue, 11 Aug 2026 17:07:24 -0400",
       "value_score": 10,
       "value_signals": []
     },

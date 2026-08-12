@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2377,
+      "count": 2378,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -953,7 +953,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1117,7 +1117,7 @@
       ]
     },
     "specops software explains": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2025-12-19",
         "2026-02-23",
@@ -2627,7 +2627,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 415,
+      "count": 416,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2685,7 +2685,8 @@
         "2026-08-03",
         "2026-08-04",
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-12"
       ]
     },
     "corporate data stolen": {
@@ -22953,7 +22954,7 @@
       ]
     },
     "rated 10 0": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-07-13",
         "2026-08-12"
@@ -23190,7 +23191,7 @@
       ]
     },
     "software almost triple": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23256,7 +23257,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -26104,7 +26105,7 @@
       ]
     },
     "text history records": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26412,7 +26413,7 @@
       ]
     },
     "cvss backed patching": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26613,7 +26614,7 @@
       ]
     },
     "checklists it's time": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26653,7 +26654,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-12"
       ]
@@ -26665,7 +26666,7 @@
       ]
     },
     "eight ceva warehouses": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
@@ -26677,42 +26678,48 @@
       ]
     },
     "cybersecurity company rapid7": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "fake remote workers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "steal nude photos": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "insufficient authorization checks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "biometric liveness checks": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "wide blast radius": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "publicly detailed prior": {
+      "count": 2,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "target critical infrastructure": {
       "count": 1,
       "dates": [
         "2026-08-12"
@@ -26720,17 +26727,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 19:01",
-      "articles": 48,
-      "top_keywords": [
-        "released security updates",
-        "70 2 million",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 20:47",
       "articles": 48,
@@ -27811,6 +27807,17 @@
     },
     {
       "timestamp": "2026-08-12 14:52",
+      "articles": 48,
+      "top_keywords": [
+        "fake remote workers",
+        "vmware vcenter server",
+        "twitter whistleblower complaint",
+        "steal nude photos",
+        "eight ceva warehouses"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 16:52",
       "articles": 48,
       "top_keywords": [
         "fake remote workers",

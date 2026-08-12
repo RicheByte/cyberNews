@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2372,
+      "count": 2373,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -14058,7 +14058,7 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-04-16",
         "2026-07-19",
@@ -23183,7 +23183,7 @@
       ]
     },
     "software almost triple": {
-      "count": 69,
+      "count": 70,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23249,7 +23249,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23624,7 +23624,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -26096,13 +26096,14 @@
       ]
     },
     "text history records": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-12"
       ]
     },
     "chatgpt secure sandbox": {
@@ -26395,7 +26396,7 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26403,7 +26404,7 @@
       ]
     },
     "cvss backed patching": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26411,7 +26412,7 @@
       ]
     },
     "five point framework": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26537,7 +26538,7 @@
       ]
     },
     "water watch center": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26556,21 +26557,21 @@
       ]
     },
     "def con aims": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "ransomware group known": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "sharepoint server 2016": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26583,49 +26584,49 @@
       ]
     },
     "fix security vulnerabilities": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "session messaging network": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "crash devices cisco": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "checklists it's time": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "blockchain backed services": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "monthly security updates": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "resist infrastructure takedown": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26633,17 +26634,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 09:51",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 11:12",
       "articles": 48,
@@ -27731,6 +27721,17 @@
         "crash devices cisco",
         "session messaging network",
         "cvss backed patching"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 07:15",
+      "articles": 48,
+      "top_keywords": [
+        "water watch center",
+        "def con aims",
+        "session messaging network",
+        "cvss backed patching",
+        "fix security vulnerabilities"
       ]
     }
   ]

@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-08-12 04:01",
+  "last_updated": "2026-08-12 07:15",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "water watch center",
     "def con aims",
-    "crash devices cisco",
     "session messaging network",
     "cvss backed patching",
     "fix security vulnerabilities",
@@ -15,55 +14,56 @@
     "five point framework",
     "checklists it's time",
     "blockchain backed services",
-    "4 6 rating",
+    "crash devices cisco",
     "software giant fixed",
     "software almost triple",
     "resist infrastructure takedown",
     "monthly security updates",
     "ransomware group known",
     "vulnerability discoveries aided",
-    "ukraine cert ua"
+    "ukraine cert ua",
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "water watch center",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "def con aims",
-      "mentions": 5
-    },
-    {
-      "keyword": "crash devices cisco",
-      "mentions": 4
+      "mentions": 6
     },
     {
       "keyword": "session messaging network",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "cvss backed patching",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "fix security vulnerabilities",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2372
+      "mentions": 2373
     },
     {
       "keyword": "sharepoint server 2016",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "organized cybercrime groups",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "five point framework",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "checklists it's time",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -413,6 +413,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
+      "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
+      "summary": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices. The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 05:10:47 +0000",
+      "value_score": 84,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
       "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
       "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .",
@@ -482,15 +495,6 @@
       "link": "https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/",
       "summary": "Corma emerged from stealth with seed funding from Sequoia Capital, Khosla Ventures, and Coatue. The post Corma Raises $60 Million for Defensive Cybersecurity AI Model appeared first on SecurityWeek .",
       "published": "Tue, 11 Aug 2026 12:01:46 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities",
-      "link": "https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/",
-      "summary": "The extension amassed over 300,000 installs and a 4.6 rating before Google removed it for stealing data. The post Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities appeared first on SecurityWeek .",
-      "published": "Tue, 11 Aug 2026 11:15:15 +0000",
       "value_score": 10,
       "value_signals": []
     },

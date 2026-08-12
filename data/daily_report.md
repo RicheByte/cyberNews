@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-12 04:01 UTC  
+> **Last Updated:** 2026-08-12 07:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**water watch center** • **def con aims** • **crash devices cisco** • **session messaging network** • **cvss backed patching** • **fix security vulnerabilities** • **twitter whistleblower complaint** • **sharepoint server 2016** • **organized cybercrime groups** • **five point framework** • **checklists it's time** • **blockchain backed services** • **4 6 rating** • **software giant fixed** • **software almost triple** • **resist infrastructure takedown** • **monthly security updates** • **ransomware group known** • **vulnerability discoveries aided** • **ukraine cert ua**
+**water watch center** • **def con aims** • **session messaging network** • **cvss backed patching** • **fix security vulnerabilities** • **twitter whistleblower complaint** • **sharepoint server 2016** • **organized cybercrime groups** • **five point framework** • **checklists it's time** • **blockchain backed services** • **crash devices cisco** • **software giant fixed** • **software almost triple** • **resist infrastructure takedown** • **monthly security updates** • **ransomware group known** • **vulnerability discoveries aided** • **ukraine cert ua** • **text history records**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Cisco Patches Firewall Zero-Day Exploited for DoS Attacks](https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/)
 - [August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day](https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/)
 - [Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws](https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/)
 - [Zoom Patches Zero-Click Code Execution Vulnerability](https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/)
@@ -67,7 +68,6 @@
 - [SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities](https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/)
 - [US Water Systems Get Cyber Boost From New Senate Bill and ‘Water Watch Center’](https://www.securityweek.com/us-water-systems-get-cyber-boost-from-new-senate-bill-and-water-watch-center/)
 - [Corma Raises $60 Million for Defensive Cybersecurity AI Model](https://www.securityweek.com/corma-raises-60-million-for-defensive-cybersecurity-ai-model/)
-- [Extension Banned for Stealing AI Chats Returns to Chrome Store, Resumes Malicious Activities](https://www.securityweek.com/extension-banned-for-stealing-ai-chats-returns-to-chrome-store-resumes-malicious-activities/)
 
 ### Threatpost
 

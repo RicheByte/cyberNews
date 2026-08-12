@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-11 22:35 UTC  
+> **Last Updated:** 2026-08-12 01:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**water watch center** • **def con aims** • **crash devices cisco** • **fix security vulnerabilities** • **session messaging network** • **cvss backed patching** • **twitter whistleblower complaint** • **sharepoint server 2016** • **organized cybercrime groups** • **five point framework** • **distribution giant wesco** • **checklists it's time** • **blockchain backed services** • **4 6 rating** • **monthly security updates** • **software giant fixed** • **software almost triple** • **resist infrastructure takedown** • **ransomware group known** • **vulnerability discoveries aided**
+**water watch center** • **def con aims** • **crash devices cisco** • **session messaging network** • **cvss backed patching** • **fix security vulnerabilities** • **twitter whistleblower complaint** • **sharepoint server 2016** • **organized cybercrime groups** • **five point framework** • **checklists it's time** • **blockchain backed services** • **4 6 rating** • **software giant fixed** • **software almost triple** • **resist infrastructure takedown** • **monthly security updates** • **ransomware group known** • **vulnerability discoveries aided** • **ukraine cert ua**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
 - [DeadLock ransomware uses blockchain to resist infrastructure takedown](https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/)
 - [Sandworm hackers target IT pros with trojanized WireGuard VPN client](https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/)
 - [Cisco warns of ASA and FTD VPN flaw exploited to crash devices](https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/)
@@ -34,7 +35,6 @@
 - [Microsoft releases Windows 10 KB5120249 extended security update](https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/)
 - [Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/)
 - [Windows 11 KB5121003 & KB5120240 cumulative updates released](https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/)
-- [Wesco confirms security incident after ExfilSquad claims data theft](https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/)
 
 ### Krebs on Security
 

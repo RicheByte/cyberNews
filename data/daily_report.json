@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-11 22:35",
+  "last_updated": "2026-08-12 01:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "water watch center",
     "def con aims",
     "crash devices cisco",
-    "fix security vulnerabilities",
     "session messaging network",
     "cvss backed patching",
+    "fix security vulnerabilities",
     "twitter whistleblower complaint",
     "sharepoint server 2016",
     "organized cybercrime groups",
     "five point framework",
-    "distribution giant wesco",
     "checklists it's time",
     "blockchain backed services",
     "4 6 rating",
-    "monthly security updates",
     "software giant fixed",
     "software almost triple",
     "resist infrastructure takedown",
+    "monthly security updates",
     "ransomware group known",
-    "vulnerability discoveries aided"
+    "vulnerability discoveries aided",
+    "ukraine cert ua"
   ],
   "trending": [
     {
       "keyword": "water watch center",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "def con aims",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "crash devices cisco",
-      "mentions": 2
-    },
-    {
-      "keyword": "fix security vulnerabilities",
       "mentions": 3
     },
     {
       "keyword": "session messaging network",
-      "mentions": 2
-    },
-    {
-      "keyword": "cvss backed patching",
-      "mentions": 15
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2370
-    },
-    {
-      "keyword": "sharepoint server 2016",
       "mentions": 3
     },
     {
+      "keyword": "cvss backed patching",
+      "mentions": 16
+    },
+    {
+      "keyword": "fix security vulnerabilities",
+      "mentions": 4
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2371
+    },
+    {
+      "keyword": "sharepoint server 2016",
+      "mentions": 4
+    },
+    {
       "keyword": "organized cybercrime groups",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "five point framework",
-      "mentions": 15
+      "mentions": 16
     }
   ],
   "articles": [
@@ -157,6 +157,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse",
+      "link": "https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/",
+      "summary": "Google says Chrome's anti-abuse systems reduced unwanted notifications on Android by more than 7 billion per day during the first quarter of 2026. [...]",
+      "published": "Tue, 11 Aug 2026 21:15:55 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
       "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
       "summary": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
@@ -232,15 +241,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Wesco confirms security incident after ExfilSquad claims data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/wesco-confirms-security-incident-after-exfilsquad-claims-data-theft/",
-      "summary": "Global supply chain and distribution giant Wesco has confirmed in a statement for BleepingComputer that it is investigating a cybersecurity incident. [...]",
-      "published": "Tue, 11 Aug 2026 11:59:35 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

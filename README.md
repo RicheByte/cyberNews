@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-12 10:56 UTC |
+| 🕐 Last Updated | 2026-08-12 12:56 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`high severity denial` • `vmware vcenter server` • `execute arbitrary code` • `twitter whistleblower complaint` • `sandworm hackers target` • `organized cybercrime groups` • `five point framework` • `cvss backed patching` • `checklists it's time` • `blockchain backed services`
+`high severity denial` • `vmware vcenter server` • `execute arbitrary code` • `twitter whistleblower complaint` • `organized cybercrime groups` • `eight ceva warehouses` • `cvss backed patching` • `checklists it's time` • `blockchain backed services` • `arbitrary code execution`
 
 ## 📄 Reports
 

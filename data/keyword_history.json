@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2375,
+      "count": 2376,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1011,7 +1011,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3252,7 +3252,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 292,
+      "count": 293,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -12395,7 +12395,7 @@
       ]
     },
     "high severity denial": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-03-30",
         "2026-03-31",
@@ -23187,7 +23187,7 @@
       ]
     },
     "software almost triple": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23253,7 +23253,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -26101,7 +26101,7 @@
       ]
     },
     "text history records": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26401,7 +26401,7 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26409,7 +26409,7 @@
       ]
     },
     "cvss backed patching": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26603,21 +26603,21 @@
       ]
     },
     "crash devices cisco": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "checklists it's time": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "blockchain backed services": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26631,31 +26631,49 @@
       ]
     },
     "resist infrastructure takedown": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "sandworm hackers target": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "security researcher going": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "vmware vcenter server": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "even code execution": {
+      "count": 2,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "eight ceva warehouses": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "ftd flaw exploited": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "cybersecurity company rapid7": {
       "count": 1,
       "dates": [
         "2026-08-12"
@@ -26663,17 +26681,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 14:57",
-      "articles": 48,
-      "top_keywords": [
-        "released security updates",
-        "70 2 million",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 16:53",
       "articles": 48,
@@ -27761,6 +27768,17 @@
         "execute arbitrary code",
         "twitter whistleblower complaint",
         "sandworm hackers target"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 12:56",
+      "articles": 48,
+      "top_keywords": [
+        "high severity denial",
+        "vmware vcenter server",
+        "execute arbitrary code",
+        "twitter whistleblower complaint",
+        "organized cybercrime groups"
       ]
     }
   ]

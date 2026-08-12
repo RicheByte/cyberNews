@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12 10:56",
+  "last_updated": "2026-08-12 12:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,80 @@
     "vmware vcenter server",
     "execute arbitrary code",
     "twitter whistleblower complaint",
-    "sandworm hackers target",
     "organized cybercrime groups",
-    "five point framework",
+    "eight ceva warehouses",
     "cvss backed patching",
     "checklists it's time",
     "blockchain backed services",
     "arbitrary code execution",
-    "fix security vulnerabilities",
+    "ftd flaw exploited",
     "software giant fixed",
     "software almost triple",
     "even code execution",
-    "security researcher going",
-    "monthly security updates",
+    "cybersecurity company rapid7",
     "crash devices cisco",
     "text history records",
+    "security researcher going",
+    "sandworm hackers target",
     "resist infrastructure takedown"
   ],
   "trending": [
     {
       "keyword": "high severity denial",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 1
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 93
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2375
-    },
-    {
-      "keyword": "sandworm hackers target",
       "mentions": 2
     },
     {
-      "keyword": "organized cybercrime groups",
-      "mentions": 20
+      "keyword": "execute arbitrary code",
+      "mentions": 94
     },
     {
-      "keyword": "five point framework",
-      "mentions": 20
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2376
+    },
+    {
+      "keyword": "organized cybercrime groups",
+      "mentions": 21
+    },
+    {
+      "keyword": "eight ceva warehouses",
+      "mentions": 1
     },
     {
       "keyword": "cvss backed patching",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "checklists it's time",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "blockchain backed services",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 293
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
+      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
+      "value_score": 54,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
@@ -152,11 +166,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Zoom Annotation Flaws Could Let a Meeting Participant Hijack Another Attendee's Client",
-      "link": "https://thehackernews.com/2026/08/zoom-annotation-flaws-could-let-meeting.html",
-      "summary": "Anyone sharing their screen on a Zoom call could have taken over the computers of everyone watching, and anyone watching could have taken over the presenter's. The flaw sat in the annotation tool, the feature that lets participants draw and type on a shared screen, and it asked nothing of the victim beyond being in the meeting. No click, no download, no prompt, and nothing on screen to show it",
-      "published": "Wed, 12 Aug 2026 00:38:47 +0530",
+      "source": "BleepingComputer",
+      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
+      "published": "Wed, 12 Aug 2026 08:25:37 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "PoC available",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "published": "Wed, 12 Aug 2026 07:21:42 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -223,31 +250,6 @@
       "published": "Tue, 11 Aug 2026 14:34:23 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft releases Windows 10 KB5120249 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-10-kb5120249-cumulative-update-released-with-fixes/",
-      "summary": "Microsoft has released Windows 10 KB5120249 Extended Security Updates for versions 22H2 and 21H2 to fix security vulnerabilities and bugs. [...]",
-      "published": "Tue, 11 Aug 2026 14:26:03 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "summary": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "published": "Tue, 11 Aug 2026 14:08:50 -0400",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day",
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -335,6 +337,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
+      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
+      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency and team spirit are key factors.",
+      "published": "Wed, 12 Aug 2026 12:41:03 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
       "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
       "summary": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
@@ -410,11 +421,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Outdated Cybercrime Laws Put Security Researchers at Risk",
-      "link": "https://www.darkreading.com/application-security/outdated-cybercrime-laws-security-researchers-risk",
-      "summary": "A public policy expert mapped global cybercrime laws to develop a five-point framework for protecting ethical hackers and good-faith security research.",
-      "published": "Mon, 10 Aug 2026 16:25:22 GMT",
+      "source": "Security Week",
+      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+      "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+      "summary": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 11:37:28 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -498,19 +509,6 @@
       "value_signals": [
         "CVE mentioned",
         "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day",
-      "link": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
-      "summary": "A use-after-free in the afd.sys Windows kernel-mode driver has been exploited to gain SYSTEM privileges. The post August 2026 Patch Tuesday: Microsoft Fixes 421 CVEs, One Exploited Zero-Day appeared first on SecurityWeek .",
-      "published": "Tue, 11 Aug 2026 18:46:07 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2",
         "Exploit wording"
       ]
     },

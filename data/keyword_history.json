@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2374,
+      "count": 2375,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1011,7 +1011,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1032,7 +1032,8 @@
         "2026-06-13",
         "2026-06-14",
         "2026-06-15",
-        "2026-07-15"
+        "2026-07-15",
+        "2026-08-12"
       ]
     },
     "france arrests latvian": {
@@ -3251,7 +3252,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 291,
+      "count": 292,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -12394,7 +12395,7 @@
       ]
     },
     "high severity denial": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-03-30",
         "2026-03-31",
@@ -23186,7 +23187,7 @@
       ]
     },
     "software almost triple": {
-      "count": 71,
+      "count": 72,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23252,7 +23253,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -26100,7 +26101,7 @@
       ]
     },
     "text history records": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26400,7 +26401,7 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26408,7 +26409,7 @@
       ]
     },
     "cvss backed patching": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26416,7 +26417,7 @@
       ]
     },
     "five point framework": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26588,7 +26589,7 @@
       ]
     },
     "fix security vulnerabilities": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26602,47 +26603,59 @@
       ]
     },
     "crash devices cisco": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "checklists it's time": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "blockchain backed services": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "monthly security updates": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "resist infrastructure takedown": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "sandworm hackers target": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "security researcher going": {
+      "count": 2,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "vmware vcenter server": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "even code execution": {
       "count": 1,
       "dates": [
         "2026-08-12"
@@ -26650,17 +26663,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 13:08",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 14:57",
       "articles": 48,
@@ -27748,6 +27750,17 @@
         "twitter whistleblower complaint",
         "sandworm hackers target",
         "organized cybercrime groups"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 10:56",
+      "articles": 48,
+      "top_keywords": [
+        "high severity denial",
+        "vmware vcenter server",
+        "execute arbitrary code",
+        "twitter whistleblower complaint",
+        "sandworm hackers target"
       ]
     }
   ]

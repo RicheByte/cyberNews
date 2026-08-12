@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-08-12 09:05",
+  "last_updated": "2026-08-12 10:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cvss backed patching",
-    "fix security vulnerabilities",
+    "high severity denial",
+    "vmware vcenter server",
+    "execute arbitrary code",
     "twitter whistleblower complaint",
     "sandworm hackers target",
     "organized cybercrime groups",
     "five point framework",
+    "cvss backed patching",
     "checklists it's time",
     "blockchain backed services",
     "arbitrary code execution",
+    "fix security vulnerabilities",
     "software giant fixed",
     "software almost triple",
-    "high severity denial",
+    "even code execution",
     "security researcher going",
     "monthly security updates",
     "crash devices cisco",
-    "ukraine cert ua",
     "text history records",
-    "resist infrastructure takedown",
-    "residential proxy node",
-    "rated 10 0"
+    "resist infrastructure takedown"
   ],
   "trending": [
     {
-      "keyword": "cvss backed patching",
-      "mentions": 19
+      "keyword": "high severity denial",
+      "mentions": 11
     },
     {
-      "keyword": "fix security vulnerabilities",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2374
-    },
-    {
-      "keyword": "sandworm hackers target",
+      "keyword": "vmware vcenter server",
       "mentions": 1
     },
     {
+      "keyword": "execute arbitrary code",
+      "mentions": 93
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2375
+    },
+    {
+      "keyword": "sandworm hackers target",
+      "mentions": 2
+    },
+    {
       "keyword": "organized cybercrime groups",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "five point framework",
-      "mentions": 19
+      "mentions": 20
+    },
+    {
+      "keyword": "cvss backed patching",
+      "mentions": 20
     },
     {
       "keyword": "checklists it's time",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "blockchain backed services",
-      "mentions": 5
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 291
-    },
-    {
-      "keyword": "software giant fixed",
-      "mentions": 73
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+      "published": "Wed, 12 Aug 2026 14:31:54 +0530",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
@@ -148,13 +161,17 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Sandworm-Linked UAC-0145 Uses Fake Job Interviews to Push VPN That Can Run Commands",
-      "link": "https://thehackernews.com/2026/08/sandworm-linked-uac-0145-uses-fake-job.html",
-      "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has disclosed details of a new social engineering campaign orchestrated by Russian nation-state threat actors targeting IT workers in the country by masquerading as recruiters to trick them into installing malware. CERT-UA pinned the activity on a threat cluster it tracks as UAC-0145, which is a subgroup within Sandworm (aka APT44,",
-      "published": "Wed, 12 Aug 2026 00:06:47 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "published": "Wed, 12 Aug 2026 06:15:22 -0400",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -230,17 +247,6 @@
         "Active exploitation",
         "Patch/update ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 KB5121003 & KB5120240 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5121003-and-kb5120240-cumulative-updates-released/",
-      "summary": "Microsoft has released Windows 11 KB5121003 and KB5120240 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "published": "Tue, 11 Aug 2026 13:38:42 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -414,6 +420,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+      "summary": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution. The post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 10:55:04 +0000",
+      "value_score": 38,
+      "value_signals": [
+        "Privilege escalation",
+        "Patch/update ×4"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+      "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+      "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 09:55:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
       "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
       "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek .",
@@ -484,29 +511,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws",
-      "link": "https://www.securityweek.com/adobe-urges-immediate-patching-of-critical-coldfusion-campaign-classic-flaws/",
-      "summary": "The security defects could be exploited for arbitrary code execution and denial-of-service. The post Adobe Urges Immediate Patching of Critical ColdFusion, Campaign Classic Flaws appeared first on SecurityWeek .",
-      "published": "Tue, 11 Aug 2026 16:50:19 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "summary": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine. The post Zoom Patches Zero-Click Code Execution Vulnerability appeared first on SecurityWeek .",
-      "published": "Tue, 11 Aug 2026 15:49:53 +0000",
-      "value_score": 16,
-      "value_signals": [
         "Exploit wording"
       ]
     },

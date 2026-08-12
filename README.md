@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-12 12:56 UTC |
+| 🕐 Last Updated | 2026-08-12 14:52 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`high severity denial` • `vmware vcenter server` • `execute arbitrary code` • `twitter whistleblower complaint` • `organized cybercrime groups` • `eight ceva warehouses` • `cvss backed patching` • `checklists it's time` • `blockchain backed services` • `arbitrary code execution`
+`fake remote workers` • `vmware vcenter server` • `twitter whistleblower complaint` • `steal nude photos` • `eight ceva warehouses` • `cybersecurity company rapid7` • `cvss backed patching` • `checklists it's time` • `insufficient authorization checks` • `biometric liveness checks`
 
 ## 📄 Reports
 

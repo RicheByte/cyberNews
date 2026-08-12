@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-08-12 12:56",
+  "last_updated": "2026-08-12 14:52",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "high severity denial",
+    "fake remote workers",
     "vmware vcenter server",
-    "execute arbitrary code",
     "twitter whistleblower complaint",
-    "organized cybercrime groups",
+    "steal nude photos",
     "eight ceva warehouses",
+    "cybersecurity company rapid7",
     "cvss backed patching",
     "checklists it's time",
-    "blockchain backed services",
-    "arbitrary code execution",
-    "ftd flaw exploited",
+    "insufficient authorization checks",
+    "biometric liveness checks",
+    "maximum severity vulnerability",
+    "wide blast radius",
+    "text history records",
+    "specops software explains",
     "software giant fixed",
     "software almost triple",
-    "even code execution",
-    "cybersecurity company rapid7",
-    "crash devices cisco",
-    "text history records",
-    "security researcher going",
     "sandworm hackers target",
-    "resist infrastructure takedown"
+    "rated 10 0",
+    "publicly detailed prior",
+    "public github repository"
   ],
   "trending": [
     {
-      "keyword": "high severity denial",
-      "mentions": 12
-    },
-    {
-      "keyword": "vmware vcenter server",
-      "mentions": 2
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 94
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2376
-    },
-    {
-      "keyword": "organized cybercrime groups",
-      "mentions": 21
-    },
-    {
-      "keyword": "eight ceva warehouses",
+      "keyword": "fake remote workers",
       "mentions": 1
     },
     {
+      "keyword": "vmware vcenter server",
+      "mentions": 3
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2377
+    },
+    {
+      "keyword": "steal nude photos",
+      "mentions": 1
+    },
+    {
+      "keyword": "eight ceva warehouses",
+      "mentions": 2
+    },
+    {
+      "keyword": "cybersecurity company rapid7",
+      "mentions": 2
+    },
+    {
       "keyword": "cvss backed patching",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "checklists it's time",
-      "mentions": 7
+      "mentions": 8
     },
     {
-      "keyword": "blockchain backed services",
-      "mentions": 7
+      "keyword": "insufficient authorization checks",
+      "mentions": 1
     },
     {
-      "keyword": "arbitrary code execution",
-      "mentions": 293
+      "keyword": "biometric liveness checks",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
+      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
+      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
+      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
+      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
+      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
+      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
+      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
+      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
+      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
@@ -129,40 +156,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Cisco ASA and FTD Flaw Exploited in the Wild Can Trigger Remote DoS",
-      "link": "https://thehackernews.com/2026/08/cisco-asa-and-ftd-flaw-exploited-in.html",
-      "summary": "Cisco has warned that a new vulnerability impacting Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software has been exploited in the wild. The high-severity flaw, tracked as CVE-2026-20349 (CVSS score: 8.6), is a case of insufficient error checking when processing HTTP requests that could allow an unauthenticated, remote attacker to trigger",
-      "published": "Wed, 12 Aug 2026 11:45:58 +0530",
-      "value_score": 84,
+      "source": "BleepingComputer",
+      "title": "FBI: Hackers target online accounts to steal nude photos",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
+      "published": "Wed, 12 Aug 2026 10:15:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
+      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
+      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire. [...]",
+      "published": "Wed, 12 Aug 2026 10:01:11 -0400",
+      "value_score": 16,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
-      "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
-      "summary": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
-      "published": "Wed, 12 Aug 2026 01:40:55 +0530",
-      "value_score": 61,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day",
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
-      "link": "https://thehackernews.com/2026/08/kimwolf-v7-android-botnet-makes-http2.html",
-      "summary": "Cybersecurity researchers have discovered a new version of the Kimwolf/AISURU Android and Internet of Things (IoT) botnet that comes with significant improvements to improve its operational resilience and conduct distributed denial-of-service (DDoS) attacks. The new version, tracked as Kimwolf v7, was discovered by Palo Alto Networks Unit 42 in February 2026. \"Kimwolf v7 adds an HTTP/2-based",
-      "published": "Wed, 12 Aug 2026 01:06:37 +0530",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
       ]
     },
     {
@@ -227,27 +237,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
       "summary": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
       "published": "Tue, 11 Aug 2026 17:07:24 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "summary": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "published": "Tue, 11 Aug 2026 15:45:31 -0400",
-      "value_score": 41,
-      "value_signals": [
-        "Active exploitation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Delta probes Wi-Fi deauth attack on flight carrying DEF CON attendees",
-      "link": "https://www.bleepingcomputer.com/news/security/delta-probes-wi-fi-deauth-attack-on-flight-carrying-def-con-attendees/",
-      "summary": "Delta Air Lines is investigating an unauthorized Wi-Fi network that appeared aboard a flight from Las Vegas to Atlanta carrying passengers who had attended the DEF CON hacker convention. [...]",
-      "published": "Tue, 11 Aug 2026 14:34:23 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -337,9 +326,21 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
+      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
+      "published": "Wed, 12 Aug 2026 14:00:00 GMT",
+      "value_score": 36,
+      "value_signals": [
+        "Ransomware",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
       "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency and team spirit are key factors.",
+      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
       "published": "Wed, 12 Aug 2026 12:41:03 GMT",
       "value_score": 10,
       "value_signals": []
@@ -410,11 +411,43 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "Coruna, DarkSword iOS Exploits Proliferate Globally",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/coruna-darksword-ios-exploits-proliferate-globally",
-      "summary": "Sophisticated iPhone exploit chains previously limited to nation-states are spreading far and wide to organized cybercrime groups.",
-      "published": "Mon, 10 Aug 2026 17:09:20 GMT",
+      "source": "Security Week",
+      "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
+      "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
+      "summary": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 14:47:01 +0000",
+      "value_score": 81,
+      "value_signals": [
+        "Active exploitation",
+        "PoC available ×2",
+        "CISA/KEV",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Mindgard Raises $30 Million to Protect AI Systems",
+      "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
+      "summary": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams. The post Mindgard Raises $30 Million to Protect AI Systems appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 13:24:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "WhatsApp Unveils New Scam Alert Feature",
+      "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
+      "summary": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system. The post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 13:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
+      "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
+      "summary": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset appeared first on SecurityWeek .",
+      "published": "Wed, 12 Aug 2026 13:00:00 +0000",
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
@@ -460,55 +493,6 @@
       "value_signals": [
         "Zero-day ×2",
         "Backdoor",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ivanti EPM Update Patches Remotely Exploitable Flaws",
-      "link": "https://www.securityweek.com/ivanti-epm-update-patches-remotely-exploitable-flaws/",
-      "summary": "The vulnerabilities could be exploited to leak credentials for external SQL connections or crash an agent service. The post Ivanti EPM Update Patches Remotely Exploitable Flaws appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 08:14:46 +0000",
-      "value_score": 44,
-      "value_signals": [
-        "Patch/update ×2",
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-phoenix-contact-2/",
-      "summary": "CISA has also published several advisories describing vulnerabilities in ICS and other OT products. The post ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Phoenix Contact appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 07:51:55 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Patch/update ×4",
-        "CISA/KEV"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform",
-      "link": "https://www.securityweek.com/sonicwall-patches-critical-vulnerabilities-in-discontinued-gms-platform/",
-      "summary": "The security defects could allow unauthenticated attackers to execute arbitrary code remotely and read sensitive data. The post SonicWall Patches Critical Vulnerabilities in Discontinued GMS Platform appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 07:31:11 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Firewall Zero-Day Exploited for DoS Attacks",
-      "link": "https://www.securityweek.com/cisco-patches-firewall-zero-day-exploited-for-dos-attacks/",
-      "summary": "CVE-2026-20349 can be exploited remotely without authentication against Secure Firewall ASA and FTD devices. The post Cisco Patches Firewall Zero-Day Exploited for DoS Attacks appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 05:10:47 +0000",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
         "Exploit wording"
       ]
     },

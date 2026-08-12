@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2376,
+      "count": 2377,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -953,14 +953,15 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2025-12-18",
         "2025-12-19",
         "2026-04-07",
         "2026-04-08",
         "2026-08-10",
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-12"
       ]
     },
     "remote work requires": {
@@ -1116,7 +1117,7 @@
       ]
     },
     "specops software explains": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2025-12-19",
         "2026-02-23",
@@ -1124,7 +1125,8 @@
         "2026-05-28",
         "2026-07-22",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-08-12"
       ]
     },
     "software backdoor implanted": {
@@ -20316,7 +20318,7 @@
       ]
     },
     "public github repository": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20327,7 +20329,8 @@
         "2026-07-24",
         "2026-07-27",
         "2026-07-28",
-        "2026-07-29"
+        "2026-07-29",
+        "2026-08-12"
       ]
     },
     "tech giant describing": {
@@ -22950,7 +22953,7 @@
       ]
     },
     "rated 10 0": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-13",
         "2026-08-12"
@@ -23187,7 +23190,7 @@
       ]
     },
     "software almost triple": {
-      "count": 73,
+      "count": 74,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23253,7 +23256,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -26101,7 +26104,7 @@
       ]
     },
     "text history records": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26409,7 +26412,7 @@
       ]
     },
     "cvss backed patching": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26610,7 +26613,7 @@
       ]
     },
     "checklists it's time": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26638,7 +26641,7 @@
       ]
     },
     "sandworm hackers target": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-12"
       ]
@@ -26650,7 +26653,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
@@ -26662,7 +26665,7 @@
       ]
     },
     "eight ceva warehouses": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
@@ -26674,6 +26677,42 @@
       ]
     },
     "cybersecurity company rapid7": {
+      "count": 2,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "fake remote workers": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "steal nude photos": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "insufficient authorization checks": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "biometric liveness checks": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "wide blast radius": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "publicly detailed prior": {
       "count": 1,
       "dates": [
         "2026-08-12"
@@ -26681,17 +26720,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 16:53",
-      "articles": 48,
-      "top_keywords": [
-        "released security updates",
-        "70 2 million",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 19:01",
       "articles": 48,
@@ -27779,6 +27807,17 @@
         "execute arbitrary code",
         "twitter whistleblower complaint",
         "organized cybercrime groups"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 14:52",
+      "articles": 48,
+      "top_keywords": [
+        "fake remote workers",
+        "vmware vcenter server",
+        "twitter whistleblower complaint",
+        "steal nude photos",
+        "eight ceva warehouses"
       ]
     }
   ]

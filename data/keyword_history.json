@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2380,
+      "count": 2381,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2335,7 +2335,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2628,7 +2628,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 418,
+      "count": 419,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -14863,7 +14863,7 @@
       ]
     },
     "gain system privileges": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-04-23",
         "2026-04-24",
@@ -20732,12 +20732,13 @@
       ]
     },
     "hijack ai agents": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-06-22",
         "2026-06-23",
         "2026-08-10",
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-12"
       ]
     },
     "ai agents earlier": {
@@ -23023,7 +23024,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -26658,7 +26659,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12"
       ]
@@ -26670,7 +26671,7 @@
       ]
     },
     "eight ceva warehouses": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12"
       ]
@@ -26682,31 +26683,31 @@
       ]
     },
     "cybersecurity company rapid7": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12"
       ]
     },
     "fake remote workers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12"
       ]
     },
     "steal nude photos": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12"
       ]
     },
     "insufficient authorization checks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12"
       ]
     },
     "biometric liveness checks": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12"
       ]
@@ -26724,24 +26725,42 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-12"
       ]
     },
     "operation dream job": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12"
       ]
     },
     "extensions published across": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-12"
       ]
     },
     "intercept browser traffic": {
+      "count": 2,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "hijack customer accounts": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "least march 2025": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "city forum campaign": {
       "count": 1,
       "dates": [
         "2026-08-12"
@@ -26749,17 +26768,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-03 02:19",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "iranian hackers iran",
-        "arbitrary code execution",
-        "consumer tv boxes"
-      ]
-    },
     {
       "timestamp": "2026-08-03 06:54",
       "articles": 48,
@@ -27847,6 +27855,17 @@
         "operation dream job",
         "twitter whistleblower complaint",
         "target critical infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 22:34",
+      "articles": 48,
+      "top_keywords": [
+        "fake remote workers",
+        "vmware vcenter server",
+        "hijack customer accounts",
+        "operation dream job",
+        "least march 2025"
       ]
     }
   ]

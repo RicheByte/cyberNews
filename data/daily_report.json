@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-12 20:36",
+  "last_updated": "2026-08-12 22:34",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "fake remote workers",
     "vmware vcenter server",
+    "hijack customer accounts",
     "operation dream job",
+    "least march 2025",
+    "steal nude photos",
     "twitter whistleblower complaint",
     "target critical infrastructure",
-    "steal nude photos",
     "eight ceva warehouses",
     "cybersecurity company rapid7",
     "130 companies tangled",
     "insufficient authorization checks",
+    "hijack ai agents",
     "biometric liveness checks",
     "extensions published across",
     "contractor published dozens",
     "gain system privileges",
     "cvss scoring system",
-    "maximum severity vulnerability",
-    "intercept browser traffic",
-    "wide blast radius",
-    "turn one's television",
-    "text history records"
+    "city forum campaign",
+    "intercept browser traffic"
   ],
   "trending": [
     {
       "keyword": "fake remote workers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "hijack customer accounts",
+      "mentions": 1
     },
     {
       "keyword": "operation dream job",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2380
-    },
-    {
-      "keyword": "target critical infrastructure",
       "mentions": 3
     },
     {
+      "keyword": "least march 2025",
+      "mentions": 1
+    },
+    {
       "keyword": "steal nude photos",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2381
+    },
+    {
+      "keyword": "target critical infrastructure",
       "mentions": 4
     },
     {
       "keyword": "eight ceva warehouses",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "cybersecurity company rapid7",
-      "mentions": 5
-    },
-    {
-      "keyword": "130 companies tangled",
-      "mentions": 418
-    },
-    {
-      "keyword": "insufficient authorization checks",
-      "mentions": 4
+      "mentions": 6
     }
   ],
   "articles": [
@@ -156,6 +156,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Android malware combo takes out loans and relays victims' credit cards",
+      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+      "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
+      "published": "Wed, 12 Aug 2026 18:22:57 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "summary": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+      "published": "Wed, 12 Aug 2026 16:54:59 -0400",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
       "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
       "summary": "More than 737 browser extensions published on the Chrome Web Store impersonated well-known VPN and proxy services while routing users' traffic through SOCKS5 proxies operated by a single provider. [...]",
@@ -215,28 +237,6 @@
       "value_signals": [
         "PoC available",
         "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
-      "summary": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
-      "published": "Wed, 12 Aug 2026 07:21:42 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
-      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
-      "summary": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
-      "published": "Wed, 12 Aug 2026 06:15:22 -0400",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -326,6 +326,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+      "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+      "published": "Wed, 12 Aug 2026 21:08:54 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
       "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
       "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
@@ -395,17 +404,6 @@
       "published": "Mon, 10 Aug 2026 21:34:38 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
-      "summary": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
-      "published": "Mon, 10 Aug 2026 21:02:23 GMT",
-      "value_score": 35,
-      "value_signals": [
-        "Zero-day"
-      ]
     },
     {
       "source": "Security Week",

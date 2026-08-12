@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-12 20:36 UTC |
+| 🕐 Last Updated | 2026-08-12 22:34 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`fake remote workers` • `vmware vcenter server` • `operation dream job` • `twitter whistleblower complaint` • `target critical infrastructure` • `steal nude photos` • `eight ceva warehouses` • `cybersecurity company rapid7` • `130 companies tangled` • `insufficient authorization checks`
+`fake remote workers` • `vmware vcenter server` • `hijack customer accounts` • `operation dream job` • `least march 2025` • `steal nude photos` • `twitter whistleblower complaint` • `target critical infrastructure` • `eight ceva warehouses` • `cybersecurity company rapid7`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-12 18:54 UTC  
+> **Last Updated:** 2026-08-12 20:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake remote workers** • **vmware vcenter server** • **operation dream job** • **twitter whistleblower complaint** • **target critical infrastructure** • **steal nude photos** • **eight ceva warehouses** • **cybersecurity company rapid7** • **130 companies tangled** • **insufficient authorization checks** • **biometric liveness checks** • **gain system privileges** • **cvss scoring system** • **maximum severity vulnerability** • **wide blast radius** • **turn one's television** • **text history records** • **specops software explains** • **software giant fixed** • **software almost triple**
+**fake remote workers** • **vmware vcenter server** • **operation dream job** • **twitter whistleblower complaint** • **target critical infrastructure** • **steal nude photos** • **eight ceva warehouses** • **cybersecurity company rapid7** • **130 companies tangled** • **insufficient authorization checks** • **biometric liveness checks** • **extensions published across** • **contractor published dozens** • **gain system privileges** • **cvss scoring system** • **maximum severity vulnerability** • **intercept browser traffic** • **wide blast radius** • **turn one's television** • **text history records**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
 - [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
 - [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
 - [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
@@ -34,7 +35,6 @@
 - [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
 - [Signal adds new security feature to thwart man-in-the-middle attacks](https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/)
 - [New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges](https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/)
-- [Google says Chrome cuts 7 billion unwanted Android notifications a day to fight abuse](https://www.bleepingcomputer.com/news/security/google-says-chrome-cuts-7-billion-unwanted-android-notifications-a-day-to-fight-abuse/)
 
 ### Krebs on Security
 

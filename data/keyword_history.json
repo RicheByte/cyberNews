@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2373,
+      "count": 2374,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -3251,7 +3251,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 290,
+      "count": 291,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3300,7 +3300,8 @@
         "2026-07-29",
         "2026-08-01",
         "2026-08-02",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-12"
       ]
     },
     "authenticated remote attacker": {
@@ -12393,10 +12394,11 @@
       ]
     },
     "high severity denial": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-03-30",
-        "2026-03-31"
+        "2026-03-31",
+        "2026-08-12"
       ]
     },
     "cve 2026 3055": {
@@ -14058,7 +14060,7 @@
       ]
     },
     "ukraine cert ua": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-04-16",
         "2026-07-19",
@@ -22947,9 +22949,10 @@
       ]
     },
     "rated 10 0": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-13"
+        "2026-07-13",
+        "2026-08-12"
       ]
     },
     "productivity gains worth": {
@@ -23183,7 +23186,7 @@
       ]
     },
     "software almost triple": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23249,7 +23252,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 72,
+      "count": 73,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24080,7 +24083,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 152,
+      "count": 153,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24099,7 +24102,8 @@
         "2026-08-05",
         "2026-08-06",
         "2026-08-07",
-        "2026-08-08"
+        "2026-08-08",
+        "2026-08-12"
       ]
     },
     "ban residential proxies": {
@@ -26096,7 +26100,7 @@
       ]
     },
     "text history records": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26396,7 +26400,7 @@
       ]
     },
     "organized cybercrime groups": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26404,7 +26408,7 @@
       ]
     },
     "cvss backed patching": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26412,7 +26416,7 @@
       ]
     },
     "five point framework": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-10",
         "2026-08-11",
@@ -26584,7 +26588,7 @@
       ]
     },
     "fix security vulnerabilities": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-11",
         "2026-08-12"
@@ -26598,53 +26602,54 @@
       ]
     },
     "crash devices cisco": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "checklists it's time": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "blockchain backed services": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "monthly security updates": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11",
         "2026-08-12"
       ]
     },
     "resist infrastructure takedown": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-11",
+        "2026-08-12"
+      ]
+    },
+    "sandworm hackers target": {
+      "count": 1,
+      "dates": [
+        "2026-08-12"
+      ]
+    },
+    "security researcher going": {
+      "count": 1,
+      "dates": [
         "2026-08-12"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-02 11:12",
-      "articles": 48,
-      "top_keywords": [
-        "70 2 million",
-        "released security updates",
-        "spear phishing attack",
-        "iranian hackers iran",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-02 13:08",
       "articles": 48,
@@ -27732,6 +27737,17 @@
         "session messaging network",
         "cvss backed patching",
         "fix security vulnerabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-08-12 09:05",
+      "articles": 48,
+      "top_keywords": [
+        "cvss backed patching",
+        "fix security vulnerabilities",
+        "twitter whistleblower complaint",
+        "sandworm hackers target",
+        "organized cybercrime groups"
       ]
     }
   ]

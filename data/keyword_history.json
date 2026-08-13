@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2389,
+      "count": 2390,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1013,7 +1013,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 96,
+      "count": 97,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1196,7 +1196,7 @@
       ]
     },
     "national security risk": {
-      "count": 367,
+      "count": 368,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3261,7 +3261,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 295,
+      "count": 296,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20328,7 +20328,7 @@
       ]
     },
     "public github repository": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -20340,7 +20340,8 @@
         "2026-07-27",
         "2026-07-28",
         "2026-07-29",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-13"
       ]
     },
     "tech giant describing": {
@@ -23270,7 +23271,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23285,7 +23286,8 @@
         "2026-08-09",
         "2026-08-10",
         "2026-08-11",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-13"
       ]
     },
     "windows bind links": {
@@ -24425,7 +24427,7 @@
       ]
     },
     "turn one's television": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25241,7 +25243,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26040,7 +26042,7 @@
       ]
     },
     "concept poc code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-06",
         "2026-08-13"
@@ -26673,7 +26675,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26745,7 +26747,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26780,7 +26782,7 @@
       ]
     },
     "least march 2025": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26806,7 +26808,7 @@
       ]
     },
     "critical infrastructure targets": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-13"
       ]
@@ -26818,7 +26820,7 @@
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13"
       ]
@@ -26836,7 +26838,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-13"
       ]
@@ -26848,12 +26850,30 @@
       ]
     },
     "traditional security reviews": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-13"
       ]
     },
     "windows dns server": {
+      "count": 2,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "multiple watermark removers": {
+      "count": 1,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "cve 2026 59310": {
+      "count": 1,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "reverse ssh tool": {
       "count": 1,
       "dates": [
         "2026-08-13"
@@ -26861,17 +26881,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-04 06:22",
-      "articles": 48,
-      "top_keywords": [
-        "people behind companies",
-        "publicly leaked version",
-        "residential proxy node",
-        "twitter whistleblower complaint",
-        "n able warns"
-      ]
-    },
     {
       "timestamp": "2026-08-04 10:31",
       "articles": 48,
@@ -27958,6 +27967,17 @@
         "hijack customer accounts",
         "attackers crosshairs tracked",
         "least march 2025",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13 18:54",
+      "articles": 48,
+      "top_keywords": [
+        "vmware vcenter server",
+        "attackers crosshairs tracked",
+        "least march 2025",
+        "ai generated websites",
         "twitter whistleblower complaint"
       ]
     }

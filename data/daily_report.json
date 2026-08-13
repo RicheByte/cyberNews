@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-08-13 10:56",
+  "last_updated": "2026-08-13 12:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "fake remote workers",
     "vmware vcenter server",
     "target critical infrastructure",
     "hijack customer accounts",
@@ -13,57 +12,58 @@
     "twitter whistleblower complaint",
     "steal nude photos",
     "critical infrastructure targets",
-    "biometric liveness checks",
     "130 companies tangled",
+    "servicenow customer portals",
     "contractor published dozens",
     "1 million bond",
     "city forum campaign",
-    "steal data exposed",
     "intercept browser traffic",
     "way openai anthropic",
     "vulnerability discoveries aided",
-    "turn one's television"
+    "turn one's television",
+    "trusted agent approach",
+    "text history records"
   ],
   "trending": [
     {
-      "keyword": "fake remote workers",
-      "mentions": 10
-    },
-    {
       "keyword": "vmware vcenter server",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "target critical infrastructure",
-      "mentions": 9
-    },
-    {
-      "keyword": "hijack customer accounts",
-      "mentions": 6
-    },
-    {
-      "keyword": "attackers crosshairs tracked",
-      "mentions": 1
-    },
-    {
-      "keyword": "operation dream job",
-      "mentions": 8
-    },
-    {
-      "keyword": "least march 2025",
-      "mentions": 6
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2386
-    },
-    {
-      "keyword": "steal nude photos",
       "mentions": 10
     },
     {
+      "keyword": "hijack customer accounts",
+      "mentions": 7
+    },
+    {
+      "keyword": "attackers crosshairs tracked",
+      "mentions": 2
+    },
+    {
+      "keyword": "operation dream job",
+      "mentions": 9
+    },
+    {
+      "keyword": "least march 2025",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2387
+    },
+    {
+      "keyword": "steal nude photos",
+      "mentions": 11
+    },
+    {
       "keyword": "critical infrastructure targets",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 425
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "published": "Thu, 13 Aug 2026 07:50:22 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
       "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
       "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
@@ -229,17 +238,6 @@
       "published": "Wed, 12 Aug 2026 10:15:09 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In",
-      "link": "https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/",
-      "summary": "Fake remote workers can exploit gaps between hiring checks, device delivery, and account access to enter organizations under false identities. Specops Software explains how document verification and biometric liveness checks can help organizations confirm that the person receiving access is the legitimate new hire. [...]",
-      "published": "Wed, 12 Aug 2026 10:01:11 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -356,9 +354,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
+      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
       "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-      "summary": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+      "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
       "published": "Wed, 12 Aug 2026 16:28:04 GMT",
       "value_score": 10,
       "value_signals": []
@@ -407,6 +405,27 @@
         "High severity",
         "Exploit wording"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
+      "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
+      "summary": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 12:53:56 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Venture Firm Team8 Secures Additional $365 Million",
+      "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
+      "summary": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 11:42:48 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -472,26 +491,6 @@
       "published": "Wed, 12 Aug 2026 13:24:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WhatsApp Unveils New Scam Alert Feature",
-      "link": "https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/",
-      "summary": "Signal has also made a security announcement: an automatic key verification feature to complement its safety number system. The post WhatsApp Unveils New Scam Alert Feature appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 13:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
-      "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
-      "summary": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 13:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

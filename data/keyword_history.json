@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2382,
+      "count": 2383,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2336,7 +2336,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2630,7 +2630,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 420,
+      "count": 421,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -14866,7 +14866,7 @@
       ]
     },
     "gain system privileges": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-04-23",
         "2026-04-24",
@@ -20736,7 +20736,7 @@
       ]
     },
     "hijack ai agents": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-06-22",
         "2026-06-23",
@@ -23029,7 +23029,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -26665,7 +26665,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26678,7 +26678,7 @@
       ]
     },
     "eight ceva warehouses": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26697,28 +26697,28 @@
       ]
     },
     "fake remote workers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "steal nude photos": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "insufficient authorization checks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "biometric liveness checks": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26737,21 +26737,21 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "operation dream job": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "extensions published across": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26764,51 +26764,40 @@
       ]
     },
     "hijack customer accounts": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "least march 2025": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "city forum campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "salesforce experience cloud": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-13"
       ]
     },
     "steal data exposed": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-03 11:16",
-      "articles": 48,
-      "top_keywords": [
-        "arbitrary code execution",
-        "cve 2026 17583",
-        "released security updates",
-        "residential proxy node",
-        "publicly leaked version"
-      ]
-    },
     {
       "timestamp": "2026-08-03 14:26",
       "articles": 48,
@@ -27889,6 +27878,17 @@
     },
     {
       "timestamp": "2026-08-13 01:25",
+      "articles": 48,
+      "top_keywords": [
+        "fake remote workers",
+        "vmware vcenter server",
+        "operation dream job",
+        "least march 2025",
+        "hijack customer accounts"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13 04:05",
       "articles": 48,
       "top_keywords": [
         "fake remote workers",

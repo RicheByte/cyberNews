@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2390,
+      "count": 2391,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1013,7 +1013,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 97,
+      "count": 98,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1196,7 +1196,7 @@
       ]
     },
     "national security risk": {
-      "count": 368,
+      "count": 369,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -3261,7 +3261,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 296,
+      "count": 297,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20328,7 +20328,7 @@
       ]
     },
     "public github repository": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23271,7 +23271,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24427,7 +24427,7 @@
       ]
     },
     "turn one's television": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25243,7 +25243,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 49,
+      "count": 50,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26042,7 +26042,7 @@
       ]
     },
     "concept poc code": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-06",
         "2026-08-13"
@@ -26675,7 +26675,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26747,7 +26747,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26782,7 +26782,7 @@
       ]
     },
     "least march 2025": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26808,7 +26808,7 @@
       ]
     },
     "critical infrastructure targets": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-13"
       ]
@@ -26820,7 +26820,7 @@
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-13"
       ]
@@ -26838,7 +26838,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13"
       ]
@@ -26850,48 +26850,37 @@
       ]
     },
     "traditional security reviews": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-13"
       ]
     },
     "windows dns server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-13"
       ]
     },
     "multiple watermark removers": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-13"
       ]
     },
     "cve 2026 59310": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-13"
       ]
     },
     "reverse ssh tool": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-04 10:31",
-      "articles": 48,
-      "top_keywords": [
-        "150 000 impacted",
-        "publicly leaked version",
-        "residential proxy node",
-        "people behind companies",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-04 13:57",
       "articles": 48,
@@ -27972,6 +27961,17 @@
     },
     {
       "timestamp": "2026-08-13 18:54",
+      "articles": 48,
+      "top_keywords": [
+        "vmware vcenter server",
+        "attackers crosshairs tracked",
+        "least march 2025",
+        "ai generated websites",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13 20:35",
       "articles": 48,
       "top_keywords": [
         "vmware vcenter server",

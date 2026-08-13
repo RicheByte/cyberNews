@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-08-12 22:34",
+  "last_updated": "2026-08-13 01:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "fake remote workers",
     "vmware vcenter server",
-    "hijack customer accounts",
     "operation dream job",
     "least march 2025",
-    "steal nude photos",
+    "hijack customer accounts",
     "twitter whistleblower complaint",
     "target critical infrastructure",
+    "steal nude photos",
+    "salesforce experience cloud",
     "eight ceva warehouses",
-    "cybersecurity company rapid7",
     "130 companies tangled",
     "insufficient authorization checks",
     "hijack ai agents",
@@ -22,48 +22,48 @@
     "gain system privileges",
     "cvss scoring system",
     "city forum campaign",
-    "intercept browser traffic"
+    "steal data exposed"
   ],
   "trending": [
     {
       "keyword": "fake remote workers",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 7
-    },
-    {
-      "keyword": "hijack customer accounts",
-      "mentions": 1
+      "mentions": 8
     },
     {
       "keyword": "operation dream job",
-      "mentions": 3
-    },
-    {
-      "keyword": "least march 2025",
-      "mentions": 1
-    },
-    {
-      "keyword": "steal nude photos",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2381
-    },
-    {
-      "keyword": "target critical infrastructure",
       "mentions": 4
     },
     {
-      "keyword": "eight ceva warehouses",
+      "keyword": "least march 2025",
+      "mentions": 2
+    },
+    {
+      "keyword": "hijack customer accounts",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2382
+    },
+    {
+      "keyword": "target critical infrastructure",
+      "mentions": 5
+    },
+    {
+      "keyword": "steal nude photos",
       "mentions": 6
     },
     {
-      "keyword": "cybersecurity company rapid7",
-      "mentions": 6
+      "keyword": "salesforce experience cloud",
+      "mentions": 1
+    },
+    {
+      "keyword": "eight ceva warehouses",
+      "mentions": 7
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "\"City-Forum\" data-theft attacks target Salesforce, ServiceNow portals",
+      "link": "https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/",
+      "summary": "An ongoing data theft campaign uses custom tools to steal data exposed to anonymous users through Salesforce Experience Cloud and ServiceNow customer portals. [...]",
+      "published": "Wed, 12 Aug 2026 19:07:23 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Android malware combo takes out loans and relays victims' credit cards",
       "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
       "summary": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
@@ -224,19 +233,6 @@
       "published": "Wed, 12 Aug 2026 10:01:11 -0400",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers leverage new Microsoft SharePoint exploit in attacks",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
-      "summary": "Hackers have already begun using a proof-of-concept (PoC) exploit for a critical Microsoft SharePoint vulnerability, published by cybersecurity company Rapid7 on Tuesday. [...]",
-      "published": "Wed, 12 Aug 2026 08:25:37 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "PoC available",
-        "High severity",
         "Exploit wording"
       ]
     },

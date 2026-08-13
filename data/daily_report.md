@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-12 22:34 UTC  
+> **Last Updated:** 2026-08-13 01:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake remote workers** • **vmware vcenter server** • **hijack customer accounts** • **operation dream job** • **least march 2025** • **steal nude photos** • **twitter whistleblower complaint** • **target critical infrastructure** • **eight ceva warehouses** • **cybersecurity company rapid7** • **130 companies tangled** • **insufficient authorization checks** • **hijack ai agents** • **biometric liveness checks** • **extensions published across** • **contractor published dozens** • **gain system privileges** • **cvss scoring system** • **city forum campaign** • **intercept browser traffic**
+**fake remote workers** • **vmware vcenter server** • **operation dream job** • **least march 2025** • **hijack customer accounts** • **twitter whistleblower complaint** • **target critical infrastructure** • **steal nude photos** • **salesforce experience cloud** • **eight ceva warehouses** • **130 companies tangled** • **insufficient authorization checks** • **hijack ai agents** • **biometric liveness checks** • **extensions published across** • **contractor published dozens** • **gain system privileges** • **cvss scoring system** • **city forum campaign** • **steal data exposed**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
 - [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
 - [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
 - [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
@@ -34,7 +35,6 @@
 - [Lazarus hackers exploited Windows zero-day to target defense firms](https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/)
 - [FBI: Hackers target online accounts to steal nude photos](https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/)
 - [The Threat Hiding in Your Hiring Process: How Fake Remote Workers Get In](https://www.bleepingcomputer.com/news/security/the-threat-hiding-in-your-hiring-process-how-fake-remote-workers-get-in/)
-- [Hackers leverage new Microsoft SharePoint exploit in attacks](https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/)
 
 ### Krebs on Security
 

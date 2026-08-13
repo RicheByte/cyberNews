@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-13 07:17 UTC  
+> **Last Updated:** 2026-08-13 09:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake remote workers** • **vmware vcenter server** • **target critical infrastructure** • **operation dream job** • **least march 2025** • **hijack customer accounts** • **twitter whistleblower complaint** • **steal nude photos** • **eight ceva warehouses** • **biometric liveness checks** • **130 companies tangled** • **hijack ai agents** • **critical infrastructure targets** • **gain system privileges** • **contractor published dozens** • **city forum campaign** • **steal data exposed** • **intercept browser traffic** • **way openai anthropic** • **turn one's television**
+**fake remote workers** • **vmware vcenter server** • **target critical infrastructure** • **operation dream job** • **least march 2025** • **hijack customer accounts** • **twitter whistleblower complaint** • **steal nude photos** • **eight ceva warehouses** • **biometric liveness checks** • **130 companies tangled** • **hijack ai agents** • **critical infrastructure targets** • **contractor published dozens** • **city forum campaign** • **steal data exposed** • **intercept browser traffic** • **way openai anthropic** • **turn one's television** • **text history records**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/)
 - [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
 - [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
 - [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
@@ -67,7 +68,6 @@
 - [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
 - [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
 - [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
-- [Fresh Windows Zero-Day Exploited in North Korean Cyberattacks](https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/)
 
 ### Threatpost
 

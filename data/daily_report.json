@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-13 07:17",
+  "last_updated": "2026-08-13 09:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -16,54 +16,54 @@
     "130 companies tangled",
     "hijack ai agents",
     "critical infrastructure targets",
-    "gain system privileges",
     "contractor published dozens",
     "city forum campaign",
     "steal data exposed",
     "intercept browser traffic",
     "way openai anthropic",
-    "turn one's television"
+    "turn one's television",
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "fake remote workers",
-      "mentions": 8
-    },
-    {
-      "keyword": "vmware vcenter server",
-      "mentions": 10
-    },
-    {
-      "keyword": "target critical infrastructure",
-      "mentions": 7
-    },
-    {
-      "keyword": "operation dream job",
-      "mentions": 6
-    },
-    {
-      "keyword": "least march 2025",
-      "mentions": 4
-    },
-    {
-      "keyword": "hijack customer accounts",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2384
-    },
-    {
-      "keyword": "steal nude photos",
-      "mentions": 8
-    },
-    {
-      "keyword": "eight ceva warehouses",
       "mentions": 9
     },
     {
-      "keyword": "biometric liveness checks",
+      "keyword": "vmware vcenter server",
+      "mentions": 11
+    },
+    {
+      "keyword": "target critical infrastructure",
       "mentions": 8
+    },
+    {
+      "keyword": "operation dream job",
+      "mentions": 7
+    },
+    {
+      "keyword": "least march 2025",
+      "mentions": 5
+    },
+    {
+      "keyword": "hijack customer accounts",
+      "mentions": 5
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2385
+    },
+    {
+      "keyword": "steal nude photos",
+      "mentions": 9
+    },
+    {
+      "keyword": "eight ceva warehouses",
+      "mentions": 10
+    },
+    {
+      "keyword": "biometric liveness checks",
+      "mentions": 9
     }
   ],
   "articles": [
@@ -410,6 +410,19 @@
     },
     {
       "source": "Security Week",
+      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
+      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
+      "summary": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 08:38:03 +0000",
+      "value_score": 74,
+      "value_signals": [
+        "Zero-day ×2",
+        "Patch/update",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
       "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
       "summary": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek .",
@@ -480,19 +493,6 @@
       "published": "Wed, 12 Aug 2026 09:55:45 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
-      "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
-      "summary": "The bug allowed attackers to gain full control of the victims’ systems and deploy the ForestTiger backdoor. The post Fresh Windows Zero-Day Exploited in North Korean Cyberattacks appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 08:45:53 +0000",
-      "value_score": 78,
-      "value_signals": [
-        "Zero-day ×2",
-        "Backdoor",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

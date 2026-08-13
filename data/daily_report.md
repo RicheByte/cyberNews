@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-13 14:51 UTC  
+> **Last Updated:** 2026-08-13 16:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**hijack customer accounts** • **vmware vcenter server** • **attackers crosshairs tracked** • **least march 2025** • **twitter whistleblower complaint** • **target critical infrastructure** • **national security risk** • **critical infrastructure targets** • **ai generated websites** • **adobe released patches** • **servicenow customer portals** • **contractor published dozens** • **execute arbitrary code** • **concept poc code** • **arbitrary code execution** • **intercept browser traffic** • **way openai anthropic** • **turn one's television** • **trusted agent approach** • **traditional security reviews**
+**vmware vcenter server** • **hijack customer accounts** • **attackers crosshairs tracked** • **least march 2025** • **twitter whistleblower complaint** • **target critical infrastructure** • **national security risk** • **critical infrastructure targets** • **ai generated websites** • **adobe released patches** • **windows dns server** • **servicenow customer portals** • **execute arbitrary code** • **concept poc code** • **arbitrary code execution** • **way openai anthropic** • **turn one's television** • **trusted agent approach** • **traditional security reviews** • **text history records**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
+- [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
 - [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
 - [White House taps security firms for offensive hack-back operations](https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/)
 - [WhatsApp rolls out new feature that flags potential scam messages](https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/)
 - ["City-Forum" data-theft attacks target Salesforce, ServiceNow portals](https://www.bleepingcomputer.com/news/security/city-forum-data-theft-attacks-target-salesforce-servicenow-portals/)
 - [Android malware combo takes out loans and relays victims' credit cards](https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/)
 - [Hackers exploit critical Adobe Commerce flaw to hijack customer accounts](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/)
-- [Hundreds of fake Chrome VPN extensions route traffic through a proxy](https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/)
-- [Plug and Pwn attack uses fake USB devices for Windows SYSTEM access](https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/)
 
 ### Krebs on Security
 

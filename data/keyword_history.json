@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2387,
+      "count": 2388,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1013,7 +1013,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 94,
+      "count": 95,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1035,7 +1035,8 @@
         "2026-06-14",
         "2026-06-15",
         "2026-07-15",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-13"
       ]
     },
     "france arrests latvian": {
@@ -1195,7 +1196,7 @@
       ]
     },
     "national security risk": {
-      "count": 365,
+      "count": 366,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1262,7 +1263,8 @@
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-13"
       ]
     },
     "open source millions": {
@@ -3259,7 +3261,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 293,
+      "count": 294,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3309,7 +3311,8 @@
         "2026-08-01",
         "2026-08-02",
         "2026-08-03",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-13"
       ]
     },
     "authenticated remote attacker": {
@@ -23029,7 +23032,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -24422,7 +24425,7 @@
       ]
     },
     "turn one's television": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25238,7 +25241,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -25248,7 +25251,8 @@
         "2026-08-07",
         "2026-08-08",
         "2026-08-09",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-13"
       ]
     },
     "infect targeted visitors": {
@@ -26036,9 +26040,10 @@
       ]
     },
     "concept poc code": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-06"
+        "2026-08-06",
+        "2026-08-13"
       ]
     },
     "organization's oracle database": {
@@ -26668,7 +26673,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26740,7 +26745,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26761,21 +26766,21 @@
       ]
     },
     "intercept browser traffic": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "hijack customer accounts": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "least march 2025": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26801,19 +26806,19 @@
       ]
     },
     "critical infrastructure targets": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13"
       ]
     },
     "way openai anthropic": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13"
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-13"
       ]
@@ -26825,12 +26830,24 @@
       ]
     },
     "servicenow customer portals": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-13"
       ]
     },
     "trusted agent approach": {
+      "count": 2,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "adobe released patches": {
+      "count": 1,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "traditional security reviews": {
       "count": 1,
       "dates": [
         "2026-08-13"
@@ -26838,17 +26855,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-03 22:55",
-      "articles": 48,
-      "top_keywords": [
-        "people behind companies",
-        "publicly leaked version",
-        "residential proxy node",
-        "twitter whistleblower complaint",
-        "n able warns"
-      ]
-    },
     {
       "timestamp": "2026-08-04 02:00",
       "articles": 48,
@@ -27936,6 +27942,17 @@
         "hijack customer accounts",
         "attackers crosshairs tracked",
         "operation dream job"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13 14:51",
+      "articles": 48,
+      "top_keywords": [
+        "hijack customer accounts",
+        "vmware vcenter server",
+        "attackers crosshairs tracked",
+        "least march 2025",
+        "twitter whistleblower complaint"
       ]
     }
   ]

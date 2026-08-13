@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-13 12:57",
+  "last_updated": "2026-08-13 14:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "vmware vcenter server",
-    "target critical infrastructure",
     "hijack customer accounts",
+    "vmware vcenter server",
     "attackers crosshairs tracked",
-    "operation dream job",
     "least march 2025",
     "twitter whistleblower complaint",
-    "steal nude photos",
+    "target critical infrastructure",
+    "national security risk",
     "critical infrastructure targets",
-    "130 companies tangled",
+    "ai generated websites",
+    "adobe released patches",
     "servicenow customer portals",
     "contractor published dozens",
-    "1 million bond",
-    "city forum campaign",
+    "execute arbitrary code",
+    "concept poc code",
+    "arbitrary code execution",
     "intercept browser traffic",
     "way openai anthropic",
-    "vulnerability discoveries aided",
     "turn one's television",
     "trusted agent approach",
-    "text history records"
+    "traditional security reviews"
   ],
   "trending": [
     {
-      "keyword": "vmware vcenter server",
-      "mentions": 13
-    },
-    {
-      "keyword": "target critical infrastructure",
-      "mentions": 10
-    },
-    {
       "keyword": "hijack customer accounts",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "vmware vcenter server",
+      "mentions": 14
     },
     {
       "keyword": "attackers crosshairs tracked",
-      "mentions": 2
-    },
-    {
-      "keyword": "operation dream job",
-      "mentions": 9
+      "mentions": 3
     },
     {
       "keyword": "least march 2025",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2387
+      "mentions": 2388
     },
     {
-      "keyword": "steal nude photos",
+      "keyword": "target critical infrastructure",
       "mentions": 11
     },
     {
-      "keyword": "critical infrastructure targets",
-      "mentions": 4
+      "keyword": "national security risk",
+      "mentions": 366
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 425
+      "keyword": "critical infrastructure targets",
+      "mentions": 5
+    },
+    {
+      "keyword": "ai generated websites",
+      "mentions": 47
+    },
+    {
+      "keyword": "adobe released patches",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -161,6 +161,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+      "summary": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
+      "published": "Thu, 13 Aug 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "White House taps security firms for offensive hack-back operations",
+      "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+      "summary": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
+      "published": "Thu, 13 Aug 2026 09:30:53 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "WhatsApp rolls out new feature that flags potential scam messages",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
       "summary": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
@@ -214,28 +232,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/plug-and-pwn-attack-uses-fake-usb-devices-for-windows-system-access/",
       "summary": "Security researchers have disclosed new \"Plug and Pwn\" attacks that abuse the Windows Plug and Play feature to trigger Windows into installing vulnerable or insecure vendor software and gain SYSTEM privileges. [...]",
       "published": "Wed, 12 Aug 2026 12:05:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Lazarus hackers exploited Windows zero-day to target defense firms",
-      "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
-      "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability (CVE-2026-68820) to target defense-sector companies as part of the Operation Dream Job campaign. [...]",
-      "published": "Wed, 12 Aug 2026 11:38:08 -0400",
-      "value_score": 84,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "FBI: Hackers target online accounts to steal nude photos",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
-      "summary": "The FBI warns that cybercriminals are targeting adults' and children's social media and other online accounts to steal sexually explicit images or videos. [...]",
-      "published": "Wed, 12 Aug 2026 10:15:09 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -408,6 +404,27 @@
     },
     {
       "source": "Security Week",
+      "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
+      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
+      "summary": "Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm. The post Cybersecurity M&A Roundup: 21 Deals Announced in July 2026 appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 14:41:44 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+      "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
+      "summary": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 14:17:44 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
       "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
       "summary": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek .",
@@ -468,29 +485,6 @@
         "Patch/update",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "SharePoint Vulnerability Exploited Shortly After PoC Release",
-      "link": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
-      "summary": "The vulnerability was patched by Microsoft in July and CISA warned that it could end up being exploited in the wild. The post SharePoint Vulnerability Exploited Shortly After PoC Release appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 14:47:01 +0000",
-      "value_score": 81,
-      "value_signals": [
-        "Active exploitation",
-        "PoC available ×2",
-        "CISA/KEV",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Mindgard Raises $30 Million to Protect AI Systems",
-      "link": "https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/",
-      "summary": "The cybersecurity startup will use the fresh investment to scale its product, engineering, sales, and marketing teams. The post Mindgard Raises $30 Million to Protect AI Systems appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 13:24:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

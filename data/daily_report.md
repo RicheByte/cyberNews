@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-13 09:05 UTC  
+> **Last Updated:** 2026-08-13 10:56 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**fake remote workers** • **vmware vcenter server** • **target critical infrastructure** • **operation dream job** • **least march 2025** • **hijack customer accounts** • **twitter whistleblower complaint** • **steal nude photos** • **eight ceva warehouses** • **biometric liveness checks** • **130 companies tangled** • **hijack ai agents** • **critical infrastructure targets** • **contractor published dozens** • **city forum campaign** • **steal data exposed** • **intercept browser traffic** • **way openai anthropic** • **turn one's television** • **text history records**
+**fake remote workers** • **vmware vcenter server** • **target critical infrastructure** • **hijack customer accounts** • **attackers crosshairs tracked** • **operation dream job** • **least march 2025** • **twitter whistleblower complaint** • **steal nude photos** • **critical infrastructure targets** • **biometric liveness checks** • **130 companies tangled** • **contractor published dozens** • **1 million bond** • **city forum campaign** • **steal data exposed** • **intercept browser traffic** • **way openai anthropic** • **vulnerability discoveries aided** • **turn one's television**
 
 ---
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- ['Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft](https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft)
 - [Belgium's eID Authentication Opens Citizen Accounts to RCE](https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce)
 - [Long-running Data Theft Campaign Targeting Salesforce, ServiceNow](https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow)
 - [Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming](https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming)
@@ -56,18 +57,17 @@
 - [Walmart Leaders Transform Security Operations Without Going Bananas](https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas)
 - [Microsoft's Patch Tuesday Deluge Continues With August Updates](https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues)
 - [Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA](https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa)
-- ['GhostJacking' Exposes Identity Governance Gaps in AI Agents](https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents)
 
 ### Security Week
 
+- [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
+- [White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs](https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/)
+- [Critical VMware vCenter Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/)
 - [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/)
 - [SharePoint Vulnerability Exploited Shortly After PoC Release](https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/)
 - [Mindgard Raises $30 Million to Protect AI Systems](https://www.securityweek.com/mindgard-raises-30-million-to-protect-ai-systems/)
 - [WhatsApp Unveils New Scam Alert Feature](https://www.securityweek.com/whatsapp-unveils-new-scam-alert-feature/)
 - [Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset](https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/)
-- [Ceva Logistics Operations Disrupted by Cyberattack](https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/)
-- [Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined](https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/)
-- [Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack](https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/)
 
 ### Threatpost
 

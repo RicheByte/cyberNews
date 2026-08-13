@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-13 09:05",
+  "last_updated": "2026-08-13 10:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "fake remote workers",
     "vmware vcenter server",
     "target critical infrastructure",
+    "hijack customer accounts",
+    "attackers crosshairs tracked",
     "operation dream job",
     "least march 2025",
-    "hijack customer accounts",
     "twitter whistleblower complaint",
     "steal nude photos",
-    "eight ceva warehouses",
+    "critical infrastructure targets",
     "biometric liveness checks",
     "130 companies tangled",
-    "hijack ai agents",
-    "critical infrastructure targets",
     "contractor published dozens",
+    "1 million bond",
     "city forum campaign",
     "steal data exposed",
     "intercept browser traffic",
     "way openai anthropic",
-    "turn one's television",
-    "text history records"
+    "vulnerability discoveries aided",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "fake remote workers",
-      "mentions": 9
-    },
-    {
-      "keyword": "vmware vcenter server",
-      "mentions": 11
-    },
-    {
-      "keyword": "target critical infrastructure",
-      "mentions": 8
-    },
-    {
-      "keyword": "operation dream job",
-      "mentions": 7
-    },
-    {
-      "keyword": "least march 2025",
-      "mentions": 5
-    },
-    {
-      "keyword": "hijack customer accounts",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2385
-    },
-    {
-      "keyword": "steal nude photos",
-      "mentions": 9
-    },
-    {
-      "keyword": "eight ceva warehouses",
       "mentions": 10
     },
     {
-      "keyword": "biometric liveness checks",
+      "keyword": "vmware vcenter server",
+      "mentions": 12
+    },
+    {
+      "keyword": "target critical infrastructure",
       "mentions": 9
+    },
+    {
+      "keyword": "hijack customer accounts",
+      "mentions": 6
+    },
+    {
+      "keyword": "attackers crosshairs tracked",
+      "mentions": 1
+    },
+    {
+      "keyword": "operation dream job",
+      "mentions": 8
+    },
+    {
+      "keyword": "least march 2025",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2386
+    },
+    {
+      "keyword": "steal nude photos",
+      "mentions": 10
+    },
+    {
+      "keyword": "critical infrastructure targets",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -327,6 +327,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
+      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
+      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
+      "published": "Thu, 13 Aug 2026 10:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
       "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
       "summary": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
@@ -400,13 +409,33 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
-      "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
-      "summary": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
-      "published": "Mon, 10 Aug 2026 21:54:22 GMT",
+      "source": "Security Week",
+      "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+      "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+      "summary": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 10:40:57 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs",
+      "link": "https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/",
+      "summary": "Contracts may require a $1 million bond, which will be forfeited if a company fails to comply with operational requirements. The post White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 09:53:04 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
+      "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
+      "summary": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
+      "published": "Thu, 13 Aug 2026 09:06:40 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -463,36 +492,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
-      "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
-      "summary": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 11:37:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-      "summary": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution. The post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 10:55:04 +0000",
-      "value_score": 38,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update ×4"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-      "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-      "summary": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek .",
-      "published": "Wed, 12 Aug 2026 09:55:45 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

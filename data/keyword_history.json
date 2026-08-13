@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2385,
+      "count": 2386,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -2630,7 +2630,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 423,
+      "count": 424,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -23029,7 +23029,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23642,7 +23642,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23661,7 +23661,8 @@
         "2026-08-09",
         "2026-08-10",
         "2026-08-11",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-13"
       ]
     },
     "shodan harvester keeps": {
@@ -24421,7 +24422,7 @@
       ]
     },
     "turn one's television": {
-      "count": 51,
+      "count": 52,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26667,7 +26668,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26699,14 +26700,14 @@
       ]
     },
     "fake remote workers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "steal nude photos": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26720,7 +26721,7 @@
       ]
     },
     "biometric liveness checks": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26739,14 +26740,14 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "operation dream job": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26760,28 +26761,28 @@
       ]
     },
     "intercept browser traffic": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "hijack customer accounts": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "least march 2025": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12",
         "2026-08-13"
       ]
     },
     "city forum campaign": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26794,36 +26795,37 @@
       ]
     },
     "steal data exposed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13"
       ]
     },
     "critical infrastructure targets": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-13"
       ]
     },
     "way openai anthropic": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "attackers crosshairs tracked": {
+      "count": 1,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "1 million bond": {
+      "count": 1,
       "dates": [
         "2026-08-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-03 19:23",
-      "articles": 48,
-      "top_keywords": [
-        "people behind companies",
-        "publicly leaked version",
-        "residential proxy node",
-        "twitter whistleblower complaint",
-        "n able warns"
-      ]
-    },
     {
       "timestamp": "2026-08-03 20:57",
       "articles": 48,
@@ -27911,6 +27913,17 @@
         "target critical infrastructure",
         "operation dream job",
         "least march 2025"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13 10:56",
+      "articles": 48,
+      "top_keywords": [
+        "fake remote workers",
+        "vmware vcenter server",
+        "target critical infrastructure",
+        "hijack customer accounts",
+        "attackers crosshairs tracked"
       ]
     }
   ]

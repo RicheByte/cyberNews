@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2391,
+      "count": 2392,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1013,7 +1013,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 98,
+      "count": 99,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3261,7 +3261,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 297,
+      "count": 298,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20328,7 +20328,7 @@
       ]
     },
     "public github repository": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23271,7 +23271,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24427,7 +24427,7 @@
       ]
     },
     "turn one's television": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25243,7 +25243,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26042,7 +26042,7 @@
       ]
     },
     "concept poc code": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-06",
         "2026-08-13"
@@ -26675,7 +26675,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26741,13 +26741,14 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-13"
       ]
     },
     "target critical infrastructure": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26782,7 +26783,7 @@
       ]
     },
     "least march 2025": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-12",
         "2026-08-13"
@@ -26820,7 +26821,7 @@
       ]
     },
     "attackers crosshairs tracked": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-13"
       ]
@@ -26838,7 +26839,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-13"
       ]
@@ -26850,48 +26851,43 @@
       ]
     },
     "traditional security reviews": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13"
       ]
     },
     "windows dns server": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-13"
       ]
     },
     "multiple watermark removers": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-13"
       ]
     },
     "cve 2026 59310": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-13"
       ]
     },
     "reverse ssh tool": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-08-13"
+      ]
+    },
+    "response edr solution": {
+      "count": 1,
       "dates": [
         "2026-08-13"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-04 13:57",
-      "articles": 48,
-      "top_keywords": [
-        "150 000 impacted",
-        "residential proxy node",
-        "ai generated websites",
-        "inexperienced attackers dismissed",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-04 16:11",
       "articles": 48,
@@ -27979,6 +27975,17 @@
         "least march 2025",
         "ai generated websites",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-13 22:34",
+      "articles": 48,
+      "top_keywords": [
+        "vmware vcenter server",
+        "attackers crosshairs tracked",
+        "least march 2025",
+        "target critical infrastructure",
+        "ai generated websites"
       ]
     }
   ]

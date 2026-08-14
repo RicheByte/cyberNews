@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2401,
+      "count": 2402,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1014,7 +1014,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3264,7 +3264,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 305,
+      "count": 306,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3399,7 +3399,7 @@
       ]
     },
     "material security explains": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20333,7 +20333,7 @@
       ]
     },
     "public github repository": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -24435,7 +24435,7 @@
       ]
     },
     "turn one's television": {
-      "count": 67,
+      "count": 68,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26052,7 +26052,7 @@
       ]
     },
     "concept poc code": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26136,7 +26136,7 @@
       ]
     },
     "text history records": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26687,7 +26687,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26831,7 +26831,7 @@
       ]
     },
     "way openai anthropic": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26935,7 +26935,7 @@
       ]
     },
     "data analyst sent": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-14"
       ]
@@ -26947,19 +26947,19 @@
       ]
     },
     "google cloud sets": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-14"
       ]
     },
     "key milestones targeted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-14"
       ]
     },
     "potential security incident": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-14"
       ]
@@ -26971,7 +26971,7 @@
       ]
     },
     "single control plane": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-14"
       ]
@@ -26989,13 +26989,13 @@
       ]
     },
     "stolen oauth tokens": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
     },
     "gain system access": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-14"
       ]
@@ -27005,20 +27005,27 @@
       "dates": [
         "2026-08-14"
       ]
+    },
+    "global bank's defense": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    "converge data security": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    "service provider allowing": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-05 15:58",
-      "articles": 48,
-      "top_keywords": [
-        "311 000 impacted",
-        "false positive claimed",
-        "infrastructure security agency",
-        "residential proxy node",
-        "1 27 0"
-      ]
-    },
     {
       "timestamp": "2026-08-05 17:42",
       "articles": 48,
@@ -28106,6 +28113,17 @@
         "arbitrary code execution",
         "least march 2025",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-14 20:24",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "global bank's defense"
       ]
     }
   ]

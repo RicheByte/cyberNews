@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-14 18:44 UTC  
+> **Last Updated:** 2026-08-14 20:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google cloud sets** • **vmware vcenter server** • **arbitrary code execution** • **least march 2025** • **twitter whistleblower complaint** • **data analyst sent** • **execute arbitrary code** • **concept poc code** • **public github repository** • **potential security incident** • **gain system access** • **key milestones targeted** • **ai augmented research** • **ai agent control** • **material security explains** • **way openai anthropic** • **turn one's television** • **text history records** • **stolen oauth tokens** • **single control plane**
+**google cloud sets** • **vmware vcenter server** • **arbitrary code execution** • **twitter whistleblower complaint** • **global bank's defense** • **data analyst sent** • **execute arbitrary code** • **concept poc code** • **potential security incident** • **public github repository** • **gain system access** • **material security explains** • **key milestones targeted** • **converge data security** • **way openai anthropic** • **turn one's television** • **text history records** • **stolen oauth tokens** • **single control plane** • **service provider allowing**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
-- [Amid AI-Driven Bug Tsunami, NIST Looks to…AI](https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai)
+- [Mission-Driven Security: Inside a Global Bank's Defense](https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense)
+- [Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI](https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai)
 - [Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office](https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office)
 - [What Boards Need to Know About Tech Risk](https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk)
 - [Cyera's Oasis Security Buy Is All About AI Agent Control](https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control)
 - [Global Threat Campaign Hits Critical VMware vCenter Flaw](https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw)
 - ['Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft](https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft)
 - [Belgium's eID Authentication Opens Citizen Accounts to RCE](https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce)
-- [Long-running Data Theft Campaign Targeting Salesforce, ServiceNow](https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow)
 
 ### Security Week
 

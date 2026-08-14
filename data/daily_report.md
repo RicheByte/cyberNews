@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-13 22:34 UTC  
+> **Last Updated:** 2026-08-14 01:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vmware vcenter server** • **attackers crosshairs tracked** • **least march 2025** • **target critical infrastructure** • **ai generated websites** • **twitter whistleblower complaint** • **response edr solution** • **public github repository** • **multiple watermark removers** • **windows dns server** • **execute arbitrary code** • **cve 2026 59310** • **concept poc code** • **arbitrary code execution** • **turn one's television** • **trusted agent approach** • **traditional security reviews** • **software giant fixed** • **reverse ssh tool** • **publicly detailed prior**
+**vmware vcenter server** • **attackers crosshairs tracked** • **least march 2025** • **target critical infrastructure** • **twitter whistleblower complaint** • **response edr solution** • **public github repository** • **multiple watermark removers** • **ai generated websites** • **windows dns server** • **cve 2026 59310** • **turn one's television** • **trusted agent approach** • **software giant fixed** • **reverse ssh tool** • **publicly detailed prior** • **providers reasoning apis** • **open source project** • **nearly 2 billion** • **national security risk**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
 - [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
 - [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
 - [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
@@ -34,7 +35,6 @@
 - [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
 - [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
 - [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
-- [Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion](https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/)
 
 ### Krebs on Security
 

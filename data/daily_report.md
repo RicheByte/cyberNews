@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-14 12:52 UTC  
+> **Last Updated:** 2026-08-14 14:45 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google cloud sets** • **vmware vcenter server** • **arbitrary code execution** • **least march 2025** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **key milestones targeted** • **data analyst sent** • **execute arbitrary code** • **concept poc code** • **potential security incident** • **who's harvesting data** • **way openai anthropic** • **turn one's television** • **trusted agent approach** • **text history records** • **single control plane** • **ringcentral data breach** • **remained walled away**
+**google cloud sets** • **vmware vcenter server** • **arbitrary code execution** • **least march 2025** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **data analyst sent** • **ai agent control** • **execute arbitrary code** • **concept poc code** • **potential security incident** • **key milestones targeted** • **who's harvesting data** • **way openai anthropic** • **turn one's television** • **trusted agent approach** • **text history records** • **stolen oauth tokens** • **single control plane**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI](https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/)
+- [Max severity SAP Commerce Cloud flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/)
 - [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
 - [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
 - [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
 - [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
 - [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
 - [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
-- [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
-- [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [What Boards Need to Know About Tech Risk](https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk)
 - [Cyera's Oasis Security Buy is All About AI Agent Control](https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control)
 - [Global Threat Campaign Hits Critical VMware vCenter Flaw](https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw)
 - ['Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft](https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft)
@@ -56,7 +57,6 @@
 - [Long-running Data Theft Campaign Targeting Salesforce, ServiceNow](https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow)
 - [Walmart Takes a 'Trusted Agent' Approach to Purple Teaming](https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming)
 - [Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition](https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition)
-- [Walmart Leaders Transform Security Operations Without Going Bananas](https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas)
 
 ### Security Week
 

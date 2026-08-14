@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2398,
+      "count": 2399,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1014,7 +1014,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 103,
+      "count": 104,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3264,7 +3264,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 302,
+      "count": 303,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -24434,7 +24434,7 @@
       ]
     },
     "turn one's television": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26051,7 +26051,7 @@
       ]
     },
     "concept poc code": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26135,7 +26135,7 @@
       ]
     },
     "text history records": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26686,7 +26686,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26761,7 +26761,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26797,7 +26797,7 @@
       ]
     },
     "least march 2025": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26830,7 +26830,7 @@
       ]
     },
     "way openai anthropic": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26856,7 +26856,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26903,7 +26903,7 @@
       ]
     },
     "response edr solution": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26934,7 +26934,7 @@
       ]
     },
     "data analyst sent": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
@@ -26946,31 +26946,31 @@
       ]
     },
     "google cloud sets": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-14"
       ]
     },
     "key milestones targeted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-14"
       ]
     },
     "potential security incident": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-14"
       ]
     },
     "who's harvesting data": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-14"
       ]
     },
     "single control plane": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-14"
       ]
@@ -26980,20 +26980,21 @@
       "dates": [
         "2026-08-14"
       ]
+    },
+    "ai agent control": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    "stolen oauth tokens": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-05 08:26",
-      "articles": 48,
-      "top_keywords": [
-        "service phaas platform",
-        "omada network devices",
-        "accelerate product innovation",
-        "residential proxy node",
-        "rethinking ai security"
-      ]
-    },
     {
       "timestamp": "2026-08-05 11:53",
       "articles": 48,
@@ -28074,6 +28075,17 @@
     },
     {
       "timestamp": "2026-08-14 12:52",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "arbitrary code execution",
+        "least march 2025",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-14 14:45",
       "articles": 48,
       "top_keywords": [
         "google cloud sets",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 12:52",
+  "last_updated": "2026-08-14 14:45",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,60 +10,60 @@
     "twitter whistleblower complaint",
     "target critical infrastructure",
     "response edr solution",
-    "key milestones targeted",
     "data analyst sent",
+    "ai agent control",
     "execute arbitrary code",
     "concept poc code",
     "potential security incident",
+    "key milestones targeted",
     "who's harvesting data",
     "way openai anthropic",
     "turn one's television",
     "trusted agent approach",
     "text history records",
-    "single control plane",
-    "ringcentral data breach",
-    "remained walled away"
+    "stolen oauth tokens",
+    "single control plane"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 302
+      "mentions": 303
     },
     {
       "keyword": "least march 2025",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2398
+      "mentions": 2399
     },
     {
       "keyword": "target critical infrastructure",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "response edr solution",
-      "mentions": 7
-    },
-    {
-      "keyword": "key milestones targeted",
-      "mentions": 1
+      "mentions": 8
     },
     {
       "keyword": "data analyst sent",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "ai agent control",
+      "mentions": 1
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 103
+      "mentions": 104
     }
   ],
   "articles": [
@@ -161,6 +161,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
+      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
+      "published": "Fri, 14 Aug 2026 10:00:10 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
+      "published": "Fri, 14 Aug 2026 09:45:18 -0400",
+      "value_score": 30,
+      "value_signals": [
+        "RCE"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Shell investigates 'potential incident' after Clop data theft claims",
       "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
       "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
@@ -217,29 +239,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breach govt webmail while running parallel crypto fraud",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/",
-      "summary": "The Jewelbug hacker group has been carrying out espionage operations targeting governments and militaries while also engaging in cryptocurrency fraud. [...]",
-      "published": "Thu, 13 Aug 2026 14:15:19 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft patches LegacyHive Windows zero-day vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/",
-      "summary": "Microsoft has released security patches to address a Windows zero-day vulnerability known as \"LegacyHive,\" disclosed after the July 2026 Patch Tuesday. [...]",
-      "published": "Thu, 13 Aug 2026 13:46:20 -0400",
-      "value_score": 68,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update"
       ]
     },
     {
@@ -326,6 +325,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "What Boards Need to Know About Tech Risk",
+      "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
+      "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?",
+      "published": "Fri, 14 Aug 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
       "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
       "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
@@ -394,15 +402,6 @@
         "Ransomware",
         "High severity"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
-      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
-      "summary": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
-      "published": "Wed, 12 Aug 2026 12:41:03 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2394,
+      "count": 2395,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1014,7 +1014,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1037,7 +1037,8 @@
         "2026-06-15",
         "2026-07-15",
         "2026-08-12",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-08-14"
       ]
     },
     "france arrests latvian": {
@@ -3263,7 +3264,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 298,
+      "count": 299,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3314,7 +3315,8 @@
         "2026-08-02",
         "2026-08-03",
         "2026-08-12",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-08-14"
       ]
     },
     "authenticated remote attacker": {
@@ -20330,7 +20332,7 @@
       ]
     },
     "public github repository": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23274,7 +23276,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24431,7 +24433,7 @@
       ]
     },
     "turn one's television": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25248,7 +25250,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26048,10 +26050,11 @@
       ]
     },
     "concept poc code": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-06",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-08-14"
       ]
     },
     "organization's oracle database": {
@@ -26681,7 +26684,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26748,7 +26751,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26756,7 +26759,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26792,7 +26795,7 @@
       ]
     },
     "least march 2025": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26850,7 +26853,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26869,14 +26872,14 @@
       ]
     },
     "windows dns server": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "multiple watermark removers": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26890,50 +26893,39 @@
       ]
     },
     "reverse ssh tool": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "response edr solution": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "providers reasoning apis": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-14"
       ]
     },
     "open source project": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-14"
       ]
     },
     "nearly 2 billion": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-14"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-04 21:05",
-      "articles": 48,
-      "top_keywords": [
-        "rethinking ai security",
-        "accelerate product innovation",
-        "residential proxy node",
-        "inexperienced attackers dismissed",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-04 22:57",
       "articles": 48,
@@ -28021,6 +28013,17 @@
         "least march 2025",
         "target critical infrastructure",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-14 07:16",
+      "articles": 48,
+      "top_keywords": [
+        "vmware vcenter server",
+        "least march 2025",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "target critical infrastructure"
       ]
     }
   ]

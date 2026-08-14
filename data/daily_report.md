@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-14 04:01 UTC  
+> **Last Updated:** 2026-08-14 07:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vmware vcenter server** • **attackers crosshairs tracked** • **least march 2025** • **target critical infrastructure** • **twitter whistleblower complaint** • **response edr solution** • **public github repository** • **multiple watermark removers** • **ai generated websites** • **windows dns server** • **cve 2026 59310** • **turn one's television** • **trusted agent approach** • **software giant fixed** • **reverse ssh tool** • **publicly detailed prior** • **providers reasoning apis** • **open source project** • **nearly 2 billion** • **national security risk**
+**vmware vcenter server** • **least march 2025** • **arbitrary code execution** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **public github repository** • **multiple watermark removers** • **ai generated websites** • **windows dns server** • **execute arbitrary code** • **concept poc code** • **turn one's television** • **trusted agent approach** • **software giant fixed** • **reverse ssh tool** • **publicly detailed prior** • **providers reasoning apis** • **open source project** • **nearly 2 billion**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Hackers Exploiting Unpatched GeoServer Zero-Day](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/)
+- [AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/)
 - [Cybersecurity M&A Roundup: 21 Deals Announced in July 2026](https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/)
 - [Adobe Commerce Bug Targeted Immediately After Disclosure](https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/)
 - [WordPress 7.0.4 Patches Remote Code Execution Vulnerability](https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/)
 - [Venture Firm Team8 Secures Additional $365 Million](https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/)
 - [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
 - [White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs](https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/)
-- [Critical VMware vCenter Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/)
-- [Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’](https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/)
 
 ### Threatpost
 

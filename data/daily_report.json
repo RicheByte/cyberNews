@@ -1,19 +1,20 @@
 {
-  "last_updated": "2026-08-14 04:01",
+  "last_updated": "2026-08-14 07:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "vmware vcenter server",
-    "attackers crosshairs tracked",
     "least march 2025",
-    "target critical infrastructure",
+    "arbitrary code execution",
     "twitter whistleblower complaint",
+    "target critical infrastructure",
     "response edr solution",
     "public github repository",
     "multiple watermark removers",
     "ai generated websites",
     "windows dns server",
-    "cve 2026 59310",
+    "execute arbitrary code",
+    "concept poc code",
     "turn one's television",
     "trusted agent approach",
     "software giant fixed",
@@ -21,49 +22,48 @@
     "publicly detailed prior",
     "providers reasoning apis",
     "open source project",
-    "nearly 2 billion",
-    "national security risk"
+    "nearly 2 billion"
   ],
   "trending": [
     {
       "keyword": "vmware vcenter server",
-      "mentions": 20
-    },
-    {
-      "keyword": "attackers crosshairs tracked",
-      "mentions": 9
+      "mentions": 21
     },
     {
       "keyword": "least march 2025",
-      "mentions": 14
+      "mentions": 15
     },
     {
-      "keyword": "target critical infrastructure",
-      "mentions": 17
+      "keyword": "arbitrary code execution",
+      "mentions": 299
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2394
+      "mentions": 2395
+    },
+    {
+      "keyword": "target critical infrastructure",
+      "mentions": 18
     },
     {
       "keyword": "response edr solution",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "public github repository",
-      "mentions": 41
+      "mentions": 42
     },
     {
       "keyword": "multiple watermark removers",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ai generated websites",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "windows dns server",
-      "mentions": 6
+      "mentions": 7
     }
   ],
   "articles": [
@@ -415,6 +415,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
+      "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+      "summary": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek .",
+      "published": "Fri, 14 Aug 2026 07:01:56 +0000",
+      "value_score": 86,
+      "value_signals": [
+        "Zero-day ×2",
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
+      "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+      "summary": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek .",
+      "published": "Fri, 14 Aug 2026 06:41:43 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Cybersecurity M&A Roundup: 21 Deals Announced in July 2026",
       "link": "https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/",
       "summary": "Significant cybersecurity M&A deals announced by Barracuda, CrowdStrike, Cyera, Okta, Palo Alto Networks, and Qualcomm. The post Cybersecurity M&A Roundup: 21 Deals Announced in July 2026 appeared first on SecurityWeek .",
@@ -472,30 +494,6 @@
       "published": "Thu, 13 Aug 2026 09:53:04 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical VMware vCenter Vulnerability in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/critical-vmware-vcenter-vulnerability-in-attackers-crosshairs/",
-      "summary": "Tracked as CVE-2026–59310, the directory traversal bug allows remote attackers to execute arbitrary code. The post Critical VMware vCenter Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Thu, 13 Aug 2026 09:06:40 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-shieldbreak/",
-      "summary": "Dropped on Patch Tuesday, the exploit allows any user to spawn a shell with System privileges. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘ShieldBreak’ appeared first on SecurityWeek .",
-      "published": "Thu, 13 Aug 2026 08:38:03 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

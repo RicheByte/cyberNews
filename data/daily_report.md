@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-14 07:16 UTC  
+> **Last Updated:** 2026-08-14 09:02 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vmware vcenter server** • **least march 2025** • **arbitrary code execution** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **public github repository** • **multiple watermark removers** • **ai generated websites** • **windows dns server** • **execute arbitrary code** • **concept poc code** • **turn one's television** • **trusted agent approach** • **software giant fixed** • **reverse ssh tool** • **publicly detailed prior** • **providers reasoning apis** • **open source project** • **nearly 2 billion**
+**vmware vcenter server** • **least march 2025** • **arbitrary code execution** • **shipmonk hackers stole** • **data analyst sent** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **public github repository** • **multiple watermark removers** • **contractor published dozens** • **ai generated websites** • **windows dns server** • **execute arbitrary code** • **concept poc code** • **turn one's television** • **trusted agent approach** • **reverse ssh tool** • **publicly detailed prior** • **providers reasoning apis**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
 - [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
 - [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
 - [Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt](https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/)
@@ -34,7 +35,6 @@
 - [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
 - [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
 - [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
-- [Trezor discloses data breach affecting nearly 14,000 customers](https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [14,000 Trezor Customers Impacted by Data Breach at ShipMonk](https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/)
 - [Hackers Exploiting Unpatched GeoServer Zero-Day](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/)
 - [AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/)
 - [Cybersecurity M&A Roundup: 21 Deals Announced in July 2026](https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/)
@@ -67,7 +68,6 @@
 - [WordPress 7.0.4 Patches Remote Code Execution Vulnerability](https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/)
 - [Venture Firm Team8 Secures Additional $365 Million](https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/)
 - [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
-- [White House Mobilizes Security Firms for Operations Against Foreign Cybercrime Gangs](https://www.securityweek.com/white-house-mobilizes-security-firms-for-operations-against-foreign-cybercrime-gangs/)
 
 ### Threatpost
 

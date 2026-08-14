@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2395,
+      "count": 2396,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1014,7 +1014,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3264,7 +3264,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 299,
+      "count": 300,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20332,7 +20332,7 @@
       ]
     },
     "public github repository": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23038,12 +23038,13 @@
       ]
     },
     "contractor published dozens": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-07-14",
         "2026-07-15",
         "2026-08-12",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-08-14"
       ]
     },
     "harvesting sensitive data": {
@@ -24433,7 +24434,7 @@
       ]
     },
     "turn one's television": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25250,7 +25251,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26050,7 +26051,7 @@
       ]
     },
     "concept poc code": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26684,7 +26685,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26751,7 +26752,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26759,7 +26760,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26795,7 +26796,7 @@
       ]
     },
     "least march 2025": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26853,7 +26854,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26872,14 +26873,14 @@
       ]
     },
     "windows dns server": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "multiple watermark removers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26893,21 +26894,21 @@
       ]
     },
     "reverse ssh tool": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "response edr solution": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "providers reasoning apis": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
@@ -26923,20 +26924,21 @@
       "dates": [
         "2026-08-14"
       ]
+    },
+    "shipmonk hackers stole": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    "data analyst sent": {
+      "count": 1,
+      "dates": [
+        "2026-08-14"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-04 22:57",
-      "articles": 48,
-      "top_keywords": [
-        "rethinking ai security",
-        "accelerate product innovation",
-        "residential proxy node",
-        "omada network devices",
-        "inexperienced attackers dismissed"
-      ]
-    },
     {
       "timestamp": "2026-08-05 01:59",
       "articles": 48,
@@ -28024,6 +28026,17 @@
         "arbitrary code execution",
         "twitter whistleblower complaint",
         "target critical infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-08-14 09:02",
+      "articles": 48,
+      "top_keywords": [
+        "vmware vcenter server",
+        "least march 2025",
+        "arbitrary code execution",
+        "shipmonk hackers stole",
+        "data analyst sent"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 14:45",
+  "last_updated": "2026-08-14 16:48",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,62 +8,62 @@
     "arbitrary code execution",
     "least march 2025",
     "twitter whistleblower complaint",
-    "target critical infrastructure",
-    "response edr solution",
     "data analyst sent",
-    "ai agent control",
     "execute arbitrary code",
     "concept poc code",
+    "public github repository",
+    "ai agent control",
     "potential security incident",
     "key milestones targeted",
-    "who's harvesting data",
+    "gain system access",
     "way openai anthropic",
     "turn one's television",
     "trusted agent approach",
     "text history records",
     "stolen oauth tokens",
-    "single control plane"
+    "single control plane",
+    "remained walled away"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 303
+      "mentions": 304
     },
     {
       "keyword": "least march 2025",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2399
-    },
-    {
-      "keyword": "target critical infrastructure",
-      "mentions": 22
-    },
-    {
-      "keyword": "response edr solution",
-      "mentions": 8
+      "mentions": 2400
     },
     {
       "keyword": "data analyst sent",
-      "mentions": 4
-    },
-    {
-      "keyword": "ai agent control",
-      "mentions": 1
+      "mentions": 5
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 104
+      "mentions": 105
+    },
+    {
+      "keyword": "concept poc code",
+      "mentions": 12
+    },
+    {
+      "keyword": "public github repository",
+      "mentions": 45
+    },
+    {
+      "keyword": "ai agent control",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -161,6 +161,18 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
+      "published": "Fri, 14 Aug 2026 10:59:55 -0400",
+      "value_score": 31,
+      "value_signals": [
+        "Auth bypass",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
       "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
       "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
@@ -229,17 +241,6 @@
       "published": "Thu, 13 Aug 2026 17:12:47 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Akira hackers disable EDR with Safe Mode, steal data but fail to encrypt",
-      "link": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
-      "summary": "An Akira ransomware affiliate disabled the endpoint detection and response (EDR) solution on a compromised system by restarting the machine into Safe Mode with Networking. [...]",
-      "published": "Thu, 13 Aug 2026 16:47:02 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -325,6 +326,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
+      "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
+      "published": "Fri, 14 Aug 2026 15:58:50 GMT",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "What Boards Need to Know About Tech Risk",
       "link": "https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk",
       "summary": "Why do so many boards underestimate technology risk until it becomes a crisis?",
@@ -334,7 +346,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
       "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
       "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
       "published": "Fri, 14 Aug 2026 12:17:21 GMT",
@@ -390,18 +402,6 @@
       "published": "Wed, 12 Aug 2026 16:28:04 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Ransomware Hits Colombian Justice Ministry Days Before Presidential Transition",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-hits-colombian-justice-ministry-presidential-transition",
-      "summary": "Attackers continue to target critical infrastructure and government-linked organizations in the country, mirroring the increased activity across Latin America.",
-      "published": "Wed, 12 Aug 2026 14:00:00 GMT",
-      "value_score": 36,
-      "value_signals": [
-        "Ransomware",
-        "High severity"
-      ]
     },
     {
       "source": "Security Week",

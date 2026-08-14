@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-14 09:02",
+  "last_updated": "2026-08-14 10:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "vmware vcenter server",
+    "data analyst sent",
     "least march 2025",
     "arbitrary code execution",
-    "shipmonk hackers stole",
-    "data analyst sent",
     "twitter whistleblower complaint",
     "target critical infrastructure",
     "response edr solution",
     "public github repository",
     "multiple watermark removers",
-    "contractor published dozens",
     "ai generated websites",
-    "windows dns server",
+    "ringcentral data breach",
+    "shipmonk hackers stole",
     "execute arbitrary code",
+    "contractor published dozens",
     "concept poc code",
+    "windows dns server",
     "turn one's television",
     "trusted agent approach",
-    "reverse ssh tool",
     "publicly detailed prior",
     "providers reasoning apis"
   ],
   "trending": [
     {
       "keyword": "vmware vcenter server",
-      "mentions": 22
-    },
-    {
-      "keyword": "least march 2025",
-      "mentions": 16
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 300
-    },
-    {
-      "keyword": "shipmonk hackers stole",
-      "mentions": 1
+      "mentions": 23
     },
     {
       "keyword": "data analyst sent",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "least march 2025",
+      "mentions": 17
+    },
+    {
+      "keyword": "arbitrary code execution",
+      "mentions": 301
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2396
+      "mentions": 2397
     },
     {
       "keyword": "target critical infrastructure",
-      "mentions": 19
+      "mentions": 20
     },
     {
       "keyword": "response edr solution",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "public github repository",
-      "mentions": 43
+      "mentions": 44
     },
     {
       "keyword": "multiple watermark removers",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "ai generated websites",
+      "mentions": 56
     }
   ],
   "articles": [
@@ -161,6 +161,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "RingCentral data breach exposed info of 1.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+      "published": "Fri, 14 Aug 2026 06:52:05 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Data analyst sent to prison for stealing data, extorting employer",
       "link": "https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/",
       "summary": "A former data analyst contractor for Brightly Software has been sentenced to two years in prison for targeting his employer in a $2.5 million extortion scheme. [...]",
@@ -228,20 +239,6 @@
       "published": "Thu, 13 Aug 2026 13:33:28 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical VMware vCenter RCE flaw exploited for reverse SSH access",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/",
-      "summary": "A recently patched critical vulnerability (CVE-2026-59310) in VMware vCenter Syslog Server is being exploited in an active campaign to deploy a reverse SSH tool for persistence and remote access. [...]",
-      "published": "Thu, 13 Aug 2026 12:40:23 -0400",
-      "value_score": 70,
-      "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -413,6 +410,28 @@
     },
     {
       "source": "Security Week",
+      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
+      "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+      "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 14 Aug 2026 10:24:03 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
+      "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
+      "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek .",
+      "published": "Fri, 14 Aug 2026 09:20:28 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
       "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
       "summary": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek .",
@@ -476,24 +495,6 @@
         "RCE ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Venture Firm Team8 Secures Additional $365 Million",
-      "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-      "summary": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek .",
-      "published": "Thu, 13 Aug 2026 11:42:48 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-      "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-      "summary": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek .",
-      "published": "Thu, 13 Aug 2026 10:40:57 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

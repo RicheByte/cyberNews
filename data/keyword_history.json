@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2396,
+      "count": 2397,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1014,7 +1014,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3264,7 +3264,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 300,
+      "count": 301,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20332,7 +20332,7 @@
       ]
     },
     "public github repository": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23038,7 +23038,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -24434,7 +24434,7 @@
       ]
     },
     "turn one's television": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -25251,7 +25251,7 @@
       ]
     },
     "ai generated websites": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-07-30",
         "2026-07-31",
@@ -26051,7 +26051,7 @@
       ]
     },
     "concept poc code": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26685,7 +26685,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26752,7 +26752,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26760,7 +26760,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26796,7 +26796,7 @@
       ]
     },
     "least march 2025": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26854,7 +26854,7 @@
       ]
     },
     "trusted agent approach": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26873,14 +26873,14 @@
       ]
     },
     "windows dns server": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "multiple watermark removers": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26901,14 +26901,14 @@
       ]
     },
     "response edr solution": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-13",
         "2026-08-14"
       ]
     },
     "providers reasoning apis": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-14"
       ]
@@ -26926,12 +26926,18 @@
       ]
     },
     "shipmonk hackers stole": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-14"
       ]
     },
     "data analyst sent": {
+      "count": 2,
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    "ringcentral data breach": {
       "count": 1,
       "dates": [
         "2026-08-14"
@@ -26939,17 +26945,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-05 01:59",
-      "articles": 48,
-      "top_keywords": [
-        "accelerate product innovation",
-        "residential proxy node",
-        "rethinking ai security",
-        "omada network devices",
-        "inexperienced attackers dismissed"
-      ]
-    },
     {
       "timestamp": "2026-08-05 05:20",
       "articles": 48,
@@ -28037,6 +28032,17 @@
         "arbitrary code execution",
         "shipmonk hackers stole",
         "data analyst sent"
+      ]
+    },
+    {
+      "timestamp": "2026-08-14 10:53",
+      "articles": 48,
+      "top_keywords": [
+        "vmware vcenter server",
+        "data analyst sent",
+        "least march 2025",
+        "arbitrary code execution",
+        "twitter whistleblower complaint"
       ]
     }
   ]

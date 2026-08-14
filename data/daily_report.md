@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-14 09:02 UTC  
+> **Last Updated:** 2026-08-14 10:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**vmware vcenter server** • **least march 2025** • **arbitrary code execution** • **shipmonk hackers stole** • **data analyst sent** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **public github repository** • **multiple watermark removers** • **contractor published dozens** • **ai generated websites** • **windows dns server** • **execute arbitrary code** • **concept poc code** • **turn one's television** • **trusted agent approach** • **reverse ssh tool** • **publicly detailed prior** • **providers reasoning apis**
+**vmware vcenter server** • **data analyst sent** • **least march 2025** • **arbitrary code execution** • **twitter whistleblower complaint** • **target critical infrastructure** • **response edr solution** • **public github repository** • **multiple watermark removers** • **ai generated websites** • **ringcentral data breach** • **shipmonk hackers stole** • **execute arbitrary code** • **contractor published dozens** • **concept poc code** • **windows dns server** • **turn one's television** • **trusted agent approach** • **publicly detailed prior** • **providers reasoning apis**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
 - [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
 - [Apple sends new ‘Threat Notification’ alerts over mercenary spyware attacks](https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/)
 - [Ukraine shuts down 94 fraudulent call centers, seize millions in cash](https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/)
@@ -34,7 +35,6 @@
 - [Hackers breach govt webmail while running parallel crypto fraud](https://www.bleepingcomputer.com/news/security/hackers-breach-govt-webmail-while-running-parallel-crypto-fraud/)
 - [Microsoft patches LegacyHive Windows zero-day vulnerability](https://www.bleepingcomputer.com/news/microsoft/microsoft-patches-legacyhive-windows-zero-day-vulnerability/)
 - [AI 'watermark removers' flood the web. Almost none can prove they work.](https://www.bleepingcomputer.com/news/security/ai-watermark-removers-flood-the-web-almost-none-can-prove-they-work/)
-- [Critical VMware vCenter RCE flaw exploited for reverse SSH access](https://www.bleepingcomputer.com/news/security/critical-vmware-vcenter-rce-flaw-exploited-for-reverse-ssh-access/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [1.6 Million Likely Impacted by RingCentral Data Breach](https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/)
+- [Over 1,000 Charities Hit by Beacon CRM Data Breach](https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/)
 - [14,000 Trezor Customers Impacted by Data Breach at ShipMonk](https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/)
 - [Hackers Exploiting Unpatched GeoServer Zero-Day](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/)
 - [AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/)
 - [Cybersecurity M&A Roundup: 21 Deals Announced in July 2026](https://www.securityweek.com/cybersecurity-ma-roundup-21-deals-announced-in-july-2026/)
 - [Adobe Commerce Bug Targeted Immediately After Disclosure](https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/)
 - [WordPress 7.0.4 Patches Remote Code Execution Vulnerability](https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/)
-- [Venture Firm Team8 Secures Additional $365 Million](https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/)
-- [Fortinet Patches Authentication Flaws in FortiWeb and FortiManager](https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/)
 
 ### Threatpost
 

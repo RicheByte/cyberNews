@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2400,
+      "count": 2401,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1014,7 +1014,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3264,7 +3264,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 304,
+      "count": 305,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3399,10 +3399,11 @@
       ]
     },
     "material security explains": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-09",
-        "2026-01-10"
+        "2026-01-10",
+        "2026-08-14"
       ]
     },
     "2026 cybersecurity predictions": {
@@ -20332,7 +20333,7 @@
       ]
     },
     "public github repository": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -24434,7 +24435,7 @@
       ]
     },
     "turn one's television": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26051,7 +26052,7 @@
       ]
     },
     "concept poc code": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26135,7 +26136,7 @@
       ]
     },
     "text history records": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26686,7 +26687,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26797,7 +26798,7 @@
       ]
     },
     "least march 2025": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26830,7 +26831,7 @@
       ]
     },
     "way openai anthropic": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-13",
         "2026-08-14"
@@ -26934,7 +26935,7 @@
       ]
     },
     "data analyst sent": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-14"
       ]
@@ -26946,19 +26947,19 @@
       ]
     },
     "google cloud sets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
     },
     "key milestones targeted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
     },
     "potential security incident": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
@@ -26970,7 +26971,7 @@
       ]
     },
     "single control plane": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14"
       ]
@@ -26982,18 +26983,24 @@
       ]
     },
     "ai agent control": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-14"
       ]
     },
     "stolen oauth tokens": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-14"
       ]
     },
     "gain system access": {
+      "count": 2,
+      "dates": [
+        "2026-08-14"
+      ]
+    },
+    "ai augmented research": {
       "count": 1,
       "dates": [
         "2026-08-14"
@@ -27001,17 +27008,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-05 13:54",
-      "articles": 48,
-      "top_keywords": [
-        "311 000 impacted",
-        "omada network devices",
-        "least august 2025",
-        "supply chain attack",
-        "residential proxy node"
-      ]
-    },
     {
       "timestamp": "2026-08-05 15:58",
       "articles": 48,
@@ -28092,6 +28088,17 @@
     },
     {
       "timestamp": "2026-08-14 16:48",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "arbitrary code execution",
+        "least march 2025",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-14 18:44",
       "articles": 48,
       "top_keywords": [
         "google cloud sets",

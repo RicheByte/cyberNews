@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-14 16:48",
+  "last_updated": "2026-08-14 18:44",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -12,58 +12,58 @@
     "execute arbitrary code",
     "concept poc code",
     "public github repository",
-    "ai agent control",
     "potential security incident",
-    "key milestones targeted",
     "gain system access",
+    "key milestones targeted",
+    "ai augmented research",
+    "ai agent control",
+    "material security explains",
     "way openai anthropic",
     "turn one's television",
-    "trusted agent approach",
     "text history records",
     "stolen oauth tokens",
-    "single control plane",
-    "remained walled away"
+    "single control plane"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 304
+      "mentions": 305
     },
     {
       "keyword": "least march 2025",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2400
+      "mentions": 2401
     },
     {
       "keyword": "data analyst sent",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 105
+      "mentions": 106
     },
     {
       "keyword": "concept poc code",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "public github repository",
-      "mentions": 45
+      "mentions": 46
     },
     {
-      "keyword": "ai agent control",
-      "mentions": 2
+      "keyword": "potential security incident",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -161,6 +161,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
+      "published": "Fri, 14 Aug 2026 14:04:26 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
       "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
@@ -230,15 +241,6 @@
       "link": "https://www.bleepingcomputer.com/news/apple/apple-sends-new-threat-notification-alerts-over-mercenary-spyware-attacks/",
       "summary": "You're not alone if you just received an \"Apple Threat Notification\" saying it detected a \"mercenary spyware attack targeted at your iPhone.\" [...]",
       "published": "Thu, 13 Aug 2026 21:19:12 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Ukraine shuts down 94 fraudulent call centers, seize millions in cash",
-      "link": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
-      "summary": "Authorities in Ukraine shut down 94 fraudulent call centers across the country that lured people into investment scams or tried to obtain access to bank accounts. [...]",
-      "published": "Thu, 13 Aug 2026 17:12:47 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -326,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Amid AI-Driven Bug Tsunami, NIST Looks to…AI",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
+      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
+      "published": "Fri, 14 Aug 2026 17:32:46 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office",
       "summary": "One Caledonian government agency reported a breach, thanks to a third party that may have serviced other agencies as well.",
@@ -391,15 +402,6 @@
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
       "summary": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
       "published": "Wed, 12 Aug 2026 21:08:54 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
-      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-      "summary": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
-      "published": "Wed, 12 Aug 2026 16:28:04 GMT",
       "value_score": 10,
       "value_signals": []
     },

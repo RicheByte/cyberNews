@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2414,
+      "count": 2415,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1015,7 +1015,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 119,
+      "count": 120,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3266,7 +3266,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 318,
+      "count": 319,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3402,7 +3402,7 @@
       ]
     },
     "material security explains": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20337,7 +20337,7 @@
       ]
     },
     "public github repository": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23217,7 +23217,7 @@
       ]
     },
     "software almost triple": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23284,7 +23284,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24442,7 +24442,7 @@
       ]
     },
     "turn one's television": {
-      "count": 80,
+      "count": 81,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26060,7 +26060,7 @@
       ]
     },
     "concept poc code": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26145,7 +26145,7 @@
       ]
     },
     "text history records": {
-      "count": 70,
+      "count": 71,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26697,7 +26697,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26960,7 +26960,7 @@
       ]
     },
     "google cloud sets": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26973,7 +26973,7 @@
       ]
     },
     "potential security incident": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26986,14 +26986,14 @@
       ]
     },
     "single control plane": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "remained walled away": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27006,14 +27006,14 @@
       ]
     },
     "stolen oauth tokens": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "gain system access": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27026,7 +27026,7 @@
       ]
     },
     "global bank's defense": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27040,31 +27040,20 @@
       ]
     },
     "service provider allowing": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "traffic relay nodes": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-15"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-07 08:52",
-      "articles": 48,
-      "top_keywords": [
-        "outpacing law enforcement",
-        "ios xe software",
-        "software supply chain",
-        "supply chain resilience",
-        "vendors aren't prepared"
-      ]
-    },
     {
       "timestamp": "2026-08-07 10:46",
       "articles": 48,
@@ -28145,6 +28134,17 @@
     },
     {
       "timestamp": "2026-08-15 20:15",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "traffic relay nodes",
+        "arbitrary code execution",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-15 22:14",
       "articles": 48,
       "top_keywords": [
         "google cloud sets",

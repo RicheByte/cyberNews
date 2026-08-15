@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-15 12:26 UTC  
+> **Last Updated:** 2026-08-15 14:15 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google cloud sets** • **vmware vcenter server** • **arbitrary code execution** • **twitter whistleblower complaint** • **global bank's defense** • **data analyst sent** • **execute arbitrary code** • **concept poc code** • **potential security incident** • **public github repository** • **gain system access** • **material security explains** • **converge data security** • **turn one's television** • **text history records** • **stolen oauth tokens** • **single control plane** • **service provider allowing** • **remained walled away** • **publicly detailed prior**
+**google cloud sets** • **vmware vcenter server** • **traffic relay nodes** • **arbitrary code execution** • **twitter whistleblower complaint** • **global bank's defense** • **execute arbitrary code** • **concept poc code** • **potential security incident** • **public github repository** • **gain system access** • **material security explains** • **turn one's television** • **text history records** • **stolen oauth tokens** • **software giant fixed** • **software almost triple** • **single control plane** • **service provider allowing** • **remained walled away**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
 - [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
 - [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
 - [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/)
@@ -34,7 +35,6 @@
 - [Max severity SAP Commerce Cloud flaw now targeted in attacks](https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/)
 - [Shell investigates 'potential incident' after Clop data theft claims](https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/)
 - [RingCentral data breach exposed info of 1.6 million accounts](https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/)
-- [Data analyst sent to prison for stealing data, extorting employer](https://www.bleepingcomputer.com/news/security/data-analyst-sent-to-prison-for-stealing-data-extorting-employer/)
 
 ### Krebs on Security
 

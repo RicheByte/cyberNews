@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2410,
+      "count": 2411,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1015,7 +1015,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3266,7 +3266,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 314,
+      "count": 315,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3402,7 +3402,7 @@
       ]
     },
     "material security explains": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20337,7 +20337,7 @@
       ]
     },
     "public github repository": {
-      "count": 55,
+      "count": 56,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23217,7 +23217,7 @@
       ]
     },
     "software almost triple": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23233,7 +23233,8 @@
         "2026-08-09",
         "2026-08-10",
         "2026-08-11",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-15"
       ]
     },
     "spanish police dismantled": {
@@ -23283,7 +23284,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23300,7 +23301,8 @@
         "2026-08-11",
         "2026-08-12",
         "2026-08-13",
-        "2026-08-14"
+        "2026-08-14",
+        "2026-08-15"
       ]
     },
     "windows bind links": {
@@ -24440,7 +24442,7 @@
       ]
     },
     "turn one's television": {
-      "count": 76,
+      "count": 77,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26058,7 +26060,7 @@
       ]
     },
     "concept poc code": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26143,7 +26145,7 @@
       ]
     },
     "text history records": {
-      "count": 66,
+      "count": 67,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26695,7 +26697,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26958,7 +26960,7 @@
       ]
     },
     "google cloud sets": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26971,7 +26973,7 @@
       ]
     },
     "potential security incident": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26984,14 +26986,14 @@
       ]
     },
     "single control plane": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "remained walled away": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27004,14 +27006,14 @@
       ]
     },
     "stolen oauth tokens": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "gain system access": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27024,7 +27026,7 @@
       ]
     },
     "global bank's defense": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27038,25 +27040,20 @@
       ]
     },
     "service provider allowing": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-14",
+        "2026-08-15"
+      ]
+    },
+    "traffic relay nodes": {
+      "count": 1,
+      "dates": [
         "2026-08-15"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-06 23:53",
-      "articles": 48,
-      "top_keywords": [
-        "outpacing law enforcement",
-        "ios xe software",
-        "vendors aren't prepared",
-        "us water utilities",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-07 02:23",
       "articles": 48,
@@ -28144,6 +28141,17 @@
         "arbitrary code execution",
         "twitter whistleblower complaint",
         "global bank's defense"
+      ]
+    },
+    {
+      "timestamp": "2026-08-15 14:15",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "traffic relay nodes",
+        "arbitrary code execution",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2408,
+      "count": 2409,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1015,7 +1015,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3266,7 +3266,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 312,
+      "count": 313,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3402,7 +3402,7 @@
       ]
     },
     "material security explains": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20337,7 +20337,7 @@
       ]
     },
     "public github repository": {
-      "count": 53,
+      "count": 54,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -24440,7 +24440,7 @@
       ]
     },
     "turn one's television": {
-      "count": 74,
+      "count": 75,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26058,7 +26058,7 @@
       ]
     },
     "concept poc code": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26143,7 +26143,7 @@
       ]
     },
     "text history records": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26695,7 +26695,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26763,7 +26763,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26945,7 +26945,7 @@
       ]
     },
     "data analyst sent": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26958,7 +26958,7 @@
       ]
     },
     "google cloud sets": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26971,7 +26971,7 @@
       ]
     },
     "potential security incident": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -26984,14 +26984,14 @@
       ]
     },
     "single control plane": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "remained walled away": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27004,14 +27004,14 @@
       ]
     },
     "stolen oauth tokens": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "gain system access": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27024,21 +27024,21 @@
       ]
     },
     "global bank's defense": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "converge data security": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-14",
         "2026-08-15"
       ]
     },
     "service provider allowing": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-14",
         "2026-08-15"
@@ -27046,17 +27046,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-06 10:33",
-      "articles": 48,
-      "top_keywords": [
-        "running ransom cartel",
-        "false positive claimed",
-        "snowflake customer accounts",
-        "residential proxy node",
-        "accessing company accounts"
-      ]
-    },
     {
       "timestamp": "2026-08-06 13:52",
       "articles": 48,
@@ -28137,6 +28126,17 @@
     },
     {
       "timestamp": "2026-08-15 08:20",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "arbitrary code execution",
+        "twitter whistleblower complaint",
+        "global bank's defense"
+      ]
+    },
+    {
+      "timestamp": "2026-08-15 10:16",
       "articles": 48,
       "top_keywords": [
         "google cloud sets",

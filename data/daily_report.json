@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 14:16",
+  "last_updated": "2026-08-16 16:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -20,50 +20,50 @@
     "stolen oauth tokens",
     "software giant fixed",
     "software almost triple",
-    "single control plane",
-    "service provider allowing",
-    "remained walled away"
+    "remained walled away",
+    "publicly detailed prior",
+    "providers reasoning apis"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "traffic relay nodes",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 327
+      "mentions": 328
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2423
+      "mentions": 2424
     },
     {
       "keyword": "global bank's defense",
-      "mentions": 22
+      "mentions": 23
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 128
+      "mentions": 129
     },
     {
       "keyword": "concept poc code",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "potential security incident",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "public github repository",
-      "mentions": 68
+      "mentions": 69
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
+      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
+      "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
+      "published": "Sun, 16 Aug 2026 11:07:44 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
       "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
       "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
@@ -233,17 +242,6 @@
       "value_score": 28,
       "value_signals": [
         "Ransomware"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "RingCentral data breach exposed info of 1.6 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
-      "summary": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
-      "published": "Fri, 14 Aug 2026 06:52:05 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

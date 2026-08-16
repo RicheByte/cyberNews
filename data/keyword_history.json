@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2419,
+      "count": 2420,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1016,7 +1016,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -3268,7 +3268,7 @@
       ]
     },
     "arbitrary code execution": {
-      "count": 323,
+      "count": 324,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -3405,7 +3405,7 @@
       ]
     },
     "material security explains": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-09",
         "2026-01-10",
@@ -20341,7 +20341,7 @@
       ]
     },
     "public github repository": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -23222,7 +23222,7 @@
       ]
     },
     "software almost triple": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23290,7 +23290,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 93,
+      "count": 94,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24449,7 +24449,7 @@
       ]
     },
     "turn one's television": {
-      "count": 85,
+      "count": 86,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26068,7 +26068,7 @@
       ]
     },
     "concept poc code": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-06",
         "2026-08-13",
@@ -26154,7 +26154,7 @@
       ]
     },
     "text history records": {
-      "count": 75,
+      "count": 76,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26707,7 +26707,7 @@
       ]
     },
     "vmware vcenter server": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26971,7 +26971,7 @@
       ]
     },
     "google cloud sets": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -26985,7 +26985,7 @@
       ]
     },
     "potential security incident": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -26999,7 +26999,7 @@
       ]
     },
     "single control plane": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27007,7 +27007,7 @@
       ]
     },
     "remained walled away": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27021,7 +27021,7 @@
       ]
     },
     "stolen oauth tokens": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27029,7 +27029,7 @@
       ]
     },
     "gain system access": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27043,7 +27043,7 @@
       ]
     },
     "global bank's defense": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27058,7 +27058,7 @@
       ]
     },
     "service provider allowing": {
-      "count": 18,
+      "count": 19,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27066,7 +27066,7 @@
       ]
     },
     "traffic relay nodes": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-15",
         "2026-08-16"
@@ -27074,17 +27074,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-07 18:46",
-      "articles": 48,
-      "top_keywords": [
-        "levi strauss co",
-        "black hat usa",
-        "outpacing law enforcement",
-        "black hat conference",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-07 20:34",
       "articles": 48,
@@ -28165,6 +28154,17 @@
     },
     {
       "timestamp": "2026-08-16 06:29",
+      "articles": 48,
+      "top_keywords": [
+        "google cloud sets",
+        "vmware vcenter server",
+        "traffic relay nodes",
+        "arbitrary code execution",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-16 08:21",
       "articles": 48,
       "top_keywords": [
         "google cloud sets",

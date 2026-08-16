@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-16 16:17",
+  "last_updated": "2026-08-16 18:19",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,59 +11,59 @@
     "global bank's defense",
     "execute arbitrary code",
     "concept poc code",
-    "potential security incident",
     "public github repository",
     "gain system access",
     "material security explains",
+    "key milestones targeted",
     "turn one's television",
     "text history records",
     "stolen oauth tokens",
     "software giant fixed",
     "software almost triple",
+    "service provider allowing",
     "remained walled away",
-    "publicly detailed prior",
-    "providers reasoning apis"
+    "publicly detailed prior"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 50
+      "mentions": 51
     },
     {
       "keyword": "traffic relay nodes",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 328
+      "mentions": 329
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2424
+      "mentions": 2425
     },
     {
       "keyword": "global bank's defense",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 129
+      "mentions": 130
     },
     {
       "keyword": "concept poc code",
-      "mentions": 36
-    },
-    {
-      "keyword": "potential security incident",
-      "mentions": 27
+      "mentions": 37
     },
     {
       "keyword": "public github repository",
-      "mentions": 69
+      "mentions": 70
+    },
+    {
+      "keyword": "gain system access",
+      "mentions": 26
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
+      "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
+      "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
+      "published": "Sun, 16 Aug 2026 13:29:52 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
       "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
       "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
@@ -231,17 +240,6 @@
       "value_score": 30,
       "value_signals": [
         "RCE"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Shell investigates 'potential incident' after Clop data theft claims",
-      "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
-      "summary": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
-      "published": "Fri, 14 Aug 2026 07:55:45 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {

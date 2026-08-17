@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-17 08:35",
+  "last_updated": "2026-08-17 10:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "google cloud sets",
     "vmware vcenter server",
     "traffic relay nodes",
-    "key milestones targeted",
+    "40 000 impacted",
     "twitter whistleblower complaint",
+    "key milestones targeted",
     "global bank's defense",
     "compromise internal components",
+    "678 000 individuals",
     "public github repository",
     "gain system access",
-    "execute arbitrary code",
-    "concept poc code",
-    "arbitrary code execution",
     "converge data security",
     "turn one's television",
     "software giant fixed",
     "software almost triple",
-    "service provider allowing",
     "remained walled away",
     "publicly detailed prior",
-    "providers reasoning apis"
+    "providers reasoning apis",
+    "order tracking function",
+    "move comes less"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 35
+      "mentions": 36
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 58
+      "mentions": 59
     },
     {
       "keyword": "traffic relay nodes",
-      "mentions": 22
+      "mentions": 23
     },
     {
-      "keyword": "key milestones targeted",
-      "mentions": 14
+      "keyword": "40 000 impacted",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2432
+      "mentions": 2433
+    },
+    {
+      "keyword": "key milestones targeted",
+      "mentions": 15
     },
     {
       "keyword": "global bank's defense",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "compromise internal components",
+      "mentions": 2
+    },
+    {
+      "keyword": "678 000 individuals",
       "mentions": 1
     },
     {
       "keyword": "public github repository",
-      "mentions": 77
-    },
-    {
-      "keyword": "gain system access",
-      "mentions": 33
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 137
+      "mentions": 78
     }
   ],
   "articles": [
@@ -161,6 +161,30 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "French tax authority data breach affects 678,000 individuals",
+      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
+      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
+      "published": "Mon, 17 Aug 2026 06:09:48 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
+      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
+      "published": "Mon, 17 Aug 2026 05:05:33 -0400",
+      "value_score": 94,
+      "value_signals": [
+        "CVE mentioned",
+        "Zero-day ×2",
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
       "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
       "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
@@ -217,29 +241,6 @@
       "published": "Fri, 14 Aug 2026 19:24:17 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers arrested over €30M bank fraud exploiting service provider flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
-      "summary": "Four cybercriminals were arrested in Brazil, and three others were charged in Europe over allegations that they exploited a vulnerability at a service provider, allowing them to withdraw funds from Commerzbank customers' bank accounts. [...]",
-      "published": "Fri, 14 Aug 2026 14:04:26 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers exploit macOS Screen Sharing flaw to deploy Monero miner",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
-      "summary": "The Netherlands' National Cyber Security Centre (NCSC) is warning that hackers are actively exploiting a macOS authentication bypass vulnerability after public exploit code emerged. [...]",
-      "published": "Fri, 14 Aug 2026 10:59:55 -0400",
-      "value_score": 31,
-      "value_signals": [
-        "Auth bypass",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -404,6 +405,29 @@
     },
     {
       "source": "Security Week",
+      "title": "40,000 Impacted by SafePal Data Breach",
+      "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
+      "summary": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 09:37:06 +0000",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Recent macOS Screen Sharing Vulnerability Exploited in Attacks",
+      "link": "https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/",
+      "summary": "Threat actors gained root access to the vulnerable systems and deployed a Monero miner. The post Recent macOS Screen Sharing Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 08:47:38 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
       "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
       "summary": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek .",
@@ -457,28 +481,6 @@
       "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
       "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek .",
       "published": "Fri, 14 Aug 2026 10:24:03 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Over 1,000 Charities Hit by Beacon CRM Data Breach",
-      "link": "https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/",
-      "summary": "The root cause of the incident is believed to be a compromised AWS access key that was exposed in publicly available JavaScript build artifacts. The post Over 1,000 Charities Hit by Beacon CRM Data Breach appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 09:20:28 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "14,000 Trezor Customers Impacted by Data Breach at ShipMonk",
-      "link": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
-      "summary": "Hackers stole the customers’ shipping information, including names, addresses, email addresses, and phone numbers. The post 14,000 Trezor Customers Impacted by Data Breach at ShipMonk appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 08:16:00 +0000",
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"

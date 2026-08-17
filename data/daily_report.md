@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-17 08:35 UTC  
+> **Last Updated:** 2026-08-17 10:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google cloud sets** • **vmware vcenter server** • **traffic relay nodes** • **key milestones targeted** • **twitter whistleblower complaint** • **global bank's defense** • **compromise internal components** • **public github repository** • **gain system access** • **execute arbitrary code** • **concept poc code** • **arbitrary code execution** • **converge data security** • **turn one's television** • **software giant fixed** • **software almost triple** • **service provider allowing** • **remained walled away** • **publicly detailed prior** • **providers reasoning apis**
+**google cloud sets** • **vmware vcenter server** • **traffic relay nodes** • **40 000 impacted** • **twitter whistleblower complaint** • **key milestones targeted** • **global bank's defense** • **compromise internal components** • **678 000 individuals** • **public github repository** • **gain system access** • **converge data security** • **turn one's television** • **software giant fixed** • **software almost triple** • **remained walled away** • **publicly detailed prior** • **providers reasoning apis** • **order tracking function** • **move comes less**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [French tax authority data breach affects 678,000 individuals](https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/)
+- [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
 - [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
 - [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
 - [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
 - [New AmnesiaStealer macOS malware hijacks browser sessions via remote control](https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/)
 - [New Evooo1Bot Linux botnet turns routers into traffic relay nodes](https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/)
 - [How Anthropic plans to watermark Claude's AI-generated text](https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/)
-- [Hackers arrested over €30M bank fraud exploiting service provider flaw](https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/)
-- [Hackers exploit macOS Screen Sharing flaw to deploy Monero miner](https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
+- [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
 - [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
 - [Fortune 500 Companies Hit in Azure Data Theft Campaign](https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/)
 - [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
 - [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
 - [Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal](https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/)
 - [1.6 Million Likely Impacted by RingCentral Data Breach](https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/)
-- [Over 1,000 Charities Hit by Beacon CRM Data Breach](https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/)
-- [14,000 Trezor Customers Impacted by Data Breach at ShipMonk](https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 18:29",
+  "last_updated": "2026-08-17 20:19",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,100 @@
     "40 000 impacted",
     "turn edge devices",
     "turn compromised devices",
-    "default authentication client",
-    "twitter whistleblower complaint",
-    "rated 10 0",
+    "microsoft azure infrastructure",
     "execute arbitrary code",
+    "critical security flaw",
+    "twitter whistleblower complaint",
     "cvss scoring system",
-    "130 companies tangled",
-    "turn one's television",
     "678 000 individuals",
+    "turn one's television",
+    "single control plane",
+    "ai agent control",
+    "130 companies tangled",
     "converge data security",
+    "public github repository",
     "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
-    "single control plane",
-    "screen sharing component",
-    "residential proxy node",
-    "remained walled away"
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "680 000 impacted",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "40 000 impacted",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "turn edge devices",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "turn compromised devices",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "default authentication client",
-      "mentions": 4
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2437
-    },
-    {
-      "keyword": "rated 10 0",
-      "mentions": 9
+      "keyword": "microsoft azure infrastructure",
+      "mentions": 1
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 141
+      "mentions": 142
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 162
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2438
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 108
+      "mentions": 109
     },
     {
-      "keyword": "130 companies tangled",
-      "mentions": 428
+      "keyword": "678 000 individuals",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
+      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. The issue was present in .github/workflows/jira_issue.yml, which ran when a",
+      "published": "Tue, 18 Aug 2026 00:14:17 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads",
+      "link": "https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html",
+      "summary": "A critical security flaw has been disclosed in Forminator Forms, a WordPress plugin with more than 600,000 active installations, that could be exploited to achieve arbitrary code execution on susceptible sites. The vulnerability, tracked as CVE-2026-15748, is rated 9.8 out of 10.0 on the CVSS scoring system. It was discovered and reported by a security researcher who goes by the online alias \"",
+      "published": "Mon, 17 Aug 2026 23:52:09 +0530",
+      "value_score": 62,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic",
+      "link": "https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html",
+      "summary": "Cybersecurity researchers have traced the continued evolution of the Cavern (aka Cav3rn) command-and-control (C2) framework used by Iranian nation-state hackers in attacks targeting entities in Israel. Russian cybersecurity company Kaspersky said its ongoing monitoring of the threat activity cluster since December 2025 has led to the discovery of previously unreported components that expand the",
+      "published": "Mon, 17 Aug 2026 23:11:06 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
@@ -126,41 +160,24 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
-      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
-      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit",
-      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
-      "value_score": 68,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Patch/update",
-        "Multiple CVEs",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
-      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
-      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
-      "value_score": 67,
-      "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
-      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
-      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party. During the first half of 2026, 50,400",
-      "published": "Sat, 15 Aug 2026 00:18:46 +0530",
+      "source": "BleepingComputer",
+      "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/",
+      "summary": "A threat actor is selling employee databases allegedly stolen from the Microsoft Azure infrastructure of multiple Fortune 500 companies after gaining access using compromised credentials. [...]",
+      "published": "Mon, 17 Aug 2026 15:35:01 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
+      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
+      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
+      "published": "Mon, 17 Aug 2026 15:12:39 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -226,27 +243,6 @@
         "Zero-day ×2",
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
-      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
-      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
-      "published": "Sun, 16 Aug 2026 19:47:06 -0400",
-      "value_score": 40,
-      "value_signals": [
-        "Breach/leak ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
-      "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
-      "published": "Sun, 16 Aug 2026 18:28:57 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -332,6 +328,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
+      "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\"",
+      "published": "Mon, 17 Aug 2026 19:22:56 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
       "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
       "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
@@ -400,15 +405,6 @@
         "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
-      "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
-      "summary": "Researchers discovered hackers-for-hire performing cyber espionage and financially motivated heists from the same Web panel.",
-      "published": "Thu, 13 Aug 2026 10:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

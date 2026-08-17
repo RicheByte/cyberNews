@@ -1,11 +1,12 @@
 {
-  "last_updated": "2026-08-16 22:14",
+  "last_updated": "2026-08-17 00:56",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "google cloud sets",
     "vmware vcenter server",
     "traffic relay nodes",
+    "key milestones targeted",
     "arbitrary code execution",
     "twitter whistleblower complaint",
     "global bank's defense",
@@ -13,57 +14,56 @@
     "concept poc code",
     "public github repository",
     "gain system access",
-    "material security explains",
-    "key milestones targeted",
     "turn one's television",
     "text history records",
-    "stolen oauth tokens",
     "software giant fixed",
     "software almost triple",
     "service provider allowing",
     "remained walled away",
-    "publicly detailed prior"
+    "publicly detailed prior",
+    "providers reasoning apis",
+    "move comes less"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 30
+      "mentions": 31
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 53
+      "mentions": 54
     },
     {
       "keyword": "traffic relay nodes",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "key milestones targeted",
+      "mentions": 10
     },
     {
       "keyword": "arbitrary code execution",
-      "mentions": 331
+      "mentions": 332
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2427
+      "mentions": 2428
     },
     {
       "keyword": "global bank's defense",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 132
+      "mentions": 133
     },
     {
       "keyword": "concept poc code",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "public github repository",
-      "mentions": 72
-    },
-    {
-      "keyword": "gain system access",
-      "mentions": 28
+      "mentions": 73
     }
   ],
   "articles": [
@@ -161,6 +161,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "SafePal data breach impacts 39,798 customers, stolen info for sale",
+      "link": "https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/",
+      "summary": "Cryptocurrency hardware wallet provider SafePal is warning of a data breach affecting about 39,798 customers after a flaw was exploited to steal customer order information, and a threat actor is now claiming to be selling the stolen data. [...]",
+      "published": "Sun, 16 Aug 2026 19:47:06 -0400",
+      "value_score": 40,
+      "value_signals": [
+        "Breach/leak ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Anthropic confirms Claude is down in major outage affecting multiple services",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "summary": "Claude is experiencing a major outage, with users reporting login problems and degraded performance across several Anthropic services. [...]",
+      "published": "Sun, 16 Aug 2026 18:28:57 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Large-scale DDoS attacks disrupted Threema secure messaging service",
       "link": "https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/",
       "summary": "Multiple distributed denial-of-service (DDoS) attacks targeted the Threema secure messaging service earlier this week, causing severe disruptions to communications. [...]",
@@ -218,28 +239,6 @@
       "value_signals": [
         "Auth bypass",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "The Modern Attack Chain: Rethinking Google Workspace Security in the Age of AI",
-      "link": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
-      "summary": "Google Workspace attacks do not always begin with phishing. Stolen OAuth tokens can provide another path into Gmail, Drive, and connected systems. Material Security explains why organizations need defenses that cover the entire Workspace attack chain. [...]",
-      "published": "Fri, 14 Aug 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Max severity SAP Commerce Cloud flaw now targeted in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
-      "summary": "A maximum-severity SAP Commerce Cloud remote code execution vulnerability patched three days ago is already being targeted in attacks, according to threat intelligence company Defused. [...]",
-      "published": "Fri, 14 Aug 2026 09:45:18 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
       ]
     },
     {

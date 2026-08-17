@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2435,
+      "count": 2436,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1017,7 +1017,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1943,7 +1943,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 540,
+      "count": 541,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2348,7 +2348,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2643,7 +2643,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 426,
+      "count": 427,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -22989,7 +22989,7 @@
       ]
     },
     "rated 10 0": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-07-13",
         "2026-08-12",
@@ -23230,7 +23230,7 @@
       ]
     },
     "software almost triple": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23299,7 +23299,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24136,7 +24136,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 155,
+      "count": 156,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24461,7 +24461,7 @@
       ]
     },
     "turn one's television": {
-      "count": 101,
+      "count": 102,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27022,7 +27022,7 @@
       ]
     },
     "single control plane": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27031,7 +27031,7 @@
       ]
     },
     "remained walled away": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27078,7 +27078,7 @@
       ]
     },
     "converge data security": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27109,13 +27109,13 @@
       ]
     },
     "40 000 impacted": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-17"
       ]
     },
     "678 000 individuals": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-17"
       ]
@@ -27127,7 +27127,7 @@
       ]
     },
     "turn edge devices": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-17"
       ]
@@ -27139,18 +27139,24 @@
       ]
     },
     "default authentication client": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-17"
       ]
     },
     "screen sharing component": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-17"
       ]
     },
     "680 000 impacted": {
+      "count": 2,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "turn compromised devices": {
       "count": 1,
       "dates": [
         "2026-08-17"
@@ -27158,17 +27164,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-09 03:27",
-      "articles": 48,
-      "top_keywords": [
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "crypto theft attacks",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-08-09 04:58",
       "articles": 48,
@@ -28256,6 +28251,17 @@
         "turn edge devices",
         "default authentication client",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-17 16:20",
+      "articles": 48,
+      "top_keywords": [
+        "680 000 impacted",
+        "40 000 impacted",
+        "turn edge devices",
+        "turn compromised devices",
+        "default authentication client"
       ]
     }
   ]

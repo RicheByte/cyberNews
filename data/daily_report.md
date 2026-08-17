@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-17 14:25 UTC  
+> **Last Updated:** 2026-08-17 16:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**680 000 impacted** • **40 000 impacted** • **turn edge devices** • **default authentication client** • **twitter whistleblower complaint** • **turn one's television** • **rated 10 0** • **execute arbitrary code** • **cvss scoring system** • **130 companies tangled** • **678 000 individuals** • **public github repository** • **converge data security** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **single control plane** • **screen sharing component** • **residential proxy node** • **remained walled away**
+**680 000 impacted** • **40 000 impacted** • **turn edge devices** • **turn compromised devices** • **default authentication client** • **twitter whistleblower complaint** • **rated 10 0** • **execute arbitrary code** • **cvss scoring system** • **130 companies tangled** • **turn one's television** • **678 000 individuals** • **converge data security** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **single control plane** • **screen sharing component** • **residential proxy node** • **remained walled away**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
 - [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
 - [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
 - [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
@@ -34,7 +35,6 @@
 - [Microsoft working on Defender patch for ShieldBreak zero-day](https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/)
 - [SafePal data breach impacts 39,798 customers, stolen info for sale](https://www.bleepingcomputer.com/news/security/safepal-data-breach-impacts-39-798-customers-stolen-info-for-sale/)
 - [Anthropic confirms Claude is down in major outage affecting multiple services](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/)
-- [Large-scale DDoS attacks disrupted Threema secure messaging service](https://www.bleepingcomputer.com/news/security/large-scale-ddos-attacks-disrupted-threema-secure-messaging-service/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS](https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos)
 - [Mission-Driven Security: Inside a Global Bank's Defense](https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense)
 - [Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI](https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai)
 - [Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office](https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office)
@@ -56,7 +57,6 @@
 - [Cyera's Oasis Security Buy Is All About AI Agent Control](https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control)
 - [Global Threat Campaign Hits Critical VMware vCenter Flaw](https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw)
 - ['Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft](https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft)
-- [Belgium's eID Authentication Opens Citizen Accounts to RCE](https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce)
 
 ### Security Week
 

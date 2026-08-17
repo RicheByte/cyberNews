@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-17 06:41 UTC  
+> **Last Updated:** 2026-08-17 08:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**google cloud sets** • **vmware vcenter server** • **traffic relay nodes** • **key milestones targeted** • **arbitrary code execution** • **twitter whistleblower complaint** • **global bank's defense** • **execute arbitrary code** • **concept poc code** • **public github repository** • **gain system access** • **turn one's television** • **text history records** • **software giant fixed** • **software almost triple** • **service provider allowing** • **remained walled away** • **publicly detailed prior** • **providers reasoning apis** • **move comes less**
+**google cloud sets** • **vmware vcenter server** • **traffic relay nodes** • **key milestones targeted** • **twitter whistleblower complaint** • **global bank's defense** • **compromise internal components** • **public github repository** • **gain system access** • **execute arbitrary code** • **concept poc code** • **arbitrary code execution** • **converge data security** • **turn one's television** • **software giant fixed** • **software almost triple** • **service provider allowing** • **remained walled away** • **publicly detailed prior** • **providers reasoning apis**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure](https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/)
+- [Fortune 500 Companies Hit in Azure Data Theft Campaign](https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/)
 - [In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities](https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/)
 - [Trivy, Not LiteLLM Behind the 2,500 Org Compromise](https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/)
 - [Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal](https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/)
 - [1.6 Million Likely Impacted by RingCentral Data Breach](https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/)
 - [Over 1,000 Charities Hit by Beacon CRM Data Breach](https://www.securityweek.com/over-1000-charities-hit-by-beacon-crm-data-breach/)
 - [14,000 Trezor Customers Impacted by Data Breach at ShipMonk](https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/)
-- [Hackers Exploiting Unpatched GeoServer Zero-Day](https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/)
-- [AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions](https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/)
 
 ### Threatpost
 

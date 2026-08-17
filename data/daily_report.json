@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 06:41",
+  "last_updated": "2026-08-17 08:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "vmware vcenter server",
     "traffic relay nodes",
     "key milestones targeted",
-    "arbitrary code execution",
     "twitter whistleblower complaint",
     "global bank's defense",
-    "execute arbitrary code",
-    "concept poc code",
+    "compromise internal components",
     "public github repository",
     "gain system access",
+    "execute arbitrary code",
+    "concept poc code",
+    "arbitrary code execution",
+    "converge data security",
     "turn one's television",
-    "text history records",
     "software giant fixed",
     "software almost triple",
     "service provider allowing",
     "remained walled away",
     "publicly detailed prior",
-    "providers reasoning apis",
-    "move comes less"
+    "providers reasoning apis"
   ],
   "trending": [
     {
       "keyword": "google cloud sets",
-      "mentions": 34
+      "mentions": 35
     },
     {
       "keyword": "vmware vcenter server",
-      "mentions": 57
+      "mentions": 58
     },
     {
       "keyword": "traffic relay nodes",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "key milestones targeted",
-      "mentions": 13
-    },
-    {
-      "keyword": "arbitrary code execution",
-      "mentions": 335
+      "mentions": 14
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2431
+      "mentions": 2432
     },
     {
       "keyword": "global bank's defense",
-      "mentions": 30
+      "mentions": 31
     },
     {
-      "keyword": "execute arbitrary code",
-      "mentions": 136
-    },
-    {
-      "keyword": "concept poc code",
-      "mentions": 43
+      "keyword": "compromise internal components",
+      "mentions": 1
     },
     {
       "keyword": "public github repository",
-      "mentions": 76
+      "mentions": 77
+    },
+    {
+      "keyword": "gain system access",
+      "mentions": 33
+    },
+    {
+      "keyword": "execute arbitrary code",
+      "mentions": 137
     }
   ],
   "articles": [
@@ -404,6 +404,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
+      "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
+      "summary": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 08:13:07 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
+      "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
+      "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 06:51:08 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
       "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
       "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities appeared first on SecurityWeek .",
@@ -461,28 +483,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Exploiting Unpatched GeoServer Zero-Day",
-      "link": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
-      "summary": "The security defect is described as an SQL injection that could allow attackers to achieve remote code execution. The post Hackers Exploiting Unpatched GeoServer Zero-Day appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 07:01:56 +0000",
-      "value_score": 86,
-      "value_signals": [
-        "Zero-day ×2",
-        "RCE",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions",
-      "link": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
-      "summary": "The Rust-based macOS infostealer harvests users’ passwords, keychain information, Chromium-based browser data, and Safari cookies. The post AmnesiaStealer macOS Malware Steals Data, Controls Browser Sessions appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 06:41:43 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

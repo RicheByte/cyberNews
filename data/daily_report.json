@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 20:19",
+  "last_updated": "2026-08-17 22:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,64 +9,76 @@
     "turn compromised devices",
     "microsoft azure infrastructure",
     "execute arbitrary code",
-    "critical security flaw",
     "twitter whistleblower complaint",
-    "cvss scoring system",
+    "community edition ce",
     "678 000 individuals",
     "turn one's television",
-    "single control plane",
-    "ai agent control",
+    "released security updates",
+    "claude agents leads",
+    "ai agents interact",
+    "delete public projects",
     "130 companies tangled",
-    "converge data security",
-    "public github repository",
-    "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
-    "residential proxy node"
+    "sprawling phishing campaign",
+    "residential proxy node",
+    "publicly detailed prior"
   ],
   "trending": [
     {
       "keyword": "680 000 impacted",
-      "mentions": 4
-    },
-    {
-      "keyword": "40 000 impacted",
-      "mentions": 6
-    },
-    {
-      "keyword": "turn edge devices",
       "mentions": 5
     },
     {
+      "keyword": "40 000 impacted",
+      "mentions": 7
+    },
+    {
+      "keyword": "turn edge devices",
+      "mentions": 6
+    },
+    {
       "keyword": "turn compromised devices",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "microsoft azure infrastructure",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 142
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 162
+      "mentions": 143
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2438
+      "mentions": 2439
     },
     {
-      "keyword": "cvss scoring system",
-      "mentions": 109
+      "keyword": "community edition ce",
+      "mentions": 1
     },
     {
       "keyword": "678 000 individuals",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "turn one's television",
+      "mentions": 105
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
+      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
+      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
+      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×3"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
@@ -143,19 +155,6 @@
       "value_score": 36,
       "value_signals": [
         "Botnet ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
-      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
-      "value_score": 52,
-      "value_signals": [
-        "CVE mentioned",
-        "Ransomware",
         "Exploit wording"
       ]
     },
@@ -328,6 +327,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+      "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+      "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+      "published": "Mon, 17 Aug 2026 21:37:23 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+      "published": "Mon, 17 Aug 2026 20:26:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Adam Shostack Talks Hugging Face &amp; PHANTOM-B",
       "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
       "summary": "World-class threat modeler Adam Shostack shared he was \"blown away\" by OpenAI's revelations about the Hugging Face attack, and explains why his new threat model for LLMs is both \"lightweight yet still usable.\"",
@@ -384,27 +403,6 @@
       "published": "Fri, 14 Aug 2026 14:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
-      "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
-      "summary": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
-      "published": "Fri, 14 Aug 2026 12:17:21 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Global Threat Campaign Hits Critical VMware vCenter Flaw",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw",
-      "summary": "Exploitation against CVE-2026–59310 began earlier this month, and patching the vulnerability may not be enough to fully mitigate the threat.",
-      "published": "Thu, 13 Aug 2026 20:45:17 GMT",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

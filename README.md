@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-17 20:19 UTC |
+| 🕐 Last Updated | 2026-08-17 22:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`680 000 impacted` • `40 000 impacted` • `turn edge devices` • `turn compromised devices` • `microsoft azure infrastructure` • `execute arbitrary code` • `critical security flaw` • `twitter whistleblower complaint` • `cvss scoring system` • `678 000 individuals`
+`680 000 impacted` • `40 000 impacted` • `turn edge devices` • `turn compromised devices` • `microsoft azure infrastructure` • `execute arbitrary code` • `twitter whistleblower complaint` • `community edition ce` • `678 000 individuals` • `turn one's television`
 
 ## 📄 Reports
 

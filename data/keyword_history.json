@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2438,
+      "count": 2439,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1017,7 +1017,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1944,7 +1944,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 543,
+      "count": 544,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2644,7 +2644,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 429,
+      "count": 430,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4202,7 +4202,7 @@
       ]
     },
     "released security updates": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -4233,7 +4233,8 @@
         "2026-07-31",
         "2026-08-01",
         "2026-08-02",
-        "2026-08-03"
+        "2026-08-03",
+        "2026-08-17"
       ]
     },
     "auditability collide daily": {
@@ -23231,7 +23232,7 @@
       ]
     },
     "software almost triple": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23300,7 +23301,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24137,7 +24138,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24462,7 +24463,7 @@
       ]
     },
     "turn one's television": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26793,7 +26794,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27111,13 +27112,13 @@
       ]
     },
     "40 000 impacted": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-17"
       ]
     },
     "678 000 individuals": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-17"
       ]
@@ -27129,7 +27130,7 @@
       ]
     },
     "turn edge devices": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-17"
       ]
@@ -27153,18 +27154,42 @@
       ]
     },
     "680 000 impacted": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-17"
       ]
     },
     "turn compromised devices": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-17"
       ]
     },
     "microsoft azure infrastructure": {
+      "count": 2,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "community edition ce": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "claude agents leads": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "ai agents interact": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "delete public projects": {
       "count": 1,
       "dates": [
         "2026-08-17"
@@ -27172,17 +27197,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-09 08:34",
-      "articles": 48,
-      "top_keywords": [
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "crypto theft attacks",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-08-09 10:27",
       "articles": 48,
@@ -28263,6 +28277,17 @@
     },
     {
       "timestamp": "2026-08-17 20:19",
+      "articles": 48,
+      "top_keywords": [
+        "680 000 impacted",
+        "40 000 impacted",
+        "turn edge devices",
+        "turn compromised devices",
+        "microsoft azure infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-08-17 22:17",
       "articles": 48,
       "top_keywords": [
         "680 000 impacted",

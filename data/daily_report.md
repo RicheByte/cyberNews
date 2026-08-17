@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-17 20:19 UTC  
+> **Last Updated:** 2026-08-17 22:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**680 000 impacted** • **40 000 impacted** • **turn edge devices** • **turn compromised devices** • **microsoft azure infrastructure** • **execute arbitrary code** • **critical security flaw** • **twitter whistleblower complaint** • **cvss scoring system** • **678 000 individuals** • **turn one's television** • **single control plane** • **ai agent control** • **130 companies tangled** • **converge data security** • **public github repository** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **residential proxy node**
+**680 000 impacted** • **40 000 impacted** • **turn edge devices** • **turn compromised devices** • **microsoft azure infrastructure** • **execute arbitrary code** • **twitter whistleblower complaint** • **community edition ce** • **678 000 individuals** • **turn one's television** • **released security updates** • **claude agents leads** • **ai agents interact** • **delete public projects** • **130 companies tangled** • **software giant fixed** • **software almost triple** • **sprawling phishing campaign** • **residential proxy node** • **publicly detailed prior**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
 - [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
 - [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
 - [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
@@ -23,7 +24,6 @@
 - [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
 - [Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access](https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html)
 - [Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies](https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html)
-- [Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware](https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
+- ['Turf War' Between Claude Agents Leads to Self-Replicating Malware](https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware)
 - [Adam Shostack Talks Hugging Face &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
 - [Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS](https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos)
 - [Mission-Driven Security: Inside a Global Bank's Defense](https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense)
 - [Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI](https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai)
 - [Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office](https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office)
 - [What Boards Need to Know About Tech Risk](https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk)
-- [Cyera's Oasis Security Buy Is All About AI Agent Control](https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control)
-- [Global Threat Campaign Hits Critical VMware vCenter Flaw](https://www.darkreading.com/vulnerabilities-threats/global-threat-campaign-critical-vmware-vcenter-flaw)
 
 ### Security Week
 

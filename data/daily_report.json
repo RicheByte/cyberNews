@@ -1,163 +1,175 @@
 {
-  "last_updated": "2026-08-17 10:25",
+  "last_updated": "2026-08-17 12:32",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "google cloud sets",
-    "vmware vcenter server",
-    "traffic relay nodes",
     "40 000 impacted",
+    "turn edge devices",
+    "iam compliance requires",
+    "traffic relay nodes",
+    "default authentication client",
     "twitter whistleblower complaint",
-    "key milestones targeted",
-    "global bank's defense",
+    "execute arbitrary code",
+    "cvss scoring system",
     "compromise internal components",
-    "678 000 individuals",
-    "public github repository",
-    "gain system access",
-    "converge data security",
     "turn one's television",
+    "public github repository",
+    "678 000 individuals",
+    "converge data security",
+    "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
+    "screen sharing component",
+    "residential proxy node",
     "remained walled away",
-    "publicly detailed prior",
-    "providers reasoning apis",
-    "order tracking function",
-    "move comes less"
+    "rated 10 0"
   ],
   "trending": [
     {
-      "keyword": "google cloud sets",
-      "mentions": 36
+      "keyword": "40 000 impacted",
+      "mentions": 2
     },
     {
-      "keyword": "vmware vcenter server",
-      "mentions": 59
+      "keyword": "turn edge devices",
+      "mentions": 1
+    },
+    {
+      "keyword": "iam compliance requires",
+      "mentions": 1
     },
     {
       "keyword": "traffic relay nodes",
-      "mentions": 23
+      "mentions": 24
     },
     {
-      "keyword": "40 000 impacted",
+      "keyword": "default authentication client",
       "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2433
+      "mentions": 2434
     },
     {
-      "keyword": "key milestones targeted",
-      "mentions": 15
+      "keyword": "execute arbitrary code",
+      "mentions": 138
     },
     {
-      "keyword": "global bank's defense",
-      "mentions": 32
+      "keyword": "cvss scoring system",
+      "mentions": 105
     },
     {
       "keyword": "compromise internal components",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "678 000 individuals",
-      "mentions": 1
-    },
-    {
-      "keyword": "public github repository",
-      "mentions": 78
+      "keyword": "turn one's television",
+      "mentions": 100
     }
   ],
   "articles": [
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit SharePoint Authentication Bypass After Public PoC Release",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-sharepoint.html",
-      "summary": "Threat actors have begun to exploit a newly disclosed Microsoft SharePoint vulnerability following the release of a proof-of-concept (PoC) code. The vulnerability in question is CVE-2026-55040 (CVSS score: 9.1), which refers to a critical security feature bypass that stems from weak authentication. It was patched by Microsoft as part of its July 2026 Patch Tuesday updates. \"The authentication",
-      "published": "Thu, 13 Aug 2026 11:39:48 +0530",
-      "value_score": 85,
+      "title": "How MCP Servers Can Expose Enterprise Secrets",
+      "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
+      "summary": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
+      "published": "Mon, 17 Aug 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
+      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
+      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed remote code execution in the",
+      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
+      "value_score": 44,
       "value_signals": [
-        "CVE mentioned",
-        "Auth bypass",
-        "PoC available ×2",
+        "RCE",
         "Patch/update",
-        "High severity",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
-      "link": "https://thehackernews.com/2026/08/lazarus-exploits-windows-zero-day-to.html",
-      "summary": "The North Korean threat actor known as Lazarus Group has been attributed to the zero-day exploitation of a newly patched security flaw impacting Microsoft Windows to deliver a never-before-seen backdoor targeting defense and aerospace companies across France, Germany, Brazil, and India. The activity, per Check Point Research, is part of Operation Dream Job, a long-running cyber espionage and",
-      "published": "Wed, 12 Aug 2026 23:09:27 +0530",
-      "value_score": 90,
+      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
+      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
+      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
+      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
+      "value_score": 36,
       "value_signals": [
-        "Zero-day ×2",
-        "Backdoor ×2",
+        "Botnet ×3",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "737 Chrome VPN Extensions Caught Routing Traffic Through Proxies. Check If You Have One",
-      "link": "https://thehackernews.com/2026/08/737-chrome-vpn-extensions-caught.html",
-      "summary": "A massive set of 737 free VPN and proxy extensions have been found to mainly target Russian-speaking users seeking access to blocked services with an aim to intercept browser traffic and route them through a proxy infrastructure. The extensions, published across at least 40 Chrome Web Store developer accounts, racked up 75,486 installs. Of those identified, 274 have been found to impersonate 66",
-      "published": "Wed, 12 Aug 2026 19:39:50 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI, Anthropic, Google API Flaw Let Weaker AI Models Decode Stronger Models' Reasoning",
-      "link": "https://thehackernews.com/2026/08/openai-anthropic-google-api-flaw-let.html",
-      "summary": "A newly disclosed flaw in the way OpenAI, Anthropic, and Google carried hidden AI reasoning between API calls let researchers recover internal reasoning and secrets from session logs, including API keys and passwords. The weakness affected encrypted reasoning objects used by the providers' reasoning APIs, where a block created in one session could be replayed into another and, during testing,",
-      "published": "Wed, 12 Aug 2026 17:17:38 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Enterprise Defenses Recovered at the Edge and Collapsed Inside",
-      "link": "https://thehackernews.com/2026/08/enterprise-defenses-recovered-at-edge.html",
-      "summary": "Enterprise defenses are tuned to catch the attacks that make noise. This year's data shows attackers winning by making none. According to Picus Labs' new Blue Report 2026, which measured more than 338 million real attack simulations across actual client production environments in the first half of 2026, defenses are having one of their strongest years yet. Average prevention effectiveness",
-      "published": "Wed, 12 Aug 2026 17:11:34 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
-      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
-      "summary": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
-      "published": "Wed, 12 Aug 2026 16:43:03 +0530",
-      "value_score": 54,
+      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
+      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
+      "summary": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
+      "published": "Mon, 17 Aug 2026 13:06:19 +0530",
+      "value_score": 52,
       "value_signals": [
         "CVE mentioned",
-        "Privilege escalation",
-        "High severity",
+        "Ransomware",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
-      "summary": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
-      "published": "Wed, 12 Aug 2026 14:31:54 +0530",
-      "value_score": 42,
+      "title": "SAP Commerce Cloud CVE-2026-58231 Targeted in Exploitation Attempts Days After Patch",
+      "link": "https://thehackernews.com/2026/08/sap-commerce-cloud-cve-2026-58231.html",
+      "summary": "A maximum-severity security vulnerability impacting SAP Commerce Cloud is witnessing active exploitation efforts. The vulnerability, tracked as CVE-2026-58231, is rated 10.0 on the CVSS scoring system. It relates to an instance of insufficient authorization checks and input validation. \"SAP Commerce Cloud allows an unauthenticated attacker to abuse a default authentication client and submit",
+      "published": "Sat, 15 Aug 2026 14:08:46 +0530",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
+      "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
+      "published": "Sat, 15 Aug 2026 12:54:04 +0530",
+      "value_score": 67,
       "value_signals": [
         "CVE mentioned",
+        "Active exploitation",
         "High severity",
         "Exploit wording"
       ]
     },
     {
       "source": "The Hacker News",
-      "title": "Malicious LiteLLM Releases Tied to Trivy Hack May Have Exposed 2,100+ Organizations",
-      "link": "https://thehackernews.com/2026/08/malicious-litellm-releases-tied-to.html",
-      "summary": "Two malicious LiteLLM releases sat on PyPI for about 40 minutes in March carrying credential-stealing code capable of harvesting cloud keys, SSH keys, Kubernetes tokens, database passwords, and other secrets from systems that installed them. Threat intelligence firm CloudSEK now says a dataset it obtained, built from roughly 434,000 files the attackers captured, maps potential exposure to more",
-      "published": "Wed, 12 Aug 2026 13:34:52 +0530",
+      "title": "Hackers Spend Nearly $7 Million on Expired Domains to Redirect Traffic to Scams and Malware",
+      "link": "https://thehackernews.com/2026/08/hackers-spend-nearly-7-million-on.html",
+      "summary": "Threat actors are acquiring expired domains to inherit website traffic and reputation to redirect victims to scams and malware on a large scale. DNS threat intelligence firm Infoblox has given the name dropcatch domains to those that get a second chance, where an expired domain becomes available for registration and is then snapped up by another party. During the first half of 2026, 50,400",
+      "published": "Sat, 15 Aug 2026 00:18:46 +0530",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "IAM Compliance Requirements and Best Practices",
+      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
+      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
+      "published": "Fri, 14 Aug 2026 22:49:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Philips and GE investigating Clop ransomware data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/",
+      "summary": "Tech giants General Electric (GE) and Philips have also confirmed they're investigating claims that the Clop ransomware gang breached their systems and stole data. [...]",
+      "published": "Mon, 17 Aug 2026 07:25:02 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -232,15 +244,6 @@
       "value_signals": [
         "Botnet ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How Anthropic plans to watermark Claude's AI-generated text",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/how-anthropic-plans-to-watermark-claudes-ai-generated-text/",
-      "summary": "It could soon become easier to identify AI-generated content, even if it's not the usual \"It's Not X, it's Y\" type of post you'd come across on LinkedIn and other socials. [...]",
-      "published": "Fri, 14 Aug 2026 19:24:17 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -405,6 +408,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
+      "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
+      "summary": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 12:11:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware",
+      "link": "https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/",
+      "summary": "Anthropic has been conducting tests to identify issues in how AI agents interact with each other. The post Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 11:09:57 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "40,000 Impacted by SafePal Data Breach",
       "link": "https://www.securityweek.com/40000-impacted-by-safepal-data-breach/",
       "summary": "Hackers exploited a vulnerability in the order-tracking function of a plugin to access SafePal customer information. The post 40,000 Impacted by SafePal Data Breach appeared first on SecurityWeek .",
@@ -465,26 +486,6 @@
       "published": "Fri, 14 Aug 2026 11:35:23 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
-      "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
-      "summary": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 11:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
-      "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
-      "summary": "The hackers published the allegedly stolen information, including names, addresses, email addresses, and phone numbers. The post 1.6 Million Likely Impacted by RingCentral Data Breach appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 10:24:03 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Threatpost",

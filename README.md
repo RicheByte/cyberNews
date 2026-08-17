@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-17 10:25 UTC |
+| 🕐 Last Updated | 2026-08-17 12:32 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`google cloud sets` • `vmware vcenter server` • `traffic relay nodes` • `40 000 impacted` • `twitter whistleblower complaint` • `key milestones targeted` • `global bank's defense` • `compromise internal components` • `678 000 individuals` • `public github repository`
+`40 000 impacted` • `turn edge devices` • `iam compliance requires` • `traffic relay nodes` • `default authentication client` • `twitter whistleblower complaint` • `execute arbitrary code` • `cvss scoring system` • `compromise internal components` • `turn one's television`
 
 ## 📄 Reports
 

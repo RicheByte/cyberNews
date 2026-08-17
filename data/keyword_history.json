@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2433,
+      "count": 2434,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1017,7 +1017,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1943,7 +1943,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 538,
+      "count": 539,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2046,7 +2046,8 @@
         "2026-07-29",
         "2026-07-30",
         "2026-07-31",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-17"
       ]
     },
     "model agnostic abstractions": {
@@ -2347,7 +2348,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 104,
+      "count": 105,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2370,7 +2371,8 @@
         "2026-08-02",
         "2026-08-03",
         "2026-08-12",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-08-17"
       ]
     },
     "cybercrime looks like": {
@@ -20344,7 +20346,7 @@
       ]
     },
     "public github repository": {
-      "count": 78,
+      "count": 79,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -22986,10 +22988,11 @@
       ]
     },
     "rated 10 0": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-07-13",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-17"
       ]
     },
     "productivity gains worth": {
@@ -23226,7 +23229,7 @@
       ]
     },
     "software almost triple": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23295,7 +23298,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24132,7 +24135,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24152,7 +24155,8 @@
         "2026-08-06",
         "2026-08-07",
         "2026-08-08",
-        "2026-08-12"
+        "2026-08-12",
+        "2026-08-17"
       ]
     },
     "ban residential proxies": {
@@ -24456,7 +24460,7 @@
       ]
     },
     "turn one's television": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27025,7 +27029,7 @@
       ]
     },
     "remained walled away": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27072,7 +27076,7 @@
       ]
     },
     "converge data security": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27089,7 +27093,7 @@
       ]
     },
     "traffic relay nodes": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-15",
         "2026-08-16",
@@ -27097,19 +27101,19 @@
       ]
     },
     "compromise internal components": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-17"
       ]
     },
     "40 000 impacted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-17"
       ]
     },
     "678 000 individuals": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-17"
       ]
@@ -27119,20 +27123,33 @@
       "dates": [
         "2026-08-17"
       ]
+    },
+    "turn edge devices": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "iam compliance requires": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "default authentication client": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "screen sharing component": {
+      "count": 1,
+      "dates": [
+        "2026-08-17"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-08 22:21",
-      "articles": 48,
-      "top_keywords": [
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "crypto theft attacks",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-08-09 01:15",
       "articles": 48,
@@ -28220,6 +28237,17 @@
         "traffic relay nodes",
         "40 000 impacted",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-17 12:32",
+      "articles": 48,
+      "top_keywords": [
+        "40 000 impacted",
+        "turn edge devices",
+        "iam compliance requires",
+        "traffic relay nodes",
+        "default authentication client"
       ]
     }
   ]

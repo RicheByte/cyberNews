@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-17 16:20",
+  "last_updated": "2026-08-17 18:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "680 000 impacted",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "40 000 impacted",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "turn edge devices",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "turn compromised devices",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "default authentication client",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2436
+      "mentions": 2437
     },
     {
       "keyword": "rated 10 0",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "execute arbitrary code",
-      "mentions": 140
+      "mentions": 141
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 107
+      "mentions": 108
     },
     {
       "keyword": "130 companies tangled",
-      "mentions": 427
+      "mentions": 428
     }
   ],
   "articles": [
@@ -143,7 +143,7 @@
       "source": "The Hacker News",
       "title": "Apple macOS Screen Sharing Flaw Exploited on Internet-Exposed Macs to Install Monero Miner",
       "link": "https://thehackernews.com/2026/08/apple-macos-screen-sharing-flaw.html",
-      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
+      "summary": "A recently patched security flaw in Apple macOS has come under active exploitation in the wild to deploy a cryptocurrency miner, the Netherlands National Cyber Security Centre (NCSC-NL) has warned. The vulnerability in question is CVE-2026-65400 (CVSS score: 9.8), a critical authentication issue impacting the Screen Sharing component that could allow an attacker already on the network to",
       "published": "Sat, 15 Aug 2026 12:54:04 +0530",
       "value_score": 67,
       "value_signals": [

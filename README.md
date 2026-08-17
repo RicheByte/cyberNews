@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-17 12:32 UTC |
+| 🕐 Last Updated | 2026-08-17 14:25 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`40 000 impacted` • `turn edge devices` • `iam compliance requires` • `traffic relay nodes` • `default authentication client` • `twitter whistleblower complaint` • `execute arbitrary code` • `cvss scoring system` • `compromise internal components` • `turn one's television`
+`680 000 impacted` • `40 000 impacted` • `turn edge devices` • `default authentication client` • `twitter whistleblower complaint` • `turn one's television` • `rated 10 0` • `execute arbitrary code` • `cvss scoring system` • `130 companies tangled`
 
 ## 📄 Reports
 

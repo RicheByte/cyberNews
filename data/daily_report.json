@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-08-17 12:32",
+  "last_updated": "2026-08-17 14:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "680 000 impacted",
     "40 000 impacted",
     "turn edge devices",
-    "iam compliance requires",
-    "traffic relay nodes",
     "default authentication client",
     "twitter whistleblower complaint",
+    "turn one's television",
+    "rated 10 0",
     "execute arbitrary code",
     "cvss scoring system",
-    "compromise internal components",
-    "turn one's television",
-    "public github repository",
+    "130 companies tangled",
     "678 000 individuals",
+    "public github repository",
     "converge data security",
     "sprawling phishing campaign",
     "software giant fixed",
     "software almost triple",
+    "single control plane",
     "screen sharing component",
     "residential proxy node",
-    "remained walled away",
-    "rated 10 0"
+    "remained walled away"
   ],
   "trending": [
     {
+      "keyword": "680 000 impacted",
+      "mentions": 1
+    },
+    {
       "keyword": "40 000 impacted",
-      "mentions": 2
-    },
-    {
-      "keyword": "turn edge devices",
-      "mentions": 1
-    },
-    {
-      "keyword": "iam compliance requires",
-      "mentions": 1
-    },
-    {
-      "keyword": "traffic relay nodes",
-      "mentions": 24
-    },
-    {
-      "keyword": "default authentication client",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2434
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 138
-    },
-    {
-      "keyword": "cvss scoring system",
-      "mentions": 105
-    },
-    {
-      "keyword": "compromise internal components",
       "mentions": 3
     },
     {
+      "keyword": "turn edge devices",
+      "mentions": 2
+    },
+    {
+      "keyword": "default authentication client",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2435
+    },
+    {
       "keyword": "turn one's television",
-      "mentions": 100
+      "mentions": 101
+    },
+    {
+      "keyword": "rated 10 0",
+      "mentions": 7
+    },
+    {
+      "keyword": "execute arbitrary code",
+      "mentions": 139
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 106
+    },
+    {
+      "keyword": "130 companies tangled",
+      "mentions": 426
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html",
+      "summary": "The expensive attacks are not always the clever ones. This week had plenty of proof. Exposed services got hit, old bugs found fresh use, browser sessions became attack paths, and supply-chain problems kept spreading farther than the original compromise. A lot of it came down to access that was already there and defenses that assumed nobody would look too closely. So, nothing magical. Just a",
+      "published": "Mon, 17 Aug 2026 18:53:51 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "How MCP Servers Can Expose Enterprise Secrets",
@@ -152,11 +163,23 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "IAM Compliance Requirements and Best Practices",
-      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-      "summary": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
-      "published": "Fri, 14 Aug 2026 22:49:49 +0530",
+      "source": "BleepingComputer",
+      "title": "Certighost and the Privilege Hiding in Your Certificate Authority",
+      "link": "https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/",
+      "summary": "CVE-2026-54121 lets a standard domain user turn your Enterprise CA into a Domain Controller. The patch is the easy part. The lesson is standing privilege, implicit trust, and treating PKI as the Tier 0 identity infrastructure it has always been. [...]",
+      "published": "Mon, 17 Aug 2026 10:00:10 -0400",
+      "value_score": 36,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
+      "summary": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
+      "published": "Mon, 17 Aug 2026 08:33:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -224,26 +247,6 @@
       "published": "Sun, 16 Aug 2026 13:29:52 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New AmnesiaStealer macOS malware hijacks browser sessions via remote control",
-      "link": "https://www.bleepingcomputer.com/news/security/new-amnesiastealer-macos-malware-hijacks-browser-sessions-via-remote-control/",
-      "summary": "A new information-stealing malware called AmnesiaStealer, which targets macOS users via ClickFix attacks, includes a streaming module that allows the attacker to interactively control the victim's web browser. [...]",
-      "published": "Sun, 16 Aug 2026 11:07:44 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Evooo1Bot Linux botnet turns routers into traffic relay nodes",
-      "link": "https://www.bleepingcomputer.com/news/security/new-evooo1bot-linux-botnet-turns-routers-into-traffic-relay-nodes/",
-      "summary": "A new Mirai-based modular Linux botnet malware called Evooo1Bot has been targeting internet-facing gateway devices, turning them into SOCKS5 traffic relay nodes. [...]",
-      "published": "Sat, 15 Aug 2026 10:14:38 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "Botnet ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -408,6 +411,17 @@
     },
     {
       "source": "Security Week",
+      "title": "680,000 Impacted by French Tax Authority Data Breach",
+      "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
+      "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 17 Aug 2026 13:53:55 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Irregular Details How a Naming Error Let AI Models Attack a Real Company",
       "link": "https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/",
       "summary": "The AI security testing firm has shared information on a recently disclosed incident involving Anthropic AI models. The post Irregular Details How a Naming Error Let AI Models Attack a Real Company appeared first on SecurityWeek .",
@@ -475,15 +489,6 @@
       "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
       "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities appeared first on SecurityWeek .",
       "published": "Fri, 14 Aug 2026 11:57:51 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
-      "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
-      "summary": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 11:35:23 +0000",
       "value_score": 10,
       "value_signals": []
     },

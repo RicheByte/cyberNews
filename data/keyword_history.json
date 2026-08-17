@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2434,
+      "count": 2435,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1017,7 +1017,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1943,7 +1943,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 539,
+      "count": 540,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2348,7 +2348,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2643,7 +2643,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 425,
+      "count": 426,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -2703,7 +2703,8 @@
         "2026-08-06",
         "2026-08-07",
         "2026-08-12",
-        "2026-08-13"
+        "2026-08-13",
+        "2026-08-17"
       ]
     },
     "corporate data stolen": {
@@ -20346,7 +20347,7 @@
       ]
     },
     "public github repository": {
-      "count": 79,
+      "count": 80,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -22988,7 +22989,7 @@
       ]
     },
     "rated 10 0": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-07-13",
         "2026-08-12",
@@ -23229,7 +23230,7 @@
       ]
     },
     "software almost triple": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23298,7 +23299,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24135,7 +24136,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24460,7 +24461,7 @@
       ]
     },
     "turn one's television": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27021,15 +27022,16 @@
       ]
     },
     "single control plane": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-14",
         "2026-08-15",
-        "2026-08-16"
+        "2026-08-16",
+        "2026-08-17"
       ]
     },
     "remained walled away": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27076,7 +27078,7 @@
       ]
     },
     "converge data security": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27107,13 +27109,13 @@
       ]
     },
     "40 000 impacted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-17"
       ]
     },
     "678 000 individuals": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-17"
       ]
@@ -27125,7 +27127,7 @@
       ]
     },
     "turn edge devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-17"
       ]
@@ -27137,12 +27139,18 @@
       ]
     },
     "default authentication client": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-17"
       ]
     },
     "screen sharing component": {
+      "count": 2,
+      "dates": [
+        "2026-08-17"
+      ]
+    },
+    "680 000 impacted": {
       "count": 1,
       "dates": [
         "2026-08-17"
@@ -27150,17 +27158,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-09 01:15",
-      "articles": 48,
-      "top_keywords": [
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "crypto theft attacks",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-08-09 03:27",
       "articles": 48,
@@ -28248,6 +28245,17 @@
         "iam compliance requires",
         "traffic relay nodes",
         "default authentication client"
+      ]
+    },
+    {
+      "timestamp": "2026-08-17 14:25",
+      "articles": 48,
+      "top_keywords": [
+        "680 000 impacted",
+        "40 000 impacted",
+        "turn edge devices",
+        "default authentication client",
+        "twitter whistleblower complaint"
       ]
     }
   ]

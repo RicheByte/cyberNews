@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-18 08:28 UTC |
+| 🕐 Last Updated | 2026-08-18 10:21 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`680 000 impacted` • `40 000 impacted` • `turn compromised devices` • `microsoft azure infrastructure` • `twitter whistleblower complaint` • `execute arbitrary code` • `community edition ce` • `678 000 individuals` • `released security updates` • `turn one's television`
+`680 000 impacted` • `40 000 impacted` • `turn compromised devices` • `security safepal com` • `twitter whistleblower complaint` • `community edition ce` • `released security updates` • `turn one's television` • `claude agents leads` • `ai agents interact`
 
 ## 📄 Reports
 

@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-18 08:28",
+  "last_updated": "2026-08-18 10:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "680 000 impacted",
     "40 000 impacted",
     "turn compromised devices",
-    "microsoft azure infrastructure",
+    "security safepal com",
     "twitter whistleblower complaint",
-    "execute arbitrary code",
     "community edition ce",
-    "678 000 individuals",
     "released security updates",
     "turn one's television",
     "claude agents leads",
     "ai agents interact",
-    "delete public projects",
-    "130 companies tangled",
-    "critical security flaw",
     "software giant fixed",
     "software almost triple",
+    "microsoft azure infrastructure",
     "critical vulnerability impacting",
     "windows 11 24h2",
-    "sprawling phishing campaign"
+    "third party platform",
+    "text history records",
+    "reverse socks relays",
+    "residential proxy node",
+    "publicly detailed prior"
   ],
   "trending": [
     {
       "keyword": "680 000 impacted",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "40 000 impacted",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "turn compromised devices",
-      "mentions": 9
+      "mentions": 10
     },
     {
-      "keyword": "microsoft azure infrastructure",
-      "mentions": 7
+      "keyword": "security safepal com",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2444
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 148
+      "mentions": 2445
     },
     {
       "keyword": "community edition ce",
-      "mentions": 6
-    },
-    {
-      "keyword": "678 000 individuals",
-      "mentions": 12
+      "mentions": 7
     },
     {
       "keyword": "released security updates",
-      "mentions": 118
+      "mentions": 119
     },
     {
       "keyword": "turn one's television",
-      "mentions": 110
+      "mentions": 111
+    },
+    {
+      "keyword": "claude agents leads",
+      "mentions": 7
+    },
+    {
+      "keyword": "ai agents interact",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
+      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
+      "summary": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line \"[Important] Your SafePal Order",
+      "published": "Tue, 18 Aug 2026 14:40:45 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
@@ -149,17 +158,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Unisoc VoLTE Video Call Exploit Chain Can Give Attackers Full Android Kernel Access",
-      "link": "https://thehackernews.com/2026/08/unisoc-volte-video-call-exploit-chain.html",
-      "summary": "Security researchers at SSD Secure Disclosure have published a two-stage exploit chain that achieves full Android kernel access on devices running Unisoc modem firmware through a VoLTE video call, with no fix from the chipset maker. The advisory, published August 17, 2026, is the second stage of a chain that began in March 2026, when SSD disclosed remote code execution in the",
-      "published": "Mon, 17 Aug 2026 16:22:34 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "RCE",
-        "Patch/update",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft confirms outage affecting search in Microsoft 365 apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/",
+      "summary": "Microsoft says some users are experiencing issues searching in Microsoft 365 apps, including Outlook on the web, Outlook desktop, SharePoint Online, and OneDrive. [...]",
+      "published": "Tue, 18 Aug 2026 05:24:49 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -229,17 +234,6 @@
       "value_score": 46,
       "value_signals": [
         "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "French tax authority data breach affects 678,000 individuals",
-      "link": "https://www.bleepingcomputer.com/news/security/french-tax-authority-data-breach-affects-678-000-individuals/",
-      "summary": "The French Ministry of the Economy and Finance has disclosed a data breach after an attacker accessed the General Directorate of Public Finances (DGFiP) systems and stole data belonging to 678,000 individuals. [...]",
-      "published": "Mon, 17 Aug 2026 06:09:48 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {
@@ -405,6 +399,28 @@
     },
     {
       "source": "Security Week",
+      "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
+      "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
+      "summary": "Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform. The post Heights Finance Data Breach Impacts at Least 1.2 Million Individuals appeared first on SecurityWeek .",
+      "published": "Tue, 18 Aug 2026 09:18:34 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "GitLab Patches Critical Code Injection Vulnerability",
+      "link": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+      "summary": "The security defect allows unauthenticated attackers to modify or delete user data and public projects. The post GitLab Patches Critical Code Injection Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 18 Aug 2026 08:51:07 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
       "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
       "summary": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared first on SecurityWeek .",
@@ -466,28 +482,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure",
-      "link": "https://www.securityweek.com/critical-sap-commerce-cloud-vulnerability-exploited-3-days-after-disclosure/",
-      "summary": "The vulnerability tracked as CVE-2026-58231 can be exploited to execute arbitrary code and compromise internal components. The post Critical SAP Commerce Cloud Vulnerability Exploited 3 Days After Disclosure appeared first on SecurityWeek .",
-      "published": "Mon, 17 Aug 2026 08:13:07 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Fortune 500 Companies Hit in Azure Data Theft Campaign",
-      "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
-      "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek .",
-      "published": "Mon, 17 Aug 2026 06:51:08 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

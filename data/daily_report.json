@@ -1,72 +1,104 @@
 {
-  "last_updated": "2026-08-18 18:28",
+  "last_updated": "2026-08-18 20:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "third party platform",
-    "critical vulnerability impacting",
+    "security safepal com",
     "universal agent harness",
     "twitter whistleblower complaint",
-    "turn compromised devices",
+    "third party platform",
     "faster file explorer",
-    "community edition ce",
+    "career ending burnout",
     "windows 11 24h2",
-    "vulnerability discoveries aided",
-    "soaring vulnerability disclosures",
-    "security safepal com",
-    "released security updates",
-    "cve 2026 19478",
     "cve 2026 15748",
     "august 15 2026",
-    "software giant fixed",
-    "software almost triple",
+    "national security risk",
+    "home without cameras",
+    "witnessing malicious scanning",
+    "vulnerability discoveries aided",
+    "victim's copilot session",
     "upload executable files",
+    "undocumented url parameter",
     "turn one's television",
-    "self propagating payloads"
+    "turn compromised devices",
+    "software giant fixed",
+    "software almost triple"
   ],
   "trending": [
     {
-      "keyword": "third party platform",
-      "mentions": 5
-    },
-    {
-      "keyword": "critical vulnerability impacting",
+      "keyword": "security safepal com",
       "mentions": 6
     },
     {
       "keyword": "universal agent harness",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2449
+      "mentions": 2450
     },
     {
-      "keyword": "turn compromised devices",
-      "mentions": 14
+      "keyword": "third party platform",
+      "mentions": 6
     },
     {
       "keyword": "faster file explorer",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "community edition ce",
-      "mentions": 11
+      "keyword": "career ending burnout",
+      "mentions": 1
     },
     {
       "keyword": "windows 11 24h2",
-      "mentions": 46
+      "mentions": 47
     },
     {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 114
+      "keyword": "cve 2026 15748",
+      "mentions": 4
     },
     {
-      "keyword": "soaring vulnerability disclosures",
-      "mentions": 3
+      "keyword": "august 15 2026",
+      "mentions": 4
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 372
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
+      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
+      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
+      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
+      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
+      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
+      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
+      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
+      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×4"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
@@ -113,42 +145,13 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
-      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than",
-      "published": "Tue, 18 Aug 2026 12:04:20 +0530",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE",
-        "CISA/KEV ×4",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
-      "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
-      "summary": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
-      "published": "Tue, 18 Aug 2026 02:33:04 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×3"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection",
-      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html",
-      "summary": "Cybersecurity researchers at Wiz have disclosed a new GitHub Actions workflow injection vulnerability in Snowflake's public snowflakedb/snowflake-connector-net repository that it said could be exploited through a crafted GitHub issue to execute commands in a workflow containing internal Jira credentials. The issue was present in .github/workflows/jira_issue.yml, which ran when a",
-      "published": "Tue, 18 Aug 2026 00:14:17 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
+      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
+      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
+      "published": "Tue, 18 Aug 2026 16:14:58 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -219,17 +222,6 @@
       "published": "Mon, 17 Aug 2026 15:35:01 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Pokémon Center data breach exposes customer info, cancels some orders",
-      "link": "https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/",
-      "summary": "Pokémon Center is notifying customers in the United Kingdom and Germany that it suffered a third-party data breach after hackers stole customer personal and order information from third-party logistics provider CEVA Logistics. [...]",
-      "published": "Mon, 17 Aug 2026 15:12:39 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -315,10 +307,10 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
+      "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
+      "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
+      "published": "Tue, 18 Aug 2026 18:32:01 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -332,6 +324,15 @@
       "value_signals": [
         "Ransomware ×2"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -382,15 +383,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
       "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
       "published": "Fri, 14 Aug 2026 19:24:18 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai",
-      "summary": "Driven by AI-augmented research and scanning, vulnerability volumes continue to surge, driving the National Institute of Standards and Technology to ask whether AI could be the answer.",
-      "published": "Fri, 14 Aug 2026 17:32:46 GMT",
       "value_score": 10,
       "value_signals": []
     },

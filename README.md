@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-18 18:28 UTC |
+| 🕐 Last Updated | 2026-08-18 20:16 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`third party platform` • `critical vulnerability impacting` • `universal agent harness` • `twitter whistleblower complaint` • `turn compromised devices` • `faster file explorer` • `community edition ce` • `windows 11 24h2` • `vulnerability discoveries aided` • `soaring vulnerability disclosures`
+`security safepal com` • `universal agent harness` • `twitter whistleblower complaint` • `third party platform` • `faster file explorer` • `career ending burnout` • `windows 11 24h2` • `cve 2026 15748` • `august 15 2026` • `national security risk`
 
 ## 📄 Reports
 

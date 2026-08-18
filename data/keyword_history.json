@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2449,
+      "count": 2450,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1208,7 +1208,7 @@
       ]
     },
     "national security risk": {
-      "count": 371,
+      "count": 372,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1277,7 +1277,8 @@
         "2026-08-09",
         "2026-08-10",
         "2026-08-13",
-        "2026-08-14"
+        "2026-08-14",
+        "2026-08-18"
       ]
     },
     "open source millions": {
@@ -12210,7 +12211,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -23239,7 +23240,7 @@
       ]
     },
     "software almost triple": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23309,7 +23310,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23690,7 +23691,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24474,7 +24475,7 @@
       ]
     },
     "turn one's television": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27178,7 +27179,7 @@
       ]
     },
     "turn compromised devices": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-17",
         "2026-08-18"
@@ -27226,13 +27227,13 @@
       ]
     },
     "security safepal com": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-18"
       ]
     },
     "third party platform": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-18"
       ]
@@ -27244,13 +27245,13 @@
       ]
     },
     "universal agent harness": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
     },
     "upload executable files": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
@@ -27262,7 +27263,7 @@
       ]
     },
     "faster file explorer": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-18"
       ]
@@ -27280,13 +27281,13 @@
       ]
     },
     "cve 2026 15748": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-18"
       ]
     },
     "august 15 2026": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-18"
       ]
@@ -27302,20 +27303,39 @@
       "dates": [
         "2026-08-18"
       ]
+    },
+    "career ending burnout": {
+      "count": 1,
+      "dates": [
+        "2026-08-18"
+      ]
+    },
+    "home without cameras": {
+      "count": 1,
+      "dates": [
+        "2026-08-18"
+      ]
+    },
+    "witnessing malicious scanning": {
+      "count": 1,
+      "dates": [
+        "2026-08-18"
+      ]
+    },
+    "victim's copilot session": {
+      "count": 1,
+      "dates": [
+        "2026-08-18"
+      ]
+    },
+    "undocumented url parameter": {
+      "count": 1,
+      "dates": [
+        "2026-08-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-10 07:20",
-      "articles": 48,
-      "top_keywords": [
-        "critical flaws discovered",
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "2 million people"
-      ]
-    },
     {
       "timestamp": "2026-08-10 09:12",
       "articles": 48,
@@ -28403,6 +28423,17 @@
         "universal agent harness",
         "twitter whistleblower complaint",
         "turn compromised devices"
+      ]
+    },
+    {
+      "timestamp": "2026-08-18 20:16",
+      "articles": 48,
+      "top_keywords": [
+        "security safepal com",
+        "universal agent harness",
+        "twitter whistleblower complaint",
+        "third party platform",
+        "faster file explorer"
       ]
     }
   ]

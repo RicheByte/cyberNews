@@ -1,12 +1,11 @@
 {
-  "last_updated": "2026-08-18 16:23",
+  "last_updated": "2026-08-18 18:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "third party platform",
     "critical vulnerability impacting",
     "universal agent harness",
-    "upload executable files",
     "twitter whistleblower complaint",
     "turn compromised devices",
     "faster file explorer",
@@ -14,56 +13,57 @@
     "windows 11 24h2",
     "vulnerability discoveries aided",
     "soaring vulnerability disclosures",
+    "security safepal com",
+    "released security updates",
     "cve 2026 19478",
     "cve 2026 15748",
     "august 15 2026",
-    "security safepal com",
-    "security expert talks",
-    "released security updates",
     "software giant fixed",
     "software almost triple",
-    "turn one's television"
+    "upload executable files",
+    "turn one's television",
+    "self propagating payloads"
   ],
   "trending": [
     {
       "keyword": "third party platform",
-      "mentions": 4
-    },
-    {
-      "keyword": "critical vulnerability impacting",
       "mentions": 5
     },
     {
-      "keyword": "universal agent harness",
-      "mentions": 3
+      "keyword": "critical vulnerability impacting",
+      "mentions": 6
     },
     {
-      "keyword": "upload executable files",
-      "mentions": 3
+      "keyword": "universal agent harness",
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2448
+      "mentions": 2449
     },
     {
       "keyword": "turn compromised devices",
-      "mentions": 13
+      "mentions": 14
     },
     {
       "keyword": "faster file explorer",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "community edition ce",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "windows 11 24h2",
-      "mentions": 45
+      "mentions": 46
     },
     {
       "keyword": "vulnerability discoveries aided",
-      "mentions": 113
+      "mentions": 114
+    },
+    {
+      "keyword": "soaring vulnerability disclosures",
+      "mentions": 3
     }
   ],
   "articles": [
@@ -152,6 +152,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Clop created custom web shell for Windchill data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
+      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
+      "published": "Tue, 18 Aug 2026 13:29:51 -0400",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Your Controls Block Known Attacks. What About the Behavior?",
       "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
       "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
@@ -219,15 +230,6 @@
       "value_signals": [
         "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft confirms GitHub is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/",
-      "summary": "GitHub is down for some users as a widespread outage is causing errors across the website, API, Actions, Pull Requests, and several other services. [...]",
-      "published": "Mon, 17 Aug 2026 10:47:08 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +315,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -321,15 +332,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -353,9 +355,9 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B",
+      "title": "Hugging Face Breach Raises Big Questions About AI Security Controls",
       "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-      "summary": "The security expert talks with the Dark Reading News Desk about why he \"blown away\" by OpenAI's revelations regarding the Hugging Face attack, and also discussed his new threat model for LLMs.",
+      "summary": "Adam Shostack, president of Shostack & Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was \"blown away\" by OpenAI's revelations regarding the Hugging Face attack.",
       "published": "Mon, 17 Aug 2026 19:22:56 GMT",
       "value_score": 22,
       "value_signals": [

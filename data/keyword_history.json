@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2448,
+      "count": 2449,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -4207,7 +4207,7 @@
       ]
     },
     "released security updates": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -12210,7 +12210,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -23239,7 +23239,7 @@
       ]
     },
     "software almost triple": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23309,7 +23309,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 122,
+      "count": 123,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23690,7 +23690,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24474,7 +24474,7 @@
       ]
     },
     "turn one's television": {
-      "count": 113,
+      "count": 114,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27178,7 +27178,7 @@
       ]
     },
     "turn compromised devices": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-17",
         "2026-08-18"
@@ -27192,7 +27192,7 @@
       ]
     },
     "community edition ce": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-17",
         "2026-08-18"
@@ -27220,19 +27220,19 @@
       ]
     },
     "critical vulnerability impacting": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-18"
       ]
     },
     "security safepal com": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
     },
     "third party platform": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
@@ -27244,13 +27244,13 @@
       ]
     },
     "universal agent harness": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-18"
       ]
     },
     "upload executable files": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-18"
       ]
@@ -27262,31 +27262,31 @@
       ]
     },
     "faster file explorer": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-18"
       ]
     },
     "soaring vulnerability disclosures": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-18"
       ]
     },
     "cve 2026 19478": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-18"
       ]
     },
     "cve 2026 15748": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-18"
       ]
     },
     "august 15 2026": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-18"
       ]
@@ -27296,20 +27296,15 @@
       "dates": [
         "2026-08-18"
       ]
+    },
+    "self propagating payloads": {
+      "count": 1,
+      "dates": [
+        "2026-08-18"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-10 05:20",
-      "articles": 48,
-      "top_keywords": [
-        "critical flaws discovered",
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "2 million people"
-      ]
-    },
     {
       "timestamp": "2026-08-10 07:20",
       "articles": 48,
@@ -28397,6 +28392,17 @@
         "universal agent harness",
         "upload executable files",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-18 18:28",
+      "articles": 48,
+      "top_keywords": [
+        "third party platform",
+        "critical vulnerability impacting",
+        "universal agent harness",
+        "twitter whistleblower complaint",
+        "turn compromised devices"
       ]
     }
   ]

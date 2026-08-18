@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2443,
+      "count": 2444,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1018,7 +1018,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1166,7 +1166,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1194,7 +1194,8 @@
         "2026-04-12",
         "2026-04-13",
         "2026-07-01",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-18"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1946,7 +1947,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 548,
+      "count": 549,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2647,7 +2648,7 @@
       ]
     },
     "130 companies tangled": {
-      "count": 434,
+      "count": 435,
       "dates": [
         "2026-01-05",
         "2026-01-09",
@@ -4206,7 +4207,7 @@
       ]
     },
     "released security updates": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-01-15",
         "2026-01-21",
@@ -12209,7 +12210,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -12218,7 +12219,8 @@
         "2026-06-23",
         "2026-06-24",
         "2026-07-29",
-        "2026-07-30"
+        "2026-07-30",
+        "2026-08-18"
       ]
     },
     "amazon cloud infrastructure": {
@@ -23237,7 +23239,7 @@
       ]
     },
     "software almost triple": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23307,7 +23309,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24471,7 +24473,7 @@
       ]
     },
     "turn one's television": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27122,14 +27124,14 @@
       ]
     },
     "40 000 impacted": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "678 000 individuals": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-17",
         "2026-08-18"
@@ -27167,67 +27169,62 @@
       ]
     },
     "680 000 impacted": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "turn compromised devices": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "microsoft azure infrastructure": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "community edition ce": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "claude agents leads": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "ai agents interact": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-17",
         "2026-08-18"
       ]
     },
     "delete public projects": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-17",
+        "2026-08-18"
+      ]
+    },
+    "critical vulnerability impacting": {
+      "count": 1,
+      "dates": [
         "2026-08-18"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-09 18:31",
-      "articles": 48,
-      "top_keywords": [
-        "levi strauss co",
-        "outpacing law enforcement",
-        "black hat conference",
-        "crypto theft attacks",
-        "national security risk"
-      ]
-    },
     {
       "timestamp": "2026-08-09 20:24",
       "articles": 48,
@@ -28315,6 +28312,17 @@
         "turn edge devices",
         "turn compromised devices",
         "microsoft azure infrastructure"
+      ]
+    },
+    {
+      "timestamp": "2026-08-18 08:28",
+      "articles": 48,
+      "top_keywords": [
+        "680 000 impacted",
+        "40 000 impacted",
+        "turn compromised devices",
+        "microsoft azure infrastructure",
+        "twitter whistleblower complaint"
       ]
     }
   ]

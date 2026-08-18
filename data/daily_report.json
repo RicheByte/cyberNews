@@ -1,72 +1,87 @@
 {
-  "last_updated": "2026-08-18 06:32",
+  "last_updated": "2026-08-18 08:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "680 000 impacted",
     "40 000 impacted",
-    "turn edge devices",
     "turn compromised devices",
     "microsoft azure infrastructure",
-    "execute arbitrary code",
     "twitter whistleblower complaint",
+    "execute arbitrary code",
     "community edition ce",
     "678 000 individuals",
-    "turn one's television",
     "released security updates",
+    "turn one's television",
     "claude agents leads",
     "ai agents interact",
     "delete public projects",
     "130 companies tangled",
+    "critical security flaw",
     "software giant fixed",
     "software almost triple",
-    "sprawling phishing campaign",
-    "residential proxy node",
-    "publicly detailed prior"
+    "critical vulnerability impacting",
+    "windows 11 24h2",
+    "sprawling phishing campaign"
   ],
   "trending": [
     {
       "keyword": "680 000 impacted",
-      "mentions": 9
-    },
-    {
-      "keyword": "40 000 impacted",
-      "mentions": 11
-    },
-    {
-      "keyword": "turn edge devices",
       "mentions": 10
     },
     {
+      "keyword": "40 000 impacted",
+      "mentions": 12
+    },
+    {
       "keyword": "turn compromised devices",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "microsoft azure infrastructure",
-      "mentions": 6
-    },
-    {
-      "keyword": "execute arbitrary code",
-      "mentions": 147
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2443
+      "mentions": 2444
+    },
+    {
+      "keyword": "execute arbitrary code",
+      "mentions": 148
     },
     {
       "keyword": "community edition ce",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "678 000 individuals",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "released security updates",
+      "mentions": 118
     },
     {
       "keyword": "turn one's television",
-      "mentions": 109
+      "mentions": 110
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
+      "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than",
+      "published": "Tue, 18 Aug 2026 12:04:20 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation",
+        "RCE",
+        "CISA/KEV ×4",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
@@ -147,16 +162,13 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "summary": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
-      "published": "Mon, 17 Aug 2026 14:59:55 +0530",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×3",
-        "Exploit wording"
-      ]
+      "source": "BleepingComputer",
+      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
+      "summary": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
+      "published": "Tue, 18 Aug 2026 04:12:08 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -228,19 +240,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft working on Defender patch for ShieldBreak zero-day",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-working-on-defender-patch-for-shieldbreak-zero-day/",
-      "summary": "Microsoft is working on a security patch for the \"ShieldBreak\" zero-day vulnerability disclosed last week by security researcher \"Nightmare Eclipse\" and now tracked as CVE-2026-69414. [...]",
-      "published": "Mon, 17 Aug 2026 05:05:33 -0400",
-      "value_score": 94,
-      "value_signals": [
-        "CVE mentioned",
-        "Zero-day ×2",
-        "Patch/update ×2"
       ]
     },
     {
@@ -406,6 +405,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
+      "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
+      "summary": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared first on SecurityWeek .",
+      "published": "Tue, 18 Aug 2026 06:46:22 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Breach/leak",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "680,000 Impacted by French Tax Authority Data Breach",
       "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
       "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
@@ -475,15 +486,6 @@
       "link": "https://www.securityweek.com/fortune-500-companies-hit-in-azure-data-theft-campaign/",
       "summary": "A threat actor is claiming the exfiltration of millions of records from McDonald’s, TCS, Vodafone, and other large organizations. The post Fortune 500 Companies Hit in Azure Data Theft Campaign appeared first on SecurityWeek .",
       "published": "Mon, 17 Aug 2026 06:51:08 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
-      "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
-      "summary": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 14 Aug 2026 11:57:51 +0000",
       "value_score": 10,
       "value_signals": []
     },

@@ -1,10 +1,9 @@
 {
-  "last_updated": "2026-08-18 14:26",
+  "last_updated": "2026-08-18 16:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "third party platform",
-    "680 000 impacted",
     "critical vulnerability impacting",
     "universal agent harness",
     "upload executable files",
@@ -22,48 +21,49 @@
     "security expert talks",
     "released security updates",
     "software giant fixed",
-    "software almost triple"
+    "software almost triple",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "third party platform",
-      "mentions": 3
-    },
-    {
-      "keyword": "680 000 impacted",
-      "mentions": 13
-    },
-    {
-      "keyword": "critical vulnerability impacting",
       "mentions": 4
     },
     {
+      "keyword": "critical vulnerability impacting",
+      "mentions": 5
+    },
+    {
       "keyword": "universal agent harness",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "upload executable files",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2447
+      "mentions": 2448
     },
     {
       "keyword": "turn compromised devices",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "faster file explorer",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "community edition ce",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "windows 11 24h2",
-      "mentions": 44
+      "mentions": 45
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 113
     }
   ],
   "articles": [
@@ -394,6 +394,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
+      "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
+      "summary": "Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. The post Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks appeared first on SecurityWeek .",
+      "published": "Tue, 18 Aug 2026 15:03:30 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW",
+      "link": "https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/",
+      "summary": "With no formal training and no career plan, Waisman built a path from Argentina's early hacking scene to leading security at an AI-powered offensive security firm. The post CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW appeared first on SecurityWeek .",
+      "published": "Tue, 18 Aug 2026 14:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
       "link": "https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/",
       "summary": "Rapid7 warns that traditional patch cycles cannot keep pace with soaring vulnerability disclosures and faster exploitation, forcing defenders to prioritize exposure over severity scores. The post AI-Driven Vulnerability Surge Breaks the Traditional Patching Model appeared first on SecurityWeek .",
@@ -453,29 +471,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates",
-      "link": "https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/",
-      "summary": "The bugs could be exploited to crash Safari, corrupt memory, leak sensitive data, escape the sandbox, and exfiltrate data. The post Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates appeared first on SecurityWeek .",
-      "published": "Tue, 18 Aug 2026 06:46:22 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Breach/leak",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "680,000 Impacted by French Tax Authority Data Breach",
-      "link": "https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/",
-      "summary": "Hackers used compromised credentials to access enterprise and personal tax-related data. The post 680,000 Impacted by French Tax Authority Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 17 Aug 2026 13:53:55 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

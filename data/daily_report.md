@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-18 14:26 UTC  
+> **Last Updated:** 2026-08-18 16:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**third party platform** • **680 000 impacted** • **critical vulnerability impacting** • **universal agent harness** • **upload executable files** • **twitter whistleblower complaint** • **turn compromised devices** • **faster file explorer** • **community edition ce** • **windows 11 24h2** • **vulnerability discoveries aided** • **soaring vulnerability disclosures** • **cve 2026 19478** • **cve 2026 15748** • **august 15 2026** • **security safepal com** • **security expert talks** • **released security updates** • **software giant fixed** • **software almost triple**
+**third party platform** • **critical vulnerability impacting** • **universal agent harness** • **upload executable files** • **twitter whistleblower complaint** • **turn compromised devices** • **faster file explorer** • **community edition ce** • **windows 11 24h2** • **vulnerability discoveries aided** • **soaring vulnerability disclosures** • **cve 2026 19478** • **cve 2026 15748** • **august 15 2026** • **security safepal com** • **security expert talks** • **released security updates** • **software giant fixed** • **software almost triple** • **turn one's television**
 
 ---
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks](https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/)
+- [CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW](https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/)
 - [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
 - [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
 - [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
 - [300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw](https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/)
 - [Heights Finance Data Breach Impacts at Least 1.2 Million Individuals](https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/)
 - [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
-- [Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates](https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/)
-- [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
 
 ### Threatpost
 

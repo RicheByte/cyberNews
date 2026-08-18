@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-18 12:34 UTC |
+| 🕐 Last Updated | 2026-08-18 14:26 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`680 000 impacted` • `turn compromised devices` • `universal agent harness` • `twitter whistleblower complaint` • `third party platform` • `critical vulnerability impacting` • `community edition ce` • `released security updates` • `windows 11 24h2` • `turn one's television`
+`third party platform` • `680 000 impacted` • `critical vulnerability impacting` • `universal agent harness` • `upload executable files` • `twitter whistleblower complaint` • `turn compromised devices` • `faster file explorer` • `community edition ce` • `windows 11 24h2`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-18 12:34 UTC  
+> **Last Updated:** 2026-08-18 14:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**680 000 impacted** • **turn compromised devices** • **universal agent harness** • **twitter whistleblower complaint** • **third party platform** • **critical vulnerability impacting** • **community edition ce** • **released security updates** • **windows 11 24h2** • **turn one's television** • **security safepal com** • **critical security flaw** • **software giant fixed** • **software almost triple** • **vulnerability discoveries aided** • **upload executable files** • **securely renders interfaces** • **reverse socks relays** • **residential proxy node** • **publicly detailed prior**
+**third party platform** • **680 000 impacted** • **critical vulnerability impacting** • **universal agent harness** • **upload executable files** • **twitter whistleblower complaint** • **turn compromised devices** • **faster file explorer** • **community edition ce** • **windows 11 24h2** • **vulnerability discoveries aided** • **soaring vulnerability disclosures** • **cve 2026 19478** • **cve 2026 15748** • **august 15 2026** • **security safepal com** • **security expert talks** • **released security updates** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
-- [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
+- [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
+- [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
 - [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
+- [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
 - [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
 - [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
 - [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
 - [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
-- [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
-- [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
 
 ### BleepingComputer
 
+- [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 - [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
 - [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
 - [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
@@ -34,7 +35,6 @@
 - [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
 - [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 - [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
-- [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
 
 ### Krebs on Security
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
+- [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
 - [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
 - ['Turf War' Between Claude Agents Leads to Self-Replicating Malware](https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware)
-- [Adam Shostack Talks Hugging Face &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
+- [Adam Shostack Talks Hugging Face Breach &amp; PHANTOM-B](https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b)
 - [Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS](https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos)
 - [Mission-Driven Security: Inside a Global Bank's Defense](https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense)
 - [Amid AI-Driven Bug-Hunt Tsunami, NIST Looks to … AI](https://www.darkreading.com/vulnerabilities-threats/ai-driven-bug-tsunami-nist-looks-to-ai)
-- [Scottish Govt Suffers Potentially Widening Data Breach at Prosecutor's Office](https://www.darkreading.com/cyberattacks-data-breaches/scottish-govt-data-breach-prosecutors-office)
-- [What Boards Need to Know About Tech Risk](https://www.darkreading.com/cyber-risk/what-boards-must-know-tech-risk)
 
 ### Security Week
 
+- [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
 - [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
 - [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
 - [300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw](https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/)
@@ -67,7 +68,6 @@
 - [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
 - [Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates](https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/)
 - [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
-- [Irregular Details How a Naming Error Let AI Models Attack a Real Company](https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/)
 
 ### Threatpost
 

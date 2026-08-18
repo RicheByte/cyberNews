@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-18 10:21 UTC  
+> **Last Updated:** 2026-08-18 12:34 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**680 000 impacted** • **40 000 impacted** • **turn compromised devices** • **security safepal com** • **twitter whistleblower complaint** • **community edition ce** • **released security updates** • **turn one's television** • **claude agents leads** • **ai agents interact** • **software giant fixed** • **software almost triple** • **microsoft azure infrastructure** • **critical vulnerability impacting** • **windows 11 24h2** • **third party platform** • **text history records** • **reverse socks relays** • **residential proxy node** • **publicly detailed prior**
+**680 000 impacted** • **turn compromised devices** • **universal agent harness** • **twitter whistleblower complaint** • **third party platform** • **critical vulnerability impacting** • **community edition ce** • **released security updates** • **windows 11 24h2** • **turn one's television** • **security safepal com** • **critical security flaw** • **software giant fixed** • **software almost triple** • **vulnerability discoveries aided** • **upload executable files** • **securely renders interfaces** • **reverse socks relays** • **residential proxy node** • **publicly detailed prior**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets](https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html)
+- [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
 - [SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers](https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html)
 - [CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE](https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html)
 - [Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects](https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html)
 - [Snowflake GitHub Actions Flaw Lets Crafted Issues Trigger Command Injection](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets_0330881554.html)
 - [Forminator WordPress Flaw Can Enable Unauthenticated RCE via Malicious PHP Uploads](https://thehackernews.com/2026/08/forminator-wordpress-flaw-can-enable.html)
 - [Cavern C2 Uses DNS and Google Apps Script to Blend Into Legitimate Traffic](https://thehackernews.com/2026/08/cavern-c2-uses-dns-and-google-apps.html)
-- [⚡ Weekly Recap: VMware Exploits, Windows 0-Day, MCP Attacks, Browser Hijacks and More](https://thehackernews.com/2026/08/weekly-recap-vmware-exploits-windows-0.html)
-- [How MCP Servers Can Expose Enterprise Secrets](https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html)
 
 ### BleepingComputer
 
+- [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
+- [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
 - [Microsoft confirms outage affecting search in Microsoft 365 apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-bug-behind-microsoft-365-search-issues/)
 - [Microsoft starts removing WMIC tool used by cybercriminals](https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/)
 - [Hacker claims 3.6 million Azure account records stolen from major companies](https://www.bleepingcomputer.com/news/security/hacker-claims-36-million-azure-account-records-stolen-from-major-companies/)
 - [Pokémon Center data breach exposes customer info, cancels some orders](https://www.bleepingcomputer.com/news/security/pokemon-center-data-breach-exposes-customer-info-cancels-some-orders/)
 - [Microsoft confirms GitHub is down worldwide](https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-github-is-down-worldwide/)
 - [Certighost and the Privilege Hiding in Your Certificate Authority](https://www.bleepingcomputer.com/news/security/certighost-and-the-privilege-hiding-in-your-certificate-authority/)
-- [Windows Server 2022 reaches end of mainstream support in 60 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/)
-- [Philips and GE investigating Clop ransomware data theft claims](https://www.bleepingcomputer.com/news/security/philips-and-ge-investigating-clop-ransomware-data-theft-claims/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
+- [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
+- [300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw](https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/)
 - [Heights Finance Data Breach Impacts at Least 1.2 Million Individuals](https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/)
 - [GitLab Patches Critical Code Injection Vulnerability](https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/)
 - [Dozens of WebKit Vulnerabilities Patched With Fresh macOS, iOS Security Updates](https://www.securityweek.com/dozens-of-webkit-vulnerabilities-patched-with-fresh-macos-ios-security-updates/)
 - [680,000 Impacted by French Tax Authority Data Breach](https://www.securityweek.com/680000-impacted-by-french-tax-authority-data-breach/)
 - [Irregular Details How a Naming Error Let AI Models Attack a Real Company](https://www.securityweek.com/irregular-details-how-a-naming-error-let-ai-models-attack-a-real-company/)
-- [Conflicting Test Goals Pushed Claude Agents to Deploy Self-Replicating Malware](https://www.securityweek.com/conflicting-test-goals-pushed-claude-agents-to-deploy-self-replicating-malware/)
-- [40,000 Impacted by SafePal Data Breach](https://www.securityweek.com/40000-impacted-by-safepal-data-breach/)
-- [Recent macOS Screen Sharing Vulnerability Exploited in Attacks](https://www.securityweek.com/recent-macos-screen-sharing-vulnerability-exploited-in-attacks/)
 
 ### Threatpost
 

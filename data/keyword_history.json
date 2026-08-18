@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2450,
+      "count": 2451,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1208,7 +1208,7 @@
       ]
     },
     "national security risk": {
-      "count": 372,
+      "count": 373,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12211,7 +12211,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -23310,7 +23310,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23691,7 +23691,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24475,7 +24475,7 @@
       ]
     },
     "turn one's television": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27227,13 +27227,13 @@
       ]
     },
     "security safepal com": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18"
       ]
     },
     "third party platform": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18"
       ]
@@ -27245,13 +27245,13 @@
       ]
     },
     "universal agent harness": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-18"
       ]
     },
     "upload executable files": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-18"
       ]
@@ -27263,7 +27263,7 @@
       ]
     },
     "faster file explorer": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
@@ -27275,19 +27275,19 @@
       ]
     },
     "cve 2026 19478": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-18"
       ]
     },
     "cve 2026 15748": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
     },
     "august 15 2026": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-18"
       ]
@@ -27305,30 +27305,36 @@
       ]
     },
     "career ending burnout": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-18"
       ]
     },
     "home without cameras": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-18"
       ]
     },
     "witnessing malicious scanning": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-18"
       ]
     },
     "victim's copilot session": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-18"
       ]
     },
     "undocumented url parameter": {
+      "count": 2,
+      "dates": [
+        "2026-08-18"
+      ]
+    },
+    "technical report shared": {
       "count": 1,
       "dates": [
         "2026-08-18"
@@ -27336,17 +27342,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-10 09:12",
-      "articles": 48,
-      "top_keywords": [
-        "critical flaws discovered",
-        "levi strauss co",
-        "corporate data stolen",
-        "outpacing law enforcement",
-        "black hat conference"
-      ]
-    },
     {
       "timestamp": "2026-08-10 11:02",
       "articles": 48,
@@ -28434,6 +28429,17 @@
         "twitter whistleblower complaint",
         "third party platform",
         "faster file explorer"
+      ]
+    },
+    {
+      "timestamp": "2026-08-18 22:16",
+      "articles": 48,
+      "top_keywords": [
+        "universal agent harness",
+        "security safepal com",
+        "twitter whistleblower complaint",
+        "third party platform",
+        "technical report shared"
       ]
     }
   ]

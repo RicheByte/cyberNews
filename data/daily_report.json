@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-18 20:16",
+  "last_updated": "2026-08-18 22:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "security safepal com",
     "universal agent harness",
+    "security safepal com",
     "twitter whistleblower complaint",
     "third party platform",
+    "technical report shared",
     "faster file explorer",
     "career ending burnout",
     "windows 11 24h2",
+    "victim's copilot session",
+    "cve 2026 19478",
     "cve 2026 15748",
     "august 15 2026",
-    "national security risk",
     "home without cameras",
+    "national security risk",
     "witnessing malicious scanning",
     "vulnerability discoveries aided",
-    "victim's copilot session",
     "upload executable files",
     "undocumented url parameter",
     "turn one's television",
-    "turn compromised devices",
-    "software giant fixed",
-    "software almost triple"
+    "software giant fixed"
   ],
   "trending": [
     {
-      "keyword": "security safepal com",
+      "keyword": "universal agent harness",
       "mentions": 6
     },
     {
-      "keyword": "universal agent harness",
-      "mentions": 5
+      "keyword": "security safepal com",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2450
+      "mentions": 2451
     },
     {
       "keyword": "third party platform",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "faster file explorer",
-      "mentions": 4
-    },
-    {
-      "keyword": "career ending burnout",
+      "keyword": "technical report shared",
       "mentions": 1
     },
     {
+      "keyword": "faster file explorer",
+      "mentions": 5
+    },
+    {
+      "keyword": "career ending burnout",
+      "mentions": 2
+    },
+    {
       "keyword": "windows 11 24h2",
-      "mentions": 47
+      "mentions": 48
     },
     {
-      "keyword": "cve 2026 15748",
+      "keyword": "victim's copilot session",
+      "mentions": 2
+    },
+    {
+      "keyword": "cve 2026 19478",
       "mentions": 4
-    },
-    {
-      "keyword": "august 15 2026",
-      "mentions": 4
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 372
     }
   ],
   "articles": [
@@ -307,6 +307,28 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
+      "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
+      "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
+      "published": "Tue, 18 Aug 2026 21:25:58 GMT",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
+      "summary": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses.",
+      "published": "Tue, 18 Aug 2026 20:17:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
       "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
       "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
@@ -364,27 +386,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Linux Botnet Evooo1Bot Expands Mirai Capabilities Well Beyond DDoS",
-      "link": "https://www.darkreading.com/cyber-risk/linux-botnet-evooo1bot-mirai-capabilities-beyond-ddos",
-      "summary": "The botnet adds exploitation modules, credential theft, and reverse SOCKS relays to turn compromised devices into persistent attacker infrastructure.",
-      "published": "Mon, 17 Aug 2026 15:44:34 GMT",
-      "value_score": 36,
-      "value_signals": [
-        "Botnet ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Mission-Driven Security: Inside a Global Bank's Defense",
-      "link": "https://www.darkreading.com/cybersecurity-operations/mission-driven-security-inside-global-bank-defense",
-      "summary": "In this video interview, Standard Chartered's group CISO shares insights on transitioning from technical roles to strategic leadership, the importance of business-savvy security executives, and how AI is reshaping both defensive capabilities and adversarial tactics in banking.",
-      "published": "Fri, 14 Aug 2026 19:24:18 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-19 06:34 UTC |
+| 🕐 Last Updated | 2026-08-19 08:29 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`universal agent harness` • `security safepal com` • `twitter whistleblower complaint` • `third party platform` • `technical report shared` • `faster file explorer` • `career ending burnout` • `windows 11 24h2` • `victim's copilot session` • `cve 2026 19478`
+`universal agent harness` • `twitter whistleblower complaint` • `technical report shared` • `faster file explorer` • `career ending burnout` • `windows 11 24h2` • `victim's copilot session` • `cve 2026 19478` • `cve 2026 15748` • `august 15 2026`
 
 ## 📄 Reports
 

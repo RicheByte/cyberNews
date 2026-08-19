@@ -317,7 +317,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2455,
+      "count": 2456,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1209,7 +1209,7 @@
       ]
     },
     "national security risk": {
-      "count": 377,
+      "count": 378,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -12213,7 +12213,7 @@
       ]
     },
     "windows 11 24h2": {
-      "count": 52,
+      "count": 53,
       "dates": [
         "2026-03-27",
         "2026-03-28",
@@ -23243,7 +23243,7 @@
       ]
     },
     "software almost triple": {
-      "count": 116,
+      "count": 117,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23263,7 +23263,8 @@
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     },
     "spanish police dismantled": {
@@ -23313,7 +23314,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23695,7 +23696,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24480,7 +24481,7 @@
       ]
     },
     "turn one's television": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27233,7 +27234,7 @@
       ]
     },
     "security safepal com": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27253,14 +27254,14 @@
       ]
     },
     "universal agent harness": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "upload executable files": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27273,7 +27274,7 @@
       ]
     },
     "faster file explorer": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27286,21 +27287,21 @@
       ]
     },
     "cve 2026 19478": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "cve 2026 15748": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "august 15 2026": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27319,42 +27320,42 @@
       ]
     },
     "career ending burnout": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "home without cameras": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "witnessing malicious scanning": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "victim's copilot session": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "undocumented url parameter": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "technical report shared": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27362,17 +27363,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-10 18:48",
-      "articles": 48,
-      "top_keywords": [
-        "outpacing law enforcement",
-        "organized cybercrime groups",
-        "vulnerability discoveries aided",
-        "cvss backed patching",
-        "software giant fixed"
-      ]
-    },
     {
       "timestamp": "2026-08-10 20:35",
       "articles": 48,
@@ -28460,6 +28450,17 @@
         "twitter whistleblower complaint",
         "third party platform",
         "technical report shared"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19 08:29",
+      "articles": 48,
+      "top_keywords": [
+        "universal agent harness",
+        "twitter whistleblower complaint",
+        "technical report shared",
+        "faster file explorer",
+        "career ending burnout"
       ]
     }
   ]

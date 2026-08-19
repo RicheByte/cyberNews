@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 695,
+      "count": 696,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -313,11 +313,12 @@
         "2026-08-02",
         "2026-08-03",
         "2026-08-06",
-        "2026-08-07"
+        "2026-08-07",
+        "2026-08-19"
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2456,
+      "count": 2457,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1167,7 +1168,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1196,7 +1197,8 @@
         "2026-04-13",
         "2026-07-01",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1209,7 +1211,7 @@
       ]
     },
     "national security risk": {
-      "count": 378,
+      "count": 379,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -7565,10 +7567,11 @@
       ]
     },
     "critical rce flaw": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-02-12",
-        "2026-02-13"
+        "2026-02-13",
+        "2026-08-19"
       ]
     },
     "turnkey tools make": {
@@ -23696,7 +23699,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24481,7 +24484,7 @@
       ]
     },
     "turn one's television": {
-      "count": 121,
+      "count": 122,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27254,7 +27257,7 @@
       ]
     },
     "universal agent harness": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27274,7 +27277,7 @@
       ]
     },
     "faster file explorer": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27287,7 +27290,7 @@
       ]
     },
     "cve 2026 19478": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27320,60 +27323,73 @@
       ]
     },
     "career ending burnout": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "home without cameras": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "witnessing malicious scanning": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "victim's copilot session": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "undocumented url parameter": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "technical report shared": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-18",
+        "2026-08-19"
+      ]
+    },
+    "943 patches rolled": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "medusa ransomware gang": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "windows ike extension": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "systems running home": {
+      "count": 1,
+      "dates": [
         "2026-08-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-10 20:35",
-      "articles": 48,
-      "top_keywords": [
-        "outpacing law enforcement",
-        "organized cybercrime groups",
-        "vulnerability discoveries aided",
-        "cvss backed patching",
-        "software giant fixed"
-      ]
-    },
     {
       "timestamp": "2026-08-10 22:30",
       "articles": 48,
@@ -28461,6 +28477,17 @@
         "technical report shared",
         "faster file explorer",
         "career ending burnout"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19 10:21",
+      "articles": 48,
+      "top_keywords": [
+        "943 patches rolled",
+        "universal agent harness",
+        "critical security flaw",
+        "twitter whistleblower complaint",
+        "technical report shared"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 00:55",
+  "last_updated": "2026-08-19 02:51",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "universal agent harness",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "security safepal com",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2452
+      "mentions": 2453
     },
     {
       "keyword": "third party platform",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "technical report shared",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "faster file explorer",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "career ending burnout",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "windows 11 24h2",
-      "mentions": 49
+      "mentions": 50
     },
     {
       "keyword": "victim's copilot session",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "cve 2026 19478",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -307,6 +307,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
+      "summary": "In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
+      "published": "Wed, 19 Aug 2026 01:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
       "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
       "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
@@ -338,15 +347,6 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -355,6 +355,15 @@
       "value_signals": [
         "Ransomware ×2"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -375,17 +384,6 @@
       "published": "Mon, 17 Aug 2026 20:26:34 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hugging Face Breach Raises Big Questions About AI Security Controls",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/adam-shostack-talks-hugging-face-phantom-b",
-      "summary": "Adam Shostack, president of Shostack & Associates and an affiliate professor at the University of Washington, talks with the Dark Reading News Desk about why he was \"blown away\" by OpenAI's revelations regarding the Hugging Face attack.",
-      "published": "Mon, 17 Aug 2026 19:22:56 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Security Week",

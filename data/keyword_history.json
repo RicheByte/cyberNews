@@ -318,7 +318,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2458,
+      "count": 2459,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1168,7 +1168,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -7567,7 +7567,7 @@
       ]
     },
     "critical rce flaw": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -23699,7 +23699,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -27043,7 +27043,7 @@
       ]
     },
     "who's harvesting data": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-14",
         "2026-08-19"
@@ -27211,10 +27211,11 @@
       ]
     },
     "claude agents leads": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     },
     "ai agents interact": {
@@ -27331,7 +27332,7 @@
       ]
     },
     "home without cameras": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27345,14 +27346,14 @@
       ]
     },
     "victim's copilot session": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "undocumented url parameter": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27366,43 +27367,43 @@
       ]
     },
     "943 patches rolled": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "medusa ransomware gang": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "windows ike extension": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "systems running home": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "cybersecurity company characterized": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-19"
       ]
     },
     "caused windows defender": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-19"
       ]
     },
     "architecture researchers discovered": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-19"
       ]
@@ -27414,6 +27415,24 @@
       ]
     },
     "ransomware affiliate appears": {
+      "count": 2,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "password spraying attacks": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "login flows unprotected": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "p2p cybersecurity researchers": {
       "count": 1,
       "dates": [
         "2026-08-19"
@@ -27421,17 +27440,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-11 01:15",
-      "articles": 48,
-      "top_keywords": [
-        "organized cybercrime groups",
-        "maximum severity vulnerability",
-        "threat actor known",
-        "cvss backed patching",
-        "zero trust strategies"
-      ]
-    },
     {
       "timestamp": "2026-08-11 03:37",
       "articles": 48,
@@ -28518,6 +28526,17 @@
         "twitter whistleblower complaint",
         "cve 2026 19478",
         "critical security flaw",
+        "critical rce flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19 14:26",
+      "articles": 48,
+      "top_keywords": [
+        "943 patches rolled",
+        "twitter whistleblower complaint",
+        "password spraying attacks",
+        "login flows unprotected",
         "critical rce flaw"
       ]
     }

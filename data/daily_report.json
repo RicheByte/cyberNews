@@ -1,72 +1,101 @@
 {
-  "last_updated": "2026-08-19 12:35",
+  "last_updated": "2026-08-19 14:26",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "943 patches rolled",
     "twitter whistleblower complaint",
-    "cve 2026 19478",
-    "critical security flaw",
+    "password spraying attacks",
+    "login flows unprotected",
     "critical rce flaw",
-    "victim's copilot session",
-    "cybersecurity company characterized",
+    "claude agents leads",
     "medusa ransomware gang",
+    "p2p cybersecurity researchers",
+    "critical security flaw",
+    "victim's copilot session",
+    "ransomware affiliate appears",
     "windows ike extension",
     "caused windows defender",
+    "cybersecurity company characterized",
     "architecture researchers discovered",
     "systems running home",
     "home without cameras",
-    "ransomware affiliate calling",
-    "ransomware affiliate appears",
-    "witnessing malicious scanning",
     "who's harvesting data",
     "vulnerability discoveries aided",
-    "undocumented url parameter",
-    "turn one's television"
+    "undocumented url parameter"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2458
+      "mentions": 2459
     },
     {
-      "keyword": "cve 2026 19478",
-      "mentions": 11
+      "keyword": "password spraying attacks",
+      "mentions": 1
     },
     {
-      "keyword": "critical security flaw",
-      "mentions": 166
+      "keyword": "login flows unprotected",
+      "mentions": 1
     },
     {
       "keyword": "critical rce flaw",
-      "mentions": 8
-    },
-    {
-      "keyword": "victim's copilot session",
       "mentions": 9
     },
     {
-      "keyword": "cybersecurity company characterized",
-      "mentions": 1
+      "keyword": "claude agents leads",
+      "mentions": 8
     },
     {
       "keyword": "medusa ransomware gang",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "windows ike extension",
-      "mentions": 2
-    },
-    {
-      "keyword": "caused windows defender",
+      "keyword": "p2p cybersecurity researchers",
       "mentions": 1
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 167
+    },
+    {
+      "keyword": "victim's copilot session",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
+      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
+      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
+      "published": "Wed, 19 Aug 2026 18:42:17 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
+      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
+      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
+      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
+      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
+      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person. From Bad Content to Bad Intent to AI on Both Sides Phishing 1.0 was bad",
+      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
@@ -122,36 +151,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets",
-      "link": "https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html",
-      "summary": "Two critical vulnerabilities impacting MLflow, an open-source artificial intelligence (AI) platform, and FUXA, an open-source, web-based SCADA / HMI software built for operational technology (OT) and industrial automation, are witnessing malicious scanning and exploitation efforts. According to independent reports from watchTowr and VulnCheck, the vulnerabilities in question are as follows -",
-      "published": "Tue, 18 Aug 2026 23:14:05 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
+      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
+      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
+      "published": "Wed, 19 Aug 2026 10:00:10 -0400",
+      "value_score": 16,
       "value_signals": [
-        "High severity",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000",
-      "link": "https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html",
-      "summary": "A ransomware affiliate calling itself Ransom Busters has been spotted proactively sending emails to victim organizations and claims to delete stolen data from ransomware groups' servers in exchange for a fee ranging from $20,000 to $60,000. \"In these messages, the third-party offers to help the victim recover from ransomware attack. This immediately stands out as anomalous,\" GuidePoint Research",
-      "published": "Tue, 18 Aug 2026 22:28:16 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×4"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "summary": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
-      "published": "Tue, 18 Aug 2026 18:08:36 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -227,15 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
       "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
       "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft tests faster Windows File Explorer, new context menu",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/",
-      "summary": "Microsoft has started testing a faster File Explorer and a less cluttered and more customizable context menu in Windows 11 preview builds rolling out to Insiders this week. [...]",
-      "published": "Tue, 18 Aug 2026 07:14:28 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -363,6 +362,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -371,15 +379,6 @@
       "value_signals": [
         "Ransomware ×2"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -398,6 +397,15 @@
       "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
       "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
       "published": "Mon, 17 Aug 2026 20:26:34 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
+      "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
+      "summary": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon – Secure Your Code and Applications appeared first on SecurityWeek .",
+      "published": "Wed, 19 Aug 2026 13:36:17 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -478,15 +486,6 @@
       "value_signals": [
         "Breach/leak ×4"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks",
-      "link": "https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/",
-      "summary": "Join the live webinar as we explore if detection-first security operations can keep pace with AI, or if it’s time to rethink prevention as the strongest default. The post Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks appeared first on SecurityWeek .",
-      "published": "Tue, 18 Aug 2026 15:03:30 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

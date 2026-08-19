@@ -1,19 +1,17 @@
 {
-  "last_updated": "2026-08-19 20:19",
+  "last_updated": "2026-08-19 22:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "943 patches rolled",
+    "suspected ransomware affiliate",
     "twitter whistleblower complaint",
+    "sales management system",
     "login flows unprotected",
     "ai agents escaping",
     "30 web domains",
-    "windows ike extension",
-    "ransomware affiliate appears",
-    "caused windows defender",
     "p2p cybersecurity researchers",
     "cybersecurity agencies warn",
-    "systems running home",
     "national security risk",
     "vulnerability discoveries aided",
     "turn one's television",
@@ -22,48 +20,50 @@
     "something malicious block",
     "software giant fixed",
     "software almost triple",
-    "residential proxy node"
+    "residential proxy node",
+    "required multiple endpoint",
+    "publicly detailed prior"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "suspected ransomware affiliate",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2462
+      "mentions": 2463
+    },
+    {
+      "keyword": "sales management system",
+      "mentions": 1
     },
     {
       "keyword": "login flows unprotected",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "ai agents escaping",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "30 web domains",
-      "mentions": 1
-    },
-    {
-      "keyword": "windows ike extension",
-      "mentions": 6
-    },
-    {
-      "keyword": "ransomware affiliate appears",
-      "mentions": 5
-    },
-    {
-      "keyword": "caused windows defender",
-      "mentions": 5
+      "mentions": 2
     },
     {
       "keyword": "p2p cybersecurity researchers",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "cybersecurity agencies warn",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 381
     }
   ],
   "articles": [
@@ -149,6 +149,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
+      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
+      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
+      "published": "Wed, 19 Aug 2026 16:59:58 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
+      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
+      "published": "Wed, 19 Aug 2026 16:53:38 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
       "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
       "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
@@ -209,30 +229,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "published": "Wed, 19 Aug 2026 06:12:24 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation",
-        "RCE ×3",
-        "CISA/KEV",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Windows 11 24H2 Home and Pro reach end of support in 2 months",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/",
-      "summary": "Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]",
-      "published": "Wed, 19 Aug 2026 05:10:20 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +314,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
+      "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
+      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
+      "published": "Wed, 19 Aug 2026 20:32:09 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
       "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
       "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
@@ -375,17 +380,6 @@
       "published": "Tue, 18 Aug 2026 18:32:01 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
     },
     {
       "source": "Dark Reading",

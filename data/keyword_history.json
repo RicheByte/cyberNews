@@ -318,7 +318,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2462,
+      "count": 2463,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1211,7 +1211,7 @@
       ]
     },
     "national security risk": {
-      "count": 380,
+      "count": 381,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23246,7 +23246,7 @@
       ]
     },
     "software almost triple": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23317,7 +23317,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23699,7 +23699,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24158,7 +24158,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24485,7 +24485,7 @@
       ]
     },
     "turn one's television": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26194,7 +26194,7 @@
       ]
     },
     "text history records": {
-      "count": 90,
+      "count": 91,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26820,7 +26820,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26828,7 +26828,8 @@
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     },
     "target critical infrastructure": {
@@ -27369,7 +27370,7 @@
       ]
     },
     "943 patches rolled": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-19"
       ]
@@ -27429,42 +27430,60 @@
       ]
     },
     "login flows unprotected": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
     },
     "p2p cybersecurity researchers": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
     },
     "cybersecurity agencies warn": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "spear phishing campaign": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "ai agents escaping": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-19"
       ]
     },
     "30 web domains": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-19"
       ]
     },
     "something malicious block": {
+      "count": 2,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "suspected ransomware affiliate": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "sales management system": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "required multiple endpoint": {
       "count": 1,
       "dates": [
         "2026-08-19"
@@ -27472,17 +27491,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-11 08:47",
-      "articles": 48,
-      "top_keywords": [
-        "organized cybercrime groups",
-        "maximum severity vulnerability",
-        "threat actor known",
-        "shipping 10 50",
-        "zero trust strategies"
-      ]
-    },
     {
       "timestamp": "2026-08-11 10:44",
       "articles": 48,
@@ -28570,6 +28578,17 @@
         "login flows unprotected",
         "ai agents escaping",
         "30 web domains"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19 22:18",
+      "articles": 48,
+      "top_keywords": [
+        "943 patches rolled",
+        "suspected ransomware affiliate",
+        "twitter whistleblower complaint",
+        "sales management system",
+        "login flows unprotected"
       ]
     }
   ]

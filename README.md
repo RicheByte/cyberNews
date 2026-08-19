@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-19 16:23 UTC |
+| 🕐 Last Updated | 2026-08-19 18:25 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`943 patches rolled` • `twitter whistleblower complaint` • `login flows unprotected` • `critical security flaw` • `critical rce flaw` • `claude agents leads` • `medusa ransomware gang` • `p2p cybersecurity researchers` • `password spraying attacks` • `victim's copilot session`
+`943 patches rolled` • `twitter whistleblower complaint` • `login flows unprotected` • `p2p cybersecurity researchers` • `victim's copilot session` • `ransomware affiliate appears` • `medusa ransomware gang` • `critical security flaw` • `critical rce flaw` • `windows ike extension`
 
 ## 📄 Reports
 

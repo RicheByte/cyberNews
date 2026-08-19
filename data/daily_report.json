@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-19 16:23",
+  "last_updated": "2026-08-19 18:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "943 patches rolled",
     "twitter whistleblower complaint",
     "login flows unprotected",
-    "critical security flaw",
-    "critical rce flaw",
-    "claude agents leads",
-    "medusa ransomware gang",
     "p2p cybersecurity researchers",
-    "password spraying attacks",
     "victim's copilot session",
     "ransomware affiliate appears",
+    "medusa ransomware gang",
+    "critical security flaw",
+    "critical rce flaw",
     "windows ike extension",
-    "caused windows defender",
     "cybersecurity company characterized",
+    "cybersecurity agencies warn",
+    "caused windows defender",
     "architecture researchers discovered",
     "systems running home",
-    "home without cameras",
     "vulnerability discoveries aided",
     "undocumented url parameter",
-    "turn one's television"
+    "turn one's television",
+    "text history records",
+    "spear phishing campaign"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2460
+      "mentions": 2461
     },
     {
       "keyword": "login flows unprotected",
-      "mentions": 2
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 168
-    },
-    {
-      "keyword": "critical rce flaw",
-      "mentions": 10
-    },
-    {
-      "keyword": "claude agents leads",
-      "mentions": 9
-    },
-    {
-      "keyword": "medusa ransomware gang",
-      "mentions": 4
+      "mentions": 3
     },
     {
       "keyword": "p2p cybersecurity researchers",
-      "mentions": 2
-    },
-    {
-      "keyword": "password spraying attacks",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "victim's copilot session",
+      "mentions": 12
+    },
+    {
+      "keyword": "ransomware affiliate appears",
+      "mentions": 4
+    },
+    {
+      "keyword": "medusa ransomware gang",
+      "mentions": 5
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 169
+    },
+    {
+      "keyword": "critical rce flaw",
       "mentions": 11
+    },
+    {
+      "keyword": "windows ike extension",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -152,6 +152,27 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
+      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
+      "published": "Wed, 19 Aug 2026 14:09:13 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
+      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/",
+      "summary": "U.S. cybersecurity agencies warn that threat actors are using AI-generated scripts to exploit Siemens S7 Series programmable logic controllers (PLCs) in U.S. critical infrastructure. [...]",
+      "published": "Wed, 19 Aug 2026 13:50:01 -0400",
+      "value_score": 32,
+      "value_signals": [
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
       "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
@@ -216,26 +237,6 @@
         "Ransomware ×2",
         "CISA/KEV",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Comcast turns your Xfinity WiFi into a home motion detector",
-      "link": "https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/",
-      "summary": "Comcast is promoting WiFi-based motion detection as a part of its new Xfinity Shield home protection platform, allowing routers and wireless devices to detect people moving through a home without cameras or motion sensors. [...]",
-      "published": "Tue, 18 Aug 2026 16:14:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Clop created custom web shell for Windchill data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/",
-      "summary": "A custom Java web shell likely linked to the Clop ransomware gang was designed specifically for PTC Windchill and FlexPLM servers, with built-in features to decrypt credentials, enumerate file repositories, and steal files. [...]",
-      "published": "Tue, 18 Aug 2026 13:29:51 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
       ]
     },
     {
@@ -322,6 +323,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
+      "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
+      "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+      "published": "Wed, 19 Aug 2026 16:58:23 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
       "summary": "In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
@@ -344,7 +356,7 @@
     },
     {
       "source": "Dark Reading",
-      "title": "'CoSnitch' Attack Tricked Copilot into Mapping Out Architecture",
+      "title": "'CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
       "summary": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses.",
       "published": "Tue, 18 Aug 2026 20:17:24 GMT",
@@ -362,15 +374,6 @@
     },
     {
       "source": "Dark Reading",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -382,6 +385,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
       "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
       "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
@@ -390,15 +402,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
-      "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
-      "summary": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
-      "published": "Mon, 17 Aug 2026 20:26:34 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

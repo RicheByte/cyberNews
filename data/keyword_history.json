@@ -318,7 +318,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2460,
+      "count": 2461,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1168,7 +1168,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -7567,7 +7567,7 @@
       ]
     },
     "critical rce flaw": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-02-12",
         "2026-02-13",
@@ -23699,7 +23699,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24484,7 +24484,7 @@
       ]
     },
     "turn one's television": {
-      "count": 124,
+      "count": 125,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26193,7 +26193,7 @@
       ]
     },
     "text history records": {
-      "count": 88,
+      "count": 89,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26206,7 +26206,8 @@
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     },
     "chatgpt secure sandbox": {
@@ -27346,14 +27347,14 @@
       ]
     },
     "victim's copilot session": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-18",
         "2026-08-19"
       ]
     },
     "undocumented url parameter": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-18",
         "2026-08-19"
@@ -27367,43 +27368,43 @@
       ]
     },
     "943 patches rolled": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
     },
     "medusa ransomware gang": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
     },
     "windows ike extension": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
     },
     "systems running home": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
     },
     "cybersecurity company characterized": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19"
       ]
     },
     "caused windows defender": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19"
       ]
     },
     "architecture researchers discovered": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19"
       ]
@@ -27415,7 +27416,7 @@
       ]
     },
     "ransomware affiliate appears": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19"
       ]
@@ -27427,30 +27428,31 @@
       ]
     },
     "login flows unprotected": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19"
       ]
     },
     "p2p cybersecurity researchers": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "cybersecurity agencies warn": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "spear phishing campaign": {
+      "count": 1,
       "dates": [
         "2026-08-19"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-11 05:01",
-      "articles": 48,
-      "top_keywords": [
-        "organized cybercrime groups",
-        "maximum severity vulnerability",
-        "threat actor known",
-        "cvss backed patching",
-        "zero trust strategies"
-      ]
-    },
     {
       "timestamp": "2026-08-11 06:56",
       "articles": 48,
@@ -28538,6 +28540,17 @@
         "login flows unprotected",
         "critical security flaw",
         "critical rce flaw"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19 18:25",
+      "articles": 48,
+      "top_keywords": [
+        "943 patches rolled",
+        "twitter whistleblower complaint",
+        "login flows unprotected",
+        "p2p cybersecurity researchers",
+        "victim's copilot session"
       ]
     }
   ]

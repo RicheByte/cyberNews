@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-19 16:23 UTC  
+> **Last Updated:** 2026-08-19 18:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **twitter whistleblower complaint** • **login flows unprotected** • **critical security flaw** • **critical rce flaw** • **claude agents leads** • **medusa ransomware gang** • **p2p cybersecurity researchers** • **password spraying attacks** • **victim's copilot session** • **ransomware affiliate appears** • **windows ike extension** • **caused windows defender** • **cybersecurity company characterized** • **architecture researchers discovered** • **systems running home** • **home without cameras** • **vulnerability discoveries aided** • **undocumented url parameter** • **turn one's television**
+**943 patches rolled** • **twitter whistleblower complaint** • **login flows unprotected** • **p2p cybersecurity researchers** • **victim's copilot session** • **ransomware affiliate appears** • **medusa ransomware gang** • **critical security flaw** • **critical rce flaw** • **windows ike extension** • **cybersecurity company characterized** • **cybersecurity agencies warn** • **caused windows defender** • **architecture researchers discovered** • **systems running home** • **vulnerability discoveries aided** • **undocumented url parameter** • **turn one's television** • **text history records** • **spear phishing campaign**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
+- [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
 - [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
 - [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
 - [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
 - [Critical RCE flaw in Windows IKE Extension now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/)
 - [Windows 11 24H2 Home and Pro reach end of support in 2 months](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/)
 - [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
-- [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
-- [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
 - [China-Linked Hacker Shows AI Capabilities in APAC Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack)
 - [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
-- ['CoSnitch' Attack Tricked Copilot into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
+- ['CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
 - [CISOs Break Their Silence in 'Declassified' Docuseries](https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries)
-- [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
 - ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
+- [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
 - [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
-- ['Turf War' Between Claude Agents Leads to Self-Replicating Malware](https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware)
 
 ### Security Week
 

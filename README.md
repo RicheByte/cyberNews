@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-19 10:21 UTC |
+| 🕐 Last Updated | 2026-08-19 12:35 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`943 patches rolled` • `universal agent harness` • `critical security flaw` • `twitter whistleblower complaint` • `technical report shared` • `faster file explorer` • `cve 2026 19478` • `critical rce flaw` • `career ending burnout` • `medusa ransomware gang`
+`943 patches rolled` • `twitter whistleblower complaint` • `cve 2026 19478` • `critical security flaw` • `critical rce flaw` • `victim's copilot session` • `cybersecurity company characterized` • `medusa ransomware gang` • `windows ike extension` • `caused windows defender`
 
 ## 📄 Reports
 

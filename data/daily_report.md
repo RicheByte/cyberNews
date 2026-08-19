@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-19 10:21 UTC  
+> **Last Updated:** 2026-08-19 12:35 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **universal agent harness** • **critical security flaw** • **twitter whistleblower complaint** • **technical report shared** • **faster file explorer** • **cve 2026 19478** • **critical rce flaw** • **career ending burnout** • **medusa ransomware gang** • **windows ike extension** • **victim's copilot session** • **systems running home** • **home without cameras** • **national security risk** • **witnessing malicious scanning** • **windows operating systems** • **vulnerability discoveries aided** • **undocumented url parameter** • **turn one's television**
+**943 patches rolled** • **twitter whistleblower complaint** • **cve 2026 19478** • **critical security flaw** • **critical rce flaw** • **victim's copilot session** • **cybersecurity company characterized** • **medusa ransomware gang** • **windows ike extension** • **caused windows defender** • **architecture researchers discovered** • **systems running home** • **home without cameras** • **ransomware affiliate calling** • **ransomware affiliate appears** • **witnessing malicious scanning** • **who's harvesting data** • **vulnerability discoveries aided** • **undocumented url parameter** • **turn one's television**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
+- [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
 - [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html)
 - [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html)
 - [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
 - [Attackers Exploit MLflow SSRF Flaw to Steal Cloud Credentials and Secrets](https://thehackernews.com/2026/08/attackers-exploit-mlflow-ssrf-flaw-to.html)
 - [Ransom Busters Claims It Hacked Ransomware Servers, Asks Victims for Up to $60,000](https://thehackernews.com/2026/08/ransom-busters-claims-it-hacked.html)
 - [AI "Mind Viruses" Can Spread Between Agents Through Persistent Prompt Files](https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html)
-- [TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks](https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html)
-- [One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025](https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html)
 
 ### BleepingComputer
 
+- [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
 - [Critical RCE flaw in Windows IKE Extension now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/)
 - [Windows 11 24H2 Home and Pro reach end of support in 2 months](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/)
 - [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
@@ -34,7 +35,6 @@
 - [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
 - [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 - [Microsoft tests faster Windows File Explorer, new context menu](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-faster-windows-explorer-customizable-context-menu/)
-- [CISA: Windows Task Host flaw now exploited by ransomware gangs](https://www.bleepingcomputer.com/news/security/cisa-windows-task-host-flaw-now-exploited-by-ransomware-gangs/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Prevalent AI Raises $22 Million to Expand Data Fabric Platform](https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/)
+- [US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them](https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/)
+- [Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign](https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/)
+- [CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/)
 - [943 Patches Rolled Out With Oracle’s August 2026 Security Update](https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/)
 - [Chrome, Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/)
 - [CareCloud Data Breach Impact Grows to 3.7 Million Individuals](https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/)
 - [Webinar Today: Rethinking Cyber Defense for AI-Speed Attacks](https://www.securityweek.com/webinar-today-rethinking-cyber-defense-for-ai-speed-attacks/)
-- [CISO Conversations: Nico Waisman – From Self-Taught Hacker to AI-Driven Offensive Security at XBOW](https://www.securityweek.com/ciso-conversations-nico-waisman-from-self-taught-hacker-to-ai-driven-offensive-security-at-xbow/)
-- [AI-Driven Vulnerability Surge Breaks the Traditional Patching Model](https://www.securityweek.com/ai-driven-vulnerability-surge-breaks-the-traditional-patching-model/)
-- [Xpander Raises $7.5 Million for AI Management and Governance](https://www.securityweek.com/xpander-raises-7-5-million-for-ai-management-and-governance/)
-- [Fortinet Acquires AI Security Company Virtue AI](https://www.securityweek.com/fortinet-acquires-ai-security-company-virtue-ai/)
 
 ### Threatpost
 

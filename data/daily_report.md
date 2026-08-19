@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-19 14:26 UTC  
+> **Last Updated:** 2026-08-19 16:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **twitter whistleblower complaint** • **password spraying attacks** • **login flows unprotected** • **critical rce flaw** • **claude agents leads** • **medusa ransomware gang** • **p2p cybersecurity researchers** • **critical security flaw** • **victim's copilot session** • **ransomware affiliate appears** • **windows ike extension** • **caused windows defender** • **cybersecurity company characterized** • **architecture researchers discovered** • **systems running home** • **home without cameras** • **who's harvesting data** • **vulnerability discoveries aided** • **undocumented url parameter**
+**943 patches rolled** • **twitter whistleblower complaint** • **login flows unprotected** • **critical security flaw** • **critical rce flaw** • **claude agents leads** • **medusa ransomware gang** • **p2p cybersecurity researchers** • **password spraying attacks** • **victim's copilot session** • **ransomware affiliate appears** • **windows ike extension** • **caused windows defender** • **cybersecurity company characterized** • **architecture researchers discovered** • **systems running home** • **home without cameras** • **vulnerability discoveries aided** • **undocumented url parameter** • **turn one's television**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
 - [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
 - [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
 - [Critical RCE flaw in Windows IKE Extension now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/)
@@ -34,7 +35,6 @@
 - [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
 - [Comcast turns your Xfinity WiFi into a home motion detector](https://www.bleepingcomputer.com/news/security/comcast-turns-your-xfinity-wifi-into-a-home-motion-detector/)
 - [Clop created custom web shell for Windchill data theft attacks](https://www.bleepingcomputer.com/news/security/clop-created-custom-web-shell-for-windchill-data-theft-attacks/)
-- [Your Controls Block Known Attacks. What About the Behavior?](https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/)
 
 ### Krebs on Security
 

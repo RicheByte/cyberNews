@@ -500,7 +500,7 @@
             <p class="tagline">Real-time Cybersecurity News Aggregation & Trend Analysis</p>
             <div class="live-indicator">
                 <span class="live-dot"></span>
-                <span>Last updated: 2026-08-19 14:26 UTC</span>
+                <span>Last updated: 2026-08-19 16:23 UTC</span>
             </div>
         </header>
         
@@ -529,7 +529,7 @@
                     <div class="card-title"><span class="card-icon">🔥</span> Trending Keywords</div>
                 </div>
                 <div class="keyword-cloud">
-                    <span class="keyword-tag large">943 patches rolled (3) </span><span class="keyword-tag large">twitter whistleblower complaint (2459) </span><span class="keyword-tag large">password spraying attacks (1) </span><span class="keyword-tag medium">login flows unprotected (1) </span><span class="keyword-tag medium">critical rce flaw (9) </span><span class="keyword-tag medium">claude agents leads (8) </span><span class="keyword-tag medium">medusa ransomware gang (3) </span><span class="keyword-tag small">p2p cybersecurity researchers (1) </span><span class="keyword-tag small">critical security flaw (167) </span><span class="keyword-tag small">victim&#x27;s copilot session (10) </span>
+                    <span class="keyword-tag large">943 patches rolled (4) </span><span class="keyword-tag large">twitter whistleblower complaint (2460) </span><span class="keyword-tag large">login flows unprotected (2) </span><span class="keyword-tag medium">critical security flaw (168) </span><span class="keyword-tag medium">critical rce flaw (10) </span><span class="keyword-tag medium">claude agents leads (9) </span><span class="keyword-tag medium">medusa ransomware gang (4) </span><span class="keyword-tag small">p2p cybersecurity researchers (2) </span><span class="keyword-tag small">password spraying attacks (2) </span><span class="keyword-tag small">victim&#x27;s copilot session (11) </span>
                 </div>
             </div>
             
@@ -539,6 +539,13 @@
                 </div>
                 <div class="timeline">
                     
+        <div class="timeline-item">
+            <div class="timeline-time">2026-08-19 16:23</div>
+            <div class="timeline-content">
+                <strong>48 articles</strong> analyzed
+                <div class="timeline-keywords">943 patches rolled, twitter whistleblower complaint, login flows unprotected</div>
+            </div>
+        </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-08-19 14:26</div>
             <div class="timeline-content">
@@ -583,13 +590,6 @@
         </div>
         <div class="timeline-item">
             <div class="timeline-time">2026-08-19 02:51</div>
-            <div class="timeline-content">
-                <strong>48 articles</strong> analyzed
-                <div class="timeline-keywords">universal agent harness, security safepal com, twitter whistleblower complaint</div>
-            </div>
-        </div>
-        <div class="timeline-item">
-            <div class="timeline-time">2026-08-19 00:55</div>
             <div class="timeline-content">
                 <strong>48 articles</strong> analyzed
                 <div class="timeline-keywords">universal agent harness, security safepal com, twitter whistleblower complaint</div>
@@ -763,6 +763,17 @@
             <div class="article-card" data-source="BleepingComputer">
                 <div class="article-top">
                     <div class="article-source">BleepingComputer</div>
+                    <div class="value-badge value-low">Value 10</div>
+                </div>
+                <h3 class="article-title">
+                    <a href="https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/" target="_blank" rel="noopener">US charges Iranian hackers over $3.4 billion intellectual property theft</a>
+                </h3>
+                <p class="article-summary">The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole d...</p>
+                <div class="article-meta">Wed, 19 Aug 2026 11:56:09</div>
+            </div>
+            <div class="article-card" data-source="BleepingComputer">
+                <div class="article-top">
+                    <div class="article-source">BleepingComputer</div>
                     <div class="value-badge value-low">Value 16</div>
                 </div>
                 <h3 class="article-title">
@@ -803,17 +814,6 @@
                 </h3>
                 <p class="article-summary">Microsoft has reminded customers that systems running Home and Pro editions of Windows 11 24H2 will stop receiving updates in two months. [...]</p>
                 <div class="article-meta">Wed, 19 Aug 2026 05:10:20</div>
-            </div>
-            <div class="article-card" data-source="BleepingComputer">
-                <div class="article-top">
-                    <div class="article-source">BleepingComputer</div>
-                    <div class="value-badge value-high">Value 82</div>
-                </div>
-                <h3 class="article-title">
-                    <a href="https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/" target="_blank" rel="noopener">CISA: Medusa ransomware hit over 500 critical infrastructure orgs</a>
-                </h3>
-                <p class="article-summary">The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June ...</p>
-                <div class="article-meta">Wed, 19 Aug 2026 04:00:48</div>
             </div>
             <div class="article-card" data-source="Krebs on Security">
                 <div class="article-top">
@@ -1091,10 +1091,10 @@
         new Chart(keywordCtx, {
             type: 'bar',
             data: {
-                labels: ["943 patches rolled", "twitter whistleblowe", "password spraying at", "login flows unprotec", "critical rce flaw", "claude agents leads", "medusa ransomware ga", "p2p cybersecurity re", "critical security fl", "victim's copilot ses"],
+                labels: ["943 patches rolled", "twitter whistleblowe", "login flows unprotec", "critical security fl", "critical rce flaw", "claude agents leads", "medusa ransomware ga", "p2p cybersecurity re", "password spraying at", "victim's copilot ses"],
                 datasets: [{
                     label: 'Mentions',
-                    data: [3, 2459, 1, 1, 9, 8, 3, 1, 167, 10],
+                    data: [4, 2460, 2, 168, 10, 9, 4, 2, 2, 11],
                     backgroundColor: 'rgba(0, 255, 136, 0.6)',
                     borderColor: '#00ff88',
                     borderWidth: 1,

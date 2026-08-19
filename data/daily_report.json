@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-19 14:26",
+  "last_updated": "2026-08-19 16:23",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "943 patches rolled",
     "twitter whistleblower complaint",
-    "password spraying attacks",
     "login flows unprotected",
+    "critical security flaw",
     "critical rce flaw",
     "claude agents leads",
     "medusa ransomware gang",
     "p2p cybersecurity researchers",
-    "critical security flaw",
+    "password spraying attacks",
     "victim's copilot session",
     "ransomware affiliate appears",
     "windows ike extension",
@@ -20,50 +20,50 @@
     "architecture researchers discovered",
     "systems running home",
     "home without cameras",
-    "who's harvesting data",
     "vulnerability discoveries aided",
-    "undocumented url parameter"
+    "undocumented url parameter",
+    "turn one's television"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2459
-    },
-    {
-      "keyword": "password spraying attacks",
-      "mentions": 1
+      "mentions": 2460
     },
     {
       "keyword": "login flows unprotected",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical rce flaw",
-      "mentions": 9
-    },
-    {
-      "keyword": "claude agents leads",
-      "mentions": 8
-    },
-    {
-      "keyword": "medusa ransomware gang",
-      "mentions": 3
-    },
-    {
-      "keyword": "p2p cybersecurity researchers",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 167
+      "mentions": 168
+    },
+    {
+      "keyword": "critical rce flaw",
+      "mentions": 10
+    },
+    {
+      "keyword": "claude agents leads",
+      "mentions": 9
+    },
+    {
+      "keyword": "medusa ransomware gang",
+      "mentions": 4
+    },
+    {
+      "keyword": "p2p cybersecurity researchers",
+      "mentions": 2
+    },
+    {
+      "keyword": "password spraying attacks",
+      "mentions": 2
     },
     {
       "keyword": "victim's copilot session",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "US charges Iranian hackers over $3.4 billion intellectual property theft",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/",
+      "summary": "The U.S. has charged 17 Iranians, alleged members of a hacking-for-hire company called Mabna Institute, involved in years-long operations that stole data from American organizations. [...]",
+      "published": "Wed, 19 Aug 2026 11:56:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
       "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
       "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
@@ -228,15 +237,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Your Controls Block Known Attacks. What About the Behavior?",
-      "link": "https://www.bleepingcomputer.com/news/security/your-controls-block-known-attacks-what-about-the-behavior/",
-      "summary": "Security controls can block a familiar attack method while missing quieter ways to achieve the same objective. Picus Security's Blue Report 2026 shows how prevention rates can vary dramatically by technique and why behavioral testing is needed to uncover those gaps. [...]",
-      "published": "Tue, 18 Aug 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

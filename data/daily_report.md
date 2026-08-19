@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-19 18:25 UTC  
+> **Last Updated:** 2026-08-19 20:19 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **twitter whistleblower complaint** • **login flows unprotected** • **p2p cybersecurity researchers** • **victim's copilot session** • **ransomware affiliate appears** • **medusa ransomware gang** • **critical security flaw** • **critical rce flaw** • **windows ike extension** • **cybersecurity company characterized** • **cybersecurity agencies warn** • **caused windows defender** • **architecture researchers discovered** • **systems running home** • **vulnerability discoveries aided** • **undocumented url parameter** • **turn one's television** • **text history records** • **spear phishing campaign**
+**943 patches rolled** • **twitter whistleblower complaint** • **login flows unprotected** • **ai agents escaping** • **30 web domains** • **windows ike extension** • **ransomware affiliate appears** • **caused windows defender** • **p2p cybersecurity researchers** • **cybersecurity agencies warn** • **systems running home** • **national security risk** • **vulnerability discoveries aided** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **residential proxy node**
 
 ---
 
@@ -16,17 +16,18 @@
 
 ### The Hacker News
 
+- [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html)
+- [OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior](https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html)
 - [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
 - [Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P](https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html)
 - [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
 - [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
 - [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
 - [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html)
-- [Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data](https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html)
-- [Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps](https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html)
 
 ### BleepingComputer
 
+- [Healthtech firm CareCloud data breach impacts 3.7 million patients](https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/)
 - [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
 - [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
 - [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
@@ -34,7 +35,6 @@
 - [Microsoft fixes known issue causing Windows Defender crashes](https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/)
 - [Critical RCE flaw in Windows IKE Extension now actively exploited](https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/)
 - [Windows 11 24H2 Home and Pro reach end of support in 2 months](https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-2-months/)
-- [CISA: Medusa ransomware hit over 500 critical infrastructure orgs](https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/)
 
 ### Krebs on Security
 
@@ -53,10 +53,10 @@
 - [China-Linked Hacker Shows AI Capabilities in APAC Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack)
 - [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
 - ['CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
+- [The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed](https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures)
 - [CISOs Break Their Silence in 'Declassified' Docuseries](https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries)
 - ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
 - [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
-- [Video Call Exploit Chains Two Flaws in Unisoc Modems](https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems)
 
 ### Security Week
 

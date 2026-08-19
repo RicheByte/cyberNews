@@ -318,7 +318,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2461,
+      "count": 2462,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1211,7 +1211,7 @@
       ]
     },
     "national security risk": {
-      "count": 379,
+      "count": 380,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23246,7 +23246,7 @@
       ]
     },
     "software almost triple": {
-      "count": 117,
+      "count": 118,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23317,7 +23317,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23699,7 +23699,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 126,
+      "count": 127,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24158,7 +24158,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24180,7 +24180,8 @@
         "2026-08-08",
         "2026-08-12",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-19"
       ]
     },
     "ban residential proxies": {
@@ -24484,7 +24485,7 @@
       ]
     },
     "turn one's television": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26193,7 +26194,7 @@
       ]
     },
     "text history records": {
-      "count": 89,
+      "count": 90,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27368,7 +27369,7 @@
       ]
     },
     "943 patches rolled": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-19"
       ]
@@ -27380,13 +27381,13 @@
       ]
     },
     "windows ike extension": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-19"
       ]
     },
     "systems running home": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-19"
       ]
@@ -27398,7 +27399,7 @@
       ]
     },
     "caused windows defender": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
@@ -27416,7 +27417,7 @@
       ]
     },
     "ransomware affiliate appears": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19"
       ]
@@ -27428,24 +27429,42 @@
       ]
     },
     "login flows unprotected": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19"
       ]
     },
     "p2p cybersecurity researchers": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19"
       ]
     },
     "cybersecurity agencies warn": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-19"
       ]
     },
     "spear phishing campaign": {
+      "count": 2,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "ai agents escaping": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "30 web domains": {
+      "count": 1,
+      "dates": [
+        "2026-08-19"
+      ]
+    },
+    "something malicious block": {
       "count": 1,
       "dates": [
         "2026-08-19"
@@ -27453,17 +27472,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-11 06:56",
-      "articles": 48,
-      "top_keywords": [
-        "organized cybercrime groups",
-        "threat actor known",
-        "maximum severity vulnerability",
-        "zero trust strategies",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-11 08:47",
       "articles": 48,
@@ -28551,6 +28559,17 @@
         "login flows unprotected",
         "p2p cybersecurity researchers",
         "victim's copilot session"
+      ]
+    },
+    {
+      "timestamp": "2026-08-19 20:19",
+      "articles": 48,
+      "top_keywords": [
+        "943 patches rolled",
+        "twitter whistleblower complaint",
+        "login flows unprotected",
+        "ai agents escaping",
+        "30 web domains"
       ]
     }
   ]

@@ -1,72 +1,90 @@
 {
-  "last_updated": "2026-08-19 18:25",
+  "last_updated": "2026-08-19 20:19",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "943 patches rolled",
     "twitter whistleblower complaint",
     "login flows unprotected",
-    "p2p cybersecurity researchers",
-    "victim's copilot session",
-    "ransomware affiliate appears",
-    "medusa ransomware gang",
-    "critical security flaw",
-    "critical rce flaw",
+    "ai agents escaping",
+    "30 web domains",
     "windows ike extension",
-    "cybersecurity company characterized",
-    "cybersecurity agencies warn",
+    "ransomware affiliate appears",
     "caused windows defender",
-    "architecture researchers discovered",
+    "p2p cybersecurity researchers",
+    "cybersecurity agencies warn",
     "systems running home",
+    "national security risk",
     "vulnerability discoveries aided",
-    "undocumented url parameter",
     "turn one's television",
     "text history records",
-    "spear phishing campaign"
+    "spear phishing campaign",
+    "something malicious block",
+    "software giant fixed",
+    "software almost triple",
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2461
+      "mentions": 2462
     },
     {
       "keyword": "login flows unprotected",
-      "mentions": 3
-    },
-    {
-      "keyword": "p2p cybersecurity researchers",
-      "mentions": 3
-    },
-    {
-      "keyword": "victim's copilot session",
-      "mentions": 12
-    },
-    {
-      "keyword": "ransomware affiliate appears",
       "mentions": 4
     },
     {
-      "keyword": "medusa ransomware gang",
-      "mentions": 5
+      "keyword": "ai agents escaping",
+      "mentions": 1
     },
     {
-      "keyword": "critical security flaw",
-      "mentions": 169
-    },
-    {
-      "keyword": "critical rce flaw",
-      "mentions": 11
+      "keyword": "30 web domains",
+      "mentions": 1
     },
     {
       "keyword": "windows ike extension",
+      "mentions": 6
+    },
+    {
+      "keyword": "ransomware affiliate appears",
       "mentions": 5
+    },
+    {
+      "keyword": "caused windows defender",
+      "mentions": 5
+    },
+    {
+      "keyword": "p2p cybersecurity researchers",
+      "mentions": 4
+    },
+    {
+      "keyword": "cybersecurity agencies warn",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
+      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
+      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
@@ -130,25 +148,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Clop-Linked Windchill Web Shell Decrypts Credentials and Maps Engineering Data",
-      "link": "https://thehackernews.com/2026/08/clop-linked-windchill-web-shell.html",
-      "summary": "A JavaServer Pages (JSP) web shell deployed following the exploitation of a critical security flaw in PTC Windchill and FlexPLM servers is specifically designed for the enterprise Product Lifecycle Management (PLM) software, according to new findings from ReliaQuest. The cybersecurity company characterized the web shell as a fully equipped extortion platform capable of mapping sensitive vault",
-      "published": "Wed, 19 Aug 2026 11:09:25 +0530",
-      "value_score": 24,
+      "source": "BleepingComputer",
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
+      "value_score": 34,
       "value_signals": [
-        "High severity",
-        "Exploit wording"
+        "Breach/leak ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "summary": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
-      "published": "Tue, 18 Aug 2026 23:17:22 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -225,19 +233,6 @@
       "published": "Wed, 19 Aug 2026 05:10:20 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA: Medusa ransomware hit over 500 critical infrastructure orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-medusa-ransomware-hit-over-500-critical-infrastructure-orgs/",
-      "summary": "The FBI said Tuesday that the Medusa ransomware gang has breached more than 500 critical infrastructure organizations in the United States since June 2021. [...]",
-      "published": "Wed, 19 Aug 2026 04:00:48 -0400",
-      "value_score": 82,
-      "value_signals": [
-        "Ransomware ×2",
-        "CISA/KEV",
-        "High severity ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -365,6 +360,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
+      "summary": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
+      "published": "Tue, 18 Aug 2026 19:09:51 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
       "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
       "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
@@ -391,17 +395,6 @@
       "published": "Tue, 18 Aug 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
-      "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
-      "summary": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
-      "published": "Mon, 17 Aug 2026 21:37:23 GMT",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

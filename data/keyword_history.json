@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 697,
+      "count": 698,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -319,7 +319,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2464,
+      "count": 2465,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -23248,7 +23248,7 @@
       ]
     },
     "software almost triple": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23320,7 +23320,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23703,7 +23703,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24491,7 +24491,7 @@
       ]
     },
     "turn one's television": {
-      "count": 128,
+      "count": 129,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26201,7 +26201,7 @@
       ]
     },
     "text history records": {
-      "count": 92,
+      "count": 93,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27378,7 +27378,7 @@
       ]
     },
     "943 patches rolled": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27427,9 +27427,10 @@
       ]
     },
     "ransomware affiliate appears": {
-      "count": 5,
+      "count": 6,
       "dates": [
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-20"
       ]
     },
     "password spraying attacks": {
@@ -27439,63 +27440,63 @@
       ]
     },
     "login flows unprotected": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "p2p cybersecurity researchers": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "cybersecurity agencies warn": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "spear phishing campaign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "ai agents escaping": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "30 web domains": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "something malicious block": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "suspected ransomware affiliate": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "sales management system": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27508,30 +27509,19 @@
       ]
     },
     "openai confirms chatgpt": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-20"
       ]
     },
     "signups fail chatgpt": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-11 12:51",
-      "articles": 48,
-      "top_keywords": [
-        "clamav scanning process",
-        "fake crypto startup",
-        "assistant already uses",
-        "allow threat actors",
-        "300 000 installs"
-      ]
-    },
     {
       "timestamp": "2026-08-11 14:52",
       "articles": 48,
@@ -28619,6 +28609,17 @@
         "twitter whistleblower complaint",
         "sales management system",
         "openai confirms chatgpt"
+      ]
+    },
+    {
+      "timestamp": "2026-08-20 02:51",
+      "articles": 48,
+      "top_keywords": [
+        "943 patches rolled",
+        "suspected ransomware affiliate",
+        "ransomware affiliate appears",
+        "twitter whistleblower complaint",
+        "sales management system"
       ]
     }
   ]

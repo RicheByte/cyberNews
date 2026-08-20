@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 707,
+      "count": 708,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -319,7 +319,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2474,
+      "count": 2475,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -861,7 +861,7 @@
       ]
     },
     "remote code execution": {
-      "count": 487,
+      "count": 488,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1171,7 +1171,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1215,7 +1215,7 @@
       ]
     },
     "national security risk": {
-      "count": 384,
+      "count": 385,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23253,7 +23253,7 @@
       ]
     },
     "software almost triple": {
-      "count": 125,
+      "count": 126,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23325,7 +23325,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24168,7 +24168,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24496,7 +24496,7 @@
       ]
     },
     "turn one's television": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26206,7 +26206,7 @@
       ]
     },
     "text history records": {
-      "count": 100,
+      "count": 101,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27076,12 +27076,13 @@
       ]
     },
     "remained walled away": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-08-14",
         "2026-08-15",
         "2026-08-16",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-20"
       ]
     },
     "ai agent control": {
@@ -27283,7 +27284,7 @@
       ]
     },
     "upload executable files": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27590,7 +27591,7 @@
       ]
     },
     "critical netscaler flaw": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-20"
       ]
@@ -27632,7 +27633,7 @@
       ]
     },
     "virtualization technology company": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-20"
       ]
@@ -27644,19 +27645,19 @@
       ]
     },
     "attacks cert polska": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-20"
       ]
     },
     "aaa servers citrix": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-20"
       ]
     },
     "traditional email filters": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-20"
       ]
@@ -27668,36 +27669,25 @@
       ]
     },
     "think tanks within": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-20"
       ]
     },
     "ai security company": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-20"
       ]
     },
     "budgets hinder progress": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-20"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-12 10:56",
-      "articles": 48,
-      "top_keywords": [
-        "high severity denial",
-        "vmware vcenter server",
-        "execute arbitrary code",
-        "twitter whistleblower complaint",
-        "sandworm hackers target"
-      ]
-    },
     {
       "timestamp": "2026-08-12 12:56",
       "articles": 48,
@@ -28785,6 +28775,17 @@
         "hugging face incident",
         "critical security flaw",
         "ai security company"
+      ]
+    },
+    {
+      "timestamp": "2026-08-20 22:20",
+      "articles": 48,
+      "top_keywords": [
+        "critical netscaler flaw",
+        "think tanks within",
+        "ai security company",
+        "critical security flaw",
+        "twitter whistleblower complaint"
       ]
     }
   ]

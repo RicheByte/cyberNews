@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-20 20:20",
+  "last_updated": "2026-08-20 22:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "critical netscaler flaw",
     "think tanks within",
-    "hugging face incident",
-    "critical security flaw",
     "ai security company",
+    "critical security flaw",
     "twitter whistleblower complaint",
-    "remote code execution",
-    "contractor published dozens",
     "budgets hinder progress",
     "attacks cert polska",
     "virtualization technology company",
     "national security risk",
-    "luta security talks",
     "aaa servers citrix",
     "windows operating systems",
     "upload executable files",
     "turn one's television",
     "traditional email filters",
     "text history records",
-    "software giant fixed"
+    "software giant fixed",
+    "software almost triple",
+    "residential proxy node",
+    "remote code execution",
+    "remained walled away"
   ],
   "trending": [
     {
       "keyword": "critical netscaler flaw",
-      "mentions": 4
-    },
-    {
-      "keyword": "think tanks within",
-      "mentions": 1
-    },
-    {
-      "keyword": "hugging face incident",
       "mentions": 5
     },
     {
-      "keyword": "critical security flaw",
-      "mentions": 173
+      "keyword": "think tanks within",
+      "mentions": 2
     },
     {
       "keyword": "ai security company",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 174
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2474
-    },
-    {
-      "keyword": "remote code execution",
-      "mentions": 487
-    },
-    {
-      "keyword": "contractor published dozens",
-      "mentions": 24
+      "mentions": 2475
     },
     {
       "keyword": "budgets hinder progress",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "attacks cert polska",
-      "mentions": 3
+      "mentions": 4
+    },
+    {
+      "keyword": "virtualization technology company",
+      "mentions": 5
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 385
+    },
+    {
+      "keyword": "aaa servers citrix",
+      "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
+      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
@@ -146,15 +155,6 @@
         "RCE ×3",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
-      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
-      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography. The attack, which the researchers named \"Zombie Card,\" requires physical",
-      "published": "Thu, 20 Aug 2026 17:31:24 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -337,6 +337,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
+      "link": "https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network",
+      "summary": "Enterprise cybersecurity expert Jake Williams joins the Dark Reading News Desk to explain why he decided to release his new agentic AI framework in the wake of the OpenAI attacks on Hugging Face.",
+      "published": "Thu, 20 Aug 2026 20:42:18 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
       "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
       "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy.",
@@ -388,15 +397,6 @@
       "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
       "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
       "published": "Wed, 19 Aug 2026 20:32:09 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
-      "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
-      "published": "Wed, 19 Aug 2026 19:54:43 GMT",
       "value_score": 10,
       "value_signals": []
     },

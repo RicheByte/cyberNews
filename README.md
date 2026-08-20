@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-20 06:36 UTC |
+| 🕐 Last Updated | 2026-08-20 08:30 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`943 patches rolled` • `cve 2026 19478` • `suspected ransomware affiliate` • `ransomware affiliate appears` • `p2p cybersecurity researchers` • `twitter whistleblower complaint` • `sales management system` • `openai confirms chatgpt` • `login flows unprotected` • `ai agents escaping`
+`cve 2026 19478` • `windows operating systems` • `august 2026 updates` • `943 patches rolled` • `suspected ransomware affiliate` • `ransomware affiliate appears` • `ai agents escaping` • `twitter whistleblower complaint` • `sales management system` • `openai confirms chatgpt`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-20 06:36 UTC  
+> **Last Updated:** 2026-08-20 08:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **cve 2026 19478** • **suspected ransomware affiliate** • **ransomware affiliate appears** • **p2p cybersecurity researchers** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **login flows unprotected** • **ai agents escaping** • **cybersecurity agencies warn** • **h1 2026 including** • **architecture researchers discovered** • **windows operating systems** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple**
+**cve 2026 19478** • **windows operating systems** • **august 2026 updates** • **943 patches rolled** • **suspected ransomware affiliate** • **ransomware affiliate appears** • **ai agents escaping** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **p2p cybersecurity researchers** • **architecture researchers discovered** • **complex ai framework** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **signups fail chatgpt**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
 - [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
 - [Rogue ransomware affiliate poses as recovery firm to steal payments](https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/)
 - [Sakura Internet hack exposes data of up to 1.36 million accounts](https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/)
@@ -34,7 +35,6 @@
 - [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
 - [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
 - [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
-- [Password spraying attacks surge 155x as hackers exploit MFA gaps](https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Critical GitLab Flaw Exploited Shortly After Disclosure](https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/)
+- [Hackers Using AI to Target Siemens PLCs in Critical US Sectors](https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/)
 - [Virtual Event Today: CodeSecCon – Secure Your Code and Applications](https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/)
 - [Prevalent AI Raises $22 Million to Expand Data Fabric Platform](https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/)
 - [US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them](https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/)
 - [Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign](https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/)
 - [CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/)
 - [943 Patches Rolled Out With Oracle’s August 2026 Security Update](https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/)
-- [Chrome, Firefox Updates Patch Dozens of Vulnerabilities](https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/)
-- [CareCloud Data Breach Impact Grows to 3.7 Million Individuals](https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/)
 
 ### Threatpost
 

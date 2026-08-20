@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-20 06:36",
+  "last_updated": "2026-08-20 08:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "943 patches rolled",
     "cve 2026 19478",
+    "windows operating systems",
+    "august 2026 updates",
+    "943 patches rolled",
     "suspected ransomware affiliate",
     "ransomware affiliate appears",
-    "p2p cybersecurity researchers",
+    "ai agents escaping",
     "twitter whistleblower complaint",
     "sales management system",
     "openai confirms chatgpt",
-    "login flows unprotected",
-    "ai agents escaping",
-    "cybersecurity agencies warn",
-    "h1 2026 including",
+    "p2p cybersecurity researchers",
     "architecture researchers discovered",
-    "windows operating systems",
+    "complex ai framework",
     "turn one's television",
     "text history records",
     "spear phishing campaign",
     "something malicious block",
     "software giant fixed",
-    "software almost triple"
+    "software almost triple",
+    "signups fail chatgpt"
   ],
   "trending": [
     {
-      "keyword": "943 patches rolled",
-      "mentions": 11
+      "keyword": "cve 2026 19478",
+      "mentions": 13
     },
     {
-      "keyword": "cve 2026 19478",
+      "keyword": "windows operating systems",
+      "mentions": 701
+    },
+    {
+      "keyword": "august 2026 updates",
+      "mentions": 1
+    },
+    {
+      "keyword": "943 patches rolled",
       "mentions": 12
     },
     {
       "keyword": "suspected ransomware affiliate",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ransomware affiliate appears",
-      "mentions": 7
-    },
-    {
-      "keyword": "p2p cybersecurity researchers",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2467
-    },
-    {
-      "keyword": "sales management system",
-      "mentions": 5
-    },
-    {
-      "keyword": "openai confirms chatgpt",
-      "mentions": 4
-    },
-    {
-      "keyword": "login flows unprotected",
-      "mentions": 9
+      "mentions": 8
     },
     {
       "keyword": "ai agents escaping",
+      "mentions": 7
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2468
+    },
+    {
+      "keyword": "sales management system",
       "mentions": 6
+    },
+    {
+      "keyword": "openai confirms chatgpt",
+      "mentions": 5
     }
   ],
   "articles": [
@@ -154,6 +154,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft says August Windows updates may cause gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
+      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
+      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
@@ -221,17 +230,6 @@
       "published": "Wed, 19 Aug 2026 11:56:09 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "summary": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
-      "published": "Wed, 19 Aug 2026 10:00:10 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -397,6 +395,31 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
+      "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
+      "summary": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data. The post Critical GitLab Flaw Exploited Shortly After Disclosure appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 07:48:24 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
+      "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
+      "summary": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 07:02:02 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "CISA/KEV",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
       "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
       "summary": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon – Secure Your Code and Applications appeared first on SecurityWeek .",
@@ -457,29 +480,6 @@
       "value_signals": [
         "Patch/update ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Chrome, Firefox Updates Patch Dozens of Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-dozens-of-vulnerabilities/",
-      "summary": "The bugs could lead to code execution, privilege escalation, sandbox escape, and information disclosure. The post Chrome, Firefox Updates Patch Dozens of Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 08:19:09 +0000",
-      "value_score": 38,
-      "value_signals": [
-        "Privilege escalation",
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CareCloud Data Breach Impact Grows to 3.7 Million Individuals",
-      "link": "https://www.securityweek.com/carecloud-data-breach-impact-grows-to-3-7-million-individuals/",
-      "summary": "The data breach was initially believed to affect roughly 350,000 people, but the HHS breach tracker shows a far bigger impact. The post CareCloud Data Breach Impact Grows to 3.7 Million Individuals appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 06:56:43 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×4"
       ]
     },
     {

@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 700,
+      "count": 701,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -319,7 +319,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2467,
+      "count": 2468,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -23248,7 +23248,7 @@
       ]
     },
     "software almost triple": {
-      "count": 123,
+      "count": 124,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23320,7 +23320,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24491,7 +24491,7 @@
       ]
     },
     "turn one's television": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26201,7 +26201,7 @@
       ]
     },
     "text history records": {
-      "count": 95,
+      "count": 96,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27303,7 +27303,7 @@
       ]
     },
     "cve 2026 19478": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27379,7 +27379,7 @@
       ]
     },
     "943 patches rolled": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27416,7 +27416,7 @@
       ]
     },
     "architecture researchers discovered": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27429,7 +27429,7 @@
       ]
     },
     "ransomware affiliate appears": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27449,7 +27449,7 @@
       ]
     },
     "p2p cybersecurity researchers": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27463,14 +27463,14 @@
       ]
     },
     "spear phishing campaign": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "ai agents escaping": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27484,21 +27484,21 @@
       ]
     },
     "something malicious block": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "suspected ransomware affiliate": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-19",
         "2026-08-20"
       ]
     },
     "sales management system": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27511,13 +27511,13 @@
       ]
     },
     "openai confirms chatgpt": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-20"
       ]
     },
     "signups fail chatgpt": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-20"
       ]
@@ -27527,20 +27527,21 @@
       "dates": [
         "2026-08-20"
       ]
+    },
+    "august 2026 updates": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "complex ai framework": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-11 18:54",
-      "articles": 48,
-      "top_keywords": [
-        "water watch center",
-        "fake crypto startup",
-        "def con aims",
-        "ransomware group known",
-        "organized cybercrime groups"
-      ]
-    },
     {
       "timestamp": "2026-08-11 20:37",
       "articles": 48,
@@ -28628,6 +28629,17 @@
         "suspected ransomware affiliate",
         "ransomware affiliate appears",
         "p2p cybersecurity researchers"
+      ]
+    },
+    {
+      "timestamp": "2026-08-20 08:30",
+      "articles": 48,
+      "top_keywords": [
+        "cve 2026 19478",
+        "windows operating systems",
+        "august 2026 updates",
+        "943 patches rolled",
+        "suspected ransomware affiliate"
       ]
     }
   ]

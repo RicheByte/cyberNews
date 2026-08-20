@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19 22:18",
+  "last_updated": "2026-08-20 00:54",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,12 +7,13 @@
     "suspected ransomware affiliate",
     "twitter whistleblower complaint",
     "sales management system",
+    "openai confirms chatgpt",
     "login flows unprotected",
     "ai agents escaping",
     "30 web domains",
     "p2p cybersecurity researchers",
     "cybersecurity agencies warn",
-    "national security risk",
+    "windows operating systems",
     "vulnerability discoveries aided",
     "turn one's television",
     "text history records",
@@ -20,50 +21,49 @@
     "something malicious block",
     "software giant fixed",
     "software almost triple",
-    "residential proxy node",
-    "required multiple endpoint",
-    "publicly detailed prior"
+    "signups fail chatgpt",
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "suspected ransomware affiliate",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2463
+      "mentions": 2464
     },
     {
       "keyword": "sales management system",
+      "mentions": 2
+    },
+    {
+      "keyword": "openai confirms chatgpt",
       "mentions": 1
     },
     {
       "keyword": "login flows unprotected",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "ai agents escaping",
-      "mentions": 2
-    },
-    {
-      "keyword": "30 web domains",
-      "mentions": 2
-    },
-    {
-      "keyword": "p2p cybersecurity researchers",
-      "mentions": 5
-    },
-    {
-      "keyword": "cybersecurity agencies warn",
       "mentions": 3
     },
     {
-      "keyword": "national security risk",
-      "mentions": 381
+      "keyword": "30 web domains",
+      "mentions": 3
+    },
+    {
+      "keyword": "p2p cybersecurity researchers",
+      "mentions": 6
+    },
+    {
+      "keyword": "cybersecurity agencies warn",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -149,6 +149,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
+      "summary": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
+      "published": "Wed, 19 Aug 2026 20:20:55 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
       "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
       "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
@@ -217,17 +226,6 @@
       "value_score": 16,
       "value_signals": [
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "summary": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
-      "published": "Wed, 19 Aug 2026 07:14:28 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {

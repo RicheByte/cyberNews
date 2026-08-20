@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 703,
+      "count": 704,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -319,7 +319,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2470,
+      "count": 2471,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -861,7 +861,7 @@
       ]
     },
     "remote code execution": {
-      "count": 483,
+      "count": 484,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1171,7 +1171,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 169,
+      "count": 170,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1201,7 +1201,8 @@
         "2026-07-01",
         "2026-08-17",
         "2026-08-18",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-20"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1214,7 +1215,7 @@
       ]
     },
     "national security risk": {
-      "count": 381,
+      "count": 382,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1285,7 +1286,8 @@
         "2026-08-13",
         "2026-08-14",
         "2026-08-18",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-20"
       ]
     },
     "open source millions": {
@@ -7375,7 +7377,7 @@
       ]
     },
     "exploited without authentication": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-02-11",
         "2026-05-21",
@@ -23077,7 +23079,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -24494,7 +24496,7 @@
       ]
     },
     "turn one's television": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26831,7 +26833,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26840,7 +26842,8 @@
         "2026-08-16",
         "2026-08-17",
         "2026-08-18",
-        "2026-08-19"
+        "2026-08-19",
+        "2026-08-20"
       ]
     },
     "target critical infrastructure": {
@@ -27306,7 +27309,7 @@
       ]
     },
     "cve 2026 19478": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27494,7 +27497,7 @@
       ]
     },
     "suspected ransomware affiliate": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-19",
         "2026-08-20"
@@ -27550,7 +27553,7 @@
       ]
     },
     "hugging face incident": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-20"
       ]
@@ -27584,20 +27587,57 @@
       "dates": [
         "2026-08-20"
       ]
+    },
+    "critical netscaler flaw": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "send http requests": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "android banking malware": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "grandoreiro malware resurfaces": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "cve identifier impacts": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "sev 1 incident": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "luta security talks": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "virtualization technology company": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-12 01:23",
-      "articles": 48,
-      "top_keywords": [
-        "water watch center",
-        "def con aims",
-        "crash devices cisco",
-        "session messaging network",
-        "cvss backed patching"
-      ]
-    },
     {
       "timestamp": "2026-08-12 04:01",
       "articles": 48,
@@ -28685,6 +28725,17 @@
         "august 2026 updates",
         "suspected ransomware affiliate",
         "targeting footprint globally"
+      ]
+    },
+    {
+      "timestamp": "2026-08-20 14:29",
+      "articles": 48,
+      "top_keywords": [
+        "remote code execution",
+        "critical netscaler flaw",
+        "send http requests",
+        "cve 2026 19478",
+        "android banking malware"
       ]
     }
   ]

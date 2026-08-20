@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-20 12:35 UTC |
+| 🕐 Last Updated | 2026-08-20 14:29 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 19478` • `hugging face incident` • `august 2026 updates` • `suspected ransomware affiliate` • `targeting footprint globally` • `p2p cybersecurity researchers` • `twitter whistleblower complaint` • `sales management system` • `meta hacking technique` • `exploited without authentication`
+`remote code execution` • `critical netscaler flaw` • `send http requests` • `cve 2026 19478` • `android banking malware` • `critical security flaw` • `suspected ransomware affiliate` • `hugging face incident` • `twitter whistleblower complaint` • `publicly detailed prior`
 
 ## 📄 Reports
 

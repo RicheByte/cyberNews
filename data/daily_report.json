@@ -1,72 +1,148 @@
 {
-  "last_updated": "2026-08-20 12:35",
+  "last_updated": "2026-08-20 14:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cve 2026 19478",
-    "hugging face incident",
-    "august 2026 updates",
-    "suspected ransomware affiliate",
-    "targeting footprint globally",
-    "p2p cybersecurity researchers",
-    "twitter whistleblower complaint",
-    "sales management system",
-    "meta hacking technique",
-    "exploited without authentication",
-    "contractor published dozens",
-    "cloud credential theft",
-    "share source code",
     "remote code execution",
-    "openai confirms chatgpt",
-    "architecture researchers discovered",
+    "critical netscaler flaw",
+    "send http requests",
+    "cve 2026 19478",
+    "android banking malware",
+    "critical security flaw",
+    "suspected ransomware affiliate",
+    "hugging face incident",
+    "twitter whistleblower complaint",
+    "publicly detailed prior",
+    "contractor published dozens",
+    "exploited without authentication",
+    "grandoreiro malware resurfaces",
+    "cve identifier impacts",
+    "sev 1 incident",
     "windows operating systems",
-    "critical us sectors",
-    "complex ai framework",
-    "mlflow vulnerability exploited"
+    "national security risk",
+    "luta security talks",
+    "virtualization technology company",
+    "turn one's television"
   ],
   "trending": [
     {
-      "keyword": "cve 2026 19478",
-      "mentions": 15
+      "keyword": "remote code execution",
+      "mentions": 484
     },
     {
-      "keyword": "hugging face incident",
+      "keyword": "critical netscaler flaw",
       "mentions": 1
     },
     {
-      "keyword": "august 2026 updates",
-      "mentions": 3
+      "keyword": "send http requests",
+      "mentions": 1
+    },
+    {
+      "keyword": "cve 2026 19478",
+      "mentions": 16
+    },
+    {
+      "keyword": "android banking malware",
+      "mentions": 1
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 170
     },
     {
       "keyword": "suspected ransomware affiliate",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "targeting footprint globally",
-      "mentions": 1
-    },
-    {
-      "keyword": "p2p cybersecurity researchers",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2470
-    },
-    {
-      "keyword": "sales management system",
-      "mentions": 8
-    },
-    {
-      "keyword": "meta hacking technique",
+      "keyword": "hugging face incident",
       "mentions": 2
     },
     {
-      "keyword": "exploited without authentication",
-      "mentions": 16
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2471
+    },
+    {
+      "keyword": "publicly detailed prior",
+      "mentions": 34
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
+      "published": "Thu, 20 Aug 2026 19:18:24 +0530",
+      "value_score": 38,
+      "value_signals": [
+        "RCE",
+        "High severity"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
+      "value_score": 41,
+      "value_signals": [
+        "Auth bypass",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "summary": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution. \"A remote code execution vulnerability exists in Zimbra",
+      "published": "Thu, 20 Aug 2026 18:54:28 +0530",
+      "value_score": 99,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE ×3",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments",
+      "link": "https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html",
+      "summary": "Researchers at the University of Massachusetts Amherst have demonstrated an attack that revives expired Visa contactless credit cards for real in-store purchases by rewriting the expiration date a point-of-sale (POS) terminal reads over near-field communication (NFC), without breaking any of the card's cryptography. The attack, which the researchers named \"Zombie Card,\" requires physical",
+      "published": "Thu, 20 Aug 2026 17:31:24 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
+      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
+      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
+      "published": "Thu, 20 Aug 2026 17:15:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
+      "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
+      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server. The attacks, collectively named \"CDN Tsunami,\" were evaluated against Alibaba, Baidu,",
+      "published": "Thu, 20 Aug 2026 17:09:35 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices",
+      "link": "https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html",
+      "summary": "A new Android threat codenamed Manic has been observed actively targeting Ukrainian banks, government and identity services, and messaging applications, as well as Russian and European financial institutions, global fintech and cryptocurrency services, and military-focused communications. \"Manic sits at the intersection of Android banking malware and mobile spyware, combining financial-fraud",
+      "published": "Thu, 20 Aug 2026 16:56:08 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
@@ -77,72 +153,15 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
-      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
-      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
-      "published": "Thu, 20 Aug 2026 16:08:28 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
-      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
-      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
-      "published": "Thu, 20 Aug 2026 14:12:03 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
-      "link": "https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html",
-      "summary": "Cybersecurity researchers have disclosed details of a critical flaw in the Elementor Pro WordPress plugin that, if successfully exploited, could lead to remote code execution. The vulnerability, tracked as CVE-2026-32475, carries a CVSS score of 9.0 out of 10.0. It has been described as a case of unrestricted upload of a file with a dangerous type. \"The flaw lives in the Forms module's File",
-      "published": "Thu, 20 Aug 2026 11:34:34 +0530",
-      "value_score": 62,
+      "source": "BleepingComputer",
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+      "published": "Thu, 20 Aug 2026 10:01:11 -0400",
+      "value_score": 26,
       "value_signals": [
-        "CVE mentioned",
-        "RCE",
-        "High severity",
-        "Exploit wording"
+        "Phishing ×2"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
-      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
-      "summary": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
-      "published": "Thu, 20 Aug 2026 00:32:40 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
-      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
-      "summary": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
-      "published": "Wed, 19 Aug 2026 23:36:44 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "summary": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
-      "published": "Wed, 19 Aug 2026 18:42:17 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Hackers Compromised 14,500+ Dahua Devices Using Credential Attacks, Auth Bypasses, and P2P",
-      "link": "https://thehackernews.com/2026/08/hackers-compromised-14500-dahua-devices.html",
-      "summary": "Cybersecurity researchers at Hunt.io have disclosed details of a campaign that they say compromised more than 14,530 Dahua devices between June 17 and July 22, 2026, using credential attacks, two authentication-bypass flaws, and a peer-to-peer (P2P) relay technique. The activity, codenamed Operation CameraSwarm, was reconstructed from a 407 MB exposed working directory containing 2,616 files",
-      "published": "Wed, 19 Aug 2026 17:04:28 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -219,15 +238,6 @@
       "value_signals": [
         "Ransomware ×3"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Sakura Internet hack exposes data of up to 1.36 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
-      "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
-      "published": "Wed, 19 Aug 2026 16:53:38 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -313,6 +323,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
+      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
+      "published": "Thu, 20 Aug 2026 13:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
       "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
       "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
@@ -381,11 +400,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
-      "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
-      "summary": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
-      "published": "Tue, 18 Aug 2026 18:32:01 GMT",
+      "source": "Security Week",
+      "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
+      "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
+      "summary": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks. The post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 13:16:35 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -468,18 +487,6 @@
         "CVE mentioned",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-      "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-      "summary": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 07:02:02 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "CISA/KEV",
-        "High severity ×2"
       ]
     },
     {

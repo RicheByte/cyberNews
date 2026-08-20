@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-20 16:27 UTC |
+| 🕐 Last Updated | 2026-08-20 18:30 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`remote code execution` • `critical netscaler flaw` • `prepared government agencies` • `android banking malware` • `hugging face incident` • `attacks cert polska` • `critical security flaw` • `twitter whistleblower complaint` • `publicly detailed prior` • `contractor published dozens`
+`remote code execution` • `critical netscaler flaw` • `hugging face incident` • `attacks cert polska` • `twitter whistleblower complaint` • `publicly detailed prior` • `contractor published dozens` • `critical security flaw` • `sev 1 incident` • `prepared government agencies`
 
 ## 📄 Reports
 

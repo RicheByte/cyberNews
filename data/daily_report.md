@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-20 16:27 UTC  
+> **Last Updated:** 2026-08-20 18:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **critical netscaler flaw** • **prepared government agencies** • **android banking malware** • **hugging face incident** • **attacks cert polska** • **critical security flaw** • **twitter whistleblower complaint** • **publicly detailed prior** • **contractor published dozens** • **grandoreiro malware resurfaces** • **sev 1 incident** • **windows operating systems** • **aaa servers citrix** • **virtualization technology company** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **strategic global moves**
+**remote code execution** • **critical netscaler flaw** • **hugging face incident** • **attacks cert polska** • **twitter whistleblower complaint** • **publicly detailed prior** • **contractor published dozens** • **critical security flaw** • **sev 1 incident** • **prepared government agencies** • **aaa servers citrix** • **national security risk** • **luta security talks** • **windows operating systems** • **virtualization technology company** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **strategic global moves**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
 - [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
 - [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
 - [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
@@ -23,10 +24,10 @@
 - [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
 - [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
 - [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html)
-- [Manic Android Malware Exfiltrates Data From Offline Phones via Nearby Infected Devices](https://thehackernews.com/2026/08/manic-android-malware-exfiltrates-data.html)
 
 ### BleepingComputer
 
+- [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
 - [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
 - [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
 - [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
@@ -34,7 +35,6 @@
 - [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
 - [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
 - [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
-- [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
 - [Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks)
 - ['Grandoreiro' Malware Resurfaces With Mexico Campaign](https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign)
 - [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
@@ -56,7 +57,6 @@
 - [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
 - [China-Linked Hacker Shows AI Capabilities in APAC Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack)
 - [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
-- ['CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
 
 ### Security Week
 

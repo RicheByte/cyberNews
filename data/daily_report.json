@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-08-20 10:23",
+  "last_updated": "2026-08-20 12:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "cve 2026 19478",
-    "windows operating systems",
+    "hugging face incident",
     "august 2026 updates",
     "suspected ransomware affiliate",
+    "targeting footprint globally",
+    "p2p cybersecurity researchers",
     "twitter whistleblower complaint",
     "sales management system",
-    "openai confirms chatgpt",
     "meta hacking technique",
-    "ai agents escaping",
-    "p2p cybersecurity researchers",
-    "architecture researchers discovered",
     "exploited without authentication",
-    "turn one's television",
-    "text history records",
-    "spear phishing campaign",
-    "something malicious block",
-    "software giant fixed",
-    "software almost triple",
-    "signups fail chatgpt",
-    "residential proxy node"
+    "contractor published dozens",
+    "cloud credential theft",
+    "share source code",
+    "remote code execution",
+    "openai confirms chatgpt",
+    "architecture researchers discovered",
+    "windows operating systems",
+    "critical us sectors",
+    "complex ai framework",
+    "mlflow vulnerability exploited"
   ],
   "trending": [
     {
       "keyword": "cve 2026 19478",
-      "mentions": 14
+      "mentions": 15
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 702
-    },
-    {
-      "keyword": "august 2026 updates",
-      "mentions": 2
-    },
-    {
-      "keyword": "suspected ransomware affiliate",
-      "mentions": 7
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2469
-    },
-    {
-      "keyword": "sales management system",
-      "mentions": 7
-    },
-    {
-      "keyword": "openai confirms chatgpt",
-      "mentions": 6
-    },
-    {
-      "keyword": "meta hacking technique",
+      "keyword": "hugging face incident",
       "mentions": 1
     },
     {
-      "keyword": "ai agents escaping",
+      "keyword": "august 2026 updates",
+      "mentions": 3
+    },
+    {
+      "keyword": "suspected ransomware affiliate",
       "mentions": 8
     },
     {
+      "keyword": "targeting footprint globally",
+      "mentions": 1
+    },
+    {
       "keyword": "p2p cybersecurity researchers",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2470
+    },
+    {
+      "keyword": "sales management system",
+      "mentions": 8
+    },
+    {
+      "keyword": "meta hacking technique",
+      "mentions": 2
+    },
+    {
+      "keyword": "exploited without authentication",
+      "mentions": 16
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
+      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
+      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus. The chain, tracked as GHSA-p9r8-2q67-fp86 and rated 9.4 on the CVSS v3.1 scoring system, impacts AIT-GUI",
+      "published": "Thu, 20 Aug 2026 16:35:11 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ToxicPanda 2.0 and GoldDigger Expand Android Banking Attacks with On-Device Fraud",
+      "link": "https://thehackernews.com/2026/08/toxicpanda-20-and-golddigger-expand.html",
+      "summary": "Cybersecurity researchers have shed light on an updated version of ToxicPanda (aka TgToxic) that comes with \"significant enhancements,\" including a set of 167 remote commands and expands its targeting footprint globally. Zimperium zLabs, in a Wednesday report, said the Android malware also features a PIN harvesting workflow targeting more than 140 banking and cryptocurrency applications.",
+      "published": "Thu, 20 Aug 2026 16:08:28 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "40 Malicious Firefox Extensions Pose as Web3 Products to Steal Wallet Secrets",
+      "link": "https://thehackernews.com/2026/08/40-malicious-firefox-extensions-pose-as.html",
+      "summary": "A set of 40 Mozilla Firefox extensions has been found to engage in cryptocurrency wallet theft by masquerading as OKX, Rabby Wallet, TronLink, and other Web3 products. According to the Socket Threat Research team, the extensions are part of a broader set of 77 browser add-ons that share source code and infrastructure overlaps. The campaign, dubbed Offside Wallet Theft Factory, is believed to",
+      "published": "Thu, 20 Aug 2026 14:12:03 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code",
@@ -118,36 +145,25 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Phishing 3.0: The Fight Moves to Agent Versus Agent",
-      "link": "https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html",
-      "summary": "Most email defenses still do the job they did a decade ago. Scan the message, look for something malicious, block it. That worked when the danger sat in the payload, a bad link or an attachment. It stopped working when the danger moved into the message's intent, and it is failing now that the sender is no longer a person. From Bad Content to Bad Intent to AI on Both Sides Phishing 1.0 was bad",
-      "published": "Wed, 19 Aug 2026 17:00:00 +0530",
-      "value_score": 26,
+      "source": "BleepingComputer",
+      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
+      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
+      "published": "Thu, 20 Aug 2026 08:14:38 -0400",
+      "value_score": 18,
       "value_signals": [
-        "Phishing ×2"
+        "Patch/update"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
-      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
-      "summary": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
-      "published": "Wed, 19 Aug 2026 16:55:28 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
-      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
-      "published": "Wed, 19 Aug 2026 16:31:48 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
+      "published": "Thu, 20 Aug 2026 07:06:14 -0400",
+      "value_score": 72,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×4",
+        "CISA/KEV ×2",
         "High severity ×2",
         "Exploit wording"
       ]
@@ -210,26 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/",
       "summary": "Japanese cloud and data center service provider Sakura Internet disclosed that hackers accessed its sales management system, where customer contract and membership information is stored. [...]",
       "published": "Wed, 19 Aug 2026 16:53:38 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
-      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
-      "summary": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
-      "published": "Wed, 19 Aug 2026 16:07:12 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
-      "summary": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
-      "published": "Wed, 19 Aug 2026 14:09:13 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -326,9 +322,18 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Agentic AI Presents New Insider Threat Model for Orgs",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model",
+      "summary": "Katie Moussouris of Luta Security talks with the Dark Reading News Desk about how enterprises will now need to monitor risks posed by their own agents in the wake of the recent Hugging Face attack.",
+      "published": "Wed, 19 Aug 2026 19:54:43 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
       "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-      "summary": "A spear-phishing campaign by a Chinese-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by China's APTs.",
+      "summary": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
       "published": "Wed, 19 Aug 2026 16:58:23 GMT",
       "value_score": 18,
       "value_signals": [
@@ -385,11 +390,57 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "published": "Tue, 18 Aug 2026 13:00:00 GMT",
+      "source": "Security Week",
+      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
+      "summary": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 12:24:53 +0000",
+      "value_score": 48,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
+      "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
+      "summary": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 12:05:55 +0000",
+      "value_score": 24,
+      "value_signals": [
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
+      "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
+      "summary": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 11:46:04 +0000",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
+      "link": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
+      "summary": "Atalanta's Argo product is now being used to prove the resilience of Viasat’s satellite communications network. The post AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 11:08:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
+      "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
+      "summary": "The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. The post OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 10:36:14 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -429,58 +480,6 @@
       "value_signals": [
         "CISA/KEV",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
-      "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-      "summary": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon – Secure Your Code and Applications appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 13:36:17 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Prevalent AI Raises $22 Million to Expand Data Fabric Platform",
-      "link": "https://www.securityweek.com/prevalent-ai-raises-22-million-to-expand-data-fabric-platform/",
-      "summary": "The previously bootstrapped company helps organizations securely and reliably operate AI agents at scale. The post Prevalent AI Raises $22 Million to Expand Data Fabric Platform appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 12:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them",
-      "link": "https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/",
-      "summary": "The 17 members of the Mabna Institute targeted hundreds of universities and organizations in the US and abroad. The post US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 11:30:33 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
-      "link": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
-      "summary": "The cybercrime gang has listed major companies such as Shell, Philips, Fiserv, Zebra, Mindray, and Largan Precision. The post Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 11:07:21 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
-      "summary": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Wed, 19 Aug 2026 10:37:31 +0000",
-      "value_score": 91,
-      "value_signals": [
-        "RCE",
-        "Auth bypass",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {

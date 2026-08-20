@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-20 10:23 UTC |
+| 🕐 Last Updated | 2026-08-20 12:35 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cve 2026 19478` • `windows operating systems` • `august 2026 updates` • `suspected ransomware affiliate` • `twitter whistleblower complaint` • `sales management system` • `openai confirms chatgpt` • `meta hacking technique` • `ai agents escaping` • `p2p cybersecurity researchers`
+`cve 2026 19478` • `hugging face incident` • `august 2026 updates` • `suspected ransomware affiliate` • `targeting footprint globally` • `p2p cybersecurity researchers` • `twitter whistleblower complaint` • `sales management system` • `meta hacking technique` • `exploited without authentication`
 
 ## 📄 Reports
 

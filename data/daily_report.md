@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-20 04:30 UTC  
+> **Last Updated:** 2026-08-20 06:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **suspected ransomware affiliate** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **login flows unprotected** • **ai agents escaping** • **30 web domains** • **p2p cybersecurity researchers** • **cybersecurity agencies warn** • **windows operating systems** • **vulnerability discoveries aided** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **signups fail chatgpt** • **residential proxy node**
+**943 patches rolled** • **cve 2026 19478** • **suspected ransomware affiliate** • **ransomware affiliate appears** • **p2p cybersecurity researchers** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **login flows unprotected** • **ai agents escaping** • **cybersecurity agencies warn** • **h1 2026 including** • **architecture researchers discovered** • **windows operating systems** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Elementor Pro Flaw Could Let Unauthenticated Attackers Upload PHP and Execute Code](https://thehackernews.com/2026/08/elementor-pro-flaw-could-let.html)
 - [Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second](https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html)
 - [OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior](https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html)
 - [SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs](https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html)
@@ -23,7 +24,6 @@
 - [Phishing 3.0: The Fight Moves to Agent Versus Agent](https://thehackernews.com/2026/08/phishing-30-fight-moves-to-agent-versus.html)
 - [StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data](https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html)
 - [Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation](https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html)
-- [Microsoft Links 30+ Rotating Domains to MacSync Stealer Infrastructure](https://thehackernews.com/2026/08/microsoft-links-30-rotating-domains-to.html)
 
 ### BleepingComputer
 
@@ -56,7 +56,7 @@
 - ['CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
 - [The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed](https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures)
 - [CISOs Break Their Silence in 'Declassified' Docuseries](https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries)
-- [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
+- ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
 
 ### Security Week
 

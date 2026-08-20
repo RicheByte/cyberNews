@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-20 14:29",
+  "last_updated": "2026-08-20 16:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "remote code execution",
     "critical netscaler flaw",
-    "send http requests",
-    "cve 2026 19478",
+    "prepared government agencies",
     "android banking malware",
-    "critical security flaw",
-    "suspected ransomware affiliate",
     "hugging face incident",
+    "attacks cert polska",
+    "critical security flaw",
     "twitter whistleblower complaint",
     "publicly detailed prior",
     "contractor published dozens",
-    "exploited without authentication",
     "grandoreiro malware resurfaces",
-    "cve identifier impacts",
     "sev 1 incident",
     "windows operating systems",
-    "national security risk",
-    "luta security talks",
+    "aaa servers citrix",
     "virtualization technology company",
-    "turn one's television"
+    "upload executable files",
+    "turn one's television",
+    "traditional email filters",
+    "text history records",
+    "strategic global moves"
   ],
   "trending": [
     {
       "keyword": "remote code execution",
-      "mentions": 484
+      "mentions": 485
     },
     {
       "keyword": "critical netscaler flaw",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "send http requests",
+      "keyword": "prepared government agencies",
       "mentions": 1
-    },
-    {
-      "keyword": "cve 2026 19478",
-      "mentions": 16
     },
     {
       "keyword": "android banking malware",
+      "mentions": 2
+    },
+    {
+      "keyword": "hugging face incident",
+      "mentions": 3
+    },
+    {
+      "keyword": "attacks cert polska",
       "mentions": 1
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 170
-    },
-    {
-      "keyword": "suspected ransomware affiliate",
-      "mentions": 9
-    },
-    {
-      "keyword": "hugging face incident",
-      "mentions": 2
+      "mentions": 171
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2471
+      "mentions": 2472
     },
     {
       "keyword": "publicly detailed prior",
-      "mentions": 34
+      "mentions": 35
+    },
+    {
+      "keyword": "contractor published dozens",
+      "mentions": 22
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+      "published": "Thu, 20 Aug 2026 20:06:27 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
@@ -144,13 +153,16 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "NASA AIT-GUI Flaws Could Let Unauthenticated Attackers Issue Spacecraft Commands",
-      "link": "https://thehackernews.com/2026/08/nasa-ait-gui-flaws-could-let.html",
-      "summary": "Security researchers at Cycode have disclosed a chain of flaws in AIT-GUI, the browser-based operator console for NASA/JPL's open-source AMMOS Instrument Toolkit, that allow an unauthenticated attacker to issue arbitrary commands to the software's spacecraft and instrument command bus. The chain, tracked as GHSA-p9r8-2q67-fp86 and rated 9.4 on the CVSS v3.1 scoring system, impacts AIT-GUI",
-      "published": "Thu, 20 Aug 2026 16:35:11 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "published": "Thu, 20 Aug 2026 10:39:48 -0400",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -227,17 +239,6 @@
       "published": "Wed, 19 Aug 2026 20:20:55 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Rogue ransomware affiliate poses as recovery firm to steal payments",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/",
-      "summary": "A suspected ransomware affiliate is posing as a ransomware recovery service called \"Ransom Busters,\" contacting the victims before the attacks become public and claiming to be able to provide decryption keys and delete stolen data for a fee. [...]",
-      "published": "Wed, 19 Aug 2026 16:59:58 -0400",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×3"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -323,6 +324,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+      "published": "Thu, 20 Aug 2026 14:59:22 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
       "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
@@ -391,11 +401,23 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
-      "summary": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
-      "published": "Tue, 18 Aug 2026 19:09:51 GMT",
+      "source": "Security Week",
+      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+      "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 14:50:49 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "CVE mentioned",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
+      "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+      "summary": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek .",
+      "published": "Thu, 20 Aug 2026 14:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -462,32 +484,6 @@
       "published": "Thu, 20 Aug 2026 10:36:14 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler",
-      "link": "https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/",
-      "summary": "Remote, unauthenticated attackers could exploit the critical-severity flaw without user interaction. The post Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 08:33:25 +0000",
-      "value_score": 62,
-      "value_signals": [
-        "Auth bypass ×2",
-        "High severity ×3",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical GitLab Flaw Exploited Shortly After Disclosure",
-      "link": "https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/",
-      "summary": "CVE-2026-19478 can be exploited without authentication to modify or delete public projects and user data. The post Critical GitLab Flaw Exploited Shortly After Disclosure appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 07:48:24 +0000",
-      "value_score": 50,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

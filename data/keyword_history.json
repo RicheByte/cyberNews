@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 706,
+      "count": 707,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -319,7 +319,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2473,
+      "count": 2474,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -861,7 +861,7 @@
       ]
     },
     "remote code execution": {
-      "count": 486,
+      "count": 487,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1171,7 +1171,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 172,
+      "count": 173,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1215,7 +1215,7 @@
       ]
     },
     "national security risk": {
-      "count": 383,
+      "count": 384,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23079,7 +23079,7 @@
       ]
     },
     "contractor published dozens": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23325,7 +23325,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24496,7 +24496,7 @@
       ]
     },
     "turn one's television": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26206,7 +26206,7 @@
       ]
     },
     "text history records": {
-      "count": 99,
+      "count": 100,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27283,7 +27283,7 @@
       ]
     },
     "upload executable files": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27554,7 +27554,7 @@
       ]
     },
     "hugging face incident": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-20"
       ]
@@ -27590,7 +27590,7 @@
       ]
     },
     "critical netscaler flaw": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-20"
       ]
@@ -27626,13 +27626,13 @@
       ]
     },
     "luta security talks": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-20"
       ]
     },
     "virtualization technology company": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-20"
       ]
@@ -27644,19 +27644,19 @@
       ]
     },
     "attacks cert polska": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-20"
       ]
     },
     "aaa servers citrix": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-20"
       ]
     },
     "traditional email filters": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-20"
       ]
@@ -27666,20 +27666,27 @@
       "dates": [
         "2026-08-20"
       ]
+    },
+    "think tanks within": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "ai security company": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
+    },
+    "budgets hinder progress": {
+      "count": 1,
+      "dates": [
+        "2026-08-20"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-12 09:05",
-      "articles": 48,
-      "top_keywords": [
-        "cvss backed patching",
-        "fix security vulnerabilities",
-        "twitter whistleblower complaint",
-        "sandworm hackers target",
-        "organized cybercrime groups"
-      ]
-    },
     {
       "timestamp": "2026-08-12 10:56",
       "articles": 48,
@@ -28767,6 +28774,17 @@
         "hugging face incident",
         "attacks cert polska",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-20 20:20",
+      "articles": 48,
+      "top_keywords": [
+        "critical netscaler flaw",
+        "think tanks within",
+        "hugging face incident",
+        "critical security flaw",
+        "ai security company"
       ]
     }
   ]

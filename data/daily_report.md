@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-20 18:30 UTC  
+> **Last Updated:** 2026-08-20 20:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**remote code execution** • **critical netscaler flaw** • **hugging face incident** • **attacks cert polska** • **twitter whistleblower complaint** • **publicly detailed prior** • **contractor published dozens** • **critical security flaw** • **sev 1 incident** • **prepared government agencies** • **aaa servers citrix** • **national security risk** • **luta security talks** • **windows operating systems** • **virtualization technology company** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **strategic global moves**
+**critical netscaler flaw** • **think tanks within** • **hugging face incident** • **critical security flaw** • **ai security company** • **twitter whistleblower complaint** • **remote code execution** • **contractor published dozens** • **budgets hinder progress** • **attacks cert polska** • **virtualization technology company** • **national security risk** • **luta security talks** • **aaa servers citrix** • **windows operating systems** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **software giant fixed**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
+- [ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More](https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html)
 - [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
 - [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
 - [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
 - [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
 - [Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution](https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html)
 - [Zombie Card Attack Can Revive Expired Visa Cards for Contactless Payments](https://thehackernews.com/2026/08/zombie-card-attack-can-revive-expired.html)
-- [Why "Shady AI" is Security's Next Big Governance Problem](https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html)
-- [CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification](https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html)
 
 ### BleepingComputer
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Calling on Cyber Pros to Help Defend City Hall](https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall)
+- [What We Missed: Delta Flight Disrupted With Wi-Fi Hack](https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack)
 - [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
+- [Money and Mindset: The Two Biggest Roadblocks to Cyber Policing](https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing)
 - [Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks)
 - ['Grandoreiro' Malware Resurfaces With Mexico Campaign](https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign)
 - [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
 - [Agentic AI Presents New Insider Threat Model for Orgs](https://www.darkreading.com/cyberattacks-data-breaches/agentic-ai-new-insider-threat-model)
-- [SilkParasite Threatens Central Asian Orgs With Flurry of RATs](https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats)
-- [China-Linked Hacker Shows AI Capabilities in APAC Attack](https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack)
-- [Critical GitLab Zero-Click Flaw Poses Mitigation Challenges](https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges)
 
 ### Security Week
 

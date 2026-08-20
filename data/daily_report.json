@@ -1,72 +1,93 @@
 {
-  "last_updated": "2026-08-20 18:30",
+  "last_updated": "2026-08-20 20:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "remote code execution",
     "critical netscaler flaw",
+    "think tanks within",
     "hugging face incident",
-    "attacks cert polska",
-    "twitter whistleblower complaint",
-    "publicly detailed prior",
-    "contractor published dozens",
     "critical security flaw",
-    "sev 1 incident",
-    "prepared government agencies",
-    "aaa servers citrix",
+    "ai security company",
+    "twitter whistleblower complaint",
+    "remote code execution",
+    "contractor published dozens",
+    "budgets hinder progress",
+    "attacks cert polska",
+    "virtualization technology company",
     "national security risk",
     "luta security talks",
+    "aaa servers citrix",
     "windows operating systems",
-    "virtualization technology company",
     "upload executable files",
     "turn one's television",
     "traditional email filters",
     "text history records",
-    "strategic global moves"
+    "software giant fixed"
   ],
   "trending": [
     {
-      "keyword": "remote code execution",
-      "mentions": 486
-    },
-    {
       "keyword": "critical netscaler flaw",
-      "mentions": 3
-    },
-    {
-      "keyword": "hugging face incident",
       "mentions": 4
     },
     {
-      "keyword": "attacks cert polska",
-      "mentions": 2
+      "keyword": "think tanks within",
+      "mentions": 1
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2473
-    },
-    {
-      "keyword": "publicly detailed prior",
-      "mentions": 36
-    },
-    {
-      "keyword": "contractor published dozens",
-      "mentions": 23
+      "keyword": "hugging face incident",
+      "mentions": 5
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 172
+      "mentions": 173
     },
     {
-      "keyword": "sev 1 incident",
+      "keyword": "ai security company",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2474
+    },
+    {
+      "keyword": "remote code execution",
+      "mentions": 487
+    },
+    {
+      "keyword": "contractor published dozens",
+      "mentions": 24
+    },
+    {
+      "keyword": "budgets hinder progress",
+      "mentions": 1
+    },
+    {
+      "keyword": "attacks cert polska",
       "mentions": 3
-    },
-    {
-      "keyword": "prepared government agencies",
-      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
+      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
+      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. \"These clusters engage in persistent, adaptive",
+      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit and More",
+      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
+      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
+      "published": "Thu, 20 Aug 2026 22:53:48 +0530",
+      "value_score": 56,
+      "value_signals": [
+        "RCE ×2",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
@@ -134,26 +155,6 @@
       "published": "Thu, 20 Aug 2026 17:31:24 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Why \"Shady AI\" is Security's Next Big Governance Problem",
-      "link": "https://thehackernews.com/2026/08/why-shady-ai-is-securitys-next-big.html",
-      "summary": "In March 2026, an internal AI agent at Meta triggered a “Sev 1” incident after sensitive company and user data was exposed to employees who weren’t authorized to access it. The incident began when a Meta employee posted a technical question on an internal forum. An engineer used an approved AI agent to analyze it, but the agent posted its response publicly without approval. The employee",
-      "published": "Thu, 20 Aug 2026 17:15:00 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "CDN Tsunami Attack Abuses HTTP/3 Translation for Up to 350x DoS Amplification",
-      "link": "https://thehackernews.com/2026/08/cdn-tsunami-attack-abuses-http3.html",
-      "summary": "Cybersecurity researchers have disclosed two denial-of-service (DoS) attacks that exploit how major content delivery networks (CDNs) convert client-facing HTTP/3 traffic into HTTP/1.1 requests to the websites they front, amplifying a low-bandwidth request stream by up to 350x against the origin server. The attacks, collectively named \"CDN Tsunami,\" were evaluated against Alibaba, Baidu,",
-      "published": "Thu, 20 Aug 2026 17:09:35 +0530",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -327,6 +328,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Calling on Cyber Pros to Help Defend City Hall",
+      "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
+      "published": "Fri, 21 Aug 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
+      "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
+      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy.",
+      "published": "Thu, 20 Aug 2026 19:11:15 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "N-able Bug Exposes Password Vault Master Keys",
       "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
       "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
@@ -335,6 +354,15 @@
       "value_signals": [
         "Patch/update"
       ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+      "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+      "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+      "published": "Thu, 20 Aug 2026 17:32:51 GMT",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Dark Reading",
@@ -371,39 +399,6 @@
       "published": "Wed, 19 Aug 2026 19:54:43 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
-      "link": "https://www.darkreading.com/threat-intelligence/silkparasite-central-asian-orgs-flurry-rats",
-      "summary": "A spear-phishing campaign by a China-nexus group linked to FamousSparrow provides insight into geopolitical, technical, and strategic global moves by the country's APTs.",
-      "published": "Wed, 19 Aug 2026 16:58:23 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
-      "summary": "In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
-      "published": "Wed, 19 Aug 2026 01:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-      "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-      "summary": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-      "published": "Tue, 18 Aug 2026 21:25:58 GMT",
-      "value_score": 42,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Security Week",

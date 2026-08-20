@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-20 02:51 UTC  
+> **Last Updated:** 2026-08-20 04:30 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**943 patches rolled** • **suspected ransomware affiliate** • **ransomware affiliate appears** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **login flows unprotected** • **ai agents escaping** • **30 web domains** • **p2p cybersecurity researchers** • **cybersecurity agencies warn** • **windows operating systems** • **vulnerability discoveries aided** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **signups fail chatgpt**
+**943 patches rolled** • **suspected ransomware affiliate** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **login flows unprotected** • **ai agents escaping** • **30 web domains** • **p2p cybersecurity researchers** • **cybersecurity agencies warn** • **windows operating systems** • **vulnerability discoveries aided** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **signups fail chatgpt** • **residential proxy node**
 
 ---
 
@@ -56,7 +56,7 @@
 - ['CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
 - [The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed](https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures)
 - [CISOs Break Their Silence in 'Declassified' Docuseries](https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries)
-- ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
+- [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
 
 ### Security Week
 

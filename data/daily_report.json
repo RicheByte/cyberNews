@@ -1,11 +1,10 @@
 {
-  "last_updated": "2026-08-20 02:51",
+  "last_updated": "2026-08-20 04:30",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "943 patches rolled",
     "suspected ransomware affiliate",
-    "ransomware affiliate appears",
     "twitter whistleblower complaint",
     "sales management system",
     "openai confirms chatgpt",
@@ -22,48 +21,49 @@
     "something malicious block",
     "software giant fixed",
     "software almost triple",
-    "signups fail chatgpt"
+    "signups fail chatgpt",
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "943 patches rolled",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "suspected ransomware affiliate",
-      "mentions": 3
-    },
-    {
-      "keyword": "ransomware affiliate appears",
-      "mentions": 6
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2465
+      "mentions": 2466
     },
     {
       "keyword": "sales management system",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "openai confirms chatgpt",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "login flows unprotected",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "ai agents escaping",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "30 web domains",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "p2p cybersecurity researchers",
-      "mentions": 7
+      "mentions": 8
+    },
+    {
+      "keyword": "cybersecurity agencies warn",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -381,14 +381,12 @@
     },
     {
       "source": "Dark Reading",
-      "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
-      "summary": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "summary": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
       "published": "Tue, 18 Aug 2026 13:00:00 GMT",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",

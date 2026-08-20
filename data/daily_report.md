@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-20 08:30 UTC  
+> **Last Updated:** 2026-08-20 10:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cve 2026 19478** • **windows operating systems** • **august 2026 updates** • **943 patches rolled** • **suspected ransomware affiliate** • **ransomware affiliate appears** • **ai agents escaping** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **p2p cybersecurity researchers** • **architecture researchers discovered** • **complex ai framework** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **signups fail chatgpt**
+**cve 2026 19478** • **windows operating systems** • **august 2026 updates** • **suspected ransomware affiliate** • **twitter whistleblower complaint** • **sales management system** • **openai confirms chatgpt** • **meta hacking technique** • **ai agents escaping** • **p2p cybersecurity researchers** • **architecture researchers discovered** • **exploited without authentication** • **turn one's television** • **text history records** • **spear phishing campaign** • **something malicious block** • **software giant fixed** • **software almost triple** • **signups fail chatgpt** • **residential proxy node**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
+- [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
 - [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
 - [OpenAI confirms ChatGPT is down as logins and signups fail](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/)
 - [Rogue ransomware affiliate poses as recovery firm to steal payments](https://www.bleepingcomputer.com/news/security/rogue-ransomware-affiliate-ransom-busters-poses-as-recovery-firm/)
 - [Sakura Internet hack exposes data of up to 1.36 million accounts](https://www.bleepingcomputer.com/news/security/sakura-internet-hack-exposes-data-of-up-to-136-million-accounts/)
 - [Healthtech firm CareCloud data breach impacts 3.7 million patients](https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/)
 - [Hackers compromise 14,500 Dahua web cameras in 35-day campaign](https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/)
-- [US warns of AI-powered attacks on Siemens PLCs in critical infrastructure](https://www.bleepingcomputer.com/news/security/us-warns-of-ai-powered-attacks-on-siemens-plcs-in-critical-infrastructure/)
-- [US charges Iranian hackers over $3.4 billion intellectual property theft](https://www.bleepingcomputer.com/news/security/us-charges-iranian-hackers-over-34-billion-intellectual-property-theft/)
 
 ### Krebs on Security
 
@@ -56,10 +56,11 @@
 - ['CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture](https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture)
 - [The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed](https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures)
 - [CISOs Break Their Silence in 'Declassified' Docuseries](https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries)
-- ['Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service](https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service)
+- [Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud](https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud)
 
 ### Security Week
 
+- [Exploitation Expected for Critical Authentication Bypass Patched in Citrix NetScaler](https://www.securityweek.com/exploitation-expected-for-critical-authentication-bypass-patched-in-citrix-netscaler/)
 - [Critical GitLab Flaw Exploited Shortly After Disclosure](https://www.securityweek.com/critical-gitlab-flaw-exploited-shortly-after-disclosure/)
 - [Hackers Using AI to Target Siemens PLCs in Critical US Sectors](https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/)
 - [Virtual Event Today: CodeSecCon – Secure Your Code and Applications](https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/)
@@ -67,7 +68,6 @@
 - [US Charges 17 Iranian Hackers, Offers $10 Million Rewards for 5 of Them](https://www.securityweek.com/us-charges-17-iranian-hackers-offers-10-million-rewards-for-5-of-them/)
 - [Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign](https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/)
 - [CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/)
-- [943 Patches Rolled Out With Oracle’s August 2026 Security Update](https://www.securityweek.com/943-patches-rolled-out-with-oracles-august-2026-security-update/)
 
 ### Threatpost
 

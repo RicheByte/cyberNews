@@ -1,17 +1,17 @@
 {
-  "last_updated": "2026-08-21 10:22",
+  "last_updated": "2026-08-21 12:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "think tanks within",
-    "ai security company",
-    "critical security flaw",
+    "cisa orders feds",
     "twitter whistleblower complaint",
     "poisoned arrayref version",
     "maintainer account behind",
     "budgets hinder progress",
     "national security risk",
-    "attacks cert polska",
+    "maximum severity vulnerability",
+    "v8 sandbox escape",
     "upload executable files",
     "turn one's television",
     "traditional email filters",
@@ -22,51 +22,69 @@
     "remained walled away",
     "re watching us",
     "publicly detailed prior",
-    "products stay away"
+    "public github repository"
   ],
   "trending": [
     {
       "keyword": "think tanks within",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "ai security company",
+      "keyword": "cisa orders feds",
       "mentions": 8
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 180
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2481
+      "mentions": 2482
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "maintainer account behind",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "budgets hinder progress",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "national security risk",
-      "mentions": 391
+      "mentions": 392
     },
     {
-      "keyword": "attacks cert polska",
-      "mentions": 10
+      "keyword": "maximum severity vulnerability",
+      "mentions": 39
+    },
+    {
+      "keyword": "v8 sandbox escape",
+      "mentions": 1
     },
     {
       "keyword": "upload executable files",
-      "mentions": 21
+      "mentions": 22
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Wazuh and AI For Enhanced SOC Workflows",
+      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
+      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
+      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
+      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
+      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
+      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -137,25 +155,38 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
-      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
-      "summary": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
-      "published": "Thu, 20 Aug 2026 20:06:27 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
+      "published": "Fri, 21 Aug 2026 08:25:33 -0400",
+      "value_score": 100,
+      "value_signals": [
+        "Active exploitation ×2",
+        "Patch/update",
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
-      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
-      "summary": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
-      "published": "Thu, 20 Aug 2026 19:18:24 +0530",
-      "value_score": 38,
+      "source": "BleepingComputer",
+      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
+      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
+      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
+      "value_score": 16,
       "value_signals": [
-        "RCE",
-        "High severity"
+        "Exploit wording"
       ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
+      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
+      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -209,42 +240,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA warns of hackers exploiting critical MLflow vulnerability",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that threat actors are now exploiting a critical vulnerability in the MLflow open-source AI engineering platform. [...]",
-      "published": "Thu, 20 Aug 2026 07:06:14 -0400",
-      "value_score": 72,
-      "value_signals": [
-        "CISA/KEV ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "summary": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "published": "Thu, 20 Aug 2026 06:02:02 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Zimbra RCE flaw now actively exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/",
-      "summary": "CERT Polska, the Polish Computer Emergency Response Team (CERT), warned that attackers have begun exploiting a critical vulnerability in Zimbra Collaboration Suite (ZCS). [...]",
-      "published": "Thu, 20 Aug 2026 05:46:54 -0400",
-      "value_score": 77,
-      "value_signals": [
-        "Active exploitation",
-        "RCE",
-        "High severity ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -405,6 +400,18 @@
     },
     {
       "source": "Security Week",
+      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
+      "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
+      "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 12:26:07 +0000",
+      "value_score": 66,
+      "value_signals": [
+        "RCE ×2",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
       "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
       "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek .",
@@ -473,19 +480,6 @@
       "published": "Thu, 20 Aug 2026 13:16:35 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities",
-      "link": "https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/",
-      "summary": "The flaws could be exploited to execute arbitrary code, access sensitive information, and elevate privileges. The post Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 12:24:53 +0000",
-      "value_score": 48,
-      "value_signals": [
-        "Patch/update ×2",
-        "High severity ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

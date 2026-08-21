@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2483,
+      "count": 2484,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -967,7 +967,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1220,7 +1220,7 @@
       ]
     },
     "national security risk": {
-      "count": 393,
+      "count": 394,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -20375,7 +20375,7 @@
       ]
     },
     "public github repository": {
-      "count": 82,
+      "count": 83,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -22432,7 +22432,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23261,7 +23261,7 @@
       ]
     },
     "software almost triple": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23334,7 +23334,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24178,7 +24178,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24230,11 +24230,12 @@
       ]
     },
     "move comes less": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-07-22",
         "2026-07-28",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-21"
       ]
     },
     "reduced cyber refusals": {
@@ -24507,7 +24508,7 @@
       ]
     },
     "turn one's television": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27090,7 +27091,7 @@
       ]
     },
     "remained walled away": {
-      "count": 45,
+      "count": 46,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27691,7 +27692,7 @@
       ]
     },
     "think tanks within": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27705,7 +27706,7 @@
       ]
     },
     "budgets hinder progress": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27718,13 +27719,13 @@
       ]
     },
     "products stay away": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "poisoned arrayref version": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-21"
       ]
@@ -27736,13 +27737,13 @@
       ]
     },
     "third party software": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-21"
       ]
     },
     "v8 sandbox escape": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
@@ -27754,6 +27755,18 @@
       ]
     },
     "secure workload software": {
+      "count": 2,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "legitimate monitoring tools": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "job applicants stemming": {
       "count": 1,
       "dates": [
         "2026-08-21"
@@ -27761,17 +27774,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-13 07:17",
-      "articles": 48,
-      "top_keywords": [
-        "fake remote workers",
-        "vmware vcenter server",
-        "target critical infrastructure",
-        "operation dream job",
-        "least march 2025"
-      ]
-    },
     {
       "timestamp": "2026-08-13 09:05",
       "articles": 48,
@@ -28859,6 +28861,17 @@
         "twitter whistleblower complaint",
         "poisoned arrayref version",
         "maintainer account behind"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 16:25",
+      "articles": 48,
+      "top_keywords": [
+        "think tanks within",
+        "cisa orders feds",
+        "twitter whistleblower complaint",
+        "poisoned arrayref version",
+        "budgets hinder progress"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 14:28",
+  "last_updated": "2026-08-21 16:25",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,63 +7,63 @@
     "cisa orders feds",
     "twitter whistleblower complaint",
     "poisoned arrayref version",
-    "maintainer account behind",
     "budgets hinder progress",
-    "active sessions revoked",
-    "national security risk",
     "maximum severity vulnerability",
+    "national security risk",
     "v8 sandbox escape",
-    "upload executable files",
     "turn one's television",
     "third party software",
     "software giant fixed",
     "software almost triple",
     "secure workload software",
     "residential proxy node",
-    "remote code execution",
     "remained walled away",
-    "re watching us"
+    "public github repository",
+    "products stay away",
+    "move comes less",
+    "legitimate monitoring tools",
+    "job applicants stemming"
   ],
   "trending": [
     {
       "keyword": "think tanks within",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 9
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2483
-    },
-    {
-      "keyword": "poisoned arrayref version",
-      "mentions": 3
-    },
-    {
-      "keyword": "maintainer account behind",
-      "mentions": 3
-    },
-    {
-      "keyword": "budgets hinder progress",
       "mentions": 10
     },
     {
-      "keyword": "active sessions revoked",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2484
     },
     {
-      "keyword": "national security risk",
-      "mentions": 393
+      "keyword": "poisoned arrayref version",
+      "mentions": 4
+    },
+    {
+      "keyword": "budgets hinder progress",
+      "mentions": 11
     },
     {
       "keyword": "maximum severity vulnerability",
-      "mentions": 40
+      "mentions": 41
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 394
     },
     {
       "keyword": "v8 sandbox escape",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "turn one's television",
+      "mentions": 147
+    },
+    {
+      "keyword": "third party software",
+      "mentions": 4
     }
   ],
   "articles": [
@@ -156,6 +156,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
+      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
+      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
+      "published": "Fri, 21 Aug 2026 10:54:49 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Is Online Privacy Possible? How Digital Identities Can Help",
       "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
       "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
@@ -215,27 +233,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
-      "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
-      "published": "Thu, 20 Aug 2026 13:53:52 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
-      "summary": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
-      "published": "Thu, 20 Aug 2026 10:39:48 -0400",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×2",
-        "High severity ×2"
       ]
     },
     {
@@ -396,6 +393,26 @@
     },
     {
       "source": "Security Week",
+      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
+      "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
+      "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 15:11:16 +0000",
+      "value_score": 20,
+      "value_signals": [
+        "Botnet"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
+      "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
+      "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 14:34:05 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
       "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
       "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .",
@@ -458,27 +475,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
-      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
-      "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 14:50:49 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "CVE mentioned",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
-      "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-      "summary": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

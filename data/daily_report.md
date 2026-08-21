@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-21 14:28 UTC  
+> **Last Updated:** 2026-08-21 16:25 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**think tanks within** • **cisa orders feds** • **twitter whistleblower complaint** • **poisoned arrayref version** • **maintainer account behind** • **budgets hinder progress** • **active sessions revoked** • **national security risk** • **maximum severity vulnerability** • **v8 sandbox escape** • **upload executable files** • **turn one's television** • **third party software** • **software giant fixed** • **software almost triple** • **secure workload software** • **residential proxy node** • **remote code execution** • **remained walled away** • **re watching us**
+**think tanks within** • **cisa orders feds** • **twitter whistleblower complaint** • **poisoned arrayref version** • **budgets hinder progress** • **maximum severity vulnerability** • **national security risk** • **v8 sandbox escape** • **turn one's television** • **third party software** • **software giant fixed** • **software almost triple** • **secure workload software** • **residential proxy node** • **remained walled away** • **public github repository** • **products stay away** • **move comes less** • **legitimate monitoring tools** • **job applicants stemming**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
+- [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 - [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
 - [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 - [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
 - [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 - [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
 - [SickKids data breach exposes employee and job applicant info](https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/)
-- [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
-- [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
+- [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
 - [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
 - [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
 - [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
 - [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
 - [Microsoft Patches Exploited Entra ID Vulnerability](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
 - [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
-- [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
-- [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
 
 ### Threatpost
 

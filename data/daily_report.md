@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-21 12:35 UTC  
+> **Last Updated:** 2026-08-21 14:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**think tanks within** • **cisa orders feds** • **twitter whistleblower complaint** • **poisoned arrayref version** • **maintainer account behind** • **budgets hinder progress** • **national security risk** • **maximum severity vulnerability** • **v8 sandbox escape** • **upload executable files** • **turn one's television** • **traditional email filters** • **third party software** • **software giant fixed** • **software almost triple** • **residential proxy node** • **remained walled away** • **re watching us** • **publicly detailed prior** • **public github repository**
+**think tanks within** • **cisa orders feds** • **twitter whistleblower complaint** • **poisoned arrayref version** • **maintainer account behind** • **budgets hinder progress** • **active sessions revoked** • **national security risk** • **maximum severity vulnerability** • **v8 sandbox escape** • **upload executable files** • **turn one's television** • **third party software** • **software giant fixed** • **software almost triple** • **secure workload software** • **residential proxy node** • **remote code execution** • **remained walled away** • **re watching us**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
+- [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 - [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
 - [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 - [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
 - [SickKids data breach exposes employee and job applicant info](https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/)
 - [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
 - [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
-- [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
-- [Citrix urges admins to patch new NetScaler flaws as soon as possible](https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
-- [Calling on Cyber Pros to Help Defend City Hall](https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall)
+- [Calling on Cyber Pros to Help Defend City Hall](https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall)
+- [OpenAI Adds Controls That Should've Been There Already](https://www.darkreading.com/application-security/openai-adds-controls-already)
 - [New CUSTODY Framework Constrains AI Agents Inside the Network](https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network)
 - [What We Missed: Delta Flight Disrupted With Wi-Fi Hack](https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack)
 - [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
 - [Money and Mindset: The Two Biggest Roadblocks to Cyber Policing](https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing)
 - [Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks)
 - ['Grandoreiro' Malware Resurfaces With Mexico Campaign](https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign)
-- [No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns](https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns)
 
 ### Security Week
 
+- [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
 - [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
 - [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
 - [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
-- [Microsoft Rolls Out 22 Fresh Security Patches](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
+- [Microsoft Patches Exploited Entra ID Vulnerability](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
 - [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
 - [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
 - [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
-- [Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)
 
 ### Threatpost
 

@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2482,
+      "count": 2483,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -863,7 +863,7 @@
       ]
     },
     "remote code execution": {
-      "count": 492,
+      "count": 493,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -967,7 +967,7 @@
       ]
     },
     "maximum severity vulnerability": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1220,7 +1220,7 @@
       ]
     },
     "national security risk": {
-      "count": 392,
+      "count": 393,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -22432,7 +22432,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23261,7 +23261,7 @@
       ]
     },
     "software almost triple": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23334,7 +23334,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24178,7 +24178,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24507,7 +24507,7 @@
       ]
     },
     "turn one's television": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -27090,7 +27090,7 @@
       ]
     },
     "remained walled away": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27299,7 +27299,7 @@
       ]
     },
     "upload executable files": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27691,7 +27691,7 @@
       ]
     },
     "think tanks within": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27705,14 +27705,14 @@
       ]
     },
     "budgets hinder progress": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-20",
         "2026-08-21"
       ]
     },
     "re watching us": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-21"
       ]
@@ -27724,24 +27724,36 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "maintainer account behind": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "third party software": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "v8 sandbox escape": {
+      "count": 2,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "active sessions revoked": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "secure workload software": {
       "count": 1,
       "dates": [
         "2026-08-21"
@@ -27749,17 +27761,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-13 04:05",
-      "articles": 48,
-      "top_keywords": [
-        "fake remote workers",
-        "vmware vcenter server",
-        "operation dream job",
-        "least march 2025",
-        "hijack customer accounts"
-      ]
-    },
     {
       "timestamp": "2026-08-13 07:17",
       "articles": 48,
@@ -28840,6 +28841,17 @@
     },
     {
       "timestamp": "2026-08-21 12:35",
+      "articles": 48,
+      "top_keywords": [
+        "think tanks within",
+        "cisa orders feds",
+        "twitter whistleblower complaint",
+        "poisoned arrayref version",
+        "maintainer account behind"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 14:28",
       "articles": 48,
       "top_keywords": [
         "think tanks within",

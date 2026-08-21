@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 12:35",
+  "last_updated": "2026-08-21 14:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -9,61 +9,61 @@
     "poisoned arrayref version",
     "maintainer account behind",
     "budgets hinder progress",
+    "active sessions revoked",
     "national security risk",
     "maximum severity vulnerability",
     "v8 sandbox escape",
     "upload executable files",
     "turn one's television",
-    "traditional email filters",
     "third party software",
     "software giant fixed",
     "software almost triple",
+    "secure workload software",
     "residential proxy node",
+    "remote code execution",
     "remained walled away",
-    "re watching us",
-    "publicly detailed prior",
-    "public github repository"
+    "re watching us"
   ],
   "trending": [
     {
       "keyword": "think tanks within",
-      "mentions": 9
+      "mentions": 10
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 8
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2482
-    },
-    {
-      "keyword": "poisoned arrayref version",
-      "mentions": 2
-    },
-    {
-      "keyword": "maintainer account behind",
-      "mentions": 2
-    },
-    {
-      "keyword": "budgets hinder progress",
       "mentions": 9
     },
     {
-      "keyword": "national security risk",
-      "mentions": 392
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2483
     },
     {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 39
+      "keyword": "poisoned arrayref version",
+      "mentions": 3
     },
     {
-      "keyword": "v8 sandbox escape",
+      "keyword": "maintainer account behind",
+      "mentions": 3
+    },
+    {
+      "keyword": "budgets hinder progress",
+      "mentions": 10
+    },
+    {
+      "keyword": "active sessions revoked",
       "mentions": 1
     },
     {
-      "keyword": "upload executable files",
-      "mentions": 22
+      "keyword": "national security risk",
+      "mentions": 393
+    },
+    {
+      "keyword": "maximum severity vulnerability",
+      "mentions": 40
+    },
+    {
+      "keyword": "v8 sandbox escape",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -156,6 +156,24 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
+      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
+      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
+      "published": "Fri, 21 Aug 2026 10:00:10 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
+      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
+      "published": "Fri, 21 Aug 2026 09:39:35 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
@@ -218,28 +236,6 @@
       "value_signals": [
         "RCE ×2",
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "summary": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-      "published": "Thu, 20 Aug 2026 10:01:11 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Citrix urges admins to patch new NetScaler flaws as soon as possible",
-      "link": "https://www.bleepingcomputer.com/news/security/citrix-urges-admins-to-patch-new-netscaler-flaws-as-soon-as-possible/",
-      "summary": "Citrix has warned customers to immediately secure their systems against two vulnerabilities affecting NetScaler Gateway secure remote access solutions and NetScaler ADC networking appliances. [...]",
-      "published": "Thu, 20 Aug 2026 08:14:38 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -327,9 +323,18 @@
     {
       "source": "Dark Reading",
       "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "link": "https://www.darkreading.com/cyber-risk/calling-on-cyber-pros-to-help-city-hall",
+      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
       "published": "Fri, 21 Aug 2026 14:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "OpenAI Adds Controls That Should've Been There Already",
+      "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
+      "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "published": "Fri, 21 Aug 2026 13:30:00 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -390,13 +395,15 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "No-Filter 'Kriminal' AI Platform Raises Cybercrime Concerns",
-      "link": "https://www.darkreading.com/application-security/no-filter-kriminal-ai-platform-cybercrime-concerns",
-      "summary": "The AI company officially forbids illicit use, while offering guardrail-free social engineering, offensive cybercrime, and OSINT scanning to anyone with a bit of cryptocurrency.",
-      "published": "Wed, 19 Aug 2026 20:32:09 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
+      "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
+      "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 14:22:06 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -430,13 +437,14 @@
     },
     {
       "source": "Security Week",
-      "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
       "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "summary": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek .",
+      "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek .",
       "published": "Fri, 21 Aug 2026 08:12:19 +0000",
-      "value_score": 22,
+      "value_score": 28,
       "value_signals": [
-        "Privilege escalation"
+        "Privilege escalation",
+        "Exploit wording"
       ]
     },
     {
@@ -469,15 +477,6 @@
       "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
       "summary": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek .",
       "published": "Thu, 20 Aug 2026 14:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
-      "link": "https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/",
-      "summary": "Operation CameraSwarm targeted Dahua cameras across multiple countries, focusing on Russian and CIS telecom netblocks. The post Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 13:16:35 +0000",
       "value_score": 10,
       "value_signals": []
     },

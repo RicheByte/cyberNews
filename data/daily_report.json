@@ -1,9 +1,8 @@
 {
-  "last_updated": "2026-08-21 20:18",
+  "last_updated": "2026-08-21 22:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "think tanks within",
     "sprawling phishing campaign",
     "twitter whistleblower complaint",
     "trusted execution environment",
@@ -16,6 +15,7 @@
     "v8 sandbox escape",
     "universal skill format",
     "turn one's television",
+    "trojanized npm packages",
     "text history records",
     "steal credentials via",
     "software giant fixed",
@@ -26,47 +26,58 @@
   ],
   "trending": [
     {
-      "keyword": "think tanks within",
-      "mentions": 13
-    },
-    {
       "keyword": "sprawling phishing campaign",
-      "mentions": 551
+      "mentions": 552
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2486
+      "mentions": 2487
     },
     {
       "keyword": "trusted execution environment",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "national security risk",
-      "mentions": 396
+      "mentions": 397
     },
     {
       "keyword": "delete security software",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "v8 sandbox escape",
+      "mentions": 6
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+      "published": "Sat, 22 Aug 2026 00:23:00 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
@@ -139,15 +150,6 @@
       "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
       "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
       "published": "Fri, 21 Aug 2026 01:52:35 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
-      "link": "https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html",
-      "summary": "Three distinct suspected Russian cyber espionage threat clusters have been observed leveraging legitimate authentication flows to single out individuals working in academia, aerospace and defense, governments, and think tanks across Europe, as well as academia and think tanks within the U.S. These clusters include UNC6293, UNC7005, and UNC5976. \"These clusters engage in persistent, adaptive",
-      "published": "Fri, 21 Aug 2026 01:29:19 +0530",
       "value_score": 10,
       "value_signals": []
     },

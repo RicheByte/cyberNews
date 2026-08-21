@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-21 20:18 UTC |
+| 🕐 Last Updated | 2026-08-21 22:17 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`think tanks within` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `trusted execution environment` • `poisoned arrayref version` • `multi stage downloader` • `fake lock screen` • `cisa orders feds` • `national security risk` • `delete security software`
+`sprawling phishing campaign` • `twitter whistleblower complaint` • `trusted execution environment` • `poisoned arrayref version` • `multi stage downloader` • `fake lock screen` • `cisa orders feds` • `national security risk` • `delete security software` • `v8 sandbox escape`
 
 ## 📄 Reports
 

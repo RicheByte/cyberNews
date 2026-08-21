@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2486,
+      "count": 2487,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1220,7 +1220,7 @@
       ]
     },
     "national security risk": {
-      "count": 396,
+      "count": 397,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1963,7 +1963,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 551,
+      "count": 552,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20376,7 +20376,7 @@
       ]
     },
     "public github repository": {
-      "count": 84,
+      "count": 85,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -22433,7 +22433,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23262,7 +23262,7 @@
       ]
     },
     "software almost triple": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23335,7 +23335,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24509,7 +24509,7 @@
       ]
     },
     "turn one's television": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26220,7 +26220,7 @@
       ]
     },
     "text history records": {
-      "count": 108,
+      "count": 109,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27092,7 +27092,7 @@
       ]
     },
     "remained walled away": {
-      "count": 48,
+      "count": 49,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27726,7 +27726,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-21"
       ]
@@ -27744,7 +27744,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-21"
       ]
@@ -27756,7 +27756,7 @@
       ]
     },
     "secure workload software": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21"
       ]
@@ -27774,54 +27774,49 @@
       ]
     },
     "trusted execution environment": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "multi stage downloader": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "fake lock screen": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "delete security software": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "universal skill format": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
     },
     "steal credentials via": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "trojanized npm packages": {
+      "count": 1,
       "dates": [
         "2026-08-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-13 12:57",
-      "articles": 48,
-      "top_keywords": [
-        "vmware vcenter server",
-        "target critical infrastructure",
-        "hijack customer accounts",
-        "attackers crosshairs tracked",
-        "operation dream job"
-      ]
-    },
     {
       "timestamp": "2026-08-13 14:51",
       "articles": 48,
@@ -28909,6 +28904,17 @@
         "twitter whistleblower complaint",
         "trusted execution environment",
         "poisoned arrayref version"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 22:17",
+      "articles": 48,
+      "top_keywords": [
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "trusted execution environment",
+        "poisoned arrayref version",
+        "multi stage downloader"
       ]
     }
   ]

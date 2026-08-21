@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-21 20:18 UTC  
+> **Last Updated:** 2026-08-21 22:17 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**think tanks within** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **national security risk** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away** • **public github repository**
+**sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **national security risk** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trojanized npm packages** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away** • **public github repository**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
 - [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
 - [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html)
 - [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
@@ -23,7 +24,6 @@
 - [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
 - [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 - [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
-- [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
 
 ### BleepingComputer
 

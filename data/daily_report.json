@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 18:28",
+  "last_updated": "2026-08-21 20:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,7 +11,6 @@
     "multi stage downloader",
     "fake lock screen",
     "cisa orders feds",
-    "budgets hinder progress",
     "national security risk",
     "delete security software",
     "v8 sandbox escape",
@@ -22,48 +21,49 @@
     "software giant fixed",
     "software almost triple",
     "secure workload software",
-    "remained walled away"
+    "remained walled away",
+    "public github repository"
   ],
   "trending": [
     {
       "keyword": "think tanks within",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 550
+      "mentions": 551
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2485
+      "mentions": 2486
     },
     {
       "keyword": "trusted execution environment",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 11
-    },
-    {
-      "keyword": "budgets hinder progress",
       "mentions": 12
     },
     {
       "keyword": "national security risk",
-      "mentions": 395
+      "mentions": 396
+    },
+    {
+      "keyword": "delete security software",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -374,7 +374,7 @@
       "source": "Dark Reading",
       "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
       "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-      "summary": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+      "summary": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
       "published": "Thu, 20 Aug 2026 17:32:51 GMT",
       "value_score": 10,
       "value_signals": []

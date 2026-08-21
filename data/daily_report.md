@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-21 18:28 UTC  
+> **Last Updated:** 2026-08-21 20:18 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**think tanks within** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **budgets hinder progress** • **national security risk** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away**
+**think tanks within** • **sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **national security risk** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away** • **public github repository**
 
 ---
 

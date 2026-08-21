@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2485,
+      "count": 2486,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1220,7 +1220,7 @@
       ]
     },
     "national security risk": {
-      "count": 395,
+      "count": 396,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1963,7 +1963,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 550,
+      "count": 551,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20376,7 +20376,7 @@
       ]
     },
     "public github repository": {
-      "count": 83,
+      "count": 84,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -22433,7 +22433,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23262,7 +23262,7 @@
       ]
     },
     "software almost triple": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23335,7 +23335,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24509,7 +24509,7 @@
       ]
     },
     "turn one's television": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26220,7 +26220,7 @@
       ]
     },
     "text history records": {
-      "count": 107,
+      "count": 108,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27092,7 +27092,7 @@
       ]
     },
     "remained walled away": {
-      "count": 47,
+      "count": 48,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27693,7 +27693,7 @@
       ]
     },
     "think tanks within": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27726,7 +27726,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-21"
       ]
@@ -27744,7 +27744,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21"
       ]
@@ -27756,7 +27756,7 @@
       ]
     },
     "secure workload software": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-21"
       ]
@@ -27774,54 +27774,43 @@
       ]
     },
     "trusted execution environment": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     },
     "multi stage downloader": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     },
     "fake lock screen": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     },
     "delete security software": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     },
     "universal skill format": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     },
     "steal credentials via": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-13 10:56",
-      "articles": 48,
-      "top_keywords": [
-        "fake remote workers",
-        "vmware vcenter server",
-        "target critical infrastructure",
-        "hijack customer accounts",
-        "attackers crosshairs tracked"
-      ]
-    },
     {
       "timestamp": "2026-08-13 12:57",
       "articles": 48,
@@ -28902,6 +28891,17 @@
     },
     {
       "timestamp": "2026-08-21 18:28",
+      "articles": 48,
+      "top_keywords": [
+        "think tanks within",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "trusted execution environment",
+        "poisoned arrayref version"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 20:18",
       "articles": 48,
       "top_keywords": [
         "think tanks within",

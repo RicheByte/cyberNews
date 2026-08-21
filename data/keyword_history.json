@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2480,
+      "count": 2481,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1174,7 +1174,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 179,
+      "count": 180,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1219,7 +1219,7 @@
       ]
     },
     "national security risk": {
-      "count": 390,
+      "count": 391,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23258,7 +23258,7 @@
       ]
     },
     "software almost triple": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23331,7 +23331,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 145,
+      "count": 146,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24175,7 +24175,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 176,
+      "count": 177,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24504,7 +24504,7 @@
       ]
     },
     "turn one's television": {
-      "count": 143,
+      "count": 144,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26843,7 +26843,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -27087,7 +27087,7 @@
       ]
     },
     "remained walled away": {
-      "count": 42,
+      "count": 43,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27296,7 +27296,7 @@
       ]
     },
     "upload executable files": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27661,7 +27661,7 @@
       ]
     },
     "attacks cert polska": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27675,7 +27675,7 @@
       ]
     },
     "traditional email filters": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27688,33 +27688,51 @@
       ]
     },
     "think tanks within": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-20",
         "2026-08-21"
       ]
     },
     "ai security company": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-20",
         "2026-08-21"
       ]
     },
     "budgets hinder progress": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-20",
         "2026-08-21"
       ]
     },
     "re watching us": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-21"
       ]
     },
     "products stay away": {
+      "count": 2,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "poisoned arrayref version": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "maintainer account behind": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "third party software": {
       "count": 1,
       "dates": [
         "2026-08-21"
@@ -27722,17 +27740,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-12 22:34",
-      "articles": 48,
-      "top_keywords": [
-        "fake remote workers",
-        "vmware vcenter server",
-        "hijack customer accounts",
-        "operation dream job",
-        "least march 2025"
-      ]
-    },
     {
       "timestamp": "2026-08-13 01:25",
       "articles": 48,
@@ -28820,6 +28827,17 @@
         "critical security flaw",
         "twitter whistleblower complaint",
         "budgets hinder progress"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 10:22",
+      "articles": 48,
+      "top_keywords": [
+        "think tanks within",
+        "ai security company",
+        "critical security flaw",
+        "twitter whistleblower complaint",
+        "poisoned arrayref version"
       ]
     }
   ]

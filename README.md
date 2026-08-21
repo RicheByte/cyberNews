@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-21 08:33 UTC |
+| 🕐 Last Updated | 2026-08-21 10:22 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`think tanks within` • `ai security company` • `critical security flaw` • `twitter whistleblower complaint` • `budgets hinder progress` • `august 2026 updates` • `attacks cert polska` • `national security risk` • `windows operating systems` • `upload executable files`
+`think tanks within` • `ai security company` • `critical security flaw` • `twitter whistleblower complaint` • `poisoned arrayref version` • `maintainer account behind` • `budgets hinder progress` • `national security risk` • `attacks cert polska` • `upload executable files`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-21 08:33 UTC  
+> **Last Updated:** 2026-08-21 10:22 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**think tanks within** • **ai security company** • **critical security flaw** • **twitter whistleblower complaint** • **budgets hinder progress** • **august 2026 updates** • **attacks cert polska** • **national security risk** • **windows operating systems** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **software giant fixed** • **software almost triple** • **residential proxy node** • **remained walled away** • **re watching us** • **publicly detailed prior** • **products stay away**
+**think tanks within** • **ai security company** • **critical security flaw** • **twitter whistleblower complaint** • **poisoned arrayref version** • **maintainer account behind** • **budgets hinder progress** • **national security risk** • **attacks cert polska** • **upload executable files** • **turn one's television** • **traditional email filters** • **third party software** • **software giant fixed** • **software almost triple** • **residential proxy node** • **remained walled away** • **re watching us** • **publicly detailed prior** • **products stay away**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [SickKids data breach exposes employee and job applicant info](https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/)
 - [Hackers poison arrayref Rust crate to push infostealer malware](https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/)
 - [Critical Elementor Pro bug exposes WordPress sites to RCE attacks](https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/)
 - [How MSPs can catch phishing attacks email filters miss](https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/)
@@ -34,7 +35,6 @@
 - [CISA warns of hackers exploiting critical MLflow vulnerability](https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-mlflow-vulnerability/)
 - [New Manic Android malware can exfiltrate data through nearby devices](https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/)
 - [Critical Zimbra RCE flaw now actively exploited in attacks](https://www.bleepingcomputer.com/news/security/critical-zimbra-rce-flaw-now-actively-exploited-in-attacks/)
-- [Microsoft says August Windows updates may cause gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
+- [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
 - [Microsoft Rolls Out 22 Fresh Security Patches](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
 - [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
 - [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
 - [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
 - [Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)
 - [Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)
-- [MLflow Vulnerability Exploited for Cloud Credential Theft](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)
-- [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
 
 ### Threatpost
 

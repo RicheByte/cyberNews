@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-21 08:33",
+  "last_updated": "2026-08-21 10:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,15 +7,15 @@
     "ai security company",
     "critical security flaw",
     "twitter whistleblower complaint",
+    "poisoned arrayref version",
+    "maintainer account behind",
     "budgets hinder progress",
-    "august 2026 updates",
-    "attacks cert polska",
     "national security risk",
-    "windows operating systems",
+    "attacks cert polska",
     "upload executable files",
     "turn one's television",
     "traditional email filters",
-    "text history records",
+    "third party software",
     "software giant fixed",
     "software almost triple",
     "residential proxy node",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "think tanks within",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "ai security company",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 179
+      "mentions": 180
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2480
+      "mentions": 2481
+    },
+    {
+      "keyword": "poisoned arrayref version",
+      "mentions": 1
+    },
+    {
+      "keyword": "maintainer account behind",
+      "mentions": 1
     },
     {
       "keyword": "budgets hinder progress",
-      "mentions": 7
-    },
-    {
-      "keyword": "august 2026 updates",
-      "mentions": 4
-    },
-    {
-      "keyword": "attacks cert polska",
-      "mentions": 9
+      "mentions": 8
     },
     {
       "keyword": "national security risk",
-      "mentions": 390
+      "mentions": 391
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 713
+      "keyword": "attacks cert polska",
+      "mentions": 10
     },
     {
       "keyword": "upload executable files",
-      "mentions": 20
+      "mentions": 21
     }
   ],
   "articles": [
@@ -159,6 +159,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "SickKids data breach exposes employee and job applicant info",
+      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
+      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
+      "published": "Fri, 21 Aug 2026 06:10:42 -0400",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers poison arrayref Rust crate to push infostealer malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
       "summary": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
@@ -235,15 +246,6 @@
         "High severity ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says August Windows updates may cause gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
-      "summary": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
-      "published": "Thu, 20 Aug 2026 02:51:03 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -403,6 +405,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
+      "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
+      "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 09:23:18 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind",
+      "link": "https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/",
+      "summary": "Two industry surveys released this week by Kiteworks and CyberSheath paint a consistent picture of the defense industrial base. The post Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 08:41:06 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Microsoft Rolls Out 22 Fresh Security Patches",
       "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
       "summary": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek .",
@@ -465,30 +485,6 @@
         "Patch/update ×2",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "MLflow Vulnerability Exploited for Cloud Credential Theft",
-      "link": "https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/",
-      "summary": "The critical-severity flaw allows attackers to send HTTP requests to internal endpoints and extract sensitive information. The post MLflow Vulnerability Exploited for Cloud Credential Theft appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 12:05:55 +0000",
-      "value_score": 24,
-      "value_signals": [
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities",
-      "link": "https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/",
-      "summary": "The flaws could lead to remote code execution, authentication bypasses, and path traversal attacks. The post Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 11:46:04 +0000",
-      "value_score": 46,
-      "value_signals": [
-        "RCE",
-        "High severity ×2"
       ]
     },
     {

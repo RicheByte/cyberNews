@@ -1,72 +1,94 @@
 {
-  "last_updated": "2026-08-21 16:25",
+  "last_updated": "2026-08-21 18:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "think tanks within",
-    "cisa orders feds",
+    "sprawling phishing campaign",
     "twitter whistleblower complaint",
+    "trusted execution environment",
     "poisoned arrayref version",
+    "multi stage downloader",
+    "fake lock screen",
+    "cisa orders feds",
     "budgets hinder progress",
-    "maximum severity vulnerability",
     "national security risk",
+    "delete security software",
     "v8 sandbox escape",
+    "universal skill format",
     "turn one's television",
-    "third party software",
+    "text history records",
+    "steal credentials via",
     "software giant fixed",
     "software almost triple",
     "secure workload software",
-    "residential proxy node",
-    "remained walled away",
-    "public github repository",
-    "products stay away",
-    "move comes less",
-    "legitimate monitoring tools",
-    "job applicants stemming"
+    "remained walled away"
   ],
   "trending": [
     {
       "keyword": "think tanks within",
-      "mentions": 11
+      "mentions": 12
     },
     {
-      "keyword": "cisa orders feds",
-      "mentions": 10
+      "keyword": "sprawling phishing campaign",
+      "mentions": 550
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2484
+      "mentions": 2485
+    },
+    {
+      "keyword": "trusted execution environment",
+      "mentions": 1
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "budgets hinder progress",
+      "keyword": "multi stage downloader",
+      "mentions": 1
+    },
+    {
+      "keyword": "fake lock screen",
+      "mentions": 1
+    },
+    {
+      "keyword": "cisa orders feds",
       "mentions": 11
     },
     {
-      "keyword": "maximum severity vulnerability",
-      "mentions": 41
+      "keyword": "budgets hinder progress",
+      "mentions": 12
     },
     {
       "keyword": "national security risk",
-      "mentions": 394
-    },
-    {
-      "keyword": "v8 sandbox escape",
-      "mentions": 3
-    },
-    {
-      "keyword": "turn one's television",
-      "mentions": 147
-    },
-    {
-      "keyword": "third party software",
-      "mentions": 4
+      "mentions": 395
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
+      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
+      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
+      "published": "Fri, 21 Aug 2026 21:22:10 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
+      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
+      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
+      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Wazuh and AI For Enhanced SOC Workflows",
@@ -100,15 +122,14 @@
     },
     {
       "source": "The Hacker News",
-      "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
+      "title": "Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution",
       "link": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
-      "summary": "Microsoft on Thursday warned of a maximum-severity security flaw in Entra ID that it said has been exploited in the wild, but noted that no customer action is required. The vulnerability, tracked as CVE-2026-69836 (CVSS score: 10.0), is a case of remote code execution impacting the tech giant's cloud-based identity and access management service. It was previously called Azure Active Directory",
+      "summary": "Update: The story was updated after publication to note that the vulnerability has not been exploited. Although the security bulletin originally marked the \"Exploited\" field under the Exploitability Assessment table as \"Yes,\" on August 21, 2026, Microsoft corrected the \"Exploited\" status to \"No\" after The Hacker News contacted the company for comment. It also noted, \"this vulnerability was not",
       "published": "Fri, 21 Aug 2026 11:36:11 +0530",
-      "value_score": 99,
+      "value_score": 44,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "RCE ×2",
+        "RCE",
+        "Patch/update",
         "Exploit wording"
       ]
     },
@@ -131,27 +152,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "ThreatsDay: Gogs 10.0 RCE, n8n Workflow-to-RCE, $10M Reward, GLM-5.3 AI Exploit, and More",
-      "link": "https://thehackernews.com/2026/08/threatsday-gogs-100-rce-n8n-workflow-to.html",
-      "summary": "A lot of this week’s trouble starts with something trusted doing exactly what it was allowed to do. Signed drivers get turned against defenses. Legitimate apps help malware blend in. A weak header check opens a path to code execution. Elsewhere, exposed systems, old bugs, odd hiding tricks, and AI-assisted exploit research keep lowering the effort needed to cause damage. Nothing here needs",
-      "published": "Thu, 20 Aug 2026 22:53:48 +0530",
-      "value_score": 56,
+      "source": "BleepingComputer",
+      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
+      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
+      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
+      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
+      "value_score": 26,
       "value_signals": [
-        "RCE ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
-      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
-      "summary": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
-      "published": "Thu, 20 Aug 2026 22:29:44 +0530",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
+        "Phishing ×2"
       ]
     },
     {
@@ -223,17 +231,6 @@
       "published": "Fri, 21 Aug 2026 07:00:00 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "SickKids data breach exposes employee and job applicant info",
-      "link": "https://www.bleepingcomputer.com/news/security/sickkids-data-breach-exposes-employee-and-job-applicant-info/",
-      "summary": "Toronto's Hospital for Sick Children (SickKids) says a cybersecurity incident exposed the personal information of some current and former employees and job applicants, stemming from a flaw in third-party software. Clinical systems and patient records were not affected. (264) [...]",
-      "published": "Fri, 21 Aug 2026 06:10:42 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -319,6 +316,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
+      "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
+      "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
+      "published": "Fri, 21 Aug 2026 17:36:53 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Calling on Cyber Pros to Help Defend City Hall",
       "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
@@ -383,11 +389,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
-      "summary": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
-      "published": "Thu, 20 Aug 2026 13:30:00 GMT",
+      "source": "Security Week",
+      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
+      "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
+      "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 16:27:52 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -461,18 +467,6 @@
       "value_score": 28,
       "value_signals": [
         "Privilege escalation",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
-      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
-      "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 07:25:50 +0000",
-      "value_score": 56,
-      "value_signals": [
-        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },

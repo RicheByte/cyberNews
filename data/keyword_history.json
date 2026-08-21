@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2484,
+      "count": 2485,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1220,7 +1220,7 @@
       ]
     },
     "national security risk": {
-      "count": 394,
+      "count": 395,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1963,7 +1963,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 549,
+      "count": 550,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2068,7 +2068,8 @@
         "2026-07-31",
         "2026-08-07",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-21"
       ]
     },
     "model agnostic abstractions": {
@@ -22432,7 +22433,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23261,7 +23262,7 @@
       ]
     },
     "software almost triple": {
-      "count": 135,
+      "count": 136,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23334,7 +23335,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24508,7 +24509,7 @@
       ]
     },
     "turn one's television": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26219,7 +26220,7 @@
       ]
     },
     "text history records": {
-      "count": 106,
+      "count": 107,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27091,7 +27092,7 @@
       ]
     },
     "remained walled away": {
-      "count": 46,
+      "count": 47,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27692,7 +27693,7 @@
       ]
     },
     "think tanks within": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27706,7 +27707,7 @@
       ]
     },
     "budgets hinder progress": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27725,7 +27726,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21"
       ]
@@ -27743,7 +27744,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-21"
       ]
@@ -27755,7 +27756,7 @@
       ]
     },
     "secure workload software": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21"
       ]
@@ -27771,20 +27772,45 @@
       "dates": [
         "2026-08-21"
       ]
+    },
+    "trusted execution environment": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "multi stage downloader": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "fake lock screen": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "delete security software": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "universal skill format": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "steal credentials via": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-13 09:05",
-      "articles": 48,
-      "top_keywords": [
-        "fake remote workers",
-        "vmware vcenter server",
-        "target critical infrastructure",
-        "operation dream job",
-        "least march 2025"
-      ]
-    },
     {
       "timestamp": "2026-08-13 10:56",
       "articles": 48,
@@ -28872,6 +28898,17 @@
         "twitter whistleblower complaint",
         "poisoned arrayref version",
         "budgets hinder progress"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 18:28",
+      "articles": 48,
+      "top_keywords": [
+        "think tanks within",
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "trusted execution environment",
+        "poisoned arrayref version"
       ]
     }
   ]

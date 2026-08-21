@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-21 16:25 UTC |
+| 🕐 Last Updated | 2026-08-21 18:28 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`think tanks within` • `cisa orders feds` • `twitter whistleblower complaint` • `poisoned arrayref version` • `budgets hinder progress` • `maximum severity vulnerability` • `national security risk` • `v8 sandbox escape` • `turn one's television` • `third party software`
+`think tanks within` • `sprawling phishing campaign` • `twitter whistleblower complaint` • `trusted execution environment` • `poisoned arrayref version` • `multi stage downloader` • `fake lock screen` • `cisa orders feds` • `budgets hinder progress` • `national security risk`
 
 ## 📄 Reports
 

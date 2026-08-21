@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 712,
+      "count": 713,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2479,
+      "count": 2480,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1174,7 +1174,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1219,7 +1219,7 @@
       ]
     },
     "national security risk": {
-      "count": 389,
+      "count": 390,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -23258,7 +23258,7 @@
       ]
     },
     "software almost triple": {
-      "count": 130,
+      "count": 131,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23331,7 +23331,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24175,7 +24175,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24504,7 +24504,7 @@
       ]
     },
     "turn one's television": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26215,7 +26215,7 @@
       ]
     },
     "text history records": {
-      "count": 105,
+      "count": 106,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26843,7 +26843,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 36,
+      "count": 37,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26853,7 +26853,8 @@
         "2026-08-17",
         "2026-08-18",
         "2026-08-19",
-        "2026-08-20"
+        "2026-08-20",
+        "2026-08-21"
       ]
     },
     "target critical infrastructure": {
@@ -27086,7 +27087,7 @@
       ]
     },
     "remained walled away": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27295,7 +27296,7 @@
       ]
     },
     "upload executable files": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-18",
         "2026-08-19",
@@ -27549,9 +27550,10 @@
       ]
     },
     "august 2026 updates": {
-      "count": 3,
+      "count": 4,
       "dates": [
-        "2026-08-20"
+        "2026-08-20",
+        "2026-08-21"
       ]
     },
     "complex ai framework": {
@@ -27659,7 +27661,7 @@
       ]
     },
     "attacks cert polska": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27673,7 +27675,7 @@
       ]
     },
     "traditional email filters": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-20",
         "2026-08-21"
@@ -27686,39 +27688,40 @@
       ]
     },
     "think tanks within": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-20",
         "2026-08-21"
       ]
     },
     "ai security company": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-20",
         "2026-08-21"
       ]
     },
     "budgets hinder progress": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-20",
+        "2026-08-21"
+      ]
+    },
+    "re watching us": {
+      "count": 1,
+      "dates": [
+        "2026-08-21"
+      ]
+    },
+    "products stay away": {
+      "count": 1,
+      "dates": [
         "2026-08-21"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-12 20:36",
-      "articles": 48,
-      "top_keywords": [
-        "fake remote workers",
-        "vmware vcenter server",
-        "operation dream job",
-        "twitter whistleblower complaint",
-        "target critical infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-08-12 22:34",
       "articles": 48,
@@ -28806,6 +28809,17 @@
         "ai security company",
         "critical security flaw",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-21 08:33",
+      "articles": 48,
+      "top_keywords": [
+        "think tanks within",
+        "ai security company",
+        "critical security flaw",
+        "twitter whistleblower complaint",
+        "budgets hinder progress"
       ]
     }
   ]

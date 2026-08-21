@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-21 06:35 UTC |
+| 🕐 Last Updated | 2026-08-21 08:33 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`critical netscaler flaw` • `think tanks within` • `ai security company` • `critical security flaw` • `twitter whistleblower complaint` • `budgets hinder progress` • `attacks cert polska` • `virtualization technology company` • `national security risk` • `aaa servers citrix`
+`think tanks within` • `ai security company` • `critical security flaw` • `twitter whistleblower complaint` • `budgets hinder progress` • `august 2026 updates` • `attacks cert polska` • `national security risk` • `windows operating systems` • `upload executable files`
 
 ## 📄 Reports
 

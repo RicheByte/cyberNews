@@ -1,18 +1,16 @@
 {
-  "last_updated": "2026-08-21 06:35",
+  "last_updated": "2026-08-21 08:33",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "critical netscaler flaw",
     "think tanks within",
     "ai security company",
     "critical security flaw",
     "twitter whistleblower complaint",
     "budgets hinder progress",
+    "august 2026 updates",
     "attacks cert polska",
-    "virtualization technology company",
     "national security risk",
-    "aaa servers citrix",
     "windows operating systems",
     "upload executable files",
     "turn one's television",
@@ -21,52 +19,67 @@
     "software giant fixed",
     "software almost triple",
     "residential proxy node",
-    "remote code execution",
-    "remained walled away"
+    "remained walled away",
+    "re watching us",
+    "publicly detailed prior",
+    "products stay away"
   ],
   "trending": [
     {
-      "keyword": "critical netscaler flaw",
-      "mentions": 9
-    },
-    {
       "keyword": "think tanks within",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "ai security company",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 178
+      "mentions": 179
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2479
+      "mentions": 2480
     },
     {
       "keyword": "budgets hinder progress",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "august 2026 updates",
+      "mentions": 4
     },
     {
       "keyword": "attacks cert polska",
-      "mentions": 8
-    },
-    {
-      "keyword": "virtualization technology company",
       "mentions": 9
     },
     {
       "keyword": "national security risk",
-      "mentions": 389
+      "mentions": 390
     },
     {
-      "keyword": "aaa servers citrix",
-      "mentions": 8
+      "keyword": "windows operating systems",
+      "mentions": 713
+    },
+    {
+      "keyword": "upload executable files",
+      "mentions": 20
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
+      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
+      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
+      "published": "Fri, 21 Aug 2026 12:34:25 +0530",
+      "value_score": 60,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution",
@@ -142,18 +155,6 @@
       "value_signals": [
         "RCE",
         "High severity"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
-      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
-      "summary": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
-      "published": "Thu, 20 Aug 2026 19:05:13 +0530",
-      "value_score": 41,
-      "value_signals": [
-        "Auth bypass",
-        "High severity ×2"
       ]
     },
     {
@@ -402,6 +403,29 @@
     },
     {
       "source": "Security Week",
+      "title": "Microsoft Rolls Out 22 Fresh Security Patches",
+      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
+      "summary": "Most of the fixes resolve code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Rolls Out 22 Fresh Security Patches appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 08:12:19 +0000",
+      "value_score": 22,
+      "value_signals": [
+        "Privilege escalation"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/",
+      "summary": "The Head Mare hacktivist group has been exploiting the bugs to deploy the PhantomCore malware. The post CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Fri, 21 Aug 2026 07:25:50 +0000",
+      "value_score": 56,
+      "value_signals": [
+        "CISA/KEV ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
       "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
       "summary": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek .",
@@ -466,24 +490,6 @@
         "RCE",
         "High severity ×2"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking",
-      "link": "https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/",
-      "summary": "Atalanta's Argo product is now being used to prove the resilience of Viasat’s satellite communications network. The post AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 11:08:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses",
-      "link": "https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/",
-      "summary": "The action taken by OpenAI comes in light of the Hugging Face incident and the discovery of the Astra model’s advanced capabilities. The post OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses appeared first on SecurityWeek .",
-      "published": "Thu, 20 Aug 2026 10:36:14 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

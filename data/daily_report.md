@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-21 06:35 UTC  
+> **Last Updated:** 2026-08-21 08:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**critical netscaler flaw** • **think tanks within** • **ai security company** • **critical security flaw** • **twitter whistleblower complaint** • **budgets hinder progress** • **attacks cert polska** • **virtualization technology company** • **national security risk** • **aaa servers citrix** • **windows operating systems** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **software giant fixed** • **software almost triple** • **residential proxy node** • **remote code execution** • **remained walled away**
+**think tanks within** • **ai security company** • **critical security flaw** • **twitter whistleblower complaint** • **budgets hinder progress** • **august 2026 updates** • **attacks cert polska** • **national security risk** • **windows operating systems** • **upload executable files** • **turn one's television** • **traditional email filters** • **text history records** • **software giant fixed** • **software almost triple** • **residential proxy node** • **remained walled away** • **re watching us** • **publicly detailed prior** • **products stay away**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
 - [Microsoft Entra ID Flaw (CVSS 10.0) Exploited in Wild, Allows Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 - [Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads](https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html)
 - [Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts](https://thehackernews.com/2026/08/suspected-russian-hackers-abuse-google.html)
@@ -23,7 +24,6 @@
 - [AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure](https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html)
 - [New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data](https://thehackernews.com/2026/08/new-cryptographic-context-injection.html)
 - [Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE](https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html)
-- [Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers](https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Microsoft Rolls Out 22 Fresh Security Patches](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
+- [CISA Urges Immediate Patching of Exploited TrueConf Vulnerabilities](https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-trueconf-vulnerabilities/)
 - [Hackers Target Zimbra Servers in Active Exploitation Campaign](https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/)
 - [Surveillance – Everything You Wanted to Know, But Were Afraid to Ask](https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/)
 - [Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia](https://www.securityweek.com/threat-actor-hacks-14000-ip-cameras-in-ukraine-and-russia/)
 - [Atlassian, Splunk Patch Dozens of Critical, High-Severity Vulnerabilities](https://www.securityweek.com/atlassian-splunk-patch-dozens-of-critical-high-severity-vulnerabilities/)
 - [MLflow Vulnerability Exploited for Cloud Credential Theft](https://www.securityweek.com/mlflow-vulnerability-exploited-for-cloud-credential-theft/)
 - [Cisco Patches Critical Crosswork, Secure Workload Vulnerabilities](https://www.securityweek.com/cisco-patches-critical-crosswork-secure-workload-vulnerabilities/)
-- [AI-Assisted Tool Helped Secure Satellite Communication System After 2022 Russian Hacking](https://www.securityweek.com/ai-assisted-tool-helped-secure-satellite-communication-system-after-2022-russian-hacking/)
-- [OpenAI Overhauls Model Security With Sandboxing, 30-Minute Alerts, and Training Pauses](https://www.securityweek.com/openai-overhauls-model-security-with-sandboxing-30-minute-alerts-and-training-pauses/)
 
 ### Threatpost
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 12:27",
+  "last_updated": "2026-08-22 14:14",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2494
+      "mentions": 2495
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 559
+      "mentions": 560
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 20
+      "mentions": 21
     },
     {
       "keyword": "persistent grandoreiro campaign",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "national security risk",
-      "mentions": 404
+      "mentions": 405
     },
     {
       "keyword": "delete security software",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "v8 sandbox escape",
-      "mentions": 13
+      "mentions": 14
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
+      "published": "Sat, 22 Aug 2026 09:00:09 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
       "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
@@ -225,15 +234,6 @@
         "Privilege escalation",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse FTP server banners to deliver new Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/",
-      "summary": "Threat actors are abusing FTP banners to hide commands that deliver two previously undocumented remote access trojans named E4del and PINHOLE. [...]",
-      "published": "Fri, 21 Aug 2026 07:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

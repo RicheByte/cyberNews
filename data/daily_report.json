@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 14:14",
+  "last_updated": "2026-08-22 16:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,12 +8,13 @@
     "poisoned arrayref version",
     "multi stage downloader",
     "fake lock screen",
+    "enlists compromised devices",
     "cisa orders feds",
+    "child privacy lawsuit",
     "persistent grandoreiro campaign",
     "national security risk",
     "delete security software",
     "v8 sandbox escape",
-    "uses microsoft defender's",
     "universal skill format",
     "turn one's television",
     "trusted execution environment",
@@ -21,52 +22,60 @@
     "text history records",
     "steal credentials via",
     "spyware equipped manic",
-    "software giant fixed",
-    "software almost triple"
+    "software giant fixed"
   ],
   "trending": [
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2495
+      "mentions": 2496
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 560
+      "mentions": 561
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 15
+      "mentions": 16
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 11
+      "mentions": 12
+    },
+    {
+      "keyword": "enlists compromised devices",
+      "mentions": 1
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 21
+      "mentions": 22
+    },
+    {
+      "keyword": "child privacy lawsuit",
+      "mentions": 1
     },
     {
       "keyword": "persistent grandoreiro campaign",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "national security risk",
-      "mentions": 405
-    },
-    {
-      "keyword": "delete security software",
-      "mentions": 11
-    },
-    {
-      "keyword": "v8 sandbox escape",
-      "mentions": 14
+      "mentions": 406
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
+      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
+      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
+      "published": "Sat, 22 Aug 2026 20:02:41 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
@@ -145,13 +154,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
-      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
-      "summary": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
-      "published": "Fri, 21 Aug 2026 01:52:35 +0530",
-      "value_score": 10,
-      "value_signals": []
+      "source": "BleepingComputer",
+      "title": "Hackers infect Android car head units with proxy botnet malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
+      "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
+      "published": "Sat, 22 Aug 2026 10:14:24 -0400",
+      "value_score": 38,
+      "value_signals": [
+        "Patch/update",
+        "Botnet ×2"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -220,18 +232,6 @@
         "Active exploitation ×2",
         "Patch/update",
         "CISA/KEV ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
-      "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
-      "published": "Fri, 21 Aug 2026 07:04:10 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
         "Exploit wording"
       ]
     },

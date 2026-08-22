@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2488,
+      "count": 2489,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1221,7 +1221,7 @@
       ]
     },
     "national security risk": {
-      "count": 398,
+      "count": 399,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1965,7 +1965,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 553,
+      "count": 554,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -20379,7 +20379,7 @@
       ]
     },
     "public github repository": {
-      "count": 86,
+      "count": 87,
       "dates": [
         "2026-06-17",
         "2026-06-18",
@@ -22437,7 +22437,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23267,7 +23267,7 @@
       ]
     },
     "software almost triple": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23341,7 +23341,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24516,7 +24516,7 @@
       ]
     },
     "turn one's television": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26228,7 +26228,7 @@
       ]
     },
     "text history records": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27101,7 +27101,7 @@
       ]
     },
     "remained walled away": {
-      "count": 50,
+      "count": 51,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27736,7 +27736,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27755,7 +27755,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27768,7 +27768,7 @@
       ]
     },
     "secure workload software": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27787,49 +27787,49 @@
       ]
     },
     "trusted execution environment": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "multi stage downloader": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "fake lock screen": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "delete security software": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "universal skill format": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "steal credentials via": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "trojanized npm packages": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27837,17 +27837,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-13 16:50",
-      "articles": 48,
-      "top_keywords": [
-        "vmware vcenter server",
-        "hijack customer accounts",
-        "attackers crosshairs tracked",
-        "least march 2025",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-13 18:54",
       "articles": 48,
@@ -28928,6 +28917,17 @@
     },
     {
       "timestamp": "2026-08-22 00:55",
+      "articles": 48,
+      "top_keywords": [
+        "sprawling phishing campaign",
+        "twitter whistleblower complaint",
+        "trusted execution environment",
+        "poisoned arrayref version",
+        "multi stage downloader"
+      ]
+    },
+    {
+      "timestamp": "2026-08-22 02:48",
       "articles": 48,
       "top_keywords": [
         "sprawling phishing campaign",

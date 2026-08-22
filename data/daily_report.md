@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-22 08:21 UTC  
+> **Last Updated:** 2026-08-22 10:16 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **national security risk** • **delete security software** • **v8 sandbox escape** • **uses microsoft defender's** • **universal skill format** • **turn one's television** • **trojanized npm packages** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away**
+**twitter whistleblower complaint** • **sprawling phishing campaign** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **persistent grandoreiro campaign** • **national security risk** • **delete security software** • **v8 sandbox escape** • **uses microsoft defender's** • **universal skill format** • **turn one's television** • **trusted execution environment** • **trojanized npm packages** • **text history records** • **steal credentials via** • **spyware equipped manic** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
 - [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
 - [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
 - [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
@@ -67,7 +68,6 @@
 - [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
 - [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
 - [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
-- [Microsoft Patches Exploited Entra ID Vulnerability](https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/)
 
 ### Threatpost
 

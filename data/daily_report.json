@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-22 08:21",
+  "last_updated": "2026-08-22 10:16",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "sprawling phishing campaign",
     "twitter whistleblower complaint",
-    "trusted execution environment",
+    "sprawling phishing campaign",
     "poisoned arrayref version",
     "multi stage downloader",
     "fake lock screen",
     "cisa orders feds",
+    "persistent grandoreiro campaign",
     "national security risk",
     "delete security software",
     "v8 sandbox escape",
     "uses microsoft defender's",
     "universal skill format",
     "turn one's television",
+    "trusted execution environment",
     "trojanized npm packages",
     "text history records",
     "steal credentials via",
+    "spyware equipped manic",
     "software giant fixed",
-    "software almost triple",
-    "secure workload software",
-    "remained walled away"
+    "software almost triple"
   ],
   "trending": [
     {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 557
-    },
-    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2492
+      "mentions": 2493
     },
     {
-      "keyword": "trusted execution environment",
-      "mentions": 8
+      "keyword": "sprawling phishing campaign",
+      "mentions": 558
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 18
+      "mentions": 19
+    },
+    {
+      "keyword": "persistent grandoreiro campaign",
+      "mentions": 1
     },
     {
       "keyword": "national security risk",
-      "mentions": 402
+      "mentions": 403
     },
     {
       "keyword": "delete security software",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "v8 sandbox escape",
-      "mentions": 11
+      "mentions": 12
     }
   ],
   "articles": [
@@ -393,6 +393,15 @@
     },
     {
       "source": "Security Week",
+      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
+      "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
+      "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek .",
+      "published": "Sat, 22 Aug 2026 08:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
       "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
       "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on SecurityWeek .",
@@ -460,18 +469,6 @@
       "published": "Fri, 21 Aug 2026 08:41:06 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Microsoft Patches Exploited Entra ID Vulnerability",
-      "link": "https://www.securityweek.com/microsoft-rolls-out-22-fresh-security-patches/",
-      "summary": "A total of 22 patches were releaased, a majority for code execution, privilege escalation, and information disclosure vulnerabilities. The post Microsoft Patches Exploited Entra ID Vulnerability appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 08:12:19 +0000",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

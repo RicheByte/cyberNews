@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2496,
+      "count": 2497,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1221,7 +1221,7 @@
       ]
     },
     "national security risk": {
-      "count": 406,
+      "count": 407,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1965,7 +1965,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 561,
+      "count": 562,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -22437,7 +22437,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23341,7 +23341,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24516,7 +24516,7 @@
       ]
     },
     "turn one's television": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26228,7 +26228,7 @@
       ]
     },
     "text history records": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27736,7 +27736,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 16,
+      "count": 17,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27755,7 +27755,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27787,49 +27787,49 @@
       ]
     },
     "trusted execution environment": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "multi stage downloader": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "fake lock screen": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "delete security software": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "universal skill format": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "steal credentials via": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "trojanized npm packages": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27842,42 +27842,31 @@
       ]
     },
     "persistent grandoreiro campaign": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-22"
       ]
     },
     "spyware equipped manic": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-22"
       ]
     },
     "enlists compromised devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-22"
       ]
     },
     "child privacy lawsuit": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-14 10:53",
-      "articles": 48,
-      "top_keywords": [
-        "vmware vcenter server",
-        "data analyst sent",
-        "least march 2025",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-14 12:52",
       "articles": 48,
@@ -28958,6 +28947,17 @@
     },
     {
       "timestamp": "2026-08-22 16:16",
+      "articles": 48,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "poisoned arrayref version",
+        "multi stage downloader",
+        "fake lock screen"
+      ]
+    },
+    {
+      "timestamp": "2026-08-22 18:20",
       "articles": 48,
       "top_keywords": [
         "twitter whistleblower complaint",

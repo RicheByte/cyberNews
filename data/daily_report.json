@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22 06:29",
+  "last_updated": "2026-08-22 08:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -13,6 +13,7 @@
     "national security risk",
     "delete security software",
     "v8 sandbox escape",
+    "uses microsoft defender's",
     "universal skill format",
     "turn one's television",
     "trojanized npm packages",
@@ -21,49 +22,48 @@
     "software giant fixed",
     "software almost triple",
     "secure workload software",
-    "remained walled away",
-    "public github repository"
+    "remained walled away"
   ],
   "trending": [
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 556
+      "mentions": 557
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2491
+      "mentions": 2492
     },
     {
       "keyword": "trusted execution environment",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "national security risk",
-      "mentions": 401
+      "mentions": 402
     },
     {
       "keyword": "delete security software",
-      "mentions": 7
+      "mentions": 8
     },
     {
       "keyword": "v8 sandbox escape",
-      "mentions": 10
+      "mentions": 11
     }
   ],
   "articles": [
@@ -216,12 +216,13 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft warns of max severity Entra ID flaw exploited in attacks",
+      "title": "Microsoft patches max severity code execution, privilege escalation flaws",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/",
       "summary": "Microsoft has patched a maximum-severity vulnerability in the Entra ID identity and access management (IAM) platform that has been exploited in attacks. [...]",
       "published": "Fri, 21 Aug 2026 07:04:10 -0400",
-      "value_score": 16,
+      "value_score": 28,
       "value_signals": [
+        "Privilege escalation",
         "Exploit wording"
       ]
     },

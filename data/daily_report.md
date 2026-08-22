@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-22 06:29 UTC  
+> **Last Updated:** 2026-08-22 08:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **national security risk** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trojanized npm packages** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away** • **public github repository**
+**sprawling phishing campaign** • **twitter whistleblower complaint** • **trusted execution environment** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **cisa orders feds** • **national security risk** • **delete security software** • **v8 sandbox escape** • **uses microsoft defender's** • **universal skill format** • **turn one's television** • **trojanized npm packages** • **text history records** • **steal credentials via** • **software giant fixed** • **software almost triple** • **secure workload software** • **remained walled away**
 
 ---
 
@@ -33,7 +33,7 @@
 - [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
 - [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 - [CISA orders feds to patch actively exploited TrueConf Server flaws](https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/)
-- [Microsoft warns of max severity Entra ID flaw exploited in attacks](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
+- [Microsoft patches max severity code execution, privilege escalation flaws](https://www.bleepingcomputer.com/news/microsoft/microsoft-warns-of-max-severity-entra-id-flaw-exploited-in-attacks/)
 - [Hackers abuse FTP server banners to deliver new Windows malware](https://www.bleepingcomputer.com/news/security/hackers-abuse-ftp-server-banners-to-deliver-new-windows-malware/)
 
 ### Krebs on Security

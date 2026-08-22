@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2493,
+      "count": 2494,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1221,7 +1221,7 @@
       ]
     },
     "national security risk": {
-      "count": 403,
+      "count": 404,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1965,7 +1965,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 558,
+      "count": 559,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -22437,7 +22437,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -23267,7 +23267,7 @@
       ]
     },
     "software almost triple": {
-      "count": 144,
+      "count": 145,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23341,7 +23341,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24516,7 +24516,7 @@
       ]
     },
     "turn one's television": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26228,7 +26228,7 @@
       ]
     },
     "text history records": {
-      "count": 115,
+      "count": 116,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27736,7 +27736,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27755,7 +27755,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-21",
         "2026-08-22"
@@ -27787,85 +27787,74 @@
       ]
     },
     "trusted execution environment": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "multi stage downloader": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "fake lock screen": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "delete security software": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "universal skill format": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "steal credentials via": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "trojanized npm packages": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-21",
         "2026-08-22"
       ]
     },
     "uses microsoft defender's": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-22"
       ]
     },
     "persistent grandoreiro campaign": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-22"
       ]
     },
     "spyware equipped manic": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-22"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-14 04:01",
-      "articles": 48,
-      "top_keywords": [
-        "vmware vcenter server",
-        "attackers crosshairs tracked",
-        "least march 2025",
-        "target critical infrastructure",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-14 07:16",
       "articles": 48,
@@ -28946,6 +28935,17 @@
     },
     {
       "timestamp": "2026-08-22 10:16",
+      "articles": 48,
+      "top_keywords": [
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "poisoned arrayref version",
+        "multi stage downloader",
+        "fake lock screen"
+      ]
+    },
+    {
+      "timestamp": "2026-08-22 12:27",
       "articles": 48,
       "top_keywords": [
         "twitter whistleblower complaint",

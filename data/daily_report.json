@@ -1,8 +1,9 @@
 {
-  "last_updated": "2026-08-23 10:17",
+  "last_updated": "2026-08-23 12:28",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "national security risk",
     "twitter whistleblower complaint",
     "sprawling phishing campaign",
     "poisoned arrayref version",
@@ -12,7 +13,7 @@
     "cisa orders feds",
     "child privacy lawsuit",
     "persistent grandoreiro campaign",
-    "national security risk",
+    "security threats near",
     "delete security software",
     "v8 sandbox escape",
     "universal skill format",
@@ -21,49 +22,48 @@
     "trojanized npm packages",
     "text history records",
     "steal credentials via",
-    "spyware equipped manic",
-    "software giant fixed"
+    "spyware equipped manic"
   ],
   "trending": [
     {
+      "keyword": "national security risk",
+      "mentions": 416
+    },
+    {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2505
+      "mentions": 2506
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 570
+      "mentions": 571
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 25
+      "mentions": 26
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 21
+      "mentions": 22
     },
     {
       "keyword": "enlists compromised devices",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "cisa orders feds",
-      "mentions": 31
+      "mentions": 32
     },
     {
       "keyword": "child privacy lawsuit",
-      "mentions": 10
+      "mentions": 11
     },
     {
       "keyword": "persistent grandoreiro campaign",
-      "mentions": 13
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 415
+      "mentions": 14
     }
   ],
   "articles": [
@@ -319,6 +319,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
+      "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
+      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+      "published": "Fri, 21 Aug 2026 20:24:42 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
       "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
       "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
@@ -341,6 +350,15 @@
       "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
       "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
       "published": "Fri, 21 Aug 2026 13:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
+      "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
+      "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+      "published": "Fri, 21 Aug 2026 13:10:33 GMT",
       "value_score": 10,
       "value_signals": []
     },
@@ -372,24 +390,6 @@
       "value_signals": [
         "Patch/update"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
-      "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
-      "summary": "Law enforcement training is falling behind the volume and rapid evolution of cybercrimes. Officers really only need to learn the basics, but lack of focus and budget hinder progress.",
-      "published": "Thu, 20 Aug 2026 17:32:51 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
-      "summary": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
-      "published": "Thu, 20 Aug 2026 14:59:22 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

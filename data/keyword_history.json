@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2505,
+      "count": 2506,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1222,7 +1222,7 @@
       ]
     },
     "national security risk": {
-      "count": 415,
+      "count": 416,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1967,7 +1967,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 570,
+      "count": 571,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -22440,7 +22440,7 @@
       ]
     },
     "cisa orders feds": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-07-08",
         "2026-07-09",
@@ -24521,7 +24521,7 @@
       ]
     },
     "turn one's television": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26234,7 +26234,7 @@
       ]
     },
     "text history records": {
-      "count": 127,
+      "count": 128,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27743,7 +27743,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27763,7 +27763,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27796,7 +27796,7 @@
       ]
     },
     "trusted execution environment": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27804,7 +27804,7 @@
       ]
     },
     "multi stage downloader": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27812,7 +27812,7 @@
       ]
     },
     "fake lock screen": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27820,7 +27820,7 @@
       ]
     },
     "delete security software": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27828,7 +27828,7 @@
       ]
     },
     "universal skill format": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27836,7 +27836,7 @@
       ]
     },
     "steal credentials via": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27844,7 +27844,7 @@
       ]
     },
     "trojanized npm packages": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27858,46 +27858,41 @@
       ]
     },
     "persistent grandoreiro campaign": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "spyware equipped manic": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "enlists compromised devices": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "child privacy lawsuit": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-22",
+        "2026-08-23"
+      ]
+    },
+    "security threats near": {
+      "count": 1,
+      "dates": [
         "2026-08-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-15 04:23",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "arbitrary code execution",
-        "twitter whistleblower complaint",
-        "global bank's defense"
-      ]
-    },
     {
       "timestamp": "2026-08-15 06:27",
       "articles": 48,
@@ -28985,6 +28980,17 @@
         "poisoned arrayref version",
         "multi stage downloader",
         "fake lock screen"
+      ]
+    },
+    {
+      "timestamp": "2026-08-23 12:28",
+      "articles": 48,
+      "top_keywords": [
+        "national security risk",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "poisoned arrayref version",
+        "multi stage downloader"
       ]
     }
   ]

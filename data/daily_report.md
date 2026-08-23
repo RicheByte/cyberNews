@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-23 10:17 UTC  
+> **Last Updated:** 2026-08-23 12:28 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**twitter whistleblower complaint** • **sprawling phishing campaign** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **enlists compromised devices** • **cisa orders feds** • **child privacy lawsuit** • **persistent grandoreiro campaign** • **national security risk** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trusted execution environment** • **trojanized npm packages** • **text history records** • **steal credentials via** • **spyware equipped manic** • **software giant fixed**
+**national security risk** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **enlists compromised devices** • **cisa orders feds** • **child privacy lawsuit** • **persistent grandoreiro campaign** • **security threats near** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trusted execution environment** • **trojanized npm packages** • **text history records** • **steal credentials via** • **spyware equipped manic**
 
 ---
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [How an Emerging Industrial Protocol Family Could Put OT at Risk](https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk)
 - [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
 - [Calling on Cyber Pros to Help Defend City Hall](https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall)
 - [OpenAI Adds Controls That Should've Been There Already](https://www.darkreading.com/application-security/openai-adds-controls-already)
+- [Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near](https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography)
 - [New CUSTODY Framework Constrains AI Agents Inside the Network](https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network)
 - [What We Missed: Delta Flight Disrupted With Wi-Fi Hack](https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack)
 - [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
-- [Money and Mindset: The Two Biggest Roadblocks to Cyber Policing](https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing)
-- [Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks](https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks)
 
 ### Security Week
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-23 10:17 UTC |
+| 🕐 Last Updated | 2026-08-23 12:28 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`twitter whistleblower complaint` • `sprawling phishing campaign` • `poisoned arrayref version` • `multi stage downloader` • `fake lock screen` • `enlists compromised devices` • `cisa orders feds` • `child privacy lawsuit` • `persistent grandoreiro campaign` • `national security risk`
+`national security risk` • `twitter whistleblower complaint` • `sprawling phishing campaign` • `poisoned arrayref version` • `multi stage downloader` • `fake lock screen` • `enlists compromised devices` • `cisa orders feds` • `child privacy lawsuit` • `persistent grandoreiro campaign`
 
 ## 📄 Reports
 

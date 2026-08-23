@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2507,
+      "count": 2508,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1222,7 +1222,7 @@
       ]
     },
     "national security risk": {
-      "count": 417,
+      "count": 418,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1967,7 +1967,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 572,
+      "count": 573,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -24521,7 +24521,7 @@
       ]
     },
     "turn one's television": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26234,7 +26234,7 @@
       ]
     },
     "text history records": {
-      "count": 129,
+      "count": 130,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27743,7 +27743,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27763,7 +27763,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27796,7 +27796,7 @@
       ]
     },
     "trusted execution environment": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27804,7 +27804,7 @@
       ]
     },
     "multi stage downloader": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27812,7 +27812,7 @@
       ]
     },
     "fake lock screen": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27820,7 +27820,7 @@
       ]
     },
     "delete security software": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27828,7 +27828,7 @@
       ]
     },
     "universal skill format": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27836,7 +27836,7 @@
       ]
     },
     "steal credentials via": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27844,7 +27844,7 @@
       ]
     },
     "trojanized npm packages": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27858,52 +27858,47 @@
       ]
     },
     "persistent grandoreiro campaign": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "spyware equipped manic": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "enlists compromised devices": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "child privacy lawsuit": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-22",
         "2026-08-23"
       ]
     },
     "security threats near": {
-      "count": 2,
+      "count": 3,
+      "dates": [
+        "2026-08-23"
+      ]
+    },
+    "toxicpanda android malware": {
+      "count": 1,
       "dates": [
         "2026-08-23"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-15 08:20",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "arbitrary code execution",
-        "twitter whistleblower complaint",
-        "global bank's defense"
-      ]
-    },
     {
       "timestamp": "2026-08-15 10:16",
       "articles": 48,
@@ -28984,6 +28979,17 @@
     },
     {
       "timestamp": "2026-08-23 14:17",
+      "articles": 48,
+      "top_keywords": [
+        "national security risk",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "poisoned arrayref version",
+        "multi stage downloader"
+      ]
+    },
+    {
+      "timestamp": "2026-08-23 16:17",
       "articles": 48,
       "top_keywords": [
         "national security risk",

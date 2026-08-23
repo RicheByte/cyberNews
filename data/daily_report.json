@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-23 14:17",
+  "last_updated": "2026-08-23 16:17",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -10,9 +10,9 @@
     "multi stage downloader",
     "fake lock screen",
     "enlists compromised devices",
-    "cisa orders feds",
     "child privacy lawsuit",
     "persistent grandoreiro campaign",
+    "toxicpanda android malware",
     "security threats near",
     "delete security software",
     "v8 sandbox escape",
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "national security risk",
-      "mentions": 417
+      "mentions": 418
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2507
+      "mentions": 2508
     },
     {
       "keyword": "sprawling phishing campaign",
-      "mentions": 572
+      "mentions": 573
     },
     {
       "keyword": "poisoned arrayref version",
-      "mentions": 27
+      "mentions": 28
     },
     {
       "keyword": "multi stage downloader",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "fake lock screen",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "enlists compromised devices",
-      "mentions": 12
-    },
-    {
-      "keyword": "cisa orders feds",
-      "mentions": 33
+      "mentions": 13
     },
     {
       "keyword": "child privacy lawsuit",
-      "mentions": 12
+      "mentions": 13
     },
     {
       "keyword": "persistent grandoreiro campaign",
-      "mentions": 15
+      "mentions": 16
+    },
+    {
+      "keyword": "toxicpanda android malware",
+      "mentions": 1
     }
   ],
   "articles": [
@@ -155,6 +155,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
+      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
+      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
+      "published": "Sun, 23 Aug 2026 10:23:46 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers infect Android car head units with proxy botnet malware",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/",
       "summary": "A supply-chain attack targeting Android-based car head units is using a legitimate device-update app to spread malware that enlists compromised devices in a proxy botnet or uses them for ad fraud. [...]",
@@ -220,20 +229,6 @@
       "published": "Fri, 21 Aug 2026 09:39:35 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
-      "published": "Fri, 21 Aug 2026 08:25:33 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",

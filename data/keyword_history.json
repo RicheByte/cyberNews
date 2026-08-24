@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 716,
+      "count": 717,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -321,7 +321,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2520,
+      "count": 2521,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1179,7 +1179,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2381,7 +2381,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 112,
+      "count": 113,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2898,7 +2898,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 26,
+      "count": 27,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -5696,7 +5696,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 15,
+      "count": 16,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -23279,7 +23279,7 @@
       ]
     },
     "software almost triple": {
-      "count": 147,
+      "count": 148,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23354,7 +23354,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24201,7 +24201,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24226,7 +24226,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-24"
       ]
     },
     "ban residential proxies": {
@@ -24531,7 +24532,7 @@
       ]
     },
     "turn one's television": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26245,7 +26246,7 @@
       ]
     },
     "text history records": {
-      "count": 140,
+      "count": 141,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27120,7 +27121,7 @@
       ]
     },
     "remained walled away": {
-      "count": 54,
+      "count": 55,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27128,7 +27129,8 @@
         "2026-08-17",
         "2026-08-20",
         "2026-08-21",
-        "2026-08-22"
+        "2026-08-22",
+        "2026-08-24"
       ]
     },
     "ai agent control": {
@@ -27846,7 +27848,7 @@
       ]
     },
     "universal skill format": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27903,7 +27905,7 @@
       ]
     },
     "child privacy lawsuit": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27911,7 +27913,7 @@
       ]
     },
     "security threats near": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-08-23",
         "2026-08-24"
@@ -27937,7 +27939,7 @@
       ]
     },
     "rethinking application security": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-24"
       ]
@@ -27967,7 +27969,7 @@
       ]
     },
     "spring application framework": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-24"
       ]
@@ -27979,13 +27981,13 @@
       ]
     },
     "ai super adopters": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-24"
       ]
     },
     "personal information exposed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-24"
       ]
@@ -27997,24 +27999,13 @@
       ]
     },
     "yesteryear screen hijacking": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 10:16",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-16 12:27",
       "articles": 48,
@@ -29102,6 +29093,17 @@
         "spring application framework",
         "rethinking application security",
         "windows operating systems"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24 18:31",
+      "articles": 48,
+      "top_keywords": [
+        "atm jackpotting scheme",
+        "spring application framework",
+        "rethinking application security",
+        "windows operating systems",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-24 16:29 UTC  
+> **Last Updated:** 2026-08-24 18:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**earlier consent decree** • **atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **windows operating systems** • **twitter whistleblower complaint** • **enlists compromised devices** • **cvss scoring system** • **critical security flaw** • **child privacy lawsuit** • **ai super adopters** • **personal information exposed** • **yesteryear screen hijacking** • **upside faster development** • **universal skill format** • **unauthenticated remote attacker** • **turn one's television** • **text history records** • **software giant fixed** • **software almost triple**
+**atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **windows operating systems** • **twitter whistleblower complaint** • **cvss scoring system** • **critical security flaw** • **child privacy lawsuit** • **ai super adopters** • **personal information exposed** • **yesteryear screen hijacking** • **universal skill format** • **unauthenticated remote attacker** • **turn one's television** • **text history records** • **software giant fixed** • **software almost triple** • **security threats near** • **residential proxy node** • **remained walled away**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [TikTok reaches $400M settlement with US over COPPA violations](https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/)
 - [ReliaQuest confirms failed data-theft attack after ShinyHunters breach](https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/)
 - [Microsoft Teams now lets admins block external bots from meetings](https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/)
 - [South Korean startup platform breach exposes key management failures](https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/)
@@ -34,7 +35,6 @@
 - [CISA orders urgent patching of actively exploited Zimbra flaw](https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/)
 - [Microsoft shares temporary fix for Windows 11 gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/)
 - [ToxicPanda Android malware uses VPN permissions to block Google Play](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/)
-- [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
 
 ### Krebs on Security
 
@@ -50,16 +50,17 @@
 ### Dark Reading
 
 - [Tricky 'SynkLoader' Multitool May Herald Ransomware](https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware)
-- [ToxicPanda Banking Trojan Matures into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
+- [ToxicPanda Banking Trojan Matures Into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
+- [The Vulnerability Gap: Why Discovery Is Outrunning Repair](https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair)
 - [How an Emerging Industrial Protocol Family Could Put OT at Risk](https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk)
 - [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
 - [Calling on Cyber Pros to Help Defend City Hall](https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall)
 - [OpenAI Adds Controls That Should've Been There Already](https://www.darkreading.com/application-security/openai-adds-controls-already)
 - [Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near](https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography)
-- [New CUSTODY Framework Constrains AI Agents Inside the Network](https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network)
 
 ### Security Week
 
+- [ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited](https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/)
 - [Hired for One Job, Judged on Another: The CISO’s Real Problem](https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/)
 - [Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts](https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/)
 - [91 Vulnerabilities Patched in Spring Application Framework](https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/)
@@ -67,7 +68,6 @@
 - [Personal Information Exposed in Apollo Global Data Breach](https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/)
 - [Rethinking Application Security for the AI Era](https://www.securityweek.com/rethinking-application-security-for-the-ai-era/)
 - [Iran-Linked Hackers Shut Down UK Power Plant for Four Days](https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/)
-- [TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy](https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/)
 
 ### Threatpost
 

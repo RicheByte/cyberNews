@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-24 20:22",
+  "last_updated": "2026-08-24 22:19",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "expose internal devices",
     "atm jackpotting scheme",
     "spring application framework",
     "rethinking application security",
-    "windows operating systems",
     "twitter whistleblower complaint",
+    "publicly detailed prior",
     "cvss scoring system",
     "critical security flaw",
     "child privacy lawsuit",
-    "ai super adopters",
     "personal information exposed",
     "yesteryear screen hijacking",
+    "windows operating systems",
     "universal skill format",
     "unauthenticated remote attacker",
     "turn one's television",
     "text history records",
     "software giant fixed",
     "software almost triple",
-    "security threats near",
     "residential proxy node",
     "remained walled away"
   ],
   "trending": [
     {
+      "keyword": "expose internal devices",
+      "mentions": 1
+    },
+    {
       "keyword": "atm jackpotting scheme",
-      "mentions": 17
+      "mentions": 18
     },
     {
       "keyword": "spring application framework",
-      "mentions": 5
-    },
-    {
-      "keyword": "rethinking application security",
       "mentions": 6
     },
     {
-      "keyword": "windows operating systems",
-      "mentions": 718
+      "keyword": "rethinking application security",
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2522
+      "mentions": 2523
+    },
+    {
+      "keyword": "publicly detailed prior",
+      "mentions": 40
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 114
+      "mentions": 115
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 185
+      "mentions": 186
     },
     {
       "keyword": "child privacy lawsuit",
-      "mentions": 27
-    },
-    {
-      "keyword": "ai super adopters",
-      "mentions": 5
+      "mentions": 28
     },
     {
       "keyword": "personal information exposed",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -152,6 +152,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
+      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
+      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
+      "published": "Mon, 24 Aug 2026 17:14:30 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
       "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
@@ -226,17 +235,6 @@
         "Patch/update",
         "CISA/KEV ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
-      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
-      "published": "Mon, 24 Aug 2026 05:42:05 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×3"
       ]
     },
     {
@@ -323,6 +321,29 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
+      "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
+      "published": "Mon, 24 Aug 2026 21:46:55 GMT",
+      "value_score": 70,
+      "value_signals": [
+        "CVE mentioned",
+        "Patch/update ×2",
+        "CISA/KEV",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Foul Language: WordlistLoader Disguises Malware as Ordinary Text",
+      "link": "https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text",
+      "summary": "ClickFix-style threat campaigns are using a new trick to evade detection and deliver Amatera, an increasingly prevalent infostealer.",
+      "published": "Mon, 24 Aug 2026 20:51:27 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
       "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
       "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
@@ -374,24 +395,6 @@
       "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
       "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
       "published": "Fri, 21 Aug 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "OpenAI Adds Controls That Should've Been There Already",
-      "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-      "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
-      "published": "Fri, 21 Aug 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
-      "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-      "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
-      "published": "Fri, 21 Aug 2026 13:10:33 GMT",
       "value_score": 10,
       "value_signals": []
     },

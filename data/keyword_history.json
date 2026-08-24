@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 718,
+      "count": 719,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -321,7 +321,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2522,
+      "count": 2523,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1179,7 +1179,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 185,
+      "count": 186,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2381,7 +2381,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 114,
+      "count": 115,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2898,7 +2898,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 28,
+      "count": 29,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -5696,7 +5696,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 17,
+      "count": 18,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -23279,7 +23279,7 @@
       ]
     },
     "software almost triple": {
-      "count": 149,
+      "count": 150,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23354,7 +23354,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 173,
+      "count": 174,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24201,7 +24201,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24532,7 +24532,7 @@
       ]
     },
     "turn one's television": {
-      "count": 184,
+      "count": 185,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26246,7 +26246,7 @@
       ]
     },
     "text history records": {
-      "count": 142,
+      "count": 143,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26877,7 +26877,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26888,7 +26888,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-24"
       ]
     },
     "target critical infrastructure": {
@@ -27121,7 +27122,7 @@
       ]
     },
     "remained walled away": {
-      "count": 56,
+      "count": 57,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27848,7 +27849,7 @@
       ]
     },
     "universal skill format": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27905,7 +27906,7 @@
       ]
     },
     "child privacy lawsuit": {
-      "count": 27,
+      "count": 28,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27939,7 +27940,7 @@
       ]
     },
     "rethinking application security": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-24"
       ]
@@ -27969,7 +27970,7 @@
       ]
     },
     "spring application framework": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-24"
       ]
@@ -27987,7 +27988,7 @@
       ]
     },
     "personal information exposed": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-24"
       ]
@@ -27999,24 +28000,19 @@
       ]
     },
     "yesteryear screen hijacking": {
-      "count": 3,
+      "count": 4,
+      "dates": [
+        "2026-08-24"
+      ]
+    },
+    "expose internal devices": {
+      "count": 1,
       "dates": [
         "2026-08-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 14:16",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-16 16:17",
       "articles": 48,
@@ -29103,6 +29099,17 @@
         "spring application framework",
         "rethinking application security",
         "windows operating systems",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24 22:19",
+      "articles": 48,
+      "top_keywords": [
+        "expose internal devices",
+        "atm jackpotting scheme",
+        "spring application framework",
+        "rethinking application security",
         "twitter whistleblower complaint"
       ]
     }

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-24 08:40 UTC  
+> **Last Updated:** 2026-08-24 10:31 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**national security risk** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **enlists compromised devices** • **education media technology** • **child privacy lawsuit** • **persistent grandoreiro campaign** • **toxicpanda android malware** • **security threats near** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trusted execution environment** • **trojanized npm packages** • **text history records** • **steal credentials via**
+**earlier consent decree** • **rethinking application security** • **windows 11 25h2** • **twitter whistleblower complaint** • **multi stage downloader** • **fake lock screen** • **enlists compromised devices** • **education media technology** • **child privacy lawsuit** • **national security risk** • **toxicpanda android malware** • **reduce application risk** • **sprawling phishing campaign** • **security threats near** • **personal security risks** • **delete security software** • **windows systems ranging** • **windows operating systems** • **universal skill format** • **turn one's television**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Microsoft shares temporary fix for Windows 11 gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/)
 - [ToxicPanda Android malware uses VPN permissions to block Google Play](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/)
 - [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
 - [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
@@ -34,7 +35,6 @@
 - [Hundreds of leaked AWS keys give full control over corporate accounts](https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/)
 - [Microsoft blames Windows gaming issues on RGB lighting devices](https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/)
 - [Is Online Privacy Possible? How Digital Identities Can Help](https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/)
-- [Microsoft rolls out Classic Outlook theme for New Outlook users](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Personal Information Exposed in Apollo Global Data Breach](https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/)
+- [Rethinking Application Security for the AI Era](https://www.securityweek.com/rethinking-application-security-for-the-ai-era/)
+- [Iran-Linked Hackers Shut Down UK Power Plant for Four Days](https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/)
+- [TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy](https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/)
 - [Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund](https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/)
 - [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
 - [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
 - [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
-- [Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini](https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/)
-- [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
-- [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
-- [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
 
 ### Threatpost
 

@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-24 08:40",
+  "last_updated": "2026-08-24 10:31",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "national security risk",
+    "earlier consent decree",
+    "rethinking application security",
+    "windows 11 25h2",
     "twitter whistleblower complaint",
-    "sprawling phishing campaign",
-    "poisoned arrayref version",
     "multi stage downloader",
     "fake lock screen",
     "enlists compromised devices",
     "education media technology",
     "child privacy lawsuit",
-    "persistent grandoreiro campaign",
+    "national security risk",
     "toxicpanda android malware",
+    "reduce application risk",
+    "sprawling phishing campaign",
     "security threats near",
+    "personal security risks",
     "delete security software",
-    "v8 sandbox escape",
+    "windows systems ranging",
+    "windows operating systems",
     "universal skill format",
-    "turn one's television",
-    "trusted execution environment",
-    "trojanized npm packages",
-    "text history records",
-    "steal credentials via"
+    "turn one's television"
   ],
   "trending": [
     {
-      "keyword": "national security risk",
-      "mentions": 426
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2516
-    },
-    {
-      "keyword": "sprawling phishing campaign",
-      "mentions": 581
-    },
-    {
-      "keyword": "poisoned arrayref version",
-      "mentions": 36
-    },
-    {
-      "keyword": "multi stage downloader",
-      "mentions": 32
-    },
-    {
-      "keyword": "fake lock screen",
-      "mentions": 32
-    },
-    {
-      "keyword": "enlists compromised devices",
-      "mentions": 21
-    },
-    {
-      "keyword": "education media technology",
+      "keyword": "earlier consent decree",
       "mentions": 1
     },
     {
-      "keyword": "child privacy lawsuit",
-      "mentions": 21
+      "keyword": "rethinking application security",
+      "mentions": 1
     },
     {
-      "keyword": "persistent grandoreiro campaign",
-      "mentions": 24
+      "keyword": "windows 11 25h2",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2517
+    },
+    {
+      "keyword": "multi stage downloader",
+      "mentions": 33
+    },
+    {
+      "keyword": "fake lock screen",
+      "mentions": 33
+    },
+    {
+      "keyword": "enlists compromised devices",
+      "mentions": 22
+    },
+    {
+      "keyword": "education media technology",
+      "mentions": 2
+    },
+    {
+      "keyword": "child privacy lawsuit",
+      "mentions": 22
+    },
+    {
+      "keyword": "national security risk",
+      "mentions": 427
     }
   ],
   "articles": [
@@ -151,6 +151,17 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "summary": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+      "published": "Mon, 24 Aug 2026 05:42:05 -0400",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×3"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
       "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
       "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
@@ -214,15 +225,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
       "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
       "published": "Fri, 21 Aug 2026 10:00:10 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft rolls out Classic Outlook theme for New Outlook users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-classic-outlook-theme-for-new-outlook-users/",
-      "summary": "Microsoft has started rolling out a Classic Outlook theme for users of Outlook on the web and the New Outlook for Windows. [...]",
-      "published": "Fri, 21 Aug 2026 09:39:35 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -384,6 +386,46 @@
     },
     {
       "source": "Security Week",
+      "title": "Personal Information Exposed in Apollo Global Data Breach",
+      "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+      "summary": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 10:08:42 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Rethinking Application Security for the AI Era",
+      "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+      "summary": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 10:00:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
+      "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+      "summary": "The attack caused real-world operational disruption and raised concerns about the resilience of Britain’s distributed energy infrastructure and the potential for repeatable attacks. The post Iran-Linked Hackers Shut Down UK Power Plant for Four Days appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 09:22:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy",
+      "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
+      "summary": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly. The post TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 09:11:11 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
       "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
       "summary": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek .",
@@ -419,47 +461,6 @@
       "value_signals": [
         "Botnet"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini",
-      "link": "https://www.securityweek.com/encrypted-prompts-bypass-ai-safety-guardrails-in-grok-and-gemini/",
-      "summary": "Researchers say the new ‘Cryptographic Context Injection’ technique conceals malicious instructions until they are decrypted inside a trusted execution environment. The post Encrypted Prompts Bypass AI Safety Guardrails in Grok and Gemini appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 14:34:05 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets",
-      "link": "https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/",
-      "summary": "Researchers say iAuthFlow V2 can register an attacker-controlled passkey, enabling persistent access even after passwords are changed and active sessions revoked. The post New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 14:22:06 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-      "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-      "summary": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 12:26:07 +0000",
-      "value_score": 66,
-      "value_signals": [
-        "RCE ×2",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-      "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-      "summary": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 09:23:18 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

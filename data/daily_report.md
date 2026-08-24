@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-24 06:44 UTC  
+> **Last Updated:** 2026-08-24 08:40 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**national security risk** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **enlists compromised devices** • **child privacy lawsuit** • **persistent grandoreiro campaign** • **toxicpanda android malware** • **security threats near** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trusted execution environment** • **trojanized npm packages** • **text history records** • **steal credentials via** • **spyware equipped manic**
+**national security risk** • **twitter whistleblower complaint** • **sprawling phishing campaign** • **poisoned arrayref version** • **multi stage downloader** • **fake lock screen** • **enlists compromised devices** • **education media technology** • **child privacy lawsuit** • **persistent grandoreiro campaign** • **toxicpanda android malware** • **security threats near** • **delete security software** • **v8 sandbox escape** • **universal skill format** • **turn one's television** • **trusted execution environment** • **trojanized npm packages** • **text history records** • **steal credentials via**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
 - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 - [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
 - [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html)
@@ -23,7 +24,6 @@
 - [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html)
 - [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html)
 - [GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure](https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html)
-- [Microsoft Patches Severe Entra ID Flaw (CVSS 10.0) Allowing Remote Code Execution](https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund](https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/)
 - [Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight](https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/)
 - [Former NSA Director Paul Nakasone Launches National Security Advisory Firm](https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/)
 - [In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug](https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/)
@@ -67,7 +68,6 @@
 - [New Phishing Toolkit Uses Passkeys to Maintain Access After Password Resets](https://www.securityweek.com/new-phishing-toolkit-uses-passkeys-to-maintain-access-after-password-resets/)
 - [Critical Isolated-vm Vulnerability Leads to RCE on Host](https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/)
 - [Rust Supply Chain Attack Linked to North Korean Hackers](https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/)
-- [Contractors’ CMMC Confidence Rises as Ability to Prove It Falls Behind](https://www.securityweek.com/contractors-cmmc-confidence-rises-as-ability-to-prove-it-falls-behind/)
 
 ### Threatpost
 

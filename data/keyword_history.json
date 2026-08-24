@@ -320,7 +320,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2515,
+      "count": 2516,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1223,7 +1223,7 @@
       ]
     },
     "national security risk": {
-      "count": 425,
+      "count": 426,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1969,7 +1969,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 580,
+      "count": 581,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -24524,7 +24524,7 @@
       ]
     },
     "turn one's television": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26238,7 +26238,7 @@
       ]
     },
     "text history records": {
-      "count": 137,
+      "count": 138,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27748,7 +27748,7 @@
       ]
     },
     "poisoned arrayref version": {
-      "count": 35,
+      "count": 36,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27769,7 +27769,7 @@
       ]
     },
     "v8 sandbox escape": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27803,7 +27803,7 @@
       ]
     },
     "trusted execution environment": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27812,7 +27812,7 @@
       ]
     },
     "multi stage downloader": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27821,7 +27821,7 @@
       ]
     },
     "fake lock screen": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27830,7 +27830,7 @@
       ]
     },
     "delete security software": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27839,7 +27839,7 @@
       ]
     },
     "universal skill format": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27848,7 +27848,7 @@
       ]
     },
     "steal credentials via": {
-      "count": 31,
+      "count": 32,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27857,7 +27857,7 @@
       ]
     },
     "trojanized npm packages": {
-      "count": 29,
+      "count": 30,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27872,7 +27872,7 @@
       ]
     },
     "persistent grandoreiro campaign": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27888,7 +27888,7 @@
       ]
     },
     "enlists compromised devices": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27896,7 +27896,7 @@
       ]
     },
     "child privacy lawsuit": {
-      "count": 20,
+      "count": 21,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27904,32 +27904,27 @@
       ]
     },
     "security threats near": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-23",
         "2026-08-24"
       ]
     },
     "toxicpanda android malware": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-23",
+        "2026-08-24"
+      ]
+    },
+    "education media technology": {
+      "count": 1,
+      "dates": [
         "2026-08-24"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 00:58",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-16 02:54",
       "articles": 48,
@@ -29010,6 +29005,17 @@
     },
     {
       "timestamp": "2026-08-24 06:44",
+      "articles": 48,
+      "top_keywords": [
+        "national security risk",
+        "twitter whistleblower complaint",
+        "sprawling phishing campaign",
+        "poisoned arrayref version",
+        "multi stage downloader"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24 08:40",
       "articles": 48,
       "top_keywords": [
         "national security risk",

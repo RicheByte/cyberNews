@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 18:31",
+  "last_updated": "2026-08-24 20:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -27,43 +27,43 @@
   "trending": [
     {
       "keyword": "atm jackpotting scheme",
-      "mentions": 16
+      "mentions": 17
     },
     {
       "keyword": "spring application framework",
-      "mentions": 4
-    },
-    {
-      "keyword": "rethinking application security",
       "mentions": 5
     },
     {
+      "keyword": "rethinking application security",
+      "mentions": 6
+    },
+    {
       "keyword": "windows operating systems",
-      "mentions": 717
+      "mentions": 718
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2521
+      "mentions": 2522
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 113
+      "mentions": 114
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 184
+      "mentions": 185
     },
     {
       "keyword": "child privacy lawsuit",
-      "mentions": 26
+      "mentions": 27
     },
     {
       "keyword": "ai super adopters",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "personal information exposed",
-      "mentions": 4
+      "mentions": 5
     }
   ],
   "articles": [
@@ -152,6 +152,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
+      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
+      "published": "Mon, 24 Aug 2026 15:26:32 -0400",
+      "value_score": 54,
+      "value_signals": [
+        "Auth bypass ×2",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "TikTok reaches $400M settlement with US over COPPA violations",
       "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
       "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
@@ -225,15 +238,6 @@
       "value_signals": [
         "Patch/update ×3"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ToxicPanda Android malware uses VPN permissions to block Google Play",
-      "link": "https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/",
-      "summary": "The ToxicPanda Android malware has evolved with new malicious functionality, expanding its targeting to 349 applications and adding support for 167 remote commands. [...]",
-      "published": "Sun, 23 Aug 2026 10:23:46 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",

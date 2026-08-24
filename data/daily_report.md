@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-24 14:35 UTC  
+> **Last Updated:** 2026-08-24 16:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**earlier consent decree** • **atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **reduce application risk** • **critical security flaw** • **windows operating systems** • **twitter whistleblower complaint** • **enlists compromised devices** • **cvss scoring system** • **child privacy lawsuit** • **national security risk** • **ai super adopters** • **personal information exposed** • **security threats near** • **upside faster development** • **universal skill format** • **unauthenticated remote attacker** • **turn one's television** • **text history records**
+**earlier consent decree** • **atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **windows operating systems** • **twitter whistleblower complaint** • **enlists compromised devices** • **cvss scoring system** • **critical security flaw** • **child privacy lawsuit** • **ai super adopters** • **personal information exposed** • **yesteryear screen hijacking** • **upside faster development** • **universal skill format** • **unauthenticated remote attacker** • **turn one's television** • **text history records** • **software giant fixed** • **software almost triple**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
 - [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
 - [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
 - [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
@@ -23,10 +24,10 @@
 - [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
 - [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
 - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
-- [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html)
 
 ### BleepingComputer
 
+- [ReliaQuest confirms failed data-theft attack after ShinyHunters breach](https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/)
 - [Microsoft Teams now lets admins block external bots from meetings](https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/)
 - [South Korean startup platform breach exposes key management failures](https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/)
 - [Microsoft: August updates break printing, PDF export in WPF apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/)
@@ -34,7 +35,6 @@
 - [Microsoft shares temporary fix for Windows 11 gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/)
 - [ToxicPanda Android malware uses VPN permissions to block Google Play](https://www.bleepingcomputer.com/news/security/toxicpanda-android-malware-uses-vpn-permissions-to-block-google-play/)
 - [Hackers infect Android car head units with proxy botnet malware](https://www.bleepingcomputer.com/news/security/hackers-infect-android-car-head-units-with-proxy-botnet-malware/)
-- [Named Pipes Under Attack: Securing Windows Interprocess Communication](https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Tricky 'SynkLoader' Multitool May Herald Ransomware](https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware)
+- [ToxicPanda Banking Trojan Matures into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
 - [How an Emerging Industrial Protocol Family Could Put OT at Risk](https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk)
 - [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
 - [Calling on Cyber Pros to Help Defend City Hall](https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall)
 - [OpenAI Adds Controls That Should've Been There Already](https://www.darkreading.com/application-security/openai-adds-controls-already)
 - [Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near](https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography)
 - [New CUSTODY Framework Constrains AI Agents Inside the Network](https://www.darkreading.com/perimeter/new-custody-framework-constrains-ai-agents-inside-network)
-- [What We Missed: Delta Flight Disrupted With Wi-Fi Hack](https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack)
-- [N-able Bug Exposes Password Vault Master Keys](https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys)
 
 ### Security Week
 

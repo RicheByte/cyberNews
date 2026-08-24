@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 14:35",
+  "last_updated": "2026-08-24 16:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -7,66 +7,77 @@
     "atm jackpotting scheme",
     "spring application framework",
     "rethinking application security",
-    "reduce application risk",
-    "critical security flaw",
     "windows operating systems",
     "twitter whistleblower complaint",
     "enlists compromised devices",
     "cvss scoring system",
+    "critical security flaw",
     "child privacy lawsuit",
-    "national security risk",
     "ai super adopters",
     "personal information exposed",
-    "security threats near",
+    "yesteryear screen hijacking",
     "upside faster development",
     "universal skill format",
     "unauthenticated remote attacker",
     "turn one's television",
-    "text history records"
+    "text history records",
+    "software giant fixed",
+    "software almost triple"
   ],
   "trending": [
     {
       "keyword": "earlier consent decree",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "atm jackpotting scheme",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "spring application framework",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "rethinking application security",
-      "mentions": 3
-    },
-    {
-      "keyword": "reduce application risk",
-      "mentions": 3
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 182
+      "mentions": 4
     },
     {
       "keyword": "windows operating systems",
-      "mentions": 715
+      "mentions": 716
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2519
+      "mentions": 2520
     },
     {
       "keyword": "enlists compromised devices",
-      "mentions": 24
+      "mentions": 25
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 111
+      "mentions": 112
+    },
+    {
+      "keyword": "critical security flaw",
+      "mentions": 183
+    },
+    {
+      "keyword": "child privacy lawsuit",
+      "mentions": 25
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
+      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
+      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are. Plenty to clean up. Here’s the short version. ⚡ Threat of the Week U.S.",
+      "published": "Mon, 24 Aug 2026 20:02:10 +0530",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
@@ -140,14 +151,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
-      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
-      "summary": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
-      "published": "Sat, 22 Aug 2026 00:23:00 +0530",
+      "source": "BleepingComputer",
+      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
+      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
+      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
+      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
       "value_score": 22,
       "value_signals": [
-        "Backdoor"
+        "Breach/leak"
       ]
     },
     {
@@ -226,15 +237,6 @@
         "Patch/update",
         "Botnet ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
-      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
-      "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
-      "published": "Sat, 22 Aug 2026 09:00:09 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -320,6 +322,26 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Tricky 'SynkLoader' Multitool May Herald Ransomware",
+      "link": "https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware",
+      "summary": "An advanced, multilingual malware family brings back a trick from yesteryear — screen hijacking — for effective password theft, along with a slew of novel features.",
+      "published": "Mon, 24 Aug 2026 15:02:32 GMT",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "ToxicPanda Banking Trojan Matures into Enterprise Threat",
+      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
+      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
+      "published": "Mon, 24 Aug 2026 14:34:59 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
       "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
       "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
@@ -358,7 +380,7 @@
       "source": "Dark Reading",
       "title": "Hardware Makers Implement Post-Quantum Cryptography as Security Threats Near",
       "link": "https://www.darkreading.com/cyber-risk/hardware-makers-implement-post-quantum-cryptography",
-      "summary": "The coming threat of super-powerful computers capable of cracking today’s algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
+      "summary": "The coming threat of super-powerful computers capable of cracking today's algorithms requires upgrading encryption now. Tech companies have begun building defenses.",
       "published": "Fri, 21 Aug 2026 13:10:33 GMT",
       "value_score": 10,
       "value_signals": []
@@ -371,26 +393,6 @@
       "published": "Thu, 20 Aug 2026 20:42:18 GMT",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "What We Missed: Delta Flight Disrupted With Wi-Fi Hack",
-      "link": "https://www.darkreading.com/cyber-risk/delta-flight-disrupted-wi-fi-hack",
-      "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, including some scary airplane security risks and the US government's newest \"hack back\" strategy.",
-      "published": "Thu, 20 Aug 2026 19:11:15 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "N-able Bug Exposes Password Vault Master Keys",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
-      "summary": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
-      "published": "Thu, 20 Aug 2026 17:39:24 GMT",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
     },
     {
       "source": "Security Week",

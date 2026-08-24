@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 715,
+      "count": 716,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -321,7 +321,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2519,
+      "count": 2520,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1179,7 +1179,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2381,7 +2381,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 111,
+      "count": 112,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2898,7 +2898,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 25,
+      "count": 26,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -5696,7 +5696,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -23279,7 +23279,7 @@
       ]
     },
     "software almost triple": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23303,7 +23303,8 @@
         "2026-08-19",
         "2026-08-20",
         "2026-08-21",
-        "2026-08-22"
+        "2026-08-22",
+        "2026-08-24"
       ]
     },
     "spanish police dismantled": {
@@ -23353,7 +23354,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 170,
+      "count": 171,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23379,7 +23380,8 @@
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
-        "2026-08-23"
+        "2026-08-23",
+        "2026-08-24"
       ]
     },
     "windows bind links": {
@@ -24529,7 +24531,7 @@
       ]
     },
     "turn one's television": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26243,7 +26245,7 @@
       ]
     },
     "text history records": {
-      "count": 139,
+      "count": 140,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27844,7 +27846,7 @@
       ]
     },
     "universal skill format": {
-      "count": 34,
+      "count": 35,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27893,7 +27895,7 @@
       ]
     },
     "enlists compromised devices": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27901,7 +27903,7 @@
       ]
     },
     "child privacy lawsuit": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27929,13 +27931,13 @@
       ]
     },
     "earlier consent decree": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-24"
       ]
     },
     "rethinking application security": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-24"
       ]
@@ -27965,7 +27967,7 @@
       ]
     },
     "spring application framework": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-24"
       ]
@@ -27977,18 +27979,24 @@
       ]
     },
     "ai super adopters": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-24"
       ]
     },
     "personal information exposed": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-24"
       ]
     },
     "upside faster development": {
+      "count": 2,
+      "dates": [
+        "2026-08-24"
+      ]
+    },
+    "yesteryear screen hijacking": {
       "count": 1,
       "dates": [
         "2026-08-24"
@@ -27996,17 +28004,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 08:21",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-16 10:16",
       "articles": 48,
@@ -29094,6 +29091,17 @@
         "spring application framework",
         "rethinking application security",
         "reduce application risk"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24 16:29",
+      "articles": 48,
+      "top_keywords": [
+        "earlier consent decree",
+        "atm jackpotting scheme",
+        "spring application framework",
+        "rethinking application security",
+        "windows operating systems"
       ]
     }
   ]

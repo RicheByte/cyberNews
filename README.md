@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-24 10:31 UTC |
+| 🕐 Last Updated | 2026-08-24 12:37 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`earlier consent decree` • `rethinking application security` • `windows 11 25h2` • `twitter whistleblower complaint` • `multi stage downloader` • `fake lock screen` • `enlists compromised devices` • `education media technology` • `child privacy lawsuit` • `national security risk`
+`earlier consent decree` • `atm jackpotting scheme` • `rethinking application security` • `spring application framework` • `reduce application risk` • `windows 11 25h2` • `twitter whistleblower complaint` • `fake lock screen` • `enlists compromised devices` • `cvss scoring system`
 
 ## 📄 Reports
 

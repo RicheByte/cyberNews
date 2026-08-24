@@ -321,7 +321,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2517,
+      "count": 2518,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1179,7 +1179,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1211,7 +1211,8 @@
         "2026-08-18",
         "2026-08-19",
         "2026-08-20",
-        "2026-08-21"
+        "2026-08-21",
+        "2026-08-24"
       ]
     },
     "denmark's critical infrastructure": {
@@ -1224,7 +1225,7 @@
       ]
     },
     "national security risk": {
-      "count": 427,
+      "count": 428,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1970,7 +1971,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 582,
+      "count": 583,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2380,7 +2381,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 109,
+      "count": 110,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2404,7 +2405,8 @@
         "2026-08-03",
         "2026-08-12",
         "2026-08-13",
-        "2026-08-17"
+        "2026-08-17",
+        "2026-08-24"
       ]
     },
     "cybercrime looks like": {
@@ -5693,10 +5695,11 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-01-28",
-        "2026-01-29"
+        "2026-01-29",
+        "2026-08-24"
       ]
     },
     "public facing figures": {
@@ -27822,7 +27825,7 @@
       ]
     },
     "fake lock screen": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27831,7 +27834,7 @@
       ]
     },
     "delete security software": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27873,7 +27876,7 @@
       ]
     },
     "persistent grandoreiro campaign": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27889,7 +27892,7 @@
       ]
     },
     "enlists compromised devices": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27897,7 +27900,7 @@
       ]
     },
     "child privacy lawsuit": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27905,7 +27908,7 @@
       ]
     },
     "security threats near": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-23",
         "2026-08-24"
@@ -27925,25 +27928,25 @@
       ]
     },
     "earlier consent decree": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
     },
     "rethinking application security": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
     },
     "windows 11 25h2": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
     },
     "reduce application risk": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
@@ -27959,20 +27962,33 @@
       "dates": [
         "2026-08-24"
       ]
+    },
+    "spring application framework": {
+      "count": 1,
+      "dates": [
+        "2026-08-24"
+      ]
+    },
+    "software flaw exploited": {
+      "count": 1,
+      "dates": [
+        "2026-08-24"
+      ]
+    },
+    "ai super adopters": {
+      "count": 1,
+      "dates": [
+        "2026-08-24"
+      ]
+    },
+    "personal information exposed": {
+      "count": 1,
+      "dates": [
+        "2026-08-24"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 04:29",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-16 06:29",
       "articles": 48,
@@ -29060,6 +29076,17 @@
         "windows 11 25h2",
         "twitter whistleblower complaint",
         "multi stage downloader"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24 12:37",
+      "articles": 48,
+      "top_keywords": [
+        "earlier consent decree",
+        "atm jackpotting scheme",
+        "rethinking application security",
+        "spring application framework",
+        "reduce application risk"
       ]
     }
   ]

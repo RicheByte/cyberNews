@@ -1,72 +1,115 @@
 {
-  "last_updated": "2026-08-24 10:31",
+  "last_updated": "2026-08-24 12:37",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "earlier consent decree",
+    "atm jackpotting scheme",
     "rethinking application security",
+    "spring application framework",
+    "reduce application risk",
     "windows 11 25h2",
     "twitter whistleblower complaint",
-    "multi stage downloader",
     "fake lock screen",
     "enlists compromised devices",
-    "education media technology",
+    "cvss scoring system",
     "child privacy lawsuit",
     "national security risk",
-    "toxicpanda android malware",
-    "reduce application risk",
+    "critical security flaw",
     "sprawling phishing campaign",
+    "software flaw exploited",
+    "ai super adopters",
+    "persistent grandoreiro campaign",
+    "personal information exposed",
     "security threats near",
-    "personal security risks",
-    "delete security software",
-    "windows systems ranging",
-    "windows operating systems",
-    "universal skill format",
-    "turn one's television"
+    "delete security software"
   ],
   "trending": [
     {
       "keyword": "earlier consent decree",
-      "mentions": 1
-    },
-    {
-      "keyword": "rethinking application security",
-      "mentions": 1
-    },
-    {
-      "keyword": "windows 11 25h2",
-      "mentions": 1
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2517
-    },
-    {
-      "keyword": "multi stage downloader",
-      "mentions": 33
-    },
-    {
-      "keyword": "fake lock screen",
-      "mentions": 33
-    },
-    {
-      "keyword": "enlists compromised devices",
-      "mentions": 22
-    },
-    {
-      "keyword": "education media technology",
       "mentions": 2
     },
     {
-      "keyword": "child privacy lawsuit",
-      "mentions": 22
+      "keyword": "atm jackpotting scheme",
+      "mentions": 13
     },
     {
-      "keyword": "national security risk",
-      "mentions": 427
+      "keyword": "rethinking application security",
+      "mentions": 2
+    },
+    {
+      "keyword": "spring application framework",
+      "mentions": 1
+    },
+    {
+      "keyword": "reduce application risk",
+      "mentions": 2
+    },
+    {
+      "keyword": "windows 11 25h2",
+      "mentions": 2
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2518
+    },
+    {
+      "keyword": "fake lock screen",
+      "mentions": 34
+    },
+    {
+      "keyword": "enlists compromised devices",
+      "mentions": 23
+    },
+    {
+      "keyword": "cvss scoring system",
+      "mentions": 110
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "published": "Mon, 24 Aug 2026 17:28:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
+      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
+      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
+      "published": "Mon, 24 Aug 2026 17:26:34 +0530",
+      "value_score": 44,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
+      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
+      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
+      "published": "Mon, 24 Aug 2026 17:21:36 +0530",
+      "value_score": 34,
+      "value_signals": [
+        "Backdoor ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
+      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
+      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
+      "published": "Mon, 24 Aug 2026 17:00:00 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit",
@@ -108,44 +151,16 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet",
-      "link": "https://thehackernews.com/2026/08/android-car-malware-spreads-through.html",
-      "summary": "Cybersecurity researchers have flagged a new malware family that's specifically designed to infect Android-based vehicle head unit firmware developed by DoFun. Kaspersky, which discovered the threat in June 2026, said the end goal of the malware is to serve a multi-stage downloader to enable ad fraud and creation of a proxy botnet. \"The malware spread through the built-in updaters of",
-      "published": "Fri, 21 Aug 2026 21:11:44 +0530",
-      "value_score": 30,
+      "source": "BleepingComputer",
+      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
+      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
+      "published": "Mon, 24 Aug 2026 06:45:12 -0400",
+      "value_score": 100,
       "value_signals": [
-        "Botnet ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Wazuh and AI For Enhanced SOC Workflows",
-      "link": "https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html",
-      "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large datasets, and support faster decision-making. Cybersecurity has experienced a similar transformation. While attackers employ AI to automate",
-      "published": "Fri, 21 Aug 2026 16:51:39 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "summary": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
-      "published": "Fri, 21 Aug 2026 15:33:11 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "summary": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
-      "published": "Fri, 21 Aug 2026 12:34:25 +0530",
-      "value_score": 60,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Multiple CVEs",
+        "Active exploitation ×2",
+        "Patch/update",
+        "CISA/KEV ×2",
         "Exploit wording"
       ]
     },
@@ -216,15 +231,6 @@
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
       "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
       "published": "Fri, 21 Aug 2026 10:54:49 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Is Online Privacy Possible? How Digital Identities Can Help",
-      "link": "https://www.bleepingcomputer.com/news/security/is-online-privacy-possible-how-digital-identities-can-help/",
-      "summary": "Using the same email, phone number, payment method, and other identifiers makes it easier for data brokers and attackers to profile your activity. Anonyome Labs explains how separate digital personas can reduce correlation and limit the impact of breaches, spam, and identity theft. [...]",
-      "published": "Fri, 21 Aug 2026 10:00:10 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -314,7 +320,7 @@
       "source": "Dark Reading",
       "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
       "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes",
+      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
       "published": "Fri, 21 Aug 2026 20:24:42 GMT",
       "value_score": 10,
       "value_signals": []
@@ -341,7 +347,7 @@
       "source": "Dark Reading",
       "title": "OpenAI Adds Controls That Should've Been There Already",
       "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-      "summary": "The new AI security controls follow the Hugging Face incident last month, though many of these additions perhaps should have been in place prior to the frontier models escaping.",
+      "summary": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
       "published": "Fri, 21 Aug 2026 13:30:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -383,6 +389,24 @@
       "value_signals": [
         "Patch/update"
       ]
+    },
+    {
+      "source": "Security Week",
+      "title": "91 Vulnerabilities Patched in Spring Application Framework",
+      "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
+      "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 11:58:28 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
+      "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
+      "summary": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 10:59:30 +0000",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "Security Week",
@@ -441,26 +465,6 @@
       "published": "Sat, 22 Aug 2026 08:30:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Former NSA Director Paul Nakasone Launches National Security Advisory Firm",
-      "link": "https://www.securityweek.com/former-nsa-director-paul-nakasone-launches-national-security-advisory-firm/",
-      "summary": "The newly-formed Nakasone Group will counsel government leaders, corporations, prominent families, and other private clients confronting cybersecurity, geopolitical, and personal security risks. The post Former NSA Director Paul Nakasone Launches National Security Advisory Firm appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 16:27:52 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug",
-      "link": "https://www.securityweek.com/in-other-news-zombie-card-attack-t-mobile-cut-cable-to-stop-hackers-github-denies-ai-caused-bug/",
-      "summary": "Other noteworthy stories that might have slipped under the radar: Threema DDoS attack, Evooo1Bot Linux botnet, Crypto4A secures top-tier NIST certification. The post In Other News: Zombie Card Attack, T-Mobile Cut Cable to Stop Hackers, GitHub Denies AI Caused Bug appeared first on SecurityWeek .",
-      "published": "Fri, 21 Aug 2026 15:11:16 +0000",
-      "value_score": 20,
-      "value_signals": [
-        "Botnet"
-      ]
     },
     {
       "source": "Threatpost",

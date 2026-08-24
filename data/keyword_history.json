@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 714,
+      "count": 715,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -321,7 +321,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2518,
+      "count": 2519,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1179,7 +1179,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -1225,7 +1225,7 @@
       ]
     },
     "national security risk": {
-      "count": 428,
+      "count": 429,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2381,7 +2381,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 110,
+      "count": 111,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2898,7 +2898,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 24,
+      "count": 25,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -2907,7 +2907,8 @@
         "2026-05-22",
         "2026-05-23",
         "2026-07-30",
-        "2026-08-10"
+        "2026-08-10",
+        "2026-08-24"
       ]
     },
     "remote authenticated attacker": {
@@ -5695,7 +5696,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -24528,7 +24529,7 @@
       ]
     },
     "turn one's television": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26242,7 +26243,7 @@
       ]
     },
     "text history records": {
-      "count": 138,
+      "count": 139,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27843,7 +27844,7 @@
       ]
     },
     "universal skill format": {
-      "count": 33,
+      "count": 34,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27892,7 +27893,7 @@
       ]
     },
     "enlists compromised devices": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27900,7 +27901,7 @@
       ]
     },
     "child privacy lawsuit": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-22",
         "2026-08-23",
@@ -27908,7 +27909,7 @@
       ]
     },
     "security threats near": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-08-23",
         "2026-08-24"
@@ -27928,13 +27929,13 @@
       ]
     },
     "earlier consent decree": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-24"
       ]
     },
     "rethinking application security": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-24"
       ]
@@ -27946,7 +27947,7 @@
       ]
     },
     "reduce application risk": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-24"
       ]
@@ -27964,7 +27965,7 @@
       ]
     },
     "spring application framework": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
@@ -27976,12 +27977,18 @@
       ]
     },
     "ai super adopters": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-24"
       ]
     },
     "personal information exposed": {
+      "count": 2,
+      "dates": [
+        "2026-08-24"
+      ]
+    },
+    "upside faster development": {
       "count": 1,
       "dates": [
         "2026-08-24"
@@ -27989,17 +27996,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 06:29",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-16 08:21",
       "articles": 48,
@@ -29086,6 +29082,17 @@
         "atm jackpotting scheme",
         "rethinking application security",
         "spring application framework",
+        "reduce application risk"
+      ]
+    },
+    {
+      "timestamp": "2026-08-24 14:35",
+      "articles": 48,
+      "top_keywords": [
+        "earlier consent decree",
+        "atm jackpotting scheme",
+        "spring application framework",
+        "rethinking application security",
         "reduce application risk"
       ]
     }

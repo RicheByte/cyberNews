@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-08-24 12:37",
+  "last_updated": "2026-08-24 14:35",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "earlier consent decree",
     "atm jackpotting scheme",
-    "rethinking application security",
     "spring application framework",
+    "rethinking application security",
     "reduce application risk",
-    "windows 11 25h2",
+    "critical security flaw",
+    "windows operating systems",
     "twitter whistleblower complaint",
-    "fake lock screen",
     "enlists compromised devices",
     "cvss scoring system",
     "child privacy lawsuit",
     "national security risk",
-    "critical security flaw",
-    "sprawling phishing campaign",
-    "software flaw exploited",
     "ai super adopters",
-    "persistent grandoreiro campaign",
     "personal information exposed",
     "security threats near",
-    "delete security software"
+    "upside faster development",
+    "universal skill format",
+    "unauthenticated remote attacker",
+    "turn one's television",
+    "text history records"
   ],
   "trending": [
     {
       "keyword": "earlier consent decree",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "atm jackpotting scheme",
-      "mentions": 13
-    },
-    {
-      "keyword": "rethinking application security",
-      "mentions": 2
+      "mentions": 14
     },
     {
       "keyword": "spring application framework",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "rethinking application security",
+      "mentions": 3
     },
     {
       "keyword": "reduce application risk",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "windows 11 25h2",
-      "mentions": 2
+      "keyword": "critical security flaw",
+      "mentions": 182
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 715
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2518
-    },
-    {
-      "keyword": "fake lock screen",
-      "mentions": 34
+      "mentions": 2519
     },
     {
       "keyword": "enlists compromised devices",
-      "mentions": 23
+      "mentions": 24
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 110
+      "mentions": 111
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
+      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
+      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)",
+      "published": "Mon, 24 Aug 2026 18:05:36 +0530",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
@@ -140,14 +151,34 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot",
-      "link": "https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html",
-      "summary": "Check Point Research has disclosed a technique that uses Microsoft Defender's own legitimately signed boot-time remediation driver to perform arbitrary kernel-level file and registry operations on Windows systems ranging from Windows 7 through Windows 11 25H2, with no software flaw exploited and no driver imported from outside the machine. The driver, BTR.sys (Boot Time Removal Tool), is a",
-      "published": "Fri, 21 Aug 2026 21:22:10 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Microsoft Teams now lets admins block external bots from meetings",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
+      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
+      "published": "Mon, 24 Aug 2026 10:00:19 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "South Korean startup platform breach exposes key management failures",
+      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
+      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
+      "published": "Mon, 24 Aug 2026 10:00:10 -0400",
+      "value_score": 34,
       "value_signals": [
-        "Exploit wording"
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
+      "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
+      "published": "Mon, 24 Aug 2026 08:40:21 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
       ]
     },
     {
@@ -202,35 +233,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
       "summary": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
       "published": "Sat, 22 Aug 2026 09:00:09 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
-      "summary": "A previously unknown malware family dubbed SynkLoader is being distributed in Microsoft Teams phishing campaigns to steal credentials via a fake lock screen. [...]",
-      "published": "Fri, 21 Aug 2026 14:01:30 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Phishing ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hundreds of leaked AWS keys give full control over corporate accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
-      "summary": "More than 9,300 Amazon Web Services (AWS) access keys publicly exposed between August 2022 and August 2026 are still active and valid. [...]",
-      "published": "Fri, 21 Aug 2026 11:55:15 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft blames Windows gaming issues on RGB lighting devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-windows-gaming-issues-on-rgb-lighting-devices/",
-      "summary": "Microsoft says ongoing issues causing games to crash or fail to launch after installing the August 2026 Windows updates may be caused by peripherals with RGB lighting. [...]",
-      "published": "Fri, 21 Aug 2026 10:54:49 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -392,6 +394,24 @@
     },
     {
       "source": "Security Week",
+      "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
+      "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
+      "summary": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 14:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
+      "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
+      "summary": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation. The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts appeared first on SecurityWeek .",
+      "published": "Mon, 24 Aug 2026 12:42:09 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "91 Vulnerabilities Patched in Spring Application Framework",
       "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
       "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
@@ -445,24 +465,6 @@
       "link": "https://www.securityweek.com/tiktok-reaches-400-million-settlement-with-us-justice-department-over-childrens-privacy/",
       "summary": "TikTok will pay $300 million immediately and another $100 million after an order vacates an earlier consent decree against its predecessor company, Musical.ly. The post TikTok Reaches $400 Million Settlement With US Justice Department Over Children’s Privacy appeared first on SecurityWeek .",
       "published": "Mon, 24 Aug 2026 09:11:11 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund",
-      "link": "https://www.securityweek.com/anthropic-expands-mythos-5-access-to-more-defenders-unveils-35m-open-source-fund/",
-      "summary": "Claude Security, currently in public beta for Claude Enterprise customers, now runs codebase scans on Mythos 5. The post Anthropic Expands Mythos 5 Access to More Defenders, Unveils $35M Open Source Fund appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 07:18:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
-      "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
-      "summary": "The spyware-equipped Manic, a persistent Grandoreiro campaign in Latin America and Europe, and an expanded ToxicPanda 2.0 malware. The post Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight appeared first on SecurityWeek .",
-      "published": "Sat, 22 Aug 2026 08:30:00 +0000",
       "value_score": 10,
       "value_signals": []
     },

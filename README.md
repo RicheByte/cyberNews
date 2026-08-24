@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-24 12:37 UTC |
+| 🕐 Last Updated | 2026-08-24 14:35 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`earlier consent decree` • `atm jackpotting scheme` • `rethinking application security` • `spring application framework` • `reduce application risk` • `windows 11 25h2` • `twitter whistleblower complaint` • `fake lock screen` • `enlists compromised devices` • `cvss scoring system`
+`earlier consent decree` • `atm jackpotting scheme` • `spring application framework` • `rethinking application security` • `reduce application risk` • `critical security flaw` • `windows operating systems` • `twitter whistleblower complaint` • `enlists compromised devices` • `cvss scoring system`
 
 ## 📄 Reports
 

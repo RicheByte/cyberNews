@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-25 08:34 UTC |
+| 🕐 Last Updated | 2026-08-25 10:24 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`expose internal devices` • `atm jackpotting scheme` • `spring application framework` • `rethinking application security` • `twitter whistleblower complaint` • `oracle weblogic server` • `cvss scoring system` • `cve 2026 21962` • `critical security flaw` • `personal information exposed`
+`expose internal devices` • `atm jackpotting scheme` • `oracle weblogic server` • `leaving defenders without` • `twitter whistleblower complaint` • `taiwan charges 9` • `spring application framework` • `less time spent` • `cvss scoring system` • `cve 2026 21962`
 
 ## 📄 Reports
 

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-25 08:34 UTC  
+> **Last Updated:** 2026-08-25 10:24 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**expose internal devices** • **atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **twitter whistleblower complaint** • **oracle weblogic server** • **cvss scoring system** • **cve 2026 21962** • **critical security flaw** • **personal information exposed** • **likely sell access** • **hackers gained access** • **access management server** • **400 million settlement** • **yesteryear screen hijacking** • **windows operating systems** • **universal skill format** • **turn one's television** • **text history records** • **still actively distributing**
+**expose internal devices** • **atm jackpotting scheme** • **oracle weblogic server** • **leaving defenders without** • **twitter whistleblower complaint** • **taiwan charges 9** • **spring application framework** • **less time spent** • **cvss scoring system** • **cve 2026 21962** • **access management server** • **rated 9 1** • **critical security flaw** • **likely sell access** • **hackers gained access** • **china including nvidia** • **400 million settlement** • **yesteryear screen hijacking** • **windows operating systems** • **universal skill format**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
 - [Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data](https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html)
 - [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
 - [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
@@ -23,7 +24,6 @@
 - [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
 - [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
 - [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html)
-- [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
 
 ### BleepingComputer
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [Silent Patches Don’t Stop Attackers – They Blind Defenders](https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/)
+- [Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff](https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)
 - [CISA Warns of Exploited Oracle WebLogic Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/)
 - [ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited](https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/)
 - [Hired for One Job, Judged on Another: The CISO’s Real Problem](https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/)
 - [Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts](https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/)
 - [91 Vulnerabilities Patched in Spring Application Framework](https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/)
 - [Venezuelan Gets Record Federal Prison Term for ATM Jackpotting](https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/)
-- [Personal Information Exposed in Apollo Global Data Breach](https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/)
-- [Rethinking Application Security for the AI Era](https://www.securityweek.com/rethinking-application-security-for-the-ai-era/)
 
 ### Threatpost
 

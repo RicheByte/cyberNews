@@ -1,72 +1,85 @@
 {
-  "last_updated": "2026-08-25 08:34",
+  "last_updated": "2026-08-25 10:24",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "expose internal devices",
     "atm jackpotting scheme",
-    "spring application framework",
-    "rethinking application security",
-    "twitter whistleblower complaint",
     "oracle weblogic server",
+    "leaving defenders without",
+    "twitter whistleblower complaint",
+    "taiwan charges 9",
+    "spring application framework",
+    "less time spent",
     "cvss scoring system",
     "cve 2026 21962",
+    "access management server",
+    "rated 9 1",
     "critical security flaw",
-    "personal information exposed",
     "likely sell access",
     "hackers gained access",
-    "access management server",
+    "china including nvidia",
     "400 million settlement",
     "yesteryear screen hijacking",
     "windows operating systems",
-    "universal skill format",
-    "turn one's television",
-    "text history records",
-    "still actively distributing"
+    "universal skill format"
   ],
   "trending": [
     {
       "keyword": "expose internal devices",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "atm jackpotting scheme",
-      "mentions": 23
-    },
-    {
-      "keyword": "spring application framework",
-      "mentions": 11
-    },
-    {
-      "keyword": "rethinking application security",
-      "mentions": 12
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2528
+      "mentions": 24
     },
     {
       "keyword": "oracle weblogic server",
+      "mentions": 2
+    },
+    {
+      "keyword": "leaving defenders without",
+      "mentions": 1
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2529
+    },
+    {
+      "keyword": "taiwan charges 9",
+      "mentions": 1
+    },
+    {
+      "keyword": "spring application framework",
+      "mentions": 12
+    },
+    {
+      "keyword": "less time spent",
       "mentions": 1
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 120
+      "mentions": 121
     },
     {
       "keyword": "cve 2026 21962",
-      "mentions": 1
-    },
-    {
-      "keyword": "critical security flaw",
-      "mentions": 191
-    },
-    {
-      "keyword": "personal information exposed",
-      "mentions": 11
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
+      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
+      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
+      "published": "Tue, 25 Aug 2026 14:04:07 +0530",
+      "value_score": 46,
+      "value_signals": [
+        "CVE mentioned",
+        "Privilege escalation",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
@@ -143,17 +156,6 @@
       "value_score": 34,
       "value_signals": [
         "Backdoor ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk",
-      "link": "https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html",
-      "summary": "Big security risks come in small packages. While enterprise security teams focus on policing the proliferation of employees using ChatGPT and Claude for quick drafting tasks, a more urgent threat is posed by a handful of AI super-adopters who are quietly hardcoding unvetted tools into critical business operations. According to new research published by Akamai, the top 5% of enterprise power",
-      "published": "Mon, 24 Aug 2026 17:00:00 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
       ]
     },
     {
@@ -406,6 +408,26 @@
     },
     {
       "source": "Security Week",
+      "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
+      "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
+      "summary": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers – They Blind Defenders appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 10:00:00 +0000",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff",
+      "link": "https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/",
+      "summary": "AI infrastructure, including advanced semiconductors mostly made in Taiwan, has become a key point of competition between the U.S. and China. The post Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 08:30:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
       "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
       "summary": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .",
@@ -463,28 +485,6 @@
       "published": "Mon, 24 Aug 2026 10:59:30 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Personal Information Exposed in Apollo Global Data Breach",
-      "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
-      "summary": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 10:08:42 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Rethinking Application Security for the AI Era",
-      "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
-      "summary": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 10:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

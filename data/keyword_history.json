@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 724,
+      "count": 725,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -322,7 +322,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2528,
+      "count": 2529,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1181,7 +1181,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 191,
+      "count": 192,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2384,7 +2384,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 120,
+      "count": 121,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -5701,7 +5701,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -27860,7 +27860,7 @@
       ]
     },
     "universal skill format": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27983,7 +27983,7 @@
       ]
     },
     "spring application framework": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-24",
         "2026-08-25"
@@ -28015,27 +28015,27 @@
       ]
     },
     "yesteryear screen hijacking": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-24",
         "2026-08-25"
       ]
     },
     "expose internal devices": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-24",
         "2026-08-25"
       ]
     },
     "hackers gained access": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-25"
       ]
     },
     "400 million settlement": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-25"
       ]
@@ -28047,24 +28047,54 @@
       ]
     },
     "oracle weblogic server": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-25"
       ]
     },
     "cve 2026 21962": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-25"
       ]
     },
     "likely sell access": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-25"
       ]
     },
     "access management server": {
+      "count": 2,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "leaving defenders without": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "taiwan charges 9": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "less time spent": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "rated 9 1": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "china including nvidia": {
       "count": 1,
       "dates": [
         "2026-08-25"
@@ -28072,17 +28102,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-17 02:54",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "key milestones targeted",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-17 04:34",
       "articles": 48,
@@ -29169,6 +29188,17 @@
         "atm jackpotting scheme",
         "spring application framework",
         "rethinking application security",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-25 10:24",
+      "articles": 48,
+      "top_keywords": [
+        "expose internal devices",
+        "atm jackpotting scheme",
+        "oracle weblogic server",
+        "leaving defenders without",
         "twitter whistleblower complaint"
       ]
     }

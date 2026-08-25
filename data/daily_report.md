@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-25 18:31 UTC  
+> **Last Updated:** 2026-08-25 20:21 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**alice raises 140m** • **taiwan charges 9** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **expose internal devices** • **control c2 infrastructure** • **abuse legitimate services** • **outrunning repair ai** • **security programs since** • **free phishing infrastructure** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **universal skill format** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **residential proxy node**
+**alice raises 140m** • **taiwan charges 9** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **expose internal devices** • **outrunning repair ai** • **local model server** • **control c2 infrastructure** • **abuse legitimate services** • **users financial applications** • **free phishing infrastructure** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
 - [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
 - [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
 - [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
@@ -23,7 +24,6 @@
 - [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
 - [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
 - [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
-- [Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access](https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html)
 
 ### BleepingComputer
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw](https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw)
 - [Is Cyber Facing an Affordability Crisis?](https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-)
 - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
 - [Foul Language: WordlistLoader Disguises Malware as Ordinary Text](https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text)
@@ -56,7 +57,6 @@
 - [ToxicPanda Banking Trojan Matures Into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
 - [The Vulnerability Gap: Why Discovery Is Outrunning Repair](https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair)
 - [How an Emerging Industrial Protocol Family Could Put OT at Risk](https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk)
-- [OWASP Flags Top AI Skill Risks in New Security Blueprint](https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint)
 
 ### Security Week
 

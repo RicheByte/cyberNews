@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25 18:31",
+  "last_updated": "2026-08-25 20:21",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,65 +8,76 @@
     "leaving defenders without",
     "twitter whistleblower complaint",
     "stronger identity verification",
+    "ollama api paving",
     "expose internal devices",
+    "outrunning repair ai",
+    "local model server",
     "control c2 infrastructure",
     "abuse legitimate services",
-    "outrunning repair ai",
-    "security programs since",
+    "users financial applications",
     "free phishing infrastructure",
     "yesteryear screen hijacking",
     "windows powertoys toolset",
     "windows operating systems",
-    "universal skill format",
     "turn one's television",
     "text history records",
     "targeted email addresses",
-    "services provider nutex",
-    "residential proxy node"
+    "services provider nutex"
   ],
   "trending": [
     {
       "keyword": "alice raises 140m",
-      "mentions": 3
-    },
-    {
-      "keyword": "taiwan charges 9",
-      "mentions": 5
-    },
-    {
-      "keyword": "leaving defenders without",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2533
-    },
-    {
-      "keyword": "stronger identity verification",
-      "mentions": 8
-    },
-    {
-      "keyword": "expose internal devices",
-      "mentions": 11
-    },
-    {
-      "keyword": "control c2 infrastructure",
-      "mentions": 16
-    },
-    {
-      "keyword": "abuse legitimate services",
       "mentions": 4
     },
     {
-      "keyword": "outrunning repair ai",
-      "mentions": 3
+      "keyword": "taiwan charges 9",
+      "mentions": 6
     },
     {
-      "keyword": "security programs since",
-      "mentions": 3
+      "keyword": "leaving defenders without",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2534
+    },
+    {
+      "keyword": "stronger identity verification",
+      "mentions": 9
+    },
+    {
+      "keyword": "ollama api paving",
+      "mentions": 1
+    },
+    {
+      "keyword": "expose internal devices",
+      "mentions": 12
+    },
+    {
+      "keyword": "outrunning repair ai",
+      "mentions": 4
+    },
+    {
+      "keyword": "local model server",
+      "mentions": 1
+    },
+    {
+      "keyword": "control c2 infrastructure",
+      "mentions": 17
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
+      "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
+      "summary": "The U.S. Department of the Treasury has announced fresh sanctions on Iranian cyber actors as part of what it called an \"unprecedented, whole-of-government, economic campaign\" against the nation and its enablers. \"We are launching an economic onslaught against Iran's financial connections around the globe. Our objective is to sever every economic lifeline that sustains this tyrannical regime",
+      "published": "Tue, 25 Aug 2026 23:47:17 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
@@ -136,19 +147,6 @@
       "value_score": 18,
       "value_signals": [
         "Patch/update"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
-      "link": "https://thehackernews.com/2026/08/attackers-target-miniorange-saml-flaws.html",
-      "summary": "Bad actors are attempting to exploit two severe unauthenticated authentication bypasses in the Xecurify miniOrange SAML 2.0 Single Sign On plugin that make it possible for an attacker to sign in as any WordPress user, including administrators. The vulnerabilities, as disclosed by Patchstack, are listed below - CVE-2026-61979 (CVSS score: 8.1) - An unauthenticated privilege escalation",
-      "published": "Tue, 25 Aug 2026 14:04:07 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "CVE mentioned",
-        "Privilege escalation",
-        "Exploit wording"
       ]
     },
     {
@@ -311,6 +309,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+      "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+      "published": "Tue, 25 Aug 2026 19:50:16 GMT",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Is Cyber Facing an Affordability Crisis?",
       "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
       "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
@@ -378,15 +387,6 @@
       "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
       "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
       "published": "Fri, 21 Aug 2026 20:24:42 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
-      "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
-      "summary": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
-      "published": "Fri, 21 Aug 2026 17:36:53 GMT",
       "value_score": 10,
       "value_signals": []
     },

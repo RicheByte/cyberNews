@@ -1,72 +1,114 @@
 {
-  "last_updated": "2026-08-25 10:24",
+  "last_updated": "2026-08-25 12:36",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "expose internal devices",
-    "atm jackpotting scheme",
     "oracle weblogic server",
+    "taiwan charges 9",
     "leaving defenders without",
     "twitter whistleblower complaint",
-    "taiwan charges 9",
-    "spring application framework",
-    "less time spent",
-    "cvss scoring system",
-    "cve 2026 21962",
-    "access management server",
-    "rated 9 1",
-    "critical security flaw",
-    "likely sell access",
+    "expose internal devices",
+    "abuse legitimate services",
+    "control c2 infrastructure",
     "hackers gained access",
-    "china including nvidia",
+    "regular network traffic",
     "400 million settlement",
     "yesteryear screen hijacking",
     "windows operating systems",
-    "universal skill format"
+    "users financial applications",
+    "universal skill format",
+    "turn one's television",
+    "text history records",
+    "spring application framework",
+    "software giant fixed",
+    "software almost triple",
+    "residential proxy node"
   ],
   "trending": [
     {
-      "keyword": "expose internal devices",
-      "mentions": 7
-    },
-    {
-      "keyword": "atm jackpotting scheme",
-      "mentions": 24
-    },
-    {
       "keyword": "oracle weblogic server",
+      "mentions": 3
+    },
+    {
+      "keyword": "taiwan charges 9",
       "mentions": 2
     },
     {
       "keyword": "leaving defenders without",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2529
+      "mentions": 2530
     },
     {
-      "keyword": "taiwan charges 9",
+      "keyword": "expose internal devices",
+      "mentions": 8
+    },
+    {
+      "keyword": "abuse legitimate services",
       "mentions": 1
     },
     {
-      "keyword": "spring application framework",
-      "mentions": 12
+      "keyword": "control c2 infrastructure",
+      "mentions": 13
     },
     {
-      "keyword": "less time spent",
+      "keyword": "hackers gained access",
+      "mentions": 7
+    },
+    {
+      "keyword": "regular network traffic",
       "mentions": 1
     },
     {
-      "keyword": "cvss scoring system",
-      "mentions": 121
-    },
-    {
-      "keyword": "cve 2026 21962",
-      "mentions": 2
+      "keyword": "400 million settlement",
+      "mentions": 7
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
+      "link": "https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html",
+      "summary": "Thousands of companies have been affected by the Mirage2FA campaign from 2024 to 2026. The commercial phishing-as-a-service toolkit targets Microsoft 365 accounts by abusing legitimate login flows and bypassing two-factor authentication. According to ANY.RUN research, 48% of targeted email addresses were potentially compromised. Most of the affected companies are US-based. Mirage2FA Campaign",
+      "published": "Tue, 25 Aug 2026 17:26:15 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages",
+      "link": "https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html",
+      "summary": "Cybersecurity researchers have disclosed details of a new campaign that uses a cluster of 24 npm packages as free phishing infrastructure for redirecting to ClickFix-style fake CAPTCHA pages. \"While the malware is simply a single HTML page inside the npm package, and while downloading it wouldn't do harm, the threat actor’s use of npm isn't to infect developers who install it, but to use the",
+      "published": "Tue, 25 Aug 2026 17:22:43 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
+      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
+      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
+      "published": "Tue, 25 Aug 2026 17:03:44 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
+      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
+      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
+      "published": "Tue, 25 Aug 2026 16:44:07 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Patch/update"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Attackers Target miniOrange SAML Flaws That Can Grant WordPress Admin Access",
@@ -114,49 +156,24 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html",
-      "summary": "A package gets installed. A login prompt opens. A box sits exposed to the internet. Nothing looks unusual yet. That’s roughly the mood this week. Trusted tools turn hostile, old weak spots get fresh attention, AI makes exploit work cheaper, and researchers keep finding attacks that sound harder than they actually are. Plenty to clean up. Here’s the short version. ⚡ Threat of the Week U.S.",
-      "published": "Mon, 24 Aug 2026 20:02:10 +0530",
-      "value_score": 16,
+      "source": "BleepingComputer",
+      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
+      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
+      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
+      "value_score": 30,
       "value_signals": [
-        "Exploit wording"
+        "RCE"
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords",
-      "link": "https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html",
-      "summary": "Cybersecurity researchers have flagged two new malware families called WordlistLoader and SynkLoader that's used to deliver next-stage payloads and likely sell access to ransomware groups. According to findings from Gen Digital, WordlistLoader is being used to deliver Amatera Stealer (aka ACR Stealer or AcridRain Stealer) via ClearFake campaigns, which employ the ClickFix (aka FakeCaptcha)",
-      "published": "Mon, 24 Aug 2026 18:05:36 +0530",
-      "value_score": 28,
-      "value_signals": [
-        "Ransomware"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account",
-      "link": "https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html",
-      "summary": "Red Hat and the Keycloak project have released patches to address a critical security flaw in the open-source identity and access management server that could allow an unauthenticated remote attacker to take over any user account by forcing a password reset. The vulnerability, assigned the CVE identifier CVE-2026-18963, is rated 9.1 on the CVSS scoring system by Red Hat, which acts as",
-      "published": "Mon, 24 Aug 2026 17:26:34 +0530",
-      "value_score": 44,
-      "value_signals": [
-        "CVE mentioned",
-        "High severity ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor",
-      "link": "https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html",
-      "summary": "Cybersecurity researchers have flagged a cyber espionage campaign targeting Myanmar that uses graduation ceremony invitation lures to deliver a Go backdoor called QUICAgent. The campaign, codenamed Operation QUICSILVER, has been found to target government and information technology sectors, per Seqrite Labs. The activity is assessed to be the work of a China-nexus threat actor with moderate",
-      "published": "Mon, 24 Aug 2026 17:21:36 +0530",
-      "value_score": 34,
-      "value_signals": [
-        "Backdoor ×2"
-      ]
+      "source": "BleepingComputer",
+      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
+      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
+      "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
+      "published": "Tue, 25 Aug 2026 06:53:20 -0400",
+      "value_score": 10,
+      "value_signals": []
     },
     {
       "source": "BleepingComputer",
@@ -218,31 +235,6 @@
       "value_score": 34,
       "value_signals": [
         "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft: August updates break printing, PDF export in WPF apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-updates-break-printing-pdf-export-in-wpf-apps/",
-      "summary": "Microsoft has confirmed that .NET Framework updates released as part of the August 2026 Patch Tuesday are breaking printing and PDF export in WPF applications. [...]",
-      "published": "Mon, 24 Aug 2026 08:40:21 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-      "summary": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-      "published": "Mon, 24 Aug 2026 06:45:12 -0400",
-      "value_score": 100,
-      "value_signals": [
-        "Active exploitation ×2",
-        "Patch/update",
-        "CISA/KEV ×2",
-        "Exploit wording"
       ]
     },
     {
@@ -408,6 +400,17 @@
     },
     {
       "source": "Security Week",
+      "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
+      "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
+      "summary": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 11:18:22 +0000",
+      "value_score": 30,
+      "value_signals": [
+        "Botnet ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
       "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
       "summary": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers – They Blind Defenders appeared first on SecurityWeek .",
@@ -474,15 +477,6 @@
       "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
       "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
       "published": "Mon, 24 Aug 2026 11:58:28 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Venezuelan Gets Record Federal Prison Term for ATM Jackpotting",
-      "link": "https://www.securityweek.com/venezuelan-gets-record-federal-prison-term-for-atm-jackpotting/",
-      "summary": "Juan Manuel Gouveia-Aguilera has been sentenced to 8 years in prison for his role in an ATM jackpotting scheme that caused millions in losses. The post Venezuelan Gets Record Federal Prison Term for ATM Jackpotting appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 10:59:30 +0000",
       "value_score": 10,
       "value_signals": []
     },

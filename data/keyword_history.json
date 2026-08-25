@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 725,
+      "count": 726,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -322,7 +322,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2529,
+      "count": 2530,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9366,12 +9366,13 @@
       ]
     },
     "control c2 infrastructure": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-02-27",
         "2026-02-28",
         "2026-04-14",
-        "2026-04-15"
+        "2026-04-15",
+        "2026-08-25"
       ]
     },
     "control aeternum stores": {
@@ -23285,7 +23286,7 @@
       ]
     },
     "software almost triple": {
-      "count": 154,
+      "count": 155,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23361,7 +23362,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 178,
+      "count": 179,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24209,7 +24210,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 187,
+      "count": 188,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24541,7 +24542,7 @@
       ]
     },
     "turn one's television": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26256,7 +26257,7 @@
       ]
     },
     "text history records": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27860,7 +27861,7 @@
       ]
     },
     "universal skill format": {
-      "count": 44,
+      "count": 45,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27983,7 +27984,7 @@
       ]
     },
     "spring application framework": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-24",
         "2026-08-25"
@@ -28015,27 +28016,27 @@
       ]
     },
     "yesteryear screen hijacking": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-24",
         "2026-08-25"
       ]
     },
     "expose internal devices": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-24",
         "2026-08-25"
       ]
     },
     "hackers gained access": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-25"
       ]
     },
     "400 million settlement": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-25"
       ]
@@ -28047,7 +28048,7 @@
       ]
     },
     "oracle weblogic server": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-25"
       ]
@@ -28071,13 +28072,13 @@
       ]
     },
     "leaving defenders without": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-25"
       ]
     },
     "taiwan charges 9": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-25"
       ]
@@ -28099,20 +28100,27 @@
       "dates": [
         "2026-08-25"
       ]
+    },
+    "abuse legitimate services": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "regular network traffic": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
+    },
+    "users financial applications": {
+      "count": 1,
+      "dates": [
+        "2026-08-25"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-17 04:34",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "key milestones targeted",
-        "arbitrary code execution"
-      ]
-    },
     {
       "timestamp": "2026-08-17 06:41",
       "articles": 48,
@@ -29200,6 +29208,17 @@
         "oracle weblogic server",
         "leaving defenders without",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-25 12:36",
+      "articles": 48,
+      "top_keywords": [
+        "oracle weblogic server",
+        "taiwan charges 9",
+        "leaving defenders without",
+        "twitter whistleblower complaint",
+        "expose internal devices"
       ]
     }
   ]

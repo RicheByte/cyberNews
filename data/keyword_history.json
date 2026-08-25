@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 722,
+      "count": 723,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -322,7 +322,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2526,
+      "count": 2527,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1181,7 +1181,7 @@
       ]
     },
     "critical security flaw": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2025-12-19",
         "2025-12-20",
@@ -2384,7 +2384,7 @@
       ]
     },
     "cvss scoring system": {
-      "count": 118,
+      "count": 119,
       "dates": [
         "2026-01-01",
         "2026-01-02",
@@ -2902,7 +2902,7 @@
       ]
     },
     "unauthenticated remote attacker": {
-      "count": 32,
+      "count": 33,
       "dates": [
         "2026-01-07",
         "2026-01-08",
@@ -5701,7 +5701,7 @@
       ]
     },
     "atm jackpotting scheme": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-01-28",
         "2026-01-29",
@@ -23285,7 +23285,7 @@
       ]
     },
     "software almost triple": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23361,7 +23361,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 177,
+      "count": 178,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24209,7 +24209,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24541,7 +24541,7 @@
       ]
     },
     "turn one's television": {
-      "count": 188,
+      "count": 189,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26256,7 +26256,7 @@
       ]
     },
     "text history records": {
-      "count": 146,
+      "count": 147,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27860,7 +27860,7 @@
       ]
     },
     "universal skill format": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-21",
         "2026-08-22",
@@ -27952,7 +27952,7 @@
       ]
     },
     "rethinking application security": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-24",
         "2026-08-25"
@@ -27983,7 +27983,7 @@
       ]
     },
     "spring application framework": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-24",
         "2026-08-25"
@@ -28002,7 +28002,7 @@
       ]
     },
     "personal information exposed": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-24",
         "2026-08-25"
@@ -28015,50 +28015,39 @@
       ]
     },
     "yesteryear screen hijacking": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-24",
         "2026-08-25"
       ]
     },
     "expose internal devices": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-24",
         "2026-08-25"
       ]
     },
     "hackers gained access": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-25"
       ]
     },
     "400 million settlement": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-25"
       ]
     },
     "still actively distributing": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-25"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-16 22:14",
-      "articles": 48,
-      "top_keywords": [
-        "google cloud sets",
-        "vmware vcenter server",
-        "traffic relay nodes",
-        "arbitrary code execution",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-17 00:56",
       "articles": 48,
@@ -29139,6 +29128,17 @@
     },
     {
       "timestamp": "2026-08-25 04:33",
+      "articles": 48,
+      "top_keywords": [
+        "expose internal devices",
+        "atm jackpotting scheme",
+        "spring application framework",
+        "rethinking application security",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-25 06:35",
       "articles": 48,
       "top_keywords": [
         "expose internal devices",

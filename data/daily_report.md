@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-24 22:19 UTC  
+> **Last Updated:** 2026-08-25 00:57 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**expose internal devices** • **atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **twitter whistleblower complaint** • **publicly detailed prior** • **cvss scoring system** • **critical security flaw** • **child privacy lawsuit** • **personal information exposed** • **yesteryear screen hijacking** • **windows operating systems** • **universal skill format** • **unauthenticated remote attacker** • **turn one's television** • **text history records** • **software giant fixed** • **software almost triple** • **residential proxy node** • **remained walled away**
+**expose internal devices** • **atm jackpotting scheme** • **spring application framework** • **rethinking application security** • **twitter whistleblower complaint** • **cvss scoring system** • **critical security flaw** • **hackers gained access** • **personal information exposed** • **400 million settlement** • **yesteryear screen hijacking** • **windows operating systems** • **universal skill format** • **unauthenticated remote attacker** • **turn one's television** • **text history records** • **still actively distributing** • **software giant fixed** • **software almost triple** • **residential proxy node**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
+- [Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning](https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html)
 - [⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More](https://thehackernews.com/2026/08/weekly-recap-ai-powered-plc-attacks.html)
 - [WordlistLoader Delivers Amatera via ClickFix, SynkLoader Phishes Windows Passwords](https://thehackernews.com/2026/08/wordlistloader-delivers-amatera-via.html)
-- [Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt](https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html)
 - [Critical Keycloak Password Reset Flaw Could Let Unauthenticated Attackers Take Over Any Account](https://thehackernews.com/2026/08/critical-keycloak-password-reset-flaw.html)
 - [Operation QUICSILVER Targets Myanmar Government and IT with QUICAgent Backdoor](https://thehackernews.com/2026/08/operation-quicsilver-targets-myanmar.html)
 - [The Outsized Shadow: Why 5% of AI Users Are Your Biggest Security Risk](https://thehackernews.com/2026/08/the-outsized-shadow-why-5-of-ai-users.html)
 - [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html)
-- [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html)
 
 ### BleepingComputer
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24 22:19",
+  "last_updated": "2026-08-25 00:57",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -8,65 +8,83 @@
     "spring application framework",
     "rethinking application security",
     "twitter whistleblower complaint",
-    "publicly detailed prior",
     "cvss scoring system",
     "critical security flaw",
-    "child privacy lawsuit",
+    "hackers gained access",
     "personal information exposed",
+    "400 million settlement",
     "yesteryear screen hijacking",
     "windows operating systems",
     "universal skill format",
     "unauthenticated remote attacker",
     "turn one's television",
     "text history records",
+    "still actively distributing",
     "software giant fixed",
     "software almost triple",
-    "residential proxy node",
-    "remained walled away"
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "expose internal devices",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "atm jackpotting scheme",
-      "mentions": 18
+      "mentions": 19
     },
     {
       "keyword": "spring application framework",
-      "mentions": 6
-    },
-    {
-      "keyword": "rethinking application security",
       "mentions": 7
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2523
+      "keyword": "rethinking application security",
+      "mentions": 8
     },
     {
-      "keyword": "publicly detailed prior",
-      "mentions": 40
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2524
     },
     {
       "keyword": "cvss scoring system",
-      "mentions": 115
+      "mentions": 116
     },
     {
       "keyword": "critical security flaw",
-      "mentions": 186
+      "mentions": 187
     },
     {
-      "keyword": "child privacy lawsuit",
-      "mentions": 28
+      "keyword": "hackers gained access",
+      "mentions": 1
     },
     {
       "keyword": "personal information exposed",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "400 million settlement",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
+      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
+      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
+      "published": "Mon, 24 Aug 2026 23:11:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
+      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
+      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
+      "published": "Mon, 24 Aug 2026 23:11:11 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "⚡ Weekly Recap: AI-Powered PLC Attacks, GitLab Attacks, Stripe Key Leaks and More",
@@ -88,15 +106,6 @@
       "value_signals": [
         "Ransomware"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-      "published": "Mon, 24 Aug 2026 17:28:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "The Hacker News",
@@ -138,15 +147,6 @@
       "link": "https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html",
       "summary": "Cybersecurity researchers have disclosed details of a Chinese-speaking cybercrime group dubbed UAT-10147 that's targeting Windows and Linux web servers globally across the education, media, technology, and gaming sectors. The vast majority of the targets are located in Brazil, Bolivia, China, Canada, and Vietnam. Details of the threat activity came to light following the discovery of an open",
       "published": "Mon, 24 Aug 2026 13:38:31 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit",
-      "link": "https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html",
-      "summary": "The U.S. Department of Justice (DoJ) announced on Friday that ByteDance-owned TikTok will pay $400 million to settle a 2024 lawsuit accusing the company of violating child privacy laws in the country. As part of the settlement, the social media platform will pay $300 million immediately, and an additional $100 million \"upon entry of an order vacating a prior consent decree entered against",
-      "published": "Sat, 22 Aug 2026 20:02:41 +0530",
       "value_score": 10,
       "value_signals": []
     },

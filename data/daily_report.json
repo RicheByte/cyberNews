@@ -1,72 +1,92 @@
 {
-  "last_updated": "2026-08-25 12:36",
+  "last_updated": "2026-08-25 14:38",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "alice raises 140m",
     "oracle weblogic server",
     "taiwan charges 9",
     "leaving defenders without",
     "twitter whistleblower complaint",
+    "stronger identity verification",
     "expose internal devices",
-    "abuse legitimate services",
+    "outrunning repair ai",
+    "gaining legitimate access",
     "control c2 infrastructure",
-    "hackers gained access",
+    "abuse legitimate services",
     "regular network traffic",
-    "400 million settlement",
+    "security programs since",
+    "free phishing infrastructure",
     "yesteryear screen hijacking",
+    "windows powertoys toolset",
     "windows operating systems",
-    "users financial applications",
     "universal skill format",
     "turn one's television",
-    "text history records",
-    "spring application framework",
-    "software giant fixed",
-    "software almost triple",
-    "residential proxy node"
+    "text history records"
   ],
   "trending": [
     {
+      "keyword": "alice raises 140m",
+      "mentions": 1
+    },
+    {
       "keyword": "oracle weblogic server",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "taiwan charges 9",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "leaving defenders without",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2530
+      "mentions": 2531
+    },
+    {
+      "keyword": "stronger identity verification",
+      "mentions": 6
     },
     {
       "keyword": "expose internal devices",
-      "mentions": 8
+      "mentions": 9
     },
     {
-      "keyword": "abuse legitimate services",
+      "keyword": "outrunning repair ai",
+      "mentions": 1
+    },
+    {
+      "keyword": "gaining legitimate access",
       "mentions": 1
     },
     {
       "keyword": "control c2 infrastructure",
-      "mentions": 13
-    },
-    {
-      "keyword": "hackers gained access",
-      "mentions": 7
-    },
-    {
-      "keyword": "regular network traffic",
-      "mentions": 1
-    },
-    {
-      "keyword": "400 million settlement",
-      "mentions": 7
+      "mentions": 14
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
+      "link": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "summary": "Meta on Tuesday announced a set of WhatsApp account security features, including support for multiple passkeys to a single account to help users with both iOS and Android devices sign into their accounts using the phishing-resistant method. The tech giant said more than 1 billion people use a passkey to log into WhatsApp. Support for passkeys was first introduced in Android in October 2023,",
+      "published": "Tue, 25 Aug 2026 18:49:41 +0530",
+      "value_score": 26,
+      "value_signals": [
+        "Phishing ×2"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode",
+      "link": "https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html",
+      "summary": "Marimo has addressed a high-severity security flaw in its notebook software that allowed an attacker to execute an attacker-supplied Model Context Protocol (MCP) command in a specially crafted notebook, according to VulnCheck's CVE Numbering Authority (CNA) record. The CNA record says the command can run as a local subprocess when the notebook is opened in edit mode. The vulnerability, tracked",
+      "published": "Tue, 25 Aug 2026 18:13:51 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows",
@@ -138,20 +158,29 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Shipping More AI Code Than You Can Secure? Watch How to Control Remediation Debt",
-      "link": "https://thehackernews.com/2026/08/shipping-more-ai-code-than-you-can.html",
-      "summary": "If your developers are using AI coding tools, you are probably already seeing the upside: faster development, more code, and less time spent on routine work. The harder part is what comes after. AI can also introduce open-source packages at a pace your security team was never built to handle. More dependencies mean more vulnerabilities to review, more remediation work, and a backlog that can",
-      "published": "Mon, 24 Aug 2026 23:11:30 +0530",
+      "source": "BleepingComputer",
+      "title": "From Fake Workers to Account Recovery: The Growing Identity Verification Risk",
+      "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
+      "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
+      "published": "Tue, 25 Aug 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "Weedhack Malware Spreads via Fake Minecraft Clients and SEO Poisoning",
-      "link": "https://thehackernews.com/2026/08/weedhack-malware-spreads-via-fake.html",
-      "summary": "Cybersecurity researchers have found that several websites are still actively distributing a malware family known as Weedhack to gamers by masquerading as Minecraft clients. McAfee Labs said it detected and blocked more than 6,300 attempts to access malicious sites, adding that it found lookalike gaming websites designed to mimic legitimate projects, including branding, feature lists, FAQs,",
-      "published": "Mon, 24 Aug 2026 23:11:11 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
+      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
+      "published": "Tue, 25 Aug 2026 09:51:58 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
+      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
+      "published": "Tue, 25 Aug 2026 09:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -205,37 +234,6 @@
       "published": "Mon, 24 Aug 2026 13:56:24 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ReliaQuest confirms failed data-theft attack after ShinyHunters breach",
-      "link": "https://www.bleepingcomputer.com/news/security/reliaquest-confirms-failed-data-theft-attack-after-shinyhunters-breach/",
-      "summary": "Cybersecurity company ReliaQuest has confirmed that one of its employees was targeted in a social engineering attack after hackers impersonated a member of the security team. [...]",
-      "published": "Mon, 24 Aug 2026 11:17:16 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft Teams now lets admins block external bots from meetings",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-now-lets-admins-block-external-bots-from-meetings/",
-      "summary": "Microsoft is rolling out a new Teams meeting protection policy that allows administrators to automatically block all identified external bots from joining Teams meetings. [...]",
-      "published": "Mon, 24 Aug 2026 10:00:19 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "South Korean startup platform breach exposes key management failures",
-      "link": "https://www.bleepingcomputer.com/news/security/south-korean-startup-platform-breach-exposes-key-management-failures/",
-      "summary": "A breach at South Korea's government-backed startup platform exposed encrypted personal data after an encryption key was included in an API. Penta Security explains why encryption keys must be securely managed and kept separate from the data they protect. [...]",
-      "published": "Mon, 24 Aug 2026 10:00:10 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -400,6 +398,48 @@
     },
     {
       "source": "Security Week",
+      "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
+      "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
+      "summary": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 14:11:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
+      "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
+      "summary": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 13:33:12 +0000",
+      "value_score": 69,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Auth bypass",
+        "Multiple CVEs"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
+      "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
+      "summary": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "Patch/update ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
+      "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
+      "summary": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 12:57:59 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "First Malware Built Specifically for Car Head Units Fuels Botnet",
       "link": "https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/",
       "summary": "Kaspersky researchers have linked the malware to the BadBox botnet, which has ensnared millions of devices. The post First Malware Built Specifically for Car Head Units Fuels Botnet appeared first on SecurityWeek .",
@@ -441,44 +481,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited",
-      "link": "https://www.securityweek.com/reliaquest-confirms-shinyhunters-hack-but-says-impact-was-limited/",
-      "summary": "A ReliaQuest employee fell victim to a phishing attack and the hackers gained access to a dashboard. The post ReliaQuest Confirms ShinyHunters Hack, but Says Impact Was Limited appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 17:38:21 +0000",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hired for One Job, Judged on Another: The CISO’s Real Problem",
-      "link": "https://www.securityweek.com/hired-for-one-job-judged-on-another-the-cisos-real-problem/",
-      "summary": "The skills that get a CISO hired are rarely the skills they are judged on later. Most security leaders are stuck in that gap. Closing it is the real job. The post Hired for One Job, Judged on Another: The CISO’s Real Problem appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 14:00:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts",
-      "link": "https://www.securityweek.com/uber-fined-nearly-1-billion-by-dutch-regulators-over-automated-suspensions-of-driver-accounts/",
-      "summary": "Dutch Data Protection Authority said it is imposing a fine of 825 million euros because Uber violated the EU’s General Data Protection Regulation. The post Uber Fined Nearly $1 Billion by Dutch Regulators Over Automated Suspensions of Driver Accounts appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 12:42:09 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "91 Vulnerabilities Patched in Spring Application Framework",
-      "link": "https://www.securityweek.com/91-vulnerabilities-patched-in-spring-application-framework/",
-      "summary": "More than 200 vulnerabilities have been patched to date this year, compared to only 16 in 2025 and 22 in 2024. The post 91 Vulnerabilities Patched in Spring Application Framework appeared first on SecurityWeek .",
-      "published": "Mon, 24 Aug 2026 11:58:28 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

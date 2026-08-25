@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-25 20:21 UTC  
+> **Last Updated:** 2026-08-25 22:20 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**alice raises 140m** • **taiwan charges 9** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **expose internal devices** • **outrunning repair ai** • **local model server** • **control c2 infrastructure** • **abuse legitimate services** • **users financial applications** • **free phishing infrastructure** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex**
+**alice raises 140m** • **abuse legitimate services** • **taiwan charges 9** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **outrunning repair ai** • **ollama api paving** • **control c2 infrastructure** • **local model server** • **free phishing infrastructure** • **users financial applications** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **security programs since**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
+- [Hackers abuse npm mirrors to host phishing redirect pages](https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/)
+- [AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes](https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/)
 - [Massive DDoS attack disrupts Norway’s government digital services](https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/)
 - [Hospital operator Nutex Health says data stolen in cyberattack](https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/)
 - [From Fake Workers to Account Recovery: The Growing Identity Verification Risk](https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/)
 - [Microsoft PowerToys adds Alt+Tab-style switching for an app's windows](https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/)
 - [WhatsApp adds stronger two-step verification, multiple passkeys](https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/)
-- [Hackers breached over 270 Zimbra servers in ongoing attacks](https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/)
-- [Police arrests dozens of suspects in global cybercrime crackdown](https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/)
-- [Unpatched Calix flaw lets hackers bypass NAT to expose internal devices](https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
 - [Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw](https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw)
 - [Is Cyber Facing an Affordability Crisis?](https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-)
 - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
@@ -56,7 +57,6 @@
 - [Tricky 'SynkLoader' Multitool May Herald Ransomware](https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware)
 - [ToxicPanda Banking Trojan Matures Into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
 - [The Vulnerability Gap: Why Discovery Is Outrunning Repair](https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair)
-- [How an Emerging Industrial Protocol Family Could Put OT at Risk](https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk)
 
 ### Security Week
 

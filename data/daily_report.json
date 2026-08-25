@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-25 20:21",
+  "last_updated": "2026-08-25 22:20",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "alice raises 140m",
+    "abuse legitimate services",
     "taiwan charges 9",
     "leaving defenders without",
     "twitter whistleblower complaint",
     "stronger identity verification",
-    "ollama api paving",
-    "expose internal devices",
     "outrunning repair ai",
-    "local model server",
+    "ollama api paving",
     "control c2 infrastructure",
-    "abuse legitimate services",
-    "users financial applications",
+    "local model server",
     "free phishing infrastructure",
+    "users financial applications",
     "yesteryear screen hijacking",
     "windows powertoys toolset",
     "windows operating systems",
     "turn one's television",
     "text history records",
     "targeted email addresses",
-    "services provider nutex"
+    "services provider nutex",
+    "security programs since"
   ],
   "trending": [
     {
       "keyword": "alice raises 140m",
-      "mentions": 4
+      "mentions": 5
+    },
+    {
+      "keyword": "abuse legitimate services",
+      "mentions": 6
     },
     {
       "keyword": "taiwan charges 9",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "leaving defenders without",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2534
+      "mentions": 2535
     },
     {
       "keyword": "stronger identity verification",
-      "mentions": 9
-    },
-    {
-      "keyword": "ollama api paving",
-      "mentions": 1
-    },
-    {
-      "keyword": "expose internal devices",
-      "mentions": 12
+      "mentions": 10
     },
     {
       "keyword": "outrunning repair ai",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "local model server",
-      "mentions": 1
+      "keyword": "ollama api paving",
+      "mentions": 2
     },
     {
       "keyword": "control c2 infrastructure",
-      "mentions": 17
+      "mentions": 18
+    },
+    {
+      "keyword": "local model server",
+      "mentions": 2
     }
   ],
   "articles": [
@@ -151,6 +151,39 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "LACMA data breach last year exposed social security and medical data",
+      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
+      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
+      "published": "Tue, 25 Aug 2026 17:58:14 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
+      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
+      "published": "Tue, 25 Aug 2026 17:39:01 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "published": "Tue, 25 Aug 2026 16:25:26 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Massive DDoS attack disrupts Norway’s government digital services",
       "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
       "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
@@ -193,35 +226,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
       "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
       "published": "Tue, 25 Aug 2026 09:00:00 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers breached over 270 Zimbra servers in ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-over-270-zimbra-servers-in-ongoing-attacks/",
-      "summary": "Threat actors have already compromised over 270 Zimbra instances in remote code execution attacks targeting a high-severity Zimbra Collaboration Suite (ZCS) vulnerability. [...]",
-      "published": "Tue, 25 Aug 2026 08:04:02 -0400",
-      "value_score": 30,
-      "value_signals": [
-        "RCE"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Police arrests dozens of suspects in global cybercrime crackdown",
-      "link": "https://www.bleepingcomputer.com/news/security/police-arrests-dozens-of-suspects-in-global-cybercrime-crackdown/",
-      "summary": "Law enforcement agencies from 22 countries helped identify 263 suspects and arrested 58 individuals linked to cybercrime networks coordinated by African crime groups. [...]",
-      "published": "Tue, 25 Aug 2026 06:53:20 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Unpatched Calix flaw lets hackers bypass NAT to expose internal devices",
-      "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
-      "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
-      "published": "Mon, 24 Aug 2026 17:14:30 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -309,6 +313,15 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Hidden Prompts Trick AI Into False Email Summaries",
+      "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
+      "summary": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
+      "published": "Tue, 25 Aug 2026 21:08:55 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
       "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
       "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
@@ -378,15 +391,6 @@
       "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
       "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
       "published": "Mon, 24 Aug 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-      "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-      "summary": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
-      "published": "Fri, 21 Aug 2026 20:24:42 GMT",
       "value_score": 10,
       "value_signals": []
     },

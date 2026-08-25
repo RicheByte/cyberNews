@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-25 14:38 UTC |
+| 🕐 Last Updated | 2026-08-25 16:29 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`alice raises 140m` • `oracle weblogic server` • `taiwan charges 9` • `leaving defenders without` • `twitter whistleblower complaint` • `stronger identity verification` • `expose internal devices` • `outrunning repair ai` • `gaining legitimate access` • `control c2 infrastructure`
+`alice raises 140m` • `taiwan charges 9` • `leaving defenders without` • `twitter whistleblower complaint` • `stronger identity verification` • `expose internal devices` • `control c2 infrastructure` • `abuse legitimate services` • `outrunning repair ai` • `security programs since`
 
 ## 📄 Reports
 

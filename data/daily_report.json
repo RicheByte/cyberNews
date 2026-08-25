@@ -1,20 +1,17 @@
 {
-  "last_updated": "2026-08-25 14:38",
+  "last_updated": "2026-08-25 16:29",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "alice raises 140m",
-    "oracle weblogic server",
     "taiwan charges 9",
     "leaving defenders without",
     "twitter whistleblower complaint",
     "stronger identity verification",
     "expose internal devices",
-    "outrunning repair ai",
-    "gaining legitimate access",
     "control c2 infrastructure",
     "abuse legitimate services",
-    "regular network traffic",
+    "outrunning repair ai",
     "security programs since",
     "free phishing infrastructure",
     "yesteryear screen hijacking",
@@ -22,51 +19,63 @@
     "windows operating systems",
     "universal skill format",
     "turn one's television",
-    "text history records"
+    "text history records",
+    "targeted email addresses",
+    "services provider nutex",
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "alice raises 140m",
-      "mentions": 1
-    },
-    {
-      "keyword": "oracle weblogic server",
-      "mentions": 4
+      "mentions": 2
     },
     {
       "keyword": "taiwan charges 9",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "leaving defenders without",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2531
+      "mentions": 2532
     },
     {
       "keyword": "stronger identity verification",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "expose internal devices",
-      "mentions": 9
-    },
-    {
-      "keyword": "outrunning repair ai",
-      "mentions": 1
-    },
-    {
-      "keyword": "gaining legitimate access",
-      "mentions": 1
+      "mentions": 10
     },
     {
       "keyword": "control c2 infrastructure",
-      "mentions": 14
+      "mentions": 15
+    },
+    {
+      "keyword": "abuse legitimate services",
+      "mentions": 3
+    },
+    {
+      "keyword": "outrunning repair ai",
+      "mentions": 2
+    },
+    {
+      "keyword": "security programs since",
+      "mentions": 2
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
+      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
+      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident",
+      "published": "Tue, 25 Aug 2026 19:37:37 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android",
@@ -143,18 +152,23 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
-      "link": "https://thehackernews.com/2026/08/actively-exploited-oracle-weblogic-flaw.html",
-      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a maximum-severity security flaw impacting Oracle HTTP Server and Oracle WebLogic Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-21962 (CVSS score: 10.0), allows an unauthenticated attacker with network access via HTTP to",
-      "published": "Tue, 25 Aug 2026 11:42:35 +0530",
-      "value_score": 100,
+      "source": "BleepingComputer",
+      "title": "Massive DDoS attack disrupts Norway’s government digital services",
+      "link": "https://www.bleepingcomputer.com/news/security/massive-ddos-attack-disrupts-norways-government-digital-services/",
+      "summary": "A large distributed denial-of-service (DDoS) attack has disrupted Norway's shared government digital infrastructure since Monday, affecting services used by the public sector. [...]",
+      "published": "Tue, 25 Aug 2026 11:52:36 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+      "link": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+      "summary": "Healthcare and services provider Nutex is investigating a data breach incident where an unauthorized third party exfiltrated information from company servers. [...]",
+      "published": "Tue, 25 Aug 2026 10:44:16 -0400",
+      "value_score": 22,
       "value_signals": [
-        "CVE mentioned",
-        "Active exploitation",
-        "CISA/KEV ×3",
-        "High severity",
-        "Exploit wording"
+        "Breach/leak"
       ]
     },
     {
@@ -210,28 +224,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/unpatched-calix-flaw-lets-hackers-bypass-nat-to-expose-internal-devices/",
       "summary": "An unpatched vulnerability in Calix GS7 XGS (GS5239XG) residential routers used by multiple U.S. broadband providers allows remote, unauthenticated attackers to create port-forwarding rules that can expose local network devices to the public internet. [...]",
       "published": "Mon, 24 Aug 2026 17:14:30 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers target WordPress sites in miniOrange auth bypass attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-in-miniorange-auth-bypass-attacks/",
-      "summary": "Hackers are attempting to exploit two critical authentication bypass vulnerabilities in the miniOrange SAML 2.0 Single Sign On plugin for WordPress that can be used to forge SAML responses and log in as administrators. [...]",
-      "published": "Mon, 24 Aug 2026 15:26:32 -0400",
-      "value_score": 54,
-      "value_signals": [
-        "Auth bypass ×2",
-        "High severity",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "TikTok reaches $400M settlement with US over COPPA violations",
-      "link": "https://www.bleepingcomputer.com/news/legal/tiktok-reaches-400m-settlement-with-us-over-coppa-violations/",
-      "summary": "The U.S. Department of Justice announced a $400 million settlement with TikTok, ByteDance, and affiliated companies over allegations that they violated the Children's Online Privacy Protection Act (COPPA). [...]",
-      "published": "Mon, 24 Aug 2026 13:56:24 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -319,6 +311,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Is Cyber Facing an Affordability Crisis?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
+      "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
+      "published": "Tue, 25 Aug 2026 14:53:13 GMT",
+      "value_score": 22,
+      "value_signals": [
+        "Breach/leak"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
       "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
       "summary": "CISA has issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
@@ -388,11 +391,11 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
-      "summary": "Government agencies with smaller budgets need support — and here's how you can help.",
-      "published": "Fri, 21 Aug 2026 14:00:00 GMT",
+      "source": "Security Week",
+      "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
+      "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
+      "summary": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation. The post Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation appeared first on SecurityWeek .",
+      "published": "Tue, 25 Aug 2026 16:23:45 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -468,19 +471,6 @@
       "published": "Tue, 25 Aug 2026 08:30:00 +0000",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
-      "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
-      "summary": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 07:46:34 +0000",
-      "value_score": 74,
-      "value_signals": [
-        "CVE mentioned",
-        "CISA/KEV ×2",
-        "Exploit wording"
-      ]
     },
     {
       "source": "Threatpost",

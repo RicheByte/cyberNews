@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 739,
+      "count": 740,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -323,7 +323,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2543,
+      "count": 2544,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1977,7 +1977,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 583,
+      "count": 584,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2086,7 +2086,8 @@
         "2026-08-21",
         "2026-08-22",
         "2026-08-23",
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-26"
       ]
     },
     "model agnostic abstractions": {
@@ -19828,12 +19829,13 @@
       ]
     },
     "remote unauthenticated attacker": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-06-11",
         "2026-06-12",
         "2026-06-15",
-        "2026-06-19"
+        "2026-06-19",
+        "2026-08-26"
       ]
     },
     "slow response workflows": {
@@ -23292,7 +23294,7 @@
       ]
     },
     "software almost triple": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23369,7 +23371,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 181,
+      "count": 182,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23758,7 +23760,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 132,
+      "count": 133,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24552,7 +24554,7 @@
       ]
     },
     "turn one's television": {
-      "count": 204,
+      "count": 205,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26268,7 +26270,7 @@
       ]
     },
     "text history records": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27146,7 +27148,7 @@
       ]
     },
     "remained walled away": {
-      "count": 59,
+      "count": 60,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -28226,7 +28228,7 @@
       ]
     },
     "sensitive information exposed": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
@@ -28238,7 +28240,7 @@
       ]
     },
     "chrome 152 patches": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
@@ -28250,7 +28252,7 @@
       ]
     },
     "synthetic environment finding": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
@@ -28262,19 +28264,19 @@
       ]
     },
     "ai hypothesis engine": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
     },
     "there's never time": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
     },
     "well known pattern": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
@@ -28286,13 +28288,13 @@
       ]
     },
     "address critical vulnerabilities": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
     },
     "typical progression follows": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
@@ -28304,6 +28306,12 @@
       ]
     },
     "cyber national security": {
+      "count": 2,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "risk successfully authenticating": {
       "count": 1,
       "dates": [
         "2026-08-26"
@@ -28311,17 +28319,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-18 08:28",
-      "articles": 48,
-      "top_keywords": [
-        "680 000 impacted",
-        "40 000 impacted",
-        "turn compromised devices",
-        "microsoft azure infrastructure",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-18 10:21",
       "articles": 48,
@@ -29409,6 +29406,17 @@
         "company previously known",
         "ai hypothesis engine",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-26 16:43",
+      "articles": 48,
+      "top_keywords": [
+        "chrome 152 patches",
+        "well known pattern",
+        "twitter whistleblower complaint",
+        "there's never time",
+        "ai hypothesis engine"
       ]
     }
   ]

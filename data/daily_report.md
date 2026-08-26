@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-26 14:38 UTC  
+> **Last Updated:** 2026-08-26 16:43 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**alice raises 140m** • **chrome 152 patches** • **company previously known** • **ai hypothesis engine** • **twitter whistleblower complaint** • **there's never time** • **well known pattern** • **newly uncovered phishing** • **address critical vulnerabilities** • **cyber national security** • **sensitive information exposed** • **producing malicious information** • **windows operating systems** • **vulnerability discoveries aided** • **typical progression follows** • **turn one's television** • **text history records** • **synthetic environment finding** • **software giant fixed** • **software almost triple**
+**chrome 152 patches** • **well known pattern** • **twitter whistleblower complaint** • **there's never time** • **ai hypothesis engine** • **address critical vulnerabilities** • **sensitive information exposed** • **cyber national security** • **windows operating systems** • **vulnerability discoveries aided** • **typical progression follows** • **turn one's television** • **text history records** • **synthetic environment finding** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **risk successfully authenticating** • **remote unauthenticated attacker** • **remained walled away**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
+- [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
+- [Hackers target Microsoft SharePoint RCE chain with PoC exploit](https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/)
 - [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
 - [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
 - [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
 - [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
 - [Hackers now exploit critical Gitea flaw in code injection attacks](https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/)
-- [LACMA data breach last year exposed social security and medical data](https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/)
-- [Hackers abuse npm mirrors to host phishing redirect pages](https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/)
-- [AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes](https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [AI Speeds Up Malware Development, Not Its Success Rate: Analysis](https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/)
 - [Adobe and Nvidia Patch Dozens of Vulnerabilities](https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/)
 - [CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks](https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/)
 - [The MFA Identity Trap: When Authentication Creates a False Sense of Security](https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/)
@@ -67,7 +68,6 @@
 - [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
 - [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
 - [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
-- [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
 
 ### Threatpost
 

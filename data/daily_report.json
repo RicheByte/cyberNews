@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-26 14:38",
+  "last_updated": "2026-08-26 16:43",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "alice raises 140m",
     "chrome 152 patches",
-    "company previously known",
-    "ai hypothesis engine",
+    "well known pattern",
     "twitter whistleblower complaint",
     "there's never time",
-    "well known pattern",
-    "newly uncovered phishing",
+    "ai hypothesis engine",
     "address critical vulnerabilities",
-    "cyber national security",
     "sensitive information exposed",
-    "producing malicious information",
+    "cyber national security",
     "windows operating systems",
     "vulnerability discoveries aided",
     "typical progression follows",
     "turn one's television",
     "text history records",
     "synthetic environment finding",
+    "sprawling phishing campaign",
     "software giant fixed",
-    "software almost triple"
+    "software almost triple",
+    "risk successfully authenticating",
+    "remote unauthenticated attacker",
+    "remained walled away"
   ],
   "trending": [
     {
-      "keyword": "alice raises 140m",
-      "mentions": 13
-    },
-    {
       "keyword": "chrome 152 patches",
-      "mentions": 3
-    },
-    {
-      "keyword": "company previously known",
-      "mentions": 2
-    },
-    {
-      "keyword": "ai hypothesis engine",
-      "mentions": 2
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2543
-    },
-    {
-      "keyword": "there's never time",
-      "mentions": 2
+      "mentions": 4
     },
     {
       "keyword": "well known pattern",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "newly uncovered phishing",
-      "mentions": 1
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2544
+    },
+    {
+      "keyword": "there's never time",
+      "mentions": 3
+    },
+    {
+      "keyword": "ai hypothesis engine",
+      "mentions": 3
     },
     {
       "keyword": "address critical vulnerabilities",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "sensitive information exposed",
+      "mentions": 5
     },
     {
       "keyword": "cyber national security",
-      "mentions": 1
+      "mentions": 2
+    },
+    {
+      "keyword": "windows operating systems",
+      "mentions": 740
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 133
     }
   ],
   "articles": [
@@ -153,6 +153,37 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Meta agrees to $18 billion settlement over teen social media harms",
+      "link": "https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/",
+      "summary": "Meta has reached a proposed settlement worth up to approximately $18 billion with a bipartisan coalition of 52 attorneys generals over allegations that Facebook and Instagram were deliberately designed to encourage compulsive use by children and teenagers. [...]",
+      "published": "Wed, 26 Aug 2026 12:41:05 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Boston Scientific says cyberattack disrupted operations globally",
+      "link": "https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/",
+      "summary": "Medical technology company Boston Scientific has been targeted in a cyberattack that disrupted some of its IT systems, causing operational disruptions globally. [...]",
+      "published": "Wed, 26 Aug 2026 11:19:21 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers target Microsoft SharePoint RCE chain with PoC exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-microsoft-sharepoint-rce-chain-with-poc-exploit/",
+      "summary": "Attackers are now targeting a chain of two Microsoft SharePoint vulnerabilities that can allow them to execute arbitrary code on unpatched servers, according to threat intelligence company Defused. [...]",
+      "published": "Wed, 26 Aug 2026 10:47:51 -0400",
+      "value_score": 46,
+      "value_signals": [
+        "RCE",
+        "PoC available",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "FBI disrupts proxy network enabling Chinese espionage operations",
       "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/",
       "summary": "The FBI has disrupted infrastructure associated with a technical \"quartermaster\" that provided reconnaissance, proxy management, and operational routing capabilities for Chinese cyber espionage activities. [...]",
@@ -200,39 +231,6 @@
         "CISA/KEV",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "LACMA data breach last year exposed social security and medical data",
-      "link": "https://www.bleepingcomputer.com/news/security/lacma-data-breach-last-year-exposed-social-security-and-medical-data/",
-      "summary": "The Los Angeles County Museum of Art (LACMA) has announced that a breach last year exposed customer and employee information. [...]",
-      "published": "Tue, 25 Aug 2026 17:58:14 -0400",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Hackers abuse npm mirrors to host phishing redirect pages",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-npm-mirrors-to-host-phishing-redirect-pages/",
-      "summary": "Threat actors are abusing npm and its mirrors to host malicious HTML pages that impersonate Cloudflare CAPTCHAs to redirect visitors to attacker-controlled websites. [...]",
-      "published": "Tue, 25 Aug 2026 17:39:01 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
-      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
-      "summary": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
-      "published": "Tue, 25 Aug 2026 16:25:26 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "Phishing"
       ]
     },
     {
@@ -402,6 +400,15 @@
     },
     {
       "source": "Security Week",
+      "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
+      "link": "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/",
+      "summary": "Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek .",
+      "published": "Wed, 26 Aug 2026 15:23:45 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
       "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
       "summary": "Adobe and Nvidia each published several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek .",
@@ -472,15 +479,6 @@
       "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
       "summary": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation. The post Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation appeared first on SecurityWeek .",
       "published": "Tue, 25 Aug 2026 16:23:45 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails",
-      "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
-      "summary": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 14:11:59 +0000",
       "value_score": 10,
       "value_signals": []
     },

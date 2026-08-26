@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-26 08:36 UTC  
+> **Last Updated:** 2026-08-26 10:29 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**alice raises 140m** • **activation lock feature** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **gaining legitimate access** • **producing malicious information** • **iranian cyber actors** • **sensitive information exposed** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **residential proxy node** • **remote code execution** • **remained walled away** • **recover identity rather**
+**alice raises 140m** • **chrome 152 patches** • **activation lock feature** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **iranian cyber actors** • **bypass access restrictions** • **producing malicious information** • **local model server** • **sensitive information exposed** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **synthetic environment finding** • **software giant fixed** • **software almost triple** • **social engineering attacks**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests](https://thehackernews.com/2026/08/claude-opus-46-bypasses-gym-booking.html)
+- [OpenAI Bans Russian ChatGPT Accounts Used to Run Influence Operation](https://thehackernews.com/2026/08/openai-bans-russian-chatgpt-accounts.html)
+- [INTERPOL Operation Jackal IV Arrests 58, Identifies 263 in Global Cyber Fraud Crackdown](https://thehackernews.com/2026/08/interpol-operation-jackal-iv-arrests-58.html)
+- [Newly SLEEPWALKER Backdoor Waits for One Crafted Packet, Then Runs Its Own Bytecode](https://thehackernews.com/2026/08/newly-sleepwalker-backdoor-waits-for.html)
 - [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
 - [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
 - [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
 - [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
-- [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
-- [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
-- [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
-- [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
 
 ### BleepingComputer
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Chrome 152 Patches Over 300 Vulnerabilities](https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/)
 - [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
 - [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
 - [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
@@ -67,7 +68,6 @@
 - [WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities](https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/)
 - [WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update](https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/)
 - [Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference](https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/)
-- [First Malware Built Specifically for Car Head Units Fuels Botnet](https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/)
 
 ### Threatpost
 

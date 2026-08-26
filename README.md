@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-26 08:36 UTC |
+| 🕐 Last Updated | 2026-08-26 10:29 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`alice raises 140m` • `activation lock feature` • `twitter whistleblower complaint` • `stronger identity verification` • `ollama api paving` • `gaining legitimate access` • `producing malicious information` • `iranian cyber actors` • `sensitive information exposed` • `yesteryear screen hijacking`
+`alice raises 140m` • `chrome 152 patches` • `activation lock feature` • `twitter whistleblower complaint` • `stronger identity verification` • `ollama api paving` • `iranian cyber actors` • `bypass access restrictions` • `producing malicious information` • `local model server`
 
 ## 📄 Reports
 

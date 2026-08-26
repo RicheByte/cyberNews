@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 740,
+      "count": 741,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -323,7 +323,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2544,
+      "count": 2545,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1977,7 +1977,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 584,
+      "count": 585,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -23294,7 +23294,7 @@
       ]
     },
     "software almost triple": {
-      "count": 158,
+      "count": 159,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23371,7 +23371,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 182,
+      "count": 183,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23760,7 +23760,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 133,
+      "count": 134,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24554,7 +24554,7 @@
       ]
     },
     "turn one's television": {
-      "count": 205,
+      "count": 206,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26270,7 +26270,7 @@
       ]
     },
     "text history records": {
-      "count": 163,
+      "count": 164,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26919,11 +26919,12 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 22,
+      "count": 23,
       "dates": [
         "2026-08-12",
         "2026-08-13",
-        "2026-08-14"
+        "2026-08-14",
+        "2026-08-26"
       ]
     },
     "operation dream job": {
@@ -28240,7 +28241,7 @@
       ]
     },
     "chrome 152 patches": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
@@ -28252,7 +28253,7 @@
       ]
     },
     "synthetic environment finding": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
@@ -28264,19 +28265,19 @@
       ]
     },
     "ai hypothesis engine": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
     },
     "there's never time": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
     },
     "well known pattern": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
@@ -28294,7 +28295,7 @@
       ]
     },
     "typical progression follows": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
@@ -28312,6 +28313,30 @@
       ]
     },
     "risk successfully authenticating": {
+      "count": 2,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "cyber espionage actor": {
+      "count": 1,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "chinese threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "vehicle infotainment modules": {
+      "count": 1,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "twostroke like backdoor": {
       "count": 1,
       "dates": [
         "2026-08-26"
@@ -28319,17 +28344,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-18 10:21",
-      "articles": 48,
-      "top_keywords": [
-        "680 000 impacted",
-        "40 000 impacted",
-        "turn compromised devices",
-        "security safepal com",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-18 12:34",
       "articles": 48,
@@ -29417,6 +29431,17 @@
         "twitter whistleblower complaint",
         "there's never time",
         "ai hypothesis engine"
+      ]
+    },
+    {
+      "timestamp": "2026-08-26 19:40",
+      "articles": 48,
+      "top_keywords": [
+        "chrome 152 patches",
+        "well known pattern",
+        "twitter whistleblower complaint",
+        "there's never time",
+        "cyber espionage actor"
       ]
     }
   ]

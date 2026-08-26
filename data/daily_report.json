@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-26 10:29",
+  "last_updated": "2026-08-26 12:39",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "alice raises 140m",
     "chrome 152 patches",
     "activation lock feature",
+    "ai hypothesis engine",
     "twitter whistleblower complaint",
-    "stronger identity verification",
-    "ollama api paving",
+    "there's never time",
+    "social engineering attacks",
+    "remote code execution",
     "iranian cyber actors",
-    "bypass access restrictions",
-    "producing malicious information",
-    "local model server",
+    "well known pattern",
+    "company previously known",
     "sensitive information exposed",
+    "producing malicious information",
+    "address critical vulnerabilities",
     "yesteryear screen hijacking",
-    "windows powertoys toolset",
     "windows operating systems",
+    "typical progression follows",
     "turn one's television",
     "text history records",
-    "synthetic environment finding",
-    "software giant fixed",
-    "software almost triple",
-    "social engineering attacks"
+    "synthetic environment finding"
   ],
   "trending": [
     {
       "keyword": "alice raises 140m",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "chrome 152 patches",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "activation lock feature",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2541
-    },
-    {
-      "keyword": "stronger identity verification",
-      "mentions": 16
-    },
-    {
-      "keyword": "ollama api paving",
-      "mentions": 8
-    },
-    {
-      "keyword": "iranian cyber actors",
-      "mentions": 2
-    },
-    {
-      "keyword": "bypass access restrictions",
+      "keyword": "ai hypothesis engine",
       "mentions": 1
     },
     {
-      "keyword": "producing malicious information",
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2542
+    },
+    {
+      "keyword": "there's never time",
+      "mentions": 1
+    },
+    {
+      "keyword": "social engineering attacks",
       "mentions": 2
     },
     {
-      "keyword": "local model server",
-      "mentions": 6
+      "keyword": "remote code execution",
+      "mentions": 495
+    },
+    {
+      "keyword": "iranian cyber actors",
+      "mentions": 3
+    },
+    {
+      "keyword": "well known pattern",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
+      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
+      "summary": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation. Given the volume of",
+      "published": "Wed, 26 Aug 2026 17:06:49 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Claude Opus 4.6 Bypasses Gym Booking Limit, Cancels Other Users' Reservations in Tests",
@@ -146,13 +155,26 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw",
-      "link": "https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html",
-      "summary": "Oasis Security has disclosed a weakness in NVIDIA NemoClaw that could let an attacker-controlled webpage take unauthenticated control of the local Ollama instance serving an AI agent and plant hidden instructions inside the model itself. The findings were shared with The Hacker News ahead of publication, and the report says Oasis Security reported them to NVIDIA's Product Security Incident",
-      "published": "Tue, 25 Aug 2026 19:37:37 +0530",
+      "source": "BleepingComputer",
+      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
+      "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
+      "published": "Wed, 26 Aug 2026 08:06:28 -0400",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Hackers now exploit critical Gitea flaw in code injection attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-gitea-flaw-in-code-injection-attacks/",
+      "summary": "Attackers are now exploiting a critical-severity vulnerability in the Gitea self-hosted Git service, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "published": "Wed, 26 Aug 2026 07:07:48 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "CISA/KEV",
+        "High severity ×2",
+        "Exploit wording"
+      ]
     },
     {
       "source": "BleepingComputer",
@@ -213,24 +235,6 @@
       "link": "https://www.bleepingcomputer.com/news/security/from-fake-workers-to-account-recovery-the-growing-identity-verification-risk/",
       "summary": "Attackers are increasingly targeting the processes used to establish or recover identity rather than attacking the login itself. Specops explains how stronger identity verification can help organizations prevent fake workers and social engineering attacks from gaining legitimate access. [...]",
       "published": "Tue, 25 Aug 2026 10:01:11 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft PowerToys adds Alt+Tab-style switching for an app's windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-alt-plustab-style-switching-for-an-apps-windows/",
-      "summary": "Microsoft updated its Windows PowerToys toolset with a new utility dubbed \"Window Hopper\" that lets users switch between an app's windows more quickly. [...]",
-      "published": "Tue, 25 Aug 2026 09:51:58 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "WhatsApp adds stronger two-step verification, multiple passkeys",
-      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-adds-stronger-two-step-verification-multiple-passkeys/",
-      "summary": "WhatsApp has started rolling out several new account security features, including support for multiple passkeys and stronger two-step verification. [...]",
-      "published": "Tue, 25 Aug 2026 09:00:00 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -320,7 +324,7 @@
       "source": "Dark Reading",
       "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
       "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
-      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and infrastructure behind groups like Black Axe.",
       "published": "Wed, 26 Aug 2026 08:30:00 GMT",
       "value_score": 10,
       "value_signals": []
@@ -347,7 +351,7 @@
       "source": "Dark Reading",
       "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
       "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
-      "summary": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+      "summary": "Attackers can exploit a security bug in Nvidia's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
       "published": "Tue, 25 Aug 2026 19:50:16 GMT",
       "value_score": 16,
       "value_signals": [
@@ -401,6 +405,38 @@
     },
     {
       "source": "Security Week",
+      "title": "Adobe and Nvidia Patch Dozens of Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/",
+      "summary": "Adobe and Nvidia each publish several advisories, including ones that address critical vulnerabilities in their products. The post Adobe and Nvidia Patch Dozens of Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Wed, 26 Aug 2026 12:39:38 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Patch/update ×2",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks",
+      "link": "https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/",
+      "summary": "The agency has released guidance on reducing internet exposure in the wake of the recent Iran-linked hacker attacks. The post CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks appeared first on SecurityWeek .",
+      "published": "Wed, 26 Aug 2026 11:29:50 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CISA/KEV ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "The MFA Identity Trap: When Authentication Creates a False Sense of Security",
+      "link": "https://www.securityweek.com/the-mfa-identity-trap-when-authentication-creates-a-false-sense-of-security/",
+      "summary": "Organizations must distinguish identity verification, authentication and threat detection, or risk successfully authenticating the attackers they are trying to stop. The post The MFA Identity Trap: When Authentication Creates a False Sense of Security appeared first on SecurityWeek .",
+      "published": "Wed, 26 Aug 2026 11:00:00 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
       "title": "Chrome 152 Patches Over 300 Vulnerabilities",
       "link": "https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/",
       "summary": "Most of the flaws were discovered by Google using AI, but researchers are still discovering high-value Chrome vulnerabilities. The post Chrome 152 Patches Over 300 Vulnerabilities appeared first on SecurityWeek .",
@@ -448,39 +484,6 @@
       "link": "https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/",
       "summary": "The company, previously known as ActiveFence, has raised a total of $280 million from investors. The post Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails appeared first on SecurityWeek .",
       "published": "Tue, 25 Aug 2026 14:11:59 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities",
-      "link": "https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/",
-      "summary": "CVE-2026-61979 and CVE-2026-15981 are authentication bypass vulnerabilities affecting the MiniOrange SAML 2.0 SSO plugin. The post WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 13:33:12 +0000",
-      "value_score": 69,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "Auth bypass",
-        "Multiple CVEs"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update",
-      "link": "https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/",
-      "summary": "When Android users get a call from a non-contact, they will see more information about the caller, including their country. The post WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 13:00:00 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference",
-      "link": "https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/",
-      "summary": "Hands-on Cyber Attack Methods course returns to SecurityWeek’s ICS Cybersecurity Conference, October 6–8 at the W Nashville. The post Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 12:57:59 +0000",
       "value_score": 10,
       "value_signals": []
     },

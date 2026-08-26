@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-26 12:39 UTC |
+| 🕐 Last Updated | 2026-08-26 14:38 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`alice raises 140m` • `chrome 152 patches` • `activation lock feature` • `ai hypothesis engine` • `twitter whistleblower complaint` • `there's never time` • `social engineering attacks` • `remote code execution` • `iranian cyber actors` • `well known pattern`
+`alice raises 140m` • `chrome 152 patches` • `company previously known` • `ai hypothesis engine` • `twitter whistleblower complaint` • `there's never time` • `well known pattern` • `newly uncovered phishing` • `address critical vulnerabilities` • `cyber national security`
 
 ## 📄 Reports
 

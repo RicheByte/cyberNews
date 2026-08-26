@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 738,
+      "count": 739,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -323,7 +323,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2542,
+      "count": 2543,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -23292,7 +23292,7 @@
       ]
     },
     "software almost triple": {
-      "count": 156,
+      "count": 157,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23369,7 +23369,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 180,
+      "count": 181,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23758,7 +23758,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 131,
+      "count": 132,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23781,7 +23781,8 @@
         "2026-08-13",
         "2026-08-18",
         "2026-08-19",
-        "2026-08-20"
+        "2026-08-20",
+        "2026-08-26"
       ]
     },
     "shodan harvester keeps": {
@@ -24551,7 +24552,7 @@
       ]
     },
     "turn one's television": {
-      "count": 203,
+      "count": 204,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26267,7 +26268,7 @@
       ]
     },
     "text history records": {
-      "count": 161,
+      "count": 162,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -28137,7 +28138,7 @@
       ]
     },
     "alice raises 140m": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-25",
         "2026-08-26"
@@ -28213,7 +28214,7 @@
       ]
     },
     "producing malicious information": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
@@ -28225,7 +28226,7 @@
       ]
     },
     "sensitive information exposed": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-26"
       ]
@@ -28237,7 +28238,7 @@
       ]
     },
     "chrome 152 patches": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
@@ -28249,7 +28250,7 @@
       ]
     },
     "synthetic environment finding": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
@@ -28261,36 +28262,48 @@
       ]
     },
     "ai hypothesis engine": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "there's never time": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "well known pattern": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "company previously known": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "address critical vulnerabilities": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "typical progression follows": {
+      "count": 2,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "newly uncovered phishing": {
+      "count": 1,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "cyber national security": {
       "count": 1,
       "dates": [
         "2026-08-26"
@@ -28298,17 +28311,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-18 06:32",
-      "articles": 48,
-      "top_keywords": [
-        "680 000 impacted",
-        "40 000 impacted",
-        "turn edge devices",
-        "turn compromised devices",
-        "microsoft azure infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-08-18 08:28",
       "articles": 48,
@@ -29394,6 +29396,17 @@
         "alice raises 140m",
         "chrome 152 patches",
         "activation lock feature",
+        "ai hypothesis engine",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-26 14:38",
+      "articles": 48,
+      "top_keywords": [
+        "alice raises 140m",
+        "chrome 152 patches",
+        "company previously known",
         "ai hypothesis engine",
         "twitter whistleblower complaint"
       ]

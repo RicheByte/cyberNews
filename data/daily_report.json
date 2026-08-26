@@ -1,18 +1,17 @@
 {
-  "last_updated": "2026-08-26 06:37",
+  "last_updated": "2026-08-26 08:36",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "alice raises 140m",
-    "abuse legitimate services",
-    "leaving defenders without",
+    "activation lock feature",
     "twitter whistleblower complaint",
     "stronger identity verification",
     "ollama api paving",
-    "outrunning repair ai",
-    "control c2 infrastructure",
-    "free phishing infrastructure",
-    "users financial applications",
+    "gaining legitimate access",
+    "producing malicious information",
+    "iranian cyber actors",
+    "sensitive information exposed",
     "yesteryear screen hijacking",
     "windows powertoys toolset",
     "windows operating systems",
@@ -20,53 +19,81 @@
     "text history records",
     "targeted email addresses",
     "services provider nutex",
-    "security programs since",
     "residential proxy node",
-    "remained walled away"
+    "remote code execution",
+    "remained walled away",
+    "recover identity rather"
   ],
   "trending": [
     {
       "keyword": "alice raises 140m",
-      "mentions": 9
-    },
-    {
-      "keyword": "abuse legitimate services",
       "mentions": 10
     },
     {
-      "keyword": "leaving defenders without",
-      "mentions": 11
+      "keyword": "activation lock feature",
+      "mentions": 1
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2539
+      "mentions": 2540
     },
     {
       "keyword": "stronger identity verification",
-      "mentions": 14
+      "mentions": 15
     },
     {
       "keyword": "ollama api paving",
-      "mentions": 6
-    },
-    {
-      "keyword": "outrunning repair ai",
-      "mentions": 9
-    },
-    {
-      "keyword": "control c2 infrastructure",
-      "mentions": 22
-    },
-    {
-      "keyword": "free phishing infrastructure",
-      "mentions": 9
-    },
-    {
-      "keyword": "users financial applications",
       "mentions": 7
+    },
+    {
+      "keyword": "gaining legitimate access",
+      "mentions": 2
+    },
+    {
+      "keyword": "producing malicious information",
+      "mentions": 1
+    },
+    {
+      "keyword": "iranian cyber actors",
+      "mentions": 1
+    },
+    {
+      "keyword": "sensitive information exposed",
+      "mentions": 1
+    },
+    {
+      "keyword": "yesteryear screen hijacking",
+      "mentions": 21
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the",
+      "published": "Wed, 26 Aug 2026 11:57:07 +0530",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation",
+        "RCE ×2",
+        "CISA/KEV",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "summary": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across",
+      "published": "Wed, 26 Aug 2026 11:17:28 +0530",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
@@ -127,26 +154,6 @@
       "value_score": 18,
       "value_signals": [
         "Phishing"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands",
-      "link": "https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html",
-      "summary": "Cybersecurity researchers are calling attention to a new campaign that employs FTP banners as dead drop resolvers (DDRs) to deliver two previously unreported remote access trojans (RATs) tracked as E4del and PINHOLE. While threat actors are known to abuse legitimate services to point to additional command-and-control (C2) infrastructure and blend in with regular network traffic, the development",
-      "published": "Tue, 25 Aug 2026 17:03:44 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Frontier AI: Vulnerability Management's Systemic Revolution",
-      "link": "https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html",
-      "summary": "Vulnerability management has been a staple of security programs since the dawn of the cybersecurity discipline. The symbiotic relationship between vulnerability and patch management teams has also existed for that time and has gone through waves of contention and thankfulness. While this relationship required thoughtful care and feeding from both sides, both sides were aiming to work toward a",
-      "published": "Tue, 25 Aug 2026 16:44:07 +0530",
-      "value_score": 18,
-      "value_signals": [
-        "Patch/update"
       ]
     },
     {
@@ -313,6 +320,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
+      "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
+      "summary": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+      "published": "Wed, 26 Aug 2026 08:30:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
+      "summary": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.",
+      "published": "Wed, 26 Aug 2026 08:00:00 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Hidden Prompts Trick AI Into False Email Summaries",
       "link": "https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries",
       "summary": "With some simple HTML that's invisible to users, attackers can manipulate AI-powered email summarizers into producing malicious information.",
@@ -377,22 +402,15 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "ToxicPanda Banking Trojan Matures Into Enterprise Threat",
-      "link": "https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat",
-      "summary": "The latest version of the Android malware has new features that expand its global reach and put more than users' financial applications at risk.",
-      "published": "Mon, 24 Aug 2026 14:34:59 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Vulnerability Gap: Why Discovery Is Outrunning Repair",
-      "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair",
-      "summary": "AI is discovering more vulnerabilities, faster, and under a tightening regulatory environment, making this an all-hands-on-deck moment for the cybersecurity community.",
-      "published": "Mon, 24 Aug 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
+      "source": "Security Week",
+      "title": "Sensitive Information Exposed in Nutex Health Data Breach",
+      "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
+      "summary": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek .",
+      "published": "Wed, 26 Aug 2026 07:41:50 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -468,17 +486,6 @@
       "value_score": 30,
       "value_signals": [
         "Botnet ×3"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Silent Patches Don’t Stop Attackers – They Blind Defenders",
-      "link": "https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/",
-      "summary": "Silent patches can become exploit intelligence for attackers while leaving defenders without the context needed to prioritize risk. The post Silent Patches Don’t Stop Attackers – They Blind Defenders appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 10:00:00 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
       ]
     },
     {

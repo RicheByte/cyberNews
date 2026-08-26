@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-26 06:37 UTC  
+> **Last Updated:** 2026-08-26 08:36 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**alice raises 140m** • **abuse legitimate services** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **outrunning repair ai** • **control c2 infrastructure** • **free phishing infrastructure** • **users financial applications** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **security programs since** • **residential proxy node** • **remained walled away**
+**alice raises 140m** • **activation lock feature** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **gaining legitimate access** • **producing malicious information** • **iranian cyber actors** • **sensitive information exposed** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **residential proxy node** • **remote code execution** • **remained walled away** • **recover identity rather**
 
 ---
 
@@ -16,14 +16,14 @@
 
 ### The Hacker News
 
+- [Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload](https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html)
+- [Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes](https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html)
 - [U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches](https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html)
 - [A Malicious Webpage Could Poison Your Local AI Model Behind NVIDIA NemoClaw](https://thehackernews.com/2026/08/a-malicious-webpage-could-poison-your.html)
 - [WhatsApp Adds Multiple Passkeys for Phishing-Resistant Sign-Ins Across iOS and Android](https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html)
 - [Marimo Notebook Flaw Could Run MCP Commands Before Cells Execute in Edit Mode](https://thehackernews.com/2026/08/marimo-notebook-flaw-could-run-mcp.html)
 - [Mirage2FA Surge Hits 4,500 US and EU Companies, Abusing Microsoft 365 Login Flows](https://thehackernews.com/2026/08/mirage2fa-surge-hits-4500-us-and-eu.html)
 - [24 npm Packages Abuse unpkg Mirrors to Host Fake Cloudflare CAPTCHA Pages](https://thehackernews.com/2026/08/24-npm-packages-abuse-unpkg-mirrors-to.html)
-- [E4del and PINHOLE RATs Turn FTP Banners Into Dead Drops for Malware Commands](https://thehackernews.com/2026/08/e4del-and-pinhole-rats-turn-ftp-banners.html)
-- [Frontier AI: Vulnerability Management's Systemic Revolution](https://thehackernews.com/2026/08/frontier-ai-vulnerability-managements.html)
 
 ### BleepingComputer
 
@@ -49,17 +49,18 @@
 
 ### Dark Reading
 
+- [Interpol's Jackal IV Disrupts West African Crime Infrastructure](https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure)
+- [Nigeria Looks to Sovereign Cloud for Cyber, National Security](https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security)
 - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
 - [Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw](https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw)
 - [Is Cyber Facing an Affordability Crisis?](https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-)
 - [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
 - [Foul Language: WordlistLoader Disguises Malware as Ordinary Text](https://www.darkreading.com/data-privacy/wordlistloader-disguises-malware-ordinary-text)
 - [Tricky 'SynkLoader' Multitool May Herald Ransomware](https://www.darkreading.com/threat-intelligence/tricky-synkloader-multitool-ransomware)
-- [ToxicPanda Banking Trojan Matures Into Enterprise Threat](https://www.darkreading.com/mobile-security/toxicpanda-banking-trojan-matures-enterprise-threat)
-- [The Vulnerability Gap: Why Discovery Is Outrunning Repair](https://www.darkreading.com/cybersecurity-operations/vulnerability-gap-why-discovery-is-outrunning-repair)
 
 ### Security Week
 
+- [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
 - [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
 - [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
 - [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
@@ -67,7 +68,6 @@
 - [WhatsApp Adds Multiple Passkeys and Stronger 2SV in Account Security Update](https://www.securityweek.com/whatsapp-adds-multiple-passkeys-and-stronger-2sv-in-account-security-update/)
 - [Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference](https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/)
 - [First Malware Built Specifically for Car Head Units Fuels Botnet](https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/)
-- [Silent Patches Don’t Stop Attackers – They Blind Defenders](https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/)
 
 ### Threatpost
 

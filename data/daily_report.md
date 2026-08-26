@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-26 19:40 UTC  
+> **Last Updated:** 2026-08-26 22:39 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**chrome 152 patches** • **well known pattern** • **twitter whistleblower complaint** • **there's never time** • **cyber espionage actor** • **ai hypothesis engine** • **chinese threat actors** • **windows operating systems** • **vulnerability discoveries aided** • **vehicle infotainment modules** • **typical progression follows** • **twostroke like backdoor** • **turn one's television** • **text history records** • **target critical infrastructure** • **synthetic environment finding** • **sprawling phishing campaign** • **software giant fixed** • **software almost triple** • **risk successfully authenticating**
+**cyber espionage actor** • **chrome 152 patches** • **well known pattern** • **twitter whistleblower complaint** • **there's never time** • **operational routing capabilities** • **mwembedloader php endpoint** • **cyber national security** • **ai hypothesis engine** • **chinese threat actors** • **execute arbitrary code** • **windows operating systems** • **vulnerability discoveries aided** • **vehicle infotainment modules** • **typical progression follows** • **twostroke like backdoor** • **turn one's television** • **text history records** • **target critical infrastructure** • **synthetic environment finding**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Critical Avada WordPress theme flaw enables zero-click RCE](https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/)
 - [New GPUThor attack defeats NVIDIA ECC protection for root access](https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/)
 - [Meta agrees to $18 billion settlement over teen social media harms](https://www.bleepingcomputer.com/news/technology/meta-agrees-to-18-billion-settlement-over-teen-social-media-harms/)
 - [Boston Scientific says cyberattack disrupted operations globally](https://www.bleepingcomputer.com/news/security/boston-scientific-says-cyberattack-disrupted-operations-globally/)
@@ -34,7 +35,6 @@
 - [FBI disrupts proxy network enabling Chinese espionage operations](https://www.bleepingcomputer.com/news/security/fbi-disrupts-proxy-network-enabling-chinese-espionage-operations/)
 - [Snowflake ends service-account passwords. Now comes the hard part](https://www.bleepingcomputer.com/news/security/snowflake-ends-service-account-passwords-now-comes-the-hard-part/)
 - [Ubiquiti patches three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-security-vulnerabilities/)
-- [Microsoft tests new privacy controls for Windows 11 desktop apps](https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Dark Caracal Adds New Malware to Cyber Espionage Arsenal](https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal)
+- [Red Flags That Expose Fake North Korean IT Workers](https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers)
 - [Android Malware Hijacks Update System for Car Head Units](https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units)
 - ['NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month](https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month)
 - [Interpol's Jackal IV Disrupts West African Crime Infrastructure](https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure)
 - [Nigeria Looks to Sovereign Cloud for Cyber, National Security](https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security)
 - [Hidden Prompts Trick AI Into False Email Summaries](https://www.darkreading.com/cyber-risk/hidden-prompts-trick-ai-false-email-summaries)
 - [Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw](https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw)
-- [Is Cyber Facing an Affordability Crisis?](https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-)
-- [Exploited Zimbra Flaw Highlights Shrinking Window to Patch](https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch)
 
 ### Security Week
 

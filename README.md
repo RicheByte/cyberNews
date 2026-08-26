@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-26 19:40 UTC |
+| 🕐 Last Updated | 2026-08-26 22:39 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`chrome 152 patches` • `well known pattern` • `twitter whistleblower complaint` • `there's never time` • `cyber espionage actor` • `ai hypothesis engine` • `chinese threat actors` • `windows operating systems` • `vulnerability discoveries aided` • `vehicle infotainment modules`
+`cyber espionage actor` • `chrome 152 patches` • `well known pattern` • `twitter whistleblower complaint` • `there's never time` • `operational routing capabilities` • `mwembedloader php endpoint` • `cyber national security` • `ai hypothesis engine` • `chinese threat actors`
 
 ## 📄 Reports
 

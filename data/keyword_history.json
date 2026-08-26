@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 741,
+      "count": 742,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -323,7 +323,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2545,
+      "count": 2546,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1036,7 +1036,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 148,
+      "count": 149,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1064,7 +1064,8 @@
         "2026-08-15",
         "2026-08-16",
         "2026-08-17",
-        "2026-08-18"
+        "2026-08-18",
+        "2026-08-26"
       ]
     },
     "france arrests latvian": {
@@ -23760,7 +23761,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 134,
+      "count": 135,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -24554,7 +24555,7 @@
       ]
     },
     "turn one's television": {
-      "count": 206,
+      "count": 207,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26270,7 +26271,7 @@
       ]
     },
     "text history records": {
-      "count": 164,
+      "count": 165,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26919,7 +26920,7 @@
       ]
     },
     "target critical infrastructure": {
-      "count": 23,
+      "count": 24,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -28241,7 +28242,7 @@
       ]
     },
     "chrome 152 patches": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-26"
       ]
@@ -28253,7 +28254,7 @@
       ]
     },
     "synthetic environment finding": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-26"
       ]
@@ -28265,19 +28266,19 @@
       ]
     },
     "ai hypothesis engine": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
     },
     "there's never time": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
     },
     "well known pattern": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
@@ -28295,7 +28296,7 @@
       ]
     },
     "typical progression follows": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-26"
       ]
@@ -28307,7 +28308,7 @@
       ]
     },
     "cyber national security": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-26"
       ]
@@ -28319,24 +28320,36 @@
       ]
     },
     "cyber espionage actor": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "chinese threat actors": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "vehicle infotainment modules": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-26"
       ]
     },
     "twostroke like backdoor": {
+      "count": 2,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "operational routing capabilities": {
+      "count": 1,
+      "dates": [
+        "2026-08-26"
+      ]
+    },
+    "mwembedloader php endpoint": {
       "count": 1,
       "dates": [
         "2026-08-26"
@@ -28344,17 +28357,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-18 12:34",
-      "articles": 48,
-      "top_keywords": [
-        "680 000 impacted",
-        "turn compromised devices",
-        "universal agent harness",
-        "twitter whistleblower complaint",
-        "third party platform"
-      ]
-    },
     {
       "timestamp": "2026-08-18 14:26",
       "articles": 48,
@@ -29442,6 +29444,17 @@
         "twitter whistleblower complaint",
         "there's never time",
         "cyber espionage actor"
+      ]
+    },
+    {
+      "timestamp": "2026-08-26 22:39",
+      "articles": 48,
+      "top_keywords": [
+        "cyber espionage actor",
+        "chrome 152 patches",
+        "well known pattern",
+        "twitter whistleblower complaint",
+        "there's never time"
       ]
     }
   ]

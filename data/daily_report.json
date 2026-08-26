@@ -1,15 +1,19 @@
 {
-  "last_updated": "2026-08-26 19:40",
+  "last_updated": "2026-08-26 22:39",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "cyber espionage actor",
     "chrome 152 patches",
     "well known pattern",
     "twitter whistleblower complaint",
     "there's never time",
-    "cyber espionage actor",
+    "operational routing capabilities",
+    "mwembedloader php endpoint",
+    "cyber national security",
     "ai hypothesis engine",
     "chinese threat actors",
+    "execute arbitrary code",
     "windows operating systems",
     "vulnerability discoveries aided",
     "vehicle infotainment modules",
@@ -18,52 +22,48 @@
     "turn one's television",
     "text history records",
     "target critical infrastructure",
-    "synthetic environment finding",
-    "sprawling phishing campaign",
-    "software giant fixed",
-    "software almost triple",
-    "risk successfully authenticating"
+    "synthetic environment finding"
   ],
   "trending": [
     {
+      "keyword": "cyber espionage actor",
+      "mentions": 2
+    },
+    {
       "keyword": "chrome 152 patches",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "well known pattern",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2545
+      "mentions": 2546
     },
     {
       "keyword": "there's never time",
-      "mentions": 4
+      "mentions": 5
     },
     {
-      "keyword": "cyber espionage actor",
+      "keyword": "operational routing capabilities",
       "mentions": 1
+    },
+    {
+      "keyword": "mwembedloader php endpoint",
+      "mentions": 1
+    },
+    {
+      "keyword": "cyber national security",
+      "mentions": 3
     },
     {
       "keyword": "ai hypothesis engine",
-      "mentions": 4
+      "mentions": 5
     },
     {
       "keyword": "chinese threat actors",
-      "mentions": 1
-    },
-    {
-      "keyword": "windows operating systems",
-      "mentions": 741
-    },
-    {
-      "keyword": "vulnerability discoveries aided",
-      "mentions": 134
-    },
-    {
-      "keyword": "vehicle infotainment modules",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -155,6 +155,19 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Critical Avada WordPress theme flaw enables zero-click RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-avada-wordpress-theme-flaw-enables-zero-click-rce/",
+      "summary": "A critical vulnerability chain in the popular Avada theme for WordPress can be exploited by an unauthenticated attacker to execute arbitrary PHP code on the server. [...]",
+      "published": "Wed, 26 Aug 2026 17:33:20 -0400",
+      "value_score": 52,
+      "value_signals": [
+        "RCE",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "New GPUThor attack defeats NVIDIA ECC protection for root access",
       "link": "https://www.bleepingcomputer.com/news/security/new-gputhor-attack-defeats-nvidia-ecc-protection-for-root-access/",
       "summary": "A newly disclosed Rowhammer attack called GPUThor can bypass error-correcting code (ECC) protections on NVIDIA GPUs, enabling denial-of-service (DoS) and root-level privilege escalation. [...]",
@@ -223,15 +236,6 @@
       "value_signals": [
         "Exploit wording"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft tests new privacy controls for Windows 11 desktop apps",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-privacy-controls-for-windows-11-desktop-apps/",
-      "summary": "Microsoft has begun testing new privacy controls that will let Windows 11 users choose which desktop applications can access their camera, microphone, and precise location. [...]",
-      "published": "Wed, 26 Aug 2026 08:06:28 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -317,6 +321,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Dark Caracal Adds New Malware to Cyber Espionage Arsenal",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal",
+      "summary": "GoCaracal is a new modular malware framework that broadens Dark Caracal's capabilities to steal data and maintain access to victims.",
+      "published": "Wed, 26 Aug 2026 21:33:06 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Red Flags That Expose Fake North Korean IT Workers",
+      "link": "https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers",
+      "summary": "North Korean operatives posing as IT workers are improving their tactics, but researchers say there are still ways to spot them before they do damage.",
+      "published": "Wed, 26 Aug 2026 19:21:24 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "Android Malware Hijacks Update System for Car Head Units",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units",
       "summary": "Threat actors behind a notorious click-fraud botnet have set their sights on vehicle infotainment modules and are abusing legitimate functionality to spread infections.",
@@ -373,31 +395,6 @@
       "published": "Tue, 25 Aug 2026 19:50:16 GMT",
       "value_score": 16,
       "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Is Cyber Facing an Affordability Crisis?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/is-cyber-facing-an-affordability-crisis-",
-      "summary": "As breach costs reach record highs and defense spending nears $240 billion, small businesses are dangerously exposed, threatening supply chain security.",
-      "published": "Tue, 25 Aug 2026 14:53:13 GMT",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
-      ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Exploited Zimbra Flaw Highlights Shrinking Window to Patch",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/zimbra-flaw-exploitation-shrinking-window-patch",
-      "summary": "CISA issued a three-day deadline for agencies to patch a Zimbra security vulnerability, CVE-2026-73570, which allows full takeover of a user's communications.",
-      "published": "Mon, 24 Aug 2026 21:46:55 GMT",
-      "value_score": 70,
-      "value_signals": [
-        "CVE mentioned",
-        "Patch/update ×2",
-        "CISA/KEV",
         "Exploit wording"
       ]
     },

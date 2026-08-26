@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-26 04:33 UTC  
+> **Last Updated:** 2026-08-26 06:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**alice raises 140m** • **abuse legitimate services** • **taiwan charges 9** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **outrunning repair ai** • **ollama api paving** • **control c2 infrastructure** • **local model server** • **free phishing infrastructure** • **users financial applications** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **security programs since**
+**alice raises 140m** • **abuse legitimate services** • **leaving defenders without** • **twitter whistleblower complaint** • **stronger identity verification** • **ollama api paving** • **outrunning repair ai** • **control c2 infrastructure** • **free phishing infrastructure** • **users financial applications** • **yesteryear screen hijacking** • **windows powertoys toolset** • **windows operating systems** • **turn one's television** • **text history records** • **targeted email addresses** • **services provider nutex** • **security programs since** • **residential proxy node** • **remained walled away**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
 - [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
 - [Alice Raises $140M to Expand AI Model Defenses and Enterprise Guardrails](https://www.securityweek.com/alice-raises-140m-to-expand-ai-model-defenses-and-enterprise-guardrails/)
 - [WordPress Websites Targeted via MiniOrange Plugin Vulnerabilities](https://www.securityweek.com/wordpress-websites-targeted-via-miniorange-plugin-vulnerabilities/)
@@ -67,7 +68,6 @@
 - [Hands-On Cyber-Physical Systems Training Returns to ICS Cybersecurity Conference](https://www.securityweek.com/hands-on-cyber-physical-systems-training-returns-to-ics-cybersecurity-conference/)
 - [First Malware Built Specifically for Car Head Units Fuels Botnet](https://www.securityweek.com/first-malware-built-specifically-for-car-head-units-fuels-botnet/)
 - [Silent Patches Don’t Stop Attackers – They Blind Defenders](https://www.securityweek.com/silent-patches-dont-stop-attackers-they-blind-defenders/)
-- [Taiwan Charges 9 Over Illegal AI Server Exports to China, Including Nvidia and Super Micro Staff](https://www.securityweek.com/taiwan-charges-9-over-illegal-ai-server-exports-to-china-including-nvidia-and-super-micro-staff/)
 
 ### Threatpost
 

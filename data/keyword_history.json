@@ -205,7 +205,7 @@
       ]
     },
     "windows operating systems": {
-      "count": 734,
+      "count": 735,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -323,7 +323,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2538,
+      "count": 2539,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -9368,7 +9368,7 @@
       ]
     },
     "control c2 infrastructure": {
-      "count": 21,
+      "count": 22,
       "dates": [
         "2026-02-27",
         "2026-02-28",
@@ -19650,7 +19650,7 @@
       ]
     },
     "stronger identity verification": {
-      "count": 13,
+      "count": 14,
       "dates": [
         "2026-06-10",
         "2026-06-11",
@@ -24215,7 +24215,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 190,
+      "count": 191,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24242,7 +24242,8 @@
         "2026-08-20",
         "2026-08-21",
         "2026-08-24",
-        "2026-08-25"
+        "2026-08-25",
+        "2026-08-26"
       ]
     },
     "ban residential proxies": {
@@ -24547,7 +24548,7 @@
       ]
     },
     "turn one's television": {
-      "count": 199,
+      "count": 200,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26263,7 +26264,7 @@
       ]
     },
     "text history records": {
-      "count": 157,
+      "count": 158,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -27141,7 +27142,7 @@
       ]
     },
     "remained walled away": {
-      "count": 57,
+      "count": 58,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27150,7 +27151,8 @@
         "2026-08-20",
         "2026-08-21",
         "2026-08-22",
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-26"
       ]
     },
     "ai agent control": {
@@ -28023,7 +28025,7 @@
       ]
     },
     "yesteryear screen hijacking": {
-      "count": 19,
+      "count": 20,
       "dates": [
         "2026-08-24",
         "2026-08-25",
@@ -28080,7 +28082,7 @@
       ]
     },
     "leaving defenders without": {
-      "count": 10,
+      "count": 11,
       "dates": [
         "2026-08-25",
         "2026-08-26"
@@ -28112,7 +28114,7 @@
       ]
     },
     "abuse legitimate services": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-25",
         "2026-08-26"
@@ -28125,21 +28127,21 @@
       ]
     },
     "users financial applications": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "alice raises 140m": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "outrunning repair ai": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-25",
         "2026-08-26"
@@ -28152,42 +28154,42 @@
       ]
     },
     "security programs since": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "free phishing infrastructure": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "windows powertoys toolset": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "targeted email addresses": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "services provider nutex": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-25",
         "2026-08-26"
       ]
     },
     "ollama api paving": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-25",
         "2026-08-26"
@@ -28202,17 +28204,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-17 22:17",
-      "articles": 48,
-      "top_keywords": [
-        "680 000 impacted",
-        "40 000 impacted",
-        "turn edge devices",
-        "turn compromised devices",
-        "microsoft azure infrastructure"
-      ]
-    },
     {
       "timestamp": "2026-08-18 00:54",
       "articles": 48,
@@ -29300,6 +29291,17 @@
         "taiwan charges 9",
         "leaving defenders without",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-26 06:37",
+      "articles": 48,
+      "top_keywords": [
+        "alice raises 140m",
+        "abuse legitimate services",
+        "leaving defenders without",
+        "twitter whistleblower complaint",
+        "stronger identity verification"
       ]
     }
   ]

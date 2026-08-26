@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-26 04:33 UTC |
+| 🕐 Last Updated | 2026-08-26 06:37 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`alice raises 140m` • `abuse legitimate services` • `taiwan charges 9` • `leaving defenders without` • `twitter whistleblower complaint` • `stronger identity verification` • `outrunning repair ai` • `ollama api paving` • `control c2 infrastructure` • `local model server`
+`alice raises 140m` • `abuse legitimate services` • `leaving defenders without` • `twitter whistleblower complaint` • `stronger identity verification` • `ollama api paving` • `outrunning repair ai` • `control c2 infrastructure` • `free phishing infrastructure` • `users financial applications`
 
 ## 📄 Reports
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-27 06:50 UTC |
+| 🕐 Last Updated | 2026-08-27 18:44 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`cyber espionage actor` • `chrome 152 patches` • `well known pattern` • `twitter whistleblower complaint` • `there's never time` • `operational routing capabilities` • `mwembedloader php endpoint` • `cyber national security` • `vulnerability discoveries aided` • `ai hypothesis engine`
+`trump order aims` • `okta shares surge` • `help smbs strengthen` • `causes system crashes` • `critical infrastructure attacks` • `shinyhunters extortion group` • `twitter whistleblower complaint` • `offers hacking services` • `gocaracal provides operators` • `cyber sabotage concerns`
 
 ## 📄 Reports
 

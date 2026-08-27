@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2547,
+      "count": 2548,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -5386,10 +5386,11 @@
       ]
     },
     "windows 11 devices": {
-      "count": 14,
+      "count": 15,
       "dates": [
         "2026-01-25",
-        "2026-01-26"
+        "2026-01-26",
+        "2026-08-27"
       ]
     },
     "january updates microsoft": {
@@ -8982,7 +8983,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -8992,7 +8993,8 @@
         "2026-06-30",
         "2026-07-25",
         "2026-07-26",
-        "2026-07-27"
+        "2026-07-27",
+        "2026-08-27"
       ]
     },
     "delivers valuable data": {
@@ -17548,11 +17550,12 @@
       ]
     },
     "secure ai agents": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-05-20",
         "2026-05-21",
-        "2026-05-22"
+        "2026-05-22",
+        "2026-08-27"
       ]
     },
     "yellowkey bitlocker bypass": {
@@ -19082,10 +19085,11 @@
       ]
     },
     "cybercrime group behind": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-06-04",
-        "2026-06-05"
+        "2026-06-05",
+        "2026-08-27"
       ]
     },
     "hacking group engages": {
@@ -23298,7 +23302,7 @@
       ]
     },
     "software almost triple": {
-      "count": 159,
+      "count": 160,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23325,7 +23329,8 @@
         "2026-08-22",
         "2026-08-24",
         "2026-08-25",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-27"
       ]
     },
     "spanish police dismantled": {
@@ -23375,7 +23380,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 183,
+      "count": 184,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23404,7 +23409,8 @@
         "2026-08-23",
         "2026-08-24",
         "2026-08-25",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-27"
       ]
     },
     "windows bind links": {
@@ -28379,20 +28385,87 @@
       "dates": [
         "2026-08-27"
       ]
+    },
+    "trump order aims": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "okta shares surge": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "help smbs strengthen": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "causes system crashes": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "critical infrastructure attacks": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "offers hacking services": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "gocaracal provides operators": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "cyber sabotage concerns": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "fake productivity app": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "fake login page": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "fake security scan": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "group named qtfy": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
+    },
+    "popular messaging apps": {
+      "count": 1,
+      "dates": [
+        "2026-08-27"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-18 16:23",
-      "articles": 48,
-      "top_keywords": [
-        "third party platform",
-        "critical vulnerability impacting",
-        "universal agent harness",
-        "upload executable files",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-18 18:28",
       "articles": 48,
@@ -29480,6 +29553,17 @@
         "well known pattern",
         "twitter whistleblower complaint",
         "there's never time"
+      ]
+    },
+    {
+      "timestamp": "2026-08-27 18:44",
+      "articles": 48,
+      "top_keywords": [
+        "trump order aims",
+        "okta shares surge",
+        "help smbs strengthen",
+        "causes system crashes",
+        "critical infrastructure attacks"
       ]
     }
   ]

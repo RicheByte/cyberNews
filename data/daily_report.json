@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26 22:39",
+  "last_updated": "2026-08-27 06:50",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -11,59 +11,59 @@
     "operational routing capabilities",
     "mwembedloader php endpoint",
     "cyber national security",
+    "vulnerability discoveries aided",
     "ai hypothesis engine",
     "chinese threat actors",
     "execute arbitrary code",
     "windows operating systems",
-    "vulnerability discoveries aided",
     "vehicle infotainment modules",
+    "urging government agencies",
     "typical progression follows",
     "twostroke like backdoor",
     "turn one's television",
     "text history records",
-    "target critical infrastructure",
-    "synthetic environment finding"
+    "target critical infrastructure"
   ],
   "trending": [
     {
       "keyword": "cyber espionage actor",
-      "mentions": 2
-    },
-    {
-      "keyword": "chrome 152 patches",
-      "mentions": 6
-    },
-    {
-      "keyword": "well known pattern",
-      "mentions": 5
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2546
-    },
-    {
-      "keyword": "there's never time",
-      "mentions": 5
-    },
-    {
-      "keyword": "operational routing capabilities",
-      "mentions": 1
-    },
-    {
-      "keyword": "mwembedloader php endpoint",
-      "mentions": 1
-    },
-    {
-      "keyword": "cyber national security",
       "mentions": 3
     },
     {
-      "keyword": "ai hypothesis engine",
-      "mentions": 5
+      "keyword": "chrome 152 patches",
+      "mentions": 7
     },
     {
-      "keyword": "chinese threat actors",
+      "keyword": "well known pattern",
+      "mentions": 6
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2547
+    },
+    {
+      "keyword": "there's never time",
+      "mentions": 6
+    },
+    {
+      "keyword": "operational routing capabilities",
       "mentions": 2
+    },
+    {
+      "keyword": "mwembedloader php endpoint",
+      "mentions": 2
+    },
+    {
+      "keyword": "cyber national security",
+      "mentions": 4
+    },
+    {
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 136
+    },
+    {
+      "keyword": "ai hypothesis engine",
+      "mentions": 6
     }
   ],
   "articles": [
@@ -400,6 +400,21 @@
     },
     {
       "source": "Security Week",
+      "title": "Recent Citrix NetScaler Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/",
+      "summary": "CISA is urging government agencies to immediately patch the Citrix NetScaler vulnerability tracked as CVE-2026-8452. The post Recent Citrix NetScaler Vulnerability Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Thu, 27 Aug 2026 04:39:19 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Patch/update",
+        "CISA/KEV",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "AI Speeds Up Malware Development, Not Its Success Rate: Analysis",
       "link": "https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/",
       "summary": "Palo Alto Networks Unit 42 analyzed 405 AI-linked malware samples and found only 12 reached production endpoints. The post AI Speeds Up Malware Development, Not Its Success Rate: Analysis appeared first on SecurityWeek .",
@@ -472,15 +487,6 @@
         "CISA/KEV ×2",
         "Exploit wording"
       ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation",
-      "link": "https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/",
-      "summary": "TRACE was developed by AMD, Intel, Microsoft, OPAQUE, and TII and contributed to the Linux Foundation. The post Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation appeared first on SecurityWeek .",
-      "published": "Tue, 25 Aug 2026 16:23:45 +0000",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Threatpost",

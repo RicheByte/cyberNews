@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-26 22:39 UTC  
+> **Last Updated:** 2026-08-27 06:50 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cyber espionage actor** • **chrome 152 patches** • **well known pattern** • **twitter whistleblower complaint** • **there's never time** • **operational routing capabilities** • **mwembedloader php endpoint** • **cyber national security** • **ai hypothesis engine** • **chinese threat actors** • **execute arbitrary code** • **windows operating systems** • **vulnerability discoveries aided** • **vehicle infotainment modules** • **typical progression follows** • **twostroke like backdoor** • **turn one's television** • **text history records** • **target critical infrastructure** • **synthetic environment finding**
+**cyber espionage actor** • **chrome 152 patches** • **well known pattern** • **twitter whistleblower complaint** • **there's never time** • **operational routing capabilities** • **mwembedloader php endpoint** • **cyber national security** • **vulnerability discoveries aided** • **ai hypothesis engine** • **chinese threat actors** • **execute arbitrary code** • **windows operating systems** • **vehicle infotainment modules** • **urging government agencies** • **typical progression follows** • **twostroke like backdoor** • **turn one's television** • **text history records** • **target critical infrastructure**
 
 ---
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Recent Citrix NetScaler Vulnerability Exploited in the Wild](https://www.securityweek.com/recent-citrix-netscaler-vulnerability-exploited-in-the-wild/)
 - [AI Speeds Up Malware Development, Not Its Success Rate: Analysis](https://www.securityweek.com/ai-speeds-up-malware-development-not-its-success-rate-analysis/)
 - [Adobe and Nvidia Patch Dozens of Vulnerabilities](https://www.securityweek.com/adobe-and-nvidia-patch-dozens-of-vulnerabilities/)
 - [CISA: Over 100 Internet-Exposed Water Systems Targeted in July Cyberattacks](https://www.securityweek.com/cisa-over-100-internet-exposed-water-systems-targeted-in-july-cyberattacks/)
@@ -67,7 +68,6 @@
 - [Chrome 152 Patches Over 300 Vulnerabilities](https://www.securityweek.com/chrome-152-patches-over-300-vulnerabilities/)
 - [Sensitive Information Exposed in Nutex Health Data Breach](https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/)
 - [CISA Warns of Exploited Gitea Vulnerability](https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/)
-- [Linux Foundation to Govern TRACE, an Open Standard for AI Runtime Attestation](https://www.securityweek.com/linux-foundation-to-govern-trace-an-open-standard-for-ai-runtime-attestation/)
 
 ### Threatpost
 

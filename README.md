@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-28 03:58 UTC |
+| 🕐 Last Updated | 2026-08-28 16:26 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`trump order aims` • `okta shares surge` • `hugging face reveal` • `help smbs strengthen` • `causes system crashes` • `critical infrastructure attacks` • `ai agents driven` • `twitter whistleblower complaint` • `several openai models` • `cyber sabotage concerns`
+`trump order aims` • `twitter whistleblower complaint` • `edge extensions found` • `cvss scoring system` • `cryptocurrency draining capabilities` • `code execution attacks` • `need cyber deception` • `cyber sabotage concerns` • `boost cyber defenses` • `software giant fixed`
 
 ## 📄 Reports
 

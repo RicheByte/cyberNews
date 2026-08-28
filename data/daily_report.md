@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-28 03:58 UTC  
+> **Last Updated:** 2026-08-28 16:26 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **okta shares surge** • **hugging face reveal** • **help smbs strengthen** • **causes system crashes** • **critical infrastructure attacks** • **ai agents driven** • **twitter whistleblower complaint** • **several openai models** • **cyber sabotage concerns** • **fake productivity app** • **fake login page** • **fake security scan** • **windows 11 devices** • **software giant fixed** • **software almost triple** • **group named qtfy** • **cybercrime group behind** • **secure ai agents** • **popular messaging apps**
+**trump order aims** • **twitter whistleblower complaint** • **edge extensions found** • **cvss scoring system** • **cryptocurrency draining capabilities** • **code execution attacks** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **software giant fixed** • **software almost triple** • **popular messaging apps** • **ai kill switch** • **critical security vulnerability** • **mf versions papercut** • **world's largest toy** • **us authorities collaborated** • **unauthorized message board** • **turn one's television** • **start menu taskbar**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
-- [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
-- [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
-- [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
-- [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
-- [Learn How to Build Security Operations Ready for AI-Powered Attacks](https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html)
-- [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
-- [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
-- [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html)
+- [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
+- [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
+- [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
+- [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
+- [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
+- [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
+- [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
+- [APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations](https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html)
 
 ### BleepingComputer
 
+- [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
+- [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
+- [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
+- [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
+- [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
 - [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
 - [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
 - [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
-- [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
-- [Android 17 adds ECH support to make web browsing harder to track](https://www.bleepingcomputer.com/news/security/android-17-adds-ech-support-to-make-web-browsing-harder-to-track/)
-- [Australia arrests alleged TeamPCP hackers behind supply-chain attacks](https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/)
-- [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
-- [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
 
 ### Krebs on Security
 
@@ -49,25 +49,25 @@
 
 ### Dark Reading
 
+- [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
+- [Defining an AI Kill Switch Is Hard, But Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
+- [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
 - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 - [Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026](https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026)
 - [Russian Hackers Phish EU Officials Over Messaging Apps](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps)
 - [Dark Caracal Adds New Malware to Cyber Espionage Arsenal](https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal)
 - ['HTTP Terminator' Hunts for Novel Desync Attacks](https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks)
-- [Red Flags That Expose Fake North Korean IT Workers](https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers)
-- [Android Malware Hijacks Update System for Car Head Units](https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units)
-- ['NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month](https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month)
 
 ### Security Week
 
+- [In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions](https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/)
+- [ATF Confirms Cyber Incident After Ransomware Group Claims Attack](https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/)
+- [OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems](https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/)
+- [Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge](https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/)
+- [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
+- [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
 - [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
 - [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
-- [OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack](https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/)
-- [Okta Shares Surge on Strong Earnings, Growing Demand for AI Identity Security](https://www.securityweek.com/okta-shares-surge-on-strong-earnings-growing-demand-for-ai-identity-security/)
-- [CISO Conversations: Chris Wheeler – Trust Is the Job, From the Navy to the C-Suite](https://www.securityweek.com/ciso-conversations-chris-wheeler-trust-is-the-job-from-the-navy-to-the-c-suite/)
-- [Cyberattack Causes Global Disruption at Boston Scientific](https://www.securityweek.com/cyberattack-causes-global-disruption-at-boston-scientific/)
-- [The Future of AI-Driven Security Depends on Complete Data](https://www.securityweek.com/the-future-of-ai-driven-security-depends-on-complete-data/)
-- [US Disrupts Chinese Hacking Platform Used in Military and Critical Infrastructure Attacks](https://www.securityweek.com/us-disrupts-chinese-hacking-platform-used-in-military-and-critical-infrastructure-attacks/)
 
 ### Threatpost
 

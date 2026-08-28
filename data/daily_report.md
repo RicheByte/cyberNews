@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-27 18:44 UTC  
+> **Last Updated:** 2026-08-28 03:58 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **okta shares surge** • **help smbs strengthen** • **causes system crashes** • **critical infrastructure attacks** • **shinyhunters extortion group** • **twitter whistleblower complaint** • **offers hacking services** • **gocaracal provides operators** • **cyber sabotage concerns** • **secure ai agents** • **fake productivity app** • **fake login page** • **fake security scan** • **windows 11 devices** • **software giant fixed** • **software almost triple** • **group named qtfy** • **cybercrime group behind** • **popular messaging apps**
+**trump order aims** • **okta shares surge** • **hugging face reveal** • **help smbs strengthen** • **causes system crashes** • **critical infrastructure attacks** • **ai agents driven** • **twitter whistleblower complaint** • **several openai models** • **cyber sabotage concerns** • **fake productivity app** • **fake login page** • **fake security scan** • **windows 11 devices** • **software giant fixed** • **software almost triple** • **group named qtfy** • **cybercrime group behind** • **secure ai agents** • **popular messaging apps**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [OpenAI Says Reward Hacking Drove AI Agents to Exploit Zero-Days and Breach Hugging Face](https://thehackernews.com/2026/08/openai-says-reward-hacking-drove-ai.html)
 - [Next.js Patches Critical AVIF and Windows Flaws Enabling Unauthenticated RCE](https://thehackernews.com/2026/08/nextjs-patches-critical-avif-and.html)
 - [ThreatsDay: 296K IoT Botnet, 100+ Water Systems Targeted, SharePoint RCE Chain + 27 New Stories](https://thehackernews.com/2026/08/threatsday-296k-iot-botnet-100-water.html)
 - [Amazon Kiro Prompt Injection Can Exfiltrate Sensitive Data Through Kiro Powers](https://thehackernews.com/2026/08/amazon-kiro-prompt-injection-can.html)
@@ -23,10 +24,10 @@
 - [Alleged TeamPCP Hackers Charged in Australia Over Major Supply Chain Attacks](https://thehackernews.com/2026/08/alleged-teampcp-hackers-charged-in.html)
 - [What the Data Says About AI in Security Operations in 2026](https://thehackernews.com/2026/08/what-data-says-about-ai-in-security.html)
 - [Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools](https://thehackernews.com/2026/08/spark-rat-targets-cambodia-abuses.html)
-- [GoCaracal Malware Uses Ethereum Smart Contract to Fetch Replacement C2 Address](https://thehackernews.com/2026/08/gocaracal-malware-uses-ethereum-smart.html)
 
 ### BleepingComputer
 
+- [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
 - [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
 - [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
 - [How Threat Research and MDR Help SMBs Build a Defensive Edge](https://www.bleepingcomputer.com/news/security/how-threat-research-and-mdr-help-smbs-build-a-defensive-edge/)
@@ -34,7 +35,6 @@
 - [Australia arrests alleged TeamPCP hackers behind supply-chain attacks](https://www.bleepingcomputer.com/news/security/australia-arrests-alleged-teampcp-hackers-behind-supply-chain-attacks/)
 - [Microsoft rolls out fix for Windows 11 crashes, gaming issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/)
 - [Webinar: How Google Workspace breaches happen and what to do next](https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/)
-- [Carhartt data breach exposes information of 12.9 million accounts](https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 - [Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026](https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026)
 - [Russian Hackers Phish EU Officials Over Messaging Apps](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps)
 - [Dark Caracal Adds New Malware to Cyber Espionage Arsenal](https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal)
@@ -56,7 +57,6 @@
 - [Red Flags That Expose Fake North Korean IT Workers](https://www.darkreading.com/insider-threats/red-flags-expose-fake-north-korean-it-workers)
 - [Android Malware Hijacks Update System for Car Head Units](https://www.darkreading.com/cyberattacks-data-breaches/android-malware-hijacks-update-system-car-head-units)
 - ['NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month](https://www.darkreading.com/endpoint-security/novacookies-steals-microsoft-365-sessions-320-a-month)
-- [Interpol's Jackal IV Disrupts West African Crime Infrastructure](https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure)
 
 ### Security Week
 

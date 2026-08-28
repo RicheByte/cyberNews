@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-27 18:44 UTC |
+| 🕐 Last Updated | 2026-08-28 03:58 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`trump order aims` • `okta shares surge` • `help smbs strengthen` • `causes system crashes` • `critical infrastructure attacks` • `shinyhunters extortion group` • `twitter whistleblower complaint` • `offers hacking services` • `gocaracal provides operators` • `cyber sabotage concerns`
+`trump order aims` • `okta shares surge` • `hugging face reveal` • `help smbs strengthen` • `causes system crashes` • `critical infrastructure attacks` • `ai agents driven` • `twitter whistleblower complaint` • `several openai models` • `cyber sabotage concerns`
 
 ## 📄 Reports
 

@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-07-30",
     "2026-07-31",
     "2026-08-01",
     "2026-08-02",
@@ -29,7 +28,8 @@
     "2026-08-25",
     "2026-08-26",
     "2026-08-27",
-    "2026-08-28"
+    "2026-08-28",
+    "2026-08-29"
   ],
   "keywords": {
     "five cybersecurity predictions": {
@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2550,
+      "count": 2551,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -580,7 +580,8 @@
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "supposed wayward package": {
@@ -1236,7 +1237,7 @@
       ]
     },
     "national security risk": {
-      "count": 429,
+      "count": 430,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1312,7 +1313,8 @@
         "2026-08-21",
         "2026-08-22",
         "2026-08-23",
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-29"
       ]
     },
     "open source millions": {
@@ -4083,10 +4085,11 @@
       ]
     },
     "third party applications": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-01-14",
-        "2026-01-15"
+        "2026-01-15",
+        "2026-08-29"
       ]
     },
     "stack space exhaustion": {
@@ -23308,7 +23311,7 @@
       ]
     },
     "software almost triple": {
-      "count": 162,
+      "count": 163,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23337,7 +23340,8 @@
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "spanish police dismantled": {
@@ -23387,7 +23391,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 186,
+      "count": 187,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23418,7 +23422,8 @@
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "windows bind links": {
@@ -24573,7 +24578,7 @@
       ]
     },
     "turn one's television": {
-      "count": 209,
+      "count": 210,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -24604,7 +24609,8 @@
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "anthropic's claude cowork": {
@@ -28396,10 +28402,11 @@
       ]
     },
     "trump order aims": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-27",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "okta shares surge": {
@@ -28443,10 +28450,11 @@
       ]
     },
     "cyber sabotage concerns": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-27",
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "fake productivity app": {
@@ -28521,21 +28529,24 @@
       ]
     },
     "need cyber deception": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "boost cyber defenses": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "ai kill switch": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "mf versions papercut": {
@@ -28545,15 +28556,17 @@
       ]
     },
     "world's largest toy": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "us authorities collaborated": {
-      "count": 1,
+      "count": 2,
       "dates": [
-        "2026-08-28"
+        "2026-08-28",
+        "2026-08-29"
       ]
     },
     "unauthorized message board": {
@@ -28567,20 +28580,51 @@
       "dates": [
         "2026-08-28"
       ]
+    },
+    "fresh emergency fix": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    "extortion attempt following": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    "network providers google": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    "network adjacent path": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    "secure ai strategy": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    "industrial control systems": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
+    },
+    "steal nuclear records": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-18 22:16",
-      "articles": 48,
-      "top_keywords": [
-        "universal agent harness",
-        "security safepal com",
-        "twitter whistleblower complaint",
-        "third party platform",
-        "technical report shared"
-      ]
-    },
     {
       "timestamp": "2026-08-19 00:55",
       "articles": 48,
@@ -29668,6 +29712,17 @@
         "edge extensions found",
         "cvss scoring system",
         "cryptocurrency draining capabilities"
+      ]
+    },
+    {
+      "timestamp": "2026-08-29 01:23",
+      "articles": 48,
+      "top_keywords": [
+        "trump order aims",
+        "software giant fixed",
+        "fresh emergency fix",
+        "extortion attempt following",
+        "twitter whistleblower complaint"
       ]
     }
   ]

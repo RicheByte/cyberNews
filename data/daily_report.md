@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-28 16:26 UTC  
+> **Last Updated:** 2026-08-29 01:23 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **twitter whistleblower complaint** • **edge extensions found** • **cvss scoring system** • **cryptocurrency draining capabilities** • **code execution attacks** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **software giant fixed** • **software almost triple** • **popular messaging apps** • **ai kill switch** • **critical security vulnerability** • **mf versions papercut** • **world's largest toy** • **us authorities collaborated** • **unauthorized message board** • **turn one's television** • **start menu taskbar**
+**trump order aims** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **world's largest toy** • **us authorities collaborated** • **turn one's television** • **third party applications** • **steal nuclear records**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
+- [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
+- [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
+- [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
+- [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 - [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
 - [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
 - [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
-- [Three CVSS 10.0 ServiceNow Flaws Could Let Unauthenticated Attackers Execute Code and SQL](https://thehackernews.com/2026/08/three-cvss-100-servicenow-flaws-could.html)
-- [China-Made ZBT Routers Ship With Two Implants Giving Unauthenticated Attackers Root Access](https://thehackernews.com/2026/08/china-made-zbt-routers-ship-with-two.html)
-- [Critical cPanel Flaw Could Let One Hosting Customer Take Root Control of a Whole Server](https://thehackernews.com/2026/08/critical-cpanel-flaw-could-let-one.html)
-- [PaperCut Zero-Day Exploited in Attacks, Affecting All NG and MF Versions](https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html)
-- [APT28-Linked HOOKEDGE Backdoor Targets European Government and Diplomatic Organizations](https://thehackernews.com/2026/08/apt28-linked-hookedge-backdoor-targets.html)
 
 ### BleepingComputer
 
+- [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
+- [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
+- [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
+- [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
 - [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
 - [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
 - [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
 - [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
-- [Windows 11 KB5120998 update released with 35 changes and fixes](https://www.bleepingcomputer.com/news/security/windows-11-kb5120998-update-released-with-35-changes-and-fixes/)
-- [Nearly 700 rogue AI agents coordinated in the Hugging Face attack](https://www.bleepingcomputer.com/news/security/nearly-700-rogue-ai-agents-coordinated-in-the-hugging-face-attack/)
-- [PaperCut warns of NG, MF flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/papercut-warns-of-ng-mf-flaw-exploited-in-zero-day-attacks/)
-- [Manchester Airports Group says hackers stole travelers' data](https://www.bleepingcomputer.com/news/security/manchester-airports-group-says-hackers-stole-travelers-data/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
+- [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
+- [[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI](https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026)
+- [[Virtual Event] Building a Secure AI Strategy for the Enterprise](https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026)
 - [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
-- [Defining an AI Kill Switch Is Hard, But Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
+- [Defining an AI Kill Switch Is Hard, but Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
 - [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
 - [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
-- [Agentic AI Risks, CVE Program Concerns Permeate Black Hat USA 2026](https://www.darkreading.com/cybersecurity-operations/agentic-ai-risks-cve-program-concerns-black-hat-usa-2026)
-- [Russian Hackers Phish EU Officials Over Messaging Apps](https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-phish-eu-officials-messaging-apps)
-- [Dark Caracal Adds New Malware to Cyber Espionage Arsenal](https://www.darkreading.com/cyberattacks-data-breaches/dark-caracal-adds-new-malware-cyber-espionage-arsenal)
-- ['HTTP Terminator' Hunts for Novel Desync Attacks](https://www.darkreading.com/application-security/http-terminator-hunts-novel-desync-attacks)
 
 ### Security Week
 

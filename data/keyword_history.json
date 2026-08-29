@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2553,
+      "count": 2554,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1237,7 +1237,7 @@
       ]
     },
     "national security risk": {
-      "count": 432,
+      "count": 433,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2284,14 +2284,15 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 37,
+      "count": 38,
       "dates": [
         "2025-12-31",
         "2026-01-01",
         "2026-01-02",
         "2026-05-04",
         "2026-05-05",
-        "2026-05-06"
+        "2026-05-06",
+        "2026-08-29"
       ]
     },
     "bypass authentication mechanisms": {
@@ -4085,7 +4086,7 @@
       ]
     },
     "third party applications": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -23311,7 +23312,7 @@
       ]
     },
     "software almost triple": {
-      "count": 165,
+      "count": 166,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23391,7 +23392,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 189,
+      "count": 190,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24579,7 +24580,7 @@
       ]
     },
     "turn one's television": {
-      "count": 212,
+      "count": 213,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -28403,7 +28404,7 @@
       ]
     },
     "trump order aims": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -28451,7 +28452,7 @@
       ]
     },
     "cyber sabotage concerns": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -28530,21 +28531,21 @@
       ]
     },
     "need cyber deception": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-28",
         "2026-08-29"
       ]
     },
     "boost cyber defenses": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-28",
         "2026-08-29"
       ]
     },
     "ai kill switch": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-28",
         "2026-08-29"
@@ -28583,43 +28584,43 @@
       ]
     },
     "fresh emergency fix": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
     },
     "extortion attempt following": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
     },
     "network providers google": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
     },
     "network adjacent path": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
     },
     "secure ai strategy": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
     },
     "industrial control systems": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
     },
     "steal nuclear records": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29"
       ]
@@ -28629,20 +28630,15 @@
       "dates": [
         "2026-08-29"
       ]
+    },
+    "securing cloud assets": {
+      "count": 1,
+      "dates": [
+        "2026-08-29"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-19 04:31",
-      "articles": 48,
-      "top_keywords": [
-        "universal agent harness",
-        "security safepal com",
-        "twitter whistleblower complaint",
-        "third party platform",
-        "technical report shared"
-      ]
-    },
     {
       "timestamp": "2026-08-19 06:34",
       "articles": 48,
@@ -29730,6 +29726,17 @@
         "fresh emergency fix",
         "extortion attempt following",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-29 19:05",
+      "articles": 48,
+      "top_keywords": [
+        "trump order aims",
+        "authentication bypass flaw",
+        "software giant fixed",
+        "fresh emergency fix",
+        "extortion attempt following"
       ]
     }
   ]

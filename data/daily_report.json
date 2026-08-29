@@ -1,9 +1,10 @@
 {
-  "last_updated": "2026-08-29 14:53",
+  "last_updated": "2026-08-29 19:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "trump order aims",
+    "authentication bypass flaw",
     "software giant fixed",
     "fresh emergency fix",
     "extortion attempt following",
@@ -21,52 +22,65 @@
     "turn one's television",
     "third party applications",
     "steal nuclear records",
-    "robot's locomotion pc",
-    "residential proxy node"
+    "securing cloud assets"
   ],
   "trending": [
     {
       "keyword": "trump order aims",
-      "mentions": 6
+      "mentions": 7
+    },
+    {
+      "keyword": "authentication bypass flaw",
+      "mentions": 38
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 189
+      "mentions": 190
     },
     {
       "keyword": "fresh emergency fix",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "extortion attempt following",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2553
+      "mentions": 2554
     },
     {
       "keyword": "software almost triple",
-      "mentions": 165
+      "mentions": 166
     },
     {
       "keyword": "national security risk",
-      "mentions": 432
+      "mentions": 433
     },
     {
       "keyword": "network providers google",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "network adjacent path",
-      "mentions": 3
-    },
-    {
-      "keyword": "need cyber deception",
       "mentions": 4
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
+      "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
+      "summary": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution. The vulnerabilities, according to Wordfence and Patchstack, are listed below - CVE-2026-76581 (CVSS score: 9.8) - An authentication bypass flaw in",
+      "published": "Sat, 29 Aug 2026 21:55:03 +0530",
+      "value_score": 94,
+      "value_signals": [
+        "CVE mentioned",
+        "RCE",
+        "Auth bypass ×2",
+        "High severity ×2"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -144,15 +158,6 @@
         "RCE ×3",
         "Multiple CVEs"
       ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Key Reasons Why Identity Fabric Matters in 2026",
-      "link": "https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html",
-      "summary": "An Identity Fabric knits fragmented identity systems into a coherent layer that observes how identities behave across applications, APIs, and infrastructure. As enterprise access spans more cloud services and automated workloads, identity security depends less on static configuration and more on runtime visibility. This article covers the architecture, the risks of unmanaged identities, and",
-      "published": "Fri, 28 Aug 2026 17:00:00 +0530",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "BleepingComputer",

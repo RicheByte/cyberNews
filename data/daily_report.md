@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-29 14:53 UTC  
+> **Last Updated:** 2026-08-29 19:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **turn one's television** • **third party applications** • **steal nuclear records** • **robot's locomotion pc** • **residential proxy node**
+**trump order aims** • **authentication bypass flaw** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **turn one's television** • **third party applications** • **steal nuclear records** • **securing cloud assets**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 - [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
 - [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
 - [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
@@ -23,7 +24,6 @@
 - [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 - [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
 - [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
-- [Key Reasons Why Identity Fabric Matters in 2026](https://thehackernews.com/2026/08/key-reasons-why-identity-fabric-matters.html)
 
 ### BleepingComputer
 

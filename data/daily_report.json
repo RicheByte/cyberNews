@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 08:32",
+  "last_updated": "2026-08-29 14:53",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -18,52 +18,52 @@
     "secure ai strategy",
     "industrial control systems",
     "ai kill switch",
-    "world's largest toy",
-    "us authorities collaborated",
     "turn one's television",
     "third party applications",
-    "steal nuclear records"
+    "steal nuclear records",
+    "robot's locomotion pc",
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "trump order aims",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 188
+      "mentions": 189
     },
     {
       "keyword": "fresh emergency fix",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "extortion attempt following",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2552
+      "mentions": 2553
     },
     {
       "keyword": "software almost triple",
-      "mentions": 164
+      "mentions": 165
     },
     {
       "keyword": "national security risk",
-      "mentions": 431
+      "mentions": 432
     },
     {
       "keyword": "network providers google",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "network adjacent path",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "need cyber deception",
-      "mentions": 3
+      "mentions": 4
     }
   ],
   "articles": [
@@ -156,6 +156,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Brave browser adds email aliases to help users evade tracking",
+      "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
+      "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
+      "published": "Sat, 29 Aug 2026 10:19:23 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
       "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
       "summary": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
@@ -227,18 +236,6 @@
       "value_score": 22,
       "value_signals": [
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "ServiceNow warns of three max severity security vulnerabilities",
-      "link": "https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/",
-      "summary": "ServiceNow released security patches for three new maximum-severity AI Platform vulnerabilities that can be exploited in code injection, SQL injection, and privilege escalation attacks. [...]",
-      "published": "Fri, 28 Aug 2026 06:29:42 -0400",
-      "value_score": 28,
-      "value_signals": [
-        "Privilege escalation",
-        "Exploit wording"
       ]
     },
     {
@@ -395,6 +392,17 @@
     },
     {
       "source": "Security Week",
+      "title": "Hasbro Data Breach Exposed Employee Personal Information",
+      "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+      "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .",
+      "published": "Sat, 29 Aug 2026 11:55:00 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
       "link": "https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/",
       "summary": "Noteworthy stories that might have slipped under the radar: Manchester Airports Group cyberattack, Carhartt breach data was partly fake, U.S. Bank responds to ransomware gang’s claims. The post In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions appeared first on SecurityWeek .",
@@ -467,15 +475,6 @@
       "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
       "summary": "The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns. The post Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear appeared first on SecurityWeek .",
       "published": "Thu, 27 Aug 2026 14:17:26 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Australia Arrests 2 Alleged TeamPCP Hackers",
-      "link": "https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/",
-      "summary": "Australian and US authorities collaborated to identify and charge the alleged cybercriminals, who face many years in prison. The post Australia Arrests 2 Alleged TeamPCP Hackers appeared first on SecurityWeek .",
-      "published": "Thu, 27 Aug 2026 12:48:03 +0000",
       "value_score": 10,
       "value_signals": []
     },

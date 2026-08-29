@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-29 08:32 UTC  
+> **Last Updated:** 2026-08-29 14:53 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **world's largest toy** • **us authorities collaborated** • **turn one's television** • **third party applications** • **steal nuclear records**
+**trump order aims** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **turn one's television** • **third party applications** • **steal nuclear records** • **robot's locomotion pc** • **residential proxy node**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
 - [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 - [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 - [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
@@ -34,7 +35,6 @@
 - [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
 - [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
 - [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
-- [ServiceNow warns of three max severity security vulnerabilities](https://www.bleepingcomputer.com/news/security/servicenow-warns-of-three-max-severity-security-vulnerabilities/)
 
 ### Krebs on Security
 
@@ -60,6 +60,7 @@
 
 ### Security Week
 
+- [Hasbro Data Breach Exposed Employee Personal Information](https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/)
 - [In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions](https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/)
 - [ATF Confirms Cyber Incident After Ransomware Group Claims Attack](https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/)
 - [OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems](https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/)
@@ -67,7 +68,6 @@
 - [Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says](https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/)
 - [PaperCut Releases Emergency Patch for Exploited Zero-Day](https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/)
 - [Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear](https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/)
-- [Australia Arrests 2 Alleged TeamPCP Hackers](https://www.securityweek.com/australia-arrests-2-alleged-teampcp-hackers/)
 
 ### Threatpost
 

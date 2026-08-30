@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2559,
+      "count": 2560,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1238,7 +1238,7 @@
       ]
     },
     "national security risk": {
-      "count": 438,
+      "count": 439,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2286,7 +2286,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 43,
+      "count": 44,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -23316,7 +23316,7 @@
       ]
     },
     "software almost triple": {
-      "count": 171,
+      "count": 172,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23397,7 +23397,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -28415,7 +28415,7 @@
       ]
     },
     "trump order aims": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -28464,7 +28464,7 @@
       ]
     },
     "cyber sabotage concerns": {
-      "count": 12,
+      "count": 13,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -28532,7 +28532,7 @@
       ]
     },
     "cryptocurrency draining capabilities": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-28",
         "2026-08-30"
@@ -28545,14 +28545,6 @@
       ]
     },
     "need cyber deception": {
-      "count": 9,
-      "dates": [
-        "2026-08-28",
-        "2026-08-29",
-        "2026-08-30"
-      ]
-    },
-    "boost cyber defenses": {
       "count": 10,
       "dates": [
         "2026-08-28",
@@ -28560,8 +28552,16 @@
         "2026-08-30"
       ]
     },
+    "boost cyber defenses": {
+      "count": 11,
+      "dates": [
+        "2026-08-28",
+        "2026-08-29",
+        "2026-08-30"
+      ]
+    },
     "ai kill switch": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-28",
         "2026-08-29",
@@ -28601,21 +28601,21 @@
       ]
     },
     "fresh emergency fix": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "extortion attempt following": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "network providers google": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-29",
         "2026-08-30"
@@ -28629,21 +28629,21 @@
       ]
     },
     "secure ai strategy": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "industrial control systems": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "steal nuclear records": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-29",
         "2026-08-30"
@@ -28662,7 +28662,7 @@
       ]
     },
     "game giant earlier": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-30"
       ]
@@ -28674,30 +28674,19 @@
       ]
     },
     "manchester airports group": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-30"
       ]
     },
     "data fulcrumsec claims": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-19 16:23",
-      "articles": 48,
-      "top_keywords": [
-        "943 patches rolled",
-        "twitter whistleblower complaint",
-        "login flows unprotected",
-        "critical security flaw",
-        "critical rce flaw"
-      ]
-    },
     {
       "timestamp": "2026-08-19 18:25",
       "articles": 48,
@@ -29778,6 +29767,17 @@
     },
     {
       "timestamp": "2026-08-30 18:59",
+      "articles": 48,
+      "top_keywords": [
+        "authentication bypass flaw",
+        "software giant fixed",
+        "trump order aims",
+        "fresh emergency fix",
+        "extortion attempt following"
+      ]
+    },
+    {
+      "timestamp": "2026-08-30 22:18",
       "articles": 48,
       "top_keywords": [
         "authentication bypass flaw",

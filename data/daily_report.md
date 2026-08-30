@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-30 03:09 UTC  
+> **Last Updated:** 2026-08-30 09:40 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 48
+> **Articles Analyzed:** 40
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **authentication bypass flaw** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **game giant earlier** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **turn one's television** • **third party applications** • **steal nuclear records**
+**authentication bypass flaw** • **software giant fixed** • **trump order aims** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **network providers google** • **game giant earlier** • **cyber sabotage concerns** • **boost cyber defenses** • **national security risk** • **industrial control systems** • **turn one's television** • **third party applications** • **text history records** • **steal nuclear records** • **residential proxy node** • **remained walled away** • **publicly detailed prior**
 
 ---
 
@@ -16,6 +16,7 @@
 
 ### The Hacker News
 
+- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
 - [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
 - [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
 - [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
@@ -23,7 +24,6 @@
 - [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
 - [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 - [19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code](https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html)
-- [Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth](https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html)
 
 ### BleepingComputer
 
@@ -46,17 +46,6 @@
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 - [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
-
-### Dark Reading
-
-- [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
-- [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
-- [[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI](https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026)
-- [[Virtual Event] Building a Secure AI Strategy for the Enterprise](https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026)
-- [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
-- [Defining an AI Kill Switch Is Hard, but Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
-- [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
-- [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 
 ### Security Week
 

@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-30 03:09 UTC |
-| 📰 Articles Analyzed | 48 |
+| 🕐 Last Updated | 2026-08-30 09:40 UTC |
+| 📰 Articles Analyzed | 40 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`trump order aims` • `authentication bypass flaw` • `software giant fixed` • `fresh emergency fix` • `extortion attempt following` • `twitter whistleblower complaint` • `software almost triple` • `national security risk` • `network providers google` • `network adjacent path`
+`authentication bypass flaw` • `software giant fixed` • `trump order aims` • `fresh emergency fix` • `extortion attempt following` • `twitter whistleblower complaint` • `software almost triple` • `network providers google` • `game giant earlier` • `cyber sabotage concerns`
 
 ## 📄 Reports
 

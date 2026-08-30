@@ -1,72 +1,83 @@
 {
-  "last_updated": "2026-08-30 03:09",
+  "last_updated": "2026-08-30 09:40",
   "sources_count": 8,
-  "articles_count": 48,
+  "articles_count": 40,
   "keywords": [
-    "trump order aims",
     "authentication bypass flaw",
     "software giant fixed",
+    "trump order aims",
     "fresh emergency fix",
     "extortion attempt following",
     "twitter whistleblower complaint",
     "software almost triple",
-    "national security risk",
     "network providers google",
-    "network adjacent path",
     "game giant earlier",
-    "need cyber deception",
     "cyber sabotage concerns",
     "boost cyber defenses",
-    "secure ai strategy",
+    "national security risk",
     "industrial control systems",
-    "ai kill switch",
     "turn one's television",
     "third party applications",
-    "steal nuclear records"
+    "text history records",
+    "steal nuclear records",
+    "residential proxy node",
+    "remained walled away",
+    "publicly detailed prior"
   ],
   "trending": [
     {
-      "keyword": "trump order aims",
-      "mentions": 9
-    },
-    {
       "keyword": "authentication bypass flaw",
-      "mentions": 40
+      "mentions": 41
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 192
+      "mentions": 193
+    },
+    {
+      "keyword": "trump order aims",
+      "mentions": 10
     },
     {
       "keyword": "fresh emergency fix",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "extortion attempt following",
-      "mentions": 6
+      "mentions": 7
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2556
+      "mentions": 2557
     },
     {
       "keyword": "software almost triple",
-      "mentions": 168
-    },
-    {
-      "keyword": "national security risk",
-      "mentions": 435
+      "mentions": 169
     },
     {
       "keyword": "network providers google",
-      "mentions": 6
+      "mentions": 7
     },
     {
-      "keyword": "network adjacent path",
-      "mentions": 6
+      "keyword": "game giant earlier",
+      "mentions": 2
+    },
+    {
+      "keyword": "cyber sabotage concerns",
+      "mentions": 10
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
+      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
+      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
+      "published": "Sun, 30 Aug 2026 13:06:33 +0530",
+      "value_score": 22,
+      "value_signals": [
+        "Backdoor"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
@@ -145,19 +156,6 @@
       "published": "Fri, 28 Aug 2026 20:57:26 +0530",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Two Unitree G1 EDU Humanoid Robot Flaws Enable Root RCE, One Starts Over Bluetooth",
-      "link": "https://thehackernews.com/2026/08/two-unitree-g1-edu-humanoid-robot-flaws.html",
-      "summary": "Security researcher Olivier Laflamme has disclosed two independent root remote code execution (RCE) chains affecting the Unitree G1 EDU, including a Bluetooth Low Energy (BLE) path that can reach root on the robot's Locomotion PC. The flaws are tracked as CVE-2026-76639 and CVE-2026-76640, with the first involving a network-adjacent path through chat_go and bashrunner and the",
-      "published": "Fri, 28 Aug 2026 17:37:24 +0530",
-      "value_score": 94,
-      "value_signals": [
-        "CVE mentioned ×2",
-        "RCE ×3",
-        "Multiple CVEs"
-      ]
     },
     {
       "source": "BleepingComputer",
@@ -320,78 +318,6 @@
         "Breach/leak ×2",
         "CISA/KEV ×3"
       ]
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-      "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
-      "published": "Fri, 28 Aug 2026 20:19:22 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Offensive Security Investments Surge as AI Threats Increase",
-      "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-      "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
-      "published": "Fri, 28 Aug 2026 18:25:43 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
-      "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-      "summary": "",
-      "published": "2026-11-12T16:00:00.000Z",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
-      "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
-      "summary": "",
-      "published": "2026-10-08T15:00:00.000Z",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "You Need Cyber Deception for OT",
-      "link": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
-      "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
-      "published": "Fri, 28 Aug 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-      "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-      "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
-      "published": "Fri, 28 Aug 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-      "summary": "The surge of AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
-      "published": "Fri, 28 Aug 2026 13:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Chinese Routers Sold Worldwide Contain Backdoors",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors",
-      "summary": "An untold number of ZBT routers sold around the world as white-label products come with several implants built by the manufacturer.",
-      "published": "Thu, 27 Aug 2026 19:31:45 GMT",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Security Week",

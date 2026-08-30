@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2556,
+      "count": 2557,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1238,7 +1238,7 @@
       ]
     },
     "national security risk": {
-      "count": 435,
+      "count": 436,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -2286,7 +2286,7 @@
       ]
     },
     "authentication bypass flaw": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2025-12-31",
         "2026-01-01",
@@ -4089,7 +4089,7 @@
       ]
     },
     "third party applications": {
-      "count": 8,
+      "count": 9,
       "dates": [
         "2026-01-14",
         "2026-01-15",
@@ -23316,7 +23316,7 @@
       ]
     },
     "software almost triple": {
-      "count": 168,
+      "count": 169,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23397,7 +23397,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 192,
+      "count": 193,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24252,7 +24252,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 193,
+      "count": 194,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24281,7 +24281,8 @@
         "2026-08-24",
         "2026-08-25",
         "2026-08-26",
-        "2026-08-29"
+        "2026-08-29",
+        "2026-08-30"
       ]
     },
     "ban residential proxies": {
@@ -24586,7 +24587,7 @@
       ]
     },
     "turn one's television": {
-      "count": 215,
+      "count": 216,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26306,7 +26307,7 @@
       ]
     },
     "text history records": {
-      "count": 166,
+      "count": 167,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26328,7 +26329,8 @@
         "2026-08-24",
         "2026-08-25",
         "2026-08-26",
-        "2026-08-27"
+        "2026-08-27",
+        "2026-08-30"
       ]
     },
     "chatgpt secure sandbox": {
@@ -26940,7 +26942,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 40,
+      "count": 41,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26952,7 +26954,8 @@
         "2026-08-19",
         "2026-08-20",
         "2026-08-21",
-        "2026-08-24"
+        "2026-08-24",
+        "2026-08-30"
       ]
     },
     "target critical infrastructure": {
@@ -27187,7 +27190,7 @@
       ]
     },
     "remained walled away": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27197,7 +27200,8 @@
         "2026-08-21",
         "2026-08-22",
         "2026-08-24",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-30"
       ]
     },
     "ai agent control": {
@@ -28411,7 +28415,7 @@
       ]
     },
     "trump order aims": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -28460,7 +28464,7 @@
       ]
     },
     "cyber sabotage concerns": {
-      "count": 9,
+      "count": 10,
       "dates": [
         "2026-08-27",
         "2026-08-28",
@@ -28548,7 +28552,7 @@
       ]
     },
     "boost cyber defenses": {
-      "count": 7,
+      "count": 8,
       "dates": [
         "2026-08-28",
         "2026-08-29",
@@ -28596,21 +28600,21 @@
       ]
     },
     "fresh emergency fix": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "extortion attempt following": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "network providers google": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-29",
         "2026-08-30"
@@ -28631,14 +28635,14 @@
       ]
     },
     "industrial control systems": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-29",
         "2026-08-30"
       ]
     },
     "steal nuclear records": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-29",
         "2026-08-30"
@@ -28657,24 +28661,13 @@
       ]
     },
     "game giant earlier": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-30"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-19 10:21",
-      "articles": 48,
-      "top_keywords": [
-        "943 patches rolled",
-        "universal agent harness",
-        "critical security flaw",
-        "twitter whistleblower complaint",
-        "technical report shared"
-      ]
-    },
     {
       "timestamp": "2026-08-19 12:35",
       "articles": 48,
@@ -29760,6 +29753,17 @@
         "trump order aims",
         "authentication bypass flaw",
         "software giant fixed",
+        "fresh emergency fix",
+        "extortion attempt following"
+      ]
+    },
+    {
+      "timestamp": "2026-08-30 09:40",
+      "articles": 40,
+      "top_keywords": [
+        "authentication bypass flaw",
+        "software giant fixed",
+        "trump order aims",
         "fresh emergency fix",
         "extortion attempt following"
       ]

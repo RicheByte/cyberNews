@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-30 14:37 UTC  
+> **Last Updated:** 2026-08-30 18:59 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **software giant fixed** • **trump order aims** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **steal nuclear records** • **software almost triple** • **cryptocurrency draining capabilities** • **secure ai strategy** • **game giant earlier** • **ai kill switch** • **national security risk** • **need cyber deception** • **industrial control systems** • **cyber sabotage concerns** • **boost cyber defenses** • **network providers google** • **microsoft edge delivered** • **turn one's television**
+**authentication bypass flaw** • **software giant fixed** • **trump order aims** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **steal nuclear records** • **software almost triple** • **manchester airports group** • **cryptocurrency draining capabilities** • **secure ai strategy** • **game giant earlier** • **ai kill switch** • **national security risk** • **need cyber deception** • **industrial control systems** • **cyber sabotage concerns** • **boost cyber defenses** • **network providers google** • **data fulcrumsec claims**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
 - [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
 - [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
 - [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
@@ -34,7 +35,6 @@
 - [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 - [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 - [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
-- [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
 
 ### Krebs on Security
 

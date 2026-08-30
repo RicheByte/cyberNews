@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-30 14:37 UTC |
+| 🕐 Last Updated | 2026-08-30 18:59 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`authentication bypass flaw` • `software giant fixed` • `trump order aims` • `fresh emergency fix` • `extortion attempt following` • `twitter whistleblower complaint` • `steal nuclear records` • `software almost triple` • `cryptocurrency draining capabilities` • `secure ai strategy`
+`authentication bypass flaw` • `software giant fixed` • `trump order aims` • `fresh emergency fix` • `extortion attempt following` • `twitter whistleblower complaint` • `steal nuclear records` • `software almost triple` • `manchester airports group` • `cryptocurrency draining capabilities`
 
 ## 📄 Reports
 

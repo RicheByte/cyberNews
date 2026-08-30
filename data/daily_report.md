@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-29 22:12 UTC  
+> **Last Updated:** 2026-08-30 03:09 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**trump order aims** • **authentication bypass flaw** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **turn one's television** • **third party applications** • **steal nuclear records** • **securing cloud assets**
+**trump order aims** • **authentication bypass flaw** • **software giant fixed** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **national security risk** • **network providers google** • **network adjacent path** • **game giant earlier** • **need cyber deception** • **cyber sabotage concerns** • **boost cyber defenses** • **secure ai strategy** • **industrial control systems** • **ai kill switch** • **turn one's television** • **third party applications** • **steal nuclear records**
 
 ---
 
@@ -27,6 +27,7 @@
 
 ### BleepingComputer
 
+- [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
 - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
 - [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 - [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
@@ -34,7 +35,6 @@
 - [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
 - [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
 - [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
-- [Toy-making giant Hasbro disclose data breach affecting employees](https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/)
 
 ### Krebs on Security
 

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29 22:12",
+  "last_updated": "2026-08-30 03:09",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
@@ -13,6 +13,7 @@
     "national security risk",
     "network providers google",
     "network adjacent path",
+    "game giant earlier",
     "need cyber deception",
     "cyber sabotage concerns",
     "boost cyber defenses",
@@ -21,49 +22,48 @@
     "ai kill switch",
     "turn one's television",
     "third party applications",
-    "steal nuclear records",
-    "securing cloud assets"
+    "steal nuclear records"
   ],
   "trending": [
     {
       "keyword": "trump order aims",
-      "mentions": 8
+      "mentions": 9
     },
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 191
+      "mentions": 192
     },
     {
       "keyword": "fresh emergency fix",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "extortion attempt following",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2555
+      "mentions": 2556
     },
     {
       "keyword": "software almost triple",
-      "mentions": 167
+      "mentions": 168
     },
     {
       "keyword": "national security risk",
-      "mentions": 434
+      "mentions": 435
     },
     {
       "keyword": "network providers google",
-      "mentions": 5
+      "mentions": 6
     },
     {
       "keyword": "network adjacent path",
-      "mentions": 5
+      "mentions": 6
     }
   ],
   "articles": [
@@ -161,6 +161,15 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
+      "summary": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
+      "published": "Sat, 29 Aug 2026 19:11:51 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Brave browser adds email aliases to help users evade tracking",
       "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
       "summary": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
@@ -230,17 +239,6 @@
         "RCE",
         "High severity",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Toy-making giant Hasbro disclose data breach affecting employees",
-      "link": "https://www.bleepingcomputer.com/news/security/toy-making-giant-hasbro-disclose-data-breach-affecting-employees/",
-      "summary": "Hasbro, one of the world's largest toy and game companies, has disclosed that attackers have accessed the personal and financial information of an undisclosed number of employees. [...]",
-      "published": "Fri, 28 Aug 2026 07:46:57 -0400",
-      "value_score": 22,
-      "value_signals": [
-        "Breach/leak"
       ]
     },
     {

@@ -1,14 +1,14 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-30 09:40 UTC  
+> **Last Updated:** 2026-08-30 14:37 UTC  
 > **Sources Monitored:** 8  
-> **Articles Analyzed:** 40
+> **Articles Analyzed:** 48
 
 ---
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **software giant fixed** • **trump order aims** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **software almost triple** • **network providers google** • **game giant earlier** • **cyber sabotage concerns** • **boost cyber defenses** • **national security risk** • **industrial control systems** • **turn one's television** • **third party applications** • **text history records** • **steal nuclear records** • **residential proxy node** • **remained walled away** • **publicly detailed prior**
+**authentication bypass flaw** • **software giant fixed** • **trump order aims** • **fresh emergency fix** • **extortion attempt following** • **twitter whistleblower complaint** • **steal nuclear records** • **software almost triple** • **cryptocurrency draining capabilities** • **secure ai strategy** • **game giant earlier** • **ai kill switch** • **national security risk** • **need cyber deception** • **industrial control systems** • **cyber sabotage concerns** • **boost cyber defenses** • **network providers google** • **microsoft edge delivered** • **turn one's television**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
+- [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
 - [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
 - [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
 - [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 - [PaperCut releases second emergency patch for exploited flaws](https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/)
 - [GiveWP WordPress donation plugin flaw lets hackers execute server commands](https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/)
 - [68-year-old imprisoned after making $1.3 million by pirating IPTV services](https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/)
-- [AI Is Accelerating Vulnerability Discovery. Can Defenders Keep Up?](https://www.bleepingcomputer.com/news/security/ai-is-accelerating-vulnerability-discovery-can-defenders-keep-up/)
-- [Over 8,300 Gitea servers vulnerable to code execution attacks](https://www.bleepingcomputer.com/news/security/over-8-300-gitea-servers-vulnerable-to-code-execution-attacks/)
 
 ### Krebs on Security
 
@@ -46,6 +46,17 @@
 - [LG to Ban Residential Proxies from Smart TV Apps](https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/)
 - [Microsoft Patches a Record 570 Security Flaws](https://krebsonsecurity.com/2026/07/microsoft-patches-a-record-570-security-flaws/)
 - [Lessons Learned from CISA’s Recent GitHub Leak](https://krebsonsecurity.com/2026/07/lessons-learned-from-cisas-recent-github-leak/)
+
+### Dark Reading
+
+- [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
+- [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
+- [[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI](https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026)
+- [[Virtual Event] Building a Secure AI Strategy for the Enterprise](https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026)
+- [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
+- [Defining an AI Kill Switch Is Hard, but Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
+- [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
+- [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 
 ### Security Week
 

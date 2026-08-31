@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-31 18:37 UTC  
+> **Last Updated:** 2026-08-31 23:33 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**execute arbitrary code** • **securing claude code** • **shinyhunters extortion group** • **statement released today** • **twitter whistleblower complaint** • **remain open questions** • **boring parts caused** • **threat actor known** • **ongoing insider threat** • **router shipped ready** • **manchester airports group** • **managing access securely** • **sales threat actors** • **valleyrat backdoor disguised** • **turn one's television** • **sophisticated cybercrime syndicate** • **securing cloud assets** • **residential proxy node** • **remained walled away** • **publicly detailed prior**
+**cronos blockchain network** • **execute arbitrary code** • **securing claude code** • **shinyhunters extortion group** • **statement released today** • **twitter whistleblower complaint** • **powershell instead increasing** • **fake check turned** • **borrow 74 million** • **boring parts caused** • **sophisticated multistage attack** • **threat actor known** • **sophisticated cybercrime syndicate** • **router shipped ready** • **ongoing insider threat** • **managing access securely** • **manchester airports group** • **sprawling phishing campaign** • **valleyrat backdoor disguised** • **turn one's television**
 
 ---
 
@@ -27,14 +27,14 @@
 
 ### BleepingComputer
 
+- [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
+- [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
 - [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
 - [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
 - [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
 - [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
 - [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
 - [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
-- [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
-- [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
 
 ### Krebs on Security
 
@@ -49,14 +49,14 @@
 
 ### Dark Reading
 
+- [Anthropic Users Hit by Infostealer Attacks, Session Thefts](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts)
+- ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
 - [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
 - [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
 - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
 - [[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI](https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026)
 - [[Virtual Event] Building a Secure AI Strategy for the Enterprise](https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026)
 - [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
-- [Defining an AI Kill Switch Is Hard, but Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
-- [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
 
 ### Security Week
 

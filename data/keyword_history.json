@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2563,
+      "count": 2564,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -712,7 +712,7 @@
       ]
     },
     "threat actor known": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1043,7 +1043,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 151,
+      "count": 152,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1991,7 +1991,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 585,
+      "count": 586,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -2101,7 +2101,8 @@
         "2026-08-22",
         "2026-08-23",
         "2026-08-24",
-        "2026-08-26"
+        "2026-08-26",
+        "2026-08-31"
       ]
     },
     "model agnostic abstractions": {
@@ -9001,7 +9002,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 39,
+      "count": 40,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -24597,7 +24598,7 @@
       ]
     },
     "turn one's television": {
-      "count": 219,
+      "count": 220,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -28701,7 +28702,7 @@
       ]
     },
     "manchester airports group": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-30",
         "2026-08-31"
@@ -28727,13 +28728,13 @@
       ]
     },
     "securing claude code": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
     },
     "statement released today": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
@@ -28745,25 +28746,25 @@
       ]
     },
     "boring parts caused": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
     },
     "ongoing insider threat": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
     },
     "router shipped ready": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
     },
     "managing access securely": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
@@ -28775,12 +28776,42 @@
       ]
     },
     "valleyrat backdoor disguised": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-08-31"
       ]
     },
     "sophisticated cybercrime syndicate": {
+      "count": 2,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "cronos blockchain network": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "powershell instead increasing": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "fake check turned": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "borrow 74 million": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "sophisticated multistage attack": {
       "count": 1,
       "dates": [
         "2026-08-31"
@@ -28788,17 +28819,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 00:54",
-      "articles": 48,
-      "top_keywords": [
-        "943 patches rolled",
-        "suspected ransomware affiliate",
-        "twitter whistleblower complaint",
-        "sales management system",
-        "openai confirms chatgpt"
-      ]
-    },
     {
       "timestamp": "2026-08-20 02:51",
       "articles": 48,
@@ -29886,6 +29906,17 @@
         "shinyhunters extortion group",
         "statement released today",
         "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-08-31 23:33",
+      "articles": 48,
+      "top_keywords": [
+        "cronos blockchain network",
+        "execute arbitrary code",
+        "securing claude code",
+        "shinyhunters extortion group",
+        "statement released today"
       ]
     }
   ]

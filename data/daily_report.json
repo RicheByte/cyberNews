@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-08-31 18:37",
+  "last_updated": "2026-08-31 23:33",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
+    "cronos blockchain network",
     "execute arbitrary code",
     "securing claude code",
     "shinyhunters extortion group",
     "statement released today",
     "twitter whistleblower complaint",
-    "remain open questions",
+    "powershell instead increasing",
+    "fake check turned",
+    "borrow 74 million",
     "boring parts caused",
+    "sophisticated multistage attack",
     "threat actor known",
-    "ongoing insider threat",
-    "router shipped ready",
-    "manchester airports group",
-    "managing access securely",
-    "sales threat actors",
-    "valleyrat backdoor disguised",
-    "turn one's television",
     "sophisticated cybercrime syndicate",
-    "securing cloud assets",
-    "residential proxy node",
-    "remained walled away",
-    "publicly detailed prior"
+    "router shipped ready",
+    "ongoing insider threat",
+    "managing access securely",
+    "manchester airports group",
+    "sprawling phishing campaign",
+    "valleyrat backdoor disguised",
+    "turn one's television"
   ],
   "trending": [
     {
+      "keyword": "cronos blockchain network",
+      "mentions": 1
+    },
+    {
       "keyword": "execute arbitrary code",
-      "mentions": 151
+      "mentions": 152
     },
     {
       "keyword": "securing claude code",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 39
+      "mentions": 40
     },
     {
       "keyword": "statement released today",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2563
+      "mentions": 2564
     },
     {
-      "keyword": "remain open questions",
+      "keyword": "powershell instead increasing",
+      "mentions": 1
+    },
+    {
+      "keyword": "fake check turned",
+      "mentions": 1
+    },
+    {
+      "keyword": "borrow 74 million",
       "mentions": 1
     },
     {
       "keyword": "boring parts caused",
-      "mentions": 1
-    },
-    {
-      "keyword": "threat actor known",
-      "mentions": 61
-    },
-    {
-      "keyword": "ongoing insider threat",
-      "mentions": 1
-    },
-    {
-      "keyword": "router shipped ready",
-      "mentions": 1
+      "mentions": 2
     }
   ],
   "articles": [
@@ -147,6 +147,26 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
+      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
+      "published": "Mon, 31 Aug 2026 16:47:54 -0400",
+      "value_score": 16,
+      "value_signals": [
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
+      "summary": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
+      "published": "Mon, 31 Aug 2026 14:51:04 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Microsoft Exchange Online outage causes email failures, auth issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
@@ -205,24 +225,6 @@
       "value_signals": [
         "Patch/update ×2"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
-      "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
-      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
-      "published": "Mon, 31 Aug 2026 05:22:47 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
-      "summary": "Microsoft asked customers this week to ignore alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
-      "published": "Mon, 31 Aug 2026 04:29:42 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -306,6 +308,24 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Anthropic Users Hit by Infostealer Attacks, Session Thefts",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts",
+      "summary": "A threat actor used a variety of infostealers to collect session information and access Claude accounts belonging to an unknown number of users.",
+      "published": "Mon, 31 Aug 2026 21:08:46 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
+      "title": "'TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks",
+      "link": "https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks",
+      "summary": "The ClickFix-style campaign features a sophisticated, multistage attack chain that includes reverse tunnels into victim organizations' networks.",
+      "published": "Mon, 31 Aug 2026 20:25:36 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Model Rules Are Not Security Controls",
       "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
       "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
@@ -355,24 +375,6 @@
       "link": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
       "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
       "published": "Fri, 28 Aug 2026 14:00:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Defining an AI Kill Switch Is Hard, but Necessary",
-      "link": "https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary",
-      "summary": "Proposed legislation could mandate that companies be able to \"throttle, suspend, or shut ... down\" AI agents, but how and when to do that remain open questions.",
-      "published": "Fri, 28 Aug 2026 13:30:00 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "The Vulnpocalypse Is Repricing the Bug Bounty Economy",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy",
-      "summary": "The surge in AI-powered vulnerability reports is driving down bug bounty prices, and that could spell trouble for independent researchers.",
-      "published": "Fri, 28 Aug 2026 13:00:00 GMT",
       "value_score": 10,
       "value_signals": []
     },

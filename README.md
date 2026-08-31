@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-31 10:22 UTC |
+| 🕐 Last Updated | 2026-08-31 18:37 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`authentication bypass flaw` • `game giant earlier` • `rhysida ransomware group` • `software giant fixed` • `extortion attempt following` • `twitter whistleblower complaint` • `steal nuclear records` • `manchester airports group` • `software almost triple` • `need cyber deception`
+`execute arbitrary code` • `securing claude code` • `shinyhunters extortion group` • `statement released today` • `twitter whistleblower complaint` • `remain open questions` • `boring parts caused` • `threat actor known` • `ongoing insider threat` • `router shipped ready`
 
 ## 📄 Reports
 

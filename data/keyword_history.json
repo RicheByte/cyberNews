@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2562,
+      "count": 2563,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -712,7 +712,7 @@
       ]
     },
     "threat actor known": {
-      "count": 60,
+      "count": 61,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -727,7 +727,8 @@
         "2026-07-02",
         "2026-07-03",
         "2026-08-10",
-        "2026-08-11"
+        "2026-08-11",
+        "2026-08-31"
       ]
     },
     "firefox web browser": {
@@ -1042,7 +1043,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 150,
+      "count": 151,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1072,7 +1073,8 @@
         "2026-08-17",
         "2026-08-18",
         "2026-08-26",
-        "2026-08-27"
+        "2026-08-27",
+        "2026-08-31"
       ]
     },
     "france arrests latvian": {
@@ -8999,7 +9001,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 38,
+      "count": 39,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -9010,7 +9012,8 @@
         "2026-07-25",
         "2026-07-26",
         "2026-07-27",
-        "2026-08-27"
+        "2026-08-27",
+        "2026-08-31"
       ]
     },
     "delivers valuable data": {
@@ -24258,7 +24261,7 @@
       ]
     },
     "residential proxy node": {
-      "count": 195,
+      "count": 196,
       "dates": [
         "2026-07-22",
         "2026-07-23",
@@ -24594,7 +24597,7 @@
       ]
     },
     "turn one's television": {
-      "count": 218,
+      "count": 219,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26950,7 +26953,7 @@
       ]
     },
     "publicly detailed prior": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-08-12",
         "2026-08-13",
@@ -26963,7 +26966,8 @@
         "2026-08-20",
         "2026-08-21",
         "2026-08-24",
-        "2026-08-30"
+        "2026-08-30",
+        "2026-08-31"
       ]
     },
     "target critical infrastructure": {
@@ -27198,7 +27202,7 @@
       ]
     },
     "remained walled away": {
-      "count": 61,
+      "count": 62,
       "dates": [
         "2026-08-14",
         "2026-08-15",
@@ -27209,7 +27213,8 @@
         "2026-08-22",
         "2026-08-24",
         "2026-08-26",
-        "2026-08-30"
+        "2026-08-30",
+        "2026-08-31"
       ]
     },
     "ai agent control": {
@@ -28676,7 +28681,7 @@
       ]
     },
     "securing cloud assets": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-29",
         "2026-08-31"
@@ -28696,7 +28701,7 @@
       ]
     },
     "manchester airports group": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-30",
         "2026-08-31"
@@ -28720,20 +28725,69 @@
       "dates": [
         "2026-08-31"
       ]
+    },
+    "securing claude code": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "statement released today": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "remain open questions": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "boring parts caused": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "ongoing insider threat": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "router shipped ready": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "managing access securely": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "sales threat actors": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "valleyrat backdoor disguised": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
+    },
+    "sophisticated cybercrime syndicate": {
+      "count": 1,
+      "dates": [
+        "2026-08-31"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-19 22:18",
-      "articles": 48,
-      "top_keywords": [
-        "943 patches rolled",
-        "suspected ransomware affiliate",
-        "twitter whistleblower complaint",
-        "sales management system",
-        "login flows unprotected"
-      ]
-    },
     {
       "timestamp": "2026-08-20 00:54",
       "articles": 48,
@@ -29821,6 +29875,17 @@
         "rhysida ransomware group",
         "software giant fixed",
         "extortion attempt following"
+      ]
+    },
+    {
+      "timestamp": "2026-08-31 18:37",
+      "articles": 48,
+      "top_keywords": [
+        "execute arbitrary code",
+        "securing claude code",
+        "shinyhunters extortion group",
+        "statement released today",
+        "twitter whistleblower complaint"
       ]
     }
   ]

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-08-31 10:22 UTC  
+> **Last Updated:** 2026-08-31 18:37 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**authentication bypass flaw** • **game giant earlier** • **rhysida ransomware group** • **software giant fixed** • **extortion attempt following** • **twitter whistleblower complaint** • **steal nuclear records** • **manchester airports group** • **software almost triple** • **need cyber deception** • **boost cyber defenses** • **secure ai strategy** • **national security risk** • **data fulcrumsec claims** • **ai kill switch** • **travel information beyond** • **turn one's television** • **third party applications** • **securing cloud assets** • **residential proxy node**
+**execute arbitrary code** • **securing claude code** • **shinyhunters extortion group** • **statement released today** • **twitter whistleblower complaint** • **remain open questions** • **boring parts caused** • **threat actor known** • **ongoing insider threat** • **router shipped ready** • **manchester airports group** • **managing access securely** • **sales threat actors** • **valleyrat backdoor disguised** • **turn one's television** • **sophisticated cybercrime syndicate** • **securing cloud assets** • **residential proxy node** • **remained walled away** • **publicly detailed prior**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
+- [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
+- [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
+- [Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
+- [Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)
+- [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)
 - [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
 - [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
-- [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html)
-- [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html)
-- [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html)
-- [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html)
-- [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html)
-- [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html)
 
 ### BleepingComputer
 
+- [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+- [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
+- [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
+- [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
+- [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
+- [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
 - [Nigerians extradited to US for sextortion, deaths of two teens](https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/)
 - [Microsoft asks users to ignore 'Antivirus is turned off' errors](https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/)
-- [FulcrumSec claims Manchester Airports hack, theft of 86 GB of data](https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/)
-- [Anthropic warns infostealer malware is hijacking Claude sessions to drain usage](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/)
-- [Chrome Web Store extensions caught stealing crypto, browser data](https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/)
-- [Anthropic is cutting Claude Code's current weekly limits by 17%](https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/)
-- [Brave browser adds email aliases to help users evade tracking](https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/)
-- [McKesson discloses breach after ShinyHunters claims patient data theft](https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [AI Model Rules Are Not Security Controls](https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control)
 - [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
 - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
 - [[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI](https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026)
@@ -56,18 +57,17 @@
 - [You Need Cyber Deception for OT](https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot)
 - [Defining an AI Kill Switch Is Hard, but Necessary](https://www.darkreading.com/cybersecurity-operations/defining-ai-kill-switch-hard-but-necessary)
 - [The Vulnpocalypse Is Repricing the Bug Bounty Economy](https://www.darkreading.com/vulnerabilities-threats/vulnpocalypse-repricing-bug-bounty-economy)
-- [Chinese Routers Sold Worldwide Contain Backdoors](https://www.darkreading.com/vulnerabilities-threats/chinese-routers-sold-worldwide-backdoors)
 
 ### Security Week
 
-- [Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’](https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/)
-- [Berlin Won’t Pay Extortion Group Claiming Data Theft](https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/)
-- [More Details Emerge on Exploited PaperCut Vulnerabilities](https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/)
-- [Hasbro Data Breach Exposed Employee Personal Information](https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/)
-- [In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions](https://www.securityweek.com/in-other-news-log4j-rce-scare-minimus-shutdown-iranian-hacker-sanctions/)
-- [ATF Confirms Cyber Incident After Ransomware Group Claims Attack](https://www.securityweek.com/atf-confirms-cyber-incident-after-ransomware-group-claims-attack/)
-- [OpenAI Agents Exploited Linux Kernel Flaw on Company’s Own Systems](https://www.securityweek.com/openai-agents-exploited-linux-kernel-flaw-on-companys-own-systems/)
-- [Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge](https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/)
+- [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
+- [ServiceNow Patches 3 Critical Code Injection Vulnerabilities](https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/)
+- [McKesson Confirms Data Breach as Attacker Deadline Looms](https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/)
+- [What the Hugging Face Incident Teaches Security Leaders About AI Agent Access](https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/)
+- [Anthropic Warns Claude Users of Infostealer Malware Infections](https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/)
+- [Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/)
+- [Boston Scientific Still Recovering From Cyberattack](https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/)
+- [Extortion Group Claims Manchester Airports Group Data Breach](https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/)
 
 ### Threatpost
 

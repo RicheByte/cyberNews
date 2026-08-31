@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-08-31 03:03 UTC |
+| 🕐 Last Updated | 2026-08-31 10:22 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`authentication bypass flaw` • `software giant fixed` • `trump order aims` • `fresh emergency fix` • `extortion attempt following` • `twitter whistleblower complaint` • `steal nuclear records` • `software almost triple` • `manchester airports group` • `cryptocurrency draining capabilities`
+`authentication bypass flaw` • `game giant earlier` • `rhysida ransomware group` • `software giant fixed` • `extortion attempt following` • `twitter whistleblower complaint` • `steal nuclear records` • `manchester airports group` • `software almost triple` • `need cyber deception`
 
 ## 📄 Reports
 

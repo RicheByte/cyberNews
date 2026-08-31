@@ -1,72 +1,81 @@
 {
-  "last_updated": "2026-08-31 03:03",
+  "last_updated": "2026-08-31 10:22",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
     "authentication bypass flaw",
+    "game giant earlier",
+    "rhysida ransomware group",
     "software giant fixed",
-    "trump order aims",
-    "fresh emergency fix",
     "extortion attempt following",
     "twitter whistleblower complaint",
     "steal nuclear records",
-    "software almost triple",
     "manchester airports group",
-    "cryptocurrency draining capabilities",
-    "secure ai strategy",
-    "game giant earlier",
-    "ai kill switch",
-    "national security risk",
+    "software almost triple",
     "need cyber deception",
-    "industrial control systems",
-    "cyber sabotage concerns",
     "boost cyber defenses",
-    "network providers google",
-    "data fulcrumsec claims"
+    "secure ai strategy",
+    "national security risk",
+    "data fulcrumsec claims",
+    "ai kill switch",
+    "travel information beyond",
+    "turn one's television",
+    "third party applications",
+    "securing cloud assets",
+    "residential proxy node"
   ],
   "trending": [
     {
       "keyword": "authentication bypass flaw",
-      "mentions": 45
+      "mentions": 46
+    },
+    {
+      "keyword": "game giant earlier",
+      "mentions": 7
+    },
+    {
+      "keyword": "rhysida ransomware group",
+      "mentions": 1
     },
     {
       "keyword": "software giant fixed",
-      "mentions": 197
-    },
-    {
-      "keyword": "trump order aims",
-      "mentions": 14
-    },
-    {
-      "keyword": "fresh emergency fix",
-      "mentions": 11
+      "mentions": 198
     },
     {
       "keyword": "extortion attempt following",
-      "mentions": 11
+      "mentions": 12
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2561
+      "mentions": 2562
     },
     {
       "keyword": "steal nuclear records",
-      "mentions": 11
-    },
-    {
-      "keyword": "software almost triple",
-      "mentions": 173
+      "mentions": 12
     },
     {
       "keyword": "manchester airports group",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "cryptocurrency draining capabilities",
-      "mentions": 5
+      "keyword": "software almost triple",
+      "mentions": 174
+    },
+    {
+      "keyword": "need cyber deception",
+      "mentions": 12
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
+      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
+      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted. Last week, the DoJ said the National Aeronautics and Space Administration, Federal Reserve, Department of Energy, Department of Justice, Department",
+      "published": "Mon, 31 Aug 2026 13:26:53 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
@@ -149,11 +158,20 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "19 Chrome and Edge Extensions Found With Wallet-Stealing and Crypto-Draining Code",
-      "link": "https://thehackernews.com/2026/08/19-chrome-and-edge-extensions-found.html",
-      "summary": "Cybersecurity researchers have discovered a cluster of 18 Google Chrome and one Microsoft Edge extensions that were published over the last six months and harbored wallet secret stealing and cryptocurrency draining capabilities. The extensions, per Socket security researcher Karlo Zanki, share similarities in code and tradecraft, with evidence indicating that the campaign may have been active",
-      "published": "Fri, 28 Aug 2026 20:57:26 +0530",
+      "source": "BleepingComputer",
+      "title": "Nigerians extradited to US for sextortion, deaths of two teens",
+      "link": "https://www.bleepingcomputer.com/news/security/nigerians-charged-US-over-sextortion-deaths-of-us-teens/",
+      "summary": "Two Nigerian men extradited to the U.S. on Thursday have been charged with involvement in sextortion schemes that resulted in the deaths of two minor victims in Mississippi and North Carolina. [...]",
+      "published": "Mon, 31 Aug 2026 05:22:47 -0400",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Microsoft asks users to ignore 'Antivirus is turned off' errors",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-asks-users-to-ignore-antivirus-is-turned-off-errors/",
+      "summary": "Microsoft asked customers this week to ignore incorrect alerts that Defender Antivirus has been turned off after installing the latest Defender updates. [...]",
+      "published": "Mon, 31 Aug 2026 04:29:42 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -212,28 +230,6 @@
       "value_signals": [
         "Breach/leak"
       ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "PaperCut releases second emergency patch for exploited flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
-      "summary": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
-      "published": "Fri, 28 Aug 2026 15:08:26 -0400",
-      "value_score": 57,
-      "value_signals": [
-        "Active exploitation",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
-      "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
-      "summary": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
-      "published": "Fri, 28 Aug 2026 14:18:55 -0400",
-      "value_score": 10,
-      "value_signals": []
     },
     {
       "source": "Krebs on Security",
@@ -389,6 +385,40 @@
     },
     {
       "source": "Security Week",
+      "title": "Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’",
+      "link": "https://www.securityweek.com/judge-says-pentagons-measures-against-anthropic-were-illegal-and-baseless/",
+      "summary": "The ruling is part of Anthropic's legal battle against the Pentagon after the government labeled the company as a supply chain risk earlier this year. The post Judge Says Pentagon’s Measures Against Anthropic Were ‘Illegal and Baseless’ appeared first on SecurityWeek .",
+      "published": "Mon, 31 Aug 2026 09:07:01 +0000",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Berlin Won’t Pay Extortion Group Claiming Data Theft",
+      "link": "https://www.securityweek.com/berlin-wont-pay-extortion-group-claiming-data-theft/",
+      "summary": "The Rhysida ransomware group has claimed the exfiltration of over 5TB of data, including personal information and credentials. The post Berlin Won’t Pay Extortion Group Claiming Data Theft appeared first on SecurityWeek .",
+      "published": "Mon, 31 Aug 2026 08:49:36 +0000",
+      "value_score": 28,
+      "value_signals": [
+        "Ransomware"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "More Details Emerge on Exploited PaperCut Vulnerabilities",
+      "link": "https://www.securityweek.com/more-details-emerge-on-exploited-papercut-vulnerabilities/",
+      "summary": "PaperCut has released a second emergency patch for the exploited vulnerabilities, which are now tracked as CVE-2026-82078 and CVE-2026-81578. The post More Details Emerge on Exploited PaperCut Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Mon, 31 Aug 2026 06:51:31 +0000",
+      "value_score": 68,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "Patch/update",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Hasbro Data Breach Exposed Employee Personal Information",
       "link": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
       "summary": "A cyberattack caused disruptions at the toy and game giant earlier this year and the company is now disclosing a data breach. The post Hasbro Data Breach Exposed Employee Personal Information appeared first on SecurityWeek .",
@@ -441,37 +471,6 @@
       "link": "https://www.securityweek.com/tech-cybersecurity-giants-unite-behind-openai-led-cyber-defense-pledge/",
       "summary": "Nearly 130 tech and cybersecurity companies back a collective call to boost cyber defenses as AI-enabled attacks grow more sophisticated. The post Tech, Cybersecurity Giants Unite Behind OpenAI-Led Cyber Defense Pledge appeared first on SecurityWeek .",
       "published": "Fri, 28 Aug 2026 11:01:22 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says",
-      "link": "https://www.securityweek.com/think-youve-eliminated-chinese-ai-check-the-models-lineage-cisco-says/",
-      "summary": "New research shows that country-of-origin labels can obscure an AI model’s upstream dependencies, inherited behaviors and potential security risks. The post Think You’ve Eliminated Chinese AI? Check the Model’s Lineage, Cisco Says appeared first on SecurityWeek .",
-      "published": "Fri, 28 Aug 2026 10:30:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "PaperCut Releases Emergency Patch for Exploited Zero-Day",
-      "link": "https://www.securityweek.com/papercut-releases-emergency-patch-for-exploited-zero-day/",
-      "summary": "A CVE identifier has not yet been assigned, but PaperCut is urging NG/MF users to install patches and implement mitigations. The post PaperCut Releases Emergency Patch for Exploited Zero-Day appeared first on SecurityWeek .",
-      "published": "Fri, 28 Aug 2026 08:40:36 +0000",
-      "value_score": 82,
-      "value_signals": [
-        "Zero-day ×2",
-        "Patch/update ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear",
-      "link": "https://www.securityweek.com/trump-order-aims-to-block-foreign-backdoors-in-us-power-grid-gear/",
-      "summary": "The White House’s new executive order 14420 widens scrutiny of industrial control systems over cyber sabotage concerns. The post Trump Order Aims to Block Foreign Backdoors in US Power Grid Gear appeared first on SecurityWeek .",
-      "published": "Thu, 27 Aug 2026 14:17:26 +0000",
       "value_score": 10,
       "value_signals": []
     },

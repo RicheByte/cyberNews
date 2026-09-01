@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2565,
+      "count": 2566,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -713,7 +713,7 @@
       ]
     },
     "threat actor known": {
-      "count": 63,
+      "count": 64,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1045,7 +1045,7 @@
       ]
     },
     "execute arbitrary code": {
-      "count": 153,
+      "count": 154,
       "dates": [
         "2025-12-18",
         "2025-12-19",
@@ -1994,7 +1994,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 587,
+      "count": 588,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -9006,7 +9006,7 @@
       ]
     },
     "shinyhunters extortion group": {
-      "count": 41,
+      "count": 42,
       "dates": [
         "2026-02-24",
         "2026-02-25",
@@ -24603,7 +24603,7 @@
       ]
     },
     "turn one's television": {
-      "count": 221,
+      "count": 222,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -28735,14 +28735,14 @@
       ]
     },
     "securing claude code": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "statement released today": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28762,21 +28762,21 @@
       ]
     },
     "ongoing insider threat": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "router shipped ready": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "managing access securely": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28789,14 +28789,14 @@
       ]
     },
     "valleyrat backdoor disguised": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28817,39 +28817,52 @@
       ]
     },
     "fake check turned": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "borrow 74 million": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "sophisticated multistage attack": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-08-31",
+        "2026-09-01"
+      ]
+    },
+    "papercut exploitation escalates": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "active intrusions cisa": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "company s systems": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "anthropic users hit": {
+      "count": 1,
+      "dates": [
         "2026-09-01"
       ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 04:30",
-      "articles": 48,
-      "top_keywords": [
-        "943 patches rolled",
-        "suspected ransomware affiliate",
-        "twitter whistleblower complaint",
-        "sales management system",
-        "openai confirms chatgpt"
-      ]
-    },
     {
       "timestamp": "2026-08-20 06:36",
       "articles": 48,
@@ -29937,6 +29950,17 @@
         "securing claude code",
         "shinyhunters extortion group",
         "statement released today"
+      ]
+    },
+    {
+      "timestamp": "2026-09-01 09:05",
+      "articles": 48,
+      "top_keywords": [
+        "execute arbitrary code",
+        "securing claude code",
+        "papercut exploitation escalates",
+        "active intrusions cisa",
+        "sophisticated multistage attack"
       ]
     }
   ]

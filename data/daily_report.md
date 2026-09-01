@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-01 03:10 UTC  
+> **Last Updated:** 2026-09-01 09:05 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**cronos blockchain network** • **execute arbitrary code** • **securing claude code** • **shinyhunters extortion group** • **statement released today** • **twitter whistleblower complaint** • **powershell instead increasing** • **fake check turned** • **borrow 74 million** • **boring parts caused** • **sophisticated multistage attack** • **threat actor known** • **sophisticated cybercrime syndicate** • **router shipped ready** • **ongoing insider threat** • **managing access securely** • **manchester airports group** • **sprawling phishing campaign** • **valleyrat backdoor disguised** • **turn one's television**
+**execute arbitrary code** • **securing claude code** • **papercut exploitation escalates** • **active intrusions cisa** • **sophisticated multistage attack** • **shinyhunters extortion group** • **twitter whistleblower complaint** • **fake check turned** • **borrow 74 million** • **company s systems** • **threat actor known** • **sophisticated cybercrime syndicate** • **router shipped ready** • **ongoing insider threat** • **managing access securely** • **statement released today** • **sprawling phishing campaign** • **anthropic users hit** • **valleyrat backdoor disguised** • **turn one's television**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
+- [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
 - [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
 - [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
 - [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
 - [Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets](https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html)
 - [Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance](https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html)
 - [China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs](https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html)
-- [DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims](https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html)
-- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html)
 
 ### BleepingComputer
 
+- [Recently patched PaperCut zero-days used in data theft attacks](https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/)
 - [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
 - [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
-- [Microsoft Exchange Online outage causes email failures, auth issues](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
+- [Massive Microsoft 365 outage causes auth issues, service failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
 - [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
 - [Chinese Fire Ant hackers turn Cisco routers into spying platforms](https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/)
 - [File servers are here to stay. Here’s how to manage them securely](https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/)
 - [Berlin confirms data theft after Rhysida ransomware attack claims](https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/)
-- [Microsoft says Windows 11 KB5120998 update resets mouse settings](https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/)
 
 ### Krebs on Security
 
@@ -60,14 +60,14 @@
 
 ### Security Week
 
+- [WatchGuard Patches Critical Vulnerabilities](https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/)
+- [PaperCut Exploitation Escalates to Active Intrusions](https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/)
 - [Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit](https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/)
 - [ServiceNow Patches 3 Critical Code Injection Vulnerabilities](https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/)
 - [McKesson Confirms Data Breach as Attacker Deadline Looms](https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/)
 - [What the Hugging Face Incident Teaches Security Leaders About AI Agent Access](https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/)
 - [Anthropic Warns Claude Users of Infostealer Malware Infections](https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/)
 - [Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs](https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/)
-- [Boston Scientific Still Recovering From Cyberattack](https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/)
-- [Extortion Group Claims Manchester Airports Group Data Breach](https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/)
 
 ### Threatpost
 

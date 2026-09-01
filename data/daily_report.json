@@ -1,72 +1,95 @@
 {
-  "last_updated": "2026-09-01 03:10",
+  "last_updated": "2026-09-01 09:05",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "cronos blockchain network",
     "execute arbitrary code",
     "securing claude code",
+    "papercut exploitation escalates",
+    "active intrusions cisa",
+    "sophisticated multistage attack",
     "shinyhunters extortion group",
-    "statement released today",
     "twitter whistleblower complaint",
-    "powershell instead increasing",
     "fake check turned",
     "borrow 74 million",
-    "boring parts caused",
-    "sophisticated multistage attack",
+    "company s systems",
     "threat actor known",
     "sophisticated cybercrime syndicate",
     "router shipped ready",
     "ongoing insider threat",
     "managing access securely",
-    "manchester airports group",
+    "statement released today",
     "sprawling phishing campaign",
+    "anthropic users hit",
     "valleyrat backdoor disguised",
     "turn one's television"
   ],
   "trending": [
     {
-      "keyword": "cronos blockchain network",
-      "mentions": 2
-    },
-    {
       "keyword": "execute arbitrary code",
-      "mentions": 153
+      "mentions": 154
     },
     {
       "keyword": "securing claude code",
+      "mentions": 4
+    },
+    {
+      "keyword": "papercut exploitation escalates",
+      "mentions": 1
+    },
+    {
+      "keyword": "active intrusions cisa",
+      "mentions": 1
+    },
+    {
+      "keyword": "sophisticated multistage attack",
       "mentions": 3
     },
     {
       "keyword": "shinyhunters extortion group",
-      "mentions": 41
-    },
-    {
-      "keyword": "statement released today",
-      "mentions": 3
+      "mentions": 42
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2565
-    },
-    {
-      "keyword": "powershell instead increasing",
-      "mentions": 2
+      "mentions": 2566
     },
     {
       "keyword": "fake check turned",
-      "mentions": 2
+      "mentions": 3
     },
     {
       "keyword": "borrow 74 million",
-      "mentions": 2
+      "mentions": 3
     },
     {
-      "keyword": "boring parts caused",
-      "mentions": 3
+      "keyword": "company s systems",
+      "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+      "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+      "summary": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted analysis. The idea, ESET said in a series of posts on X, is to deliberately trip a large language model's (LLM) safety mechanisms and prevent its",
+      "published": "Tue, 01 Sep 2026 13:56:24 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+      "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+      "summary": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck. The vulnerabilities in question are listed below - CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a user-supplied input vulnerability that could be exploited to execute arbitrary Python code in the context of the root user. CVE-2026-66066 aka",
+      "published": "Tue, 01 Sep 2026 12:52:30 +0530",
+      "value_score": 76,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "High severity ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
     {
       "source": "The Hacker News",
       "title": "North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales",
@@ -126,23 +149,14 @@
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-      "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-      "summary": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted. Last week, the DoJ said the National Aeronautics and Space Administration, Federal Reserve, Department of Energy, Department of Justice, Department",
-      "published": "Mon, 31 Aug 2026 13:26:53 +0530",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "The Hacker News",
-      "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
-      "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
-      "summary": "Microsoft has disclosed details of a new ClickFix variant, dubbed TerminalFix, that aims to trick users into running a malicious command in Windows Terminal or PowerShell. \"While traditional ClickFix campaigns direct victims to the Windows Run dialog, TerminalFix campaigns apply the same technique but direct users to Windows Terminal or PowerShell instead, increasing the likelihood that complex",
-      "published": "Sun, 30 Aug 2026 13:06:33 +0530",
-      "value_score": 22,
+      "source": "BleepingComputer",
+      "title": "Recently patched PaperCut zero-days used in data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+      "published": "Tue, 01 Sep 2026 03:48:24 -0400",
+      "value_score": 16,
       "value_signals": [
-        "Backdoor"
+        "Exploit wording"
       ]
     },
     {
@@ -167,7 +181,7 @@
     },
     {
       "source": "BleepingComputer",
-      "title": "Microsoft Exchange Online outage causes email failures, auth issues",
+      "title": "Massive Microsoft 365 outage causes auth issues, service failures",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
       "summary": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
       "published": "Mon, 31 Aug 2026 12:56:57 -0400",
@@ -213,17 +227,6 @@
       "value_signals": [
         "Ransomware ×2",
         "Breach/leak"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Microsoft says Windows 11 KB5120998 update resets mouse settings",
-      "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-windows-11-kb5120998-update-resets-mouse-settings/",
-      "summary": "Microsoft has confirmed that mouse settings are being reverted on Windows 11 systems after installing the KB5120998 August 2026 non-security preview update. [...]",
-      "published": "Mon, 31 Aug 2026 06:23:46 -0400",
-      "value_score": 26,
-      "value_signals": [
-        "Patch/update ×2"
       ]
     },
     {
@@ -380,6 +383,31 @@
     },
     {
       "source": "Security Week",
+      "title": "WatchGuard Patches Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/",
+      "summary": "Three critical issues in the Fireware OS iked process could allow unauthenticated attackers to execute arbitrary code remotely. The post WatchGuard Patches Critical Vulnerabilities appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 08:50:04 +0000",
+      "value_score": 26,
+      "value_signals": [
+        "High severity ×3"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "PaperCut Exploitation Escalates to Active Intrusions",
+      "link": "https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/",
+      "summary": "CISA has added the vulnerabilities tracked as CVE-2026-82078 and CVE-2026-81578 to its KEV catalog. The post PaperCut Exploitation Escalates to Active Intrusions appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 05:27:18 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned ×2",
+        "CISA/KEV ×2",
+        "Multiple CVEs",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
       "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
       "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
       "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek .",
@@ -439,26 +467,6 @@
       "value_score": 26,
       "value_signals": [
         "High severity ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Boston Scientific Still Recovering From Cyberattack",
-      "link": "https://www.securityweek.com/boston-scientific-still-recovering-from-cyberattack/",
-      "summary": "The company has called in CrowdStrike and others to investigate the attack that caused global network disruption. The post Boston Scientific Still Recovering From Cyberattack appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 10:50:57 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Extortion Group Claims Manchester Airports Group Data Breach",
-      "link": "https://www.securityweek.com/extortion-group-claims-manchester-airports-group-data-breach/",
-      "summary": "FulcrumSec says it stole over 80 GB of data from Manchester Airports Group and plans to leak it online. The post Extortion Group Claims Manchester Airports Group Data Breach appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 10:29:10 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×3"
       ]
     },
     {

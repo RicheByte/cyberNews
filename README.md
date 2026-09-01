@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-01 14:27 UTC |
+| 🕐 Last Updated | 2026-09-01 19:08 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`active intrusions cisa` • `sophisticated multistage attack` • `borrow 74 million` • `vulnerability discoveries aided` • `twitter whistleblower complaint` • `resumed trading activity` • `post experiment porting` • `papercut exploitation escalates` • `need strong controls` • `longest running spree`
+`sophisticated multistage attack` • `borrow 74 million` • `external actors attempted` • `unpatched ios devices` • `twitter whistleblower complaint` • `resumed trading activity` • `need strong controls` • `comic streaming sites` • `campaign uses etherhiding` • `disclosure threat actors`
 
 ## 📄 Reports
 

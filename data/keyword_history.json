@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2567,
+      "count": 2568,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1244,7 +1244,7 @@
       ]
     },
     "national security risk": {
-      "count": 442,
+      "count": 443,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -22335,9 +22335,10 @@
       ]
     },
     "disclosure threat actors": {
-      "count": 2,
+      "count": 3,
       "dates": [
-        "2026-07-07"
+        "2026-07-07",
+        "2026-09-01"
       ]
     },
     "windows settings backup": {
@@ -23330,7 +23331,7 @@
       ]
     },
     "software almost triple": {
-      "count": 174,
+      "count": 175,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23362,7 +23363,8 @@
         "2026-08-28",
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-01"
       ]
     },
     "spanish police dismantled": {
@@ -23412,7 +23414,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 198,
+      "count": 199,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -23446,7 +23448,8 @@
         "2026-08-28",
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-01"
       ]
     },
     "windows bind links": {
@@ -24605,7 +24608,7 @@
       ]
     },
     "turn one's television": {
-      "count": 222,
+      "count": 223,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -28745,7 +28748,7 @@
       ]
     },
     "statement released today": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28799,7 +28802,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 5,
+      "count": 6,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28827,14 +28830,14 @@
       ]
     },
     "borrow 74 million": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "sophisticated multistage attack": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28865,7 +28868,7 @@
       ]
     },
     "resumed trading activity": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
@@ -28877,7 +28880,7 @@
       ]
     },
     "need strong controls": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
@@ -28889,13 +28892,13 @@
       ]
     },
     "external actors attempted": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "ai takes hours": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
@@ -28905,20 +28908,45 @@
       "dates": [
         "2026-09-01"
       ]
+    },
+    "unpatched ios devices": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "comic streaming sites": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "campaign uses etherhiding": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "building ai applications": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "web page tells": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "want repeatable ones": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 08:30",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 19478",
-        "windows operating systems",
-        "august 2026 updates",
-        "943 patches rolled",
-        "suspected ransomware affiliate"
-      ]
-    },
     {
       "timestamp": "2026-08-20 10:23",
       "articles": 48,
@@ -30005,6 +30033,17 @@
         "sophisticated multistage attack",
         "borrow 74 million",
         "vulnerability discoveries aided",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-01 19:08",
+      "articles": 48,
+      "top_keywords": [
+        "sophisticated multistage attack",
+        "borrow 74 million",
+        "external actors attempted",
+        "unpatched ios devices",
         "twitter whistleblower complaint"
       ]
     }

@@ -1,6 +1,6 @@
 # 🛡️ Daily Cyber Security Intelligence
 
-> **Last Updated:** 2026-09-01 14:27 UTC  
+> **Last Updated:** 2026-09-01 19:08 UTC  
 > **Sources Monitored:** 8  
 > **Articles Analyzed:** 48
 
@@ -8,7 +8,7 @@
 
 ## 🔥 Rising Topics & Keywords
 
-**active intrusions cisa** • **sophisticated multistage attack** • **borrow 74 million** • **vulnerability discoveries aided** • **twitter whistleblower complaint** • **resumed trading activity** • **post experiment porting** • **papercut exploitation escalates** • **need strong controls** • **longest running spree** • **fake check turned** • **external actors attempted** • **sophisticated cybercrime syndicate** • **secure ai strategy** • **national security risk** • **ai takes hours** • **ai agent decided** • **statement released today** • **sprawling phishing campaign** • **threat actor known**
+**sophisticated multistage attack** • **borrow 74 million** • **external actors attempted** • **unpatched ios devices** • **twitter whistleblower complaint** • **resumed trading activity** • **need strong controls** • **comic streaming sites** • **campaign uses etherhiding** • **disclosure threat actors** • **sophisticated cybercrime syndicate** • **national security risk** • **software giant fixed** • **software almost triple** • **statement released today** • **building ai applications** • **ai takes hours** • **web page tells** • **want repeatable ones** • **turn one's television**
 
 ---
 
@@ -16,25 +16,25 @@
 
 ### The Hacker News
 
+- [Attackers Exploit Critical JFrog Artifactory Flaw to Mint Admin Tokens Days After Disclosure](https://thehackernews.com/2026/09/attackers-exploit-critical-jfrog.html)
+- [Breeze Comet Executes Hundreds of Fraudulent Transactions via Brazilian Payment Systems](https://thehackernews.com/2026/09/breeze-comet-executes-hundreds-of.html)
+- [13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds](https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html)
 - [Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests](https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html)
 - [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html)
 - [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html)
 - [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html)
 - [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html)
-- [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html)
-- [⚡ Weekly Recap: Chinese Spy Proxy, AI Agents Go Off-Task, Router Backdoors and More](https://thehackernews.com/2026/08/weekly-recap-chinese-spy-proxy-ai.html)
-- [ValleyRAT Backdoor Hides in Signed Adware That Users Add to Antivirus Exclusions](https://thehackernews.com/2026/08/valleyrat-backdoor-hides-in-signed.html)
 
 ### BleepingComputer
 
+- [Critical Langflow flaw exploited to steal OpenAI and AWS keys](https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/)
+- [Hackers push malicious Virtualizor update in BGP hijacking attack](https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/)
+- [Novocure data breach affects more than 1,400 cancer patients](https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/)
 - [Why Even the Best Edge Security Still Misses High-Risk Sessions](https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/)
 - [Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks](https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/)
 - [Five Venezuelans plead guilty to ATM jackpotting attacks in US](https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/)
 - [Recently patched PaperCut zero-days used in data theft attacks](https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/)
 - [Cronos blockchain restarts after $74 million Tectonic exploit](https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/)
-- [Microsoft warns of TerminalFix attacks deploying reverse tunnels](https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/)
-- [Massive Microsoft 365 outage causes auth issues, service failures](https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/)
-- [OpenAI confirms ChatGPT outage as users report errors](https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/)
 
 ### Krebs on Security
 
@@ -49,6 +49,7 @@
 
 ### Dark Reading
 
+- [ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain](https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain)
 - [Anthropic Users Hit by Infostealer Attacks, Session Thefts](https://www.darkreading.com/cyberattacks-data-breaches/anthropic-users-infostealer-attacks-session-thefts)
 - ['TerminalFix' Campaign Weaponizes PowerShell for Enterprise Attacks](https://www.darkreading.com/threat-intelligence/terminalfix-campaign-weaponizes-powershell-enterprise-attacks)
 - [The Guardrails Debate: Security Researcher Changes His Mind](https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind)
@@ -56,18 +57,17 @@
 - [Hundreds of OpenAI Agents Invaded Hugging Face Servers](https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers)
 - [Offensive Security Investments Surge as AI Threats Increase](https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase)
 - [[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI](https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026)
-- [[Virtual Event] Building a Secure AI Strategy for the Enterprise](https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026)
 
 ### Security Week
 
+- [Sevii Targets AI-Speed Attacks With Preemptive Autonomous Defense](https://www.securityweek.com/sevii-targets-ai-speed-attacks-with-preemptive-autonomous-defense/)
+- [Coast Guard Establishes Office of Maritime Cybersecurity Policy](https://www.securityweek.com/coast-guard-establishes-office-of-maritime-cybersecurity-policy/)
 - [Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars](https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/)
 - [Hackers Start Exploiting Critical Langflow Vulnerability](https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/)
 - [Five Venezuelans Plead Guilty in US Court to ATM Jackpotting](https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/)
 - [Ransomware Gang Claims Nutex Health Data Breach](https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/)
 - [Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild](https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/)
 - [9.5 Million Impacted by Aesto Health Data Breach](https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/)
-- [WatchGuard Patches Critical Vulnerabilities](https://www.securityweek.com/watchguard-patches-critical-vulnerabilities/)
-- [PaperCut Exploitation Escalates to Active Intrusions](https://www.securityweek.com/papercut-exploitation-escalates-to-active-intrusions/)
 
 ### Threatpost
 

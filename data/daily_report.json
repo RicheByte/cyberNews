@@ -1,69 +1,69 @@
 {
-  "last_updated": "2026-09-01 19:08",
+  "last_updated": "2026-09-01 22:18",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "sophisticated multistage attack",
-    "borrow 74 million",
+    "gain unauthorized access",
     "external actors attempted",
+    "enables bad actors",
     "unpatched ios devices",
     "twitter whistleblower complaint",
-    "resumed trading activity",
-    "need strong controls",
+    "sprawling phishing campaign",
+    "sophisticated cybercrime syndicate",
     "comic streaming sites",
     "campaign uses etherhiding",
-    "disclosure threat actors",
-    "sophisticated cybercrime syndicate",
-    "national security risk",
     "software giant fixed",
     "software almost triple",
-    "statement released today",
     "building ai applications",
     "ai takes hours",
+    "disclosure threat actors",
+    "statement released today",
     "web page tells",
     "want repeatable ones",
-    "turn one's television"
+    "turn one's television",
+    "text history records",
+    "steal credentials tokens"
   ],
   "trending": [
     {
-      "keyword": "sophisticated multistage attack",
-      "mentions": 5
-    },
-    {
-      "keyword": "borrow 74 million",
-      "mentions": 5
+      "keyword": "gain unauthorized access",
+      "mentions": 63
     },
     {
       "keyword": "external actors attempted",
-      "mentions": 2
+      "mentions": 3
+    },
+    {
+      "keyword": "enables bad actors",
+      "mentions": 1
     },
     {
       "keyword": "unpatched ios devices",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "twitter whistleblower complaint",
-      "mentions": 2568
+      "mentions": 2569
     },
     {
-      "keyword": "resumed trading activity",
-      "mentions": 2
+      "keyword": "sprawling phishing campaign",
+      "mentions": 590
     },
     {
-      "keyword": "need strong controls",
-      "mentions": 2
+      "keyword": "sophisticated cybercrime syndicate",
+      "mentions": 7
     },
     {
       "keyword": "comic streaming sites",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "campaign uses etherhiding",
-      "mentions": 1
+      "mentions": 2
     },
     {
-      "keyword": "disclosure threat actors",
-      "mentions": 3
+      "keyword": "software giant fixed",
+      "mentions": 200
     }
   ],
   "articles": [
@@ -151,6 +151,28 @@
     },
     {
       "source": "BleepingComputer",
+      "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+      "summary": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+      "published": "Tue, 01 Sep 2026 16:53:23 -0400",
+      "value_score": 18,
+      "value_signals": [
+        "Phishing"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Aesto Health says data breach affects over 9.5 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+      "summary": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+      "published": "Tue, 01 Sep 2026 15:28:17 -0400",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
       "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
       "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
       "summary": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
@@ -213,28 +235,6 @@
       "published": "Tue, 01 Sep 2026 05:15:07 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Recently patched PaperCut zero-days used in data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
-      "summary": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
-      "published": "Tue, 01 Sep 2026 03:48:24 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Cronos blockchain restarts after $74 million Tectonic exploit",
-      "link": "https://www.bleepingcomputer.com/news/security/cronos-blockchain-restarts-after-74-million-tectonic-exploit/",
-      "summary": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
-      "published": "Mon, 31 Aug 2026 16:47:54 -0400",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -318,6 +318,52 @@
     },
     {
       "source": "Dark Reading",
+      "title": "Attackers Pounce on Critical Artifactory Flaw Following Disclosure",
+      "link": "https://www.darkreading.com/application-security/attackers-pounce-critical-artifactory-flaw-disclosure",
+      "summary": "CVE-2026-82329 is an authentication bypass flaw in JFrog's repository manager that enables bad actors to gain admin-level access on affected systems.",
+      "published": "Tue, 01 Sep 2026 21:05:53 GMT",
+      "value_score": 51,
+      "value_signals": [
+        "CVE mentioned",
+        "Auth bypass",
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Stronger Security Drives Ransomware Groups to Recruit From Within",
+      "link": "https://www.darkreading.com/cyber-risk/stronger-security-drives-ransomware-groups-to-recruit-from-within",
+      "summary": "Some security researchers have observed an uptick in insider-assisted ransomware attacks, but malicious insiders pose other threats that cost companies millions.",
+      "published": "Tue, 01 Sep 2026 21:03:19 GMT",
+      "value_score": 46,
+      "value_signals": [
+        "Ransomware ×2"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "Critical Langflow Flaw Exploited as Attacks on AI Platform Rise",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/critical-langflow-flaw-exploited-attacks-rise",
+      "summary": "The attacks targeting CVE-2026-0768 are the latest threat against the low-code AI development platform, which is receiving more attention from adversaries this year.",
+      "published": "Tue, 01 Sep 2026 20:48:52 GMT",
+      "value_score": 42,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Dark Reading",
+      "title": "AI Model Evaluator METR Hit by Credential Theft, Probing",
+      "link": "https://www.darkreading.com/identity-access-management-security/ai-model-evaluator-metr-credential-theft-probing",
+      "summary": "In one attack, threat actors stole an API key that ultimately led to the consumption of $600,000 in public AI model credits for the security nonprofit.",
+      "published": "Tue, 01 Sep 2026 20:13:09 GMT",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "Dark Reading",
       "title": "ClickFix Campaign Compromises 31 Orgs, Abuses Polygon Blockchain",
       "link": "https://www.darkreading.com/endpoint-security/clickfix-campaign-comprises-31-orgs-abuses-polygon-blockchain",
       "summary": "The campaign uses EtherHiding to dynamically update its command-and-control server, abusing the blockchain as an attacker-controlled address book.",
@@ -357,38 +403,11 @@
       ]
     },
     {
-      "source": "Dark Reading",
-      "title": "AI Model Rules Are Not Security Controls",
-      "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
-      "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
-      "published": "Mon, 31 Aug 2026 17:34:26 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
-      "summary": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
-      "published": "Fri, 28 Aug 2026 20:19:22 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "Offensive Security Investments Surge as AI Threats Increase",
-      "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
-      "summary": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
-      "published": "Fri, 28 Aug 2026 18:25:43 GMT",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Dark Reading",
-      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
-      "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
-      "summary": "",
-      "published": "2026-11-12T16:00:00.000Z",
+      "source": "Security Week",
+      "title": "Palo Alto Networks Acquires AI Agent Platform Console",
+      "link": "https://www.securityweek.com/palo-alto-networks-acquires-ai-agent-platform-console/",
+      "summary": "The cybersecurity giant announced the acquisition alongside quarterly results showing a 34% increase in revenue and strong growth in next-generation security ARR. The post Palo Alto Networks Acquires AI Agent Platform Console appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 20:29:42 +0000",
       "value_score": 10,
       "value_signals": []
     },
@@ -469,17 +488,6 @@
         "Auth bypass",
         "High severity ×2",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "9.5 Million Impacted by Aesto Health Data Breach",
-      "link": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
-      "summary": "Hackers stole personal and health information from the healthcare technology company’s AWS infrastructure. The post 9.5 Million Impacted by Aesto Health Data Breach appeared first on SecurityWeek .",
-      "published": "Tue, 01 Sep 2026 09:09:34 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
       ]
     },
     {

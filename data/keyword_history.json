@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2568,
+      "count": 2569,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -1995,7 +1995,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 589,
+      "count": 590,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -9318,7 +9318,7 @@
       ]
     },
     "gain unauthorized access": {
-      "count": 62,
+      "count": 63,
       "dates": [
         "2026-02-26",
         "2026-02-27",
@@ -9327,7 +9327,8 @@
         "2026-03-02",
         "2026-03-03",
         "2026-06-10",
-        "2026-06-11"
+        "2026-06-11",
+        "2026-09-01"
       ]
     },
     "manipulate data sent": {
@@ -22335,7 +22336,7 @@
       ]
     },
     "disclosure threat actors": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-07-07",
         "2026-09-01"
@@ -23331,7 +23332,7 @@
       ]
     },
     "software almost triple": {
-      "count": 175,
+      "count": 176,
       "dates": [
         "2026-07-14",
         "2026-07-15",
@@ -23414,7 +23415,7 @@
       ]
     },
     "software giant fixed": {
-      "count": 199,
+      "count": 200,
       "dates": [
         "2026-07-15",
         "2026-07-17",
@@ -24608,7 +24609,7 @@
       ]
     },
     "turn one's television": {
-      "count": 223,
+      "count": 224,
       "dates": [
         "2026-07-23",
         "2026-07-25",
@@ -26330,7 +26331,7 @@
       ]
     },
     "text history records": {
-      "count": 167,
+      "count": 168,
       "dates": [
         "2026-08-06",
         "2026-08-07",
@@ -26353,7 +26354,8 @@
         "2026-08-25",
         "2026-08-26",
         "2026-08-27",
-        "2026-08-30"
+        "2026-08-30",
+        "2026-09-01"
       ]
     },
     "chatgpt secure sandbox": {
@@ -28748,7 +28750,7 @@
       ]
     },
     "statement released today": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28802,7 +28804,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 6,
+      "count": 7,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28892,13 +28894,13 @@
       ]
     },
     "external actors attempted": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-01"
       ]
     },
     "ai takes hours": {
-      "count": 2,
+      "count": 3,
       "dates": [
         "2026-09-01"
       ]
@@ -28910,36 +28912,48 @@
       ]
     },
     "unpatched ios devices": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "comic streaming sites": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "campaign uses etherhiding": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "building ai applications": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "web page tells": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "want repeatable ones": {
+      "count": 2,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "enables bad actors": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "steal credentials tokens": {
       "count": 1,
       "dates": [
         "2026-09-01"
@@ -28947,17 +28961,6 @@
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 10:23",
-      "articles": 48,
-      "top_keywords": [
-        "cve 2026 19478",
-        "windows operating systems",
-        "august 2026 updates",
-        "suspected ransomware affiliate",
-        "twitter whistleblower complaint"
-      ]
-    },
     {
       "timestamp": "2026-08-20 12:35",
       "articles": 48,
@@ -30043,6 +30046,17 @@
         "sophisticated multistage attack",
         "borrow 74 million",
         "external actors attempted",
+        "unpatched ios devices",
+        "twitter whistleblower complaint"
+      ]
+    },
+    {
+      "timestamp": "2026-09-01 22:18",
+      "articles": 48,
+      "top_keywords": [
+        "gain unauthorized access",
+        "external actors attempted",
+        "enables bad actors",
         "unpatched ios devices",
         "twitter whistleblower complaint"
       ]

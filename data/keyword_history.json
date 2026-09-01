@@ -324,7 +324,7 @@
       ]
     },
     "twitter whistleblower complaint": {
-      "count": 2566,
+      "count": 2567,
       "dates": [
         "2025-12-17",
         "2025-12-18",
@@ -713,7 +713,7 @@
       ]
     },
     "threat actor known": {
-      "count": 64,
+      "count": 65,
       "dates": [
         "2025-12-17",
         "2025-12-30",
@@ -1244,7 +1244,7 @@
       ]
     },
     "national security risk": {
-      "count": 441,
+      "count": 442,
       "dates": [
         "2025-12-19",
         "2026-01-15",
@@ -1323,7 +1323,8 @@
         "2026-08-24",
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-01"
       ]
     },
     "open source millions": {
@@ -1994,7 +1995,7 @@
       ]
     },
     "sprawling phishing campaign": {
-      "count": 588,
+      "count": 589,
       "dates": [
         "2025-12-29",
         "2025-12-30",
@@ -23805,7 +23806,7 @@
       ]
     },
     "vulnerability discoveries aided": {
-      "count": 136,
+      "count": 137,
       "dates": [
         "2026-07-17",
         "2026-07-18",
@@ -23830,7 +23831,8 @@
         "2026-08-19",
         "2026-08-20",
         "2026-08-26",
-        "2026-08-27"
+        "2026-08-27",
+        "2026-09-01"
       ]
     },
     "shodan harvester keeps": {
@@ -28658,11 +28660,12 @@
       ]
     },
     "secure ai strategy": {
-      "count": 11,
+      "count": 12,
       "dates": [
         "2026-08-29",
         "2026-08-30",
-        "2026-08-31"
+        "2026-08-31",
+        "2026-09-01"
       ]
     },
     "industrial control systems": {
@@ -28742,7 +28745,7 @@
       ]
     },
     "statement released today": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28796,7 +28799,7 @@
       ]
     },
     "sophisticated cybercrime syndicate": {
-      "count": 4,
+      "count": 5,
       "dates": [
         "2026-08-31",
         "2026-09-01"
@@ -28817,34 +28820,34 @@
       ]
     },
     "fake check turned": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "borrow 74 million": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "sophisticated multistage attack": {
-      "count": 3,
+      "count": 4,
       "dates": [
         "2026-08-31",
         "2026-09-01"
       ]
     },
     "papercut exploitation escalates": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
     },
     "active intrusions cisa": {
-      "count": 1,
+      "count": 2,
       "dates": [
         "2026-09-01"
       ]
@@ -28860,20 +28863,51 @@
       "dates": [
         "2026-09-01"
       ]
+    },
+    "resumed trading activity": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "post experiment porting": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "need strong controls": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "longest running spree": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "external actors attempted": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "ai takes hours": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
+    },
+    "ai agent decided": {
+      "count": 1,
+      "dates": [
+        "2026-09-01"
+      ]
     }
   },
   "updates": [
-    {
-      "timestamp": "2026-08-20 06:36",
-      "articles": 48,
-      "top_keywords": [
-        "943 patches rolled",
-        "cve 2026 19478",
-        "suspected ransomware affiliate",
-        "ransomware affiliate appears",
-        "p2p cybersecurity researchers"
-      ]
-    },
     {
       "timestamp": "2026-08-20 08:30",
       "articles": 48,
@@ -29961,6 +29995,17 @@
         "papercut exploitation escalates",
         "active intrusions cisa",
         "sophisticated multistage attack"
+      ]
+    },
+    {
+      "timestamp": "2026-09-01 14:27",
+      "articles": 48,
+      "top_keywords": [
+        "active intrusions cisa",
+        "sophisticated multistage attack",
+        "borrow 74 million",
+        "vulnerability discoveries aided",
+        "twitter whistleblower complaint"
       ]
     }
   ]

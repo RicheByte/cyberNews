@@ -1,72 +1,99 @@
 {
-  "last_updated": "2026-09-01 09:05",
+  "last_updated": "2026-09-01 14:27",
   "sources_count": 8,
   "articles_count": 48,
   "keywords": [
-    "execute arbitrary code",
-    "securing claude code",
-    "papercut exploitation escalates",
     "active intrusions cisa",
     "sophisticated multistage attack",
-    "shinyhunters extortion group",
-    "twitter whistleblower complaint",
-    "fake check turned",
     "borrow 74 million",
-    "company s systems",
-    "threat actor known",
+    "vulnerability discoveries aided",
+    "twitter whistleblower complaint",
+    "resumed trading activity",
+    "post experiment porting",
+    "papercut exploitation escalates",
+    "need strong controls",
+    "longest running spree",
+    "fake check turned",
+    "external actors attempted",
     "sophisticated cybercrime syndicate",
-    "router shipped ready",
-    "ongoing insider threat",
-    "managing access securely",
+    "secure ai strategy",
+    "national security risk",
+    "ai takes hours",
+    "ai agent decided",
     "statement released today",
     "sprawling phishing campaign",
-    "anthropic users hit",
-    "valleyrat backdoor disguised",
-    "turn one's television"
+    "threat actor known"
   ],
   "trending": [
     {
-      "keyword": "execute arbitrary code",
-      "mentions": 154
-    },
-    {
-      "keyword": "securing claude code",
-      "mentions": 4
-    },
-    {
-      "keyword": "papercut exploitation escalates",
-      "mentions": 1
-    },
-    {
       "keyword": "active intrusions cisa",
-      "mentions": 1
+      "mentions": 2
     },
     {
       "keyword": "sophisticated multistage attack",
-      "mentions": 3
-    },
-    {
-      "keyword": "shinyhunters extortion group",
-      "mentions": 42
-    },
-    {
-      "keyword": "twitter whistleblower complaint",
-      "mentions": 2566
-    },
-    {
-      "keyword": "fake check turned",
-      "mentions": 3
+      "mentions": 4
     },
     {
       "keyword": "borrow 74 million",
-      "mentions": 3
+      "mentions": 4
     },
     {
-      "keyword": "company s systems",
+      "keyword": "vulnerability discoveries aided",
+      "mentions": 137
+    },
+    {
+      "keyword": "twitter whistleblower complaint",
+      "mentions": 2567
+    },
+    {
+      "keyword": "resumed trading activity",
+      "mentions": 1
+    },
+    {
+      "keyword": "post experiment porting",
+      "mentions": 1
+    },
+    {
+      "keyword": "papercut exploitation escalates",
+      "mentions": 2
+    },
+    {
+      "keyword": "need strong controls",
+      "mentions": 1
+    },
+    {
+      "keyword": "longest running spree",
       "mentions": 1
     }
   ],
   "articles": [
+    {
+      "source": "The Hacker News",
+      "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+      "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+      "summary": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems using cross-platform remote access trojans (RATs) developed using Node.js and JavaScript. Russian cybersecurity company Kaspersky is tracking the",
+      "published": "Tue, 01 Sep 2026 18:38:58 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+      "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+      "summary": "The most common way into a company last year was to ask. A web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and pasting it in. The technique is called ClickFix, and it was the most common initial access method Microsoft’s team observed last year, accounting",
+      "published": "Tue, 01 Sep 2026 17:00:00 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
+    {
+      "source": "The Hacker News",
+      "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+      "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+      "summary": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"two notable security incidents\" where external actors attempted to gain unauthorized access to its systems. No sensitive information is believed to",
+      "published": "Tue, 01 Sep 2026 14:35:30 +0530",
+      "value_score": 10,
+      "value_signals": []
+    },
     {
       "source": "The Hacker News",
       "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
@@ -120,31 +147,31 @@
       ]
     },
     {
-      "source": "The Hacker News",
-      "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-      "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-      "summary": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security. The two independent analyses are based on exposed infrastructure associated with the Russian-speaking cybercrime group, leading to the discovery of its",
-      "published": "Mon, 31 Aug 2026 17:17:24 +0530",
-      "value_score": 46,
-      "value_signals": [
-        "Ransomware ×2"
-      ]
-    },
-    {
-      "source": "The Hacker News",
-      "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-      "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-      "summary": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also expose a larger problem: activity logs alone cannot tell you whether an agent’s access is legitimate. AI has moved from the browser tab to the",
-      "published": "Mon, 31 Aug 2026 17:01:47 +0530",
+      "source": "BleepingComputer",
+      "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+      "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+      "summary": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify risky sessions and make stronger enforcement decisions. [...]",
+      "published": "Tue, 01 Sep 2026 10:01:11 -0400",
       "value_score": 10,
       "value_signals": []
     },
     {
-      "source": "The Hacker News",
-      "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-      "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-      "summary": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts used to route, authenticate, and manage high-value networks. Sygnia, the incident response firm that investigated the intrusion, said the actor",
-      "published": "Mon, 31 Aug 2026 14:34:55 +0530",
+      "source": "BleepingComputer",
+      "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+      "summary": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
+      "published": "Tue, 01 Sep 2026 08:38:35 -0400",
+      "value_score": 25,
+      "value_signals": [
+        "Auth bypass"
+      ]
+    },
+    {
+      "source": "BleepingComputer",
+      "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+      "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+      "summary": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+      "published": "Tue, 01 Sep 2026 05:15:07 -0400",
       "value_score": 10,
       "value_signals": []
     },
@@ -196,38 +223,6 @@
       "published": "Mon, 31 Aug 2026 12:50:50 -0400",
       "value_score": 10,
       "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Chinese Fire Ant hackers turn Cisco routers into spying platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/chinese-fire-ant-hackers-turn-cisco-routers-into-spying-platforms/",
-      "summary": "The researchers discovered Fire Ant's new tactic after finding an active GRE (Generic Routing Encapsulation) tunnel interface on a Cisco IOS XR router that could not be explained by a running configuration or commit history. [...]",
-      "published": "Mon, 31 Aug 2026 10:52:03 -0400",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "File servers are here to stay. Here’s how to manage them securely",
-      "link": "https://www.bleepingcomputer.com/news/security/file-servers-are-here-to-stay-heres-how-to-manage-them-securely/",
-      "summary": "File servers remain a critical part of many IT environments, but managing access securely can become complex as permissions accumulate. tenfold Software outlines five best practices for simplifying file server administration and maintaining least-privilege access. [...]",
-      "published": "Mon, 31 Aug 2026 10:00:10 -0400",
-      "value_score": 18,
-      "value_signals": [
-        "High severity"
-      ]
-    },
-    {
-      "source": "BleepingComputer",
-      "title": "Berlin confirms data theft after Rhysida ransomware attack claims",
-      "link": "https://www.bleepingcomputer.com/news/security/berlin-confirms-data-theft-after-rhysida-ransomware-attack-claims/",
-      "summary": "Berlin's city administration has confirmed that cybercriminals are attempting to extort the city after the Rhysida ransomware gang listed it on their data leak site. [...]",
-      "published": "Mon, 31 Aug 2026 09:30:01 -0400",
-      "value_score": 58,
-      "value_signals": [
-        "Ransomware ×2",
-        "Breach/leak"
-      ]
     },
     {
       "source": "Krebs on Security",
@@ -329,6 +324,17 @@
     },
     {
       "source": "Dark Reading",
+      "title": "The Guardrails Debate: Security Researcher Changes His Mind",
+      "link": "https://www.darkreading.com/cyber-risk/the-guardrails-debate-security-researcher-changes-his-mind",
+      "summary": "While guardrails are critical, as evidenced by recent high-profile incidents, defenders need help staying ahead of attackers who do not play by the rules.",
+      "published": "Mon, 31 Aug 2026 20:09:24 GMT",
+      "value_score": 18,
+      "value_signals": [
+        "High severity"
+      ]
+    },
+    {
+      "source": "Dark Reading",
       "title": "AI Model Rules Are Not Security Controls",
       "link": "https://www.darkreading.com/cyber-risk/model-knowing-rules-is-not-security-control",
       "summary": "OpenAI's Hugging Face attack postmortem shows agents don't care about rules — they need strong controls.",
@@ -373,13 +379,76 @@
       "value_signals": []
     },
     {
-      "source": "Dark Reading",
-      "title": "You Need Cyber Deception for OT",
-      "link": "https://www.darkreading.com/ics-ot-security/you-need-cyber-deception-ot",
-      "summary": "The frustrating reality after an OT cyberattack: no data, no trail, and no history.",
-      "published": "Fri, 28 Aug 2026 14:00:00 GMT",
+      "source": "Security Week",
+      "title": "Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars",
+      "link": "https://www.securityweek.com/experiment-porting-a-plc-exploit-with-ai-takes-hours-and-hundreds-of-dollars/",
+      "summary": "Forescout researchers used Claude AI to port a remote code execution exploit between WAGO PLC models. The post Experiment: Porting a PLC Exploit With AI Takes Hours and Hundreds of Dollars appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 12:37:15 +0000",
+      "value_score": 36,
+      "value_signals": [
+        "RCE",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Hackers Start Exploiting Critical Langflow Vulnerability",
+      "link": "https://www.securityweek.com/hackers-start-exploiting-critical-langflow-vulnerability/",
+      "summary": "Tracked as CVE-2026-0768, the security defect allows unauthenticated attackers to execute arbitrary Python code remotely. The post Hackers Start Exploiting Critical Langflow Vulnerability appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 12:07:54 +0000",
+      "value_score": 50,
+      "value_signals": [
+        "CVE mentioned",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Five Venezuelans Plead Guilty in US Court to ATM Jackpotting",
+      "link": "https://www.securityweek.com/five-venezuelans-plead-guilty-in-us-court-to-atm-jackpotting/",
+      "summary": "The defendants unsuccessfully attempted to physically install malware on ATMs to force them to dispense cash. The post Five Venezuelans Plead Guilty in US Court to ATM Jackpotting appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 11:24:25 +0000",
       "value_score": 10,
       "value_signals": []
+    },
+    {
+      "source": "Security Week",
+      "title": "Ransomware Gang Claims Nutex Health Data Breach",
+      "link": "https://www.securityweek.com/ransomware-gang-claims-nutex-health-data-breach/",
+      "summary": "The company has notified the SEC that hackers accessed patient, employee, provider, business, and financial information. The post Ransomware Gang Claims Nutex Health Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 10:47:47 +0000",
+      "value_score": 70,
+      "value_signals": [
+        "Ransomware ×2",
+        "Breach/leak ×2"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild",
+      "link": "https://www.securityweek.com/critical-jfrog-artifactory-vulnerability-reportedly-exploited-in-the-wild/",
+      "summary": "Exploitation of the authentication bypass vulnerability CVE-2026-82329 started just days after its public disclosure. The post Critical JFrog Artifactory Vulnerability Reportedly Exploited in the Wild appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 09:59:44 +0000",
+      "value_score": 100,
+      "value_signals": [
+        "CVE mentioned",
+        "Active exploitation ×2",
+        "Auth bypass",
+        "High severity ×2",
+        "Exploit wording"
+      ]
+    },
+    {
+      "source": "Security Week",
+      "title": "9.5 Million Impacted by Aesto Health Data Breach",
+      "link": "https://www.securityweek.com/9-5-million-impacted-by-aesto-health-data-breach/",
+      "summary": "Hackers stole personal and health information from the healthcare technology company’s AWS infrastructure. The post 9.5 Million Impacted by Aesto Health Data Breach appeared first on SecurityWeek .",
+      "published": "Tue, 01 Sep 2026 09:09:34 +0000",
+      "value_score": 34,
+      "value_signals": [
+        "Breach/leak ×2"
+      ]
     },
     {
       "source": "Security Week",
@@ -404,69 +473,6 @@
         "CISA/KEV ×2",
         "Multiple CVEs",
         "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit",
-      "link": "https://www.securityweek.com/nightmare-eclipse-drops-hardbreacher-kaspersky-product-exploit/",
-      "summary": "Kaspersky told SecurityWeek that it patched the vulnerability affecting its Endpoint Security product. The post Nightmare Eclipse Drops ‘HardBreacher’ Kaspersky Product Exploit appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 14:32:34 +0000",
-      "value_score": 16,
-      "value_signals": [
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "ServiceNow Patches 3 Critical Code Injection Vulnerabilities",
-      "link": "https://www.securityweek.com/servicenow-patches-3-critical-code-injection-vulnerabilities/",
-      "summary": "Attackers could exploit the security defects to execute arbitrary code and access or tamper with data. The post ServiceNow Patches 3 Critical Code Injection Vulnerabilities appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 13:59:19 +0000",
-      "value_score": 32,
-      "value_signals": [
-        "High severity ×2",
-        "Exploit wording"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "McKesson Confirms Data Breach as Attacker Deadline Looms",
-      "link": "https://www.securityweek.com/mckesson-confirms-data-breach-as-attacker-deadline-looms/",
-      "summary": "The ShinyHunters extortion group has claimed the theft of 284 million records from the company’s systems. The post McKesson Confirms Data Breach as Attacker Deadline Looms appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 13:14:46 +0000",
-      "value_score": 34,
-      "value_signals": [
-        "Breach/leak ×2"
-      ]
-    },
-    {
-      "source": "Security Week",
-      "title": "What the Hugging Face Incident Teaches Security Leaders About AI Agent Access",
-      "link": "https://www.securityweek.com/what-the-hugging-face-incident-teaches-security-leaders-about-ai-agent-access/",
-      "summary": "Security teams must treat autonomous agents as highly privileged identities. The post What the Hugging Face Incident Teaches Security Leaders About AI Agent Access appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 12:15:00 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Anthropic Warns Claude Users of Infostealer Malware Infections",
-      "link": "https://www.securityweek.com/anthropic-warns-claude-users-of-infostealer-malware-infections/",
-      "summary": "The AI giant is logging customers out of their accounts and removing payment data to prevent unauthorized Claude usage. The post Anthropic Warns Claude Users of Infostealer Malware Infections appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 12:11:58 +0000",
-      "value_score": 10,
-      "value_signals": []
-    },
-    {
-      "source": "Security Week",
-      "title": "Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/critical-ruby-on-rails-vulnerability-in-attackers-crosshairs/",
-      "summary": "Named KindaRails2Shell, the arbitrary file read flaw allows attackers to extract secrets and execute arbitrary code remotely. The post Critical Ruby on Rails Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-      "published": "Mon, 31 Aug 2026 11:24:17 +0000",
-      "value_score": 26,
-      "value_signals": [
-        "High severity ×2"
       ]
     },
     {

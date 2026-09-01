@@ -8,14 +8,14 @@
 
 | Metric | Value |
 |--------|-------|
-| 🕐 Last Updated | 2026-09-01 09:05 UTC |
+| 🕐 Last Updated | 2026-09-01 14:27 UTC |
 | 📰 Articles Analyzed | 48 |
 | 🔑 Keywords Extracted | 20 |
 | 📈 Total Updates | 100 |
 
 ## 🔥 Trending Topics
 
-`execute arbitrary code` • `securing claude code` • `papercut exploitation escalates` • `active intrusions cisa` • `sophisticated multistage attack` • `shinyhunters extortion group` • `twitter whistleblower complaint` • `fake check turned` • `borrow 74 million` • `company s systems`
+`active intrusions cisa` • `sophisticated multistage attack` • `borrow 74 million` • `vulnerability discoveries aided` • `twitter whistleblower complaint` • `resumed trading activity` • `post experiment porting` • `papercut exploitation escalates` • `need strong controls` • `longest running spree`
 
 ## 📄 Reports
 
